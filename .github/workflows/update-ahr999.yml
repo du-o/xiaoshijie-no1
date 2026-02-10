@@ -1,0 +1,43 @@
+name: Daily AHR999 Update
+
+on:
+  schedule:
+    # 每天北京时间8:00和19:00运行 (UTC 0:00和11:00)
+    - cron: '0 0 * * *'
+    - cron: '0 11 * * *'
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+        
+    - name: Update AHR999 Data
+      run: |
+        node scripts/update-data.js
+        
+    - name: Check for changes
+      id: check_changes
+      run: |
+        if git diff --quiet public/data/ahr999.json; then
+          echo "changed=false" >> $GITHUB_OUTPUT
+        else
+          echo "changed=true" >> $GITHUB_OUTPUT
+        fi
+        
+    - name: Commit and push if changed
+      if: steps.check_changes.outputs.changed == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add public/data/ahr999.json
+        git commit -m "chore: update ahr999 data [$(date +%Y-%m-%d)]"
+        git push
