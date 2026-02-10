@@ -1,6 +1,6 @@
 import { CryptoPrice, AHR999Index, ApiResponse } from "@/types/crypto";
 
-const COINGECKO_API = "https://api.coingecko.com/api/v3";
+const COINGECKO_API = "https://coingecko-proxy.zdhu89.workers.dev";
 
 /**
  * 获取加密货币价格数据
