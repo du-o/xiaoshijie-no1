@@ -187,7 +187,7 @@ export function getNewsSources(): { id: string; name: string; icon: string }[] {
     { id: 'openai', name: 'OpenAI', icon: '🤖' },
     { id: 'arxiv', name: 'arXiv', icon: '📄' },
     { id: 'qbitai', name: '量子位', icon: '⚛️' },
-    { id: '机器之心', name: '机器之心', icon: '🇨🇳' },
+    { id: '机器之心', name: '机器之心', icon: '🧠' },
   ];
 }
 

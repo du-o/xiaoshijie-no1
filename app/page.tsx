@@ -18,7 +18,7 @@ export default function Home() {
             小世界 <span className="text-gradient">AI News</span>
           </h1>
           <p className="text-lg text-gray-400 max-w-2xl mx-auto">
-            汇聚全球 AI 领域最新动态 · OpenAI · arXiv · 机器之心 · AINOW
+            OpenClaw多Agent并行搭建的资讯聚合平台·汇聚全球AI领域最新动态
           </p>
           <div className="mt-4 flex items-center justify-center gap-2 text-sm text-gray-500">
             <span className="w-2 h-2 rounded-full bg-green-500 animate-pulse"></span>
@@ -66,7 +66,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="border-t border-white/10 py-6 px-4">
         <div className="max-w-6xl mx-auto text-center text-sm text-gray-500">
-          <p>数据来源：OpenAI News · arXiv CS.AI · 机器之心 · AINOW · GitHub · Moltbook</p>
+          <p>数据来源：OpenAI News · arXiv CS.AI · 机器之心 · 量子位 · GitHub · Moltbook</p>
         </div>
       </footer>
     </main>
