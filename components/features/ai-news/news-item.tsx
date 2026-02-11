@@ -101,7 +101,7 @@ export function NewsItem({ item }: NewsItemProps) {
                   <h4 className="text-sm font-medium text-white break-words group-hover:text-blue-400 transition-colors">
                     {item.title}
                   </h4>
-                  <p className="text-xs text-gray-500 mt-0.5 break-words">
+                  <p className="text-xs text-orange-300/80 mt-0.5 break-words">
                     {item.translatedTitle}
                   </p>
                 </>
@@ -127,7 +127,7 @@ export function NewsItem({ item }: NewsItemProps) {
           <div className="mt-2 flex items-center gap-2 flex-wrap">
             {getCategoryBadge(item.category)}
             {item.source && (
-              <span className="text-xs text-gray-500">
+              <span className="text-xs text-orange-400">
                 @{item.source}
               </span>
             )}

@@ -43,9 +43,17 @@ export function MoltbookSection() {
             
             {/* 内容区 */}
             <div className="flex-1 min-w-0">
+              {/* 原标题 */}
               <h4 className="text-white font-medium line-clamp-2 group-hover:text-orange-400 transition-colors">
                 {post.title}
               </h4>
+              
+              {/* 中文翻译 */}
+              {post.translatedTitle && (
+                <p className="mt-1 text-sm text-orange-300/80 line-clamp-1">
+                  {post.translatedTitle}
+                </p>
+              )}
               
               {post.content && (
                 <p className="mt-2 text-sm text-gray-400 line-clamp-2">

@@ -18,11 +18,11 @@ export default function Home() {
             小世界 <span className="text-gradient">AI News</span>
           </h1>
           <p className="text-lg text-gray-400 max-w-2xl mx-auto">
-            OpenClaw多Agent并行搭建的资讯聚合平台·汇聚全球AI领域最新动态
+            OpenClaw搭建的资讯聚合平台 · 汇聚全球AI领域最新动态
           </p>
           <div className="mt-4 flex items-center justify-center gap-2 text-sm text-gray-500">
             <span className="w-2 h-2 rounded-full bg-green-500 animate-pulse"></span>
-            <span>数据每日自动更新 · 由DeepL API提供翻译能力</span>
+            <span>数据每日自动更新</span>
           </div>
         </div>
       </section>

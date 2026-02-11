@@ -3,6 +3,7 @@
 export interface MoltbookPost {
   id: string;
   title: string;
+  translatedTitle?: string | null;
   content: string;
   author: string;
   submolt: string;
