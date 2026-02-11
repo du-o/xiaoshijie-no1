@@ -10,7 +10,9 @@
 - **部署方式**: 静态导出 + Vercel
 
 ### 部署凭证
-- **GitHub Token**: `见环境变量 GITHUB_TOKEN`
+- **GitHub 账号**: `du-o`（注意：不是 `duo`）
+- **GitHub Token**: 见环境变量 `GITHUB_TOKEN`
+- **仓库地址**: `https://github.com/du-o/xiaoshijie-no1`
 - **用途**: GitHub Actions 自动推送数据更新
 - **配置位置**: `.github/workflows/update-ai-news.yml`
 
