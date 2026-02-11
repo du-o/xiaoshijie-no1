@@ -34,6 +34,7 @@ export interface AINewsData {
 export interface AINewsItem {
   id: string;
   title: string;
+  translatedTitle?: string;  // 翻译后的中文标题
   summary: string;
   url: string;
   source: string;

@@ -22,7 +22,7 @@ export default function Home() {
           </p>
           <div className="mt-4 flex items-center justify-center gap-2 text-sm text-gray-500">
             <span className="w-2 h-2 rounded-full bg-green-500 animate-pulse"></span>
-            <span>数据每日自动更新</span>
+            <span>数据每日自动更新 · 由DeepL API提供翻译能力</span>
           </div>
         </div>
       </section>

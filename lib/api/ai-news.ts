@@ -4,6 +4,11 @@ import { ApiResponse } from "@/types/crypto";
 // 更新检查间隔（1小时）
 const UPDATE_INTERVAL_MS = 60 * 60 * 1000;
 
+// 翻译缓存
+let translationsCache: Record<string, string> = {};
+let translationsCacheTime = 0;
+const TRANSLATIONS_CACHE_TTL = 5 * 60 * 1000; // 5分钟缓存
+
 /**
  * 元数据类型
  */
@@ -27,6 +32,47 @@ export interface AINewsUpdateStatus {
   nextUpdateInFormatted: string;
   totalArticles: number;
   sources: AINewsMeta['sources'];
+}
+
+/**
+ * 获取翻译缓存
+ */
+async function fetchTranslations(): Promise<Record<string, string>> {
+  // 检查内存缓存
+  const now = Date.now();
+  if (translationsCache && Object.keys(translationsCache).length > 0 && (now - translationsCacheTime) < TRANSLATIONS_CACHE_TTL) {
+    return translationsCache;
+  }
+
+  try {
+    const response = await fetch('/data/ai-news/translations.json', {
+      cache: 'no-cache',
+    });
+
+    if (!response.ok) {
+      return {};
+    }
+
+    const data = await response.json();
+    translationsCache = data.translations || {};
+    translationsCacheTime = now;
+    return translationsCache;
+  } catch (error) {
+    console.warn('获取翻译缓存失败:', error);
+    return {};
+  }
+}
+
+/**
+ * 生成翻译键
+ */
+function generateTranslationKey(source: string, title: string): string {
+  const simplified = title
+    .toLowerCase()
+    .replace(/[^\w\s-]/g, '')
+    .replace(/\s+/g, '-')
+    .slice(0, 50);
+  return `${source}-${simplified}`;
 }
 
 /**
@@ -99,9 +145,10 @@ async function fetchSourceData(
 ): Promise<ApiResponse<AINewsItem[]>> {
   try {
     const fileName = getSourceFileName(source);
-    const response = await fetch(`/data/ai-news/${fileName}`, {
-      cache: 'no-cache',
-    });
+    const [response, translations] = await Promise.all([
+      fetch(`/data/ai-news/${fileName}`, { cache: 'no-cache' }),
+      fetchTranslations(),
+    ]);
     
     if (!response.ok) {
       throw new Error(`获取 ${source} 新闻失败: ${response.status}`);
@@ -113,15 +160,22 @@ async function fetchSourceData(
     // 限制条数
     articles = articles.slice(0, maxItems);
     
-    const newsItems: AINewsItem[] = articles.map((article: any, index: number) => ({
-      id: `${source}-${index}`,
-      title: article.title,
-      summary: truncateSummary(article.summary || '', 200),
-      url: article.url,
-      source: data.source || source,
-      category: article.category,
-      publishedAt: article.date,
-    }));
+    const newsItems: AINewsItem[] = articles.map((article: any, index: number) => {
+      const title = article.title;
+      const translationKey = generateTranslationKey(source, title);
+      const translatedTitle = translations[translationKey];
+      
+      return {
+        id: `${source}-${index}`,
+        title: title,
+        translatedTitle: translatedTitle,
+        summary: truncateSummary(article.summary || '', 200),
+        url: article.url,
+        source: data.source || source,
+        category: article.category,
+        publishedAt: article.date,
+      };
+    });
     
     return {
       success: true,

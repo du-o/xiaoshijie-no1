@@ -93,10 +93,24 @@ export function NewsItem({ item }: NewsItemProps) {
       <div className="flex items-start justify-between gap-3">
         <div className="flex-1 min-w-0">
           {/* 标题和时间 */}
-          <div className="flex items-center justify-between gap-2">
-            <h4 className="text-sm font-medium text-white break-words group-hover:text-blue-400 transition-colors">
-              {item.title}
-            </h4>
+          <div className="flex items-start justify-between gap-2">
+            <div className="flex-1 min-w-0">
+              {/* 外文新闻：显示双语（原文+中文） */}
+              {item.translatedTitle ? (
+                <>
+                  <h4 className="text-sm font-medium text-white break-words group-hover:text-blue-400 transition-colors">
+                    {item.title}
+                  </h4>
+                  <p className="text-xs text-gray-500 mt-0.5 break-words">
+                    {item.translatedTitle}
+                  </p>
+                </>
+              ) : (
+                <h4 className="text-sm font-medium text-white break-words group-hover:text-blue-400 transition-colors">
+                  {item.title}
+                </h4>
+              )}
+            </div>
             <span className="text-xs text-gray-500 shrink-0">
               {formatTime(item.publishedAt)}
             </span>

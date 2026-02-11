@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const { execSync } = require('child_process');
+const { translateArticles } = require('./translate');
 
 // 配置
 const DATA_DIR = path.join(__dirname, '..', 'public', 'data', 'ai-news');
@@ -117,6 +118,44 @@ function updateMeta() {
 }
 
 /**
+ * 翻译英文源的标题
+ */
+async function translateSourceTitles() {
+  console.log('\n=== 开始翻译英文源标题 ===');
+  
+  const englishSources = [
+    { name: 'openai', file: 'openai-news-latest.json' },
+    { name: 'arxiv', file: 'arxiv-cs-ai-latest.json' },
+  ];
+
+  for (const source of englishSources) {
+    try {
+      const filePath = path.join(DATA_DIR, source.file);
+      if (!fs.existsSync(filePath)) {
+        console.warn(`文件不存在，跳过: ${source.file}`);
+        continue;
+      }
+
+      const content = fs.readFileSync(filePath, 'utf-8');
+      const data = JSON.parse(content);
+      const articles = data.articles || [];
+
+      if (articles.length === 0) {
+        console.log(`${source.name}: 没有文章需要翻译`);
+        continue;
+      }
+
+      console.log(`\n处理 ${source.name}: ${articles.length} 篇文章`);
+      await translateArticles(articles, source.name);
+    } catch (error) {
+      console.error(`翻译 ${source.name} 失败:`, error.message);
+    }
+  }
+
+  console.log('\n=== 翻译完成 ===');
+}
+
+/**
  * 主函数
  */
 async function main() {
@@ -144,6 +183,9 @@ async function main() {
   if (!pythonSuccess) {
     console.log('注意: RSS 抓取未执行或失败，将仅更新元数据');
   }
+
+  // 翻译英文源标题
+  await translateSourceTitles();
 
   // 更新元数据
   const newMeta = updateMeta();
