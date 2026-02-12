@@ -1,13 +1,75 @@
 {
-  "fetch_time": "2026-02-12T03:49:40.952Z",
-  "total_count": 34,
+  "fetch_time": "2026-02-12T05:24:15.746Z",
+  "total_count": 33,
   "sources_count": 6,
   "errors": null,
   "articles": [
     {
+      "title": "Discovering Differences in Strategic Behavior Between Humans and LLMs",
+      "date": "Thu, 12 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.10324v1 Announce Type: new Abstract: As Large Language Models (LLMs) are increasingly deployed in social and strategic scenarios, it becomes critical to understand where and why their behavior diverges from that of humans. While behavioral game theory (BGT) provides a framework for analyzing behavior, existing models do not fully capture the idiosyncratic behavior of humans or black-box, non-human agents like LLMs. We employ AlphaEvolve, a cutting-edge program discovery tool, to direc",
+      "url": "https://arxiv.org/abs/2602.10324",
+      "category": [
+        "cs.AI",
+        "cs.CL",
+        "cs.CY",
+        "cs.HC"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "LiveMedBench: A Contamination-Free Medical Benchmark for LLMs with Automated Rubric Evaluation",
+      "date": "Thu, 12 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.10367v1 Announce Type: new Abstract: The deployment of Large Language Models (LLMs) in high-stakes clinical settings demands rigorous and reliable evaluation. However, existing medical benchmarks remain static, suffering from two critical limitations: (1) data contamination, where test sets inadvertently leak into training corpora, leading to inflated performance estimates; and (2) temporal misalignment, failing to capture the rapid evolution of medical knowledge. Furthermore, current",
+      "url": "https://arxiv.org/abs/2602.10367",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Found-RL: foundation model-enhanced reinforcement learning for autonomous driving",
+      "date": "Thu, 12 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.10458v1 Announce Type: new Abstract: Reinforcement Learning (RL) has emerged as a dominant paradigm for end-to-end autonomous driving (AD). However, RL suffers from sample inefficiency and a lack of semantic interpretability in complex scenarios. Foundation Models, particularly Vision-Language Models (VLMs), can mitigate this by offering rich, context-aware knowledge, yet their high inference latency hinders deployment in high-frequency RL training loops. To bridge this gap, we presen",
+      "url": "https://arxiv.org/abs/2602.10458",
+      "category": [
+        "cs.AI",
+        "cs.LG"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "MERIT Feedback Elicits Better Bargaining in LLM Negotiators",
+      "date": "Thu, 12 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.10467v1 Announce Type: new Abstract: Bargaining is often regarded as a logical arena rather than an art or a matter of intuition, yet Large Language Models (LLMs) still struggle to navigate it due to limited strategic depth and difficulty adapting to complex human factors. Current benchmarks rarely capture this limitation. To bridge this gap, we present an utility feedback centric framework. Our contributions are: (i) AgoraBench, a new benchmark spanning nine challenging settings (e.g",
+      "url": "https://arxiv.org/abs/2602.10467",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Abstraction Generation for Generalized Planning with Pretrained Large Language Models",
+      "date": "Thu, 12 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.10485v1 Announce Type: new Abstract: Qualitative Numerical Planning (QNP) serves as an important abstraction model for generalized planning (GP), which aims to compute general plans that solve multiple instances at once. Recent works show that large language models (LLMs) can function as generalized planners. This work investigates whether LLMs can serve as QNP abstraction generators for GP problems and how to fix abstractions via automated debugging. We propose a prompt protocol: inp",
+      "url": "https://arxiv.org/abs/2602.10485",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Flow of Spans: Generalizing Language Models to Dynamic Span-Vocabulary via GFlowNets",
+      "date": "Thu, 12 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.10583v1 Announce Type: new Abstract: Standard autoregressive language models generate text token-by-token from a fixed vocabulary, inducing a tree-structured state space when viewing token sampling as an action, which limits flexibility and expressiveness. Recent work introduces dynamic vocabulary by sampling retrieved text spans but overlooks that the same sentence can be composed of spans of varying lengths, lacking explicit modeling of the directed acyclic graph (DAG) state space. ",
+      "url": "https://arxiv.org/abs/2602.10583",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
       "title": "Inside OpenAI’s Agentic Browser, A tlas Ben Goodger and Darin Fisher on building a browser that does the chores—and what that means for the web",
       "url": "https://every.to/podcast/inside-openai-s-agentic-browser-atlas",
-      "date": "2026-02-12T03:47:18.304Z",
+      "date": "2026-02-12T04:02:55.947Z",
       "summary": "",
       "category": "Podcast",
       "source": "Every.to",
@@ -16,7 +78,7 @@
     {
       "title": "Compound E ngineering: The Definitive Guide A comprehensive handbook for the AI-native engineering philosophy",
       "url": "https://every.to/source-code/compound-engineering-the-definitive-guide",
-      "date": "2026-02-12T03:47:18.304Z",
+      "date": "2026-02-12T04:02:55.947Z",
       "summary": "",
       "category": "Source Code",
       "source": "Every.to",
@@ -25,7 +87,7 @@
     {
       "title": "What Is T aste, Really? Understanding and honing taste in the AI age",
       "url": "https://every.to/p/what-is-taste-really",
-      "date": "2026-02-12T03:47:18.304Z",
+      "date": "2026-02-12T04:02:55.947Z",
       "summary": "",
       "category": "Article",
       "source": "Every.to",
@@ -34,7 +96,7 @@
     {
       "title": "GPT 5.3 Codex vs. Opus 4.6: The Great C onvergence We’ve tested both models thoroughly—here’s our head-to-head Vibe Check",
       "url": "https://every.to/vibe-check/codex-vs-opus",
-      "date": "2026-02-12T03:47:18.304Z",
+      "date": "2026-02-12T04:02:55.947Z",
       "summary": "",
       "category": "Vibe Check",
       "source": "Every.to",
@@ -43,7 +105,7 @@
     {
       "title": "Vibe Check: O pus 4.6—The Best Coding Model We’ve Tested (With Some Maddening Habits) It one-shotted a problem other models missed—and brings agentic, parallel work to non-coding tasks",
       "url": "https://every.to/vibe-check/opus-4-6",
-      "date": "2026-02-12T03:47:18.304Z",
+      "date": "2026-02-12T04:02:55.947Z",
       "summary": "",
       "category": "Vibe Check",
       "source": "Every.to",
@@ -52,45 +114,36 @@
     {
       "title": "GPT-5.3 Codex: The 10x Engineer, Now More Fun at Parties The autonomy we wanted is here—but the model still does what you say, not what you mean",
       "url": "https://every.to/vibe-check/gpt-5-3-codex",
-      "date": "2026-02-12T03:47:18.304Z",
+      "date": "2026-02-12T04:02:55.947Z",
       "summary": "",
       "category": "Vibe Check",
       "source": "Every.to",
       "source_name": "every"
     },
     {
-      "title": "Google Ads & Commerce blog",
-      "url": "https://blog.google/products/ads-commerce/",
-      "date": "2026-02-12T03:47:16.750Z",
-      "summary": "",
-      "category": "Products",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Helping kids and teens learn and grow online ============================================ We’re sharing our latest updates designed to support families, kids and teens in the digital world.",
+      "title": "Helping kids and teens learn and grow online We’re sharing our latest updates designed to support families, kids and teens in the digital world.",
       "url": "https://blog.google/innovation-and-ai/technology/safety-security/safer-internet-day-2026-kids-teens/",
-      "date": "2026-02-12T03:47:16.750Z",
+      "date": "2026-02-12T04:02:54.310Z",
       "summary": "",
       "category": "Innovation & AI",
       "source": "Google Blog",
       "source_name": "google-blog"
     },
     {
-      "title": "What to expect in digital advertising and commerce in 2026 ---------------------------------------------------------- Google VP Vidhya Srinivasan shares how Google is reimagining commercial experiences to be fluid, assistive and personal in 2026.",
-      "url": "https://blog.google/products/ads-commerce/digital-advertising-commerce-2026/",
-      "date": "2026-02-12T03:47:16.750Z",
+      "title": "Q4 earnings call: Remarks from our CEO Read CEO Sundar Pichai’s remarks from the Alphabet Q4 2025 earnings call.",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q4-2025/",
+      "date": "2026-02-12T04:02:54.310Z",
       "summary": "",
-      "category": "Products",
+      "category": "Company",
       "source": "Google Blog",
       "source_name": "google-blog"
     },
     {
-      "title": "Q4 earnings call: Remarks from our CEO Read CEO Sundar Pichai’s remarks from the Alphabet Q4 2025 earnings call.",
-      "url": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q4-2025/",
-      "date": "2026-02-12T03:47:16.750Z",
+      "title": "What to expect in digital advertising and commerce in 2026 Google VP Vidhya Srinivasan shares how Google is reimagining commercial experiences to be fluid, assistive and personal in 2026.",
+      "url": "https://blog.google/products/ads-commerce/digital-advertising-commerce-2026/",
+      "date": "2026-02-12T04:02:54.310Z",
       "summary": "",
-      "category": "Company",
+      "category": "Products",
       "source": "Google Blog",
       "source_name": "google-blog"
     },
@@ -232,71 +285,6 @@
       ],
       "source": "量子位",
       "source_name": "qbitai"
-    },
-    {
-      "title": "LLM-FSM: Scaling Large Language Models for Finite-State Reasoning in RTL Code Generation",
-      "date": "Wed, 11 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.07032v1 Announce Type: new Abstract: Finite-state reasoning, the ability to understand and implement state-dependent behavior, is central to hardware design. In this paper, we present LLM-FSM, a benchmark that evaluates how well large language models (LLMs) can recover finite-state machine (FSM) behavior from natural-language specifications and translate it into correct register transfer-level (RTL) implementations. Unlike prior specification-to-RTL benchmarks that rely on manually co",
-      "url": "https://arxiv.org/abs/2602.07032",
-      "category": [
-        "cs.AI",
-        "cs.AR",
-        "cs.CL"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "ST-Raptor: An Agentic System for Semi-Structured Table QA",
-      "date": "Wed, 11 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.07034v1 Announce Type: new Abstract: Semi-structured table question answering (QA) is a challenging task that requires (1) precise extraction of cell contents and positions and (2) accurate recovery of key implicit logical structures, hierarchical relationships, and semantic associations encoded in table layouts. In practice, such tables are often interpreted manually by human experts, which is labor-intensive and time-consuming. However, automating this process remains difficult. Exi",
-      "url": "https://arxiv.org/abs/2602.07034",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "DLLM-Searcher: Adapting Diffusion Large Language Model for Search Agents",
-      "date": "Wed, 11 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.07035v1 Announce Type: new Abstract: Recently, Diffusion Large Language Models (dLLMs) have demonstrated unique efficiency advantages, enabled by their inherently parallel decoding mechanism and flexible generation paradigm. Meanwhile, despite the rapid advancement of Search Agents, their practical deployment is constrained by a fundamental limitation, termed as 1) Latency Challenge: the serial execution of multi-round reasoning, tool calling, and tool response waiting under the ReAct",
-      "url": "https://arxiv.org/abs/2602.07035",
-      "category": [
-        "cs.AI",
-        "cs.LG"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Aster: Autonomous Scientific Discovery over 20x Faster Than Existing Methods",
-      "date": "Wed, 11 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.07040v1 Announce Type: new Abstract: We introduce Aster, an AI agent for autonomous scientific discovery capable of operating over 20 times faster than existing frameworks. Given a task, an initial program, and a script to evaluate the performance of the program, Aster iteratively improves the program, often leading to new state-of-the-art performances. Aster's significant reduction in the number of iterations required for novel discovery expands the domain of tractable problems to in",
-      "url": "https://arxiv.org/abs/2602.07040",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Theory of Space: Can Foundation Models Construct Spatial Beliefs through Active Exploration?",
-      "date": "Wed, 11 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.07055v1 Announce Type: new Abstract: Spatial embodied intelligence requires agents to act to acquire information under partial observability. While multimodal foundation models excel at passive perception, their capacity for active, self-directed exploration remains understudied. We propose Theory of Space, defined as an agent's ability to actively acquire information through self-directed, active exploration and to construct, revise, and exploit a spatial belief from sequential, part",
-      "url": "https://arxiv.org/abs/2602.07055",
-      "category": [
-        "cs.AI",
-        "cs.CL",
-        "cs.LG"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "ANCHOR: Branch-Point Data Generation for GUI Agents",
-      "date": "Wed, 11 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.07153v1 Announce Type: new Abstract: End-to-end GUI agents for real desktop environments require large amounts of high-quality interaction data, yet collecting human demonstrations is expensive and existing synthetic pipelines often suffer from limited task diversity or noisy, goal-drifting trajectories. We present a trajectory expansion framework Anchor that bootstraps scalable desktop supervision from a small set of verified seed demonstrations. Starting from each seed, we identify ",
-      "url": "https://arxiv.org/abs/2602.07153",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
     },
     {
       "title": "Bringing ChatGPT to GenAI.mil",
