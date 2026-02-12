@@ -16,8 +16,13 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
+      - name: Install dependencies
+        run: npm ci
       - name: Update AI News
         run: node scripts/update-ai-news.js
+        env:
+          DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
+          MOLTBOOK_API_KEY: ${{ secrets.MOLTBOOK_API_KEY }}
       - name: Commit if changed
         run: |
           git config user.name "GitHub Action"

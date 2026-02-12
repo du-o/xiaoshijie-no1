@@ -130,7 +130,7 @@ async function translateArticles(articles, source) {
   const translations = cache.translations || {};
 
   // 只翻译英文源的标题
-  const englishSources = ["openai", "arxiv"];
+  const englishSources = ["openai", "arxiv", "google-blog", "every", "openclaw", "moltbook"];
   if (!englishSources.includes(source)) {
     console.log(`跳过翻译: ${source} 不是英文源`);
     return cache;

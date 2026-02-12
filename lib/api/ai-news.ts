@@ -96,12 +96,14 @@ export async function fetchAINews(): Promise<ApiResponse<AINewsItem[]>> {
     // 按源分别获取数据
     const allNewsItems: AINewsItem[] = [];
     
-    // 获取各源数据（统一6条，不区分低频/高频）
+    // 获取各源数据（统一6条）
     const sourcePromises = [
       fetchSourceData('openai', 6),
       fetchSourceData('arxiv', 6),
       fetchSourceData('机器之心', 6),
       fetchSourceData('qbitai', 6),
+      fetchSourceData('google-blog', 6),
+      fetchSourceData('every', 6),
     ];
     
     const results = await Promise.allSettled(sourcePromises);
@@ -228,20 +230,25 @@ function getSourceFileName(source: string): string {
     'arxiv': 'arxiv-cs-ai-latest.json',
     'qbitai': 'qbitai-latest.json',
     '机器之心': '机器之心-latest.json',
+    'google-blog': 'google-blog-latest.json',
+    'every': 'every-latest.json',
   };
   return mapping[source] || 'all-sources-latest.json';
 }
 
 /**
- * 获取所有可用的新闻源
+ * 获取所有可用的新闻源（8个源）
  */
 export function getNewsSources(): { id: string; name: string; icon: string }[] {
   return [
-    { id: 'all', name: '全部', icon: '🔥' },
     { id: 'openai', name: 'OpenAI', icon: '🤖' },
     { id: 'arxiv', name: 'arXiv', icon: '📄' },
     { id: 'qbitai', name: '量子位', icon: '⚛️' },
     { id: '机器之心', name: '机器之心', icon: '🧠' },
+    { id: 'google-blog', name: 'Google Blog', icon: '🔍' },
+    { id: 'every', name: 'Every.to', icon: '📰' },
+    { id: 'openclaw', name: 'OpenClaw', icon: '⚡' },
+    { id: 'moltbook', name: 'Moltbook', icon: '💬' },
   ];
 }
 

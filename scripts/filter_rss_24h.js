@@ -13,8 +13,8 @@ const { XMLParser } = require('fast-xml-parser');
 const DATA_DIR = path.join(__dirname, '..', 'public', 'data', 'ai-news');
 const HOURS_24 = 24 * 60 * 60 * 1000; // 24小时毫秒数
 
-// 数据源配置
-const SOURCES = [
+// RSS 数据源配置（4个）
+const RSS_SOURCES = [
   {
     name: 'openai',
     displayName: 'OpenAI News',
@@ -38,6 +38,20 @@ const SOURCES = [
     displayName: '量子位',
     file: 'qbitai-latest.json',
     url: 'https://www.qbitai.com/feed',
+  },
+];
+
+// HTML 数据源配置（2个）
+const HTML_SOURCES = [
+  {
+    name: 'google-blog',
+    displayName: 'Google Blog',
+    file: 'google-blog-latest.json',
+  },
+  {
+    name: 'every',
+    displayName: 'Every.to',
+    file: 'every-latest.json',
   },
 ];
 
@@ -200,7 +214,7 @@ function parseRSS(xmlData) {
 function stripHtml(html) {
   if (!html) return '';
   return html
-    .replace(/<[^>]+>/g, ' ')
+    .replace(/<[^\u003e]+>/g, ' ')
     .replace(/\s+/g, ' ')
     .trim()
     .substring(0, 500); // 限制长度
@@ -246,9 +260,9 @@ function formatArticle(item, sourceName) {
 }
 
 /**
- * 抓取单个数据源
+ * 抓取单个 RSS 数据源
  */
-async function fetchSource(source) {
+async function fetchRSSSource(source) {
   console.log(`\n[${source.name}] 开始抓取...`);
 
   try {
@@ -317,7 +331,36 @@ function mergeAllSources() {
   const allArticles = [];
   const errors = [];
 
-  for (const source of SOURCES) {
+  // 合并 RSS 源
+  for (const source of RSS_SOURCES) {
+    try {
+      const filePath = path.join(DATA_DIR, source.file);
+      if (!fs.existsSync(filePath)) {
+        errors.push(`${source.name}: 文件不存在`);
+        continue;
+      }
+
+      const data = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+
+      if (data.status === 'error') {
+        errors.push(`${source.name}: ${data.error}`);
+        continue;
+      }
+
+      const articles = (data.articles || []).map((article) => ({
+        ...article,
+        source: source.displayName,
+        source_name: source.name,
+      }));
+
+      allArticles.push(...articles);
+    } catch (error) {
+      errors.push(`${source.name}: ${error.message}`);
+    }
+  }
+
+  // 合并 HTML 源
+  for (const source of HTML_SOURCES) {
     try {
       const filePath = path.join(DATA_DIR, source.file);
       if (!fs.existsSync(filePath)) {
@@ -356,7 +399,7 @@ function mergeAllSources() {
   const output = {
     fetch_time: getNowISO(),
     total_count: allArticles.length,
-    sources_count: SOURCES.length,
+    sources_count: RSS_SOURCES.length + HTML_SOURCES.length,
     errors: errors.length > 0 ? errors : null,
     articles: allArticles,
   };
@@ -394,21 +437,21 @@ async function main() {
     process.exit(1);
   }
 
-  // 抓取所有源
+  // 抓取所有 RSS 源
   const results = [];
-  for (const source of SOURCES) {
-    const result = await fetchSource(source);
+  for (const source of RSS_SOURCES) {
+    const result = await fetchRSSSource(source);
     results.push(result);
   }
 
-  // 合并所有源
+  // 合并所有源（包括 HTML 源）
   mergeAllSources();
 
   // 输出统计
   console.log('\n=== 抓取统计 ===');
   const successCount = results.filter((r) => r.success).length;
   const totalArticles = results.reduce((sum, r) => sum + (r.count || 0), 0);
-  console.log(`成功: ${successCount}/${SOURCES.length}`);
+  console.log(`成功: ${successCount}/${RSS_SOURCES.length}`);
   console.log(`文章总数: ${totalArticles}`);
 
   results.forEach((r) => {
@@ -421,7 +464,7 @@ async function main() {
   console.log(`\n结束时间: ${getNowISO()}`);
 
   // 如果有失败，返回非零退出码
-  if (successCount < SOURCES.length) {
+  if (successCount < RSS_SOURCES.length) {
     process.exit(1);
   }
 }
