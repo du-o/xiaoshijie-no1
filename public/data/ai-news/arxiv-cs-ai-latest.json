@@ -1,150 +1,59 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-02-11T20:19:42.418278",
-  "filter_time": "2026-02-11T22:56:32.929577",
-  "filter_criteria": "Articles from last 24 hours (before 2026-02-11T20:30:00+08:00)",
-  "original_count": 697,
-  "filtered_count": 20,
+  "fetch_time": "2026-02-12T02:11:43.340Z",
   "articles": [
     {
       "title": "LLM-FSM: Scaling Large Language Models for Finite-State Reasoning in RTL Code Generation",
-      "date": "Wed, 11 Feb 2026 00:00:00 -0500",
-      "summary": "arXiv:2602.07032v1 Announce Type: new \nAbstract: Finite-state reasoning, the ability to understand and implement state-dependent behavior, is central to hardware design. In this paper, we present LLM-...",
+      "date": "Wed, 11 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.07032v1 Announce Type: new Abstract: Finite-state reasoning, the ability to understand and implement state-dependent behavior, is central to hardware design. In this paper, we present LLM-FSM, a benchmark that evaluates how well large language models (LLMs) can recover finite-state machine (FSM) behavior from natural-language specifications and translate it into correct register transfer-level (RTL) implementations. Unlike prior specification-to-RTL benchmarks that rely on manually co",
       "url": "https://arxiv.org/abs/2602.07032",
-      "category": "cs.AI"
+      "category": [
+        "cs.AI",
+        "cs.AR",
+        "cs.CL"
+      ]
     },
     {
       "title": "ST-Raptor: An Agentic System for Semi-Structured Table QA",
-      "date": "Wed, 11 Feb 2026 00:00:00 -0500",
-      "summary": "arXiv:2602.07034v1 Announce Type: new \nAbstract: Semi-structured table question answering (QA) is a challenging task that requires (1) precise extraction of cell contents and positions and (2) accurat...",
+      "date": "Wed, 11 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.07034v1 Announce Type: new Abstract: Semi-structured table question answering (QA) is a challenging task that requires (1) precise extraction of cell contents and positions and (2) accurate recovery of key implicit logical structures, hierarchical relationships, and semantic associations encoded in table layouts. In practice, such tables are often interpreted manually by human experts, which is labor-intensive and time-consuming. However, automating this process remains difficult. Exi",
       "url": "https://arxiv.org/abs/2602.07034",
       "category": "cs.AI"
     },
     {
       "title": "DLLM-Searcher: Adapting Diffusion Large Language Model for Search Agents",
-      "date": "Wed, 11 Feb 2026 00:00:00 -0500",
-      "summary": "arXiv:2602.07035v1 Announce Type: new \nAbstract: Recently, Diffusion Large Language Models (dLLMs) have demonstrated unique efficiency advantages, enabled by their inherently parallel decoding mechani...",
+      "date": "Wed, 11 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.07035v1 Announce Type: new Abstract: Recently, Diffusion Large Language Models (dLLMs) have demonstrated unique efficiency advantages, enabled by their inherently parallel decoding mechanism and flexible generation paradigm. Meanwhile, despite the rapid advancement of Search Agents, their practical deployment is constrained by a fundamental limitation, termed as 1) Latency Challenge: the serial execution of multi-round reasoning, tool calling, and tool response waiting under the ReAct",
       "url": "https://arxiv.org/abs/2602.07035",
-      "category": "cs.AI"
+      "category": [
+        "cs.AI",
+        "cs.LG"
+      ]
     },
     {
       "title": "Aster: Autonomous Scientific Discovery over 20x Faster Than Existing Methods",
-      "date": "Wed, 11 Feb 2026 00:00:00 -0500",
-      "summary": "arXiv:2602.07040v1 Announce Type: new \nAbstract: We introduce Aster, an AI agent for autonomous scientific discovery capable of operating over 20 times faster than existing frameworks. Given a task, a...",
+      "date": "Wed, 11 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.07040v1 Announce Type: new Abstract: We introduce Aster, an AI agent for autonomous scientific discovery capable of operating over 20 times faster than existing frameworks. Given a task, an initial program, and a script to evaluate the performance of the program, Aster iteratively improves the program, often leading to new state-of-the-art performances. Aster's significant reduction in the number of iterations required for novel discovery expands the domain of tractable problems to in",
       "url": "https://arxiv.org/abs/2602.07040",
       "category": "cs.AI"
     },
     {
       "title": "Theory of Space: Can Foundation Models Construct Spatial Beliefs through Active Exploration?",
-      "date": "Wed, 11 Feb 2026 00:00:00 -0500",
-      "summary": "arXiv:2602.07055v1 Announce Type: new \nAbstract: Spatial embodied intelligence requires agents to act to acquire information under partial observability. While multimodal foundation models excel at pa...",
+      "date": "Wed, 11 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.07055v1 Announce Type: new Abstract: Spatial embodied intelligence requires agents to act to acquire information under partial observability. While multimodal foundation models excel at passive perception, their capacity for active, self-directed exploration remains understudied. We propose Theory of Space, defined as an agent's ability to actively acquire information through self-directed, active exploration and to construct, revise, and exploit a spatial belief from sequential, part",
       "url": "https://arxiv.org/abs/2602.07055",
-      "category": "cs.AI"
+      "category": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG"
+      ]
     },
     {
       "title": "ANCHOR: Branch-Point Data Generation for GUI Agents",
-      "date": "Wed, 11 Feb 2026 00:00:00 -0500",
-      "summary": "arXiv:2602.07153v1 Announce Type: new \nAbstract: End-to-end GUI agents for real desktop environments require large amounts of high-quality interaction data, yet collecting human demonstrations is expe...",
+      "date": "Wed, 11 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.07153v1 Announce Type: new Abstract: End-to-end GUI agents for real desktop environments require large amounts of high-quality interaction data, yet collecting human demonstrations is expensive and existing synthetic pipelines often suffer from limited task diversity or noisy, goal-drifting trajectories. We present a trajectory expansion framework Anchor that bootstraps scalable desktop supervision from a small set of verified seed demonstrations. Starting from each seed, we identify ",
       "url": "https://arxiv.org/abs/2602.07153",
-      "category": "cs.AI"
-    },
-    {
-      "title": "PreFlect: From Retrospective to Prospective Reflection in Large Language Model Agents",
-      "date": "Wed, 11 Feb 2026 00:00:00 -0500",
-      "summary": "arXiv:2602.07187v1 Announce Type: new \nAbstract: Advanced large language model agents typically adopt self-reflection for improving performance, where agents iteratively analyze past actions to correc...",
-      "url": "https://arxiv.org/abs/2602.07187",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Is there \"Secret Sauce'' in Large Language Model Development?",
-      "date": "Wed, 11 Feb 2026 00:00:00 -0500",
-      "summary": "arXiv:2602.07238v1 Announce Type: new \nAbstract: Do leading LLM developers possess a proprietary ``secret sauce'', or is LLM performance driven by scaling up compute? Using training and benchmark data...",
-      "url": "https://arxiv.org/abs/2602.07238",
-      "category": "cs.AI"
-    },
-    {
-      "title": "From Out-of-Distribution Detection to Hallucination Detection: A Geometric View",
-      "date": "Wed, 11 Feb 2026 00:00:00 -0500",
-      "summary": "arXiv:2602.07253v1 Announce Type: new \nAbstract: Detecting hallucinations in large language models is a critical open problem with significant implications for safety and reliability. While existing h...",
-      "url": "https://arxiv.org/abs/2602.07253",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Incentive-Aware AI Safety via Strategic Resource Allocation: A Stackelberg Security Games Perspective",
-      "date": "Wed, 11 Feb 2026 00:00:00 -0500",
-      "summary": "arXiv:2602.07259v1 Announce Type: new \nAbstract: As AI systems grow more capable and autonomous, ensuring their safety and reliability requires not only model-level alignment but also strategic oversi...",
-      "url": "https://arxiv.org/abs/2602.07259",
-      "category": "cs.AI"
-    },
-    {
-      "title": "BRIDGE: Predicting Human Task Completion Time From Model Performance",
-      "date": "Wed, 11 Feb 2026 00:00:00 -0500",
-      "summary": "arXiv:2602.07267v1 Announce Type: new \nAbstract: Evaluating the real-world capabilities of AI systems requires grounding benchmark performance in human-interpretable measures of task difficulty. Exist...",
-      "url": "https://arxiv.org/abs/2602.07267",
-      "category": "cs.AI"
-    },
-    {
-      "title": "TermiGen: High-Fidelity Environment and Robust Trajectory Synthesis for Terminal Agents",
-      "date": "Wed, 11 Feb 2026 00:00:00 -0500",
-      "summary": "arXiv:2602.07274v1 Announce Type: new \nAbstract: Executing complex terminal tasks remains a significant challenge for open-weight LLMs, constrained by two fundamental limitations. First, high-fidelity...",
-      "url": "https://arxiv.org/abs/2602.07274",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Steer2Adapt: Dynamically Composing Steering Vectors Elicits Efficient Adaptation of LLMs",
-      "date": "Wed, 11 Feb 2026 00:00:00 -0500",
-      "summary": "arXiv:2602.07276v1 Announce Type: new \nAbstract: Activation steering has emerged as a promising approach for efficiently adapting large language models (LLMs) to downstream behaviors. However, most ex...",
-      "url": "https://arxiv.org/abs/2602.07276",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Adaptive Scaffolding for Cognitive Engagement in an Intelligent Tutoring System",
-      "date": "Wed, 11 Feb 2026 00:00:00 -0500",
-      "summary": "arXiv:2602.07308v1 Announce Type: new \nAbstract: The ICAP framework defines four cognitive engagement levels: Passive, Active, Constructive, and Interactive, where increased cognitive engagement can y...",
-      "url": "https://arxiv.org/abs/2602.07308",
-      "category": "cs.AI"
-    },
-    {
-      "title": "RAPiD: Real-time Deterministic Trajectory Planning via Diffusion Behavior Priors for Safe and Efficient Autonomous Driving",
-      "date": "Wed, 11 Feb 2026 00:00:00 -0500",
-      "summary": "arXiv:2602.07339v1 Announce Type: new \nAbstract: Diffusion-based trajectory planners have demonstrated strong capability for modeling the multimodal nature of human driving behavior, but their relianc...",
-      "url": "https://arxiv.org/abs/2602.07339",
-      "category": "cs.AI"
-    },
-    {
-      "title": "SupChain-Bench: Benchmarking Large Language Models for Real-World Supply Chain Management",
-      "date": "Wed, 11 Feb 2026 00:00:00 -0500",
-      "summary": "arXiv:2602.07342v1 Announce Type: new \nAbstract: Large language models (LLMs) have shown promise in complex reasoning and tool-based decision making, motivating their application to real-world supply ...",
-      "url": "https://arxiv.org/abs/2602.07342",
-      "category": "cs.AI"
-    },
-    {
-      "title": "W&D:Scaling Parallel Tool Calling for Efficient Deep Research Agents",
-      "date": "Wed, 11 Feb 2026 00:00:00 -0500",
-      "summary": "arXiv:2602.07359v1 Announce Type: new \nAbstract: Deep research agents have emerged as powerful tools for automating complex intellectual tasks through multi-step reasoning and web-based information se...",
-      "url": "https://arxiv.org/abs/2602.07359",
-      "category": "cs.AI"
-    },
-    {
-      "title": "NAAMSE: Framework for Evolutionary Security Evaluation of Agents",
-      "date": "Wed, 11 Feb 2026 00:00:00 -0500",
-      "summary": "arXiv:2602.07391v1 Announce Type: new \nAbstract: AI agents are increasingly deployed in production, yet their security evaluations remain bottlenecked by manual red-teaming or static benchmarks that f...",
-      "url": "https://arxiv.org/abs/2602.07391",
-      "category": "cs.AI"
-    },
-    {
-      "title": "VGAS: Value-Guided Action-Chunk Selection for Few-Shot Vision-Language-Action Adaptation",
-      "date": "Wed, 11 Feb 2026 00:00:00 -0500",
-      "summary": "arXiv:2602.07399v1 Announce Type: new \nAbstract: Vision--Language--Action (VLA) models bridge multimodal reasoning with physical control, but adapting them to new tasks with scarce demonstrations rema...",
-      "url": "https://arxiv.org/abs/2602.07399",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Progressive Multi-Agent Reasoning for Biological Perturbation Prediction",
-      "date": "Wed, 11 Feb 2026 00:00:00 -0500",
-      "summary": "arXiv:2602.07408v1 Announce Type: new \nAbstract: Predicting gene regulation responses to biological perturbations requires reasoning about underlying biological causalities. While large language model...",
-      "url": "https://arxiv.org/abs/2602.07408",
       "category": "cs.AI"
     }
   ],

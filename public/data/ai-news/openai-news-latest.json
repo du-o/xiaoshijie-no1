@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-02-11T20:19:41.189984",
+  "fetch_time": "2026-02-12T02:11:41.393Z",
   "articles": [
+    {
+      "title": "Harness engineering: leveraging Codex in an agent-first world",
+      "date": "Wed, 11 Feb 2026 09:00:00 GMT",
+      "summary": "By Ryan Lopopolo, Member of the Technical Staff",
+      "url": "https://openai.com/index/harness-engineering",
+      "category": "Engineering"
+    },
     {
       "title": "Bringing ChatGPT to GenAI.mil",
       "date": "Mon, 09 Feb 2026 11:00:00 GMT",
@@ -27,7 +34,7 @@
     {
       "title": "GPT-5 lowers the cost of cell-free protein synthesis",
       "date": "Thu, 05 Feb 2026 11:00:00 GMT",
-      "summary": "An autonomous lab combining OpenAI's GPT-5 with Ginkgo Bioworks' cloud automation cut cell-free protein synthesis costs by 40% through closed-loop experimentation.",
+      "summary": "An autonomous lab combining OpenAI’s GPT-5 with Ginkgo Bioworks’ cloud automation cut cell-free protein synthesis costs by 40% through closed-loop experimentation.",
       "url": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost",
       "category": "Research"
     },
@@ -37,13 +44,6 @@
       "summary": "OpenAI introduces Trusted Access for Cyber, a trust-based framework that expands access to frontier cyber capabilities while strengthening safeguards against misuse.",
       "url": "https://openai.com/index/trusted-access-for-cyber",
       "category": "Security"
-    },
-    {
-      "title": "Introducing OpenAI Frontier",
-      "date": "Thu, 05 Feb 2026 06:00:00 GMT",
-      "summary": "OpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance.",
-      "url": "https://openai.com/index/introducing-openai-frontier",
-      "category": "Product"
     }
   ],
   "status": "success",
