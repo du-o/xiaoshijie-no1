@@ -6,10 +6,8 @@ const { translateArticles } = require('./translate');
 // 配置
 const DATA_DIR = path.join(__dirname, '..', 'public', 'data', 'ai-news');
 const META_FILE = path.join(DATA_DIR, 'meta.json');
-// Python 脚本可能在项目根目录或父目录
-const PYTHON_SCRIPT = fs.existsSync(path.join(__dirname, '..', 'filter_rss_24h.py'))
-  ? path.join(__dirname, '..', 'filter_rss_24h.py')
-  : path.join(__dirname, '..', '..', 'filter_rss_24h.py');
+// RSS 抓取脚本路径（Node.js 版本）
+const RSS_SCRIPT = path.join(__dirname, 'filter_rss_24h.js');
 
 // 数据源配置（移除ainow，添加量子位）
 const SOURCES = [
@@ -65,22 +63,22 @@ function getArticleCount(fileName) {
 }
 
 /**
- * 执行 Python RSS 抓取脚本
+ * 执行 RSS 抓取脚本
  */
-function runPythonScript() {
+function runRSSScript() {
   console.log('正在执行 RSS 抓取脚本...');
   try {
-    // 检查 Python 脚本是否存在
-    if (!fs.existsSync(PYTHON_SCRIPT)) {
-      console.warn(`Python 脚本不存在: ${PYTHON_SCRIPT}`);
+    // 检查脚本是否存在
+    if (!fs.existsSync(RSS_SCRIPT)) {
+      console.warn(`RSS 脚本不存在: ${RSS_SCRIPT}`);
       console.log('跳过 RSS 抓取，仅更新元数据...');
       return false;
     }
 
-    const result = execSync(`python3 "${PYTHON_SCRIPT}"`, {
+    const result = execSync(`node "${RSS_SCRIPT}"`, {
       encoding: 'utf-8',
       timeout: 5 * 60 * 1000, // 5分钟超时
-      cwd: path.dirname(PYTHON_SCRIPT),
+      cwd: path.dirname(RSS_SCRIPT),
     });
     console.log('RSS 抓取完成:', result);
     return true;
@@ -177,10 +175,10 @@ async function main() {
     console.log(`上次更新: ${hoursSinceUpdate.toFixed(1)} 小时前`);
   }
 
-  // 执行 RSS 抓取（如果 Python 脚本存在）
-  const pythonSuccess = runPythonScript();
+  // 执行 RSS 抓取
+  const rssSuccess = runRSSScript();
 
-  if (!pythonSuccess) {
+  if (!rssSuccess) {
     console.log('注意: RSS 抓取未执行或失败，将仅更新元数据');
   }
 
