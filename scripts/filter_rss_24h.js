@@ -207,12 +207,11 @@ function stripHtml(html) {
 }
 
 /**
- * 过滤最近 24 小时的文章
+ * 过滤文章：优先保证6条，展示时间最近的6条
  */
-function filterRecentArticles(items, hours = 24) {
-  const cutoff = new Date(Date.now() - hours * 60 * 60 * 1000);
-
-  return items
+function filterRecentArticles(items, maxCount = 6) {
+  // 解析日期并排序（最新的在前）
+  const sortedItems = items
     .map((item) => {
       const pubDate = parseRSSDate(item.pubDate);
       return {
@@ -220,19 +219,15 @@ function filterRecentArticles(items, hours = 24) {
         parsedDate: pubDate,
       };
     })
-    .filter((item) => {
-      if (!item.parsedDate) {
-        // 如果无法解析日期，默认包含
-        return true;
-      }
-      return item.parsedDate >= cutoff;
-    })
     .sort((a, b) => {
-      // 按日期降序排列
+      // 按日期降序排列（最新的在前）
       if (!a.parsedDate) return 1;
       if (!b.parsedDate) return -1;
       return b.parsedDate - a.parsedDate;
     });
+
+  // 取前 maxCount 条
+  return sortedItems.slice(0, maxCount);
 }
 
 /**
@@ -262,9 +257,9 @@ async function fetchSource(source) {
 
     console.log(`[${source.name}] 获取到 ${feed.items.length} 篇文章`);
 
-    // 过滤最近 24 小时的文章
-    const recentItems = filterRecentArticles(feed.items, 24);
-    console.log(`[${source.name}] 最近 24 小时: ${recentItems.length} 篇`);
+    // 取时间最近的 6 篇文章
+    const recentItems = filterRecentArticles(feed.items, 6);
+    console.log(`[${source.name}] 最近 6 条: ${recentItems.length} 篇`);
 
     // 格式化文章
     const articles = recentItems.map((item) => formatArticle(item, source.name));
@@ -382,7 +377,7 @@ function mergeAllSources() {
 async function main() {
   console.log('=== RSS 抓取脚本 ===');
   console.log(`开始时间: ${getNowISO()}`);
-  console.log(`24小时前: ${get24HoursAgo().toISOString()}`);
+  console.log(`规则: 每个源取时间最近的 6 条新闻`);
 
   // 确保数据目录存在
   if (!fs.existsSync(DATA_DIR)) {
