@@ -240,13 +240,14 @@ function getSourceFileName(source: string): string {
 
 /**
  * 获取所有可用的新闻源（8个源）
+ * 顺序：量子位、机器之心、OpenAI、arXiv、Google Blog、Every.to、OpenClaw、Moltbook
  */
 export function getNewsSources(): { id: string; name: string; icon: string }[] {
   return [
-    { id: 'openai', name: 'OpenAI', icon: '🤖' },
-    { id: 'arxiv', name: 'arXiv', icon: '📄' },
     { id: 'qbitai', name: '量子位', icon: '⚛️' },
     { id: '机器之心', name: '机器之心', icon: '🧠' },
+    { id: 'openai', name: 'OpenAI', icon: '🤖' },
+    { id: 'arxiv', name: 'arXiv', icon: '📄' },
     { id: 'google-blog', name: 'Google Blog', icon: '🔍' },
     { id: 'every', name: 'Every.to', icon: '📰' },
     { id: 'openclaw', name: 'OpenClaw', icon: '⚡' },
