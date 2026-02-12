@@ -232,6 +232,8 @@ function getSourceFileName(source: string): string {
     '机器之心': '机器之心-latest.json',
     'google-blog': 'google-blog-latest.json',
     'every': 'every-latest.json',
+    'openclaw': 'openclaw-latest.json',
+    'moltbook': 'moltbook-latest.json',
   };
   return mapping[source] || 'all-sources-latest.json';
 }

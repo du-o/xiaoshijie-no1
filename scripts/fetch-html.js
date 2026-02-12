@@ -15,8 +15,8 @@ const HTML_SOURCES = [
     name: 'google-blog',
     displayName: 'Google Blog',
     file: 'google-blog-latest.json',
-    url: 'https://blog.google',
-    jinaUrl: 'https://r.jina.ai/http://blog.google.com',
+    url: 'https://blog.google/innovation-and-ai/',
+    jinaUrl: 'https://r.jina.ai/http://blog.google.com', // 使用主站获取更多文章
     parser: 'parseGoogleBlog',
   },
   {
@@ -61,9 +61,12 @@ async function fetchHTML(url) {
 /**
  * 解析 Google Blog 内容
  * 通过 jina.ai 获取 markdown 格式内容
+ * 优先保留 AI 相关文章
  */
 function parseGoogleBlog(html, baseUrl) {
   const articles = [];
+  const aiArticles = []; // AI 相关文章
+  const otherArticles = []; // 其他文章
   
   // 按行分割
   const lines = html.split('\n');
@@ -109,36 +112,68 @@ function parseGoogleBlog(html, baseUrl) {
     // 清理标题
     let cleanTitle = title
       .replace(/^###\s+/, '') // 移除 markdown 标题标记
+      .replace(/\s+={3,}/, '') // 移除 === 分隔符
+      .replace(/\s+-{3,}/, '') // 移除 --- 分隔符
       .replace(/\s+/g, ' ')
       .trim();
     
+    // 跳过栏目首页（以 / 结尾的 URL 通常是栏目页，但要保留具体文章页）
+    const urlParts = url.replace('https://blog.google', '').split('/').filter(Boolean);
+    if (urlParts.length <= 2 && url.endsWith('/')) {
+      continue;
+    }
+    
     // 跳过太短的标题或分类名称
-    if (cleanTitle.length < 15 || 
+    if (cleanTitle.length < 10 || 
         cleanTitle === 'Innovation & AI' ||
         cleanTitle === 'Products & platforms' ||
         cleanTitle === 'Company news' ||
         cleanTitle === 'Safety & Security' ||
         cleanTitle === 'Google DeepMind' ||
-        cleanTitle === 'Google in Asia') {
+        cleanTitle === 'Google in Asia' ||
+        cleanTitle.toLowerCase() === 'blog' ||
+        cleanTitle.toLowerCase().endsWith(' blog') ||
+        cleanTitle.toLowerCase().includes('homepage')) {
       continue;
     }
     
     // 提取分类
     const category = extractCategory(url);
     
-    articles.push({
+    const article = {
       title: cleanTitle,
       url: url,
       date: getNowISO(),
       summary: '',
       category: category,
-    });
+    };
     
-    // 最多取6条
-    if (articles.length >= 6) break;
+    // 判断是否为 AI 相关文章
+    const isAIArticle = url.includes('/innovation-and-ai/') ||
+                       url.includes('/models-and-research/') ||
+                       url.includes('/google-deepmind/') ||
+                       url.includes('/ai/') ||
+                       cleanTitle.toLowerCase().includes('ai') ||
+                       cleanTitle.toLowerCase().includes('gemini') ||
+                       cleanTitle.toLowerCase().includes('deepmind');
+    
+    if (isAIArticle) {
+      aiArticles.push(article);
+    } else {
+      otherArticles.push(article);
+    }
+    
+    // 如果已经有6条AI文章，提前结束
+    if (aiArticles.length >= 6) break;
   }
   
-  return articles;
+  // 优先使用 AI 文章，如果不足6条则补充其他文章
+  articles.push(...aiArticles);
+  if (articles.length < 6) {
+    articles.push(...otherArticles.slice(0, 6 - articles.length));
+  }
+  
+  return articles.slice(0, 6);
 }
 
 /**
