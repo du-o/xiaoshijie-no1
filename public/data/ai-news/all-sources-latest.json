@@ -1,9 +1,205 @@
 {
-  "fetch_time": "2026-02-13T02:48:25.066Z",
-  "total_count": 34,
+  "fetch_time": "2026-02-13T05:20:58.892Z",
+  "total_count": 35,
   "sources_count": 6,
   "errors": null,
   "articles": [
+    {
+      "title": "Explaining AI Without Code: A User Study on Explainable AI",
+      "date": "Fri, 13 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.11159v1 Announce Type: new Abstract: The increasing use of Machine Learning (ML) in sensitive domains such as healthcare, finance, and public policy has raised concerns about the transparency of automated decisions. Explainable AI (XAI) addresses this by clarifying how models generate predictions, yet most methods demand technical expertise, limiting their value for novices. This gap is especially critical in no-code ML platforms, which seek to democratize AI but rarely include explai",
+      "url": "https://arxiv.org/abs/2602.11159",
+      "category": [
+        "cs.AI",
+        "cs.HC",
+        "cs.LG"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Latent Generative Solvers for Generalizable Long-Term Physics Simulation",
+      "date": "Fri, 13 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.11229v1 Announce Type: new Abstract: We study long-horizon surrogate simulation across heterogeneous PDE systems. We introduce Latent Generative Solvers (LGS), a two-stage framework that (i) maps diverse PDE states into a shared latent physics space with a pretrained VAE, and (ii) learns probabilistic latent dynamics with a Transformer trained by flow matching. Our key mechanism is an uncertainty knob that perturbs latent inputs during training and inference, teaching the solver to co",
+      "url": "https://arxiv.org/abs/2602.11229",
+      "category": [
+        "cs.AI",
+        "cs.LG"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "On Decision-Valued Maps and Representational Dependence",
+      "date": "Fri, 13 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.11295v1 Announce Type: new Abstract: A computational engine applied to different representations of the same data can produce different discrete outcomes, with some representations preserving the result and others changing it entirely. A decision-valued map records which representations preserve the outcome and which change it, associating each member of a declared representation family with the discrete result it produces. This paper formalizes decision-valued maps and describes Deci",
+      "url": "https://arxiv.org/abs/2602.11295",
+      "category": [
+        "cs.AI",
+        "cs.DB"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Voxtral Realtime",
+      "date": "Fri, 13 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.11298v1 Announce Type: new Abstract: We introduce Voxtral Realtime, a natively streaming automatic speech recognition model that matches offline transcription quality at sub-second latency. Unlike approaches that adapt offline models through chunking or sliding windows, Voxtral Realtime is trained end-to-end for streaming, with explicit alignment between audio and text streams. Our architecture builds on the Delayed Streams Modeling framework, introducing a new causal audio encoder an",
+      "url": "https://arxiv.org/abs/2602.11298",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "The PBSAI Governance Ecosystem: A Multi-Agent AI Reference Architecture for Securing Enterprise AI Estates",
+      "date": "Fri, 13 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.11301v1 Announce Type: new Abstract: Enterprises are rapidly deploying large language models, retrieval augmented generation pipelines, and tool using agents into production, often on shared high performance computing clusters and cloud accelerator platforms that also support defensive analytics. These systems increasingly function not as isolated models but as AI estates: socio technical systems spanning models, agents, data pipelines, security tooling, human workflows, and hyperscal",
+      "url": "https://arxiv.org/abs/2602.11301",
+      "category": [
+        "cs.AI",
+        "cs.CR"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Dissecting Subjectivity and the \"Ground Truth\" Illusion in Data Annotation",
+      "date": "Fri, 13 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.11318v1 Announce Type: new Abstract: In machine learning, \"ground truth\" refers to the assumed correct labels used to train and evaluate models. However, the foundational \"ground truth\" paradigm rests on a positivistic fallacy that treats human disagreement as technical noise rather than a vital sociotechnical signal. This systematic literature review analyzes research published between 2020 and 2025 across seven premier venues: ACL, AIES, CHI, CSCW, EAAMO, FAccT, and NeurIPS, investi",
+      "url": "https://arxiv.org/abs/2602.11318",
+      "category": [
+        "cs.AI",
+        "cs.CL",
+        "cs.CY"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "一键搞定百万行Excel和PPT排版！这家杭州电力AI初创要给打工人减负",
+      "date": "Fri, 13 Feb 2026 04:00:54 GMT",
+      "summary": "创新OCR奖励机制，海报改字再也不崩了",
+      "url": "https://www.qbitai.com/2026/02/379411.html",
+      "category": [
+        "资讯",
+        "曦谋决策",
+        "本地智能体工作台"
+      ],
+      "source": "量子位",
+      "source_name": "qbitai"
+    },
+    {
+      "title": "1美金时薪雇个全栈替身，MiniMax M2.5让打工人也能体验当老板的感觉",
+      "date": "Fri, 13 Feb 2026 03:16:14 GMT",
+      "summary": "主打智能体和Vibe Coding",
+      "url": "https://www.qbitai.com/2026/02/379344.html",
+      "category": [
+        "资讯",
+        "首页轮播",
+        "MiniMax"
+      ],
+      "source": "量子位",
+      "source_name": "qbitai"
+    },
+    {
+      "title": "How Claude Code Is Transforming F inance—Without Turning You Into a Coder With ChatGPT or Claude, you’re only using a fraction of what LLMs can deliver",
+      "url": "https://every.to/p/how-claude-code-is-transforming-finance-without-turning-you-into-a-coder",
+      "date": "2026-02-13T02:48:59.698Z",
+      "summary": "",
+      "category": "Article",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Inside OpenAI’s Agentic Browser, A tlas Ben Goodger and Darin Fisher on building a browser that does the chores—and what that means for the web",
+      "url": "https://every.to/podcast/inside-openai-s-agentic-browser-atlas",
+      "date": "2026-02-13T02:48:59.698Z",
+      "summary": "",
+      "category": "Podcast",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Compound E ngineering: The Definitive Guide A comprehensive handbook for the AI-native engineering philosophy",
+      "url": "https://every.to/source-code/compound-engineering-the-definitive-guide",
+      "date": "2026-02-13T02:48:59.698Z",
+      "summary": "",
+      "category": "Source Code",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "What Is T aste, Really? Understanding and honing taste in the AI age",
+      "url": "https://every.to/p/what-is-taste-really",
+      "date": "2026-02-13T02:48:59.698Z",
+      "summary": "",
+      "category": "Article",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "GPT-5.3 Codex vs. Opus 4.6: The Great C onvergence We’ve tested both models thoroughly—here’s our head-to-head Vibe Check",
+      "url": "https://every.to/vibe-check/codex-vs-opus",
+      "date": "2026-02-13T02:48:59.698Z",
+      "summary": "",
+      "category": "Vibe Check",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Vibe Check: O pus 4.6—The Best Coding Model We’ve Tested (With Some Maddening Habits) It one-shotted a problem other models missed—and brings agentic, parallel work to non-coding tasks",
+      "url": "https://every.to/vibe-check/opus-4-6",
+      "date": "2026-02-13T02:48:59.698Z",
+      "summary": "",
+      "category": "Vibe Check",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Google Cloud",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/",
+      "date": "2026-02-13T02:48:27.620Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Arts & Culture",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/",
+      "date": "2026-02-13T02:48:27.620Z",
+      "summary": "",
+      "category": "Company",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Gemini models",
+      "url": "https://blog.google/products-and-platforms/products/gemini/",
+      "date": "2026-02-13T02:48:27.619Z",
+      "summary": "",
+      "category": "Products",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Gemini 3 Deep Think: Advancing science, research and engineering We’re releasing a major upgrade to Gemini 3 Deep Think, our specialized reasoning mode.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
+      "date": "2026-02-13T02:48:27.619Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "What to expect in digital advertising and commerce in 2026 Google VP Vidhya Srinivasan shares how Google is reimagining commercial experiences to be fluid, assistive and personal in 2026.",
+      "url": "https://blog.google/products/ads-commerce/digital-advertising-commerce-2026/",
+      "date": "2026-02-13T02:48:27.619Z",
+      "summary": "",
+      "category": "Products",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
     {
       "title": "小米的首代机器人VLA大模型来了！丝滑赛德芙，推理延迟仅80ms丨全面开源",
       "date": "Thu, 12 Feb 2026 12:51:00 GMT",
@@ -19,96 +215,6 @@
       ],
       "source": "量子位",
       "source_name": "qbitai"
-    },
-    {
-      "title": "Inside OpenAI’s Agentic Browser, A tlas Ben Goodger and Darin Fisher on building a browser that does the chores—and what that means for the web",
-      "url": "https://every.to/podcast/inside-openai-s-agentic-browser-atlas",
-      "date": "2026-02-12T12:33:14.461Z",
-      "summary": "",
-      "category": "Podcast",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Compound E ngineering: The Definitive Guide A comprehensive handbook for the AI-native engineering philosophy",
-      "url": "https://every.to/source-code/compound-engineering-the-definitive-guide",
-      "date": "2026-02-12T12:33:14.461Z",
-      "summary": "",
-      "category": "Source Code",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "What Is T aste, Really? Understanding and honing taste in the AI age",
-      "url": "https://every.to/p/what-is-taste-really",
-      "date": "2026-02-12T12:33:14.461Z",
-      "summary": "",
-      "category": "Article",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "GPT 5.3 Codex vs. Opus 4.6: The Great C onvergence We’ve tested both models thoroughly—here’s our head-to-head Vibe Check",
-      "url": "https://every.to/vibe-check/codex-vs-opus",
-      "date": "2026-02-12T12:33:14.461Z",
-      "summary": "",
-      "category": "Vibe Check",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Vibe Check: O pus 4.6—The Best Coding Model We’ve Tested (With Some Maddening Habits) It one-shotted a problem other models missed—and brings agentic, parallel work to non-coding tasks",
-      "url": "https://every.to/vibe-check/opus-4-6",
-      "date": "2026-02-12T12:33:14.461Z",
-      "summary": "",
-      "category": "Vibe Check",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "GPT-5.3 Codex: The 10x Engineer, Now More Fun at Parties The autonomy we wanted is here—but the model still does what you say, not what you mean",
-      "url": "https://every.to/vibe-check/gpt-5-3-codex",
-      "date": "2026-02-12T12:33:14.461Z",
-      "summary": "",
-      "category": "Vibe Check",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Helping kids and teens learn and grow online We’re sharing our latest updates designed to support families, kids and teens in the digital world.",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/safer-internet-day-2026-kids-teens/",
-      "date": "2026-02-12T12:33:07.776Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Q4 earnings call: Remarks from our CEO Read CEO Sundar Pichai’s remarks from the Alphabet Q4 2025 earnings call.",
-      "url": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q4-2025/",
-      "date": "2026-02-12T12:33:07.776Z",
-      "summary": "",
-      "category": "Company",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "What to expect in digital advertising and commerce in 2026 Google VP Vidhya Srinivasan shares how Google is reimagining commercial experiences to be fluid, assistive and personal in 2026.",
-      "url": "https://blog.google/products/ads-commerce/digital-advertising-commerce-2026/",
-      "date": "2026-02-12T12:33:07.776Z",
-      "summary": "",
-      "category": "Products",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Arts & Culture",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/",
-      "date": "2026-02-12T12:33:07.776Z",
-      "summary": "",
-      "category": "Company",
-      "source": "Google Blog",
-      "source_name": "google-blog"
     },
     {
       "title": "具身智能的「GPT时刻」？高德连发两个全面SOTA的ABot具身基座模型",
@@ -176,20 +282,6 @@
       "source_name": "openai"
     },
     {
-      "title": "2026拜年别写对联了，让AI替你写首歌吧",
-      "date": "Thu, 12 Feb 2026 09:49:15 GMT",
-      "summary": "AI把我想的唱给你听",
-      "url": "https://www.qbitai.com/2026/02/378860.html",
-      "category": [
-        "资讯",
-        "AI音乐",
-        "自由量级",
-        "音潮V3.0"
-      ],
-      "source": "量子位",
-      "source_name": "qbitai"
-    },
-    {
       "title": "小红书，再造一个更有「声」命力的社区",
       "date": "Thu, 12 Feb 2026 07:58:21 GMT",
       "summary": "",
@@ -197,15 +289,6 @@
       "category": "",
       "source": "机器之心",
       "source_name": "机器之心"
-    },
-    {
-      "title": "Robotaxi首次开进阿布扎比市中心！文远知行携手Uber再拓商业运营版图",
-      "date": "Thu, 12 Feb 2026 07:45:59 GMT",
-      "summary": "",
-      "url": "https://www.qbitai.com/2026/02/378854.html",
-      "category": "资讯",
-      "source": "量子位",
-      "source_name": "qbitai"
     },
     {
       "title": "DeepAgent与DeepSearch双双霸榜！答案指向openJiuwen这一新兴开源项目",
@@ -233,68 +316,6 @@
       "category": "",
       "source": "机器之心",
       "source_name": "机器之心"
-    },
-    {
-      "title": "Discovering Differences in Strategic Behavior Between Humans and LLMs",
-      "date": "Thu, 12 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.10324v1 Announce Type: new Abstract: As Large Language Models (LLMs) are increasingly deployed in social and strategic scenarios, it becomes critical to understand where and why their behavior diverges from that of humans. While behavioral game theory (BGT) provides a framework for analyzing behavior, existing models do not fully capture the idiosyncratic behavior of humans or black-box, non-human agents like LLMs. We employ AlphaEvolve, a cutting-edge program discovery tool, to direc",
-      "url": "https://arxiv.org/abs/2602.10324",
-      "category": [
-        "cs.AI",
-        "cs.CL",
-        "cs.CY",
-        "cs.HC"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "LiveMedBench: A Contamination-Free Medical Benchmark for LLMs with Automated Rubric Evaluation",
-      "date": "Thu, 12 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.10367v1 Announce Type: new Abstract: The deployment of Large Language Models (LLMs) in high-stakes clinical settings demands rigorous and reliable evaluation. However, existing medical benchmarks remain static, suffering from two critical limitations: (1) data contamination, where test sets inadvertently leak into training corpora, leading to inflated performance estimates; and (2) temporal misalignment, failing to capture the rapid evolution of medical knowledge. Furthermore, current",
-      "url": "https://arxiv.org/abs/2602.10367",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Found-RL: foundation model-enhanced reinforcement learning for autonomous driving",
-      "date": "Thu, 12 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.10458v1 Announce Type: new Abstract: Reinforcement Learning (RL) has emerged as a dominant paradigm for end-to-end autonomous driving (AD). However, RL suffers from sample inefficiency and a lack of semantic interpretability in complex scenarios. Foundation Models, particularly Vision-Language Models (VLMs), can mitigate this by offering rich, context-aware knowledge, yet their high inference latency hinders deployment in high-frequency RL training loops. To bridge this gap, we presen",
-      "url": "https://arxiv.org/abs/2602.10458",
-      "category": [
-        "cs.AI",
-        "cs.LG"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "MERIT Feedback Elicits Better Bargaining in LLM Negotiators",
-      "date": "Thu, 12 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.10467v1 Announce Type: new Abstract: Bargaining is often regarded as a logical arena rather than an art or a matter of intuition, yet Large Language Models (LLMs) still struggle to navigate it due to limited strategic depth and difficulty adapting to complex human factors. Current benchmarks rarely capture this limitation. To bridge this gap, we present an utility feedback centric framework. Our contributions are: (i) AgoraBench, a new benchmark spanning nine challenging settings (e.g",
-      "url": "https://arxiv.org/abs/2602.10467",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Abstraction Generation for Generalized Planning with Pretrained Large Language Models",
-      "date": "Thu, 12 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.10485v1 Announce Type: new Abstract: Qualitative Numerical Planning (QNP) serves as an important abstraction model for generalized planning (GP), which aims to compute general plans that solve multiple instances at once. Recent works show that large language models (LLMs) can function as generalized planners. This work investigates whether LLMs can serve as QNP abstraction generators for GP problems and how to fix abstractions via automated debugging. We propose a prompt protocol: inp",
-      "url": "https://arxiv.org/abs/2602.10485",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Flow of Spans: Generalizing Language Models to Dynamic Span-Vocabulary via GFlowNets",
-      "date": "Thu, 12 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.10583v1 Announce Type: new Abstract: Standard autoregressive language models generate text token-by-token from a fixed vocabulary, inducing a tree-structured state space when viewing token sampling as an action, which limits flexibility and expressiveness. Recent work introduces dynamic vocabulary by sampling retrieved text spans but overlooks that the same sentence can be composed of spans of varying lengths, lacking explicit modeling of the directed acyclic graph (DAG) state space. ",
-      "url": "https://arxiv.org/abs/2602.10583",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
     },
     {
       "title": "Harness engineering: leveraging Codex in an agent-first world",

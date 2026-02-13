@@ -1,57 +1,66 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-02-13T02:48:21.987Z",
+  "fetch_time": "2026-02-13T05:20:55.058Z",
   "articles": [
     {
-      "title": "Discovering Differences in Strategic Behavior Between Humans and LLMs",
-      "date": "Thu, 12 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.10324v1 Announce Type: new Abstract: As Large Language Models (LLMs) are increasingly deployed in social and strategic scenarios, it becomes critical to understand where and why their behavior diverges from that of humans. While behavioral game theory (BGT) provides a framework for analyzing behavior, existing models do not fully capture the idiosyncratic behavior of humans or black-box, non-human agents like LLMs. We employ AlphaEvolve, a cutting-edge program discovery tool, to direc",
-      "url": "https://arxiv.org/abs/2602.10324",
+      "title": "Explaining AI Without Code: A User Study on Explainable AI",
+      "date": "Fri, 13 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.11159v1 Announce Type: new Abstract: The increasing use of Machine Learning (ML) in sensitive domains such as healthcare, finance, and public policy has raised concerns about the transparency of automated decisions. Explainable AI (XAI) addresses this by clarifying how models generate predictions, yet most methods demand technical expertise, limiting their value for novices. This gap is especially critical in no-code ML platforms, which seek to democratize AI but rarely include explai",
+      "url": "https://arxiv.org/abs/2602.11159",
       "category": [
         "cs.AI",
-        "cs.CL",
-        "cs.CY",
-        "cs.HC"
+        "cs.HC",
+        "cs.LG"
       ]
     },
     {
-      "title": "LiveMedBench: A Contamination-Free Medical Benchmark for LLMs with Automated Rubric Evaluation",
-      "date": "Thu, 12 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.10367v1 Announce Type: new Abstract: The deployment of Large Language Models (LLMs) in high-stakes clinical settings demands rigorous and reliable evaluation. However, existing medical benchmarks remain static, suffering from two critical limitations: (1) data contamination, where test sets inadvertently leak into training corpora, leading to inflated performance estimates; and (2) temporal misalignment, failing to capture the rapid evolution of medical knowledge. Furthermore, current",
-      "url": "https://arxiv.org/abs/2602.10367",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Found-RL: foundation model-enhanced reinforcement learning for autonomous driving",
-      "date": "Thu, 12 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.10458v1 Announce Type: new Abstract: Reinforcement Learning (RL) has emerged as a dominant paradigm for end-to-end autonomous driving (AD). However, RL suffers from sample inefficiency and a lack of semantic interpretability in complex scenarios. Foundation Models, particularly Vision-Language Models (VLMs), can mitigate this by offering rich, context-aware knowledge, yet their high inference latency hinders deployment in high-frequency RL training loops. To bridge this gap, we presen",
-      "url": "https://arxiv.org/abs/2602.10458",
+      "title": "Latent Generative Solvers for Generalizable Long-Term Physics Simulation",
+      "date": "Fri, 13 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.11229v1 Announce Type: new Abstract: We study long-horizon surrogate simulation across heterogeneous PDE systems. We introduce Latent Generative Solvers (LGS), a two-stage framework that (i) maps diverse PDE states into a shared latent physics space with a pretrained VAE, and (ii) learns probabilistic latent dynamics with a Transformer trained by flow matching. Our key mechanism is an uncertainty knob that perturbs latent inputs during training and inference, teaching the solver to co",
+      "url": "https://arxiv.org/abs/2602.11229",
       "category": [
         "cs.AI",
         "cs.LG"
       ]
     },
     {
-      "title": "MERIT Feedback Elicits Better Bargaining in LLM Negotiators",
-      "date": "Thu, 12 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.10467v1 Announce Type: new Abstract: Bargaining is often regarded as a logical arena rather than an art or a matter of intuition, yet Large Language Models (LLMs) still struggle to navigate it due to limited strategic depth and difficulty adapting to complex human factors. Current benchmarks rarely capture this limitation. To bridge this gap, we present an utility feedback centric framework. Our contributions are: (i) AgoraBench, a new benchmark spanning nine challenging settings (e.g",
-      "url": "https://arxiv.org/abs/2602.10467",
+      "title": "On Decision-Valued Maps and Representational Dependence",
+      "date": "Fri, 13 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.11295v1 Announce Type: new Abstract: A computational engine applied to different representations of the same data can produce different discrete outcomes, with some representations preserving the result and others changing it entirely. A decision-valued map records which representations preserve the outcome and which change it, associating each member of a declared representation family with the discrete result it produces. This paper formalizes decision-valued maps and describes Deci",
+      "url": "https://arxiv.org/abs/2602.11295",
+      "category": [
+        "cs.AI",
+        "cs.DB"
+      ]
+    },
+    {
+      "title": "Voxtral Realtime",
+      "date": "Fri, 13 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.11298v1 Announce Type: new Abstract: We introduce Voxtral Realtime, a natively streaming automatic speech recognition model that matches offline transcription quality at sub-second latency. Unlike approaches that adapt offline models through chunking or sliding windows, Voxtral Realtime is trained end-to-end for streaming, with explicit alignment between audio and text streams. Our architecture builds on the Delayed Streams Modeling framework, introducing a new causal audio encoder an",
+      "url": "https://arxiv.org/abs/2602.11298",
       "category": "cs.AI"
     },
     {
-      "title": "Abstraction Generation for Generalized Planning with Pretrained Large Language Models",
-      "date": "Thu, 12 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.10485v1 Announce Type: new Abstract: Qualitative Numerical Planning (QNP) serves as an important abstraction model for generalized planning (GP), which aims to compute general plans that solve multiple instances at once. Recent works show that large language models (LLMs) can function as generalized planners. This work investigates whether LLMs can serve as QNP abstraction generators for GP problems and how to fix abstractions via automated debugging. We propose a prompt protocol: inp",
-      "url": "https://arxiv.org/abs/2602.10485",
-      "category": "cs.AI"
+      "title": "The PBSAI Governance Ecosystem: A Multi-Agent AI Reference Architecture for Securing Enterprise AI Estates",
+      "date": "Fri, 13 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.11301v1 Announce Type: new Abstract: Enterprises are rapidly deploying large language models, retrieval augmented generation pipelines, and tool using agents into production, often on shared high performance computing clusters and cloud accelerator platforms that also support defensive analytics. These systems increasingly function not as isolated models but as AI estates: socio technical systems spanning models, agents, data pipelines, security tooling, human workflows, and hyperscal",
+      "url": "https://arxiv.org/abs/2602.11301",
+      "category": [
+        "cs.AI",
+        "cs.CR"
+      ]
     },
     {
-      "title": "Flow of Spans: Generalizing Language Models to Dynamic Span-Vocabulary via GFlowNets",
-      "date": "Thu, 12 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.10583v1 Announce Type: new Abstract: Standard autoregressive language models generate text token-by-token from a fixed vocabulary, inducing a tree-structured state space when viewing token sampling as an action, which limits flexibility and expressiveness. Recent work introduces dynamic vocabulary by sampling retrieved text spans but overlooks that the same sentence can be composed of spans of varying lengths, lacking explicit modeling of the directed acyclic graph (DAG) state space. ",
-      "url": "https://arxiv.org/abs/2602.10583",
-      "category": "cs.AI"
+      "title": "Dissecting Subjectivity and the \"Ground Truth\" Illusion in Data Annotation",
+      "date": "Fri, 13 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.11318v1 Announce Type: new Abstract: In machine learning, \"ground truth\" refers to the assumed correct labels used to train and evaluate models. However, the foundational \"ground truth\" paradigm rests on a positivistic fallacy that treats human disagreement as technical noise rather than a vital sociotechnical signal. This systematic literature review analyzes research published between 2020 and 2025 across seven premier venues: ACL, AIES, CHI, CSCW, EAAMO, FAccT, and NeurIPS, investi",
+      "url": "https://arxiv.org/abs/2602.11318",
+      "category": [
+        "cs.AI",
+        "cs.CL",
+        "cs.CY"
+      ]
     }
   ],
   "status": "success",
