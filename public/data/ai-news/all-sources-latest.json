@@ -1,9 +1,115 @@
 {
-  "fetch_time": "2026-02-12T12:33:05.309Z",
-  "total_count": 33,
+  "fetch_time": "2026-02-13T02:48:25.066Z",
+  "total_count": 34,
   "sources_count": 6,
   "errors": null,
   "articles": [
+    {
+      "title": "小米的首代机器人VLA大模型来了！丝滑赛德芙，推理延迟仅80ms丨全面开源",
+      "date": "Thu, 12 Feb 2026 12:51:00 GMT",
+      "summary": "4090就能跑",
+      "url": "https://www.qbitai.com/2026/02/379326.html",
+      "category": [
+        "资讯",
+        "首页轮播",
+        "VLA模型",
+        "具身智能",
+        "小米",
+        "开源"
+      ],
+      "source": "量子位",
+      "source_name": "qbitai"
+    },
+    {
+      "title": "Inside OpenAI’s Agentic Browser, A tlas Ben Goodger and Darin Fisher on building a browser that does the chores—and what that means for the web",
+      "url": "https://every.to/podcast/inside-openai-s-agentic-browser-atlas",
+      "date": "2026-02-12T12:33:14.461Z",
+      "summary": "",
+      "category": "Podcast",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Compound E ngineering: The Definitive Guide A comprehensive handbook for the AI-native engineering philosophy",
+      "url": "https://every.to/source-code/compound-engineering-the-definitive-guide",
+      "date": "2026-02-12T12:33:14.461Z",
+      "summary": "",
+      "category": "Source Code",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "What Is T aste, Really? Understanding and honing taste in the AI age",
+      "url": "https://every.to/p/what-is-taste-really",
+      "date": "2026-02-12T12:33:14.461Z",
+      "summary": "",
+      "category": "Article",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "GPT 5.3 Codex vs. Opus 4.6: The Great C onvergence We’ve tested both models thoroughly—here’s our head-to-head Vibe Check",
+      "url": "https://every.to/vibe-check/codex-vs-opus",
+      "date": "2026-02-12T12:33:14.461Z",
+      "summary": "",
+      "category": "Vibe Check",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Vibe Check: O pus 4.6—The Best Coding Model We’ve Tested (With Some Maddening Habits) It one-shotted a problem other models missed—and brings agentic, parallel work to non-coding tasks",
+      "url": "https://every.to/vibe-check/opus-4-6",
+      "date": "2026-02-12T12:33:14.461Z",
+      "summary": "",
+      "category": "Vibe Check",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "GPT-5.3 Codex: The 10x Engineer, Now More Fun at Parties The autonomy we wanted is here—but the model still does what you say, not what you mean",
+      "url": "https://every.to/vibe-check/gpt-5-3-codex",
+      "date": "2026-02-12T12:33:14.461Z",
+      "summary": "",
+      "category": "Vibe Check",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Helping kids and teens learn and grow online We’re sharing our latest updates designed to support families, kids and teens in the digital world.",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/safer-internet-day-2026-kids-teens/",
+      "date": "2026-02-12T12:33:07.776Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Q4 earnings call: Remarks from our CEO Read CEO Sundar Pichai’s remarks from the Alphabet Q4 2025 earnings call.",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q4-2025/",
+      "date": "2026-02-12T12:33:07.776Z",
+      "summary": "",
+      "category": "Company",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "What to expect in digital advertising and commerce in 2026 Google VP Vidhya Srinivasan shares how Google is reimagining commercial experiences to be fluid, assistive and personal in 2026.",
+      "url": "https://blog.google/products/ads-commerce/digital-advertising-commerce-2026/",
+      "date": "2026-02-12T12:33:07.776Z",
+      "summary": "",
+      "category": "Products",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Arts & Culture",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/",
+      "date": "2026-02-12T12:33:07.776Z",
+      "summary": "",
+      "category": "Company",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
     {
       "title": "具身智能的「GPT时刻」？高德连发两个全面SOTA的ABot具身基座模型",
       "date": "Thu, 12 Feb 2026 12:28:45 GMT",
@@ -23,6 +129,32 @@
       "source_name": "机器之心"
     },
     {
+      "title": "这个春节P图不求人！小红书开源图像编辑新SOTA",
+      "date": "Thu, 12 Feb 2026 12:12:43 GMT",
+      "summary": "创新OCR奖励机制，海报改字再也不崩了",
+      "url": "https://www.qbitai.com/2026/02/379263.html",
+      "category": [
+        "资讯",
+        "图像编辑模型",
+        "小红书"
+      ],
+      "source": "量子位",
+      "source_name": "qbitai"
+    },
+    {
+      "title": "华为升级行业Agent算法架构！MindScale自己写prompt和工作流，KV Cache减少5.7倍token",
+      "date": "Thu, 12 Feb 2026 11:24:58 GMT",
+      "summary": "破解垂类Agent落地焦虑",
+      "url": "https://www.qbitai.com/2026/02/379256.html",
+      "category": [
+        "资讯",
+        "Agent",
+        "华为"
+      ],
+      "source": "量子位",
+      "source_name": "qbitai"
+    },
+    {
       "title": "荣耀前CEO赵明，被曝加入千里科技",
       "date": "Thu, 12 Feb 2026 10:28:00 GMT",
       "summary": "主导AI商业模式",
@@ -33,6 +165,15 @@
       ],
       "source": "量子位",
       "source_name": "qbitai"
+    },
+    {
+      "title": "Introducing GPT-5.3-Codex-Spark",
+      "date": "Thu, 12 Feb 2026 10:00:00 GMT",
+      "summary": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users.",
+      "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
+      "category": "Product",
+      "source": "OpenAI News",
+      "source_name": "openai"
     },
     {
       "title": "2026拜年别写对联了，让AI替你写首歌吧",
@@ -47,87 +188,6 @@
       ],
       "source": "量子位",
       "source_name": "qbitai"
-    },
-    {
-      "title": "Inside OpenAI’s Agentic Browser, A tlas Ben Goodger and Darin Fisher on building a browser that does the chores—and what that means for the web",
-      "url": "https://every.to/podcast/inside-openai-s-agentic-browser-atlas",
-      "date": "2026-02-12T08:36:41.256Z",
-      "summary": "",
-      "category": "Podcast",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Compound E ngineering: The Definitive Guide A comprehensive handbook for the AI-native engineering philosophy",
-      "url": "https://every.to/source-code/compound-engineering-the-definitive-guide",
-      "date": "2026-02-12T08:36:41.256Z",
-      "summary": "",
-      "category": "Source Code",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "What Is T aste, Really? Understanding and honing taste in the AI age",
-      "url": "https://every.to/p/what-is-taste-really",
-      "date": "2026-02-12T08:36:41.256Z",
-      "summary": "",
-      "category": "Article",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "GPT 5.3 Codex vs. Opus 4.6: The Great C onvergence We’ve tested both models thoroughly—here’s our head-to-head Vibe Check",
-      "url": "https://every.to/vibe-check/codex-vs-opus",
-      "date": "2026-02-12T08:36:41.256Z",
-      "summary": "",
-      "category": "Vibe Check",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Vibe Check: O pus 4.6—The Best Coding Model We’ve Tested (With Some Maddening Habits) It one-shotted a problem other models missed—and brings agentic, parallel work to non-coding tasks",
-      "url": "https://every.to/vibe-check/opus-4-6",
-      "date": "2026-02-12T08:36:41.256Z",
-      "summary": "",
-      "category": "Vibe Check",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "GPT-5.3 Codex: The 10x Engineer, Now More Fun at Parties The autonomy we wanted is here—but the model still does what you say, not what you mean",
-      "url": "https://every.to/vibe-check/gpt-5-3-codex",
-      "date": "2026-02-12T08:36:41.256Z",
-      "summary": "",
-      "category": "Vibe Check",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Helping kids and teens learn and grow online We’re sharing our latest updates designed to support families, kids and teens in the digital world.",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/safer-internet-day-2026-kids-teens/",
-      "date": "2026-02-12T08:36:22.074Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Q4 earnings call: Remarks from our CEO Read CEO Sundar Pichai’s remarks from the Alphabet Q4 2025 earnings call.",
-      "url": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q4-2025/",
-      "date": "2026-02-12T08:36:22.074Z",
-      "summary": "",
-      "category": "Company",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "What to expect in digital advertising and commerce in 2026 Google VP Vidhya Srinivasan shares how Google is reimagining commercial experiences to be fluid, assistive and personal in 2026.",
-      "url": "https://blog.google/products/ads-commerce/digital-advertising-commerce-2026/",
-      "date": "2026-02-12T08:36:22.074Z",
-      "summary": "",
-      "category": "Products",
-      "source": "Google Blog",
-      "source_name": "google-blog"
     },
     {
       "title": "小红书，再造一个更有「声」命力的社区",
@@ -155,18 +215,6 @@
       "category": "",
       "source": "机器之心",
       "source_name": "机器之心"
-    },
-    {
-      "title": "高德发布两款ABot系列基座模型，达成全球首个具身操作和具身导航&#8221;双SOTA&#8221;",
-      "date": "Thu, 12 Feb 2026 07:23:48 GMT",
-      "summary": "",
-      "url": "https://www.qbitai.com/2026/02/378843.html",
-      "category": [
-        "资讯",
-        "高德地图"
-      ],
-      "source": "量子位",
-      "source_name": "qbitai"
     },
     {
       "title": "ICLR 2026 oral | AI代码真能进生产环境？SwingArena：从「写对代码Commit」到「通过CI审查」",
@@ -249,33 +297,6 @@
       "source_name": "arxiv"
     },
     {
-      "title": "神仙打架+1！讯飞星火X2硬核亮相，行业深度全面升级",
-      "date": "Wed, 11 Feb 2026 15:46:31 GMT",
-      "summary": "百万Token免费领",
-      "url": "https://www.qbitai.com/2026/02/378796.html",
-      "category": [
-        "资讯",
-        "首页轮播",
-        "星火大模型",
-        "科大讯飞"
-      ],
-      "source": "量子位",
-      "source_name": "qbitai"
-    },
-    {
-      "title": "2025具身智能创投全景：554亿热钱，4大估值梯队，10亿元现金流门槛｜量子位智库报告",
-      "date": "Wed, 11 Feb 2026 13:34:28 GMT",
-      "summary": "",
-      "url": "https://www.qbitai.com/2026/02/378674.html",
-      "category": [
-        "研究报告",
-        "行业研究",
-        "具身智能"
-      ],
-      "source": "量子位",
-      "source_name": "qbitai"
-    },
-    {
       "title": "Harness engineering: leveraging Codex in an agent-first world",
       "date": "Wed, 11 Feb 2026 09:00:00 GMT",
       "summary": "By Ryan Lopopolo, Member of the Technical Staff",
@@ -285,20 +306,20 @@
       "source_name": "openai"
     },
     {
-      "title": "Bringing ChatGPT to GenAI.mil",
-      "date": "Mon, 09 Feb 2026 11:00:00 GMT",
-      "summary": "OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams.",
-      "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
-      "category": "Global Affairs",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
       "title": "Testing ads in ChatGPT",
       "date": "Mon, 09 Feb 2026 11:00:00 GMT",
       "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
       "url": "https://openai.com/index/testing-ads-in-chatgpt",
       "category": "Company",
+      "source": "OpenAI News",
+      "source_name": "openai"
+    },
+    {
+      "title": "Bringing ChatGPT to GenAI.mil",
+      "date": "Mon, 09 Feb 2026 11:00:00 GMT",
+      "summary": "OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams.",
+      "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
+      "category": "Global Affairs",
       "source": "OpenAI News",
       "source_name": "openai"
     },
@@ -317,15 +338,6 @@
       "summary": "An autonomous lab combining OpenAI’s GPT-5 with Ginkgo Bioworks’ cloud automation cut cell-free protein synthesis costs by 40% through closed-loop experimentation.",
       "url": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost",
       "category": "Research",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
-      "title": "Introducing Trusted Access for Cyber",
-      "date": "Thu, 05 Feb 2026 10:00:00 GMT",
-      "summary": "OpenAI introduces Trusted Access for Cyber, a trust-based framework that expands access to frontier cyber capabilities while strengthening safeguards against misuse.",
-      "url": "https://openai.com/index/trusted-access-for-cyber",
-      "category": "Security",
       "source": "OpenAI News",
       "source_name": "openai"
     }

@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-02-12T12:33:01.007Z",
+  "fetch_time": "2026-02-13T02:48:21.653Z",
   "articles": [
+    {
+      "title": "Introducing GPT-5.3-Codex-Spark",
+      "date": "Thu, 12 Feb 2026 10:00:00 GMT",
+      "summary": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users.",
+      "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
+      "category": "Product"
+    },
     {
       "title": "Harness engineering: leveraging Codex in an agent-first world",
       "date": "Wed, 11 Feb 2026 09:00:00 GMT",
@@ -11,18 +18,18 @@
       "category": "Engineering"
     },
     {
-      "title": "Bringing ChatGPT to GenAI.mil",
-      "date": "Mon, 09 Feb 2026 11:00:00 GMT",
-      "summary": "OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams.",
-      "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
-      "category": "Global Affairs"
-    },
-    {
       "title": "Testing ads in ChatGPT",
       "date": "Mon, 09 Feb 2026 11:00:00 GMT",
       "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
       "url": "https://openai.com/index/testing-ads-in-chatgpt",
       "category": "Company"
+    },
+    {
+      "title": "Bringing ChatGPT to GenAI.mil",
+      "date": "Mon, 09 Feb 2026 11:00:00 GMT",
+      "summary": "OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams.",
+      "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
+      "category": "Global Affairs"
     },
     {
       "title": "Making AI work for everyone, everywhere: our approach to localization",
@@ -37,13 +44,6 @@
       "summary": "An autonomous lab combining OpenAI’s GPT-5 with Ginkgo Bioworks’ cloud automation cut cell-free protein synthesis costs by 40% through closed-loop experimentation.",
       "url": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost",
       "category": "Research"
-    },
-    {
-      "title": "Introducing Trusted Access for Cyber",
-      "date": "Thu, 05 Feb 2026 10:00:00 GMT",
-      "summary": "OpenAI introduces Trusted Access for Cyber, a trust-based framework that expands access to frontier cyber capabilities while strengthening safeguards against misuse.",
-      "url": "https://openai.com/index/trusted-access-for-cyber",
-      "category": "Security"
     }
   ],
   "status": "success",

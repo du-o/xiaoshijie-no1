@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-02-12T12:33:15.809Z",
+  "fetch_time": "2026-02-13T02:49:01.135Z",
   "articles": [
+    {
+      "title": "openclaw 2026.2.12",
+      "date": "2026-02-13T02:18:50Z",
+      "summary": "\n### Changes\n\n- CLI: add `openclaw logs --local-time` to display log timestamps in local timezone. (#13818) Thanks @xialonglee.\n- Telegram: render blockquotes as native `<blockquote>` tags instead of ...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.12",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.2.12",
+      "downloadCount": 308
+    },
     {
       "title": "openclaw 2026.2.9",
       "date": "2026-02-09T19:23:20Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.9",
-      "downloadCount": 44619
+      "downloadCount": 51950
     },
     {
       "title": "openclaw 2026.2.6",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.6",
-      "downloadCount": 27418
+      "downloadCount": 27447
     },
     {
       "title": "openclaw 2026.2.3",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.3",
-      "downloadCount": 43478
+      "downloadCount": 43522
     },
     {
       "title": "openclaw 2026.2.2",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.2",
-      "downloadCount": 23905
+      "downloadCount": 23911
     },
     {
       "title": "openclaw 2026.2.1",
@@ -51,17 +61,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.1",
-      "downloadCount": 34203
-    },
-    {
-      "title": "openclaw 2026.1.30",
-      "date": "2026-01-31T15:22:30Z",
-      "summary": "\n### Changes\n\n- CLI: add `completion` command (Zsh/Bash/PowerShell/Fish) and auto-setup during postinstall/onboarding.\n- CLI: add per-agent `models status` (`--agent` filter). (#4780) Thanks @jlowin.\n...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.1.30",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.1.30",
-      "downloadCount": 46418
+      "downloadCount": 34207
     }
   ],
   "status": "success",
