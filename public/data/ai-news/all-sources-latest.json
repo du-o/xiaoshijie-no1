@@ -1,13 +1,37 @@
 {
-  "fetch_time": "2026-02-14T02:35:01.508Z",
-  "total_count": 36,
+  "fetch_time": "2026-02-14T05:07:55.990Z",
+  "total_count": 30,
   "sources_count": 6,
-  "errors": null,
+  "errors": [
+    "arxiv: Parse error: Unknown RSS format"
+  ],
   "articles": [
+    {
+      "title": "AI在多维度刷新亲吻数纪录！中国团队回答牛顿300年数学之问",
+      "date": "Sat, 14 Feb 2026 04:13:53 GMT",
+      "summary": "",
+      "url": "https://www.jiqizhixin.com/articles/2026-02-14",
+      "category": "",
+      "source": "机器之心",
+      "source_name": "机器之心"
+    },
+    {
+      "title": "万亿思考模型新速度！蚂蚁开源Ring-2.5-1T：IMO金牌水平，强；混合线性架构，快！",
+      "date": "Sat, 14 Feb 2026 03:20:23 GMT",
+      "summary": "擅长数学逻辑推理和长程自主执行",
+      "url": "https://www.qbitai.com/2026/02/380131.html",
+      "category": [
+        "资讯",
+        "首页轮播",
+        "蚂蚁"
+      ],
+      "source": "量子位",
+      "source_name": "qbitai"
+    },
     {
       "title": "How Claude Code Is Transforming F inance—Without Turning You Into a Coder With ChatGPT or Claude, you’re only using a fraction of what LLMs can deliver",
       "url": "https://every.to/p/how-claude-code-is-transforming-finance-without-turning-you-into-a-coder",
-      "date": "2026-02-13T12:28:37.831Z",
+      "date": "2026-02-14T02:35:37.656Z",
       "summary": "",
       "category": "Article",
       "source": "Every.to",
@@ -16,7 +40,7 @@
     {
       "title": "Inside OpenAI’s Agentic Browser, A tlas Ben Goodger and Darin Fisher on building a browser that does the chores—and what that means for the web",
       "url": "https://every.to/podcast/inside-openai-s-agentic-browser-atlas",
-      "date": "2026-02-13T12:28:37.831Z",
+      "date": "2026-02-14T02:35:37.656Z",
       "summary": "",
       "category": "Podcast",
       "source": "Every.to",
@@ -25,7 +49,7 @@
     {
       "title": "Compound E ngineering: The Definitive Guide A comprehensive handbook for the AI-native engineering philosophy",
       "url": "https://every.to/source-code/compound-engineering-the-definitive-guide",
-      "date": "2026-02-13T12:28:37.831Z",
+      "date": "2026-02-14T02:35:37.656Z",
       "summary": "",
       "category": "Source Code",
       "source": "Every.to",
@@ -34,7 +58,7 @@
     {
       "title": "What Is T aste, Really? Understanding and honing taste in the AI age",
       "url": "https://every.to/p/what-is-taste-really",
-      "date": "2026-02-13T12:28:37.831Z",
+      "date": "2026-02-14T02:35:37.656Z",
       "summary": "",
       "category": "Article",
       "source": "Every.to",
@@ -43,7 +67,7 @@
     {
       "title": "GPT-5.3 Codex vs. Opus 4.6: The Great C onvergence We’ve tested both models thoroughly—here’s our head-to-head Vibe Check",
       "url": "https://every.to/vibe-check/codex-vs-opus",
-      "date": "2026-02-13T12:28:37.831Z",
+      "date": "2026-02-14T02:35:37.656Z",
       "summary": "",
       "category": "Vibe Check",
       "source": "Every.to",
@@ -52,7 +76,7 @@
     {
       "title": "Vibe Check: O pus 4.6—The Best Coding Model We’ve Tested (With Some Maddening Habits) It one-shotted a problem other models missed—and brings agentic, parallel work to non-coding tasks",
       "url": "https://every.to/vibe-check/opus-4-6",
-      "date": "2026-02-13T12:28:37.831Z",
+      "date": "2026-02-14T02:35:37.656Z",
       "summary": "",
       "category": "Vibe Check",
       "source": "Every.to",
@@ -61,7 +85,7 @@
     {
       "title": "Gemini models",
       "url": "https://blog.google/products-and-platforms/products/gemini/",
-      "date": "2026-02-13T12:28:31.516Z",
+      "date": "2026-02-14T02:35:05.900Z",
       "summary": "",
       "category": "Products",
       "source": "Google Blog",
@@ -70,7 +94,7 @@
     {
       "title": "Gemini 3 Deep Think: Advancing science, research and engineering We’re releasing a major upgrade to Gemini 3 Deep Think, our specialized reasoning mode.",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
-      "date": "2026-02-13T12:28:31.516Z",
+      "date": "2026-02-14T02:35:05.900Z",
       "summary": "",
       "category": "Innovation & AI",
       "source": "Google Blog",
@@ -79,7 +103,7 @@
     {
       "title": "Google Cloud",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/",
-      "date": "2026-02-13T12:28:31.516Z",
+      "date": "2026-02-14T02:35:05.900Z",
       "summary": "",
       "category": "Innovation & AI",
       "source": "Google Blog",
@@ -88,7 +112,16 @@
     {
       "title": "What to expect in digital advertising and commerce in 2026 Google VP Vidhya Srinivasan shares how Google is reimagining commercial experiences to be fluid, assistive and personal in 2026.",
       "url": "https://blog.google/products/ads-commerce/digital-advertising-commerce-2026/",
-      "date": "2026-02-13T12:28:31.516Z",
+      "date": "2026-02-14T02:35:05.900Z",
+      "summary": "",
+      "category": "Products",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Learning & Education",
+      "url": "https://blog.google/products-and-platforms/products/education/",
+      "date": "2026-02-14T02:35:05.900Z",
       "summary": "",
       "category": "Products",
       "source": "Google Blog",
@@ -97,16 +130,7 @@
     {
       "title": "Entrepreneurs",
       "url": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/",
-      "date": "2026-02-13T12:28:31.516Z",
-      "summary": "",
-      "category": "Company",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Arts & Culture",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/",
-      "date": "2026-02-13T12:28:31.516Z",
+      "date": "2026-02-14T02:35:05.900Z",
       "summary": "",
       "category": "Company",
       "source": "Google Blog",
@@ -219,15 +243,6 @@
       "source_name": "qbitai"
     },
     {
-      "title": "开源多模态推理「破壁」时刻：MMFineReason助力4B逆袭30B",
-      "date": "Fri, 13 Feb 2026 08:20:03 GMT",
-      "summary": "",
-      "url": "https://www.jiqizhixin.com/articles/2026-02-13-6",
-      "category": "",
-      "source": "机器之心",
-      "source_name": "机器之心"
-    },
-    {
       "title": "姚顺宇谷歌首秀，Gemini新模型刷爆SOTA：人类仅剩7人捍卫碳基编程",
       "date": "Fri, 13 Feb 2026 07:13:38 GMT",
       "summary": "",
@@ -263,90 +278,6 @@
       "category": [
         "资讯",
         "蚂蚁"
-      ],
-      "source": "量子位",
-      "source_name": "qbitai"
-    },
-    {
-      "title": "Explaining AI Without Code: A User Study on Explainable AI",
-      "date": "Fri, 13 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.11159v1 Announce Type: new Abstract: The increasing use of Machine Learning (ML) in sensitive domains such as healthcare, finance, and public policy has raised concerns about the transparency of automated decisions. Explainable AI (XAI) addresses this by clarifying how models generate predictions, yet most methods demand technical expertise, limiting their value for novices. This gap is especially critical in no-code ML platforms, which seek to democratize AI but rarely include explai",
-      "url": "https://arxiv.org/abs/2602.11159",
-      "category": [
-        "cs.AI",
-        "cs.HC",
-        "cs.LG"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Latent Generative Solvers for Generalizable Long-Term Physics Simulation",
-      "date": "Fri, 13 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.11229v1 Announce Type: new Abstract: We study long-horizon surrogate simulation across heterogeneous PDE systems. We introduce Latent Generative Solvers (LGS), a two-stage framework that (i) maps diverse PDE states into a shared latent physics space with a pretrained VAE, and (ii) learns probabilistic latent dynamics with a Transformer trained by flow matching. Our key mechanism is an uncertainty knob that perturbs latent inputs during training and inference, teaching the solver to co",
-      "url": "https://arxiv.org/abs/2602.11229",
-      "category": [
-        "cs.AI",
-        "cs.LG"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "On Decision-Valued Maps and Representational Dependence",
-      "date": "Fri, 13 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.11295v1 Announce Type: new Abstract: A computational engine applied to different representations of the same data can produce different discrete outcomes, with some representations preserving the result and others changing it entirely. A decision-valued map records which representations preserve the outcome and which change it, associating each member of a declared representation family with the discrete result it produces. This paper formalizes decision-valued maps and describes Deci",
-      "url": "https://arxiv.org/abs/2602.11295",
-      "category": [
-        "cs.AI",
-        "cs.DB"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Voxtral Realtime",
-      "date": "Fri, 13 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.11298v1 Announce Type: new Abstract: We introduce Voxtral Realtime, a natively streaming automatic speech recognition model that matches offline transcription quality at sub-second latency. Unlike approaches that adapt offline models through chunking or sliding windows, Voxtral Realtime is trained end-to-end for streaming, with explicit alignment between audio and text streams. Our architecture builds on the Delayed Streams Modeling framework, introducing a new causal audio encoder an",
-      "url": "https://arxiv.org/abs/2602.11298",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "The PBSAI Governance Ecosystem: A Multi-Agent AI Reference Architecture for Securing Enterprise AI Estates",
-      "date": "Fri, 13 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.11301v1 Announce Type: new Abstract: Enterprises are rapidly deploying large language models, retrieval augmented generation pipelines, and tool using agents into production, often on shared high performance computing clusters and cloud accelerator platforms that also support defensive analytics. These systems increasingly function not as isolated models but as AI estates: socio technical systems spanning models, agents, data pipelines, security tooling, human workflows, and hyperscal",
-      "url": "https://arxiv.org/abs/2602.11301",
-      "category": [
-        "cs.AI",
-        "cs.CR"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Dissecting Subjectivity and the \"Ground Truth\" Illusion in Data Annotation",
-      "date": "Fri, 13 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.11318v1 Announce Type: new Abstract: In machine learning, \"ground truth\" refers to the assumed correct labels used to train and evaluate models. However, the foundational \"ground truth\" paradigm rests on a positivistic fallacy that treats human disagreement as technical noise rather than a vital sociotechnical signal. This systematic literature review analyzes research published between 2020 and 2025 across seven premier venues: ACL, AIES, CHI, CSCW, EAAMO, FAccT, and NeurIPS, investi",
-      "url": "https://arxiv.org/abs/2602.11318",
-      "category": [
-        "cs.AI",
-        "cs.CL",
-        "cs.CY"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "一键搞定百万行Excel和PPT排版！这家杭州电力AI初创要给打工人减负",
-      "date": "Fri, 13 Feb 2026 04:00:54 GMT",
-      "summary": "创新OCR奖励机制，海报改字再也不崩了",
-      "url": "https://www.qbitai.com/2026/02/379411.html",
-      "category": [
-        "资讯",
-        "曦谋决策",
-        "本地智能体工作台"
       ],
       "source": "量子位",
       "source_name": "qbitai"

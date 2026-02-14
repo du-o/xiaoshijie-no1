@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-02-14T02:35:39.031Z",
+  "fetch_time": "2026-02-14T05:08:31.364Z",
   "articles": [
+    {
+      "title": "openclaw 2026.2.13",
+      "date": "2026-02-14T03:32:02Z",
+      "summary": "\n### Changes\n\n- Discord: send voice messages with waveform previews from local audio files (including silent delivery). (#7253) Thanks @nyanjou.\n- Discord: add configurable presence status/activity/ty...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.13",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.2.13",
+      "downloadCount": 1024
+    },
     {
       "title": "openclaw 2026.2.12",
       "date": "2026-02-13T02:18:50Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.12",
-      "downloadCount": 20045
+      "downloadCount": 20868
     },
     {
       "title": "openclaw 2026.2.9",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.9",
-      "downloadCount": 52229
+      "downloadCount": 52235
     },
     {
       "title": "openclaw 2026.2.6",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.6",
-      "downloadCount": 27474
+      "downloadCount": 27477
     },
     {
       "title": "openclaw 2026.2.3",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.3",
-      "downloadCount": 43612
+      "downloadCount": 43620
     },
     {
       "title": "openclaw 2026.2.2",
@@ -52,16 +62,6 @@
       "author": "steipete",
       "tagName": "v2026.2.2",
       "downloadCount": 23923
-    },
-    {
-      "title": "openclaw 2026.2.1",
-      "date": "2026-02-02T11:54:07Z",
-      "summary": "\n### Changes\n\n- Docs: onboarding/install/i18n/exec-approvals/Control UI/exe.dev/cacheRetention updates + misc nav/typos. (#3050, #3461, #4064, #4675, #4729, #4763, #5003, #5402, #5446, #5474, #5663, #...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.1",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.2.1",
-      "downloadCount": 34218
     }
   ],
   "status": "success",
