@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-02-15T02:49:11.786Z",
+  "fetch_time": "2026-02-15T05:19:06.662Z",
   "articles": [
+    {
+      "title": "openclaw 2026.2.14",
+      "date": "2026-02-15T03:18:52Z",
+      "summary": "### Changes\r\n\r\n- Telegram: add poll sending via `openclaw message poll` (duration seconds, silent delivery, anonymity controls). (#16209) Thanks @robbyczgw-cla.\r\n- Slack/Discord: add `dmPolicy` + `all...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.14",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.2.14",
+      "downloadCount": 1038
+    },
     {
       "title": "openclaw 2026.2.13",
       "date": "2026-02-14T03:32:02Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.13",
-      "downloadCount": 16256
+      "downloadCount": 16957
     },
     {
       "title": "openclaw 2026.2.12",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.12",
-      "downloadCount": 21177
+      "downloadCount": 21193
     },
     {
       "title": "openclaw 2026.2.9",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.9",
-      "downloadCount": 52290
+      "downloadCount": 52294
     },
     {
       "title": "openclaw 2026.2.6",
@@ -51,17 +61,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.3",
-      "downloadCount": 43659
-    },
-    {
-      "title": "openclaw 2026.2.2",
-      "date": "2026-02-04T01:05:25Z",
-      "summary": "\n### Changes\n\n- Feishu: add Feishu/Lark plugin support + docs. (#7313) Thanks @jiulingyun (openclaw-cn).\n- Web UI: add Agents dashboard for managing agent files, tools, skills, models, channels, and c...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.2",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.2.2",
-      "downloadCount": 23929
+      "downloadCount": 43661
     }
   ],
   "status": "success",
