@@ -1,8 +1,60 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-02-16T02:44:10.301Z",
-  "articles": [],
-  "status": "error",
-  "error": "Parse error: Unknown RSS format"
+  "fetch_time": "2026-02-16T05:26:02.672Z",
+  "articles": [
+    {
+      "title": "GT-HarmBench: Benchmarking AI Safety Risks Through the Lens of Game Theory",
+      "date": "Mon, 16 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.12316v1 Announce Type: new Abstract: Frontier AI systems are increasingly capable and deployed in high-stakes multi-agent environments. However, existing AI safety benchmarks largely evaluate single agents, leaving multi-agent risks such as coordination failure and conflict poorly understood. We introduce GT-HarmBench, a benchmark of 2,009 high-stakes scenarios spanning game-theoretic structures such as the Prisoner's Dilemma, Stag Hunt and Chicken. Scenarios are drawn from realistic ",
+      "url": "https://arxiv.org/abs/2602.12316",
+      "category": [
+        "cs.AI",
+        "cs.CL",
+        "cs.CY",
+        "cs.GT",
+        "cs.MA"
+      ]
+    },
+    {
+      "title": "A Theoretical Framework for Adaptive Utility-Weighted Benchmarking",
+      "date": "Mon, 16 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.12356v1 Announce Type: new Abstract: Benchmarking has long served as a foundational practice in machine learning and, increasingly, in modern AI systems such as large language models, where shared tasks, metrics, and leaderboards offer a common basis for measuring progress and comparing approaches. As AI systems are deployed in more varied and consequential settings, though, there is growing value in complementing these established practices with a more holistic conceptualization of w",
+      "url": "https://arxiv.org/abs/2602.12356",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Evolving Beyond Snapshots: Harmonizing Structure and Sequence via Entity State Tuning for Temporal Knowledge Graph Forecasting",
+      "date": "Mon, 16 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.12389v1 Announce Type: new Abstract: Temporal knowledge graph (TKG) forecasting requires predicting future facts by jointly modeling structural dependencies within each snapshot and temporal evolution across snapshots. However, most existing methods are stateless: they recompute entity representations at each timestamp from a limited query window, leading to episodic amnesia and rapid decay of long-term dependencies. To address this limitation, we propose Entity State Tuning (EST), an",
+      "url": "https://arxiv.org/abs/2602.12389",
+      "category": [
+        "cs.AI",
+        "cs.CL"
+      ]
+    },
+    {
+      "title": "Intent-Driven Smart Manufacturing Integrating Knowledge Graphs and Large Language Models",
+      "date": "Mon, 16 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.12419v1 Announce Type: new Abstract: The increasing complexity of smart manufacturing environments demands interfaces that can translate high-level human intents into machine-executable actions. This paper presents a unified framework that integrates instruction-tuned Large Language Models (LLMs) with ontology-aligned Knowledge Graphs (KGs) to enable intent-driven interaction in Manufacturing-as-a-Service (MaaS) ecosystems. We fine-tune Mistral-7B-Instruct-V02 on a domain-specific dat",
+      "url": "https://arxiv.org/abs/2602.12419",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Scaling Web Agent Training through Automatic Data Generation and Fine-grained Evaluation",
+      "date": "Mon, 16 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.12544v1 Announce Type: new Abstract: We present a scalable pipeline for automatically generating high-quality training data for web agents. In particular, a major challenge in identifying high-quality training instances is trajectory evaluation - quantifying how much progress was made towards task completion. We introduce a novel constraint-based evaluation framework that provides fine-grained assessment of progress towards task completion. This enables us to leverage partially succes",
+      "url": "https://arxiv.org/abs/2602.12544",
+      "category": "cs.AI"
+    },
+    {
+      "title": "To Mix or To Merge: Toward Multi-Domain Reinforcement Learning for Large Language Models",
+      "date": "Mon, 16 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.12566v1 Announce Type: new Abstract: Reinforcement Learning with Verifiable Rewards (RLVR) plays a key role in stimulating the explicit reasoning capability of Large Language Models (LLMs). We can achieve expert-level performance in some specific domains via RLVR, such as coding or math. When a general multi-domain expert-level model is required, we need to carefully consider the collaboration of RLVR across different domains. The current state-of-the-art models mainly employ two diff",
+      "url": "https://arxiv.org/abs/2602.12566",
+      "category": "cs.AI"
+    }
+  ],
+  "status": "success",
+  "error": null
 }

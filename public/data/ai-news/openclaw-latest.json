@@ -1,8 +1,28 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-02-16T02:44:50.616Z",
+  "fetch_time": "2026-02-16T05:26:43.545Z",
   "articles": [
+    {
+      "title": "openclaw 2026.2.15",
+      "date": "2026-02-16T04:43:47Z",
+      "summary": "\n### Changes\n\n- Discord: unlock rich interactive agent prompts with Components v2 (buttons, selects, modals, and attachment-backed file blocks) so for native interaction through Discord. Thanks @thewi...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.15",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.2.15",
+      "downloadCount": 289
+    },
+    {
+      "title": "openclaw 2026.2.15-beta.1",
+      "date": "2026-02-16T04:12:20Z",
+      "summary": "\n### Changes\n\n- Discord: unlock rich interactive agent prompts with Components v2 (buttons, selects, modals, and attachment-backed file blocks) so for native interaction through Discord. Thanks @thewi...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.15-beta.1",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.2.15-beta.1",
+      "downloadCount": 6
+    },
     {
       "title": "openclaw 2026.2.14",
       "date": "2026-02-15T03:18:52Z",
@@ -11,7 +31,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.14",
-      "downloadCount": 16092
+      "downloadCount": 17598
     },
     {
       "title": "openclaw 2026.2.13",
@@ -21,7 +41,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.13",
-      "downloadCount": 17212
+      "downloadCount": 17233
     },
     {
       "title": "openclaw 2026.2.12",
@@ -31,7 +51,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.12",
-      "downloadCount": 21278
+      "downloadCount": 21291
     },
     {
       "title": "openclaw 2026.2.9",
@@ -41,27 +61,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.9",
-      "downloadCount": 52339
-    },
-    {
-      "title": "openclaw 2026.2.6",
-      "date": "2026-02-07T02:27:43Z",
-      "summary": "### Changes\r\n\r\n- Models: support Anthropic Opus 4.6 and OpenAI Codex gpt-5.3-codex (forward-compat fallbacks). (#9853, #10720, #9995) Thanks @TinyTb, @calvin-hpnet, @tyler6204.\r\n- Providers: add xAI (...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.6",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.2.6",
-      "downloadCount": 27515
-    },
-    {
-      "title": "openclaw 2026.2.3",
-      "date": "2026-02-05T01:57:22Z",
-      "summary": "### Changes\n\n- Telegram: remove last `@ts-nocheck` from `bot-handlers.ts`, use Grammy types directly, deduplicate `StickerMetadata`. Zero `@ts-nocheck` remaining in `src/telegram/`. (#9206)\n- Telegram...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.3",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.2.3",
-      "downloadCount": 43697
+      "downloadCount": 52344
     }
   ],
   "status": "success",
