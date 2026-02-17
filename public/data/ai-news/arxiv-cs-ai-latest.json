@@ -1,58 +1,61 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-02-17T02:40:46.162Z",
+  "fetch_time": "2026-02-17T05:20:34.160Z",
   "articles": [
     {
-      "title": "GT-HarmBench: Benchmarking AI Safety Risks Through the Lens of Game Theory",
-      "date": "Mon, 16 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.12316v1 Announce Type: new Abstract: Frontier AI systems are increasingly capable and deployed in high-stakes multi-agent environments. However, existing AI safety benchmarks largely evaluate single agents, leaving multi-agent risks such as coordination failure and conflict poorly understood. We introduce GT-HarmBench, a benchmark of 2,009 high-stakes scenarios spanning game-theoretic structures such as the Prisoner's Dilemma, Stag Hunt and Chicken. Scenarios are drawn from realistic ",
-      "url": "https://arxiv.org/abs/2602.12316",
+      "title": "Agentic AI for Commercial Insurance Underwriting with Adversarial Self-Critique",
+      "date": "Tue, 17 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.13213v1 Announce Type: new Abstract: Commercial insurance underwriting is a labor-intensive process that requires manual review of extensive documentation to assess risk and determine policy pricing. While AI offers substantial efficiency improvements, existing solutions lack comprehensive reasoning capabilities and internal mechanisms to ensure reliability within regulated, high-stakes environments. Full automation remains impractical and inadvisable in scenarios where human judgment",
+      "url": "https://arxiv.org/abs/2602.13213",
       "category": [
         "cs.AI",
-        "cs.CL",
-        "cs.CY",
-        "cs.GT",
-        "cs.MA"
+        "cs.HC",
+        "cs.LG"
       ]
     },
     {
-      "title": "A Theoretical Framework for Adaptive Utility-Weighted Benchmarking",
-      "date": "Mon, 16 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.12356v1 Announce Type: new Abstract: Benchmarking has long served as a foundational practice in machine learning and, increasingly, in modern AI systems such as large language models, where shared tasks, metrics, and leaderboards offer a common basis for measuring progress and comparing approaches. As AI systems are deployed in more varied and consequential settings, though, there is growing value in complementing these established practices with a more holistic conceptualization of w",
-      "url": "https://arxiv.org/abs/2602.12356",
+      "title": "BotzoneBench: Scalable LLM Evaluation via Graded AI Anchors",
+      "date": "Tue, 17 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.13214v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly deployed in interactive environments requiring strategic decision-making, yet systematic evaluation of these capabilities remains challenging. Existing benchmarks for LLMs primarily assess static reasoning through isolated tasks and fail to capture dynamic strategic abilities. Recent game-based evaluations employ LLM-vs-LLM tournaments that produce relative rankings dependent on transient model pools, i",
+      "url": "https://arxiv.org/abs/2602.13214",
       "category": "cs.AI"
     },
     {
-      "title": "Evolving Beyond Snapshots: Harmonizing Structure and Sequence via Entity State Tuning for Temporal Knowledge Graph Forecasting",
-      "date": "Mon, 16 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.12389v1 Announce Type: new Abstract: Temporal knowledge graph (TKG) forecasting requires predicting future facts by jointly modeling structural dependencies within each snapshot and temporal evolution across snapshots. However, most existing methods are stateless: they recompute entity representations at each timestamp from a limited query window, leading to episodic amnesia and rapid decay of long-term dependencies. To address this limitation, we propose Entity State Tuning (EST), an",
-      "url": "https://arxiv.org/abs/2602.12389",
+      "title": "When to Think Fast and Slow? AMOR: Entropy-Based Metacognitive Gate for Dynamic SSM-Attention Switching",
+      "date": "Tue, 17 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.13215v1 Announce Type: new Abstract: Transformers allocate uniform computation to every position, regardless of difficulty. State Space Models (SSMs) offer efficient alternatives but struggle with precise information retrieval over a long horizon. Inspired by dual-process theories of cognition (Kahneman, 2011), we propose AMOR (Adaptive Metacognitive Output Router), a hybrid architecture that dynamically engages sparse attention only when an SSM backbone is \"uncertain\"--as measured by",
+      "url": "https://arxiv.org/abs/2602.13215",
+      "category": "cs.AI"
+    },
+    {
+      "title": "VeRA: Verified Reasoning Data Augmentation at Scale",
+      "date": "Tue, 17 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.13217v1 Announce Type: new Abstract: The main issue with most evaluation schemes today is their \"static\" nature: the same problems are reused repeatedly, allowing for memorization, format exploitation, and eventual saturation. To measure genuine AI progress, we need evaluation that is robust by construction, not by post-hoc detection. In response, we propose VeRA (Verified Reasoning Data Augmentation), a framework that converts benchmark problems into executable specifications, compri",
+      "url": "https://arxiv.org/abs/2602.13217",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Scaling the Scaling Logic: Agentic Meta-Synthesis of Logic Reasoning",
+      "date": "Tue, 17 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.13218v1 Announce Type: new Abstract: Scaling verifiable training signals remains a key bottleneck for Reinforcement Learning from Verifiable Rewards (RLVR). Logical reasoning is a natural substrate: constraints are formal and answers are programmatically checkable. However, prior synthesis pipelines either depend on expert-written code or operate within fixed templates/skeletons, which limits growth largely to instance-level perturbations. We propose SSLogic, an agentic meta-synthesis",
+      "url": "https://arxiv.org/abs/2602.13218",
+      "category": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG",
+        "cs.LO"
+      ]
+    },
+    {
+      "title": "A Geometric Taxonomy of Hallucinations in LLMs",
+      "date": "Tue, 17 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.13224v1 Announce Type: new Abstract: The term \"hallucination\" in large language models conflates distinct phenomena with different geometric signatures in embedding space. We propose a taxonomy identifying three types: unfaithfulness (failure to engage with provided context), confabulation (invention of semantically foreign content), and factual error (incorrect claims within correct conceptual frames). We observe a striking asymmetry. On standard benchmarks where hallucinations are L",
+      "url": "https://arxiv.org/abs/2602.13224",
       "category": [
         "cs.AI",
         "cs.CL"
       ]
-    },
-    {
-      "title": "Intent-Driven Smart Manufacturing Integrating Knowledge Graphs and Large Language Models",
-      "date": "Mon, 16 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.12419v1 Announce Type: new Abstract: The increasing complexity of smart manufacturing environments demands interfaces that can translate high-level human intents into machine-executable actions. This paper presents a unified framework that integrates instruction-tuned Large Language Models (LLMs) with ontology-aligned Knowledge Graphs (KGs) to enable intent-driven interaction in Manufacturing-as-a-Service (MaaS) ecosystems. We fine-tune Mistral-7B-Instruct-V02 on a domain-specific dat",
-      "url": "https://arxiv.org/abs/2602.12419",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Scaling Web Agent Training through Automatic Data Generation and Fine-grained Evaluation",
-      "date": "Mon, 16 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.12544v1 Announce Type: new Abstract: We present a scalable pipeline for automatically generating high-quality training data for web agents. In particular, a major challenge in identifying high-quality training instances is trajectory evaluation - quantifying how much progress was made towards task completion. We introduce a novel constraint-based evaluation framework that provides fine-grained assessment of progress towards task completion. This enables us to leverage partially succes",
-      "url": "https://arxiv.org/abs/2602.12544",
-      "category": "cs.AI"
-    },
-    {
-      "title": "To Mix or To Merge: Toward Multi-Domain Reinforcement Learning for Large Language Models",
-      "date": "Mon, 16 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.12566v1 Announce Type: new Abstract: Reinforcement Learning with Verifiable Rewards (RLVR) plays a key role in stimulating the explicit reasoning capability of Large Language Models (LLMs). We can achieve expert-level performance in some specific domains via RLVR, such as coding or math. When a general multi-domain expert-level model is required, we need to carefully consider the collaboration of RLVR across different domains. The current state-of-the-art models mainly employ two diff",
-      "url": "https://arxiv.org/abs/2602.12566",
-      "category": "cs.AI"
     }
   ],
   "status": "success",
