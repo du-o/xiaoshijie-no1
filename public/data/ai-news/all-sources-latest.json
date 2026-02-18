@@ -1,9 +1,149 @@
 {
-  "fetch_time": "2026-02-18T02:43:59.049Z",
-  "total_count": 36,
+  "fetch_time": "2026-02-18T05:22:24.996Z",
+  "total_count": 30,
   "sources_count": 6,
   "errors": null,
   "articles": [
+    {
+      "title": "Attention-gated U-Net model for semantic segmentation of brain tumors and feature extraction for survival prognosis",
+      "date": "Wed, 18 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.15067v1 Announce Type: new Abstract: Gliomas, among the most common primary brain tumors, vary widely in aggressiveness, prognosis, and histology, making treatment challenging due to complex and time-intensive surgical interventions. This study presents an Attention-Gated Recurrent Residual U-Net (R2U-Net) based Triplanar (2.5D) model for improved brain tumor segmentation. The proposed model enhances feature representation and segmentation accuracy by integrating residual, recurrent, ",
+      "url": "https://arxiv.org/abs/2602.15067",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "ResearchGym: Evaluating Language Model Agents on Real-World AI Research",
+      "date": "Wed, 18 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.15112v1 Announce Type: new Abstract: We introduce ResearchGym, a benchmark and execution environment for evaluating AI agents on end-to-end research. To instantiate this, we repurpose five oral and spotlight papers from ICML, ICLR, and ACL. From each paper's repository, we preserve the datasets, evaluation harness, and baseline implementations but withhold the paper's proposed method. This results in five containerized task environments comprising 39 sub-tasks in total. Within each en",
+      "url": "https://arxiv.org/abs/2602.15112",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Protecting Language Models Against Unauthorized Distillation through Trace Rewriting",
+      "date": "Wed, 18 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.15143v1 Announce Type: new Abstract: Knowledge distillation is a widely adopted technique for transferring capabilities from LLMs to smaller, more efficient student models. However, unauthorized use of knowledge distillation takes unfair advantage of the considerable effort and cost put into developing frontier models. We investigate methods for modifying teacher-generated reasoning traces to achieve two objectives that deter unauthorized distillation: (1) \\emph{anti-distillation}, or",
+      "url": "https://arxiv.org/abs/2602.15143",
+      "category": [
+        "cs.AI",
+        "cs.CL"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Panini: Continual Learning in Token Space via Structured Memory",
+      "date": "Wed, 18 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.15156v1 Announce Type: new Abstract: Language models are increasingly used to reason over content they were not trained on, such as new documents, evolving knowledge, and user-specific data. A common approach is retrieval-augmented generation (RAG), which stores verbatim documents externally (as chunks) and retrieves only a relevant subset at inference time for an LLM to reason over. However, this results in inefficient usage of test-time compute (LLM repeatedly reasons over the same ",
+      "url": "https://arxiv.org/abs/2602.15156",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "da Costa and Tarski meet Goguen and Carnap: a novel approach for ontological heterogeneity based on consequence systems",
+      "date": "Wed, 18 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.15158v1 Announce Type: new Abstract: This paper presents a novel approach for ontological heterogeneity that draws heavily from Carnapian-Goguenism, as presented by Kutz, Mossakowski and L\\\"ucke (2010). The approach is provisionally designated da Costian-Tarskianism, named after da Costa's Principle of Tolerance in Mathematics and after Alfred Tarski's work on the concept of a consequence operator. The approach is based on the machinery of consequence systems, as developed by Carniell",
+      "url": "https://arxiv.org/abs/2602.15158",
+      "category": [
+        "cs.AI",
+        "cs.IR",
+        "math.LO"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Mind the (DH) Gap! A Contrast in Risky Choices Between Reasoning and Conversational LLMs",
+      "date": "Wed, 18 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.15173v1 Announce Type: new Abstract: The use of large language models either as decision support systems, or in agentic workflows, is rapidly transforming the digital ecosystem. However, the understanding of LLM decision-making under uncertainty remains limited. We initiate a comparative study of LLM risky choices along two dimensions: (1) prospect representation (explicit vs. experience based) and (2) decision rationale (explanation). Our study, which involves 20 frontier and open LL",
+      "url": "https://arxiv.org/abs/2602.15173",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "春晚揭秘！蔡明的「大孙子们」，背地里竟在干这些",
+      "date": "Wed, 18 Feb 2026 04:20:28 GMT",
+      "summary": "具身智能正在走进消费级",
+      "url": "https://www.qbitai.com/2026/02/380804.html",
+      "category": "资讯",
+      "source": "量子位",
+      "source_name": "qbitai"
+    },
+    {
+      "title": "银河通用把“机器人表演”变成“机器人上岗”，端到端大模型银河星脑有多强",
+      "date": "Wed, 18 Feb 2026 02:54:35 GMT",
+      "summary": "哦豁，今年春晚舞台来了个会干活的机器人",
+      "url": "https://www.qbitai.com/2026/02/380787.html",
+      "category": [
+        "资讯",
+        "首页轮播",
+        "具身智能",
+        "春晚",
+        "端到端大模型",
+        "银河通用"
+      ],
+      "source": "量子位",
+      "source_name": "qbitai"
+    },
+    {
+      "title": "Gemini 3 Deep Think: Advancing science, research and engineering We’re releasing a major upgrade to Gemini 3 Deep Think, our specialized reasoning mode.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
+      "date": "2026-02-18T02:44:02.205Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Developer tools",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/",
+      "date": "2026-02-18T02:44:02.205Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "What to expect in digital advertising and commerce in 2026 Google VP Vidhya Srinivasan shares how Google is reimagining commercial experiences to be fluid, assistive and personal in 2026.",
+      "url": "https://blog.google/products/ads-commerce/digital-advertising-commerce-2026/",
+      "date": "2026-02-18T02:44:02.205Z",
+      "summary": "",
+      "category": "Products",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Creating opportunity",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/",
+      "date": "2026-02-18T02:44:02.205Z",
+      "summary": "",
+      "category": "Company",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Learning & Education",
+      "url": "https://blog.google/products-and-platforms/products/education/",
+      "date": "2026-02-18T02:44:02.205Z",
+      "summary": "",
+      "category": "Products",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Gemini models",
+      "url": "https://blog.google/products-and-platforms/products/gemini/",
+      "date": "2026-02-18T02:44:02.204Z",
+      "summary": "",
+      "category": "Products",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
     {
       "title": "沈腾：春晚谁家机器人？除夕夜就扒拉活来了",
       "date": "Tue, 17 Feb 2026 12:52:38 GMT",
@@ -32,114 +172,6 @@
       "source_name": "机器之心"
     },
     {
-      "title": "AI as F ast as Your Train of Thought Plus: The only guide you need for compound engineering",
-      "url": "https://every.to/context-window/ai-as-fast-as-your-train-of-thought",
-      "date": "2026-02-17T12:31:15.658Z",
-      "summary": "",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "How Claude Code Is Transforming F inance—Without Turning You Into a Coder With ChatGPT or Claude, you’re only using a fraction of what LLMs can deliver",
-      "url": "https://every.to/p/how-claude-code-is-transforming-finance-without-turning-you-into-a-coder",
-      "date": "2026-02-17T12:31:15.658Z",
-      "summary": "",
-      "category": "Article",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Inside OpenAI’s Agentic Browser, A tlas Ben Goodger and Darin Fisher on building a browser that does the chores—and what that means for the web",
-      "url": "https://every.to/podcast/inside-openai-s-agentic-browser-atlas",
-      "date": "2026-02-17T12:31:15.658Z",
-      "summary": "",
-      "category": "Podcast",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Compound E ngineering: The Definitive Guide A comprehensive handbook for the AI-native engineering philosophy",
-      "url": "https://every.to/source-code/compound-engineering-the-definitive-guide",
-      "date": "2026-02-17T12:31:15.658Z",
-      "summary": "",
-      "category": "Source Code",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "What Is T aste, Really? Understanding and honing taste in the AI age",
-      "url": "https://every.to/p/what-is-taste-really",
-      "date": "2026-02-17T12:31:15.658Z",
-      "summary": "",
-      "category": "Article",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "GPT-5.3 Codex vs. Opus 4.6: The Great C onvergence We’ve tested both models thoroughly—here’s our head-to-head Vibe Check",
-      "url": "https://every.to/vibe-check/codex-vs-opus",
-      "date": "2026-02-17T12:31:15.658Z",
-      "summary": "",
-      "category": "Vibe Check",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Gemini models",
-      "url": "https://blog.google/products-and-platforms/products/gemini/",
-      "date": "2026-02-17T12:31:09.872Z",
-      "summary": "",
-      "category": "Products",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Gemini 3 Deep Think: Advancing science, research and engineering We’re releasing a major upgrade to Gemini 3 Deep Think, our specialized reasoning mode.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
-      "date": "2026-02-17T12:31:09.872Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Google Cloud",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/",
-      "date": "2026-02-17T12:31:09.872Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "What to expect in digital advertising and commerce in 2026 Google VP Vidhya Srinivasan shares how Google is reimagining commercial experiences to be fluid, assistive and personal in 2026.",
-      "url": "https://blog.google/products/ads-commerce/digital-advertising-commerce-2026/",
-      "date": "2026-02-17T12:31:09.872Z",
-      "summary": "",
-      "category": "Products",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Learning & Education",
-      "url": "https://blog.google/products-and-platforms/products/education/",
-      "date": "2026-02-17T12:31:09.872Z",
-      "summary": "",
-      "category": "Products",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Entrepreneurs",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/",
-      "date": "2026-02-17T12:31:09.872Z",
-      "summary": "",
-      "category": "Company",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
       "title": "豆包除夕AI互动19亿次，Seedance2.0为春晚提供技术支持",
       "date": "Tue, 17 Feb 2026 10:52:59 GMT",
       "summary": "",
@@ -147,72 +179,6 @@
       "category": "",
       "source": "机器之心",
       "source_name": "机器之心"
-    },
-    {
-      "title": "Agentic AI for Commercial Insurance Underwriting with Adversarial Self-Critique",
-      "date": "Tue, 17 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.13213v1 Announce Type: new Abstract: Commercial insurance underwriting is a labor-intensive process that requires manual review of extensive documentation to assess risk and determine policy pricing. While AI offers substantial efficiency improvements, existing solutions lack comprehensive reasoning capabilities and internal mechanisms to ensure reliability within regulated, high-stakes environments. Full automation remains impractical and inadvisable in scenarios where human judgment",
-      "url": "https://arxiv.org/abs/2602.13213",
-      "category": [
-        "cs.AI",
-        "cs.HC",
-        "cs.LG"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "BotzoneBench: Scalable LLM Evaluation via Graded AI Anchors",
-      "date": "Tue, 17 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.13214v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly deployed in interactive environments requiring strategic decision-making, yet systematic evaluation of these capabilities remains challenging. Existing benchmarks for LLMs primarily assess static reasoning through isolated tasks and fail to capture dynamic strategic abilities. Recent game-based evaluations employ LLM-vs-LLM tournaments that produce relative rankings dependent on transient model pools, i",
-      "url": "https://arxiv.org/abs/2602.13214",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "When to Think Fast and Slow? AMOR: Entropy-Based Metacognitive Gate for Dynamic SSM-Attention Switching",
-      "date": "Tue, 17 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.13215v1 Announce Type: new Abstract: Transformers allocate uniform computation to every position, regardless of difficulty. State Space Models (SSMs) offer efficient alternatives but struggle with precise information retrieval over a long horizon. Inspired by dual-process theories of cognition (Kahneman, 2011), we propose AMOR (Adaptive Metacognitive Output Router), a hybrid architecture that dynamically engages sparse attention only when an SSM backbone is \"uncertain\"--as measured by",
-      "url": "https://arxiv.org/abs/2602.13215",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "VeRA: Verified Reasoning Data Augmentation at Scale",
-      "date": "Tue, 17 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.13217v1 Announce Type: new Abstract: The main issue with most evaluation schemes today is their \"static\" nature: the same problems are reused repeatedly, allowing for memorization, format exploitation, and eventual saturation. To measure genuine AI progress, we need evaluation that is robust by construction, not by post-hoc detection. In response, we propose VeRA (Verified Reasoning Data Augmentation), a framework that converts benchmark problems into executable specifications, compri",
-      "url": "https://arxiv.org/abs/2602.13217",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Scaling the Scaling Logic: Agentic Meta-Synthesis of Logic Reasoning",
-      "date": "Tue, 17 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.13218v1 Announce Type: new Abstract: Scaling verifiable training signals remains a key bottleneck for Reinforcement Learning from Verifiable Rewards (RLVR). Logical reasoning is a natural substrate: constraints are formal and answers are programmatically checkable. However, prior synthesis pipelines either depend on expert-written code or operate within fixed templates/skeletons, which limits growth largely to instance-level perturbations. We propose SSLogic, an agentic meta-synthesis",
-      "url": "https://arxiv.org/abs/2602.13218",
-      "category": [
-        "cs.AI",
-        "cs.CL",
-        "cs.LG",
-        "cs.LO"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "A Geometric Taxonomy of Hallucinations in LLMs",
-      "date": "Tue, 17 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.13224v1 Announce Type: new Abstract: The term \"hallucination\" in large language models conflates distinct phenomena with different geometric signatures in embedding space. We propose a taxonomy identifying three types: unfaithfulness (failure to engage with provided context), confabulation (invention of semantically foreign content), and factual error (incorrect claims within correct conceptual frames). We observe a striking asymmetry. On standard benchmarks where hallucinations are L",
-      "url": "https://arxiv.org/abs/2602.13224",
-      "category": [
-        "cs.AI",
-        "cs.CL"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
     },
     {
       "title": "春晚张杰《驭风歌》背后的马，是Seedance 2.0做的！",
@@ -282,32 +248,6 @@
       "category": [
         "资讯",
         "海淀AI"
-      ],
-      "source": "量子位",
-      "source_name": "qbitai"
-    },
-    {
-      "title": "“产业出题·科技答题” 2026全球开发者先锋大会正式启动",
-      "date": "Sun, 15 Feb 2026 11:56:50 GMT",
-      "summary": "将于3月27日至29日在上海举办",
-      "url": "https://www.qbitai.com/2026/02/380406.html",
-      "category": [
-        "资讯",
-        "先锋大会"
-      ],
-      "source": "量子位",
-      "source_name": "qbitai"
-    },
-    {
-      "title": "捅破具身智能天花板！极佳视界新VLA大模型登场，复杂长时程任务近100%成功率",
-      "date": "Sun, 15 Feb 2026 05:52:39 GMT",
-      "summary": "叠衣服冲咖啡折纸盒样样精通",
-      "url": "https://www.qbitai.com/2026/02/380388.html",
-      "category": [
-        "资讯",
-        "VLA大模型",
-        "人在回路持续学习",
-        "极佳视界"
       ],
       "source": "量子位",
       "source_name": "qbitai"
