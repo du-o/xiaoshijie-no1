@@ -1,15 +1,55 @@
 {
-  "fetch_time": "2026-02-19T08:34:36.100Z",
-  "total_count": 24,
+  "fetch_time": "2026-02-19T12:32:23.337Z",
+  "total_count": 30,
   "sources_count": 6,
-  "errors": [
-    "qbitai: Request timeout"
-  ],
+  "errors": null,
   "articles": [
+    {
+      "title": "OpenAI偷偷改使命：不再「造福人类」，安全都删了",
+      "date": "Thu, 19 Feb 2026 12:30:18 GMT",
+      "summary": "",
+      "url": "https://www.jiqizhixin.com/articles/2026-02-19-2",
+      "category": "",
+      "source": "机器之心",
+      "source_name": "机器之心"
+    },
+    {
+      "title": "Nature 重磅：上海交大人工智能学院×新华医院「梦之队」，如何用 AI 智能体终结罕见病确诊的「百年孤独」？",
+      "date": "Thu, 19 Feb 2026 12:26:58 GMT",
+      "summary": "",
+      "url": "https://www.jiqizhixin.com/articles/2026-02-19",
+      "category": "",
+      "source": "机器之心",
+      "source_name": "机器之心"
+    },
+    {
+      "title": "45亿红包打响AI入口大战，百度给出另一种回应",
+      "date": "Thu, 19 Feb 2026 10:15:41 GMT",
+      "summary": "",
+      "url": "https://www.qbitai.com/2026/02/381435.html",
+      "category": "首页轮播",
+      "source": "量子位",
+      "source_name": "qbitai"
+    },
+    {
+      "title": "从舞台秀到真干活，北京卫视春晚演绎机器人走向日常好用",
+      "date": "Thu, 19 Feb 2026 09:58:37 GMT",
+      "summary": "霍尔曼亮相北京卫视",
+      "url": "https://www.qbitai.com/2026/02/381417.html",
+      "category": [
+        "资讯",
+        "具身智能",
+        "北京卫视",
+        "机器人",
+        "霍尔曼"
+      ],
+      "source": "量子位",
+      "source_name": "qbitai"
+    },
     {
       "title": "Gemini App",
       "url": "https://blog.google/products-and-platforms/products/gemini/",
-      "date": "2026-02-19T05:21:21.784Z",
+      "date": "2026-02-19T08:34:38.701Z",
       "summary": "",
       "category": "Products",
       "source": "Google Blog",
@@ -18,7 +58,7 @@
     {
       "title": "A new way to express yourself: Gemini can now create music Lyria 3 is now available in the Gemini app. Create custom, high-quality 30-second tracks from text and images.",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/",
-      "date": "2026-02-19T05:21:21.784Z",
+      "date": "2026-02-19T08:34:38.701Z",
       "summary": "",
       "category": "Innovation & AI",
       "source": "Google Blog",
@@ -27,7 +67,7 @@
     {
       "title": "Developer tools",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/",
-      "date": "2026-02-19T05:21:21.784Z",
+      "date": "2026-02-19T08:34:38.701Z",
       "summary": "",
       "category": "Innovation & AI",
       "source": "Google Blog",
@@ -36,7 +76,7 @@
     {
       "title": "View the collection",
       "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-collection/",
-      "date": "2026-02-19T05:21:21.784Z",
+      "date": "2026-02-19T08:34:38.701Z",
       "summary": "",
       "category": "Innovation & AI",
       "source": "Google Blog",
@@ -45,7 +85,7 @@
     {
       "title": "How we’re partnering to make AI work for everyone",
       "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/",
-      "date": "2026-02-19T05:21:21.784Z",
+      "date": "2026-02-19T08:34:38.701Z",
       "summary": "",
       "category": "Innovation & AI",
       "source": "Google Blog",
@@ -54,11 +94,20 @@
     {
       "title": "Resilience in the AI era: Google at MSC 2026 At MSC 2026, Google’s Kent Walker urged a full-stack, AI-driven approach to security to counter sophisticated, enterprise-scale threats.",
       "url": "https://blog.google/innovation-and-ai/technology/safety-security/resilience-in-the-ai-era-google-at-msc-2026/",
-      "date": "2026-02-19T05:21:21.784Z",
+      "date": "2026-02-19T08:34:38.701Z",
       "summary": "",
       "category": "Innovation & AI",
       "source": "Google Blog",
       "source_name": "google-blog"
+    },
+    {
+      "title": "太初元碁：40+大模型即发即适配，上线即可用，国产算力高效落地",
+      "date": "Thu, 19 Feb 2026 06:11:38 GMT",
+      "summary": "",
+      "url": "https://www.qbitai.com/2026/02/381415.html",
+      "category": "资讯",
+      "source": "量子位",
+      "source_name": "qbitai"
     },
     {
       "title": "Towards Efficient Constraint Handling in Neural Solvers for Routing Problems",
@@ -125,6 +174,44 @@
       "source_name": "arxiv"
     },
     {
+      "title": "AMD英伟达都投了！李飞飞创业公司官宣10亿新融资",
+      "date": "Thu, 19 Feb 2026 04:49:30 GMT",
+      "summary": "李飞飞开年访谈信息量好大",
+      "url": "https://www.qbitai.com/2026/02/381378.html",
+      "category": [
+        "资讯",
+        "李飞飞"
+      ],
+      "source": "量子位",
+      "source_name": "qbitai"
+    },
+    {
+      "title": "懂人性更懂执行，蚂蚁这个万亿开源模型把情商和Agent战斗力都给拉满了",
+      "date": "Thu, 19 Feb 2026 04:47:47 GMT",
+      "summary": "万亿参数的大块头也能身轻如燕",
+      "url": "https://www.qbitai.com/2026/02/381300.html",
+      "category": [
+        "资讯",
+        "首页轮播",
+        "蚂蚁"
+      ],
+      "source": "量子位",
+      "source_name": "qbitai"
+    },
+    {
+      "title": "春晚之后，AI和机器人为啥都去了一个地方？",
+      "date": "Thu, 19 Feb 2026 04:44:20 GMT",
+      "summary": "有个地方稳稳接住了春晚的流浪（doge）",
+      "url": "https://www.qbitai.com/2026/02/381301.html",
+      "category": [
+        "资讯",
+        "首页轮播",
+        "b站"
+      ],
+      "source": "量子位",
+      "source_name": "qbitai"
+    },
+    {
       "title": "Introducing OpenAI for India",
       "date": "Wed, 18 Feb 2026 21:00:00 GMT",
       "summary": "OpenAI for India expands AI access across the country—building local infrastructure, powering enterprises, and advancing workforce skills.",
@@ -165,24 +252,6 @@
       "date": "Wed, 18 Feb 2026 13:36:25 GMT",
       "summary": "",
       "url": "https://www.jiqizhixin.com/articles/2026-02-18-4",
-      "category": "",
-      "source": "机器之心",
-      "source_name": "机器之心"
-    },
-    {
-      "title": "霸榜SOTA，蚂蚁开源UI-Venus-1.5，GUI智能体办事时代加速到来",
-      "date": "Wed, 18 Feb 2026 13:33:43 GMT",
-      "summary": "",
-      "url": "https://www.jiqizhixin.com/articles/2026-02-18-3",
-      "category": "",
-      "source": "机器之心",
-      "source_name": "机器之心"
-    },
-    {
-      "title": "ICLR 2026 | 阿里高德发布SpatialGenEval，揭秘谁才是真正的文生图大师",
-      "date": "Wed, 18 Feb 2026 13:19:51 GMT",
-      "summary": "",
-      "url": "https://www.jiqizhixin.com/articles/2026-02-18-2",
       "category": "",
       "source": "机器之心",
       "source_name": "机器之心"
