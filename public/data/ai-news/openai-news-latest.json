@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-02-19T12:32:18.959Z",
+  "fetch_time": "2026-02-20T02:37:57.655Z",
   "articles": [
+    {
+      "title": "Advancing independent research on AI alignment",
+      "date": "Thu, 19 Feb 2026 10:00:00 GMT",
+      "summary": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks.",
+      "url": "https://openai.com/index/advancing-independent-research-ai-alignment",
+      "category": "Global Affairs"
+    },
     {
       "title": "Introducing OpenAI for India",
       "date": "Wed, 18 Feb 2026 21:00:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to power continuous access to Sora and Codex.",
       "url": "https://openai.com/index/beyond-rate-limits",
       "category": "Engineering"
-    },
-    {
-      "title": "Introducing GPT-5.3-Codex-Spark",
-      "date": "Thu, 12 Feb 2026 10:00:00 GMT",
-      "summary": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users.",
-      "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
-      "category": "Product"
     }
   ],
   "status": "success",

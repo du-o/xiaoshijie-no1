@@ -1,8 +1,28 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-02-19T12:32:33.148Z",
+  "fetch_time": "2026-02-20T02:38:36.776Z",
   "articles": [
+    {
+      "title": "openclaw 2026.2.19",
+      "date": "2026-02-19T17:35:21Z",
+      "summary": "### Changes\r\n\r\n- iOS/Watch: add an Apple Watch companion MVP with watch inbox UI, watch notification relay handling, and gateway command surfaces for watch status/send flows. (#20054) Thanks @mbelinky...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.19",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.2.19",
+      "downloadCount": 3550
+    },
+    {
+      "title": "openclaw 2026.2.19",
+      "date": "2026-02-19T16:21:06Z",
+      "summary": "### Changes\r\n\r\n- iOS/Watch: add an Apple Watch companion MVP with watch inbox UI, watch notification relay handling, and gateway command surfaces for watch status/send flows. (#20054) Thanks @mbelinky...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.19-beta.1",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.2.19-beta.1",
+      "downloadCount": 104
+    },
     {
       "title": "openclaw 2026.2.17",
       "date": "2026-02-18T02:55:29Z",
@@ -11,7 +31,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.17",
-      "downloadCount": 15140
+      "downloadCount": 17996
     },
     {
       "title": "openclaw 2026.2.15",
@@ -21,7 +41,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.15",
-      "downloadCount": 44380
+      "downloadCount": 49713
     },
     {
       "title": "openclaw 2026.2.15-beta.1",
@@ -31,7 +51,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.15-beta.1",
-      "downloadCount": 149
+      "downloadCount": 163
     },
     {
       "title": "openclaw 2026.2.14",
@@ -41,27 +61,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.14",
-      "downloadCount": 25751
-    },
-    {
-      "title": "openclaw 2026.2.13",
-      "date": "2026-02-14T03:32:02Z",
-      "summary": "\n### Changes\n\n- Discord: send voice messages with waveform previews from local audio files (including silent delivery). (#7253) Thanks @nyanjou.\n- Discord: add configurable presence status/activity/ty...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.13",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.2.13",
-      "downloadCount": 17470
-    },
-    {
-      "title": "openclaw 2026.2.12",
-      "date": "2026-02-13T02:18:50Z",
-      "summary": "\n### Changes\n\n- CLI: add `openclaw logs --local-time` to display log timestamps in local timezone. (#13818) Thanks @xialonglee.\n- Telegram: render blockquotes as native `<blockquote>` tags instead of ...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.12",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.2.12",
-      "downloadCount": 21423
+      "downloadCount": 25791
     }
   ],
   "status": "success",
