@@ -1,9 +1,132 @@
 {
-  "fetch_time": "2026-02-20T02:38:01.570Z",
+  "fetch_time": "2026-02-20T05:16:15.859Z",
   "total_count": 30,
   "sources_count": 6,
   "errors": null,
   "articles": [
+    {
+      "title": "AIdentifyAGE Ontology for Decision Support in Forensic Dental Age Assessment",
+      "date": "Fri, 20 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.16714v1 Announce Type: new Abstract: Age assessment is crucial in forensic and judicial decision-making, particularly in cases involving undocumented individuals and unaccompanied minors, where legal thresholds determine access to protection, healthcare, and judicial procedures. Dental age assessment is widely recognized as one of the most reliable biological approaches for adolescents and young adults, but current practices are challenged by methodological heterogeneity, fragmented d",
+      "url": "https://arxiv.org/abs/2602.16714",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Retrieval Augmented (Knowledge Graph), and Large Language Model-Driven Design Structure Matrix (DSM) Generation of Cyber-Physical Systems",
+      "date": "Fri, 20 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.16715v1 Announce Type: new Abstract: We explore the potential of Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Graph-based RAG (GraphRAG) for generating Design Structure Matrices (DSMs). We test these methods on two distinct use cases -- a power screwdriver and a CubeSat with known architectural references -- evaluating their performance on two key tasks: determining relationships between predefined components, and the more complex challenge of identifying co",
+      "url": "https://arxiv.org/abs/2602.16715",
+      "category": [
+        "cs.AI",
+        "cs.CL",
+        "cs.SY",
+        "eess.SY"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Contextuality from Single-State Representations: An Information-Theoretic Principle for Adaptive Intelligence",
+      "date": "Fri, 20 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.16716v1 Announce Type: new Abstract: Adaptive systems often operate across multiple contexts while reusing a fixed internal state space due to constraints on memory, representation, or physical resources. Such single-state reuse is ubiquitous in natural and artificial intelligence, yet its fundamental representational consequences remain poorly understood. We show that contextuality is not a peculiarity of quantum mechanics, but an inevitable consequence of single-state reuse in class",
+      "url": "https://arxiv.org/abs/2602.16716",
+      "category": [
+        "cs.AI",
+        "cs.IT",
+        "math.IT"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Mobility-Aware Cache Framework for Scalable LLM-Based Human Mobility Simulation",
+      "date": "Fri, 20 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.16727v1 Announce Type: new Abstract: Large-scale human mobility simulation is critical for applications such as urban planning, epidemiology, and transportation analysis. Recent works treat large language models (LLMs) as human agents to simulate realistic mobility behaviors using structured reasoning, but their high computational cost limits scalability. To address this, we design a mobility-aware cache framework named MobCache that leverages reconstructible caches to enable efficien",
+      "url": "https://arxiv.org/abs/2602.16727",
+      "category": [
+        "cs.AI",
+        "cs.LG"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+      "date": "Fri, 20 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.16763v1 Announce Type: new Abstract: Artificial Intelligence (AI) benchmarks play a central role in measuring progress in model development and guiding deployment decisions. However, many benchmarks quickly become saturated, meaning that they can no longer differentiate between the best-performing models, diminishing their long-term value. In this study, we analyze benchmark saturation across 60 Large Language Model (LLM) benchmarks selected from technical reports by major model devel",
+      "url": "https://arxiv.org/abs/2602.16763",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Simple Baselines are Competitive with Code Evolution",
+      "date": "Fri, 20 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.16805v1 Announce Type: new Abstract: Code evolution is a family of techniques that rely on large language models to search through possible computer programs by evolving or mutating existing code. Many proposed code evolution pipelines show impressive performance but are often not compared to simpler baselines. We test how well two simple baselines do over three domains: finding better mathematical bounds, designing agentic scaffolds, and machine learning competitions. We find that si",
+      "url": "https://arxiv.org/abs/2602.16805",
+      "category": [
+        "cs.AI",
+        "cs.LG"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "View the collection",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-collection/",
+      "date": "2026-02-20T02:38:03.711Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "How we’re partnering to make AI work for everyone",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/",
+      "date": "2026-02-20T02:38:03.711Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Resilience in the AI era: Google at MSC 2026 At MSC 2026, Google’s Kent Walker urged a full-stack, AI-driven approach to security to counter sophisticated, enterprise-scale threats.",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/resilience-in-the-ai-era-google-at-msc-2026/",
+      "date": "2026-02-20T02:38:03.711Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Google Labs",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/",
+      "date": "2026-02-20T02:38:03.711Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Gemini models",
+      "url": "https://blog.google/products-and-platforms/products/gemini/",
+      "date": "2026-02-20T02:38:03.710Z",
+      "summary": "",
+      "category": "Products",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks 3.1 Pro is designed for tasks where a simple answer isn’t enough.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
+      "date": "2026-02-20T02:38:03.710Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
     {
       "title": "谷歌突发Gemini 3.1 Pro！首次采用「.1」版本号，推理性能×2的那种",
       "date": "Fri, 20 Feb 2026 01:25:54 GMT",
@@ -51,60 +174,6 @@
       "category": "",
       "source": "机器之心",
       "source_name": "机器之心"
-    },
-    {
-      "title": "Gemini App",
-      "url": "https://blog.google/products-and-platforms/products/gemini/",
-      "date": "2026-02-19T12:32:26.181Z",
-      "summary": "",
-      "category": "Products",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "A new way to express yourself: Gemini can now create music Lyria 3 is now available in the Gemini app. Create custom, high-quality 30-second tracks from text and images.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/",
-      "date": "2026-02-19T12:32:26.181Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Developer tools",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/",
-      "date": "2026-02-19T12:32:26.181Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "View the collection",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-collection/",
-      "date": "2026-02-19T12:32:26.181Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "How we’re partnering to make AI work for everyone",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/",
-      "date": "2026-02-19T12:32:26.181Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Resilience in the AI era: Google at MSC 2026 At MSC 2026, Google’s Kent Walker urged a full-stack, AI-driven approach to security to counter sophisticated, enterprise-scale threats.",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/resilience-in-the-ai-era-google-at-msc-2026/",
-      "date": "2026-02-19T12:32:26.181Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
     },
     {
       "title": "OpenAI偷偷改使命：不再「造福人类」，安全都删了",
@@ -165,70 +234,6 @@
       "category": "资讯",
       "source": "量子位",
       "source_name": "qbitai"
-    },
-    {
-      "title": "Towards Efficient Constraint Handling in Neural Solvers for Routing Problems",
-      "date": "Thu, 19 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.16012v1 Announce Type: new Abstract: Neural solvers have achieved impressive progress in addressing simple routing problems, particularly excelling in computational efficiency. However, their advantages under complex constraints remain nascent, for which current constraint-handling schemes via feasibility masking or implicit feasibility awareness can be inefficient or inapplicable for hard constraints. In this paper, we present Construct-and-Refine (CaR), the first general and efficie",
-      "url": "https://arxiv.org/abs/2602.16012",
-      "category": [
-        "cs.AI",
-        "cs.LG",
-        "math.OC"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Optimization Instability in Autonomous Agentic Workflows for Clinical Symptom Detection",
-      "date": "Thu, 19 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.16037v1 Announce Type: new Abstract: Autonomous agentic workflows that iteratively refine their own behavior hold considerable promise, yet their failure modes remain poorly characterized. We investigate optimization instability, a phenomenon in which continued autonomous improvement paradoxically degrades classifier performance, using Pythia, an open-source framework for automated prompt optimization. Evaluating three clinical symptoms with varying prevalence (shortness of breath at ",
-      "url": "https://arxiv.org/abs/2602.16037",
-      "category": [
-        "cs.AI",
-        "cs.MA"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "How Uncertain Is the Grade? A Benchmark of Uncertainty Metrics for LLM-Based Automatic Assessment",
-      "date": "Thu, 19 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.16039v1 Announce Type: new Abstract: The rapid rise of large language models (LLMs) is reshaping the landscape of automatic assessment in education. While these systems demonstrate substantial advantages in adaptability to diverse question types and flexibility in output formats, they also introduce new challenges related to output uncertainty, stemming from the inherently probabilistic nature of LLMs. Output uncertainty is an inescapable challenge in automatic assessment, as assessme",
-      "url": "https://arxiv.org/abs/2602.16039",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Evidence-Grounded Subspecialty Reasoning: Evaluating a Curated Clinical Intelligence Layer on the 2025 Endocrinology Board-Style Examination",
-      "date": "Thu, 19 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.16050v1 Announce Type: new Abstract: Background: Large language models have demonstrated strong performance on general medical examinations, but subspecialty clinical reasoning remains challenging due to rapidly evolving guidelines and nuanced evidence hierarchies. Methods: We evaluated January Mirror, an evidence-grounded clinical reasoning system, against frontier LLMs (GPT-5, GPT-5.2, Gemini-3-Pro) on a 120-question endocrinology board-style examination. Mirror integrates a curated",
-      "url": "https://arxiv.org/abs/2602.16050",
-      "category": [
-        "cs.AI",
-        "cs.CL"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Improving Interactive In-Context Learning from Natural Language Feedback",
-      "date": "Thu, 19 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.16066v1 Announce Type: new Abstract: Adapting one's thought process based on corrective feedback is an essential ability in human learning, particularly in collaborative settings. In contrast, the current large language model training paradigm relies heavily on modeling vast, static corpora. While effective for knowledge acquisition, it overlooks the interactive feedback loops essential for models to adapt dynamically to their context. In this work, we propose a framework that treats ",
-      "url": "https://arxiv.org/abs/2602.16066",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "GPSBench: Do Large Language Models Understand GPS Coordinates?",
-      "date": "Thu, 19 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.16105v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly deployed in applications that interact with the physical world, such as navigation, robotics, or mapping, making robust geospatial reasoning a critical capability. Despite that, LLMs' ability to reason about GPS coordinates and real-world geography remains underexplored. We introduce GPSBench, a dataset of 57,800 samples across 17 tasks for evaluating geospatial reasoning in LLMs, spanning geometric coo",
-      "url": "https://arxiv.org/abs/2602.16105",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
     },
     {
       "title": "AMD英伟达都投了！李飞飞创业公司官宣10亿新融资",
