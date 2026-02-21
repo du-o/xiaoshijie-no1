@@ -1,9 +1,65 @@
 {
-  "fetch_time": "2026-02-21T02:31:38.957Z",
-  "total_count": 30,
+  "fetch_time": "2026-02-21T05:05:41.946Z",
+  "total_count": 24,
   "sources_count": 6,
-  "errors": null,
+  "errors": [
+    "arxiv: Parse error: Unknown RSS format"
+  ],
   "articles": [
+    {
+      "title": "Gemini models",
+      "url": "https://blog.google/products-and-platforms/products/gemini/",
+      "date": "2026-02-21T02:31:41.799Z",
+      "summary": "",
+      "category": "Products",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks 3.1 Pro is designed for tasks where a simple answer isn’t enough.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
+      "date": "2026-02-21T02:31:41.799Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "View the collection",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-collection/",
+      "date": "2026-02-21T02:31:41.799Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "How we’re partnering to make AI work for everyone",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/",
+      "date": "2026-02-21T02:31:41.799Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Resilience in the AI era: Google at MSC 2026 At MSC 2026, Google’s Kent Walker urged a full-stack, AI-driven approach to security to counter sophisticated, enterprise-scale threats.",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/resilience-in-the-ai-era-google-at-msc-2026/",
+      "date": "2026-02-21T02:31:41.799Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Google Labs",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/",
+      "date": "2026-02-21T02:31:41.799Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
     {
       "title": "从AlphaGo到DeepSeek R1，推理的未来将走向何方？",
       "date": "Fri, 20 Feb 2026 14:49:15 GMT",
@@ -50,60 +106,6 @@
       "source_name": "机器之心"
     },
     {
-      "title": "Gemini models",
-      "url": "https://blog.google/products-and-platforms/products/gemini/",
-      "date": "2026-02-20T12:28:29.656Z",
-      "summary": "",
-      "category": "Products",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks 3.1 Pro is designed for tasks where a simple answer isn’t enough.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
-      "date": "2026-02-20T12:28:29.656Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "View the collection",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-collection/",
-      "date": "2026-02-20T12:28:29.656Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "How we’re partnering to make AI work for everyone",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/",
-      "date": "2026-02-20T12:28:29.656Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Resilience in the AI era: Google at MSC 2026 At MSC 2026, Google’s Kent Walker urged a full-stack, AI-driven approach to security to counter sophisticated, enterprise-scale threats.",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/resilience-in-the-ai-era-google-at-msc-2026/",
-      "date": "2026-02-20T12:28:29.656Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Google Labs",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/",
-      "date": "2026-02-20T12:28:29.656Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
       "title": "8500亿美元！OpenAI刷新AI公司估值纪录，领先第二名2.2倍",
       "date": "Fri, 20 Feb 2026 09:49:58 GMT",
       "summary": "",
@@ -126,75 +128,6 @@
       ],
       "source": "量子位",
       "source_name": "qbitai"
-    },
-    {
-      "title": "AIdentifyAGE Ontology for Decision Support in Forensic Dental Age Assessment",
-      "date": "Fri, 20 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.16714v1 Announce Type: new Abstract: Age assessment is crucial in forensic and judicial decision-making, particularly in cases involving undocumented individuals and unaccompanied minors, where legal thresholds determine access to protection, healthcare, and judicial procedures. Dental age assessment is widely recognized as one of the most reliable biological approaches for adolescents and young adults, but current practices are challenged by methodological heterogeneity, fragmented d",
-      "url": "https://arxiv.org/abs/2602.16714",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Retrieval Augmented (Knowledge Graph), and Large Language Model-Driven Design Structure Matrix (DSM) Generation of Cyber-Physical Systems",
-      "date": "Fri, 20 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.16715v1 Announce Type: new Abstract: We explore the potential of Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Graph-based RAG (GraphRAG) for generating Design Structure Matrices (DSMs). We test these methods on two distinct use cases -- a power screwdriver and a CubeSat with known architectural references -- evaluating their performance on two key tasks: determining relationships between predefined components, and the more complex challenge of identifying co",
-      "url": "https://arxiv.org/abs/2602.16715",
-      "category": [
-        "cs.AI",
-        "cs.CL",
-        "cs.SY",
-        "eess.SY"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Contextuality from Single-State Representations: An Information-Theoretic Principle for Adaptive Intelligence",
-      "date": "Fri, 20 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.16716v1 Announce Type: new Abstract: Adaptive systems often operate across multiple contexts while reusing a fixed internal state space due to constraints on memory, representation, or physical resources. Such single-state reuse is ubiquitous in natural and artificial intelligence, yet its fundamental representational consequences remain poorly understood. We show that contextuality is not a peculiarity of quantum mechanics, but an inevitable consequence of single-state reuse in class",
-      "url": "https://arxiv.org/abs/2602.16716",
-      "category": [
-        "cs.AI",
-        "cs.IT",
-        "math.IT"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Mobility-Aware Cache Framework for Scalable LLM-Based Human Mobility Simulation",
-      "date": "Fri, 20 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.16727v1 Announce Type: new Abstract: Large-scale human mobility simulation is critical for applications such as urban planning, epidemiology, and transportation analysis. Recent works treat large language models (LLMs) as human agents to simulate realistic mobility behaviors using structured reasoning, but their high computational cost limits scalability. To address this, we design a mobility-aware cache framework named MobCache that leverages reconstructible caches to enable efficien",
-      "url": "https://arxiv.org/abs/2602.16727",
-      "category": [
-        "cs.AI",
-        "cs.LG"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
-      "date": "Fri, 20 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.16763v1 Announce Type: new Abstract: Artificial Intelligence (AI) benchmarks play a central role in measuring progress in model development and guiding deployment decisions. However, many benchmarks quickly become saturated, meaning that they can no longer differentiate between the best-performing models, diminishing their long-term value. In this study, we analyze benchmark saturation across 60 Large Language Model (LLM) benchmarks selected from technical reports by major model devel",
-      "url": "https://arxiv.org/abs/2602.16763",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Simple Baselines are Competitive with Code Evolution",
-      "date": "Fri, 20 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.16805v1 Announce Type: new Abstract: Code evolution is a family of techniques that rely on large language models to search through possible computer programs by evolving or mutating existing code. Many proposed code evolution pipelines show impressive performance but are often not compared to simpler baselines. We test how well two simple baselines do over three domains: finding better mathematical bounds, designing agentic scaffolds, and machine learning competitions. We find that si",
-      "url": "https://arxiv.org/abs/2602.16805",
-      "category": [
-        "cs.AI",
-        "cs.LG"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
     },
     {
       "title": "谷歌突发Gemini 3.1 Pro！首次采用「.1」版本号，推理性能×2的那种",
