@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-02-21T12:19:56.547Z",
+  "fetch_time": "2026-02-22T02:45:10.411Z",
   "articles": [
+    {
+      "title": "openclaw 2026.2.21",
+      "date": "2026-02-21T16:56:48Z",
+      "summary": "\n### Changes\n\n- Models/Google: add Gemini 3.1 support (`google/gemini-3.1-pro-preview`).\n- Providers/Onboarding: add Volcano Engine (Doubao) and BytePlus providers/models (including coding variants), ...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.21",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.2.21",
+      "downloadCount": 3887
+    },
     {
       "title": "openclaw 2026.2.19",
       "date": "2026-02-19T17:35:21Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.19",
-      "downloadCount": 17910
+      "downloadCount": 20513
     },
     {
       "title": "openclaw 2026.2.19",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.19-beta.1",
-      "downloadCount": 152
+      "downloadCount": 172
     },
     {
       "title": "openclaw 2026.2.17",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.17",
-      "downloadCount": 18139
+      "downloadCount": 18180
     },
     {
       "title": "openclaw 2026.2.15",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.15",
-      "downloadCount": 64176
+      "downloadCount": 71093
     },
     {
       "title": "openclaw 2026.2.15-beta.1",
@@ -51,17 +61,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.15-beta.1",
-      "downloadCount": 173
-    },
-    {
-      "title": "openclaw 2026.2.14",
-      "date": "2026-02-15T03:18:52Z",
-      "summary": "### Changes\r\n\r\n- Telegram: add poll sending via `openclaw message poll` (duration seconds, silent delivery, anonymity controls). (#16209) Thanks @robbyczgw-cla.\r\n- Slack/Discord: add `dmPolicy` + `all...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.14",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.2.14",
-      "downloadCount": 25839
+      "downloadCount": 177
     }
   ],
   "status": "success",
