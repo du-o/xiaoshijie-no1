@@ -1,9 +1,75 @@
 {
-  "fetch_time": "2026-02-23T05:25:18.487Z",
+  "fetch_time": "2026-02-23T08:39:00.972Z",
   "total_count": 30,
   "sources_count": 6,
   "errors": null,
   "articles": [
+    {
+      "title": "Gemini models",
+      "url": "https://blog.google/products-and-platforms/products/gemini/",
+      "date": "2026-02-23T05:25:21.142Z",
+      "summary": "",
+      "category": "Products",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks 3.1 Pro is designed for tasks where a simple answer isn’t enough.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
+      "date": "2026-02-23T05:25:21.142Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "View the collection",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-collection/",
+      "date": "2026-02-23T05:25:21.142Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "How we’re partnering to make AI work for everyone",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/",
+      "date": "2026-02-23T05:25:21.142Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Resilience in the AI era: Google at MSC 2026 At MSC 2026, Google’s Kent Walker urged a full-stack, AI-driven approach to security to counter sophisticated, enterprise-scale threats.",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/resilience-in-the-ai-era-google-at-msc-2026/",
+      "date": "2026-02-23T05:25:21.142Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Google Labs",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/",
+      "date": "2026-02-23T05:25:21.142Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "智谱GLM-5技术全公开！完全适配华为等国产芯片，美国网友酸了",
+      "date": "Mon, 23 Feb 2026 05:19:44 GMT",
+      "summary": "引入DeepSeek同款机制",
+      "url": "https://www.qbitai.com/2026/02/381712.html",
+      "category": [
+        "资讯",
+        "智谱"
+      ],
+      "source": "量子位",
+      "source_name": "qbitai"
+    },
     {
       "title": "Epistemic Traps: Rational Misalignment Driven by Model Misspecification",
       "date": "Mon, 23 Feb 2026 05:00:00 GMT",
@@ -72,58 +138,22 @@
       "source_name": "arxiv"
     },
     {
-      "title": "Gemini models",
-      "url": "https://blog.google/products-and-platforms/products/gemini/",
-      "date": "2026-02-23T02:44:50.351Z",
-      "summary": "",
-      "category": "Products",
-      "source": "Google Blog",
-      "source_name": "google-blog"
+      "title": "32倍压缩率下性能反超25个点！破解长文本压缩「翻车」难题 &#124; ICLR 2026",
+      "date": "Mon, 23 Feb 2026 04:48:46 GMT",
+      "summary": "真正的高质量压缩不是简单的“删减”",
+      "url": "https://www.qbitai.com/2026/02/381689.html",
+      "category": "资讯",
+      "source": "量子位",
+      "source_name": "qbitai"
     },
     {
-      "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks 3.1 Pro is designed for tasks where a simple answer isn’t enough.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
-      "date": "2026-02-23T02:44:50.351Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "View the collection",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-collection/",
-      "date": "2026-02-23T02:44:50.351Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "How we’re partnering to make AI work for everyone",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/",
-      "date": "2026-02-23T02:44:50.351Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Resilience in the AI era: Google at MSC 2026 At MSC 2026, Google’s Kent Walker urged a full-stack, AI-driven approach to security to counter sophisticated, enterprise-scale threats.",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/resilience-in-the-ai-era-google-at-msc-2026/",
-      "date": "2026-02-23T02:44:50.351Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Google Labs",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/",
-      "date": "2026-02-23T02:44:50.351Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
+      "title": "三个和尚没水喝！OpenAI星际之门搁浅，一年过去压根没动工",
+      "date": "Mon, 23 Feb 2026 04:41:01 GMT",
+      "summary": "至今都还没把团队配齐，数据中心压根没开工",
+      "url": "https://www.qbitai.com/2026/02/381672.html",
+      "category": "资讯",
+      "source": "量子位",
+      "source_name": "qbitai"
     },
     {
       "title": "后训练大牛Lambert：AI招聘市场正经历「乱纪元」",
@@ -220,20 +250,6 @@
       "source_name": "机器之心"
     },
     {
-      "title": "24人团队硬刚英伟达！AMD前高管梦之队出手，新芯片每秒17000个token",
-      "date": "Sat, 21 Feb 2026 06:31:56 GMT",
-      "summary": "成本却只有1/10",
-      "url": "https://www.qbitai.com/2026/02/381552.html",
-      "category": [
-        "资讯",
-        "首页轮播",
-        "芯片",
-        "英伟达"
-      ],
-      "source": "量子位",
-      "source_name": "qbitai"
-    },
-    {
       "title": "Our First Proof submissions",
       "date": "Fri, 20 Feb 2026 14:30:00 GMT",
       "summary": "We share our AI model’s proof attempts for the First Proof math challenge, testing research-grade reasoning on expert-level problems.",
@@ -241,30 +257,6 @@
       "category": "Research",
       "source": "OpenAI News",
       "source_name": "openai"
-    },
-    {
-      "title": "8500亿美元！OpenAI刷新AI公司估值纪录，领先第二名2.2倍",
-      "date": "Fri, 20 Feb 2026 09:49:58 GMT",
-      "summary": "",
-      "url": "https://www.qbitai.com/2026/02/381542.html",
-      "category": [
-        "资讯",
-        "OpenAI"
-      ],
-      "source": "量子位",
-      "source_name": "qbitai"
-    },
-    {
-      "title": "ClawHub迷之封杀操作，逼出首个Agent全球进化网络",
-      "date": "Fri, 20 Feb 2026 07:44:38 GMT",
-      "summary": "",
-      "url": "https://www.qbitai.com/2026/02/381495.html",
-      "category": [
-        "首页轮播",
-        "AI"
-      ],
-      "source": "量子位",
-      "source_name": "qbitai"
     },
     {
       "title": "Advancing independent research on AI alignment",
