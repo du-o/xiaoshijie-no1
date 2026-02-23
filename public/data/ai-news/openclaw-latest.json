@@ -1,17 +1,17 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-02-23T02:44:57.461Z",
+  "fetch_time": "2026-02-23T05:25:55.020Z",
   "articles": [
     {
-      "title": "openclaw 2026.2.22-beta.1",
-      "date": "2026-02-23T00:53:24Z",
+      "title": "openclaw 2026.2.22",
+      "date": "2026-02-23T04:09:40Z",
       "summary": "### Changes\n\n- Provider/Mistral: add support for the Mistral provider, including memory embeddings and voice support. (#23845) Thanks @vincentkoc.\n- Update/Core: add an optional built-in auto-updater ...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.22-beta.1",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.22",
       "category": "Release",
       "author": "steipete",
-      "tagName": "v2026.2.22-beta.1",
-      "downloadCount": 114
+      "tagName": "v2026.2.22",
+      "downloadCount": 493
     },
     {
       "title": "openclaw 2026.2.21",
@@ -21,7 +21,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.21",
-      "downloadCount": 15515
+      "downloadCount": 16311
     },
     {
       "title": "openclaw 2026.2.19",
@@ -31,7 +31,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.19",
-      "downloadCount": 20710
+      "downloadCount": 20733
     },
     {
       "title": "openclaw 2026.2.19",
@@ -41,7 +41,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.19-beta.1",
-      "downloadCount": 181
+      "downloadCount": 186
     },
     {
       "title": "openclaw 2026.2.17",
@@ -51,7 +51,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.17",
-      "downloadCount": 18212
+      "downloadCount": 18217
     },
     {
       "title": "openclaw 2026.2.15",
@@ -61,7 +61,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.15",
-      "downloadCount": 83195
+      "downloadCount": 84662
     }
   ],
   "status": "success",

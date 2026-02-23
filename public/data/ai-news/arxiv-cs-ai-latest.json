@@ -1,8 +1,64 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-02-23T02:44:44.897Z",
-  "articles": [],
-  "status": "error",
-  "error": "Parse error: Unknown RSS format"
+  "fetch_time": "2026-02-23T05:25:14.634Z",
+  "articles": [
+    {
+      "title": "Epistemic Traps: Rational Misalignment Driven by Model Misspecification",
+      "date": "Mon, 23 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.17676v1 Announce Type: new Abstract: The rapid deployment of Large Language Models and AI agents across critical societal and technical domains is hindered by persistent behavioral pathologies including sycophancy, hallucination, and strategic deception that resist mitigation via reinforcement learning. Current safety paradigms treat these failures as transient training artifacts, lacking a unified theoretical framework to explain their emergence and stability. Here we show that these",
+      "url": "https://arxiv.org/abs/2602.17676",
+      "category": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "Ontology-Guided Neuro-Symbolic Inference: Grounding Language Models with Mathematical Domain Knowledge",
+      "date": "Mon, 23 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.17826v1 Announce Type: new Abstract: Language models exhibit fundamental limitations -- hallucination, brittleness, and lack of formal grounding -- that are particularly problematic in high-stakes specialist fields requiring verifiable reasoning. I investigate whether formal domain ontologies can enhance language model reliability through retrieval-augmented generation. Using mathematics as proof of concept, I implement a neuro-symbolic pipeline leveraging the OpenMath ontology with h",
+      "url": "https://arxiv.org/abs/2602.17826",
+      "category": [
+        "cs.AI",
+        "cs.LG",
+        "cs.SC"
+      ]
+    },
+    {
+      "title": "The Token Games: Evaluating Language Model Reasoning with Puzzle Duels",
+      "date": "Mon, 23 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.17831v1 Announce Type: new Abstract: Evaluating the reasoning capabilities of Large Language Models is increasingly challenging as models improve. Human curation of hard questions is highly expensive, especially in recent benchmarks using PhD-level domain knowledge to challenge the most capable models. Even then, there is always a concern about whether these questions test genuine reasoning or if similar problems have been seen during training. Here, we take inspiration from 16th-cent",
+      "url": "https://arxiv.org/abs/2602.17831",
+      "category": "cs.AI"
+    },
+    {
+      "title": "El Agente Gr\\'afico: Structured Execution Graphs for Scientific Agents",
+      "date": "Mon, 23 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.17902v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used to automate scientific workflows, yet their integration with heterogeneous computational tools remains ad hoc and fragile. Current agentic approaches often rely on unstructured text to manage context and coordinate execution, generating often overwhelming volumes of information that may obscure decision provenance and hinder auditability. In this work, we present El Agente Gr\\'afico, a single-agent",
+      "url": "https://arxiv.org/abs/2602.17902",
+      "category": [
+        "cs.AI",
+        "cs.MA",
+        "cs.SE",
+        "physics.chem-ph"
+      ]
+    },
+    {
+      "title": "Alignment in Time: Peak-Aware Orchestration for Long-Horizon Agentic Systems",
+      "date": "Mon, 23 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.17910v1 Announce Type: new Abstract: Traditional AI alignment primarily focuses on individual model outputs; however, autonomous agents in long-horizon workflows require sustained reliability across entire interaction trajectories. We introduce APEMO (Affect-aware Peak-End Modulation for Orchestration), a runtime scheduling layer that optimizes computational allocation under fixed budgets by operationalizing temporal-affective signals. Instead of modifying model weights, APEMO detects",
+      "url": "https://arxiv.org/abs/2602.17910",
+      "category": "cs.AI"
+    },
+    {
+      "title": "WorkflowPerturb: Calibrated Stress Tests for Evaluating Multi-Agent Workflow Metrics",
+      "date": "Mon, 23 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.17990v1 Announce Type: new Abstract: LLM-based systems increasingly generate structured workflows for complex tasks. In practice, automatic evaluation of these workflows is difficult, because metric scores are often not calibrated, and score changes do not directly communicate the severity of workflow degradation. We introduce WorkflowPerturb, a controlled benchmark for studying workflow evaluation metrics. It works by applying realistic, controlled perturbations to golden workflows. ",
+      "url": "https://arxiv.org/abs/2602.17990",
+      "category": "cs.AI"
+    }
+  ],
+  "status": "success",
+  "error": null
 }
