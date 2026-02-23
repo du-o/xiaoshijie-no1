@@ -1,7 +1,7 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-02-22T12:19:48.885Z",
+  "fetch_time": "2026-02-23T02:44:44.797Z",
   "articles": [
     {
       "title": "Our First Proof submissions",
@@ -25,6 +25,13 @@
       "category": "Global Affairs"
     },
     {
+      "title": "Introducing EVMbench",
+      "date": "Wed, 18 Feb 2026 00:00:00 GMT",
+      "summary": "OpenAI and Paradigm introduce EVMbench, a benchmark evaluating AI agents’ ability to detect, patch, and exploit high-severity smart contract vulnerabilities.",
+      "url": "https://openai.com/index/introducing-evmbench",
+      "category": "Research"
+    },
+    {
       "title": "GPT-5.2 derives a new result in theoretical physics",
       "date": "Fri, 13 Feb 2026 11:00:00 GMT",
       "summary": "A new preprint shows GPT-5.2 proposing a new formula for a gluon amplitude, later formally proved and verified by OpenAI and academic collaborators.",
@@ -37,13 +44,6 @@
       "summary": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT to help organizations defend against prompt injection and AI-driven data exfiltration.",
       "url": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
       "category": "Safety"
-    },
-    {
-      "title": "Beyond rate limits: scaling access to Codex and Sora",
-      "date": "Fri, 13 Feb 2026 09:00:00 GMT",
-      "summary": "How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to power continuous access to Sora and Codex.",
-      "url": "https://openai.com/index/beyond-rate-limits",
-      "category": "Engineering"
     }
   ],
   "status": "success",
