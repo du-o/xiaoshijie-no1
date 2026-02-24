@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-02-24T05:21:29.847Z",
+  "fetch_time": "2026-02-24T08:37:18.246Z",
   "articles": [
+    {
+      "title": "openclaw 2026.2.23",
+      "date": "2026-02-24T05:41:47Z",
+      "summary": "\n### Changes\n\n- Providers/Kilo Gateway: add first-class `kilocode` provider support (auth, onboarding, implicit provider detection, model defaults, transcript/cache-ttl handling, and docs), with defau...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.23",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.2.23",
+      "downloadCount": 2132
+    },
     {
       "title": "openclaw 2026.2.23-beta.1",
       "date": "2026-02-24T05:12:40Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.23-beta.1",
-      "downloadCount": 0
+      "downloadCount": 65
     },
     {
       "title": "openclaw 2026.2.22",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.22",
-      "downloadCount": 12398
+      "downloadCount": 12884
     },
     {
       "title": "openclaw 2026.2.21",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.21",
-      "downloadCount": 16733
+      "downloadCount": 16774
     },
     {
       "title": "openclaw 2026.2.19",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.19",
-      "downloadCount": 21183
+      "downloadCount": 21202
     },
     {
       "title": "openclaw 2026.2.19",
@@ -51,17 +61,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.19-beta.1",
-      "downloadCount": 196
-    },
-    {
-      "title": "openclaw 2026.2.17",
-      "date": "2026-02-18T02:55:29Z",
-      "summary": "### Changes\r\n\r\n- Agents/Anthropic: add opt-in 1M context beta header support for Opus/Sonnet via model `params.context1m: true` (maps to `anthropic-beta: context-1m-2025-08-07`).\r\n- Agents/Models: sup...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.17",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.2.17",
-      "downloadCount": 18265
+      "downloadCount": 199
     }
   ],
   "status": "success",
