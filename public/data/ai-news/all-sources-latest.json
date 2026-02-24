@@ -1,9 +1,194 @@
 {
-  "fetch_time": "2026-02-24T02:42:00.282Z",
+  "fetch_time": "2026-02-24T05:20:53.747Z",
   "total_count": 30,
   "sources_count": 6,
   "errors": null,
   "articles": [
+    {
+      "title": "On the Dynamics of Observation and Semantics",
+      "date": "Tue, 24 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.18494v1 Announce Type: new Abstract: A dominant paradigm in visual intelligence treats semantics as a static property of latent representations, assuming that meaning can be discovered through geometric proximity in high dimensional embedding spaces. In this work, we argue that this view is physically incomplete. We propose that intelligence is not a passive mirror of reality but a property of a physically realizable agent, a system bounded by finite memory, finite compute, and finite",
+      "url": "https://arxiv.org/abs/2602.18494",
+      "category": [
+        "cs.AI",
+        "cs.LG"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Hierarchical Reward Design from Language: Enhancing Alignment of Agent Behavior with Human Specifications",
+      "date": "Tue, 24 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.18582v1 Announce Type: new Abstract: When training artificial intelligence (AI) to perform tasks, humans often care not only about whether a task is completed but also how it is performed. As AI agents tackle increasingly complex tasks, aligning their behavior with human-provided specifications becomes critical for responsible AI deployment. Reward design provides a direct channel for such alignment by translating human expectations into reward functions that guide reinforcement learn",
+      "url": "https://arxiv.org/abs/2602.18582",
+      "category": [
+        "cs.AI",
+        "cs.CL",
+        "cs.HC",
+        "cs.LG"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Feedback-based Automated Verification in Vibe Coding of CAS Adaptation Built on Constraint Logic",
+      "date": "Tue, 24 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.18607v1 Announce Type: new Abstract: In CAS adaptation, a challenge is to define the dynamic architecture of the system and changes in its behavior. Implementation-wise, this is projected into an adaptation mechanism, typically realized as an Adaptation Manager (AM). With the advances of generative LLMs, generating AM code based on system specification and desired AM behavior (partially in natural language) is a tempting opportunity. The recent introduction of vibe coding suggests a w",
+      "url": "https://arxiv.org/abs/2602.18607",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Decoding ML Decision: An Agentic Reasoning Framework for Large-Scale Ranking System",
+      "date": "Tue, 24 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.18640v1 Announce Type: new Abstract: Modern large-scale ranking systems operate within a sophisticated landscape of competing objectives, operational constraints, and evolving product requirements. Progress in this domain is increasingly bottlenecked by the engineering context constraint: the arduous process of translating ambiguous product intent into reasonable, executable, verifiable hypotheses, rather than by modeling techniques alone. We present GEARS (Generative Engine for Agent",
+      "url": "https://arxiv.org/abs/2602.18640",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Spilled Energy in Large Language Models",
+      "date": "Tue, 24 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.18671v1 Announce Type: new Abstract: We reinterpret the final Large Language Model (LLM) softmax classifier as an Energy-Based Model (EBM), decomposing the sequence-to-sequence probability chain into multiple interacting EBMs at inference. This principled approach allows us to track \"energy spills\" during decoding, which we empirically show correlate with factual errors, biases, and failures. Similar to Orgad et al. (2025), our method localizes the exact answer token and subsequently ",
+      "url": "https://arxiv.org/abs/2602.18671",
+      "category": [
+        "cs.AI",
+        "cs.CL"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Many AI Analysts, One Dataset: Navigating the Agentic Data Science Multiverse",
+      "date": "Tue, 24 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.18710v1 Announce Type: new Abstract: The conclusions of empirical research depend not only on data but on a sequence of analytic decisions that published results seldom make explicit. Past ``many-analyst\" studies have demonstrated this: independent teams testing the same hypothesis on the same dataset regularly reach conflicting conclusions. But such studies require months of coordination among dozens of research groups and are therefore rarely conducted. In this work, we show that fu",
+      "url": "https://arxiv.org/abs/2602.18710",
+      "category": [
+        "cs.AI",
+        "cs.LG"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "228小时狂飙100篇论文、烧光114亿Token：FARS杀疯了",
+      "date": "Tue, 24 Feb 2026 04:49:19 GMT",
+      "summary": "",
+      "url": "https://www.jiqizhixin.com/articles/2026-02-24-4",
+      "category": "",
+      "source": "机器之心",
+      "source_name": "机器之心"
+    },
+    {
+      "title": "千寻智能完成近20亿融资，顶级资本天团联合押注，估值强势破百亿",
+      "date": "Tue, 24 Feb 2026 04:39:10 GMT",
+      "summary": "",
+      "url": "https://www.jiqizhixin.com/articles/2026-02-24-3",
+      "category": "",
+      "source": "机器之心",
+      "source_name": "机器之心"
+    },
+    {
+      "title": "DeepMind：智能体越多越乱，Agent天花板出现了？",
+      "date": "Tue, 24 Feb 2026 04:34:43 GMT",
+      "summary": "",
+      "url": "https://www.jiqizhixin.com/articles/2026-02-24-2",
+      "category": "",
+      "source": "机器之心",
+      "source_name": "机器之心"
+    },
+    {
+      "title": "DeepSeek连更GitHub，华尔街回想起被支配的恐惧：“DeepSeek第二时刻”要来了",
+      "date": "Tue, 24 Feb 2026 04:00:41 GMT",
+      "summary": "DeepSeek一开工，美国AI圈抖三抖",
+      "url": "https://www.qbitai.com/2026/02/381786.html",
+      "category": [
+        "资讯",
+        "首页轮播",
+        "Deepseek"
+      ],
+      "source": "量子位",
+      "source_name": "qbitai"
+    },
+    {
+      "title": "从「好看」到「能用」：MIT用可微物理优化，让生成式3D设计真正可制造",
+      "date": "Tue, 24 Feb 2026 03:58:26 GMT",
+      "summary": "",
+      "url": "https://www.jiqizhixin.com/articles/2026-02-24",
+      "category": "",
+      "source": "机器之心",
+      "source_name": "机器之心"
+    },
+    {
+      "title": "20亿融资，百亿估值加冕！千寻智能开年引爆具身智能赛道",
+      "date": "Tue, 24 Feb 2026 02:51:13 GMT",
+      "summary": "联手宁德时代&#038;京东落地",
+      "url": "https://www.qbitai.com/2026/02/381766.html",
+      "category": [
+        "资讯",
+        "具身智能",
+        "千寻智能",
+        "融资"
+      ],
+      "source": "量子位",
+      "source_name": "qbitai"
+    },
+    {
+      "title": "Gemini models",
+      "url": "https://blog.google/products-and-platforms/products/gemini/",
+      "date": "2026-02-24T02:42:02.743Z",
+      "summary": "",
+      "category": "Products",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks 3.1 Pro is designed for tasks where a simple answer isn’t enough.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
+      "date": "2026-02-24T02:42:02.743Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "View the collection",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-collection/",
+      "date": "2026-02-24T02:42:02.743Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "How we’re partnering to make AI work for everyone",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/",
+      "date": "2026-02-24T02:42:02.743Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Resilience in the AI era: Google at MSC 2026 At MSC 2026, Google’s Kent Walker urged a full-stack, AI-driven approach to security to counter sophisticated, enterprise-scale threats.",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/resilience-in-the-ai-era-google-at-msc-2026/",
+      "date": "2026-02-24T02:42:02.743Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Google Labs",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/",
+      "date": "2026-02-24T02:42:02.743Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
     {
       "title": "AI模型烧掉的Token，对应多少GDP？AI的经济贡献现在有数了",
       "date": "Mon, 23 Feb 2026 12:41:07 GMT",
@@ -14,100 +199,10 @@
       "source_name": "机器之心"
     },
     {
-      "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks 3.1 Pro is designed for tasks where a simple answer isn’t enough.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
-      "date": "2026-02-23T12:32:34.256Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "View the collection",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-collection/",
-      "date": "2026-02-23T12:32:34.256Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "How we’re partnering to make AI work for everyone",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/",
-      "date": "2026-02-23T12:32:34.256Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Resilience in the AI era: Google at MSC 2026 At MSC 2026, Google’s Kent Walker urged a full-stack, AI-driven approach to security to counter sophisticated, enterprise-scale threats.",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/resilience-in-the-ai-era-google-at-msc-2026/",
-      "date": "2026-02-23T12:32:34.256Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Google Labs",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/",
-      "date": "2026-02-23T12:32:34.256Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Gemini models",
-      "url": "https://blog.google/products-and-platforms/products/gemini/",
-      "date": "2026-02-23T12:32:34.255Z",
-      "summary": "",
-      "category": "Products",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
       "title": "项目陷入停滞、算力明争暗斗，5000亿美元的「星际之门」何去何从？",
       "date": "Mon, 23 Feb 2026 12:28:28 GMT",
       "summary": "",
       "url": "https://www.jiqizhixin.com/articles/2026-02-23-6",
-      "category": "",
-      "source": "机器之心",
-      "source_name": "机器之心"
-    },
-    {
-      "title": "热度第一、Tokens周调用破3T，MiniMax这个春节杀疯了",
-      "date": "Mon, 23 Feb 2026 12:26:16 GMT",
-      "summary": "",
-      "url": "https://www.jiqizhixin.com/articles/2026-02-23-5",
-      "category": "",
-      "source": "机器之心",
-      "source_name": "机器之心"
-    },
-    {
-      "title": "Terminal-Bench解决率暴涨20%！华为CLI-Gym：环境交互类任务首个公开的数据Scaling方案",
-      "date": "Mon, 23 Feb 2026 12:22:25 GMT",
-      "summary": "",
-      "url": "https://www.jiqizhixin.com/articles/2026-02-23-4",
-      "category": "",
-      "source": "机器之心",
-      "source_name": "机器之心"
-    },
-    {
-      "title": "揭秘GLM-5技术底牌：「异步强化学习框架Slime」成终极杀招",
-      "date": "Mon, 23 Feb 2026 12:18:55 GMT",
-      "summary": "",
-      "url": "https://www.jiqizhixin.com/articles/2026-02-23-3",
-      "category": "",
-      "source": "机器之心",
-      "source_name": "机器之心"
-    },
-    {
-      "title": "ICLR 2026 | 上海交大提出结构化上下文环境框架，打破RL环境扩展瓶颈，激活LLM通用推理泛化",
-      "date": "Mon, 23 Feb 2026 12:14:03 GMT",
-      "summary": "",
-      "url": "https://www.jiqizhixin.com/articles/2026-02-23-2",
       "category": "",
       "source": "机器之心",
       "source_name": "机器之心"
@@ -155,73 +250,6 @@
       "source_name": "qbitai"
     },
     {
-      "title": "Epistemic Traps: Rational Misalignment Driven by Model Misspecification",
-      "date": "Mon, 23 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.17676v1 Announce Type: new Abstract: The rapid deployment of Large Language Models and AI agents across critical societal and technical domains is hindered by persistent behavioral pathologies including sycophancy, hallucination, and strategic deception that resist mitigation via reinforcement learning. Current safety paradigms treat these failures as transient training artifacts, lacking a unified theoretical framework to explain their emergence and stability. Here we show that these",
-      "url": "https://arxiv.org/abs/2602.17676",
-      "category": [
-        "cs.AI",
-        "cs.CL",
-        "cs.LG"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Ontology-Guided Neuro-Symbolic Inference: Grounding Language Models with Mathematical Domain Knowledge",
-      "date": "Mon, 23 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.17826v1 Announce Type: new Abstract: Language models exhibit fundamental limitations -- hallucination, brittleness, and lack of formal grounding -- that are particularly problematic in high-stakes specialist fields requiring verifiable reasoning. I investigate whether formal domain ontologies can enhance language model reliability through retrieval-augmented generation. Using mathematics as proof of concept, I implement a neuro-symbolic pipeline leveraging the OpenMath ontology with h",
-      "url": "https://arxiv.org/abs/2602.17826",
-      "category": [
-        "cs.AI",
-        "cs.LG",
-        "cs.SC"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "The Token Games: Evaluating Language Model Reasoning with Puzzle Duels",
-      "date": "Mon, 23 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.17831v1 Announce Type: new Abstract: Evaluating the reasoning capabilities of Large Language Models is increasingly challenging as models improve. Human curation of hard questions is highly expensive, especially in recent benchmarks using PhD-level domain knowledge to challenge the most capable models. Even then, there is always a concern about whether these questions test genuine reasoning or if similar problems have been seen during training. Here, we take inspiration from 16th-cent",
-      "url": "https://arxiv.org/abs/2602.17831",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "El Agente Gr\\'afico: Structured Execution Graphs for Scientific Agents",
-      "date": "Mon, 23 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.17902v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used to automate scientific workflows, yet their integration with heterogeneous computational tools remains ad hoc and fragile. Current agentic approaches often rely on unstructured text to manage context and coordinate execution, generating often overwhelming volumes of information that may obscure decision provenance and hinder auditability. In this work, we present El Agente Gr\\'afico, a single-agent",
-      "url": "https://arxiv.org/abs/2602.17902",
-      "category": [
-        "cs.AI",
-        "cs.MA",
-        "cs.SE",
-        "physics.chem-ph"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Alignment in Time: Peak-Aware Orchestration for Long-Horizon Agentic Systems",
-      "date": "Mon, 23 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.17910v1 Announce Type: new Abstract: Traditional AI alignment primarily focuses on individual model outputs; however, autonomous agents in long-horizon workflows require sustained reliability across entire interaction trajectories. We introduce APEMO (Affect-aware Peak-End Modulation for Orchestration), a runtime scheduling layer that optimizes computational allocation under fixed budgets by operationalizing temporal-affective signals. Instead of modifying model weights, APEMO detects",
-      "url": "https://arxiv.org/abs/2602.17910",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "WorkflowPerturb: Calibrated Stress Tests for Evaluating Multi-Agent Workflow Metrics",
-      "date": "Mon, 23 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.17990v1 Announce Type: new Abstract: LLM-based systems increasingly generate structured workflows for complex tasks. In practice, automatic evaluation of these workflows is difficult, because metric scores are often not calibrated, and score changes do not directly communicate the severity of workflow degradation. We introduce WorkflowPerturb, a controlled benchmark for studying workflow evaluation metrics. It works by applying realistic, controlled perturbations to golden workflows. ",
-      "url": "https://arxiv.org/abs/2602.17990",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
       "title": "32倍压缩率下性能反超25个点！破解长文本压缩「翻车」难题 &#124; ICLR 2026",
       "date": "Mon, 23 Feb 2026 04:48:46 GMT",
       "summary": "真正的高质量压缩不是简单的“删减”",
@@ -236,34 +264,6 @@
       "summary": "至今都还没把团队配齐，数据中心压根没开工",
       "url": "https://www.qbitai.com/2026/02/381672.html",
       "category": "资讯",
-      "source": "量子位",
-      "source_name": "qbitai"
-    },
-    {
-      "title": "不整虚的！中美AI同步加速：47天30次更新，中国AI的最强主场究竟在哪？",
-      "date": "Sun, 22 Feb 2026 10:33:32 GMT",
-      "summary": "一个最集中、最滚烫的坐标浮出水面",
-      "url": "https://www.qbitai.com/2026/02/381644.html",
-      "category": [
-        "资讯",
-        "首页轮播",
-        "中美AI竞争",
-        "大模型",
-        "模型混战"
-      ],
-      "source": "量子位",
-      "source_name": "qbitai"
-    },
-    {
-      "title": "学术插图新神器！万字材料秒出SVG，西湖大学出品 &#124; ICLR&#8217;26",
-      "date": "Sun, 22 Feb 2026 10:17:32 GMT",
-      "summary": "生成的图片甚至是矢量可编辑的",
-      "url": "https://www.qbitai.com/2026/02/381588.html",
-      "category": [
-        "资讯",
-        "学术神器",
-        "西湖大学"
-      ],
       "source": "量子位",
       "source_name": "qbitai"
     },

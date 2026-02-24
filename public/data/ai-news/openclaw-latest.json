@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-02-24T02:42:09.804Z",
+  "fetch_time": "2026-02-24T05:21:29.847Z",
   "articles": [
+    {
+      "title": "openclaw 2026.2.23-beta.1",
+      "date": "2026-02-24T05:12:40Z",
+      "summary": "### Changes\n\n- Providers/Kilo Gateway: add first-class `kilocode` provider support (auth, onboarding, implicit provider detection, model defaults, transcript/cache-ttl handling, and docs), with defaul...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.23-beta.1",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.2.23-beta.1",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.2.22",
       "date": "2026-02-23T04:09:40Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.22",
-      "downloadCount": 10798
+      "downloadCount": 12398
     },
     {
       "title": "openclaw 2026.2.21",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.21",
-      "downloadCount": 16699
+      "downloadCount": 16733
     },
     {
       "title": "openclaw 2026.2.19",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.19",
-      "downloadCount": 21140
+      "downloadCount": 21183
     },
     {
       "title": "openclaw 2026.2.19",
@@ -51,17 +61,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.17",
-      "downloadCount": 18257
-    },
-    {
-      "title": "openclaw 2026.2.15",
-      "date": "2026-02-16T04:43:47Z",
-      "summary": "\n### Changes\n\n- Discord: unlock rich interactive agent prompts with Components v2 (buttons, selects, modals, and attachment-backed file blocks) so for native interaction through Discord. Thanks @thewi...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.15",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.2.15",
-      "downloadCount": 96112
+      "downloadCount": 18265
     }
   ],
   "status": "success",
