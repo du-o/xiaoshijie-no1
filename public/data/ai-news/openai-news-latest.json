@@ -1,8 +1,22 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-02-23T12:32:28.182Z",
+  "fetch_time": "2026-02-24T02:41:56.472Z",
   "articles": [
+    {
+      "title": "Why we no longer evaluate SWE-bench Verified",
+      "date": "Mon, 23 Feb 2026 11:00:00 GMT",
+      "summary": "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.",
+      "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
+      "category": "Publication"
+    },
+    {
+      "title": "OpenAI announces Frontier Alliance Partners",
+      "date": "Mon, 23 Feb 2026 05:30:00 GMT",
+      "summary": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.",
+      "url": "https://openai.com/index/frontier-alliance-partners",
+      "category": "Global Affairs"
+    },
     {
       "title": "Our First Proof submissions",
       "date": "Fri, 20 Feb 2026 14:30:00 GMT",
@@ -30,20 +44,6 @@
       "summary": "OpenAI and Paradigm introduce EVMbench, a benchmark evaluating AI agents’ ability to detect, patch, and exploit high-severity smart contract vulnerabilities.",
       "url": "https://openai.com/index/introducing-evmbench",
       "category": "Research"
-    },
-    {
-      "title": "GPT-5.2 derives a new result in theoretical physics",
-      "date": "Fri, 13 Feb 2026 11:00:00 GMT",
-      "summary": "A new preprint shows GPT-5.2 proposing a new formula for a gluon amplitude, later formally proved and verified by OpenAI and academic collaborators.",
-      "url": "https://openai.com/index/new-result-theoretical-physics",
-      "category": "Research"
-    },
-    {
-      "title": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT",
-      "date": "Fri, 13 Feb 2026 10:00:00 GMT",
-      "summary": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT to help organizations defend against prompt injection and AI-driven data exfiltration.",
-      "url": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
-      "category": "Safety"
     }
   ],
   "status": "success",
