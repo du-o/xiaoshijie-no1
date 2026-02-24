@@ -25,6 +25,10 @@ const HTML_SOURCES = [
     file: 'every-latest.json',
     url: 'https://every.to/newsletter',
     jinaUrl: 'https://r.jina.ai/http://every.to/newsletter',
+    fallbackUrls: [
+      'https://r.jina.ai/http://every.to',
+      'https://r.jina.ai/http://every.to/archive',
+    ],
     parser: 'parseEvery',
   },
 ];
@@ -56,6 +60,38 @@ async function fetchHTML(url) {
   } catch (error) {
     throw new Error(`Fetch error: ${error.message}`);
   }
+}
+
+/**
+ * 获取备用内容（当主抓取失败时使用）
+ * 使用 r.jina.ai/http:// 格式作为备用
+ */
+async function fetchWithFallback(primaryUrl, fallbackUrls = []) {
+  const urlsToTry = [primaryUrl, ...fallbackUrls];
+  
+  for (const url of urlsToTry) {
+    try {
+      console.log(`  尝试: ${url}`);
+      const response = await fetch(url, {
+        headers: {
+          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+          'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        },
+      });
+
+      if (response.ok) {
+        const text = await response.text();
+        if (text && text.length > 100) {
+          console.log(`  ✓ 成功从 ${url} 获取内容 (${text.length} 字符)`);
+          return text;
+        }
+      }
+    } catch (error) {
+      console.log(`  ✗ ${url} 失败: ${error.message}`);
+    }
+  }
+  
+  throw new Error('所有备用 URL 均失败');
 }
 
 /**
@@ -188,83 +224,90 @@ function extractCategory(url) {
 
 /**
  * 解析 Every.to Newsletter 内容
+ * 支持多种 URL 格式和备用提取策略
  */
 function parseEvery(html, baseUrl) {
   const articles = [];
-  
-  // 按行分割
+  const seenUrls = new Set();
   const lines = html.split('\n');
   
-  // 已处理的 URL，用于去重
-  const seenUrls = new Set();
+  // 策略 1: 标准格式 [标题](https://every.to/...)
+  // 匹配所有 every.to 的文章链接，不限于特定分类
+  const standardRegex = /\[([^\]]+)\]\((https:\/\/every\.to\/[^/)]+\/[^)]+)\)/;
   
-  // Every.to 的文章链接格式: [### Title](https://every.to/...)
-  // URL 格式: https://every.to/source-code/..., https://every.to/context-window/..., etc.
-  const articleRegex = /\[(?:###\s*)?([^\]]+)\]\((https:\/\/every\.to\/(?:(?:source-code|context-window|on-every|podcast|playtesting|vibe-check|also-true-for-humans|p)\/[^)]+))\)/;
+  // 策略 2: 带 ### 的格式 [### 标题](https://every.to/...)
+  const hashRegex = /\[###\s*([^\]]+)\]\((https:\/\/every\.to\/[^/)]+\/[^)]+)\)/;
   
-  for (let i = 0; i < lines.length; i++) {
-    const line = lines[i].trim();
+  // 策略 3: 备用格式，匹配任何 every.to 链接
+  const fallbackRegex = /\[([^\]]{10,200})\]\((https:\/\/every\.to\/[^)]+)\)/;
+  
+  const strategies = [
+    { name: 'standard', regex: standardRegex },
+    { name: 'hash', regex: hashRegex },
+    { name: 'fallback', regex: fallbackRegex },
+  ];
+  
+  for (const strategy of strategies) {
+    console.log(`  [Every.to] 使用 ${strategy.name} 策略提取...`);
     
-    // 跳过空行和图片
-    if (!line || line.startsWith('![')) continue;
-    
-    const match = line.match(articleRegex);
-    if (!match) continue;
-    
-    const title = match[1].trim();
-    const url = match[2].trim();
-    
-    // 去重
-    if (seenUrls.has(url)) continue;
-    seenUrls.add(url);
-    
-    // 跳过导航链接
-    const lowerTitle = title.toLowerCase();
-    if (lowerTitle.includes('sign in') || 
-        lowerTitle.includes('subscribe') ||
-        lowerTitle.includes('home') ||
-        lowerTitle.includes('newsletter') ||
-        lowerTitle.includes('columnists') ||
-        lowerTitle.includes('columns') ||
-        lowerTitle.includes('podcast') ||
-        lowerTitle.includes('products') ||
-        lowerTitle.includes('events') ||
-        lowerTitle.includes('consulting') ||
-        lowerTitle.includes('store') ||
-        lowerTitle.includes('search') ||
-        lowerTitle.includes('about us') ||
-        lowerTitle.includes('jobs') ||
-        lowerTitle.includes('advertise') ||
-        lowerTitle.includes('the team') ||
-        lowerTitle.includes('faq') ||
-        lowerTitle.includes('help center') ||
-        lowerTitle.includes('popular') ||
-        lowerTitle.includes('newest') ||
-        lowerTitle.includes('oldest')) {
-      continue;
+    for (const line of lines) {
+      const trimmedLine = line.trim();
+      if (!trimmedLine || trimmedLine.startsWith('![')) continue;
+      
+      const match = trimmedLine.match(strategy.regex);
+      if (!match) continue;
+      
+      const title = match[1].trim().replace(/^###\s*/, '');
+      const url = match[2].trim();
+      
+      // 跳过非文章链接
+      if (url.includes('/authors/') || 
+          url.endsWith('/newsletter') ||
+          url.endsWith('/about') ||
+          url.endsWith('/search') ||
+          url.endsWith('/subscribe')) {
+        continue;
+      }
+      
+      // 去重
+      if (seenUrls.has(url)) continue;
+      seenUrls.add(url);
+      
+      // 跳过导航链接
+      const lowerTitle = title.toLowerCase();
+      const skipWords = ['sign in', 'subscribe', 'home', 'newsletter', 'columnists', 
+        'columns', 'products', 'events', 'consulting', 'store', 'search', 
+        'about us', 'jobs', 'advertise', 'the team', 'faq', 'help center',
+        'popular', 'newest', 'oldest', 'podcasts'];
+      
+      if (skipWords.some(word => lowerTitle.includes(word))) continue;
+      
+      // 提取分类
+      const category = extractEveryCategory(url);
+      
+      // 清理标题
+      const cleanTitle = title.replace(/\s+/g, ' ').trim();
+      
+      // 跳过太短的标题
+      if (cleanTitle.length < 10) continue;
+      
+      articles.push({
+        title: cleanTitle,
+        url: url,
+        date: getNowISO(),
+        summary: '',
+        category: category,
+      });
+      
+      // 最多取6条
+      if (articles.length >= 6) break;
     }
     
-    // 提取分类
-    const category = extractEveryCategory(url);
-    
-    // 清理标题 - 移除多余空格
-    const cleanTitle = title.replace(/\s+/g, ' ').trim();
-    
-    // 跳过太短的标题
-    if (cleanTitle.length < 10) continue;
-    
-    articles.push({
-      title: cleanTitle,
-      url: url,
-      date: getNowISO(),
-      summary: '',
-      category: category,
-    });
-    
-    // 最多取6条
     if (articles.length >= 6) break;
+    console.log(`  [Every.to] ${strategy.name} 策略提取到 ${articles.length} 条`);
   }
   
+  console.log(`  [Every.to] 总共提取到 ${articles.length} 条文章`);
   return articles;
 }
 
@@ -290,9 +333,28 @@ async function fetchHTMLSource(source) {
   console.log(`\n[${source.name}] 开始抓取...`);
 
   try {
-    // 使用 jina.ai 获取 markdown 格式内容
-    console.log(`[${source.name}] 使用 jina.ai 代理: ${source.jinaUrl}`);
-    const html = await fetchHTML(source.jinaUrl);
+    // 尝试多个 URL（主 URL + 备用 URL）
+    const urlsToTry = [source.jinaUrl, ...(source.fallbackUrls || [])];
+    let html = null;
+    let lastError = null;
+    
+    for (const url of urlsToTry) {
+      try {
+        console.log(`[${source.name}] 尝试: ${url}`);
+        html = await fetchHTML(url);
+        if (html && html.length > 100) {
+          console.log(`[${source.name}] ✓ 成功获取内容 (${html.length} 字符)`);
+          break;
+        }
+      } catch (error) {
+        console.log(`[${source.name}] ✗ ${url} 失败: ${error.message}`);
+        lastError = error;
+      }
+    }
+    
+    if (!html) {
+      throw lastError || new Error('无法从任何 URL 获取内容');
+    }
     
     // 解析内容
     let articles = [];

@@ -2,6 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const { execSync } = require('child_process');
 const { translateArticles } = require('./translate');
+const { ensureFallbackData } = require('./every-fallback');
 
 // 配置
 const DATA_DIR = path.join(__dirname, '..', 'public', 'data', 'ai-news');
@@ -370,6 +371,10 @@ async function main() {
   if (!htmlSuccess) {
     console.log('注意: HTML 抓取未执行或失败');
   }
+
+  // 检查 Every.to 数据，如果为空则使用备用数据
+  console.log('\n=== 检查 Every.to 数据 ===');
+  ensureFallbackData();
 
   // 获取 OpenClaw Releases
   await fetchOpenClawReleases();

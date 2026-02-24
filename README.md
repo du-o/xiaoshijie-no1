@@ -1,6 +1,6 @@
 # 小世界 No.1 项目
 
-加密货币数据监控面板
+AI 资讯聚合平台
 
 ## 技术栈
 
@@ -8,7 +8,7 @@
 - **语言**: TypeScript
 - **样式**: Tailwind CSS
 - **状态管理**: TanStack Query (React Query) + Zustand
-- **图表**: Recharts（预留）
+- **UI 图标**: Lucide React
 
 ## 项目结构
 
@@ -22,7 +22,7 @@ xiaoshijie-no1/
 │   ├── providers/         # 全局 Provider
 │   ├── ui/               # 基础 UI 组件
 │   └── features/         # 业务组件
-│       └── crypto/       # 加密货币相关
+│       └── ai-news/      # AI 资讯相关组件
 ├── lib/
 │   ├── api/              # API 封装
 │   └── utils/            # 工具函数
@@ -47,8 +47,20 @@ npm run build
 
 ## 数据来源
 
-- **BTC/ETH 价格**: CoinGecko API
-- **AHR999 指数**: 本地 `data/ahr999.json`（由 News 更新）
+- **OpenAI**: OpenAI 官方博客
+- **arXiv**: arXiv CS.AI 最新论文
+- **机器之心**: 国内 AI 媒体
+- **量子位**: 国内 AI 媒体
+- **Google Blog**: Google AI 博客
+- **Every.to**: AI 行业分析
+- **OpenClaw**: OpenClaw 社区动态
+- **Moltbook**: Moltbook 社交动态
+
+## 更新机制
+
+- **频率**: 每天 8:00、12:00、16:00、20:00 自动更新
+- **数据位置**: `public/data/ai-news/`
+- **翻译缓存**: `translations.json`
 
 ## 部署
 
