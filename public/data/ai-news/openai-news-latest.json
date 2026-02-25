@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-02-24T12:33:35.226Z",
+  "fetch_time": "2026-02-25T02:42:32.972Z",
   "articles": [
+    {
+      "title": "Arvind KC appointed Chief People Officer",
+      "date": "Tue, 24 Feb 2026 13:40:00 GMT",
+      "summary": "OpenAI appoints Arvind KC as Chief People Officer to help scale the company, strengthen its culture, and lead how work evolves in the age of AI.",
+      "url": "https://openai.com/index/arvind-kc-chief-people-officer",
+      "category": "Company"
+    },
     {
       "title": "Why we no longer evaluate SWE-bench Verified",
       "date": "Mon, 23 Feb 2026 11:00:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "OpenAI for India expands AI access across the country—building local infrastructure, powering enterprises, and advancing workforce skills.",
       "url": "https://openai.com/index/openai-for-india",
       "category": "Global Affairs"
-    },
-    {
-      "title": "Introducing EVMbench",
-      "date": "Wed, 18 Feb 2026 00:00:00 GMT",
-      "summary": "OpenAI and Paradigm introduce EVMbench, a benchmark evaluating AI agents’ ability to detect, patch, and exploit high-severity smart contract vulnerabilities.",
-      "url": "https://openai.com/index/introducing-evmbench",
-      "category": "Research"
     }
   ],
   "status": "success",

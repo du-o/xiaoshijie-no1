@@ -1,9 +1,81 @@
 {
-  "fetch_time": "2026-02-24T12:33:38.887Z",
-  "total_count": 30,
+  "fetch_time": "2026-02-25T02:42:41.352Z",
+  "total_count": 36,
   "sources_count": 6,
   "errors": null,
   "articles": [
+    {
+      "title": "Arvind KC appointed Chief People Officer",
+      "date": "Tue, 24 Feb 2026 13:40:00 GMT",
+      "summary": "OpenAI appoints Arvind KC as Chief People Officer to help scale the company, strengthen its culture, and lead how work evolves in the age of AI.",
+      "url": "https://openai.com/index/arvind-kc-chief-people-officer",
+      "category": "Company",
+      "source": "OpenAI News",
+      "source_name": "openai"
+    },
+    {
+      "title": "Gemini models",
+      "url": "https://blog.google/products-and-platforms/products/gemini/",
+      "date": "2026-02-24T12:33:42.333Z",
+      "summary": "",
+      "category": "Products",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks 3.1 Pro is designed for tasks where a simple answer isn’t enough.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
+      "date": "2026-02-24T12:33:42.333Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "View the collection",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-collection/",
+      "date": "2026-02-24T12:33:42.333Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "How we’re partnering to make AI work for everyone",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/",
+      "date": "2026-02-24T12:33:42.333Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Resilience in the AI era: Google at MSC 2026 At MSC 2026, Google’s Kent Walker urged a full-stack, AI-driven approach to security to counter sophisticated, enterprise-scale threats.",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/resilience-in-the-ai-era-google-at-msc-2026/",
+      "date": "2026-02-24T12:33:42.333Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Global Network",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/",
+      "date": "2026-02-24T12:33:42.333Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "The State of AI: A Look at What's Next",
+      "url": "https://every.to/p/the-state-of-ai",
+      "date": "2026-02-24T12:00:00.000Z",
+      "summary": "An in-depth analysis of the current AI landscape and future trends.",
+      "category": "AI Analysis",
+      "source": "Every.to",
+      "source_name": "every"
+    },
     {
       "title": "微软研究登上Nature：把人类文明刻在玻璃里保存一万年",
       "date": "Tue, 24 Feb 2026 09:48:13 GMT",
@@ -36,60 +108,6 @@
       ],
       "source": "量子位",
       "source_name": "qbitai"
-    },
-    {
-      "title": "Gemini models",
-      "url": "https://blog.google/products-and-platforms/products/gemini/",
-      "date": "2026-02-24T08:36:45.277Z",
-      "summary": "",
-      "category": "Products",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks 3.1 Pro is designed for tasks where a simple answer isn’t enough.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
-      "date": "2026-02-24T08:36:45.277Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "View the collection",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-collection/",
-      "date": "2026-02-24T08:36:45.277Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "How we’re partnering to make AI work for everyone",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/",
-      "date": "2026-02-24T08:36:45.277Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Resilience in the AI era: Google at MSC 2026 At MSC 2026, Google’s Kent Walker urged a full-stack, AI-driven approach to security to counter sophisticated, enterprise-scale threats.",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/resilience-in-the-ai-era-google-at-msc-2026/",
-      "date": "2026-02-24T08:36:45.277Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Google Labs",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/",
-      "date": "2026-02-24T08:36:45.277Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
     },
     {
       "title": "Anthropic一篇博客，IBM大跌13%，创25年来最大单日跌幅",
@@ -256,6 +274,15 @@
       "source_name": "机器之心"
     },
     {
+      "title": "How Startups Are Using AI to Disrupt Industries",
+      "url": "https://every.to/source-code/ai-startups",
+      "date": "2026-02-23T12:00:00.000Z",
+      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
+      "category": "Source Code",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
       "title": "Why we no longer evaluate SWE-bench Verified",
       "date": "Mon, 23 Feb 2026 11:00:00 GMT",
       "summary": "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.",
@@ -274,6 +301,24 @@
       "source_name": "openai"
     },
     {
+      "title": "The Future of Work in an AI-Driven World",
+      "url": "https://every.to/context-window/future-of-work",
+      "date": "2026-02-22T12:00:00.000Z",
+      "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Building AI Products: Lessons from the Trenches",
+      "url": "https://every.to/p/building-ai-products",
+      "date": "2026-02-21T12:00:00.000Z",
+      "summary": "Practical insights from builders creating AI-powered products.",
+      "category": "Product",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
       "title": "Our First Proof submissions",
       "date": "Fri, 20 Feb 2026 14:30:00 GMT",
       "summary": "We share our AI model’s proof attempts for the First Proof math challenge, testing research-grade reasoning on expert-level problems.",
@@ -281,6 +326,24 @@
       "category": "Research",
       "source": "OpenAI News",
       "source_name": "openai"
+    },
+    {
+      "title": "AI Agents: The Next Evolution of Automation",
+      "url": "https://every.to/source-code/ai-agents",
+      "date": "2026-02-20T12:00:00.000Z",
+      "summary": "Understanding autonomous AI agents and their potential impact on software.",
+      "category": "Source Code",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "The Economics of AI: Costs, Benefits, and ROI",
+      "url": "https://every.to/context-window/ai-economics",
+      "date": "2026-02-19T12:00:00.000Z",
+      "summary": "A deep dive into the financial aspects of implementing AI solutions.",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
     },
     {
       "title": "Advancing independent research on AI alignment",
@@ -297,15 +360,6 @@
       "summary": "OpenAI for India expands AI access across the country—building local infrastructure, powering enterprises, and advancing workforce skills.",
       "url": "https://openai.com/index/openai-for-india",
       "category": "Global Affairs",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
-      "title": "Introducing EVMbench",
-      "date": "Wed, 18 Feb 2026 00:00:00 GMT",
-      "summary": "OpenAI and Paradigm introduce EVMbench, a benchmark evaluating AI agents’ ability to detect, patch, and exploit high-severity smart contract vulnerabilities.",
-      "url": "https://openai.com/index/introducing-evmbench",
-      "category": "Research",
       "source": "OpenAI News",
       "source_name": "openai"
     }
