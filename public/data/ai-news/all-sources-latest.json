@@ -1,9 +1,199 @@
 {
-  "fetch_time": "2026-02-25T02:42:41.352Z",
-  "total_count": 36,
+  "fetch_time": "2026-02-25T05:22:38.547Z",
+  "total_count": 33,
   "sources_count": 6,
   "errors": null,
   "articles": [
+    {
+      "title": "最强Coding Plan上线！阿里云上线Qwen3.5、GLM-5、MiniMax M2.5、Kimi K2.5四大顶尖开源模型",
+      "date": "Wed, 25 Feb 2026 05:17:53 GMT",
+      "summary": "",
+      "url": "https://www.jiqizhixin.com/articles/2026-02-25-5",
+      "category": "",
+      "source": "机器之心",
+      "source_name": "机器之心"
+    },
+    {
+      "title": "DeepMind药物衍生公司的独家新AI，堪称AlphaFold 4的专有药物设计引擎",
+      "date": "Wed, 25 Feb 2026 05:09:33 GMT",
+      "summary": "",
+      "url": "https://www.jiqizhixin.com/articles/2026-02-25-4",
+      "category": "",
+      "source": "机器之心",
+      "source_name": "机器之心"
+    },
+    {
+      "title": "Multilevel Determinants of Overweight and Obesity Among U.S. Children Aged 10-17: Comparative Evaluation of Statistical and Machine Learning Approaches Using the 2021 National Survey of Children's Health",
+      "date": "Wed, 25 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.20303v1 Announce Type: new Abstract: Background: Childhood and adolescent overweight and obesity remain major public health concerns in the United States and are shaped by behavioral, household, and community factors. Their joint predictive structure at the population level remains incompletely characterized. Objectives: The study aims to identify multilevel predictors of overweight and obesity among U.S. adolescents and compare the predictive performance, calibration, and subgroup eq",
+      "url": "https://arxiv.org/abs/2602.20303",
+      "category": [
+        "cs.AI",
+        "cs.LG"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "An artificial intelligence framework for end-to-end rare disease phenotyping from clinical notes using large language models",
+      "date": "Wed, 25 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.20324v1 Announce Type: new Abstract: Phenotyping is fundamental to rare disease diagnosis, but manual curation of structured phenotypes from clinical notes is labor-intensive and difficult to scale. Existing artificial intelligence approaches typically optimize individual components of phenotyping but do not operationalize the full clinical workflow of extracting features from clinical text, standardizing them to Human Phenotype Ontology (HPO) terms, and prioritizing diagnostically in",
+      "url": "https://arxiv.org/abs/2602.20324",
+      "category": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "DMCD: Semantic-Statistical Framework for Causal Discovery",
+      "date": "Wed, 25 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.20333v1 Announce Type: new Abstract: We present DMCD (DataMap Causal Discovery), a two-phase causal discovery framework that integrates LLM-based semantic drafting from variable metadata with statistical validation on observational data. In Phase I, a large language model proposes a sparse draft DAG, serving as a semantically informed prior over the space of possible causal structures. In Phase II, this draft is audited and refined via conditional independence testing, with detected d",
+      "url": "https://arxiv.org/abs/2602.20333",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Diffusion Modulation via Environment Mechanism Modeling for Planning",
+      "date": "Wed, 25 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.20422v1 Announce Type: new Abstract: Diffusion models have shown promising capabilities in trajectory generation for planning in offline reinforcement learning (RL). However, conventional diffusion-based planning methods often fail to account for the fact that generating trajectories in RL requires unique consistency between transitions to ensure coherence in real environments. This oversight can result in considerable discrepancies between the generated trajectories and the underlyin",
+      "url": "https://arxiv.org/abs/2602.20422",
+      "category": [
+        "cs.AI",
+        "cs.LG"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Implicit Intelligence -- Evaluating Agents on What Users Don't Say",
+      "date": "Wed, 25 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.20424v1 Announce Type: new Abstract: Real-world requests to AI agents are fundamentally underspecified. Natural human communication relies on shared context and unstated constraints that speakers expect listeners to infer. Current agentic benchmarks test explicit instruction-following but fail to evaluate whether agents can reason about implicit requirements spanning accessibility needs, privacy boundaries, catastrophic risks, and contextual constraints. We present Implicit Intelligen",
+      "url": "https://arxiv.org/abs/2602.20424",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Learning to Rewrite Tool Descriptions for Reliable LLM-Agent Tool Use",
+      "date": "Wed, 25 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.20426v1 Announce Type: new Abstract: The performance of LLM-based agents depends not only on the agent itself but also on the quality of the tool interfaces it consumes. While prior work has focused heavily on agent fine-tuning, tool interfaces-including natural language descriptions and parameter schemas-remain largely human-oriented and often become a bottleneck, especially when agents must select from large candidate tool sets. Existing approaches to improving tool interfaces rely ",
+      "url": "https://arxiv.org/abs/2602.20426",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "AI能写COBOL代码，砸崩IBM股价，单日蒸发310亿美元，创26年最惨纪录",
+      "date": "Wed, 25 Feb 2026 04:09:14 GMT",
+      "summary": "",
+      "url": "https://www.jiqizhixin.com/articles/2026-02-25-3",
+      "category": "",
+      "source": "机器之心",
+      "source_name": "机器之心"
+    },
+    {
+      "title": "刚上完春晚，宇树新品机器狗就亮相了",
+      "date": "Wed, 25 Feb 2026 04:06:00 GMT",
+      "summary": "",
+      "url": "https://www.jiqizhixin.com/articles/2026-02-25-2",
+      "category": "",
+      "source": "机器之心",
+      "source_name": "机器之心"
+    },
+    {
+      "title": "ICLR2026 Oral | 当情感识别不再是分类题：EmotionThinker 让 SpeechLLM 学会“解释情绪”",
+      "date": "Wed, 25 Feb 2026 04:00:30 GMT",
+      "summary": "",
+      "url": "https://www.jiqizhixin.com/articles/2026-02-25",
+      "category": "",
+      "source": "机器之心",
+      "source_name": "机器之心"
+    },
+    {
+      "title": "![Image 6: Every",
+      "url": "https://every.to/assets/every-logo-white-d8b0c13c4b860174d4ac9717f446538ba8fa4f3b3736dde0de86e37bfc756789.svg",
+      "date": "2026-02-25T02:42:48.984Z",
+      "summary": "",
+      "category": "Every",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "![Image 9: X / Twitter",
+      "url": "https://every.to/assets/icons/xtwitter-a66ae6dc5260bbbab32ecaf3eb723b411070cd7887f803e04ad04018ec25e85a.svg",
+      "date": "2026-02-25T02:42:48.984Z",
+      "summary": "",
+      "category": "Every",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "X![Image 63: Arrow Out",
+      "url": "https://every.to/assets/icons/arrow-out-24683ffaeddd57d11c9d17e922b83e89ad166f57b7bfc5eb2d917fc788c214ed.svg",
+      "date": "2026-02-25T02:42:48.984Z",
+      "summary": "",
+      "category": "Every",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Gemini models",
+      "url": "https://blog.google/products-and-platforms/products/gemini/",
+      "date": "2026-02-25T02:42:44.582Z",
+      "summary": "",
+      "category": "Products",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks 3.1 Pro is designed for tasks where a simple answer isn’t enough.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
+      "date": "2026-02-25T02:42:44.582Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "View the collection",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-collection/",
+      "date": "2026-02-25T02:42:44.582Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "How we’re partnering to make AI work for everyone",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/",
+      "date": "2026-02-25T02:42:44.582Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Resilience in the AI era: Google at MSC 2026 At MSC 2026, Google’s Kent Walker urged a full-stack, AI-driven approach to security to counter sophisticated, enterprise-scale threats.",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/resilience-in-the-ai-era-google-at-msc-2026/",
+      "date": "2026-02-25T02:42:44.582Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Google Labs",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/",
+      "date": "2026-02-25T02:42:44.582Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
     {
       "title": "Arvind KC appointed Chief People Officer",
       "date": "Tue, 24 Feb 2026 13:40:00 GMT",
@@ -14,82 +204,10 @@
       "source_name": "openai"
     },
     {
-      "title": "Gemini models",
-      "url": "https://blog.google/products-and-platforms/products/gemini/",
-      "date": "2026-02-24T12:33:42.333Z",
-      "summary": "",
-      "category": "Products",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks 3.1 Pro is designed for tasks where a simple answer isn’t enough.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
-      "date": "2026-02-24T12:33:42.333Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "View the collection",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-collection/",
-      "date": "2026-02-24T12:33:42.333Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "How we’re partnering to make AI work for everyone",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/",
-      "date": "2026-02-24T12:33:42.333Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Resilience in the AI era: Google at MSC 2026 At MSC 2026, Google’s Kent Walker urged a full-stack, AI-driven approach to security to counter sophisticated, enterprise-scale threats.",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/resilience-in-the-ai-era-google-at-msc-2026/",
-      "date": "2026-02-24T12:33:42.333Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Global Network",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/",
-      "date": "2026-02-24T12:33:42.333Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "The State of AI: A Look at What's Next",
-      "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-02-24T12:00:00.000Z",
-      "summary": "An in-depth analysis of the current AI landscape and future trends.",
-      "category": "AI Analysis",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
       "title": "微软研究登上Nature：把人类文明刻在玻璃里保存一万年",
       "date": "Tue, 24 Feb 2026 09:48:13 GMT",
       "summary": "",
       "url": "https://www.jiqizhixin.com/articles/2026-02-24-9",
-      "category": "",
-      "source": "机器之心",
-      "source_name": "机器之心"
-    },
-    {
-      "title": "又快又省？仅5%参数、训练快4倍！ArcFlow用「非线性」魔法实现FLUX/Qwen推理40倍加速",
-      "date": "Tue, 24 Feb 2026 09:43:12 GMT",
-      "summary": "",
-      "url": "https://www.jiqizhixin.com/articles/2026-02-24-8",
       "category": "",
       "source": "机器之心",
       "source_name": "机器之心"
@@ -170,119 +288,6 @@
       "source_name": "qbitai"
     },
     {
-      "title": "全网围观：Meta超级智能安全总监，被OpenClaw删光了邮件",
-      "date": "Tue, 24 Feb 2026 06:48:36 GMT",
-      "summary": "",
-      "url": "https://www.jiqizhixin.com/articles/2026-02-24-7",
-      "category": "",
-      "source": "机器之心",
-      "source_name": "机器之心"
-    },
-    {
-      "title": "多模态DeepResearch，成了！",
-      "date": "Tue, 24 Feb 2026 06:45:21 GMT",
-      "summary": "",
-      "url": "https://www.jiqizhixin.com/articles/2026-02-24-6",
-      "category": "",
-      "source": "机器之心",
-      "source_name": "机器之心"
-    },
-    {
-      "title": "八年积淀，中国人工智能迎来自主的世界级学术主场WAICA",
-      "date": "Tue, 24 Feb 2026 06:04:43 GMT",
-      "summary": "",
-      "url": "https://www.jiqizhixin.com/articles/2026-02-24-5",
-      "category": "",
-      "source": "机器之心",
-      "source_name": "机器之心"
-    },
-    {
-      "title": "On the Dynamics of Observation and Semantics",
-      "date": "Tue, 24 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.18494v1 Announce Type: new Abstract: A dominant paradigm in visual intelligence treats semantics as a static property of latent representations, assuming that meaning can be discovered through geometric proximity in high dimensional embedding spaces. In this work, we argue that this view is physically incomplete. We propose that intelligence is not a passive mirror of reality but a property of a physically realizable agent, a system bounded by finite memory, finite compute, and finite",
-      "url": "https://arxiv.org/abs/2602.18494",
-      "category": [
-        "cs.AI",
-        "cs.LG"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Hierarchical Reward Design from Language: Enhancing Alignment of Agent Behavior with Human Specifications",
-      "date": "Tue, 24 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.18582v1 Announce Type: new Abstract: When training artificial intelligence (AI) to perform tasks, humans often care not only about whether a task is completed but also how it is performed. As AI agents tackle increasingly complex tasks, aligning their behavior with human-provided specifications becomes critical for responsible AI deployment. Reward design provides a direct channel for such alignment by translating human expectations into reward functions that guide reinforcement learn",
-      "url": "https://arxiv.org/abs/2602.18582",
-      "category": [
-        "cs.AI",
-        "cs.CL",
-        "cs.HC",
-        "cs.LG"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Feedback-based Automated Verification in Vibe Coding of CAS Adaptation Built on Constraint Logic",
-      "date": "Tue, 24 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.18607v1 Announce Type: new Abstract: In CAS adaptation, a challenge is to define the dynamic architecture of the system and changes in its behavior. Implementation-wise, this is projected into an adaptation mechanism, typically realized as an Adaptation Manager (AM). With the advances of generative LLMs, generating AM code based on system specification and desired AM behavior (partially in natural language) is a tempting opportunity. The recent introduction of vibe coding suggests a w",
-      "url": "https://arxiv.org/abs/2602.18607",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Decoding ML Decision: An Agentic Reasoning Framework for Large-Scale Ranking System",
-      "date": "Tue, 24 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.18640v1 Announce Type: new Abstract: Modern large-scale ranking systems operate within a sophisticated landscape of competing objectives, operational constraints, and evolving product requirements. Progress in this domain is increasingly bottlenecked by the engineering context constraint: the arduous process of translating ambiguous product intent into reasonable, executable, verifiable hypotheses, rather than by modeling techniques alone. We present GEARS (Generative Engine for Agent",
-      "url": "https://arxiv.org/abs/2602.18640",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Spilled Energy in Large Language Models",
-      "date": "Tue, 24 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.18671v1 Announce Type: new Abstract: We reinterpret the final Large Language Model (LLM) softmax classifier as an Energy-Based Model (EBM), decomposing the sequence-to-sequence probability chain into multiple interacting EBMs at inference. This principled approach allows us to track \"energy spills\" during decoding, which we empirically show correlate with factual errors, biases, and failures. Similar to Orgad et al. (2025), our method localizes the exact answer token and subsequently ",
-      "url": "https://arxiv.org/abs/2602.18671",
-      "category": [
-        "cs.AI",
-        "cs.CL"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Many AI Analysts, One Dataset: Navigating the Agentic Data Science Multiverse",
-      "date": "Tue, 24 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.18710v1 Announce Type: new Abstract: The conclusions of empirical research depend not only on data but on a sequence of analytic decisions that published results seldom make explicit. Past ``many-analyst\" studies have demonstrated this: independent teams testing the same hypothesis on the same dataset regularly reach conflicting conclusions. But such studies require months of coordination among dozens of research groups and are therefore rarely conducted. In this work, we show that fu",
-      "url": "https://arxiv.org/abs/2602.18710",
-      "category": [
-        "cs.AI",
-        "cs.LG"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "228小时狂飙100篇论文、烧光114亿Token：FARS杀疯了",
-      "date": "Tue, 24 Feb 2026 04:49:19 GMT",
-      "summary": "",
-      "url": "https://www.jiqizhixin.com/articles/2026-02-24-4",
-      "category": "",
-      "source": "机器之心",
-      "source_name": "机器之心"
-    },
-    {
-      "title": "How Startups Are Using AI to Disrupt Industries",
-      "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-02-23T12:00:00.000Z",
-      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
-      "category": "Source Code",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
       "title": "Why we no longer evaluate SWE-bench Verified",
       "date": "Mon, 23 Feb 2026 11:00:00 GMT",
       "summary": "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.",
@@ -301,24 +306,6 @@
       "source_name": "openai"
     },
     {
-      "title": "The Future of Work in an AI-Driven World",
-      "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-02-22T12:00:00.000Z",
-      "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Building AI Products: Lessons from the Trenches",
-      "url": "https://every.to/p/building-ai-products",
-      "date": "2026-02-21T12:00:00.000Z",
-      "summary": "Practical insights from builders creating AI-powered products.",
-      "category": "Product",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
       "title": "Our First Proof submissions",
       "date": "Fri, 20 Feb 2026 14:30:00 GMT",
       "summary": "We share our AI model’s proof attempts for the First Proof math challenge, testing research-grade reasoning on expert-level problems.",
@@ -326,24 +313,6 @@
       "category": "Research",
       "source": "OpenAI News",
       "source_name": "openai"
-    },
-    {
-      "title": "AI Agents: The Next Evolution of Automation",
-      "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-02-20T12:00:00.000Z",
-      "summary": "Understanding autonomous AI agents and their potential impact on software.",
-      "category": "Source Code",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "The Economics of AI: Costs, Benefits, and ROI",
-      "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-02-19T12:00:00.000Z",
-      "summary": "A deep dive into the financial aspects of implementing AI solutions.",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "Advancing independent research on AI alignment",

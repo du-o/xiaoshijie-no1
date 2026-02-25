@@ -1,63 +1,59 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-02-25T02:42:33.197Z",
+  "fetch_time": "2026-02-25T05:22:34.682Z",
   "articles": [
     {
-      "title": "On the Dynamics of Observation and Semantics",
-      "date": "Tue, 24 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.18494v1 Announce Type: new Abstract: A dominant paradigm in visual intelligence treats semantics as a static property of latent representations, assuming that meaning can be discovered through geometric proximity in high dimensional embedding spaces. In this work, we argue that this view is physically incomplete. We propose that intelligence is not a passive mirror of reality but a property of a physically realizable agent, a system bounded by finite memory, finite compute, and finite",
-      "url": "https://arxiv.org/abs/2602.18494",
+      "title": "Multilevel Determinants of Overweight and Obesity Among U.S. Children Aged 10-17: Comparative Evaluation of Statistical and Machine Learning Approaches Using the 2021 National Survey of Children's Health",
+      "date": "Wed, 25 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.20303v1 Announce Type: new Abstract: Background: Childhood and adolescent overweight and obesity remain major public health concerns in the United States and are shaped by behavioral, household, and community factors. Their joint predictive structure at the population level remains incompletely characterized. Objectives: The study aims to identify multilevel predictors of overweight and obesity among U.S. adolescents and compare the predictive performance, calibration, and subgroup eq",
+      "url": "https://arxiv.org/abs/2602.20303",
       "category": [
         "cs.AI",
         "cs.LG"
       ]
     },
     {
-      "title": "Hierarchical Reward Design from Language: Enhancing Alignment of Agent Behavior with Human Specifications",
-      "date": "Tue, 24 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.18582v1 Announce Type: new Abstract: When training artificial intelligence (AI) to perform tasks, humans often care not only about whether a task is completed but also how it is performed. As AI agents tackle increasingly complex tasks, aligning their behavior with human-provided specifications becomes critical for responsible AI deployment. Reward design provides a direct channel for such alignment by translating human expectations into reward functions that guide reinforcement learn",
-      "url": "https://arxiv.org/abs/2602.18582",
+      "title": "An artificial intelligence framework for end-to-end rare disease phenotyping from clinical notes using large language models",
+      "date": "Wed, 25 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.20324v1 Announce Type: new Abstract: Phenotyping is fundamental to rare disease diagnosis, but manual curation of structured phenotypes from clinical notes is labor-intensive and difficult to scale. Existing artificial intelligence approaches typically optimize individual components of phenotyping but do not operationalize the full clinical workflow of extracting features from clinical text, standardizing them to Human Phenotype Ontology (HPO) terms, and prioritizing diagnostically in",
+      "url": "https://arxiv.org/abs/2602.20324",
       "category": [
         "cs.AI",
         "cs.CL",
-        "cs.HC",
         "cs.LG"
       ]
     },
     {
-      "title": "Feedback-based Automated Verification in Vibe Coding of CAS Adaptation Built on Constraint Logic",
-      "date": "Tue, 24 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.18607v1 Announce Type: new Abstract: In CAS adaptation, a challenge is to define the dynamic architecture of the system and changes in its behavior. Implementation-wise, this is projected into an adaptation mechanism, typically realized as an Adaptation Manager (AM). With the advances of generative LLMs, generating AM code based on system specification and desired AM behavior (partially in natural language) is a tempting opportunity. The recent introduction of vibe coding suggests a w",
-      "url": "https://arxiv.org/abs/2602.18607",
+      "title": "DMCD: Semantic-Statistical Framework for Causal Discovery",
+      "date": "Wed, 25 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.20333v1 Announce Type: new Abstract: We present DMCD (DataMap Causal Discovery), a two-phase causal discovery framework that integrates LLM-based semantic drafting from variable metadata with statistical validation on observational data. In Phase I, a large language model proposes a sparse draft DAG, serving as a semantically informed prior over the space of possible causal structures. In Phase II, this draft is audited and refined via conditional independence testing, with detected d",
+      "url": "https://arxiv.org/abs/2602.20333",
       "category": "cs.AI"
     },
     {
-      "title": "Decoding ML Decision: An Agentic Reasoning Framework for Large-Scale Ranking System",
-      "date": "Tue, 24 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.18640v1 Announce Type: new Abstract: Modern large-scale ranking systems operate within a sophisticated landscape of competing objectives, operational constraints, and evolving product requirements. Progress in this domain is increasingly bottlenecked by the engineering context constraint: the arduous process of translating ambiguous product intent into reasonable, executable, verifiable hypotheses, rather than by modeling techniques alone. We present GEARS (Generative Engine for Agent",
-      "url": "https://arxiv.org/abs/2602.18640",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Spilled Energy in Large Language Models",
-      "date": "Tue, 24 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.18671v1 Announce Type: new Abstract: We reinterpret the final Large Language Model (LLM) softmax classifier as an Energy-Based Model (EBM), decomposing the sequence-to-sequence probability chain into multiple interacting EBMs at inference. This principled approach allows us to track \"energy spills\" during decoding, which we empirically show correlate with factual errors, biases, and failures. Similar to Orgad et al. (2025), our method localizes the exact answer token and subsequently ",
-      "url": "https://arxiv.org/abs/2602.18671",
-      "category": [
-        "cs.AI",
-        "cs.CL"
-      ]
-    },
-    {
-      "title": "Many AI Analysts, One Dataset: Navigating the Agentic Data Science Multiverse",
-      "date": "Tue, 24 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.18710v1 Announce Type: new Abstract: The conclusions of empirical research depend not only on data but on a sequence of analytic decisions that published results seldom make explicit. Past ``many-analyst\" studies have demonstrated this: independent teams testing the same hypothesis on the same dataset regularly reach conflicting conclusions. But such studies require months of coordination among dozens of research groups and are therefore rarely conducted. In this work, we show that fu",
-      "url": "https://arxiv.org/abs/2602.18710",
+      "title": "Diffusion Modulation via Environment Mechanism Modeling for Planning",
+      "date": "Wed, 25 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.20422v1 Announce Type: new Abstract: Diffusion models have shown promising capabilities in trajectory generation for planning in offline reinforcement learning (RL). However, conventional diffusion-based planning methods often fail to account for the fact that generating trajectories in RL requires unique consistency between transitions to ensure coherence in real environments. This oversight can result in considerable discrepancies between the generated trajectories and the underlyin",
+      "url": "https://arxiv.org/abs/2602.20422",
       "category": [
         "cs.AI",
         "cs.LG"
       ]
+    },
+    {
+      "title": "Implicit Intelligence -- Evaluating Agents on What Users Don't Say",
+      "date": "Wed, 25 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.20424v1 Announce Type: new Abstract: Real-world requests to AI agents are fundamentally underspecified. Natural human communication relies on shared context and unstated constraints that speakers expect listeners to infer. Current agentic benchmarks test explicit instruction-following but fail to evaluate whether agents can reason about implicit requirements spanning accessibility needs, privacy boundaries, catastrophic risks, and contextual constraints. We present Implicit Intelligen",
+      "url": "https://arxiv.org/abs/2602.20424",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Learning to Rewrite Tool Descriptions for Reliable LLM-Agent Tool Use",
+      "date": "Wed, 25 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.20426v1 Announce Type: new Abstract: The performance of LLM-based agents depends not only on the agent itself but also on the quality of the tool interfaces it consumes. While prior work has focused heavily on agent fine-tuning, tool interfaces-including natural language descriptions and parameter schemas-remain largely human-oriented and often become a bottleneck, especially when agents must select from large candidate tool sets. Existing approaches to improving tool interfaces rely ",
+      "url": "https://arxiv.org/abs/2602.20426",
+      "category": "cs.AI"
     }
   ],
   "status": "success",

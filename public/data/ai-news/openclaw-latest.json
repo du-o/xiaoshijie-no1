@@ -1,8 +1,28 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-02-25T02:42:50.250Z",
+  "fetch_time": "2026-02-25T05:22:48.359Z",
   "articles": [
+    {
+      "title": "openclaw 2026.2.24",
+      "date": "2026-02-25T03:31:17Z",
+      "summary": "\n### Changes\n\n- Auto-reply/Abort shortcuts: expand standalone stop phrases (`stop openclaw`, `stop action`, `stop run`, `stop agent`, `please stop`, and related variants), accept trailing punctuation ...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.24",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.2.24",
+      "downloadCount": 973
+    },
+    {
+      "title": "openclaw 2026.2.24-beta.1",
+      "date": "2026-02-25T03:01:17Z",
+      "summary": "### Changes\n\n- Auto-reply/Abort shortcuts: expand standalone stop phrases (`stop openclaw`, `stop action`, `stop run`, `stop agent`, `please stop`, and related variants), accept trailing punctuation (...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.24-beta.1",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.2.24-beta.1",
+      "downloadCount": 80
+    },
     {
       "title": "openclaw 2026.2.23",
       "date": "2026-02-24T05:41:47Z",
@@ -11,7 +31,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.23",
-      "downloadCount": 12021
+      "downloadCount": 12900
     },
     {
       "title": "openclaw 2026.2.22",
@@ -21,7 +41,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.22",
-      "downloadCount": 13130
+      "downloadCount": 13156
     },
     {
       "title": "openclaw 2026.2.21",
@@ -31,7 +51,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.21",
-      "downloadCount": 16987
+      "downloadCount": 17014
     },
     {
       "title": "openclaw 2026.2.19",
@@ -41,27 +61,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.19",
-      "downloadCount": 21306
-    },
-    {
-      "title": "openclaw 2026.2.19",
-      "date": "2026-02-19T16:21:06Z",
-      "summary": "### Changes\r\n\r\n- iOS/Watch: add an Apple Watch companion MVP with watch inbox UI, watch notification relay handling, and gateway command surfaces for watch status/send flows. (#20054) Thanks @mbelinky...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.19-beta.1",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.2.19-beta.1",
-      "downloadCount": 205
-    },
-    {
-      "title": "openclaw 2026.2.17",
-      "date": "2026-02-18T02:55:29Z",
-      "summary": "### Changes\r\n\r\n- Agents/Anthropic: add opt-in 1M context beta header support for Opus/Sonnet via model `params.context1m: true` (maps to `anthropic-beta: context-1m-2025-08-07`).\r\n- Agents/Models: sup...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.17",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.2.17",
-      "downloadCount": 18288
+      "downloadCount": 21312
     }
   ],
   "status": "success",
