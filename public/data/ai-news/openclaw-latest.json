@@ -1,8 +1,28 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-02-26T02:38:04.346Z",
+  "fetch_time": "2026-02-26T05:20:41.858Z",
   "articles": [
+    {
+      "title": "openclaw 2026.2.25",
+      "date": "2026-02-26T04:17:56Z",
+      "summary": "\n### Changes\n\n- Android/Chat: improve streaming delivery handling and markdown rendering quality in the native Android chat UI, including better GitHub-flavored markdown behavior. (#26079) Thanks @obv...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.25",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.2.25",
+      "downloadCount": 454
+    },
+    {
+      "title": "openclaw 2026.2.25-beta.1",
+      "date": "2026-02-26T03:55:38Z",
+      "summary": "### Changes\n\n- Android/Chat: improve streaming delivery handling and markdown rendering quality in the native Android chat UI, including better GitHub-flavored markdown behavior. (#26079) Thanks @obvi...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.25-beta.1",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.2.25-beta.1",
+      "downloadCount": 30
+    },
     {
       "title": "openclaw 2026.2.24",
       "date": "2026-02-25T03:31:17Z",
@@ -11,7 +31,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.24",
-      "downloadCount": 12090
+      "downloadCount": 13422
     },
     {
       "title": "openclaw 2026.2.24-beta.1",
@@ -21,7 +41,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.24-beta.1",
-      "downloadCount": 142
+      "downloadCount": 150
     },
     {
       "title": "openclaw 2026.2.23",
@@ -31,7 +51,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.23",
-      "downloadCount": 13106
+      "downloadCount": 13122
     },
     {
       "title": "openclaw 2026.2.22",
@@ -41,27 +61,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.22",
-      "downloadCount": 13357
-    },
-    {
-      "title": "openclaw 2026.2.21",
-      "date": "2026-02-21T16:56:48Z",
-      "summary": "\n### Changes\n\n- Models/Google: add Gemini 3.1 support (`google/gemini-3.1-pro-preview`).\n- Providers/Onboarding: add Volcano Engine (Doubao) and BytePlus providers/models (including coding variants), ...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.21",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.2.21",
-      "downloadCount": 17194
-    },
-    {
-      "title": "openclaw 2026.2.19",
-      "date": "2026-02-19T17:35:21Z",
-      "summary": "### Changes\r\n\r\n- iOS/Watch: add an Apple Watch companion MVP with watch inbox UI, watch notification relay handling, and gateway command surfaces for watch status/send flows. (#20054) Thanks @mbelinky...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.19",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.2.19",
-      "downloadCount": 21419
+      "downloadCount": 13383
     }
   ],
   "status": "success",

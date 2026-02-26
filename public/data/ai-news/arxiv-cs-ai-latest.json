@@ -1,59 +1,59 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-02-26T02:37:51.501Z",
+  "fetch_time": "2026-02-26T05:20:02.517Z",
   "articles": [
     {
-      "title": "Multilevel Determinants of Overweight and Obesity Among U.S. Children Aged 10-17: Comparative Evaluation of Statistical and Machine Learning Approaches Using the 2021 National Survey of Children's Health",
-      "date": "Wed, 25 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.20303v1 Announce Type: new Abstract: Background: Childhood and adolescent overweight and obesity remain major public health concerns in the United States and are shaped by behavioral, household, and community factors. Their joint predictive structure at the population level remains incompletely characterized. Objectives: The study aims to identify multilevel predictors of overweight and obesity among U.S. adolescents and compare the predictive performance, calibration, and subgroup eq",
-      "url": "https://arxiv.org/abs/2602.20303",
-      "category": [
-        "cs.AI",
-        "cs.LG"
-      ]
-    },
-    {
-      "title": "An artificial intelligence framework for end-to-end rare disease phenotyping from clinical notes using large language models",
-      "date": "Wed, 25 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.20324v1 Announce Type: new Abstract: Phenotyping is fundamental to rare disease diagnosis, but manual curation of structured phenotypes from clinical notes is labor-intensive and difficult to scale. Existing artificial intelligence approaches typically optimize individual components of phenotyping but do not operationalize the full clinical workflow of extracting features from clinical text, standardizing them to Human Phenotype Ontology (HPO) terms, and prioritizing diagnostically in",
-      "url": "https://arxiv.org/abs/2602.20324",
-      "category": [
-        "cs.AI",
-        "cs.CL",
-        "cs.LG"
-      ]
-    },
-    {
-      "title": "DMCD: Semantic-Statistical Framework for Causal Discovery",
-      "date": "Wed, 25 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.20333v1 Announce Type: new Abstract: We present DMCD (DataMap Causal Discovery), a two-phase causal discovery framework that integrates LLM-based semantic drafting from variable metadata with statistical validation on observational data. In Phase I, a large language model proposes a sparse draft DAG, serving as a semantically informed prior over the space of possible causal structures. In Phase II, this draft is audited and refined via conditional independence testing, with detected d",
-      "url": "https://arxiv.org/abs/2602.20333",
+      "title": "A Dynamic Survey of Soft Set Theory and Its Extensions",
+      "date": "Thu, 26 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.21268v1 Announce Type: new Abstract: Soft set theory provides a direct framework for parameterized decision modeling by assigning to each attribute (parameter) a subset of a given universe, thereby representing uncertainty in a structured way [1, 2]. Over the past decades, the theory has expanded into numerous variants-including hypersoft sets, superhypersoft sets, TreeSoft sets, bipolar soft sets, and dynamic soft sets-and has been connected to diverse areas such as topology and matr",
+      "url": "https://arxiv.org/abs/2602.21268",
       "category": "cs.AI"
     },
     {
-      "title": "Diffusion Modulation via Environment Mechanism Modeling for Planning",
-      "date": "Wed, 25 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.20422v1 Announce Type: new Abstract: Diffusion models have shown promising capabilities in trajectory generation for planning in offline reinforcement learning (RL). However, conventional diffusion-based planning methods often fail to account for the fact that generating trajectories in RL requires unique consistency between transitions to ensure coherence in real environments. This oversight can result in considerable discrepancies between the generated trajectories and the underlyin",
-      "url": "https://arxiv.org/abs/2602.20422",
+      "title": "A Hierarchical Multi-Agent System for Autonomous Discovery in Geoscientific Data Archives",
+      "date": "Thu, 26 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.21351v1 Announce Type: new Abstract: The rapid accumulation of Earth science data has created a significant scalability challenge; while repositories like PANGAEA host vast collections of datasets, citation metrics indicate that a substantial portion remains underutilized, limiting data reusability. Here we present PANGAEA-GPT, a hierarchical multi-agent framework designed for autonomous data discovery and analysis. Unlike standard Large Language Model (LLM) wrappers, our architecture",
+      "url": "https://arxiv.org/abs/2602.21351",
       "category": [
         "cs.AI",
-        "cs.LG"
+        "cs.IR",
+        "cs.MA"
       ]
     },
     {
-      "title": "Implicit Intelligence -- Evaluating Agents on What Users Don't Say",
-      "date": "Wed, 25 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.20424v1 Announce Type: new Abstract: Real-world requests to AI agents are fundamentally underspecified. Natural human communication relies on shared context and unstated constraints that speakers expect listeners to infer. Current agentic benchmarks test explicit instruction-following but fail to evaluate whether agents can reason about implicit requirements spanning accessibility needs, privacy boundaries, catastrophic risks, and contextual constraints. We present Implicit Intelligen",
-      "url": "https://arxiv.org/abs/2602.20424",
+      "title": "Beyond Refusal: Probing the Limits of Agentic Self-Correction for Semantic Sensitive Information",
+      "date": "Thu, 26 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.21496v1 Announce Type: new Abstract: While defenses for structured PII are mature, Large Language Models (LLMs) pose a new threat: Semantic Sensitive Information (SemSI), where models infer sensitive identity attributes, generate reputation-harmful content, or hallucinate potentially wrong information. The capacity of LLMs to self-regulate these complex, context-dependent sensitive information leaks without destroying utility remains an open scientific question. To address this, we in",
+      "url": "https://arxiv.org/abs/2602.21496",
       "category": "cs.AI"
     },
     {
-      "title": "Learning to Rewrite Tool Descriptions for Reliable LLM-Agent Tool Use",
-      "date": "Wed, 25 Feb 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.20426v1 Announce Type: new Abstract: The performance of LLM-based agents depends not only on the agent itself but also on the quality of the tool interfaces it consumes. While prior work has focused heavily on agent fine-tuning, tool interfaces-including natural language descriptions and parameter schemas-remain largely human-oriented and often become a bottleneck, especially when agents must select from large candidate tool sets. Existing approaches to improving tool interfaces rely ",
-      "url": "https://arxiv.org/abs/2602.20426",
+      "title": "ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning",
+      "date": "Thu, 26 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.21534v1 Announce Type: new Abstract: Agentic reinforcement learning (ARL) has rapidly gained attention as a promising paradigm for training agents to solve complex, multi-step interactive tasks. Despite encouraging early results, ARL remains highly unstable, often leading to training collapse. This instability limits scalability to larger environments and longer interaction horizons, and constrains systematic exploration of algorithmic design choices. In this paper, we first propose A",
+      "url": "https://arxiv.org/abs/2602.21534",
       "category": "cs.AI"
+    },
+    {
+      "title": "Power and Limitations of Aggregation in Compound AI Systems",
+      "date": "Thu, 26 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.21556v1 Announce Type: new Abstract: When designing compound AI systems, a common approach is to query multiple copies of the same model and aggregate the responses to produce a synthesized output. Given the homogeneity of these models, this raises the question of whether aggregation unlocks access to a greater set of outputs than querying a single model. In this work, we investigate the power and limitations of aggregation within a stylized principal-agent framework. This framework m",
+      "url": "https://arxiv.org/abs/2602.21556",
+      "category": [
+        "cs.AI",
+        "cs.GT"
+      ]
+    },
+    {
+      "title": "The ASIR Courage Model: A Phase-Dynamic Framework for Truth Transitions in Human and AI Systems",
+      "date": "Thu, 26 Feb 2026 05:00:00 GMT",
+      "summary": "arXiv:2602.21745v1 Announce Type: new Abstract: We introduce the ASIR (Awakened Shared Intelligence Relationship) Courage Model, a phase-dynamic framework that formalizes truth-disclosure as a state transition rather than a personality trait. The mode characterizes the shift from suppression (S0) to expression (S1) as occurring when facilitative forces exceed inhibitory thresholds, expressed by the inequality lambda(1+gamma)+psi > theta+phi, where the terms represent baseline openness, relationa",
+      "url": "https://arxiv.org/abs/2602.21745",
+      "category": [
+        "cs.AI",
+        "cs.CY"
+      ]
     }
   ],
   "status": "success",
