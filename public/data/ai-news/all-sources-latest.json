@@ -1,53 +1,112 @@
 {
-  "fetch_time": "2026-02-26T08:36:58.341Z",
-  "total_count": 33,
+  "fetch_time": "2026-02-26T12:33:18.342Z",
+  "total_count": 27,
   "sources_count": 6,
-  "errors": null,
+  "errors": [
+    "机器之心: HTTP 403"
+  ],
   "articles": [
     {
-      "title": "从LLM能力到科研组织结构：Agentic AI如何重构生物医学「团队科学」",
-      "date": "Thu, 26 Feb 2026 07:02:12 GMT",
+      "title": "![Image 9: X / Twitter",
+      "url": "https://every.to/assets/icons/xtwitter-a66ae6dc5260bbbab32ecaf3eb723b411070cd7887f803e04ad04018ec25e85a.svg",
+      "date": "2026-02-26T08:37:32.544Z",
       "summary": "",
-      "url": "https://www.jiqizhixin.com/articles/2026-02-26-7",
-      "category": "",
-      "source": "机器之心",
-      "source_name": "机器之心"
+      "category": "Every",
+      "source": "Every.to",
+      "source_name": "every"
     },
     {
-      "title": "击败谷歌、英伟达！清华陈建宇×斯坦福Chelsea团队世界模型Ctrl-World具身能力登顶全球",
-      "date": "Thu, 26 Feb 2026 06:57:09 GMT",
+      "title": "X![Image 63: Arrow Out",
+      "url": "https://every.to/assets/icons/arrow-out-24683ffaeddd57d11c9d17e922b83e89ad166f57b7bfc5eb2d917fc788c214ed.svg",
+      "date": "2026-02-26T08:37:32.544Z",
       "summary": "",
-      "url": "https://www.jiqizhixin.com/articles/2026-02-26-6",
-      "category": "",
-      "source": "机器之心",
-      "source_name": "机器之心"
+      "category": "Every",
+      "source": "Every.to",
+      "source_name": "every"
     },
     {
-      "title": "超越IMO金牌？谷歌创超难FirstProof数学挑战新纪录",
-      "date": "Thu, 26 Feb 2026 06:49:13 GMT",
+      "title": "![Image 6: Every",
+      "url": "https://every.to/assets/every-logo-white-d8b0c13c4b860174d4ac9717f446538ba8fa4f3b3736dde0de86e37bfc756789.svg",
+      "date": "2026-02-26T08:37:32.543Z",
       "summary": "",
-      "url": "https://www.jiqizhixin.com/articles/2026-02-26-5",
-      "category": "",
-      "source": "机器之心",
-      "source_name": "机器之心"
+      "category": "Every",
+      "source": "Every.to",
+      "source_name": "every"
     },
     {
-      "title": "突发！庞若鸣放弃Meta 2亿美元，转头加入OpenAI",
-      "date": "Thu, 26 Feb 2026 06:20:11 GMT",
+      "title": "Gemini App",
+      "url": "https://blog.google/products-and-platforms/products/gemini/",
+      "date": "2026-02-26T08:37:01.001Z",
       "summary": "",
-      "url": "https://www.jiqizhixin.com/articles/2026-02-26-4",
-      "category": "",
-      "source": "机器之心",
-      "source_name": "机器之心"
+      "category": "Products",
+      "source": "Google Blog",
+      "source_name": "google-blog"
     },
     {
-      "title": "ICLR 2026 | DistDF：时序预测需要分布对齐——从MSE到联合Wasserstein",
-      "date": "Thu, 26 Feb 2026 06:17:50 GMT",
+      "title": "Let Gemini handle your multi-step daily tasks on Android.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/android-multi-step-tasks/",
+      "date": "2026-02-26T08:37:01.001Z",
       "summary": "",
-      "url": "https://www.jiqizhixin.com/articles/2026-02-26-3",
-      "category": "",
-      "source": "机器之心",
-      "source_name": "机器之心"
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "View the collection",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-collection/",
+      "date": "2026-02-26T08:37:01.001Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "How we’re partnering to make AI work for everyone",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/",
+      "date": "2026-02-26T08:37:01.001Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Google Labs",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/",
+      "date": "2026-02-26T08:37:01.001Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "See the whole picture and find the look with Circle to Search We’ve updated Circle to Search so you can now explore multiple items in a single image.",
+      "url": "https://blog.google/products-and-platforms/products/search/circle-to-search-february-2026/",
+      "date": "2026-02-26T08:37:01.001Z",
+      "summary": "",
+      "category": "Products",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "千问3.5霸榜全球开源大模型前四，10分钟通过中级程序员5小时编程",
+      "date": "Thu, 26 Feb 2026 08:23:59 GMT",
+      "summary": "累计下载量超10亿，衍生模型超20万",
+      "url": "https://www.qbitai.com/2026/02/382732.html",
+      "category": [
+        "资讯",
+        "千问"
+      ],
+      "source": "量子位",
+      "source_name": "qbitai"
+    },
+    {
+      "title": "云知声Unisound U1-OCR大模型发布！首个工业级文档智能基础大模型，开启OCR 3.0时代",
+      "date": "Thu, 26 Feb 2026 08:16:16 GMT",
+      "summary": "开启OCR 3.0时代",
+      "url": "https://www.qbitai.com/2026/02/382682.html",
+      "category": "资讯",
+      "source": "量子位",
+      "source_name": "qbitai"
     },
     {
       "title": "14亿元留不住！庞若鸣弃Meta加盟OpenAI",
@@ -61,87 +120,6 @@
       ],
       "source": "量子位",
       "source_name": "qbitai"
-    },
-    {
-      "title": "![Image 6: Every",
-      "url": "https://every.to/assets/every-logo-white-d8b0c13c4b860174d4ac9717f446538ba8fa4f3b3736dde0de86e37bfc756789.svg",
-      "date": "2026-02-26T05:20:40.621Z",
-      "summary": "",
-      "category": "Every",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "![Image 9: X / Twitter",
-      "url": "https://every.to/assets/icons/xtwitter-a66ae6dc5260bbbab32ecaf3eb723b411070cd7887f803e04ad04018ec25e85a.svg",
-      "date": "2026-02-26T05:20:40.621Z",
-      "summary": "",
-      "category": "Every",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "X![Image 63: Arrow Out",
-      "url": "https://every.to/assets/icons/arrow-out-24683ffaeddd57d11c9d17e922b83e89ad166f57b7bfc5eb2d917fc788c214ed.svg",
-      "date": "2026-02-26T05:20:40.621Z",
-      "summary": "",
-      "category": "Every",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Gemini App",
-      "url": "https://blog.google/products-and-platforms/products/gemini/",
-      "date": "2026-02-26T05:20:08.944Z",
-      "summary": "",
-      "category": "Products",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Let Gemini handle your multi-step daily tasks on Android.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/android-multi-step-tasks/",
-      "date": "2026-02-26T05:20:08.944Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "View the collection",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-collection/",
-      "date": "2026-02-26T05:20:08.944Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "How we’re partnering to make AI work for everyone",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/",
-      "date": "2026-02-26T05:20:08.944Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Google Labs",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/",
-      "date": "2026-02-26T05:20:08.944Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "See the whole picture and find the look with Circle to Search We’ve updated Circle to Search so you can now explore multiple items in a single image.",
-      "url": "https://blog.google/products-and-platforms/products/search/circle-to-search-february-2026/",
-      "date": "2026-02-26T05:20:08.944Z",
-      "summary": "",
-      "category": "Products",
-      "source": "Google Blog",
-      "source_name": "google-blog"
     },
     {
       "title": "A Dynamic Survey of Soft Set Theory and Its Extensions",
@@ -208,15 +186,6 @@
       "source_name": "arxiv"
     },
     {
-      "title": "马斯克：Grok今日归来！",
-      "date": "Thu, 26 Feb 2026 04:06:27 GMT",
-      "summary": "",
-      "url": "https://www.jiqizhixin.com/articles/2026-02-26-2",
-      "category": "",
-      "source": "机器之心",
-      "source_name": "机器之心"
-    },
-    {
       "title": "21万年费彭博终端机被AI复刻！Perplexity俩月憋出新“PC”：整合所有AI功能，以Opus为核心调度19个模型",
       "date": "Thu, 26 Feb 2026 03:57:25 GMT",
       "summary": "比OpenClaw“更安全”",
@@ -252,31 +221,6 @@
       "category": [
         "资讯",
         "穿透财报招股书"
-      ],
-      "source": "量子位",
-      "source_name": "qbitai"
-    },
-    {
-      "title": "扩散模型成最快深度思考！告别自回归每秒1009个tokens，英伟达微软都投了",
-      "date": "Thu, 26 Feb 2026 02:03:18 GMT",
-      "summary": "“AI不应该像单向打字机那样运作，而应该更像一个编辑”",
-      "url": "https://www.qbitai.com/2026/02/382584.html",
-      "category": [
-        "资讯",
-        "扩散模型"
-      ],
-      "source": "量子位",
-      "source_name": "qbitai"
-    },
-    {
-      "title": "MiniMax又又来吃龙虾肉了！OpenClaw真·一键部署，还有上万专家智能体等你差遣",
-      "date": "Wed, 25 Feb 2026 15:58:43 GMT",
-      "summary": "聊着天就能构建自己的专属Expert",
-      "url": "https://www.qbitai.com/2026/02/382127.html",
-      "category": [
-        "资讯",
-        "首页轮播",
-        "MiniMax"
       ],
       "source": "量子位",
       "source_name": "qbitai"
