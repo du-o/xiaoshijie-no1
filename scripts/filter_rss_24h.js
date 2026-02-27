@@ -110,21 +110,35 @@ function get24HoursAgo() {
 /**
  * 发送 HTTP 请求获取 RSS
  */
-function fetchRSS(url) {
+function fetchRSS(url, retryCount = 0) {
   return new Promise((resolve, reject) => {
     const client = url.startsWith('https:') ? https : http;
     const options = {
       timeout: 30000, // 30秒超时
       headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
         'Accept': 'application/rss+xml, application/xml, text/xml, */*',
+        'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
+        'Accept-Encoding': 'gzip, deflate, br',
+        'Connection': 'keep-alive',
+        'Cache-Control': 'no-cache',
+        'Pragma': 'no-cache',
       },
     };
 
     const req = client.get(url, options, (res) => {
       if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
         // 重定向
-        return fetchRSS(res.headers.location).then(resolve).catch(reject);
+        return fetchRSS(res.headers.location, retryCount).then(resolve).catch(reject);
+      }
+
+      if (res.statusCode === 403 && retryCount < 3) {
+        // 403 时重试，增加延迟
+        console.log(`  403 Forbidden，第 ${retryCount + 1} 次重试...`);
+        setTimeout(() => {
+          fetchRSS(url, retryCount + 1).then(resolve).catch(reject);
+        }, 2000 * (retryCount + 1)); // 递增延迟
+        return;
       }
 
       if (res.statusCode !== 200) {

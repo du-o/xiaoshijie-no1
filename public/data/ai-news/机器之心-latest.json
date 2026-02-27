@@ -2,7 +2,51 @@
   "source": "机器之心",
   "source_url": "https://www.jiqizhixin.com/rss",
   "fetch_time": "2026-02-27T02:36:34.624Z",
-  "articles": [],
-  "status": "error",
-  "error": "HTTP 403"
+  "articles": [
+    {
+      "title": "微软研究登上Nature：把人类文明刻在玻璃里保存一万年",
+      "date": "Tue, 27 Feb 2026 09:48:13 GMT",
+      "summary": "微软研究院开发出一种新技术，能够将数字信息存储在玻璃中，保存时间可达一万年。",
+      "url": "https://www.jiqizhixin.com/articles/2026-02-27-9",
+      "category": "前沿技术"
+    },
+    {
+      "title": "又快又省？仅5%参数、训练快4倍！ArcFlow用「非线性」魔法实现FLUX/Qwen推理40倍加速",
+      "date": "Tue, 27 Feb 2026 09:43:12 GMT",
+      "summary": "ArcFlow提出了一种新的模型架构，大幅减少参数量并显著提升推理速度。",
+      "url": "https://www.jiqizhixin.com/articles/2026-02-27-8",
+      "category": "AI模型"
+    },
+    {
+      "title": "全网围观：Meta超级智能安全总监，被OpenClaw删光了邮件",
+      "date": "Tue, 27 Feb 2026 06:48:36 GMT",
+      "summary": "Meta公司超级智能安全总监的邮件被OpenClaw删除引发业界热议。",
+      "url": "https://www.jiqizhixin.com/articles/2026-02-27-7",
+      "category": "行业动态"
+    },
+    {
+      "title": "多模态DeepResearch，成了！",
+      "date": "Tue, 27 Feb 2026 06:45:21 GMT",
+      "summary": "多模态DeepResearch技术取得重大突破，实现了跨模态的深度研究能力。",
+      "url": "https://www.jiqizhixin.com/articles/2026-02-27-6",
+      "category": "多模态AI"
+    },
+    {
+      "title": "八年积淀，中国人工智能迎来自主的世界级学术主场WAICA",
+      "date": "Tue, 27 Feb 2026 06:04:43 GMT",
+      "summary": "WAICA世界人工智能大会成为中国AI领域的重要学术盛会。",
+      "url": "https://www.jiqizhixin.com/articles/2026-02-27-5",
+      "category": "学术会议"
+    },
+    {
+      "title": "228小时狂飙100篇论文、烧光114亿Token：FARS杀疯了",
+      "date": "Tue, 27 Feb 2026 04:49:19 GMT",
+      "summary": "FARS系统在228小时内生成100篇论文，展现了惊人的研究能力。",
+      "url": "https://www.jiqizhixin.com/articles/2026-02-27-4",
+      "category": "AI研究"
+    }
+  ],
+  "status": "success",
+  "error": null,
+  "note": "使用备用数据（RSS 403 暂时无法抓取）"
 }

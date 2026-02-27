@@ -252,6 +252,7 @@ function parseEvery(html, baseUrl) {
     
     for (const line of lines) {
       const trimmedLine = line.trim();
+      // 跳过空行、图片、SVG图标链接
       if (!trimmedLine || trimmedLine.startsWith('![')) continue;
       
       const match = trimmedLine.match(strategy.regex);
@@ -260,12 +261,17 @@ function parseEvery(html, baseUrl) {
       const title = match[1].trim().replace(/^###\s*/, '');
       const url = match[2].trim();
       
-      // 跳过非文章链接
+      // 跳过非文章链接（SVG图标、图片、静态资源）
       if (url.includes('/authors/') || 
           url.endsWith('/newsletter') ||
           url.endsWith('/about') ||
           url.endsWith('/search') ||
-          url.endsWith('/subscribe')) {
+          url.endsWith('/subscribe') ||
+          url.includes('/assets/') ||
+          url.endsWith('.svg') ||
+          url.endsWith('.png') ||
+          url.endsWith('.jpg') ||
+          url.endsWith('.gif')) {
         continue;
       }
       
@@ -273,23 +279,23 @@ function parseEvery(html, baseUrl) {
       if (seenUrls.has(url)) continue;
       seenUrls.add(url);
       
-      // 跳过导航链接
+      // 跳过导航链接和图片标题
       const lowerTitle = title.toLowerCase();
       const skipWords = ['sign in', 'subscribe', 'home', 'newsletter', 'columnists', 
         'columns', 'products', 'events', 'consulting', 'store', 'search', 
         'about us', 'jobs', 'advertise', 'the team', 'faq', 'help center',
-        'popular', 'newest', 'oldest', 'podcasts'];
+        'popular', 'newest', 'oldest', 'podcasts', 'image', 'arrow', 'logo'];
       
       if (skipWords.some(word => lowerTitle.includes(word))) continue;
+      
+      // 跳过太短的标题
+      if (title.length < 10) continue;
       
       // 提取分类
       const category = extractEveryCategory(url);
       
       // 清理标题
       const cleanTitle = title.replace(/\s+/g, ' ').trim();
-      
-      // 跳过太短的标题
-      if (cleanTitle.length < 10) continue;
       
       articles.push({
         title: cleanTitle,
