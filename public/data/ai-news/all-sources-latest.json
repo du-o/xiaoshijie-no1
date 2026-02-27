@@ -1,5 +1,5 @@
 {
-  "fetch_time": "2026-02-26T12:33:18.342Z",
+  "fetch_time": "2026-02-27T02:36:36.036Z",
   "total_count": 27,
   "sources_count": 6,
   "errors": [
@@ -7,9 +7,18 @@
   ],
   "articles": [
     {
+      "title": "![Image 6: Every",
+      "url": "https://every.to/assets/every-logo-white-d8b0c13c4b860174d4ac9717f446538ba8fa4f3b3736dde0de86e37bfc756789.svg",
+      "date": "2026-02-26T12:33:55.351Z",
+      "summary": "",
+      "category": "Every",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
       "title": "![Image 9: X / Twitter",
       "url": "https://every.to/assets/icons/xtwitter-a66ae6dc5260bbbab32ecaf3eb723b411070cd7887f803e04ad04018ec25e85a.svg",
-      "date": "2026-02-26T08:37:32.544Z",
+      "date": "2026-02-26T12:33:55.351Z",
       "summary": "",
       "category": "Every",
       "source": "Every.to",
@@ -18,16 +27,7 @@
     {
       "title": "X![Image 63: Arrow Out",
       "url": "https://every.to/assets/icons/arrow-out-24683ffaeddd57d11c9d17e922b83e89ad166f57b7bfc5eb2d917fc788c214ed.svg",
-      "date": "2026-02-26T08:37:32.544Z",
-      "summary": "",
-      "category": "Every",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "![Image 6: Every",
-      "url": "https://every.to/assets/every-logo-white-d8b0c13c4b860174d4ac9717f446538ba8fa4f3b3736dde0de86e37bfc756789.svg",
-      "date": "2026-02-26T08:37:32.543Z",
+      "date": "2026-02-26T12:33:55.351Z",
       "summary": "",
       "category": "Every",
       "source": "Every.to",
@@ -36,7 +36,7 @@
     {
       "title": "Gemini App",
       "url": "https://blog.google/products-and-platforms/products/gemini/",
-      "date": "2026-02-26T08:37:01.001Z",
+      "date": "2026-02-26T12:33:23.773Z",
       "summary": "",
       "category": "Products",
       "source": "Google Blog",
@@ -45,7 +45,7 @@
     {
       "title": "Let Gemini handle your multi-step daily tasks on Android.",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/android-multi-step-tasks/",
-      "date": "2026-02-26T08:37:01.001Z",
+      "date": "2026-02-26T12:33:23.773Z",
       "summary": "",
       "category": "Innovation & AI",
       "source": "Google Blog",
@@ -54,7 +54,7 @@
     {
       "title": "View the collection",
       "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-collection/",
-      "date": "2026-02-26T08:37:01.001Z",
+      "date": "2026-02-26T12:33:23.773Z",
       "summary": "",
       "category": "Innovation & AI",
       "source": "Google Blog",
@@ -63,7 +63,7 @@
     {
       "title": "How we’re partnering to make AI work for everyone",
       "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/",
-      "date": "2026-02-26T08:37:01.001Z",
+      "date": "2026-02-26T12:33:23.773Z",
       "summary": "",
       "category": "Innovation & AI",
       "source": "Google Blog",
@@ -72,7 +72,7 @@
     {
       "title": "Google Labs",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/",
-      "date": "2026-02-26T08:37:01.001Z",
+      "date": "2026-02-26T12:33:23.773Z",
       "summary": "",
       "category": "Innovation & AI",
       "source": "Google Blog",
@@ -81,11 +81,20 @@
     {
       "title": "See the whole picture and find the look with Circle to Search We’ve updated Circle to Search so you can now explore multiple items in a single image.",
       "url": "https://blog.google/products-and-platforms/products/search/circle-to-search-february-2026/",
-      "date": "2026-02-26T08:37:01.001Z",
+      "date": "2026-02-26T12:33:23.773Z",
       "summary": "",
       "category": "Products",
       "source": "Google Blog",
       "source_name": "google-blog"
+    },
+    {
+      "title": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting ",
+      "date": "Thu, 26 Feb 2026 10:00:00 GMT",
+      "summary": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews.",
+      "url": "https://openai.com/index/pacific-northwest-national-laboratory",
+      "category": "Global Affairs",
+      "source": "OpenAI News",
+      "source_name": "openai"
     },
     {
       "title": "千问3.5霸榜全球开源大模型前四，10分钟通过中级程序员5小时编程",
@@ -107,6 +116,15 @@
       "category": "资讯",
       "source": "量子位",
       "source_name": "qbitai"
+    },
+    {
+      "title": "OpenAI Codex and Figma launch seamless code-to-design experience",
+      "date": "Thu, 26 Feb 2026 06:00:00 GMT",
+      "summary": "OpenAI and Figma launch a new Codex integration that connects code and design, enabling teams to move between implementation and the Figma canvas to iterate and ship faster.",
+      "url": "https://openai.com/index/figma-partnership",
+      "category": "Global Affairs",
+      "source": "OpenAI News",
+      "source_name": "openai"
     },
     {
       "title": "14亿元留不住！庞若鸣弃Meta加盟OpenAI",
@@ -248,7 +266,7 @@
       "date": "Mon, 23 Feb 2026 11:00:00 GMT",
       "summary": "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.",
       "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
-      "category": "Publication",
+      "category": "Research",
       "source": "OpenAI News",
       "source_name": "openai"
     },
@@ -257,24 +275,6 @@
       "date": "Mon, 23 Feb 2026 05:30:00 GMT",
       "summary": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.",
       "url": "https://openai.com/index/frontier-alliance-partners",
-      "category": "Global Affairs",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
-      "title": "Our First Proof submissions",
-      "date": "Fri, 20 Feb 2026 14:30:00 GMT",
-      "summary": "We share our AI model’s proof attempts for the First Proof math challenge, testing research-grade reasoning on expert-level problems.",
-      "url": "https://openai.com/index/first-proof-submissions",
-      "category": "Research",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
-      "title": "Advancing independent research on AI alignment",
-      "date": "Thu, 19 Feb 2026 10:00:00 GMT",
-      "summary": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks.",
-      "url": "https://openai.com/index/advancing-independent-research-ai-alignment",
       "category": "Global Affairs",
       "source": "OpenAI News",
       "source_name": "openai"

@@ -1,8 +1,22 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-02-26T12:33:16.663Z",
+  "fetch_time": "2026-02-27T02:36:34.236Z",
   "articles": [
+    {
+      "title": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting ",
+      "date": "Thu, 26 Feb 2026 10:00:00 GMT",
+      "summary": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews.",
+      "url": "https://openai.com/index/pacific-northwest-national-laboratory",
+      "category": "Global Affairs"
+    },
+    {
+      "title": "OpenAI Codex and Figma launch seamless code-to-design experience",
+      "date": "Thu, 26 Feb 2026 06:00:00 GMT",
+      "summary": "OpenAI and Figma launch a new Codex integration that connects code and design, enabling teams to move between implementation and the Figma canvas to iterate and ship faster.",
+      "url": "https://openai.com/index/figma-partnership",
+      "category": "Global Affairs"
+    },
     {
       "title": "Disrupting malicious uses of AI | February 2026",
       "date": "Wed, 25 Feb 2026 00:00:00 GMT",
@@ -22,27 +36,13 @@
       "date": "Mon, 23 Feb 2026 11:00:00 GMT",
       "summary": "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.",
       "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
-      "category": "Publication"
+      "category": "Research"
     },
     {
       "title": "OpenAI announces Frontier Alliance Partners",
       "date": "Mon, 23 Feb 2026 05:30:00 GMT",
       "summary": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.",
       "url": "https://openai.com/index/frontier-alliance-partners",
-      "category": "Global Affairs"
-    },
-    {
-      "title": "Our First Proof submissions",
-      "date": "Fri, 20 Feb 2026 14:30:00 GMT",
-      "summary": "We share our AI model’s proof attempts for the First Proof math challenge, testing research-grade reasoning on expert-level problems.",
-      "url": "https://openai.com/index/first-proof-submissions",
-      "category": "Research"
-    },
-    {
-      "title": "Advancing independent research on AI alignment",
-      "date": "Thu, 19 Feb 2026 10:00:00 GMT",
-      "summary": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks.",
-      "url": "https://openai.com/index/advancing-independent-research-ai-alignment",
       "category": "Global Affairs"
     }
   ],

@@ -1,8 +1,28 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-02-26T12:33:56.606Z",
+  "fetch_time": "2026-02-27T02:37:11.658Z",
   "articles": [
+    {
+      "title": "openclaw 2026.2.26",
+      "date": "2026-02-27T00:01:43Z",
+      "summary": "\n### Changes\n\n- Highlight: External Secrets Management introduces a full `openclaw secrets` workflow (`audit`, `configure`, `apply`, `reload`) with runtime snapshot activation, strict `secrets apply` ...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.26",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.2.26",
+      "downloadCount": 1314
+    },
+    {
+      "title": "openclaw 2026.2.26-beta.1",
+      "date": "2026-02-26T22:38:55Z",
+      "summary": "\n### Changes\n\n- Highlight: External Secrets Management introduces a full `openclaw secrets` workflow (`audit`, `configure`, `apply`, `reload`) with runtime snapshot activation, strict `secrets apply` ...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.26-beta.1",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.2.26-beta.1",
+      "downloadCount": 53
+    },
     {
       "title": "openclaw 2026.2.25",
       "date": "2026-02-26T04:17:56Z",
@@ -11,7 +31,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.25",
-      "downloadCount": 5700
+      "downloadCount": 11110
     },
     {
       "title": "openclaw 2026.2.25-beta.1",
@@ -21,7 +41,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.25-beta.1",
-      "downloadCount": 45
+      "downloadCount": 65
     },
     {
       "title": "openclaw 2026.2.24",
@@ -31,7 +51,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.24",
-      "downloadCount": 13639
+      "downloadCount": 13794
     },
     {
       "title": "openclaw 2026.2.24-beta.1",
@@ -41,27 +61,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.24-beta.1",
-      "downloadCount": 155
-    },
-    {
-      "title": "openclaw 2026.2.23",
-      "date": "2026-02-24T05:41:47Z",
-      "summary": "\n### Changes\n\n- Providers/Kilo Gateway: add first-class `kilocode` provider support (auth, onboarding, implicit provider detection, model defaults, transcript/cache-ttl handling, and docs), with defau...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.23",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.2.23",
-      "downloadCount": 13145
-    },
-    {
-      "title": "openclaw 2026.2.22",
-      "date": "2026-02-23T04:09:40Z",
-      "summary": "### Changes\n\n- Provider/Mistral: add support for the Mistral provider, including memory embeddings and voice support. (#23845) Thanks @vincentkoc.\n- Update/Core: add an optional built-in auto-updater ...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.22",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.2.22",
-      "downloadCount": 13502
+      "downloadCount": 159
     }
   ],
   "status": "success",
