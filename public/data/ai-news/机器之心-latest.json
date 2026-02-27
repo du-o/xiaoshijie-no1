@@ -1,7 +1,7 @@
 {
   "source": "机器之心",
   "source_url": "https://www.jiqizhixin.com/rss",
-  "fetch_time": "2026-02-27T02:36:34.624Z",
+  "fetch_time": "2026-02-27T08:32:20.680Z",
   "articles": [
     {
       "title": "微软研究登上Nature：把人类文明刻在玻璃里保存一万年",
@@ -46,7 +46,7 @@
       "category": "AI研究"
     }
   ],
-  "status": "success",
-  "error": null,
+  "status": "error",
+  "error": "Parse error: Unknown RSS format",
   "note": "使用备用数据（RSS 403 暂时无法抓取）"
 }
