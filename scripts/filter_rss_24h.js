@@ -315,7 +315,33 @@ async function fetchRSSSource(source) {
   } catch (error) {
     console.error(`[${source.name}] ✗ 抓取失败: ${error.message}`);
 
-    // 写入错误状态
+    // 读取现有数据，如果存在则保留
+    const outputPath = path.join(DATA_DIR, source.file);
+    let existingData = null;
+    try {
+      if (fs.existsSync(outputPath)) {
+        const content = fs.readFileSync(outputPath, 'utf-8');
+        existingData = JSON.parse(content);
+        if (existingData.articles && existingData.articles.length > 0) {
+          console.log(`[${source.name}] 保留现有 ${existingData.articles.length} 条数据`);
+          // 只更新错误状态，保留原有数据
+          existingData.status = 'error';
+          existingData.error = error.message;
+          existingData.fetch_time = getNowISO();
+          fs.writeFileSync(outputPath, JSON.stringify(existingData, null, 2));
+          return {
+            success: false,
+            error: error.message,
+            source: source.name,
+            preserved: true,
+          };
+        }
+      }
+    } catch (readError) {
+      console.warn(`[${source.name}] 读取现有数据失败:`, readError.message);
+    }
+
+    // 没有现有数据，写入错误状态（空数组）
     const output = {
       source: source.displayName,
       source_url: source.url,
@@ -325,7 +351,6 @@ async function fetchRSSSource(source) {
       error: error.message,
     };
 
-    const outputPath = path.join(DATA_DIR, source.file);
     fs.writeFileSync(outputPath, JSON.stringify(output, null, 2));
 
     return {
