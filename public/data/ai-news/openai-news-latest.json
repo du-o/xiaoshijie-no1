@@ -1,51 +1,8 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-02-27T02:36:34.236Z",
-  "articles": [
-    {
-      "title": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting ",
-      "date": "Thu, 26 Feb 2026 10:00:00 GMT",
-      "summary": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews.",
-      "url": "https://openai.com/index/pacific-northwest-national-laboratory",
-      "category": "Global Affairs"
-    },
-    {
-      "title": "OpenAI Codex and Figma launch seamless code-to-design experience",
-      "date": "Thu, 26 Feb 2026 06:00:00 GMT",
-      "summary": "OpenAI and Figma launch a new Codex integration that connects code and design, enabling teams to move between implementation and the Figma canvas to iterate and ship faster.",
-      "url": "https://openai.com/index/figma-partnership",
-      "category": "Global Affairs"
-    },
-    {
-      "title": "Disrupting malicious uses of AI | February 2026",
-      "date": "Wed, 25 Feb 2026 00:00:00 GMT",
-      "summary": "Our latest threat report examines how malicious actors combine AI models with websites and social platforms—and what it means for detection and defense.",
-      "url": "https://openai.com/index/disrupting-malicious-ai-uses",
-      "category": "Security"
-    },
-    {
-      "title": "Arvind KC appointed Chief People Officer",
-      "date": "Tue, 24 Feb 2026 13:40:00 GMT",
-      "summary": "OpenAI appoints Arvind KC as Chief People Officer to help scale the company, strengthen its culture, and lead how work evolves in the age of AI.",
-      "url": "https://openai.com/index/arvind-kc-chief-people-officer",
-      "category": "Company"
-    },
-    {
-      "title": "Why we no longer evaluate SWE-bench Verified",
-      "date": "Mon, 23 Feb 2026 11:00:00 GMT",
-      "summary": "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.",
-      "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
-      "category": "Research"
-    },
-    {
-      "title": "OpenAI announces Frontier Alliance Partners",
-      "date": "Mon, 23 Feb 2026 05:30:00 GMT",
-      "summary": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.",
-      "url": "https://openai.com/index/frontier-alliance-partners",
-      "category": "Global Affairs"
-    }
-  ],
-  "status": "success",
-  "error": null
+  "fetch_time": "2026-02-27T05:14:21.753Z",
+  "articles": [],
+  "status": "error",
+  "error": "Parse error: Cannot read properties of undefined (reading 'tagName')"
 }
