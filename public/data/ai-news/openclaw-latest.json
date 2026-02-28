@@ -1,7 +1,7 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-02-27T12:29:55.476Z",
+  "fetch_time": "2026-02-28T02:26:44.440Z",
   "articles": [
     {
       "title": "openclaw 2026.2.26",
@@ -11,17 +11,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.26",
-      "downloadCount": 8308
-    },
-    {
-      "title": "openclaw 2026.2.26-beta.1",
-      "date": "2026-02-26T22:38:55Z",
-      "summary": "\n### Changes\n\n- Highlight: External Secrets Management introduces a full `openclaw secrets` workflow (`audit`, `configure`, `apply`, `reload`) with runtime snapshot activation, strict `secrets apply` ...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.26-beta.1",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.2.26-beta.1",
-      "downloadCount": 99
+      "downloadCount": 15002
     },
     {
       "title": "openclaw 2026.2.25",
@@ -31,7 +21,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.25",
-      "downloadCount": 11589
+      "downloadCount": 11706
     },
     {
       "title": "openclaw 2026.2.25-beta.1",
@@ -41,7 +31,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.25-beta.1",
-      "downloadCount": 76
+      "downloadCount": 143
     },
     {
       "title": "openclaw 2026.2.24",
@@ -51,7 +41,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.24",
-      "downloadCount": 13878
+      "downloadCount": 13912
     },
     {
       "title": "openclaw 2026.2.24-beta.1",
@@ -61,7 +51,17 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.24-beta.1",
-      "downloadCount": 161
+      "downloadCount": 162
+    },
+    {
+      "title": "openclaw 2026.2.23",
+      "date": "2026-02-24T05:41:47Z",
+      "summary": "\n### Changes\n\n- Providers/Kilo Gateway: add first-class `kilocode` provider support (auth, onboarding, implicit provider detection, model defaults, transcript/cache-ttl handling, and docs), with defau...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.23",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.2.23",
+      "downloadCount": 13200
     }
   ],
   "status": "success",
