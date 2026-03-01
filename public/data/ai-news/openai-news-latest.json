@@ -1,7 +1,7 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-03-01T02:51:36.343Z",
+  "fetch_time": "2026-03-01T05:17:02.283Z",
   "articles": [
     {
       "title": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting ",
@@ -47,5 +47,5 @@
     }
   ],
   "status": "error",
-  "error": "Parse error: Unknown RSS format"
+  "error": "Parse error: Pi Tag is not closed."
 }
