@@ -1,7 +1,7 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-02-28T12:18:59.150Z",
+  "fetch_time": "2026-03-01T02:51:36.453Z",
   "articles": [
     {
       "title": "Graph Your Way to Inspiration: Integrating Co-Author Graphs with Retrieval-Augmented Generation for Large Language Model Based Scientific Idea Generation",
@@ -63,6 +63,6 @@
       "category": "cs.AI"
     }
   ],
-  "status": "error",
-  "error": "Parse error: Unknown RSS format"
+  "status": "success",
+  "error": null
 }
