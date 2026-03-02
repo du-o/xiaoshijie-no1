@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-03-02T02:40:51.823Z",
+  "fetch_time": "2026-03-02T05:16:17.304Z",
   "articles": [
+    {
+      "title": "openclaw 2026.3.1",
+      "date": "2026-03-02T04:42:57Z",
+      "summary": "### Changes\n\n- Agents/Thinking defaults: set `adaptive` as the default thinking level for Anthropic Claude 4.6 models (including Bedrock Claude 4.6 refs) while keeping other reasoning-capable models a...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.1",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.3.1",
+      "downloadCount": 344
+    },
     {
       "title": "openclaw 2026.2.26",
       "date": "2026-02-27T00:01:43Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.26",
-      "downloadCount": 54325
+      "downloadCount": 56496
     },
     {
       "title": "openclaw 2026.2.25",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.25",
-      "downloadCount": 12022
+      "downloadCount": 12052
     },
     {
       "title": "openclaw 2026.2.25-beta.1",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.25-beta.1",
-      "downloadCount": 608
+      "downloadCount": 634
     },
     {
       "title": "openclaw 2026.2.24",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.24",
-      "downloadCount": 13997
+      "downloadCount": 14010
     },
     {
       "title": "openclaw 2026.2.24-beta.1",
@@ -51,17 +61,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.24-beta.1",
-      "downloadCount": 188
-    },
-    {
-      "title": "openclaw 2026.2.23",
-      "date": "2026-02-24T05:41:47Z",
-      "summary": "\n### Changes\n\n- Providers/Kilo Gateway: add first-class `kilocode` provider support (auth, onboarding, implicit provider detection, model defaults, transcript/cache-ttl handling, and docs), with defau...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.23",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.2.23",
-      "downloadCount": 13252
+      "downloadCount": 194
     }
   ],
   "status": "success",
