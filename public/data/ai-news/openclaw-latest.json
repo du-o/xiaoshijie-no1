@@ -1,8 +1,28 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-03-03T02:43:01.284Z",
+  "fetch_time": "2026-03-03T05:14:56.047Z",
   "articles": [
+    {
+      "title": "openclaw 2026.3.2",
+      "date": "2026-03-03T04:43:07Z",
+      "summary": "\n### Changes\n\n- Secrets/SecretRef coverage: expand SecretRef support across the full supported user-supplied credential surface (64 targets total), including runtime collectors, `openclaw secrets` pla...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.2",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.3.2",
+      "downloadCount": 323
+    },
+    {
+      "title": "openclaw 2026.3.2-beta.1",
+      "date": "2026-03-03T03:59:01Z",
+      "summary": "\n### Changes\n\n- Secrets/SecretRef coverage: expand SecretRef support across the full supported user-supplied credential surface (64 targets total), including runtime collectors, `openclaw secrets` pla...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.2-beta.1",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.3.2-beta.1",
+      "downloadCount": 319
+    },
     {
       "title": "openclaw 2026.3.1",
       "date": "2026-03-02T04:42:57Z",
@@ -11,7 +31,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.3.1",
-      "downloadCount": 18470
+      "downloadCount": 20269
     },
     {
       "title": "openclaw 2026.2.26",
@@ -21,7 +41,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.26",
-      "downloadCount": 58076
+      "downloadCount": 58270
     },
     {
       "title": "openclaw 2026.2.25",
@@ -31,7 +51,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.25",
-      "downloadCount": 12375
+      "downloadCount": 12413
     },
     {
       "title": "openclaw 2026.2.25-beta.1",
@@ -41,27 +61,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.25-beta.1",
-      "downloadCount": 638
-    },
-    {
-      "title": "openclaw 2026.2.24",
-      "date": "2026-02-25T03:31:17Z",
-      "summary": "\n### Changes\n\n- Auto-reply/Abort shortcuts: expand standalone stop phrases (`stop openclaw`, `stop action`, `stop run`, `stop agent`, `please stop`, and related variants), accept trailing punctuation ...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.24",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.2.24",
-      "downloadCount": 14044
-    },
-    {
-      "title": "openclaw 2026.2.24-beta.1",
-      "date": "2026-02-25T03:01:17Z",
-      "summary": "### Changes\n\n- Auto-reply/Abort shortcuts: expand standalone stop phrases (`stop openclaw`, `stop action`, `stop run`, `stop agent`, `please stop`, and related variants), accept trailing punctuation (...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.24-beta.1",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.2.24-beta.1",
-      "downloadCount": 203
+      "downloadCount": 639
     }
   ],
   "status": "success",

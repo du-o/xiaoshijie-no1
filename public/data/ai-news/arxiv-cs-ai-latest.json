@@ -1,61 +1,61 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-03-03T02:42:27.274Z",
+  "fetch_time": "2026-03-03T05:13:53.106Z",
   "articles": [
     {
-      "title": "HumanMCP: A Human-Like Query Dataset for Evaluating MCP Tool Retrieval Performance",
-      "date": "Mon, 02 Mar 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.23367v1 Announce Type: new Abstract: Model Context Protocol (MCP) servers contain a collection of thousands of open-source standardized tools, linking LLMs to external systems; however, existing datasets and benchmarks lack realistic, human-like user queries, remaining a critical gap in evaluating the tool usage and ecosystems of MCP servers. Existing datasets often do contain tool descriptions but fail to represent how different users portray their requests, leading to poor generaliz",
-      "url": "https://arxiv.org/abs/2602.23367",
+      "title": "Multi-Sourced, Multi-Agent Evidence Retrieval for Fact-Checking",
+      "date": "Tue, 03 Mar 2026 05:00:00 GMT",
+      "summary": "arXiv:2603.00267v1 Announce Type: new Abstract: Misinformation spreading over the Internet poses a significant threat to both societies and individuals, necessitating robust and scalable fact-checking that relies on retrieving accurate and trustworthy evidence. Previous methods rely on semantic and social-contextual patterns learned from training data, which limits their generalization to new data distributions. Recently, Retrieval Augmented Generation (RAG) based methods have been proposed to u",
+      "url": "https://arxiv.org/abs/2603.00267",
       "category": [
         "cs.AI",
-        "cs.IR"
+        "cs.IR",
+        "cs.SI"
       ]
     },
     {
-      "title": "An Agentic LLM Framework for Adverse Media Screening in AML Compliance",
-      "date": "Mon, 02 Mar 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.23373v1 Announce Type: new Abstract: Adverse media screening is a critical component of anti-money laundering (AML) and know-your-customer (KYC) compliance processes in financial institutions. Traditional approaches rely on keyword-based searches that generate high false-positive rates or require extensive manual review. We present an agentic system that leverages Large Language Models (LLMs) with Retrieval-Augmented Generation (RAG) to automate adverse media screening. Our system imp",
-      "url": "https://arxiv.org/abs/2602.23373",
-      "category": [
-        "cs.AI",
-        "cs.CL",
-        "cs.IR"
-      ]
-    },
-    {
-      "title": "Causal Identification from Counterfactual Data: Completeness and Bounding Results",
-      "date": "Mon, 02 Mar 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.23541v1 Announce Type: new Abstract: Previous work establishing completeness results for $\\textit{counterfactual identification}$ has been circumscribed to the setting where the input data belongs to observational or interventional distributions (Layers 1 and 2 of Pearl's Causal Hierarchy), since it was generally presumed impossible to obtain data from counterfactual distributions, which belong to Layer 3. However, recent work (Raghavan & Bareinboim, 2025) has formally characterized a",
-      "url": "https://arxiv.org/abs/2602.23541",
-      "category": [
-        "cs.AI",
-        "cs.LG"
-      ]
-    },
-    {
-      "title": "Planning under Distribution Shifts with Causal POMDPs",
-      "date": "Mon, 02 Mar 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.23545v1 Announce Type: new Abstract: In the real world, planning is often challenged by distribution shifts. As such, a model of the environment obtained under one set of conditions may no longer remain valid as the distribution of states or the environment dynamics change, which in turn causes previously learned strategies to fail. In this work, we propose a theoretical framework for planning under partial observability using Partially Observable Markov Decision Processes (POMDPs) fo",
-      "url": "https://arxiv.org/abs/2602.23545",
+      "title": "TraderBench: How Robust Are AI Agents in Adversarial Capital Markets?",
+      "date": "Tue, 03 Mar 2026 05:00:00 GMT",
+      "summary": "arXiv:2603.00285v1 Announce Type: new Abstract: Evaluating AI agents in finance faces two key challenges: static benchmarks require costly expert annotation yet miss the dynamic decision-making central to real-world trading, while LLM-based judges introduce uncontrolled variance on domain-specific tasks. We introduce TraderBench, a benchmark that addresses both issues. It combines expert-verified static tasks (knowledge retrieval, analytical reasoning) with adversarial trading simulations scored",
+      "url": "https://arxiv.org/abs/2603.00285",
       "category": "cs.AI"
     },
     {
-      "title": "Construct, Merge, Solve & Adapt with Reinforcement Learning for the min-max Multiple Traveling Salesman Problem",
-      "date": "Mon, 02 Mar 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.23579v1 Announce Type: new Abstract: The Multiple Traveling Salesman Problem (mTSP) extends the Traveling Salesman Problem to m tours that start and end at a common depot and jointly visit all customers exactly once. In the min-max variant, the objective is to minimize the longest tour, reflecting workload balance. We propose a hybrid approach, Construct, Merge, Solve & Adapt with Reinforcement Learning (RL-CMSA), for the symmetric single-depot min-max mTSP. The method iteratively con",
-      "url": "https://arxiv.org/abs/2602.23579",
+      "title": "DIG to Heal: Scaling General-purpose Agent Collaboration via Explainable Dynamic Decision Paths",
+      "date": "Tue, 03 Mar 2026 05:00:00 GMT",
+      "summary": "arXiv:2603.00309v1 Announce Type: new Abstract: The increasingly popular agentic AI paradigm promises to harness the power of multiple, general-purpose large language model (LLM) agents to collaboratively complete complex tasks. While many agentic AI systems utilize predefined workflows or agent roles in order to reduce complexity, ideally these agents would be truly autonomous, able to achieve emergent collaboration even as the number of collaborating agents increases. Yet in practice, such uns",
+      "url": "https://arxiv.org/abs/2603.00309",
+      "category": [
+        "cs.AI",
+        "cs.MA"
+      ]
+    },
+    {
+      "title": "How Well Do Multimodal Models Reason on ECG Signals?",
+      "date": "Tue, 03 Mar 2026 05:00:00 GMT",
+      "summary": "arXiv:2603.00312v1 Announce Type: new Abstract: While multimodal large language models offer a promising solution to the \"black box\" nature of health AI by generating interpretable reasoning traces, verifying the validity of these traces remains a critical challenge. Existing evaluation methods are either unscalable, relying on manual clinician review, or superficial, utilizing proxy metrics (e.g. QA) that fail to capture the semantic correctness of clinical logic. In this work, we introduce a r",
+      "url": "https://arxiv.org/abs/2603.00312",
       "category": [
         "cs.AI",
         "cs.LG"
       ]
     },
     {
-      "title": "SleepLM: Natural-Language Intelligence for Human Sleep",
-      "date": "Mon, 02 Mar 2026 05:00:00 GMT",
-      "summary": "arXiv:2602.23605v1 Announce Type: new Abstract: We present SleepLM, a family of sleep-language foundation models that enable human sleep alignment, interpretation, and interaction with natural language. Despite the critical role of sleep, learning-based sleep analysis systems operate in closed label spaces (e.g., predefined stages or events) and fail to describe, query, or generalize to novel sleep phenomena. SleepLM bridges natural language and multimodal polysomnography, enabling language-grou",
-      "url": "https://arxiv.org/abs/2602.23605",
+      "title": "EmCoop: A Framework and Benchmark for Embodied Cooperation Among LLM Agents",
+      "date": "Tue, 03 Mar 2026 05:00:00 GMT",
+      "summary": "arXiv:2603.00349v1 Announce Type: new Abstract: Real-world scenarios increasingly require multiple embodied agents to collaborate in dynamic environments under embodied constraints, as many tasks exceed the capabilities of any single agent. Recent advances in large language models (LLMs) enable high-level cognitive coordination through reasoning, planning, and natural language communication. However, fine-grained analyses of how such collaboration emerges, unfolds, and contributes to task succes",
+      "url": "https://arxiv.org/abs/2603.00349",
+      "category": [
+        "cs.AI",
+        "cs.MA"
+      ]
+    },
+    {
+      "title": "Monotropic Artificial Intelligence: Toward a Cognitive Taxonomy of Domain-Specialized Language Models",
+      "date": "Tue, 03 Mar 2026 05:00:00 GMT",
+      "summary": "arXiv:2603.00350v1 Announce Type: new Abstract: The prevailing paradigm in artificial intelligence research equates progress with scale: larger models trained on broader datasets are presumed to yield superior capabilities. This assumption, while empirically productive for general-purpose applications, obscures a fundamental epistemological tension between breadth and depth of knowledge. We introduce the concept of \\emph{Monotropic Artificial Intelligence} -- language models that deliberately sa",
+      "url": "https://arxiv.org/abs/2603.00350",
       "category": "cs.AI"
     }
   ],
