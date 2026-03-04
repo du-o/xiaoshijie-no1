@@ -1,11 +1,11 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-03-04T02:34:36.568Z",
+  "fetch_time": "2026-03-04T05:08:01.798Z",
   "articles": [
     {
       "title": "Multi-Sourced, Multi-Agent Evidence Retrieval for Fact-Checking",
-      "date": "Tue, 03 Mar 2026 05:00:00 GMT",
+      "date": "Wed, 04 Mar 2026 05:00:00 GMT",
       "summary": "arXiv:2603.00267v1 Announce Type: new Abstract: Misinformation spreading over the Internet poses a significant threat to both societies and individuals, necessitating robust and scalable fact-checking that relies on retrieving accurate and trustworthy evidence. Previous methods rely on semantic and social-contextual patterns learned from training data, which limits their generalization to new data distributions. Recently, Retrieval Augmented Generation (RAG) based methods have been proposed to u",
       "url": "https://arxiv.org/abs/2603.00267",
       "category": [
@@ -16,14 +16,14 @@
     },
     {
       "title": "TraderBench: How Robust Are AI Agents in Adversarial Capital Markets?",
-      "date": "Tue, 03 Mar 2026 05:00:00 GMT",
+      "date": "Wed, 04 Mar 2026 05:00:00 GMT",
       "summary": "arXiv:2603.00285v1 Announce Type: new Abstract: Evaluating AI agents in finance faces two key challenges: static benchmarks require costly expert annotation yet miss the dynamic decision-making central to real-world trading, while LLM-based judges introduce uncontrolled variance on domain-specific tasks. We introduce TraderBench, a benchmark that addresses both issues. It combines expert-verified static tasks (knowledge retrieval, analytical reasoning) with adversarial trading simulations scored",
       "url": "https://arxiv.org/abs/2603.00285",
       "category": "cs.AI"
     },
     {
       "title": "DIG to Heal: Scaling General-purpose Agent Collaboration via Explainable Dynamic Decision Paths",
-      "date": "Tue, 03 Mar 2026 05:00:00 GMT",
+      "date": "Wed, 04 Mar 2026 05:00:00 GMT",
       "summary": "arXiv:2603.00309v1 Announce Type: new Abstract: The increasingly popular agentic AI paradigm promises to harness the power of multiple, general-purpose large language model (LLM) agents to collaboratively complete complex tasks. While many agentic AI systems utilize predefined workflows or agent roles in order to reduce complexity, ideally these agents would be truly autonomous, able to achieve emergent collaboration even as the number of collaborating agents increases. Yet in practice, such uns",
       "url": "https://arxiv.org/abs/2603.00309",
       "category": [
@@ -33,7 +33,7 @@
     },
     {
       "title": "How Well Do Multimodal Models Reason on ECG Signals?",
-      "date": "Tue, 03 Mar 2026 05:00:00 GMT",
+      "date": "Wed, 04 Mar 2026 05:00:00 GMT",
       "summary": "arXiv:2603.00312v1 Announce Type: new Abstract: While multimodal large language models offer a promising solution to the \"black box\" nature of health AI by generating interpretable reasoning traces, verifying the validity of these traces remains a critical challenge. Existing evaluation methods are either unscalable, relying on manual clinician review, or superficial, utilizing proxy metrics (e.g. QA) that fail to capture the semantic correctness of clinical logic. In this work, we introduce a r",
       "url": "https://arxiv.org/abs/2603.00312",
       "category": [
@@ -43,7 +43,7 @@
     },
     {
       "title": "EmCoop: A Framework and Benchmark for Embodied Cooperation Among LLM Agents",
-      "date": "Tue, 03 Mar 2026 05:00:00 GMT",
+      "date": "Wed, 04 Mar 2026 05:00:00 GMT",
       "summary": "arXiv:2603.00349v1 Announce Type: new Abstract: Real-world scenarios increasingly require multiple embodied agents to collaborate in dynamic environments under embodied constraints, as many tasks exceed the capabilities of any single agent. Recent advances in large language models (LLMs) enable high-level cognitive coordination through reasoning, planning, and natural language communication. However, fine-grained analyses of how such collaboration emerges, unfolds, and contributes to task succes",
       "url": "https://arxiv.org/abs/2603.00349",
       "category": [
@@ -53,7 +53,7 @@
     },
     {
       "title": "Monotropic Artificial Intelligence: Toward a Cognitive Taxonomy of Domain-Specialized Language Models",
-      "date": "Tue, 03 Mar 2026 05:00:00 GMT",
+      "date": "Wed, 04 Mar 2026 05:00:00 GMT",
       "summary": "arXiv:2603.00350v1 Announce Type: new Abstract: The prevailing paradigm in artificial intelligence research equates progress with scale: larger models trained on broader datasets are presumed to yield superior capabilities. This assumption, while empirically productive for general-purpose applications, obscures a fundamental epistemological tension between breadth and depth of knowledge. We introduce the concept of \\emph{Monotropic Artificial Intelligence} -- language models that deliberately sa",
       "url": "https://arxiv.org/abs/2603.00350",
       "category": "cs.AI"
