@@ -1,7 +1,7 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-03-04T05:08:01.648Z",
+  "fetch_time": "2026-03-04T08:29:51.344Z",
   "articles": [
     {
       "title": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting ",
@@ -47,5 +47,5 @@
     }
   ],
   "status": "error",
-  "error": "Parse error: Cannot read properties of undefined (reading 'tagName')"
+  "error": "Parse error: Cannot read properties of undefined (reading 'addChild')"
 }
