@@ -228,8 +228,8 @@ function getSourceFileName(source: string): string {
   const mapping: Record<string, string> = {
     'openai': 'openai-news-latest.json',
     'arxiv': 'arxiv-cs-ai-latest.json',
-    'qbitai': 'qbitai-latest.json',
-    '机器之心': '机器之心-latest.json',
+    '36kr': '36kr-latest.json',
+    'solidot': 'solidot-latest.json',
     'google-blog': 'google-blog-latest.json',
     'every': 'every-latest.json',
     'openclaw': 'openclaw-latest.json',
@@ -240,12 +240,12 @@ function getSourceFileName(source: string): string {
 
 /**
  * 获取所有可用的新闻源（8个源）
- * 顺序：量子位、机器之心、OpenAI、arXiv、Google Blog、Every.to、OpenClaw、Moltbook
+ * 顺序：36氪、Solidot、OpenAI、arXiv、Google Blog、Every.to、OpenClaw、Moltbook
  */
 export function getNewsSources(): { id: string; name: string; icon: string }[] {
   return [
-    { id: 'qbitai', name: '量子位', icon: '⚛️' },
-    { id: '机器之心', name: '机器之心', icon: '🧠' },
+    { id: '36kr', name: '36氪', icon: '💼' },
+    { id: 'solidot', name: 'Solidot', icon: '📡' },
     { id: 'openai', name: 'OpenAI', icon: '🤖' },
     { id: 'arxiv', name: 'arXiv', icon: '📄' },
     { id: 'google-blog', name: 'Google Blog', icon: '🔍' },

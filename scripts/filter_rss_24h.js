@@ -29,16 +29,16 @@ const RSS_SOURCES = [
     url: 'https://export.arxiv.org/rss/cs.AI',
   },
   {
-    name: '机器之心',
-    displayName: '机器之心',
-    file: '机器之心-latest.json',
-    url: 'https://www.jiqizhixin.com/rss',
+    name: '36kr',
+    displayName: '36氪',
+    file: '36kr-latest.json',
+    url: 'https://www.36kr.com/feed',
   },
   {
-    name: 'qbitai',
-    displayName: '量子位',
-    file: 'qbitai-latest.json',
-    url: 'https://www.qbitai.com/feed',
+    name: 'solidot',
+    displayName: 'Solidot',
+    file: 'solidot-latest.json',
+    url: 'https://www.solidot.org/index.rss',
   },
 ];
 

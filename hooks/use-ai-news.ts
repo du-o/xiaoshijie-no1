@@ -28,7 +28,7 @@ export function useAINews() {
 
 /**
  * 按来源获取 AI 新闻 Hook
- * 支持 8 个源：openai、arxiv、机器之心、qbitai、google-blog、every、openclaw、moltbook
+ * 支持 8 个源：openai、arxiv、36kr、solidot、google-blog、every、openclaw、moltbook
  * 统一使用本地 JSON 文件
  */
 export function useAINewsBySource(source: string) {
