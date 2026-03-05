@@ -1,51 +1,51 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-03-05T08:30:58.048Z",
+  "fetch_time": "2026-03-05T10:31:40.898Z",
   "articles": [
     {
-      "title": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting ",
-      "date": "Thu, 26 Feb 2026 10:00:00 GMT",
-      "summary": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews.",
-      "url": "https://openai.com/index/pacific-northwest-national-laboratory",
-      "category": "Global Affairs"
-    },
-    {
-      "title": "OpenAI Codex and Figma launch seamless code-to-design experience",
-      "date": "Thu, 26 Feb 2026 06:00:00 GMT",
-      "summary": "OpenAI and Figma launch a new Codex integration that connects code and design, enabling teams to move between implementation and the Figma canvas to iterate and ship faster.",
-      "url": "https://openai.com/index/figma-partnership",
-      "category": "Global Affairs"
-    },
-    {
-      "title": "Disrupting malicious uses of AI | February 2026",
-      "date": "Wed, 25 Feb 2026 00:00:00 GMT",
-      "summary": "Our latest threat report examines how malicious actors combine AI models with websites and social platforms—and what it means for detection and defense.",
-      "url": "https://openai.com/index/disrupting-malicious-ai-uses",
-      "category": "Security"
-    },
-    {
-      "title": "Arvind KC appointed Chief People Officer",
-      "date": "Tue, 24 Feb 2026 13:40:00 GMT",
-      "summary": "OpenAI appoints Arvind KC as Chief People Officer to help scale the company, strengthen its culture, and lead how work evolves in the age of AI.",
-      "url": "https://openai.com/index/arvind-kc-chief-people-officer",
-      "category": "Company"
-    },
-    {
-      "title": "Why we no longer evaluate SWE-bench Verified",
-      "date": "Mon, 23 Feb 2026 11:00:00 GMT",
-      "summary": "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.",
-      "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
+      "title": "Extending single-minus amplitudes to gravitons",
+      "date": "Wed, 04 Mar 2026 10:00:00 GMT",
+      "summary": "A new preprint extends single-minus amplitudes to gravitons, with GPT-5.2 Pro helping derive and verify nonzero graviton tree amplitudes in quantum gravity.",
+      "url": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons",
       "category": "Research"
     },
     {
-      "title": "OpenAI announces Frontier Alliance Partners",
-      "date": "Mon, 23 Feb 2026 05:30:00 GMT",
-      "summary": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.",
-      "url": "https://openai.com/index/frontier-alliance-partners",
+      "title": "Understanding AI and learning outcomes",
+      "date": "Wed, 04 Mar 2026 00:00:00 GMT",
+      "summary": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
+      "url": "https://openai.com/index/understanding-ai-and-learning-outcomes",
       "category": "Global Affairs"
+    },
+    {
+      "title": "How Axios uses AI to help deliver high-impact local journalism ",
+      "date": "Wed, 04 Mar 2026 00:00:00 GMT",
+      "summary": "Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local journalism at scale.",
+      "url": "https://openai.com/index/axios-allison-murphy",
+      "category": "ChatGPT"
+    },
+    {
+      "title": "GPT-5.3 Instant System Card",
+      "date": "Tue, 03 Mar 2026 10:00:00 GMT",
+      "summary": "",
+      "url": "https://openai.com/index/gpt-5-3-instant-system-card",
+      "category": "Publication"
+    },
+    {
+      "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
+      "date": "Tue, 03 Mar 2026 10:00:00 GMT",
+      "summary": "",
+      "url": "https://openai.com/index/gpt-5-3-instant",
+      "category": "Product"
+    },
+    {
+      "title": "Our agreement with the Department of War",
+      "date": "Sat, 28 Feb 2026 12:30:00 GMT",
+      "summary": "Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.",
+      "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
+      "category": "Company"
     }
   ],
-  "status": "error",
-  "error": "Parse error: Pi Tag is not closed."
+  "status": "success",
+  "error": null
 }

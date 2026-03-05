@@ -1,17 +1,16 @@
 {
-  "fetch_time": "2026-03-05T08:31:26.636Z",
-  "total_count": 18,
+  "fetch_time": "2026-03-05T10:32:12.572Z",
+  "total_count": 24,
   "sources_count": 6,
   "errors": [
-    "openai: Parse error: Pi Tag is not closed.",
-    "机器之心: Parse error: Cannot read properties of undefined (reading 'tagName')",
+    "机器之心: Parse error: Unknown RSS format: !doctype",
     "qbitai: HTTP 403"
   ],
   "articles": [
     {
       "title": "March Pixel Drop: New personalization and AI tools",
       "url": "https://blog.google/products-and-platforms/devices/pixel/march-2026-pixel-drop/",
-      "date": "2026-03-05T05:13:00.012Z",
+      "date": "2026-03-05T08:31:28.734Z",
       "summary": "",
       "category": "Google",
       "source": "Google Blog",
@@ -20,7 +19,7 @@
     {
       "title": "Gemini models",
       "url": "https://blog.google/products-and-platforms/products/gemini/",
-      "date": "2026-03-05T05:13:00.012Z",
+      "date": "2026-03-05T08:31:28.734Z",
       "summary": "",
       "category": "Products",
       "source": "Google Blog",
@@ -29,7 +28,7 @@
     {
       "title": "“No technology has me dreaming bigger than AI” Sundar Pichai gave remarks at the opening ceremony of the AI Impact Summit. Read a transcript of his speech.",
       "url": "https://blog.google/company-news/inside-google/message-ceo/sundar-pichai-ai-impact-summit-2026/",
-      "date": "2026-03-05T05:13:00.012Z",
+      "date": "2026-03-05T08:31:28.734Z",
       "summary": "",
       "category": "Company",
       "source": "Google Blog",
@@ -38,7 +37,7 @@
     {
       "title": "Global Network",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/",
-      "date": "2026-03-05T05:13:00.012Z",
+      "date": "2026-03-05T08:31:28.734Z",
       "summary": "",
       "category": "Innovation & AI",
       "source": "Google Blog",
@@ -47,7 +46,7 @@
     {
       "title": "NotebookLM",
       "url": "https://blog.google/innovation-and-ai/products/notebooklm/",
-      "date": "2026-03-05T05:13:00.012Z",
+      "date": "2026-03-05T08:31:28.734Z",
       "summary": "",
       "category": "Innovation & AI",
       "source": "Google Blog",
@@ -56,7 +55,7 @@
     {
       "title": "New on Android: Find friends, lost luggage and great apps Find friends without leaving the chat, recover lost bags by sharing tracker tag links, explore new apps via bite-sized videos, and more.",
       "url": "https://blog.google/products-and-platforms/platforms/android/new-android-features-march-2026/",
-      "date": "2026-03-05T05:13:00.012Z",
+      "date": "2026-03-05T08:31:28.734Z",
       "summary": "",
       "category": "Google",
       "source": "Google Blog",
@@ -65,7 +64,7 @@
     {
       "title": "The State of AI: A Look at What's Next",
       "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-03-05T05:12:27.310Z",
+      "date": "2026-03-05T08:30:57.554Z",
       "summary": "An in-depth analysis of the current AI landscape and future trends.",
       "category": "AI Analysis",
       "source": "Every.to",
@@ -137,18 +136,63 @@
       "source_name": "arxiv"
     },
     {
+      "title": "Extending single-minus amplitudes to gravitons",
+      "date": "Wed, 04 Mar 2026 10:00:00 GMT",
+      "summary": "A new preprint extends single-minus amplitudes to gravitons, with GPT-5.2 Pro helping derive and verify nonzero graviton tree amplitudes in quantum gravity.",
+      "url": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons",
+      "category": "Research",
+      "source": "OpenAI News",
+      "source_name": "openai"
+    },
+    {
       "title": "How Startups Are Using AI to Disrupt Industries",
       "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-03-04T05:12:27.310Z",
+      "date": "2026-03-04T08:30:57.554Z",
       "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
       "category": "Source Code",
       "source": "Every.to",
       "source_name": "every"
     },
     {
+      "title": "Understanding AI and learning outcomes",
+      "date": "Wed, 04 Mar 2026 00:00:00 GMT",
+      "summary": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
+      "url": "https://openai.com/index/understanding-ai-and-learning-outcomes",
+      "category": "Global Affairs",
+      "source": "OpenAI News",
+      "source_name": "openai"
+    },
+    {
+      "title": "How Axios uses AI to help deliver high-impact local journalism ",
+      "date": "Wed, 04 Mar 2026 00:00:00 GMT",
+      "summary": "Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local journalism at scale.",
+      "url": "https://openai.com/index/axios-allison-murphy",
+      "category": "ChatGPT",
+      "source": "OpenAI News",
+      "source_name": "openai"
+    },
+    {
+      "title": "GPT-5.3 Instant System Card",
+      "date": "Tue, 03 Mar 2026 10:00:00 GMT",
+      "summary": "",
+      "url": "https://openai.com/index/gpt-5-3-instant-system-card",
+      "category": "Publication",
+      "source": "OpenAI News",
+      "source_name": "openai"
+    },
+    {
+      "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
+      "date": "Tue, 03 Mar 2026 10:00:00 GMT",
+      "summary": "",
+      "url": "https://openai.com/index/gpt-5-3-instant",
+      "category": "Product",
+      "source": "OpenAI News",
+      "source_name": "openai"
+    },
+    {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-03-03T05:12:27.310Z",
+      "date": "2026-03-03T08:30:57.554Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
@@ -157,7 +201,7 @@
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-03-02T05:12:27.310Z",
+      "date": "2026-03-02T08:30:57.554Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
@@ -166,16 +210,25 @@
     {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-03-01T05:12:27.310Z",
+      "date": "2026-03-01T08:30:57.554Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
       "source_name": "every"
     },
     {
+      "title": "Our agreement with the Department of War",
+      "date": "Sat, 28 Feb 2026 12:30:00 GMT",
+      "summary": "Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.",
+      "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
+      "category": "Company",
+      "source": "OpenAI News",
+      "source_name": "openai"
+    },
+    {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-02-28T05:12:27.310Z",
+      "date": "2026-02-28T08:30:57.554Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",

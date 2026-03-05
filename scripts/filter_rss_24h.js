@@ -7,6 +7,7 @@ const fs = require('fs');
 const path = require('path');
 const https = require('https');
 const http = require('http');
+const zlib = require('zlib');
 const { XMLParser } = require('fast-xml-parser');
 
 // 配置
@@ -108,6 +109,42 @@ function get24HoursAgo() {
 }
 
 /**
+ * 获取特定源的请求配置
+ */
+function getSourceHeaders(url) {
+  const baseHeaders = {
+    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+    'Accept': 'application/rss+xml, application/xml, text/xml, */*',
+    'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
+    'Accept-Encoding': 'gzip, deflate, br',
+    'Connection': 'keep-alive',
+  };
+
+  // 量子位需要额外的 headers 绕过反爬
+  if (url.includes('qbitai.com')) {
+    return {
+      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+      'Accept': 'application/rss+xml, application/xml, text/xml, */*;q=0.9',
+      'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
+      'Referer': 'https://www.qbitai.com/',
+      'Origin': 'https://www.qbitai.com',
+      'Connection': 'keep-alive',
+    };
+  }
+
+  // 机器之心也需要特殊 headers
+  if (url.includes('jiqizhixin.com')) {
+    return {
+      ...baseHeaders,
+      'Referer': 'https://www.jiqizhixin.com/',
+      'Origin': 'https://www.jiqizhixin.com',
+    };
+  }
+
+  return baseHeaders;
+}
+
+/**
  * 发送 HTTP 请求获取 RSS
  */
 function fetchRSS(url, retryCount = 0) {
@@ -115,15 +152,7 @@ function fetchRSS(url, retryCount = 0) {
     const client = url.startsWith('https:') ? https : http;
     const options = {
       timeout: 30000, // 30秒超时
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
-        'Accept': 'application/rss+xml, application/xml, text/xml, */*',
-        'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
-        'Accept-Encoding': 'gzip, deflate, br',
-        'Connection': 'keep-alive',
-        'Cache-Control': 'no-cache',
-        'Pragma': 'no-cache',
-      },
+      headers: getSourceHeaders(url),
     };
 
     const req = client.get(url, options, (res) => {
@@ -146,13 +175,28 @@ function fetchRSS(url, retryCount = 0) {
         return;
       }
 
+      // 处理 gzip 压缩
+      const encoding = res.headers['content-encoding'];
+      let stream = res;
+      
+      if (encoding === 'gzip') {
+        stream = res.pipe(zlib.createGunzip());
+      } else if (encoding === 'deflate') {
+        stream = res.pipe(zlib.createInflate());
+      } else if (encoding === 'br') {
+        stream = res.pipe(zlib.createBrotliDecompress());
+      }
+
       let data = '';
-      res.setEncoding('utf8');
-      res.on('data', (chunk) => {
+      stream.setEncoding('utf8');
+      stream.on('data', (chunk) => {
         data += chunk;
       });
-      res.on('end', () => {
+      stream.on('end', () => {
         resolve(data);
+      });
+      stream.on('error', (err) => {
+        reject(new Error(`Decompression error: ${err.message}`));
       });
     });
 
@@ -165,7 +209,7 @@ function fetchRSS(url, retryCount = 0) {
 }
 
 /**
- * 解析 RSS XML
+ * 解析 RSS XML - 增强版，支持更多格式
  */
 function parseRSS(xmlData) {
   const parser = new XMLParser({
@@ -173,15 +217,22 @@ function parseRSS(xmlData) {
     attributeNamePrefix: '@_',
     parseAttributeValue: false,
     trimValues: true,
+    parseTagValue: false, // 防止解析错误
+    processEntities: false,
   });
 
   try {
     const result = parser.parse(xmlData);
 
     // RSS 2.0 格式
-    if (result.rss && result.rss.channel && result.rss.channel.item) {
+    if (result.rss && result.rss.channel) {
       const channel = result.rss.channel;
-      const items = Array.isArray(channel.item) ? channel.item : [channel.item];
+      // 处理 item 可能是对象或数组的情况
+      let items = [];
+      if (channel.item) {
+        items = Array.isArray(channel.item) ? channel.item : [channel.item];
+      }
+      
       return {
         title: channel.title || '',
         link: channel.link || '',
@@ -194,6 +245,38 @@ function parseRSS(xmlData) {
           category: item.category || '',
           author: item.author || item['dc:creator'] || '',
         })),
+      };
+    }
+
+    // RSS 1.0 (RDF) 格式
+    if (result['rdf:RDF'] || result.rdf) {
+      const rdf = result['rdf:RDF'] || result.rdf;
+      const items = [];
+      
+      // 遍历所有可能的 item 位置
+      const itemKeys = Object.keys(result).filter(k => 
+        result[k] && (Array.isArray(result[k]) || typeof result[k] === 'object')
+      );
+      
+      for (const key of itemKeys) {
+        const val = result[key];
+        if (Array.isArray(val)) {
+          items.push(...val.map(item => ({
+            title: item.title || '',
+            link: item.link || item['rdf:about'] || '',
+            description: item.description || '',
+            pubDate: item.pubDate || item.date || '',
+            category: item.category || '',
+            author: item.author || '',
+          })));
+        }
+      }
+      
+      return {
+        title: '',
+        link: '',
+        description: '',
+        items: items,
       };
     }
 
@@ -216,8 +299,59 @@ function parseRSS(xmlData) {
       };
     }
 
-    throw new Error('Unknown RSS format');
+    // 如果没找到标准格式，尝试直接查找 item/entry
+    const allItems = [];
+    
+    function findItems(obj) {
+      if (!obj || typeof obj !== 'object') return;
+      
+      if (obj.item) {
+        const items = Array.isArray(obj.item) ? obj.item : [obj.item];
+        allItems.push(...items.map(item => ({
+          title: item.title || '',
+          link: item.link || item.guid || item.id || '',
+          description: item.description || item.summary || item.content || '',
+          pubDate: item.pubDate || item.published || item.updated || item.date || '',
+          category: item.category || '',
+          author: item.author || item['dc:creator'] || '',
+        })));
+      }
+      
+      if (obj.entry) {
+        const entries = Array.isArray(obj.entry) ? obj.entry : [obj.entry];
+        allItems.push(...entries.map(entry => ({
+          title: entry.title || '',
+          link: entry.link?.href || entry.id || '',
+          description: entry.summary || entry.content || '',
+          pubDate: entry.published || entry.updated || '',
+          category: entry.category?.term || '',
+          author: entry.author?.name || '',
+        })));
+      }
+      
+      // 递归搜索
+      for (const key of Object.keys(obj)) {
+        if (key !== 'item' && key !== 'entry') {
+          findItems(obj[key]);
+        }
+      }
+    }
+    
+    findItems(result);
+    
+    if (allItems.length > 0) {
+      return {
+        title: '',
+        link: '',
+        description: '',
+        items: allItems,
+      };
+    }
+
+    throw new Error('Unknown RSS format: ' + Object.keys(result).join(', '));
   } catch (error) {
+    console.error('RSS Parse Error:', error.message);
+    console.error('XML Preview:', xmlData.substring(0, 500));
     throw new Error(`Parse error: ${error.message}`);
   }
 }
