@@ -1,62 +1,60 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-03-05T02:37:44.088Z",
+  "fetch_time": "2026-03-05T05:12:27.871Z",
   "articles": [
     {
-      "title": "Multi-Sourced, Multi-Agent Evidence Retrieval for Fact-Checking",
-      "date": "Wed, 04 Mar 2026 05:00:00 GMT",
-      "summary": "arXiv:2603.00267v1 Announce Type: new Abstract: Misinformation spreading over the Internet poses a significant threat to both societies and individuals, necessitating robust and scalable fact-checking that relies on retrieving accurate and trustworthy evidence. Previous methods rely on semantic and social-contextual patterns learned from training data, which limits their generalization to new data distributions. Recently, Retrieval Augmented Generation (RAG) based methods have been proposed to u",
-      "url": "https://arxiv.org/abs/2603.00267",
+      "title": "Asymmetric Goal Drift in Coding Agents Under Value Conflict",
+      "date": "Thu, 05 Mar 2026 05:00:00 GMT",
+      "summary": "arXiv:2603.03456v1 Announce Type: new Abstract: Agentic coding agents are increasingly deployed autonomously, at scale, and over long-context horizons. Throughout an agent's lifetime, it must navigate tensions between explicit instructions, learned values, and environmental pressures, often in contexts unseen during training. Prior work on model preferences, agent behavior under value tensions, and goal drift has relied on static, synthetic settings that do not capture the complexity of real-wor",
+      "url": "https://arxiv.org/abs/2603.03456",
       "category": [
         "cs.AI",
-        "cs.IR",
-        "cs.SI"
+        "cs.CL",
+        "cs.SE"
       ]
     },
     {
-      "title": "TraderBench: How Robust Are AI Agents in Adversarial Capital Markets?",
-      "date": "Wed, 04 Mar 2026 05:00:00 GMT",
-      "summary": "arXiv:2603.00285v1 Announce Type: new Abstract: Evaluating AI agents in finance faces two key challenges: static benchmarks require costly expert annotation yet miss the dynamic decision-making central to real-world trading, while LLM-based judges introduce uncontrolled variance on domain-specific tasks. We introduce TraderBench, a benchmark that addresses both issues. It combines expert-verified static tasks (knowledge retrieval, analytical reasoning) with adversarial trading simulations scored",
-      "url": "https://arxiv.org/abs/2603.00285",
-      "category": "cs.AI"
-    },
-    {
-      "title": "DIG to Heal: Scaling General-purpose Agent Collaboration via Explainable Dynamic Decision Paths",
-      "date": "Wed, 04 Mar 2026 05:00:00 GMT",
-      "summary": "arXiv:2603.00309v1 Announce Type: new Abstract: The increasingly popular agentic AI paradigm promises to harness the power of multiple, general-purpose large language model (LLM) agents to collaboratively complete complex tasks. While many agentic AI systems utilize predefined workflows or agent roles in order to reduce complexity, ideally these agents would be truly autonomous, able to achieve emergent collaboration even as the number of collaborating agents increases. Yet in practice, such uns",
-      "url": "https://arxiv.org/abs/2603.00309",
+      "title": "Build, Judge, Optimize: A Blueprint for Continuous Improvement of Multi-Agent Consumer Assistants",
+      "date": "Thu, 05 Mar 2026 05:00:00 GMT",
+      "summary": "arXiv:2603.03565v1 Announce Type: new Abstract: Conversational shopping assistants (CSAs) represent a compelling application of agentic AI, but moving from prototype to production reveals two underexplored challenges: how to evaluate multi-turn interactions and how to optimize tightly coupled multi-agent systems. Grocery shopping further amplifies these difficulties, as user requests are often underspecified, highly preference-sensitive, and constrained by factors such as budget and inventory. I",
+      "url": "https://arxiv.org/abs/2603.03565",
       "category": [
         "cs.AI",
-        "cs.MA"
-      ]
-    },
-    {
-      "title": "How Well Do Multimodal Models Reason on ECG Signals?",
-      "date": "Wed, 04 Mar 2026 05:00:00 GMT",
-      "summary": "arXiv:2603.00312v1 Announce Type: new Abstract: While multimodal large language models offer a promising solution to the \"black box\" nature of health AI by generating interpretable reasoning traces, verifying the validity of these traces remains a critical challenge. Existing evaluation methods are either unscalable, relying on manual clinician review, or superficial, utilizing proxy metrics (e.g. QA) that fail to capture the semantic correctness of clinical logic. In this work, we introduce a r",
-      "url": "https://arxiv.org/abs/2603.00312",
-      "category": [
-        "cs.AI",
+        "cs.CL",
         "cs.LG"
       ]
     },
     {
-      "title": "EmCoop: A Framework and Benchmark for Embodied Cooperation Among LLM Agents",
-      "date": "Wed, 04 Mar 2026 05:00:00 GMT",
-      "summary": "arXiv:2603.00349v1 Announce Type: new Abstract: Real-world scenarios increasingly require multiple embodied agents to collaborate in dynamic environments under embodied constraints, as many tasks exceed the capabilities of any single agent. Recent advances in large language models (LLMs) enable high-level cognitive coordination through reasoning, planning, and natural language communication. However, fine-grained analyses of how such collaboration emerges, unfolds, and contributes to task succes",
-      "url": "https://arxiv.org/abs/2603.00349",
-      "category": [
-        "cs.AI",
-        "cs.MA"
-      ]
+      "title": "Mozi: Governed Autonomy for Drug Discovery LLM Agents",
+      "date": "Thu, 05 Mar 2026 05:00:00 GMT",
+      "summary": "arXiv:2603.03655v1 Announce Type: new Abstract: Tool-augmented large language model (LLM) agents promise to unify scientific reasoning with computation, yet their deployment in high-stakes domains like drug discovery is bottlenecked by two critical barriers: unconstrained tool-use governance and poor long-horizon reliability. In dependency-heavy pharmaceutical pipelines, autonomous agents often drift into irreproducible trajectories, where early-stage hallucinations multiplicatively compound int",
+      "url": "https://arxiv.org/abs/2603.03655",
+      "category": "cs.AI"
     },
     {
-      "title": "Monotropic Artificial Intelligence: Toward a Cognitive Taxonomy of Domain-Specialized Language Models",
-      "date": "Wed, 04 Mar 2026 05:00:00 GMT",
-      "summary": "arXiv:2603.00350v1 Announce Type: new Abstract: The prevailing paradigm in artificial intelligence research equates progress with scale: larger models trained on broader datasets are presumed to yield superior capabilities. This assumption, while empirically productive for general-purpose applications, obscures a fundamental epistemological tension between breadth and depth of knowledge. We introduce the concept of \\emph{Monotropic Artificial Intelligence} -- language models that deliberately sa",
-      "url": "https://arxiv.org/abs/2603.00350",
+      "title": "MAGE: Meta-Reinforcement Learning for Language Agents toward Strategic Exploration and Exploitation",
+      "date": "Thu, 05 Mar 2026 05:00:00 GMT",
+      "summary": "arXiv:2603.03680v1 Announce Type: new Abstract: Large Language Model (LLM) agents have demonstrated remarkable proficiency in learned tasks, yet they often struggle to adapt to non-stationary environments with feedback. While In-Context Learning and external memory offer some flexibility, they fail to internalize the adaptive ability required for long-term improvement. Meta-Reinforcement Learning (meta-RL) provides an alternative by embedding the learning process directly within the model. Howev",
+      "url": "https://arxiv.org/abs/2603.03680",
       "category": "cs.AI"
+    },
+    {
+      "title": "AI4S-SDS: A Neuro-Symbolic Solvent Design System via Sparse MCTS and Differentiable Physics Alignment",
+      "date": "Thu, 05 Mar 2026 05:00:00 GMT",
+      "summary": "arXiv:2603.03686v1 Announce Type: new Abstract: Automated design of chemical formulations is a cornerstone of materials science, yet it requires navigating a high-dimensional combinatorial space involving discrete compositional choices and continuous geometric constraints. Existing Large Language Model (LLM) agents face significant challenges in this setting, including context window limitations during long-horizon reasoning and path-dependent exploration that may lead to mode collapse. To addre",
+      "url": "https://arxiv.org/abs/2603.03686",
+      "category": "cs.AI"
+    },
+    {
+      "title": "RAGNav: A Retrieval-Augmented Topological Reasoning Framework for Multi-Goal Visual-Language Navigation",
+      "date": "Thu, 05 Mar 2026 05:00:00 GMT",
+      "summary": "arXiv:2603.03745v1 Announce Type: new Abstract: Vision-Language Navigation (VLN) is evolving from single-point pathfinding toward the more challenging Multi-Goal VLN. This task requires agents to accurately identify multiple entities while collaboratively reasoning over their spatial-physical constraints and sequential execution order. However, generic Retrieval-Augmented Generation (RAG) paradigms often suffer from spatial hallucinations and planning drift when handling multi-object association",
+      "url": "https://arxiv.org/abs/2603.03745",
+      "category": [
+        "cs.AI",
+        "cs.RO"
+      ]
     }
   ],
   "status": "success",
