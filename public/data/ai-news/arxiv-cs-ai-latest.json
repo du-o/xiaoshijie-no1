@@ -1,59 +1,68 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-03-06T02:35:22.323Z",
+  "fetch_time": "2026-03-06T05:09:34.498Z",
   "articles": [
     {
-      "title": "Asymmetric Goal Drift in Coding Agents Under Value Conflict",
-      "date": "Thu, 05 Mar 2026 05:00:00 GMT",
-      "summary": "arXiv:2603.03456v1 Announce Type: new Abstract: Agentic coding agents are increasingly deployed autonomously, at scale, and over long-context horizons. Throughout an agent's lifetime, it must navigate tensions between explicit instructions, learned values, and environmental pressures, often in contexts unseen during training. Prior work on model preferences, agent behavior under value tensions, and goal drift has relied on static, synthetic settings that do not capture the complexity of real-wor",
-      "url": "https://arxiv.org/abs/2603.03456",
+      "title": "SkillNet: Create, Evaluate, and Connect AI Skills",
+      "date": "Fri, 06 Mar 2026 05:00:00 GMT",
+      "summary": "arXiv:2603.04448v1 Announce Type: new Abstract: Current AI agents can flexibly invoke tools and execute complex tasks, yet their long-term advancement is hindered by the lack of systematic accumulation and transfer of skills. Without a unified mechanism for skill consolidation, agents frequently ``reinvent the wheel'', rediscovering solutions in isolated contexts without leveraging prior strategies. To overcome this limitation, we introduce SkillNet, an open infrastructure designed to create, ev",
+      "url": "https://arxiv.org/abs/2603.04448",
       "category": [
         "cs.AI",
         "cs.CL",
-        "cs.SE"
+        "cs.CV",
+        "cs.LG",
+        "cs.MA"
       ]
     },
     {
-      "title": "Build, Judge, Optimize: A Blueprint for Continuous Improvement of Multi-Agent Consumer Assistants",
-      "date": "Thu, 05 Mar 2026 05:00:00 GMT",
-      "summary": "arXiv:2603.03565v1 Announce Type: new Abstract: Conversational shopping assistants (CSAs) represent a compelling application of agentic AI, but moving from prototype to production reveals two underexplored challenges: how to evaluate multi-turn interactions and how to optimize tightly coupled multi-agent systems. Grocery shopping further amplifies these difficulties, as user requests are often underspecified, highly preference-sensitive, and constrained by factors such as budget and inventory. I",
-      "url": "https://arxiv.org/abs/2603.03565",
+      "title": "Capability Thresholds and Manufacturing Topology: How Embodied Intelligence Triggers Phase Transitions in Economic Geography",
+      "date": "Fri, 06 Mar 2026 05:00:00 GMT",
+      "summary": "arXiv:2603.04457v1 Announce Type: new Abstract: The fundamental topology of manufacturing has not undergone a paradigm-level transformation since Henry Ford's moving assembly line in 1913. Every major innovation of the past century, from the Toyota Production System to Industry 4.0, has optimized within the Fordist paradigm without altering its structural logic: centralized mega-factories, located near labor pools, producing at scale. We argue that embodied intelligence is poised to break this c",
+      "url": "https://arxiv.org/abs/2603.04457",
+      "category": [
+        "cs.AI",
+        "cs.CE",
+        "physics.soc-ph"
+      ]
+    },
+    {
+      "title": "Progressive Refinement Regulation for Accelerating Diffusion Language Model Decoding",
+      "date": "Fri, 06 Mar 2026 05:00:00 GMT",
+      "summary": "arXiv:2603.04514v1 Announce Type: new Abstract: Diffusion language models generate text through iterative denoising under a uniform refinement rule applied to all tokens. However, tokens stabilize at different rates in practice, leading to substantial redundant refinement and motivating refinement control over the denoising process. Existing approaches typically assess refinement necessity from instantaneous, step-level signals under a fixed decoding process. In contrast, whether a token has con",
+      "url": "https://arxiv.org/abs/2603.04514",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Discovering mathematical concepts through a multi-agent system",
+      "date": "Fri, 06 Mar 2026 05:00:00 GMT",
+      "summary": "arXiv:2603.04528v1 Announce Type: new Abstract: Mathematical concepts emerge through an interplay of processes, including experimentation, efforts at proof, and counterexamples. In this paper, we present a new multi-agent model for computational mathematical discovery based on this observation. Our system, conceived with research in mind, poses its own conjectures and then attempts to prove them, making decisions informed by this feedback and an evolving data distribution. Inspired by the histor",
+      "url": "https://arxiv.org/abs/2603.04528",
+      "category": [
+        "cs.AI",
+        "math.HO"
+      ]
+    },
+    {
+      "title": "Adaptive Memory Admission Control for LLM Agents",
+      "date": "Fri, 06 Mar 2026 05:00:00 GMT",
+      "summary": "arXiv:2603.04549v1 Announce Type: new Abstract: LLM-based agents increasingly rely on long-term memory to support multi-session reasoning and interaction, yet current systems provide little control over what information is retained. In practice, agents either accumulate large volumes of conversational content, including hallucinated or obsolete facts, or depend on opaque, fully LLM-driven memory policies that are costly and difficult to audit. As a result, memory admission remains a poorly speci",
+      "url": "https://arxiv.org/abs/2603.04549",
       "category": [
         "cs.AI",
         "cs.CL",
+        "cs.MA"
+      ]
+    },
+    {
+      "title": "Self-Attribution Bias: When AI Monitors Go Easy on Themselves",
+      "date": "Fri, 06 Mar 2026 05:00:00 GMT",
+      "summary": "arXiv:2603.04582v1 Announce Type: new Abstract: Agentic systems increasingly rely on language models to monitor their own behavior. For example, coding agents may self critique generated code for pull request approval or assess the safety of tool-use actions. We show that this design pattern can fail when the action is presented in a previous or in the same assistant turn instead of being presented by the user in a user turn. We define self-attribution bias as the tendency of a model to evaluate",
+      "url": "https://arxiv.org/abs/2603.04582",
+      "category": [
+        "cs.AI",
         "cs.LG"
-      ]
-    },
-    {
-      "title": "Mozi: Governed Autonomy for Drug Discovery LLM Agents",
-      "date": "Thu, 05 Mar 2026 05:00:00 GMT",
-      "summary": "arXiv:2603.03655v1 Announce Type: new Abstract: Tool-augmented large language model (LLM) agents promise to unify scientific reasoning with computation, yet their deployment in high-stakes domains like drug discovery is bottlenecked by two critical barriers: unconstrained tool-use governance and poor long-horizon reliability. In dependency-heavy pharmaceutical pipelines, autonomous agents often drift into irreproducible trajectories, where early-stage hallucinations multiplicatively compound int",
-      "url": "https://arxiv.org/abs/2603.03655",
-      "category": "cs.AI"
-    },
-    {
-      "title": "MAGE: Meta-Reinforcement Learning for Language Agents toward Strategic Exploration and Exploitation",
-      "date": "Thu, 05 Mar 2026 05:00:00 GMT",
-      "summary": "arXiv:2603.03680v1 Announce Type: new Abstract: Large Language Model (LLM) agents have demonstrated remarkable proficiency in learned tasks, yet they often struggle to adapt to non-stationary environments with feedback. While In-Context Learning and external memory offer some flexibility, they fail to internalize the adaptive ability required for long-term improvement. Meta-Reinforcement Learning (meta-RL) provides an alternative by embedding the learning process directly within the model. Howev",
-      "url": "https://arxiv.org/abs/2603.03680",
-      "category": "cs.AI"
-    },
-    {
-      "title": "AI4S-SDS: A Neuro-Symbolic Solvent Design System via Sparse MCTS and Differentiable Physics Alignment",
-      "date": "Thu, 05 Mar 2026 05:00:00 GMT",
-      "summary": "arXiv:2603.03686v1 Announce Type: new Abstract: Automated design of chemical formulations is a cornerstone of materials science, yet it requires navigating a high-dimensional combinatorial space involving discrete compositional choices and continuous geometric constraints. Existing Large Language Model (LLM) agents face significant challenges in this setting, including context window limitations during long-horizon reasoning and path-dependent exploration that may lead to mode collapse. To addre",
-      "url": "https://arxiv.org/abs/2603.03686",
-      "category": "cs.AI"
-    },
-    {
-      "title": "RAGNav: A Retrieval-Augmented Topological Reasoning Framework for Multi-Goal Visual-Language Navigation",
-      "date": "Thu, 05 Mar 2026 05:00:00 GMT",
-      "summary": "arXiv:2603.03745v1 Announce Type: new Abstract: Vision-Language Navigation (VLN) is evolving from single-point pathfinding toward the more challenging Multi-Goal VLN. This task requires agents to accurately identify multiple entities while collaboratively reasoning over their spatial-physical constraints and sequential execution order. However, generic Retrieval-Augmented Generation (RAG) paradigms often suffer from spatial hallucinations and planning drift when handling multi-object association",
-      "url": "https://arxiv.org/abs/2603.03745",
-      "category": [
-        "cs.AI",
-        "cs.RO"
       ]
     }
   ],

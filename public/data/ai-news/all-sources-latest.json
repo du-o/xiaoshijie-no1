@@ -1,62 +1,199 @@
 {
-  "fetch_time": "2026-03-06T02:35:25.326Z",
+  "fetch_time": "2026-03-06T05:09:38.079Z",
   "total_count": 36,
   "sources_count": 6,
   "errors": null,
   "articles": [
     {
-      "title": "沪深两市成交额突破1万亿元",
-      "date": "Fri, 06 Mar 2026 02:30:10 GMT",
-      "summary": "36氪获悉，沪深两市成交额突破1万亿元。",
-      "url": "https://36kr.com/newsflashes/3710848378335620?f=rss",
+      "title": "魔法原子：技术总裁吴长征已于半年前淡出管理团队",
+      "date": "Fri, 06 Mar 2026 05:05:29 GMT",
+      "summary": "36氪获悉，魔法原子宣布技术总裁吴长征主动辞任，并于今年二月底正式离职。据了解，吴长征过去半年已经逐渐淡出管理团队。",
+      "url": "https://36kr.com/newsflashes/3711001059815812?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "总投资超1900亿元，四川发布国企民企合作机会清单",
-      "date": "Fri, 06 Mar 2026 02:27:49 GMT",
-      "summary": "36氪获悉，据“四川发布”，3月4日，四川省发展改革委、省国资委联合举办的民营企业机会清单发布暨民间投资项目推介会在成都召开。会上，省国资委发布了省属国有企业2026年度新开工重点项目清单，涉及铁路、新能源等领域20个重点项目，项目投资金额超1900亿元。同时，省发展改革委发布的民营企业拟同省属国有企业合作意向清单，共涉及21户民营企业合作项目、意向合作金额约32亿元。主要涵盖股权合作、产业链合作、供应链合作和联合科技创新合作等合作方式，涉及人工智能等7个重点产业链。",
-      "url": "https://36kr.com/newsflashes/3710846069452936?f=rss",
+      "title": "SkillNet: Create, Evaluate, and Connect AI Skills",
+      "date": "Fri, 06 Mar 2026 05:00:00 GMT",
+      "summary": "arXiv:2603.04448v1 Announce Type: new Abstract: Current AI agents can flexibly invoke tools and execute complex tasks, yet their long-term advancement is hindered by the lack of systematic accumulation and transfer of skills. Without a unified mechanism for skill consolidation, agents frequently ``reinvent the wheel'', rediscovering solutions in isolated contexts without leveraging prior strategies. To overcome this limitation, we introduce SkillNet, an open infrastructure designed to create, ev",
+      "url": "https://arxiv.org/abs/2603.04448",
+      "category": [
+        "cs.AI",
+        "cs.CL",
+        "cs.CV",
+        "cs.LG",
+        "cs.MA"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Capability Thresholds and Manufacturing Topology: How Embodied Intelligence Triggers Phase Transitions in Economic Geography",
+      "date": "Fri, 06 Mar 2026 05:00:00 GMT",
+      "summary": "arXiv:2603.04457v1 Announce Type: new Abstract: The fundamental topology of manufacturing has not undergone a paradigm-level transformation since Henry Ford's moving assembly line in 1913. Every major innovation of the past century, from the Toyota Production System to Industry 4.0, has optimized within the Fordist paradigm without altering its structural logic: centralized mega-factories, located near labor pools, producing at scale. We argue that embodied intelligence is poised to break this c",
+      "url": "https://arxiv.org/abs/2603.04457",
+      "category": [
+        "cs.AI",
+        "cs.CE",
+        "physics.soc-ph"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Progressive Refinement Regulation for Accelerating Diffusion Language Model Decoding",
+      "date": "Fri, 06 Mar 2026 05:00:00 GMT",
+      "summary": "arXiv:2603.04514v1 Announce Type: new Abstract: Diffusion language models generate text through iterative denoising under a uniform refinement rule applied to all tokens. However, tokens stabilize at different rates in practice, leading to substantial redundant refinement and motivating refinement control over the denoising process. Existing approaches typically assess refinement necessity from instantaneous, step-level signals under a fixed decoding process. In contrast, whether a token has con",
+      "url": "https://arxiv.org/abs/2603.04514",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Discovering mathematical concepts through a multi-agent system",
+      "date": "Fri, 06 Mar 2026 05:00:00 GMT",
+      "summary": "arXiv:2603.04528v1 Announce Type: new Abstract: Mathematical concepts emerge through an interplay of processes, including experimentation, efforts at proof, and counterexamples. In this paper, we present a new multi-agent model for computational mathematical discovery based on this observation. Our system, conceived with research in mind, poses its own conjectures and then attempts to prove them, making decisions informed by this feedback and an evolving data distribution. Inspired by the histor",
+      "url": "https://arxiv.org/abs/2603.04528",
+      "category": [
+        "cs.AI",
+        "math.HO"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Adaptive Memory Admission Control for LLM Agents",
+      "date": "Fri, 06 Mar 2026 05:00:00 GMT",
+      "summary": "arXiv:2603.04549v1 Announce Type: new Abstract: LLM-based agents increasingly rely on long-term memory to support multi-session reasoning and interaction, yet current systems provide little control over what information is retained. In practice, agents either accumulate large volumes of conversational content, including hallucinated or obsolete facts, or depend on opaque, fully LLM-driven memory policies that are costly and difficult to audit. As a result, memory admission remains a poorly speci",
+      "url": "https://arxiv.org/abs/2603.04549",
+      "category": [
+        "cs.AI",
+        "cs.CL",
+        "cs.MA"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Self-Attribution Bias: When AI Monitors Go Easy on Themselves",
+      "date": "Fri, 06 Mar 2026 05:00:00 GMT",
+      "summary": "arXiv:2603.04582v1 Announce Type: new Abstract: Agentic systems increasingly rely on language models to monitor their own behavior. For example, coding agents may self critique generated code for pull request approval or assess the safety of tool-use actions. We show that this design pattern can fail when the action is presented in a previous or in the same assistant turn instead of being presented by the user in a user turn. We define self-attribution bias as the tendency of a model to evaluate",
+      "url": "https://arxiv.org/abs/2603.04582",
+      "category": [
+        "cs.AI",
+        "cs.LG"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "埃诺格鲁肽（先维盈®）获批用于中国成人体重管理",
+      "date": "Fri, 06 Mar 2026 04:52:41 GMT",
+      "summary": "36氪获悉，辉瑞中国今日宣布，国家药品监督管理局（NMPA）已正式批准新一代cAMP偏向型GLP-1受体激动剂埃诺格鲁肽注射液（先维盈®），用于在控制饮食和增加体力活动基础上对成人超重/肥胖患者的长期体重管理。",
+      "url": "https://36kr.com/newsflashes/3710988482130054?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "A股三大股指全线翻红",
-      "date": "Fri, 06 Mar 2026 02:14:23 GMT",
-      "summary": "36氪获悉，A股三大股指全线翻红，创业板指一度跌超1%，全市场超4200只个股飘红。",
-      "url": "https://36kr.com/newsflashes/3710832866800004?f=rss",
+      "title": "世界移动通信大会闭幕，AI推动变革趋势明显",
+      "date": "Fri, 06 Mar 2026 04:41:40 GMT",
+      "summary": "2026年世界移动通信大会5日在巴塞罗那落下帷幕。大会显示，人工智能（AI）推动产业变革的趋势愈加明显，移动通信正从单纯提供连接的网络基础设施，向融合云计算、数据平台与各行业数字化应用的更广泛数字生态加速演进。本届大会上，中国企业表现亮眼。华为、小米、联想、荣耀等企业展区人气高涨，机器人手机等多款AI创新产品成为现场焦点；多家中国企业利用AI在细分行业应用的不断拓展，展示了基于华为AI模型和算力平台开发的行业解决方案。（新华社）",
+      "url": "https://36kr.com/newsflashes/3710941394694530?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "恒生科技指数涨幅扩大至2%",
-      "date": "Fri, 06 Mar 2026 02:12:02 GMT",
-      "summary": "36氪获悉，恒生科技指数涨幅扩大至2%，恒指涨0.78%，科网股回暖，京东涨超6%，阿里健康、京东健康涨超3%，腾讯控股涨近3%。",
-      "url": "https://36kr.com/newsflashes/3710830545023367?f=rss",
+      "title": "声智科技再获吴文俊人工智能科技进步奖",
+      "date": "Fri, 06 Mar 2026 04:39:35 GMT",
+      "summary": "近日，声学AI创新企业声智科技再次获得“吴文俊人工智能科技进步奖”，该奖项被誉为中国人工智能最高奖。此次获奖，基于声智科技在声学感知、声学探测、声学表达三大核心技术领域实现了深度突破。截至目前，声智科技的声学AI技术已具备全球布局与规模化落地能力：其已赋能终端设备超2000万台，累计服务客户超2万家，累计服务用户数突破2亿大关。",
+      "url": "https://36kr.com/newsflashes/3710975595934086?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "今天全国铁路预计发送旅客1295万人次",
-      "date": "Fri, 06 Mar 2026 02:01:23 GMT",
-      "summary": "据国铁集团，今天（3月6日），全国铁路预计发送旅客1295万人次，计划加开旅客列车1079列。昨天（3月5日），全国铁路发送旅客1250.9万人次，运输安全平稳有序。（央视新闻）",
-      "url": "https://36kr.com/newsflashes/3710820079219079?f=rss",
+      "title": "“手搓经济”升温，灵光用户手搓闪应用售千单",
+      "date": "Fri, 06 Mar 2026 04:37:52 GMT",
+      "summary": "36氪获悉，近日，有多位网友在社交平台分享并出售他们通过灵光App手搓的闪应用，单个小应用成交量从百单到千单。这些闪应用生成门槛非常低，网友通过自然语言和灵光App对话，0成本创作，不会写代码也能搓出一个可交互的小应用。因其制作便捷，不受赛道限制，被当下年轻人发展成了一门“生意”。据不完全统计，在某社交平台，用灵光手搓出来的个人成长主题的小应用已售出数千单。",
+      "url": "https://36kr.com/newsflashes/3710973919113351?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "沪深两市成交额突破5000亿元",
-      "date": "Fri, 06 Mar 2026 01:50:45 GMT",
-      "summary": "36氪获悉，沪深两市成交额突破5000亿元。",
-      "url": "https://36kr.com/newsflashes/3710809634992515?f=rss",
+      "title": "澄天伟业：公司液冷产品已实现小批量产品交付",
+      "date": "Fri, 06 Mar 2026 04:31:05 GMT",
+      "summary": "36氪获悉，澄天伟业在互动平台表示，公司液冷产品的产能规划主要聚焦于满足核心战略客户的规模化交付需求。目前公司液冷产品已通过部分重点客户的样品测试与认证，并实现小批量产品交付，正加快推动核心客户的量产导入进程。",
+      "url": "https://36kr.com/newsflashes/3710940819173511?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
+    },
+    {
+      "title": "March Pixel Drop: New personalization and AI tools",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/march-2026-pixel-drop/",
+      "date": "2026-03-06T02:35:30.168Z",
+      "summary": "",
+      "category": "Google",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Gemini models",
+      "url": "https://blog.google/products-and-platforms/products/gemini/",
+      "date": "2026-03-06T02:35:30.168Z",
+      "summary": "",
+      "category": "Products",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "“No technology has me dreaming bigger than AI” Sundar Pichai gave remarks at the opening ceremony of the AI Impact Summit. Read a transcript of his speech.",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/sundar-pichai-ai-impact-summit-2026/",
+      "date": "2026-03-06T02:35:30.168Z",
+      "summary": "",
+      "category": "Company",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Developer tools",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/",
+      "date": "2026-03-06T02:35:30.168Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Sustainability",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/",
+      "date": "2026-03-06T02:35:30.168Z",
+      "summary": "",
+      "category": "Company",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Global Network",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/",
+      "date": "2026-03-06T02:35:30.168Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "The State of AI: A Look at What's Next",
+      "url": "https://every.to/p/the-state-of-ai",
+      "date": "2026-03-06T02:35:21.727Z",
+      "summary": "An in-depth analysis of the current AI landscape and future trends.",
+      "category": "AI Analysis",
+      "source": "Every.to",
+      "source_name": "every"
     },
     {
       "title": "超级木星挑战其形成理论",
@@ -84,69 +221,6 @@
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
-    },
-    {
-      "title": "March Pixel Drop: New personalization and AI tools",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/march-2026-pixel-drop/",
-      "date": "2026-03-05T12:30:42.969Z",
-      "summary": "",
-      "category": "Google",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Gemini models",
-      "url": "https://blog.google/products-and-platforms/products/gemini/",
-      "date": "2026-03-05T12:30:42.969Z",
-      "summary": "",
-      "category": "Products",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "“No technology has me dreaming bigger than AI” Sundar Pichai gave remarks at the opening ceremony of the AI Impact Summit. Read a transcript of his speech.",
-      "url": "https://blog.google/company-news/inside-google/message-ceo/sundar-pichai-ai-impact-summit-2026/",
-      "date": "2026-03-05T12:30:42.969Z",
-      "summary": "",
-      "category": "Company",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Global Network",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/",
-      "date": "2026-03-05T12:30:42.969Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "NotebookLM",
-      "url": "https://blog.google/innovation-and-ai/products/notebooklm/",
-      "date": "2026-03-05T12:30:42.969Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "New on Android: Find friends, lost luggage and great apps Find friends without leaving the chat, recover lost bags by sharing tracker tag links, explore new apps via bite-sized videos, and more.",
-      "url": "https://blog.google/products-and-platforms/platforms/android/new-android-features-march-2026/",
-      "date": "2026-03-05T12:30:42.969Z",
-      "summary": "",
-      "category": "Google",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "The State of AI: A Look at What's Next",
-      "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-03-05T12:30:35.548Z",
-      "summary": "An in-depth analysis of the current AI landscape and future trends.",
-      "category": "AI Analysis",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "Introducing GPT-5.4",
@@ -212,69 +286,13 @@
       "source_name": "solidot"
     },
     {
-      "title": "Asymmetric Goal Drift in Coding Agents Under Value Conflict",
-      "date": "Thu, 05 Mar 2026 05:00:00 GMT",
-      "summary": "arXiv:2603.03456v1 Announce Type: new Abstract: Agentic coding agents are increasingly deployed autonomously, at scale, and over long-context horizons. Throughout an agent's lifetime, it must navigate tensions between explicit instructions, learned values, and environmental pressures, often in contexts unseen during training. Prior work on model preferences, agent behavior under value tensions, and goal drift has relied on static, synthetic settings that do not capture the complexity of real-wor",
-      "url": "https://arxiv.org/abs/2603.03456",
-      "category": [
-        "cs.AI",
-        "cs.CL",
-        "cs.SE"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Build, Judge, Optimize: A Blueprint for Continuous Improvement of Multi-Agent Consumer Assistants",
-      "date": "Thu, 05 Mar 2026 05:00:00 GMT",
-      "summary": "arXiv:2603.03565v1 Announce Type: new Abstract: Conversational shopping assistants (CSAs) represent a compelling application of agentic AI, but moving from prototype to production reveals two underexplored challenges: how to evaluate multi-turn interactions and how to optimize tightly coupled multi-agent systems. Grocery shopping further amplifies these difficulties, as user requests are often underspecified, highly preference-sensitive, and constrained by factors such as budget and inventory. I",
-      "url": "https://arxiv.org/abs/2603.03565",
-      "category": [
-        "cs.AI",
-        "cs.CL",
-        "cs.LG"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Mozi: Governed Autonomy for Drug Discovery LLM Agents",
-      "date": "Thu, 05 Mar 2026 05:00:00 GMT",
-      "summary": "arXiv:2603.03655v1 Announce Type: new Abstract: Tool-augmented large language model (LLM) agents promise to unify scientific reasoning with computation, yet their deployment in high-stakes domains like drug discovery is bottlenecked by two critical barriers: unconstrained tool-use governance and poor long-horizon reliability. In dependency-heavy pharmaceutical pipelines, autonomous agents often drift into irreproducible trajectories, where early-stage hallucinations multiplicatively compound int",
-      "url": "https://arxiv.org/abs/2603.03655",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "MAGE: Meta-Reinforcement Learning for Language Agents toward Strategic Exploration and Exploitation",
-      "date": "Thu, 05 Mar 2026 05:00:00 GMT",
-      "summary": "arXiv:2603.03680v1 Announce Type: new Abstract: Large Language Model (LLM) agents have demonstrated remarkable proficiency in learned tasks, yet they often struggle to adapt to non-stationary environments with feedback. While In-Context Learning and external memory offer some flexibility, they fail to internalize the adaptive ability required for long-term improvement. Meta-Reinforcement Learning (meta-RL) provides an alternative by embedding the learning process directly within the model. Howev",
-      "url": "https://arxiv.org/abs/2603.03680",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "AI4S-SDS: A Neuro-Symbolic Solvent Design System via Sparse MCTS and Differentiable Physics Alignment",
-      "date": "Thu, 05 Mar 2026 05:00:00 GMT",
-      "summary": "arXiv:2603.03686v1 Announce Type: new Abstract: Automated design of chemical formulations is a cornerstone of materials science, yet it requires navigating a high-dimensional combinatorial space involving discrete compositional choices and continuous geometric constraints. Existing Large Language Model (LLM) agents face significant challenges in this setting, including context window limitations during long-horizon reasoning and path-dependent exploration that may lead to mode collapse. To addre",
-      "url": "https://arxiv.org/abs/2603.03686",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "RAGNav: A Retrieval-Augmented Topological Reasoning Framework for Multi-Goal Visual-Language Navigation",
-      "date": "Thu, 05 Mar 2026 05:00:00 GMT",
-      "summary": "arXiv:2603.03745v1 Announce Type: new Abstract: Vision-Language Navigation (VLN) is evolving from single-point pathfinding toward the more challenging Multi-Goal VLN. This task requires agents to accurately identify multiple entities while collaboratively reasoning over their spatial-physical constraints and sequential execution order. However, generic Retrieval-Augmented Generation (RAG) paradigms often suffer from spatial hallucinations and planning drift when handling multi-object association",
-      "url": "https://arxiv.org/abs/2603.03745",
-      "category": [
-        "cs.AI",
-        "cs.RO"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
+      "title": "How Startups Are Using AI to Disrupt Industries",
+      "url": "https://every.to/source-code/ai-startups",
+      "date": "2026-03-05T02:35:21.727Z",
+      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
+      "category": "Source Code",
+      "source": "Every.to",
+      "source_name": "every"
     },
     {
       "title": "Introducing ChatGPT for Excel and new financial data integrations",
@@ -295,18 +313,9 @@
       "source_name": "openai"
     },
     {
-      "title": "How Startups Are Using AI to Disrupt Industries",
-      "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-03-04T12:30:35.548Z",
-      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
-      "category": "Source Code",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-03-03T12:30:35.548Z",
+      "date": "2026-03-04T02:35:21.727Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
@@ -315,7 +324,7 @@
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-03-02T12:30:35.548Z",
+      "date": "2026-03-03T02:35:21.727Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
@@ -324,7 +333,7 @@
     {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-03-01T12:30:35.548Z",
+      "date": "2026-03-02T02:35:21.727Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -333,7 +342,7 @@
     {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-02-28T12:30:35.548Z",
+      "date": "2026-03-01T02:35:21.727Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
