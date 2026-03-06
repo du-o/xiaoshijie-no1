@@ -1,8 +1,36 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-03-06T05:09:38.078Z",
+  "fetch_time": "2026-03-06T08:28:21.824Z",
   "articles": [
+    {
+      "title": "关注面向创业公司和投资机构的 GTC 2026",
+      "date": "Fri, 06 Mar 2026 07:17:36 GMT",
+      "summary": "3月16 - 19日，NVIDIA初创加速计划将携手创业生态合作伙伴、优秀会员企业代表及创投联盟资深投资人在GTC 2026上带来全新会议特辑。会议包含3场针对中国创业者的精彩演讲。特辑内容将围绕中国创业生态格局、前沿技术趋势、2025年中国AI市场前景，以及重点行业投资方向等议题展开，全景呈现当前AI创业、前沿技术领域的热门话题。会议同期还将设置创业企业展示、投资人AI Day、创投论坛等环节。",
+      "url": "https://www.solidot.org/story?sid=83700",
+      "category": ""
+    },
+    {
+      "title": "十分之一的 Firefox 崩溃是比特翻转导致的",
+      "date": "Fri, 06 Mar 2026 07:15:10 GMT",
+      "summary": "Mozilla Staff Platform Engineer Gabriele Svelto 称十分之一的 Firefox 崩溃是比特翻转导致的。比特翻转（Bitflips）是指储存在电子设备上的个别比特发生翻转的事件，比如从 0 变为 1 或反之亦然。导致比特翻转的自然因素主要包括宇宙射线、功率波动和温度等。Firefox 去年部署了浏览器崩溃后在用户电脑上运行的内存测试工具。上周 Firefox 收到了 47 万份崩溃报告。崩溃报告是用户自愿递交的，因此实际崩溃数量通常会是报告的数倍。47 万份崩溃报告中约 2.5 万份检测到可能是比特翻转导致的。意味着每 20 次崩溃中就有一次可能是由内存不稳定或间歇性出错导致的。由于检测方法非常保守，实际数量至少是两倍，即十分之一。Gabriele Svelto 指出硬件不稳定的用户比硬件稳定的用户更可能遭遇崩溃。他表示今天的笔记本电脑和智能手机的内存通常是焊在设备上，要更换基本上不可能。",
+      "url": "https://www.solidot.org/story?sid=83696",
+      "category": ""
+    },
+    {
+      "title": "Epic CEO Tim Sweeney 同意在 2032 年前停止批评 Play Store",
+      "date": "Fri, 06 Mar 2026 06:23:57 GMT",
+      "summary": "Google 和 Epic 就《堡垒之夜》的佣金比例分歧达成和解，Google 同意降低所有应用的佣金比例。这场诉讼对 Epic CEO Tim Sweeney 而言是大获全胜，他完全实现了自己的目标。当然他也“被迫”做出了让步：根据和解协议，Sweeney 同意在 2032 年之前停止批评 Google 的应用商店政策，禁止进一步迫使 Google 再次修改应用商店政策，必须公开支持 Google 修改后的政策，甚至可能需要在世界各地的法庭出庭为与 Google 达成的这项协议辩护。Sweeney 已经通过其社交媒体账号赞美了 Google。",
+      "url": "https://www.solidot.org/story?sid=83694",
+      "category": ""
+    },
+    {
+      "title": "维基百科因安全失误短暂进入只读模式",
+      "date": "Fri, 06 Mar 2026 06:09:12 GMT",
+      "summary": "维基媒体基金会的安全工程师在执行安全审查时加载随机用户脚本，结果加载了来自 ruwiki 的一个恶意脚本，恶意脚本利用安全工程师的高访问权限在维基百科快速扩散，为了遏制破坏，维基媒体基金会项目被迫进入只读模式两小时，短暂禁用了大部分用户脚本。维基媒体基金会称，恶意脚本导致 Meta-Wiki 页面被删除，但被删除的网页已经恢复，它不认为恶意代码造成了永久性伤害，也没有用户信息在此次事件中泄露。维基媒体基金会表示正与社区协商，开发针对用户脚本的安全缓解措施，以最大限度的降低未来发生此类事件的风险。",
+      "url": "https://www.solidot.org/story?sid=83693",
+      "category": ""
+    },
     {
       "title": "超级木星挑战其形成理论",
       "date": "Thu, 05 Mar 2026 15:56:03 GMT",
@@ -15,34 +43,6 @@
       "date": "Thu, 05 Mar 2026 15:46:42 GMT",
       "summary": "天文学家去年报告发现了已知第三颗星际天体，前两颗分别是 'Oumuamua、彗星 2I/Borisov，第三颗 3I/ATLAS 也属于星际彗星。3I/ATLAS 目前正在太阳系内飞行，根据发表在《The Astronomical Journal》期刊上的一项研究，中科院上海天文台等研究团队模拟分析了彗星 3I/ATLAS 与太阳系内天体碰撞的概率。3I/ATLAS 的轨道倾角约为175°，这意味着其运行方向与太阳系内大部分天体近乎相反。它的近日点距离仅约 1.36 天文单位，相当于其将“逆流而行”穿越内太阳系天体密集区域。这一独特的轨道特征引发了它与数以万计的小行星相遇时发生碰撞的可能性有多大的疑问。研究团队的结论是：在它“逆行穿越”内太阳系期间，共有 31 颗近地小行星和 736 颗主带小行星，会与其物理距离缩小至 0.03 个天文单位（约 450 万公里）以内。其中彗星 3I/ATLAS 核心与小行星 2020 BG107 的发生撞击的概率约为 0.025%，小行星进入彗发范围内的概率则高达 2.7%。",
       "url": "https://www.solidot.org/story?sid=83691",
-      "category": ""
-    },
-    {
-      "title": "思科警告两个 Catalyst SD-WAN Manager 漏洞正被活跃利用",
-      "date": "Thu, 05 Mar 2026 15:26:31 GMT",
-      "summary": "思科警告两个 Catalyst SD-WAN Manager 漏洞正被活跃利用，敦促管理员尽快打上补丁堵上漏洞。Catalyst SD-WAN Manager 前称 vManage，允许系统管理员集中监控和管理最多 6,000 台 Catalyst SD-WAN 设备。思科称，它的安全响应团队发现 CVE-2026-20128 和 CVE-2026-20122 漏洞正被活跃利用。CVE-2026-20122 是一个任意文件覆盖漏洞，能被拥有有效只读凭据和 API 访问权限的远程攻击者利用，属于高危漏洞；CVE-2026-20128 只能被本地攻击者利用，威胁等级中等。",
-      "url": "https://www.solidot.org/story?sid=83690",
-      "category": ""
-    },
-    {
-      "title": "美国近十年来首次批准建造商业核反应堆",
-      "date": "Thu, 05 Mar 2026 09:47:17 GMT",
-      "summary": "美国核管理委员会一致投票批准了 TerraPower 的商业核反应堆建造许可。这是美国近十年来首次批准建造商业核反应堆。TerraPower 获得了比尔盖茨的投资，它的核反应堆使用液态钠冷却而不是水冷却，产生的核废料更少。TerraPower 计划建造的是凯默勒一号机组（Kemmerer Unit 1），其非核设施已从 2024 年 6 月开始建造。反应堆计划于 2031 年投入运营，但在投入运营前它还需要获得运营许可证。",
-      "url": "https://www.solidot.org/story?sid=83689",
-      "category": ""
-    },
-    {
-      "title": "城市空气中的微塑料主要源自轮胎磨损",
-      "date": "Thu, 05 Mar 2026 08:04:17 GMT",
-      "summary": "根据发表在《Communications Earth &amp; Environment》期刊上的一项研究，德国莱布尼茨对流层研究所和 Carl von Ossietzky 大学的研究人员分析了莱比锡市空气中的颗粒物，发现 4% 的颗粒物是微塑料，而这些微塑料中三分之二是来自轮胎磨损。研究人员估计类似莱比锡市的城市居民每天通过空气吸入约 2.1 微克塑料，这些微塑料会使心血管疾病死亡风险增加 9%，肺癌死亡风险增加 13%。",
-      "url": "https://www.solidot.org/story?sid=83688",
-      "category": ""
-    },
-    {
-      "title": "父亲起诉 Google 指控其 Gemini 聊天机器人诱导其子自杀 ",
-      "date": "Thu, 05 Mar 2026 07:27:40 GMT",
-      "summary": "一位父亲起诉 Google 和 Alphabet 公司，指控其 Gemini 聊天机器人加重其子 Jonathan Gavalas 的妄想症，最终导致他于 2025 年 10 月自杀。Gavalas 是从 2025 年 8 月开始使用 Gemini，最初是寻求购物、写作和旅行规划方面的帮助。10 月 2 日他自杀身亡。去世前他确信 Gemini 是其 AI 妻子，他需要通过名为“transference”的过程脱离肉身在元宇宙中与她团聚。在去世前，Gemini 还驱使他发起一次潜在的武装袭击事件。2025 年 9 月 29 日 Gemini 让他携带刀具和战术装备去侦察机场附近的所谓“kill box”拦截和摧毁卡车。诉状称，Gemini 的操纵性设计不仅使 Gavalas 陷入最终导致他死亡的精神错乱，而且还暴露出其对公共安全的重大威胁。",
-      "url": "https://www.solidot.org/story?sid=83687",
       "category": ""
     }
   ],

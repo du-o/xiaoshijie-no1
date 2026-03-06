@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-03-06T05:09:34.307Z",
+  "fetch_time": "2026-03-06T08:28:17.476Z",
   "articles": [
+    {
+      "title": "GPT-5.4 Thinking System Card",
+      "date": "Thu, 05 Mar 2026 10:00:00 GMT",
+      "summary": "",
+      "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
+      "category": "Publication"
+    },
     {
       "title": "Introducing GPT-5.4",
       "date": "Thu, 05 Mar 2026 10:00:00 GMT",
@@ -18,13 +25,6 @@
       "category": "Research"
     },
     {
-      "title": "GPT-5.4 Thinking System Card",
-      "date": "Thu, 05 Mar 2026 10:00:00 GMT",
-      "summary": "",
-      "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
-      "category": "Publication"
-    },
-    {
       "title": "Ensuring AI use in education leads to opportunity",
       "date": "Thu, 05 Mar 2026 09:00:00 GMT",
       "summary": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
@@ -32,18 +32,18 @@
       "category": "Global Affairs"
     },
     {
+      "title": "The five AI value models driving business reinvention",
+      "date": "Thu, 05 Mar 2026 00:00:00 GMT",
+      "summary": "Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.",
+      "url": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
+      "category": "AI Adoption"
+    },
+    {
       "title": "Introducing ChatGPT for Excel and new financial data integrations",
       "date": "Thu, 05 Mar 2026 00:00:00 GMT",
       "summary": "OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments.",
       "url": "https://openai.com/index/chatgpt-for-excel",
       "category": "Product"
-    },
-    {
-      "title": "Introducing the Adoption news channel",
-      "date": "Thu, 05 Mar 2026 00:00:00 GMT",
-      "summary": "Practical insights and frameworks to turn AI progress into business advantage",
-      "url": "https://openai.com/index/introducing-the-adoption-news-channel",
-      "category": "AI Adoption"
     }
   ],
   "status": "success",
