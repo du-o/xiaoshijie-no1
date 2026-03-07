@@ -1,7 +1,7 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-03-07T08:20:41.823Z",
+  "fetch_time": "2026-03-07T12:19:28.362Z",
   "articles": [
     {
       "title": "Codex Security: now in research preview ",
@@ -25,13 +25,6 @@
       "category": "API"
     },
     {
-      "title": "Reasoning models struggle to control their chains of thought, and that’s good",
-      "date": "Thu, 05 Mar 2026 10:00:00 GMT",
-      "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
-      "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
-      "category": "Research"
-    },
-    {
       "title": "GPT-5.4 Thinking System Card",
       "date": "Thu, 05 Mar 2026 10:00:00 GMT",
       "summary": "",
@@ -44,6 +37,13 @@
       "summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
       "url": "https://openai.com/index/introducing-gpt-5-4",
       "category": "Product"
+    },
+    {
+      "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+      "date": "Thu, 05 Mar 2026 10:00:00 GMT",
+      "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+      "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+      "category": "Research"
     }
   ],
   "status": "success",
