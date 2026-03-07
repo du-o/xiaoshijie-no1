@@ -1,8 +1,36 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-03-06T12:25:46.050Z",
+  "fetch_time": "2026-03-07T02:29:02.939Z",
   "articles": [
+    {
+      "title": "Codex Security: now in research preview ",
+      "date": "Fri, 06 Mar 2026 10:00:00 GMT",
+      "summary": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
+      "url": "https://openai.com/index/codex-security-now-in-research-preview",
+      "category": "Product"
+    },
+    {
+      "title": "How Descript enables multilingual video dubbing at scale",
+      "date": "Fri, 06 Mar 2026 10:00:00 GMT",
+      "summary": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
+      "url": "https://openai.com/index/descript",
+      "category": "API"
+    },
+    {
+      "title": "How Balyasny Asset Management built an AI research engine for investing",
+      "date": "Fri, 06 Mar 2026 07:00:00 GMT",
+      "summary": "See how Balyasny built an AI research system with GPT-5.4, rigorous model evaluation, and agent workflows to transform investment analysis at scale.",
+      "url": "https://openai.com/index/balyasny-asset-management",
+      "category": "API"
+    },
+    {
+      "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+      "date": "Thu, 05 Mar 2026 10:00:00 GMT",
+      "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+      "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+      "category": "Research"
+    },
     {
       "title": "GPT-5.4 Thinking System Card",
       "date": "Thu, 05 Mar 2026 10:00:00 GMT",
@@ -15,34 +43,6 @@
       "date": "Thu, 05 Mar 2026 10:00:00 GMT",
       "summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
       "url": "https://openai.com/index/introducing-gpt-5-4",
-      "category": "Product"
-    },
-    {
-      "title": "Reasoning models struggle to control their chains of thought, and that’s good",
-      "date": "Thu, 05 Mar 2026 10:00:00 GMT",
-      "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
-      "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
-      "category": "Research"
-    },
-    {
-      "title": "Ensuring AI use in education leads to opportunity",
-      "date": "Thu, 05 Mar 2026 09:00:00 GMT",
-      "summary": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
-      "url": "https://openai.com/index/ai-education-opportunity",
-      "category": "Global Affairs"
-    },
-    {
-      "title": "The five AI value models driving business reinvention",
-      "date": "Thu, 05 Mar 2026 00:00:00 GMT",
-      "summary": "Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.",
-      "url": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
-      "category": "AI Adoption"
-    },
-    {
-      "title": "Introducing ChatGPT for Excel and new financial data integrations",
-      "date": "Thu, 05 Mar 2026 00:00:00 GMT",
-      "summary": "OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments.",
-      "url": "https://openai.com/index/chatgpt-for-excel",
       "category": "Product"
     }
   ],
