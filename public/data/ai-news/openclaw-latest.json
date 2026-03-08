@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-03-08T05:09:24.434Z",
+  "fetch_time": "2026-03-08T08:21:53.020Z",
   "articles": [
+    {
+      "title": "openclaw 2026.3.7",
+      "date": "2026-03-08T05:52:38Z",
+      "summary": "\n### Changes\n\n- Agents/context engine plugin interface: add `ContextEngine` plugin slot with full lifecycle hooks (`bootstrap`, `ingest`, `assemble`, `compact`, `afterTurn`, `prepareSubagentSpawn`, `o...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.7",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.3.7",
+      "downloadCount": 1619
+    },
     {
       "title": "openclaw 2026.3.7-beta.1",
       "date": "2026-03-08T04:54:08Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.3.7-beta.1",
-      "downloadCount": 28
+      "downloadCount": 428
     },
     {
       "title": "openclaw 2026.3.2",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.3.2",
-      "downloadCount": 66624
+      "downloadCount": 67114
     },
     {
       "title": "openclaw 2026.3.2-beta.1",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.3.2-beta.1",
-      "downloadCount": 652
+      "downloadCount": 655
     },
     {
       "title": "openclaw 2026.3.1",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.3.1",
-      "downloadCount": 20823
+      "downloadCount": 20830
     },
     {
       "title": "openclaw 2026.2.26",
@@ -51,17 +61,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.2.26",
-      "downloadCount": 58978
-    },
-    {
-      "title": "openclaw 2026.2.25",
-      "date": "2026-02-26T04:17:56Z",
-      "summary": "\n### Changes\n\n- Android/Chat: improve streaming delivery handling and markdown rendering quality in the native Android chat UI, including better GitHub-flavored markdown behavior. (#26079) Thanks @obv...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.25",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.2.25",
-      "downloadCount": 12661
+      "downloadCount": 58985
     }
   ],
   "status": "success",
