@@ -1,7 +1,7 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-03-08T08:21:37.055Z",
+  "fetch_time": "2026-03-08T12:20:33.594Z",
   "articles": [
     {
       "title": "Codex Security: now in research preview ",
@@ -25,13 +25,6 @@
       "category": "API"
     },
     {
-      "title": "Introducing GPT-5.4",
-      "date": "Thu, 05 Mar 2026 10:00:00 GMT",
-      "summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
-      "url": "https://openai.com/index/introducing-gpt-5-4",
-      "category": "Product"
-    },
-    {
       "title": "Reasoning models struggle to control their chains of thought, and that’s good",
       "date": "Thu, 05 Mar 2026 10:00:00 GMT",
       "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
@@ -44,6 +37,13 @@
       "summary": "",
       "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
       "category": "Publication"
+    },
+    {
+      "title": "Introducing GPT-5.4",
+      "date": "Thu, 05 Mar 2026 10:00:00 GMT",
+      "summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
+      "url": "https://openai.com/index/introducing-gpt-5-4",
+      "category": "Product"
     }
   ],
   "status": "success",
