@@ -1,8 +1,59 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-03-09T02:43:04.996Z",
-  "articles": [],
+  "fetch_time": "2026-03-09T05:19:19.603Z",
+  "articles": [
+    {
+      "title": "RoboLayout: Differentiable 3D Scene Generation for Embodied Agents",
+      "date": "Mon, 09 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.05522v1 Announce Type: new Abstract: Recent advances in vision language models (VLMs) have shown strong potential for spatial reasoning and 3D scene layout generation from open-ended language instructions. However, generating layouts that are not only semantically coherent but also feasible for interaction by embodied agents remains challenging, particularly in physically constrained indoor environments. In this paper, RoboLayout is introduced as an extension of LayoutVLM that augment",
+      "url": "https://arxiv.org/abs/2603.05522",
+      "category": [
+        "cs.AI",
+        "cs.CV",
+        "cs.LG",
+        "cs.RO"
+      ]
+    },
+    {
+      "title": "Real-Time AI Service Economy: A Framework for Agentic Computing Across the Continuum",
+      "date": "Mon, 09 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.05614v1 Announce Type: new Abstract: Real-time AI services increasingly operate across the device-edge-cloud continuum, where autonomous AI agents generate latency-sensitive workloads, orchestrate multi-stage processing pipelines, and compete for shared resources under policy and governance constraints. This article shows that the structure of service-dependency graphs, modelled as DAGs whose nodes represent compute stages and whose edges encode execution ordering, is a primary determ",
+      "url": "https://arxiv.org/abs/2603.05614",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Reasoning Models Struggle to Control their Chains of Thought",
+      "date": "Mon, 09 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.05706v1 Announce Type: new Abstract: Chain-of-thought (CoT) monitoring is a promising tool for detecting misbehaviors and understanding the motivations of modern reasoning models. However, if models can control what they verbalize in their CoT, it could undermine CoT monitorability. To measure this undesirable capability -- CoT controllability -- we introduce the CoT-Control evaluation suite, which includes tasks that require models to solve problems while adhering to CoT instructions",
+      "url": "https://arxiv.org/abs/2603.05706",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Evolving Medical Imaging Agents via Experience-driven Self-skill Discovery",
+      "date": "Mon, 09 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.05860v1 Announce Type: new Abstract: Clinical image interpretation is inherently multi-step and tool-centric: clinicians iteratively combine visual evidence with patient context, quantify findings, and refine their decisions through a sequence of specialized procedures. While LLM-based agents promise to orchestrate such heterogeneous medical tools, existing systems treat tool sets and invocation strategies as static after deployment. This design is brittle under real-world domain shif",
+      "url": "https://arxiv.org/abs/2603.05860",
+      "category": [
+        "cs.AI",
+        "cs.CV"
+      ]
+    },
+    {
+      "title": "The World Won't Stay Still: Programmable Evolution for Agent Benchmarks",
+      "date": "Mon, 09 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.05910v1 Announce Type: new Abstract: LLM-powered agents fulfill user requests by interacting with environments, querying data, and invoking tools in a multi-turn process. Yet, most existing benchmarks assume static environments with fixed schemas and toolsets, neglecting the evolutionary nature of the real world and agents' robustness to environmental changes. In this paper, we study a crucial problem: how to evolve the agent environment in a scalable and controllable way, thereby bet",
+      "url": "https://arxiv.org/abs/2603.05910",
+      "category": "cs.AI"
+    },
+    {
+      "title": "DeepFact: Co-Evolving Benchmarks and Agents for Deep Research Factuality",
+      "date": "Mon, 09 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.05912v1 Announce Type: new Abstract: Search-augmented LLM agents can produce deep research reports (DRRs), but verifying claim-level factuality remains challenging. Existing fact-checkers are primarily designed for general-domain, factoid-style atomic claims, and there is no benchmark to test whether such verifiers transfer to DRRs. Yet building such a benchmark is itself difficult. We first show that static expert-labeled benchmarks are brittle in this setting: in a controlled study ",
+      "url": "https://arxiv.org/abs/2603.05912",
+      "category": "cs.AI"
+    }
+  ],
   "status": "success",
   "error": null
 }
