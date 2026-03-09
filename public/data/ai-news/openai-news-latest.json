@@ -1,21 +1,21 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-03-08T12:20:33.594Z",
+  "fetch_time": "2026-03-09T02:43:04.786Z",
   "articles": [
-    {
-      "title": "Codex Security: now in research preview ",
-      "date": "Fri, 06 Mar 2026 10:00:00 GMT",
-      "summary": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
-      "url": "https://openai.com/index/codex-security-now-in-research-preview",
-      "category": "Product"
-    },
     {
       "title": "How Descript enables multilingual video dubbing at scale",
       "date": "Fri, 06 Mar 2026 10:00:00 GMT",
       "summary": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
       "url": "https://openai.com/index/descript",
       "category": "API"
+    },
+    {
+      "title": "Codex Security: now in research preview ",
+      "date": "Fri, 06 Mar 2026 10:00:00 GMT",
+      "summary": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
+      "url": "https://openai.com/index/codex-security-now-in-research-preview",
+      "category": "Product"
     },
     {
       "title": "How Balyasny Asset Management built an AI research engine for investing",
@@ -25,18 +25,18 @@
       "category": "API"
     },
     {
-      "title": "Reasoning models struggle to control their chains of thought, and that’s good",
-      "date": "Thu, 05 Mar 2026 10:00:00 GMT",
-      "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
-      "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
-      "category": "Research"
-    },
-    {
       "title": "GPT-5.4 Thinking System Card",
       "date": "Thu, 05 Mar 2026 10:00:00 GMT",
       "summary": "",
       "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
       "category": "Publication"
+    },
+    {
+      "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+      "date": "Thu, 05 Mar 2026 10:00:00 GMT",
+      "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+      "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+      "category": "Research"
     },
     {
       "title": "Introducing GPT-5.4",
