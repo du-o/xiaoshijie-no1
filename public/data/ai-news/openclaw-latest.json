@@ -1,8 +1,28 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-03-09T05:19:33.907Z",
+  "fetch_time": "2026-03-09T08:35:13.392Z",
   "articles": [
+    {
+      "title": "openclaw 2026.3.8",
+      "date": "2026-03-09T07:49:27Z",
+      "summary": "Mac assets on this release reuse the beta artifact line from v2026.3.8-beta.1.\n\n\n### Changes\n\n- CLI/backup: add `openclaw backup create` and `openclaw backup verify` for local state archives, includin...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.8",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.3.8",
+      "downloadCount": 476
+    },
+    {
+      "title": "openclaw 2026.3.8-beta.1",
+      "date": "2026-03-09T07:19:52Z",
+      "summary": "### Changes\n\n- CLI/backup: add `openclaw backup create` and `openclaw backup verify` for local state archives, including `--only-config`, `--no-include-workspace`, manifest/payload validation, and bac...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.8-beta.1",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.3.8-beta.1",
+      "downloadCount": 373
+    },
     {
       "title": "openclaw 2026.3.7",
       "date": "2026-03-08T05:52:38Z",
@@ -11,7 +31,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.3.7",
-      "downloadCount": 15428
+      "downloadCount": 17767
     },
     {
       "title": "openclaw 2026.3.7-beta.1",
@@ -21,7 +41,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.3.7-beta.1",
-      "downloadCount": 497
+      "downloadCount": 535
     },
     {
       "title": "openclaw 2026.3.2",
@@ -31,7 +51,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.3.2",
-      "downloadCount": 67750
+      "downloadCount": 67927
     },
     {
       "title": "openclaw 2026.3.2-beta.1",
@@ -41,27 +61,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.3.2-beta.1",
-      "downloadCount": 667
-    },
-    {
-      "title": "openclaw 2026.3.1",
-      "date": "2026-03-02T04:42:57Z",
-      "summary": "### Changes\n\n- Agents/Thinking defaults: set `adaptive` as the default thinking level for Anthropic Claude 4.6 models (including Bedrock Claude 4.6 refs) while keeping other reasoning-capable models a...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.1",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.3.1",
-      "downloadCount": 20866
-    },
-    {
-      "title": "openclaw 2026.2.26",
-      "date": "2026-02-27T00:01:43Z",
-      "summary": "\n### Changes\n\n- Highlight: External Secrets Management introduces a full `openclaw secrets` workflow (`audit`, `configure`, `apply`, `reload`) with runtime snapshot activation, strict `secrets apply` ...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.26",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.2.26",
-      "downloadCount": 59030
+      "downloadCount": 679
     }
   ],
   "status": "success",
