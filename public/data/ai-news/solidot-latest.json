@@ -1,8 +1,22 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-03-10T08:32:00.644Z",
+  "fetch_time": "2026-03-10T12:30:10.128Z",
   "articles": [
+    {
+      "title": "很多国际游戏开发者计划不参加今年的 GDC",
+      "date": "Tue, 10 Mar 2026 09:41:21 GMT",
+      "summary": "数万游戏开发者和制作人本周将齐聚旧金山，参加为期一周的游戏开发者大会（GDC），这是 1988 年以来的传统，但今年的 GDC 将有许多国际游戏开发者缺席，原因是他们觉得美国不再安全，无论 GDC 对他们的工作和职业发展有多么重要，他们不想冒不必要的风险。Godot 基金会执行董事 Emilio Coppola 称他认识的非美国人中没有一个人计划参加 GDC。独立游戏工作室 Le Cabinet du Savoir 的创意总监 Nazih Fares 表示不愿意亲身经历被边检逮捕。去年参加 GDC 的游戏开发者采取了额外的多重安保措施，他们很多人表示为避免麻烦而不想参加今年的 GDC。",
+      "url": "https://www.solidot.org/story?sid=83728",
+      "category": ""
+    },
+    {
+      "title": "Meta 称上传盗版电子书属于合理使用",
+      "date": "Tue, 10 Mar 2026 08:13:52 GMT",
+      "summary": "为训练大模型，社交巨人 Meta 从 Z-Library 和 LibGen 等影子图书馆平台通过 BitTorrent 下载了逾百 TB 的电子书。在正在进行的由图书作者提起的诉讼中，Meta 律师辩称，通过 BitTorrent 将盗版电子书上传给陌生人属于合理使用。Meta 还强调，这些数据帮助美国确立了其在全球 AI 领域的领先地位。法庭去年裁决，使用盗版电子书训练大模型属于合理使用，但 Meta 仍然需要为通过 BitTorrent 下载和分享电子书的行为承担责任。图书作者认为，Meta 参与了侵权行为。Meta 在上周递交的补充书面询问中表示，在下载 BT 文件过程中共享文件也属于合理使用，理由是这是 BT 协议的固有特性，上传不是选择而是技术本身的工作方式。Meta 还辩称，使用 BitTorrent 共享文件是获取这些宝贵（但盗版）数据的必要手段。以 Anna’s Archive 为例，这些数据集只能通过 BT 下载获取，因此 BitTorrent 是唯一的选择。",
+      "url": "https://www.solidot.org/story?sid=83727",
+      "category": ""
+    },
     {
       "title": "为什么高处坠落的猫总是四脚着地？",
       "date": "Tue, 10 Mar 2026 07:22:06 GMT",
@@ -29,20 +43,6 @@
       "date": "Tue, 10 Mar 2026 05:40:16 GMT",
       "summary": "美国相信末日来临的人并非少数。根据《Journal of Personality and Social Psychology》上发表的一篇报告，研究人员调查了 1409 名不同信仰的美国人，结果显示三分之一相信末日将在其有生之年来临。一部分人认为末日是人类引发的，还有部分人认为末日是由神或超自然力量引发的。相信末日临近且人类是罪魁祸首的人，感知到的风险更大，也更支持采取更极端的行动应对威胁。然而相信神控制世界末日的人则不太可能支持采取预防措施。",
       "url": "https://www.solidot.org/story?sid=83723",
-      "category": ""
-    },
-    {
-      "title": "digiKam 9.0.0 释出",
-      "date": "Mon, 09 Mar 2026 16:59:39 GMT",
-      "summary": "照片管理系统 DigiKam 释出了v9.0.0 版本。新版本改进了性能、易用性和工作流效率，对用户界面进行了现代化、增强了元数据管理以及扩展对新相机型号和文件格式的支持。其它变化包括：新工具 Survey 帮助摄影师更高效的查看工作流项目；更先进的搜索和排序选项；批量编辑地理位置坐标，等等。",
-      "url": "https://www.solidot.org/story?sid=83722",
-      "category": ""
-    },
-    {
-      "title": "太空风暴让人类难以探测到 ET 的信号",
-      "date": "Mon, 09 Mar 2026 16:47:08 GMT",
-      "summary": "SETI 研究所的最新研究发现，太空风暴让人类难以探测到 ET 发射的无线电信号。行星信号发射源附近的恒星活动和等离子体湍流会使原本极其窄带的信号展宽，致使信号功率分散到更多频率上，因此在传统的窄带搜索中更难探测到。SETI 实验过去几十年一直致力于探测天体物理自然过程不太可能存在的频率尖峰。这项发表在《Astrophysical Journal》期刊上的研究显示，即使最初发射的信号非常窄，但信号离开其行星系统之后会展宽，因此会低于探测阈值。假设 ET 存在，且可能正在试图联系我们，但不可预测的太空天气干扰了信号，人类根本无法接收到。",
-      "url": "https://www.solidot.org/story?sid=83721",
       "category": ""
     }
   ],
