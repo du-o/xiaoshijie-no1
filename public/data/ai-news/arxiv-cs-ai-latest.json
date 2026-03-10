@@ -1,56 +1,62 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-03-10T02:34:13.638Z",
+  "fetch_time": "2026-03-10T05:09:12.858Z",
   "articles": [
     {
-      "title": "RoboLayout: Differentiable 3D Scene Generation for Embodied Agents",
-      "date": "Mon, 09 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.05522v1 Announce Type: new Abstract: Recent advances in vision language models (VLMs) have shown strong potential for spatial reasoning and 3D scene layout generation from open-ended language instructions. However, generating layouts that are not only semantically coherent but also feasible for interaction by embodied agents remains challenging, particularly in physically constrained indoor environments. In this paper, RoboLayout is introduced as an extension of LayoutVLM that augment",
-      "url": "https://arxiv.org/abs/2603.05522",
+      "title": "Autonomous AI Agents for Option Hedging: Enhancing Financial Stability through Shortfall Aware Reinforcement Learning",
+      "date": "Tue, 10 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.06587v1 Announce Type: new Abstract: The deployment of autonomous AI agents in derivatives markets has widened a practical gap between static model calibration and realized hedging outcomes. We introduce two reinforcement learning frameworks, a novel Replication Learning of Option Pricing (RLOP) approach and an adaptive extension of Q-learner in Black-Scholes (QLBS), that prioritize shortfall probability and align learning objectives with downside sensitive hedging. Using listed SPY a",
+      "url": "https://arxiv.org/abs/2603.06587",
+      "category": [
+        "cs.AI",
+        "q-fin.CP",
+        "q-fin.RM"
+      ]
+    },
+    {
+      "title": "Scaling Strategy, Not Compute: A Stand-Alone, Open-Source StarCraft II Benchmark for Accessible Reinforcement Learning Research",
+      "date": "Tue, 10 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.06608v1 Announce Type: new Abstract: The research community lacks a middle ground between StarCraft IIs full game and its mini-games. The full-games sprawling state-action space renders reward signals sparse and noisy, but in mini-games simple agents saturate performance. This complexity gap hinders steady curriculum design and prevents researchers from experimenting with modern Reinforcement Learning algorithms in RTS environments under realistic compute budgets. To fill this gap, we",
+      "url": "https://arxiv.org/abs/2603.06608",
+      "category": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "MultiGen: Level-Design for Editable Multiplayer Worlds in Diffusion Game Engines",
+      "date": "Tue, 10 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.06679v1 Announce Type: new Abstract: Video world models have shown immense promise for interactive simulation and entertainment, but current systems still struggle with two important aspects of interactivity: user control over the environment for reproducible, editable experiences, and shared inference where players hold influence over a common world. To address these limitations, we introduce an explicit external memory into the system, a persistent state operating independent of the",
+      "url": "https://arxiv.org/abs/2603.06679",
       "category": [
         "cs.AI",
         "cs.CV",
-        "cs.LG",
-        "cs.RO"
+        "cs.GR"
       ]
     },
     {
-      "title": "Real-Time AI Service Economy: A Framework for Agentic Computing Across the Continuum",
-      "date": "Mon, 09 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.05614v1 Announce Type: new Abstract: Real-time AI services increasingly operate across the device-edge-cloud continuum, where autonomous AI agents generate latency-sensitive workloads, orchestrate multi-stage processing pipelines, and compete for shared resources under policy and governance constraints. This article shows that the structure of service-dependency graphs, modelled as DAGs whose nodes represent compute stages and whose edges encode execution ordering, is a primary determ",
-      "url": "https://arxiv.org/abs/2603.05614",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Reasoning Models Struggle to Control their Chains of Thought",
-      "date": "Mon, 09 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.05706v1 Announce Type: new Abstract: Chain-of-thought (CoT) monitoring is a promising tool for detecting misbehaviors and understanding the motivations of modern reasoning models. However, if models can control what they verbalize in their CoT, it could undermine CoT monitorability. To measure this undesirable capability -- CoT controllability -- we introduce the CoT-Control evaluation suite, which includes tasks that require models to solve problems while adhering to CoT instructions",
-      "url": "https://arxiv.org/abs/2603.05706",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Evolving Medical Imaging Agents via Experience-driven Self-skill Discovery",
-      "date": "Mon, 09 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.05860v1 Announce Type: new Abstract: Clinical image interpretation is inherently multi-step and tool-centric: clinicians iteratively combine visual evidence with patient context, quantify findings, and refine their decisions through a sequence of specialized procedures. While LLM-based agents promise to orchestrate such heterogeneous medical tools, existing systems treat tool sets and invocation strategies as static after deployment. This design is brittle under real-world domain shif",
-      "url": "https://arxiv.org/abs/2603.05860",
+      "title": "Best-of-Tails: Bridging Optimism and Pessimism in Inference-Time Alignment",
+      "date": "Tue, 10 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.06797v1 Announce Type: new Abstract: Inference-time alignment effectively steers large language models (LLMs) by generating multiple candidates from a reference model and selecting among them with an imperfect reward model. However, current strategies face a fundamental dilemma: ``optimistic'' approaches like Best-of-$N$ suffer from reward hacking, while ``pessimistic'' regularized methods often stifle the exploration needed to discover high-quality responses. In this work, we formali",
+      "url": "https://arxiv.org/abs/2603.06797",
       "category": [
         "cs.AI",
-        "cs.CV"
+        "cs.LG"
       ]
     },
     {
-      "title": "The World Won't Stay Still: Programmable Evolution for Agent Benchmarks",
-      "date": "Mon, 09 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.05910v1 Announce Type: new Abstract: LLM-powered agents fulfill user requests by interacting with environments, querying data, and invoking tools in a multi-turn process. Yet, most existing benchmarks assume static environments with fixed schemas and toolsets, neglecting the evolutionary nature of the real world and agents' robustness to environmental changes. In this paper, we study a crucial problem: how to evolve the agent environment in a scalable and controllable way, thereby bet",
-      "url": "https://arxiv.org/abs/2603.05910",
+      "title": "Breaking the Martingale Curse: Multi-Agent Debate via Asymmetric Cognitive Potential Energy",
+      "date": "Tue, 10 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.06801v1 Announce Type: new Abstract: Multi-Agent Debate (MAD) has emerged as a promising paradigm for enhancing large language model reasoning. However, recent work reveals a limitation:standard MAD cannot improve belief correctness beyond majority voting; we refer to this as the Martingale Curse. This curse arises because correlated errors cause agents to converge toward erroneous consensus, where debate merely reinforces collective mistakes rather than filtering noise. We propose Ac",
+      "url": "https://arxiv.org/abs/2603.06801",
       "category": "cs.AI"
     },
     {
-      "title": "DeepFact: Co-Evolving Benchmarks and Agents for Deep Research Factuality",
-      "date": "Mon, 09 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.05912v1 Announce Type: new Abstract: Search-augmented LLM agents can produce deep research reports (DRRs), but verifying claim-level factuality remains challenging. Existing fact-checkers are primarily designed for general-domain, factoid-style atomic claims, and there is no benchmark to test whether such verifiers transfer to DRRs. Yet building such a benchmark is itself difficult. We first show that static expert-labeled benchmarks are brittle in this setting: in a controlled study ",
-      "url": "https://arxiv.org/abs/2603.05912",
+      "title": "Making AI Evaluation Deployment Relevant Through Context Specification",
+      "date": "Tue, 10 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.06811v1 Announce Type: new Abstract: With many organizations struggling to gain value from AI deployments, pressure to evaluate AI in an informed manner has intensified. Status quo AI evaluation approaches mask the operational realities that ultimately determine deployment success, making it difficult for decision makers outside the stack to know whether and how AI tools will deliver durable value. We introduce and describe context specification as a process to support and inform the ",
+      "url": "https://arxiv.org/abs/2603.06811",
       "category": "cs.AI"
     }
   ],
