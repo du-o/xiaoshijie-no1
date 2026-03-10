@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-03-09T12:30:07.317Z",
+  "fetch_time": "2026-03-10T02:34:13.430Z",
   "articles": [
+    {
+      "title": "OpenAI to acquire Promptfoo",
+      "date": "Mon, 09 Mar 2026 10:00:00 GMT",
+      "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
+      "url": "https://openai.com/index/openai-to-acquire-promptfoo",
+      "category": "Company"
+    },
     {
       "title": "How Descript enables multilingual video dubbing at scale",
       "date": "Fri, 06 Mar 2026 10:00:00 GMT",
@@ -30,13 +37,6 @@
       "summary": "",
       "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
       "category": "Publication"
-    },
-    {
-      "title": "Reasoning models struggle to control their chains of thought, and that’s good",
-      "date": "Thu, 05 Mar 2026 10:00:00 GMT",
-      "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
-      "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
-      "category": "Research"
     },
     {
       "title": "Introducing GPT-5.4",
