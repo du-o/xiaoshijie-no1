@@ -1,63 +1,67 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-03-11T02:33:22.816Z",
+  "fetch_time": "2026-03-11T05:10:56.487Z",
   "articles": [
     {
-      "title": "Autonomous AI Agents for Option Hedging: Enhancing Financial Stability through Shortfall Aware Reinforcement Learning",
-      "date": "Tue, 10 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.06587v1 Announce Type: new Abstract: The deployment of autonomous AI agents in derivatives markets has widened a practical gap between static model calibration and realized hedging outcomes. We introduce two reinforcement learning frameworks, a novel Replication Learning of Option Pricing (RLOP) approach and an adaptive extension of Q-learner in Black-Scholes (QLBS), that prioritize shortfall probability and align learning objectives with downside sensitive hedging. Using listed SPY a",
-      "url": "https://arxiv.org/abs/2603.06587",
+      "title": "MASEval: Extending Multi-Agent Evaluation from Models to Systems",
+      "date": "Wed, 11 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.08835v1 Announce Type: new Abstract: The rapid adoption of LLM-based agentic systems has produced a rich ecosystem of frameworks (smolagents, LangGraph, AutoGen, CAMEL, LlamaIndex, i.a.). Yet existing benchmarks are model-centric: they fix the agentic setup and do not compare other system components. We argue that implementation decisions substantially impact performance, including choices such as topology, orchestration logic, and error handling. MASEval addresses this evaluation gap",
+      "url": "https://arxiv.org/abs/2603.08835",
       "category": [
         "cs.AI",
-        "q-fin.CP",
-        "q-fin.RM"
-      ]
-    },
-    {
-      "title": "Scaling Strategy, Not Compute: A Stand-Alone, Open-Source StarCraft II Benchmark for Accessible Reinforcement Learning Research",
-      "date": "Tue, 10 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.06608v1 Announce Type: new Abstract: The research community lacks a middle ground between StarCraft IIs full game and its mini-games. The full-games sprawling state-action space renders reward signals sparse and noisy, but in mini-games simple agents saturate performance. This complexity gap hinders steady curriculum design and prevents researchers from experimenting with modern Reinforcement Learning algorithms in RTS environments under realistic compute budgets. To fill this gap, we",
-      "url": "https://arxiv.org/abs/2603.06608",
-      "category": [
-        "cs.AI",
+        "cs.CL",
         "cs.LG"
       ]
     },
     {
-      "title": "MultiGen: Level-Design for Editable Multiplayer Worlds in Diffusion Game Engines",
-      "date": "Tue, 10 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.06679v1 Announce Type: new Abstract: Video world models have shown immense promise for interactive simulation and entertainment, but current systems still struggle with two important aspects of interactivity: user control over the environment for reproducible, editable experiences, and shared inference where players hold influence over a common world. To address these limitations, we introduce an explicit external memory into the system, a persistent state operating independent of the",
-      "url": "https://arxiv.org/abs/2603.06679",
+      "title": "LDP: An Identity-Aware Protocol for Multi-Agent LLM Systems",
+      "date": "Wed, 11 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.08852v1 Announce Type: new Abstract: As multi-agent AI systems grow in complexity, the protocols connecting them constrain their capabilities. Current protocols such as A2A and MCP do not expose model-level properties as first-class primitives, ignoring properties fundamental to effective delegation: model identity, reasoning profile, quality calibration, and cost characteristics. We present the LLM Delegate Protocol (LDP), an AI-native communication protocol introducing five mechanis",
+      "url": "https://arxiv.org/abs/2603.08852",
       "category": [
         "cs.AI",
-        "cs.CV",
-        "cs.GR"
+        "cs.MA",
+        "cs.SE"
       ]
     },
     {
-      "title": "Best-of-Tails: Bridging Optimism and Pessimism in Inference-Time Alignment",
-      "date": "Tue, 10 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.06797v1 Announce Type: new Abstract: Inference-time alignment effectively steers large language models (LLMs) by generating multiple candidates from a reference model and selecting among them with an imperfect reward model. However, current strategies face a fundamental dilemma: ``optimistic'' approaches like Best-of-$N$ suffer from reward hacking, while ``pessimistic'' regularized methods often stifle the exploration needed to discover high-quality responses. In this work, we formali",
-      "url": "https://arxiv.org/abs/2603.06797",
+      "title": "Quantifying the Accuracy and Cost Impact of Design Decisions in Budget-Constrained Agentic LLM Search",
+      "date": "Wed, 11 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.08877v1 Announce Type: new Abstract: Agentic Retrieval-Augmented Generation (RAG) systems combine iterative search, planning prompts, and retrieval backends, but deployed settings impose explicit budgets on tool calls and completion tokens. We present a controlled measurement study of how search depth, retrieval strategy, and completion budget affect accuracy and cost under fixed constraints. Using Budget-Constrained Agentic Search (BCAS), a model-agnostic evaluation harness that surf",
+      "url": "https://arxiv.org/abs/2603.08877",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Interpretable Markov-Based Spatiotemporal Risk Surfaces for Missing-Child Search Planning with Reinforcement Learning and LLM-Based Quality Assurance",
+      "date": "Wed, 11 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.08933v1 Announce Type: new Abstract: The first 72 hours of a missing-child investigation are critical for successful recovery. However, law enforcement agencies often face fragmented, unstructured data and a lack of dynamic, geospatial predictive tools. Our system, Guardian, provides an end-to-end decision-support system for missing-child investigation and early search planning. It converts heterogeneous, unstructured case documents into a schema-aligned spatiotemporal representation,",
+      "url": "https://arxiv.org/abs/2603.08933",
       "category": [
         "cs.AI",
+        "cs.IR",
         "cs.LG"
       ]
     },
     {
-      "title": "Breaking the Martingale Curse: Multi-Agent Debate via Asymmetric Cognitive Potential Energy",
-      "date": "Tue, 10 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.06801v1 Announce Type: new Abstract: Multi-Agent Debate (MAD) has emerged as a promising paradigm for enhancing large language model reasoning. However, recent work reveals a limitation:standard MAD cannot improve belief correctness beyond majority voting; we refer to this as the Martingale Curse. This curse arises because correlated errors cause agents to converge toward erroneous consensus, where debate merely reinforces collective mistakes rather than filtering noise. We propose Ac",
-      "url": "https://arxiv.org/abs/2603.06801",
+      "title": "AgentOS: From Application Silos to a Natural Language-Driven Data Ecosystem",
+      "date": "Wed, 11 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.08938v1 Announce Type: new Abstract: The rapid emergence of open-source, locally hosted intelligent agents marks a critical inflection point in human-computer interaction. Systems such as OpenClaw demonstrate that Large Language Model (LLM)-based agents can autonomously operate local computing environments, orchestrate workflows, and integrate external tools. However, within the current paradigm, these agents remain conventional applications running on legacy operating systems origina",
+      "url": "https://arxiv.org/abs/2603.08938",
       "category": "cs.AI"
     },
     {
-      "title": "Making AI Evaluation Deployment Relevant Through Context Specification",
-      "date": "Tue, 10 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.06811v1 Announce Type: new Abstract: With many organizations struggling to gain value from AI deployments, pressure to evaluate AI in an informed manner has intensified. Status quo AI evaluation approaches mask the operational realities that ultimately determine deployment success, making it difficult for decision makers outside the stack to know whether and how AI tools will deliver durable value. We introduce and describe context specification as a process to support and inform the ",
-      "url": "https://arxiv.org/abs/2603.06811",
-      "category": "cs.AI"
+      "title": "A Consensus-Driven Multi-LLM Pipeline for Missing-Person Investigations",
+      "date": "Wed, 11 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.08954v1 Announce Type: new Abstract: The first 72 hours of a missing-person investigation are critical for successful recovery. Guardian is an end-to-end system designed to support missing-child investigation and early search planning. This paper presents the Guardian LLM Pipeline, a multi-model system in which LLMs are used for intelligent information extraction and processing related to missing-person search operations. The pipeline coordinates end-to-end execution across task-speci",
+      "url": "https://arxiv.org/abs/2603.08954",
+      "category": [
+        "cs.AI",
+        "cs.CL",
+        "cs.DC",
+        "cs.IR",
+        "cs.LG"
+      ]
     }
   ],
   "status": "success",
