@@ -1,21 +1,28 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-03-10T12:30:06.637Z",
+  "fetch_time": "2026-03-11T02:33:22.330Z",
   "articles": [
+    {
+      "title": "Improving instruction hierarchy in frontier LLMs",
+      "date": "Tue, 10 Mar 2026 11:00:00 GMT",
+      "summary": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
+      "url": "https://openai.com/index/instruction-hierarchy-challenge",
+      "category": "Research"
+    },
+    {
+      "title": "New ways to learn math and science in ChatGPT",
+      "date": "Tue, 10 Mar 2026 10:00:00 GMT",
+      "summary": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.",
+      "url": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
+      "category": "Product"
+    },
     {
       "title": "OpenAI to acquire Promptfoo",
       "date": "Mon, 09 Mar 2026 10:00:00 GMT",
       "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
       "url": "https://openai.com/index/openai-to-acquire-promptfoo",
       "category": "Company"
-    },
-    {
-      "title": "Codex Security: now in research preview ",
-      "date": "Fri, 06 Mar 2026 10:00:00 GMT",
-      "summary": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
-      "url": "https://openai.com/index/codex-security-now-in-research-preview",
-      "category": "Product"
     },
     {
       "title": "How Descript enables multilingual video dubbing at scale",
@@ -25,25 +32,18 @@
       "category": "API"
     },
     {
+      "title": "Codex Security: now in research preview ",
+      "date": "Fri, 06 Mar 2026 10:00:00 GMT",
+      "summary": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
+      "url": "https://openai.com/index/codex-security-now-in-research-preview",
+      "category": "Product"
+    },
+    {
       "title": "How Balyasny Asset Management built an AI research engine for investing",
       "date": "Fri, 06 Mar 2026 07:00:00 GMT",
       "summary": "See how Balyasny built an AI research system with GPT-5.4, rigorous model evaluation, and agent workflows to transform investment analysis at scale.",
       "url": "https://openai.com/index/balyasny-asset-management",
       "category": "API"
-    },
-    {
-      "title": "GPT-5.4 Thinking System Card",
-      "date": "Thu, 05 Mar 2026 10:00:00 GMT",
-      "summary": "",
-      "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
-      "category": "Publication"
-    },
-    {
-      "title": "Introducing GPT-5.4",
-      "date": "Thu, 05 Mar 2026 10:00:00 GMT",
-      "summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
-      "url": "https://openai.com/index/introducing-gpt-5-4",
-      "category": "Product"
     }
   ],
   "status": "success",
