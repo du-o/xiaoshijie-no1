@@ -1,8 +1,36 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-03-11T12:29:34.806Z",
+  "fetch_time": "2026-03-12T02:39:42.186Z",
   "articles": [
+    {
+      "title": "Rakuten fixes issues twice as fast with Codex",
+      "date": "Wed, 11 Mar 2026 13:00:00 GMT",
+      "summary": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
+      "url": "https://openai.com/index/rakuten",
+      "category": "API"
+    },
+    {
+      "title": "Designing AI agents to resist prompt injection",
+      "date": "Wed, 11 Mar 2026 11:30:00 GMT",
+      "summary": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
+      "url": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+      "category": "Security"
+    },
+    {
+      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+      "date": "Wed, 11 Mar 2026 11:00:00 GMT",
+      "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
+      "url": "https://openai.com/index/wayfair",
+      "category": "B2B Story"
+    },
+    {
+      "title": "From model to agent: Equipping the Responses API with a computer environment ",
+      "date": "Wed, 11 Mar 2026 11:00:00 GMT",
+      "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
+      "url": "https://openai.com/index/equip-responses-api-computer-environment",
+      "category": "Engineering"
+    },
     {
       "title": "Improving instruction hierarchy in frontier LLMs",
       "date": "Tue, 10 Mar 2026 11:00:00 GMT",
@@ -16,34 +44,6 @@
       "summary": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.",
       "url": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
       "category": "Product"
-    },
-    {
-      "title": "OpenAI to acquire Promptfoo",
-      "date": "Mon, 09 Mar 2026 10:00:00 GMT",
-      "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
-      "url": "https://openai.com/index/openai-to-acquire-promptfoo",
-      "category": "Company"
-    },
-    {
-      "title": "Codex Security: now in research preview ",
-      "date": "Fri, 06 Mar 2026 10:00:00 GMT",
-      "summary": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
-      "url": "https://openai.com/index/codex-security-now-in-research-preview",
-      "category": "Product"
-    },
-    {
-      "title": "How Descript enables multilingual video dubbing at scale",
-      "date": "Fri, 06 Mar 2026 10:00:00 GMT",
-      "summary": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
-      "url": "https://openai.com/index/descript",
-      "category": "API"
-    },
-    {
-      "title": "How Balyasny Asset Management built an AI research engine for investing",
-      "date": "Fri, 06 Mar 2026 07:00:00 GMT",
-      "summary": "See how Balyasny built an AI research system with GPT-5.4, rigorous model evaluation, and agent workflows to transform investment analysis at scale.",
-      "url": "https://openai.com/index/balyasny-asset-management",
-      "category": "API"
     }
   ],
   "status": "success",
