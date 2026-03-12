@@ -1,8 +1,28 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-03-12T02:39:55.188Z",
+  "fetch_time": "2026-03-12T05:15:49.422Z",
   "articles": [
+    {
+      "title": "openclaw 2026.3.11",
+      "date": "2026-03-12T05:07:15Z",
+      "summary": "\n### Security\n\n- Gateway/WebSocket: enforce browser origin validation for all browser-originated connections regardless of whether proxy headers are present, closing a cross-site WebSocket hijacking p...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.11",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.3.11",
+      "downloadCount": 0
+    },
+    {
+      "title": "openclaw 2026.3.11-beta.1",
+      "date": "2026-03-12T04:23:39Z",
+      "summary": "\n### Security\n\n- Gateway/WebSocket: enforce browser origin validation for all browser-originated connections regardless of whether proxy headers are present, closing a cross-site WebSocket hijacking p...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.11-beta.1",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.3.11-beta.1",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.3.8",
       "date": "2026-03-09T07:49:27Z",
@@ -11,7 +31,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.3.8",
-      "downloadCount": 34782
+      "downloadCount": 35979
     },
     {
       "title": "openclaw 2026.3.8-beta.1",
@@ -21,7 +41,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.3.8-beta.1",
-      "downloadCount": 12189
+      "downloadCount": 12468
     },
     {
       "title": "openclaw 2026.3.7",
@@ -31,7 +51,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.3.7",
-      "downloadCount": 22893
+      "downloadCount": 23065
     },
     {
       "title": "openclaw 2026.3.7-beta.1",
@@ -41,27 +61,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.3.7-beta.1",
-      "downloadCount": 714
-    },
-    {
-      "title": "openclaw 2026.3.2",
-      "date": "2026-03-03T04:43:07Z",
-      "summary": "\n### Changes\n\n- Secrets/SecretRef coverage: expand SecretRef support across the full supported user-supplied credential surface (64 targets total), including runtime collectors, `openclaw secrets` pla...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.2",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.3.2",
-      "downloadCount": 68431
-    },
-    {
-      "title": "openclaw 2026.3.2-beta.1",
-      "date": "2026-03-03T03:59:01Z",
-      "summary": "\n### Changes\n\n- Secrets/SecretRef coverage: expand SecretRef support across the full supported user-supplied credential surface (64 targets total), including runtime collectors, `openclaw secrets` pla...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.2-beta.1",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.3.2-beta.1",
-      "downloadCount": 753
+      "downloadCount": 716
     }
   ],
   "status": "success",
