@@ -1,63 +1,8 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-03-14T02:35:24.059Z",
-  "articles": [
-    {
-      "title": "DIVE: Scaling Diversity in Agentic Task Synthesis for Generalizable Tool Use",
-      "date": "Fri, 13 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.11076v1 Announce Type: new Abstract: Recent work synthesizes agentic tasks for post-training tool-using LLMs, yet robust generalization under shifts in tasks and toolsets remains an open challenge. We trace this brittleness to insufficient diversity in synthesized tasks. Scaling diversity is difficult because training requires tasks to remain executable and verifiable, while generalization demands coverage of diverse tool types, toolset combinations, and heterogeneous tool-use pattern",
-      "url": "https://arxiv.org/abs/2603.11076",
-      "category": [
-        "cs.AI",
-        "cs.SE"
-      ]
-    },
-    {
-      "title": "A Survey of Reasoning in Autonomous Driving Systems: Open Challenges and Emerging Paradigms",
-      "date": "Fri, 13 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.11093v1 Announce Type: new Abstract: The development of high-level autonomous driving (AD) is shifting from perception-centric limitations to a more fundamental bottleneck, namely, a deficit in robust and generalizable reasoning. Although current AD systems manage structured environments, they consistently falter in long-tail scenarios and complex social interactions that require human-like judgment. Meanwhile, the advent of large language and multimodal models (LLMs and MLLMs) presen",
-      "url": "https://arxiv.org/abs/2603.11093",
-      "category": [
-        "cs.AI",
-        "cs.RO"
-      ]
-    },
-    {
-      "title": "PACED: Distillation at the Frontier of Student Competence",
-      "date": "Fri, 13 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.11178v1 Announce Type: new Abstract: Standard LLM distillation wastes compute on two fronts: problems the student has already mastered (near-zero gradients) and problems far beyond its reach (incoherent gradients that erode existing capabilities). We show that this waste is not merely intuitive but structurally inevitable: the gradient signal-to-noise ratio in distillation provably vanishes at both pass-rate extremes. This theoretical observation leads to Paced, a framework that conce",
-      "url": "https://arxiv.org/abs/2603.11178",
-      "category": [
-        "cs.AI",
-        "cs.LG"
-      ]
-    },
-    {
-      "title": "Measuring AI Agents' Progress on Multi-Step Cyber Attack Scenarios",
-      "date": "Fri, 13 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.11214v1 Announce Type: new Abstract: We evaluate the autonomous cyber-attack capabilities of frontier AI models on two purpose-built cyber ranges-a 32-step corporate network attack and a 7-step industrial control system attack-that require chaining heterogeneous capabilities across extended action sequences. By comparing seven models released over an eighteen-month period (August 2024 to February 2026) at varying inference-time compute budgets, we observe two capability trends. First,",
-      "url": "https://arxiv.org/abs/2603.11214",
-      "category": [
-        "cs.AI",
-        "cs.LG"
-      ]
-    },
-    {
-      "title": "Reversible Lifelong Model Editing via Semantic Routing-Based LoRA",
-      "date": "Fri, 13 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.11239v1 Announce Type: new Abstract: The dynamic evolution of real-world necessitates model editing within Large Language Models. While existing methods explore modular isolation or parameter-efficient strategies, they still suffer from semantic drift or knowledge forgetting due to continual updating. To address these challenges, we propose SoLA, a Semantic routing-based LoRA framework for lifelong model editing. In SoLA, each edit is encapsulated as an independent LoRA module, which ",
-      "url": "https://arxiv.org/abs/2603.11239",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Mind the Sim2Real Gap in User Simulation for Agentic Tasks",
-      "date": "Fri, 13 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.11245v1 Announce Type: new Abstract: As NLP evaluation shifts from static benchmarks to multi-turn interactive settings, LLM-based simulators have become widely used as user proxies, serving two roles: generating user turns and providing evaluation signals. Yet, these simulations are frequently assumed to be faithful to real human behaviors, often without rigorous verification. We formalize the Sim2Real gap in user simulation and present the first study running the full $\\tau$-bench p",
-      "url": "https://arxiv.org/abs/2603.11245",
-      "category": "cs.AI"
-    }
-  ],
+  "fetch_time": "2026-03-14T05:09:52.449Z",
+  "articles": [],
   "status": "success",
   "error": null
 }
