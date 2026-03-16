@@ -1,8 +1,65 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-03-16T02:56:34.114Z",
-  "articles": [],
+  "fetch_time": "2026-03-16T05:48:55.911Z",
+  "articles": [
+    {
+      "title": "Context-Enriched Natural Language Descriptions of Vessel Trajectories",
+      "date": "Mon, 16 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.12287v1 Announce Type: new Abstract: We address the problem of transforming raw vessel trajectory data collected from AIS into structured and semantically enriched representations interpretable by humans and directly usable by machine reasoning systems. We propose a context-aware trajectory abstraction framework that segments noisy AIS sequences into distinct trips each consisting of clean, mobility-annotated episodes. Each episode is further enriched with multi-source contextual info",
+      "url": "https://arxiv.org/abs/2603.12287",
+      "category": [
+        "cs.AI",
+        "cs.CL",
+        "cs.DB"
+      ]
+    },
+    {
+      "title": "Efficient Reasoning with Balanced Thinking",
+      "date": "Mon, 16 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.12372v1 Announce Type: new Abstract: Large Reasoning Models (LRMs) have shown remarkable reasoning capabilities, yet they often suffer from overthinking, expending redundant computational steps on simple problems, or underthinking, failing to explore sufficient reasoning paths despite inherent capabilities. These issues lead to inefficiencies and potential inaccuracies, limiting practical deployment in resource-constrained settings. Existing methods to mitigate overthinking, such as s",
+      "url": "https://arxiv.org/abs/2603.12372",
+      "category": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "Generating Expressive and Customizable Evals for Timeseries Data Analysis Agents with AgentFuel",
+      "date": "Mon, 16 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.12483v1 Announce Type: new Abstract: Across many domains (e.g., IoT, observability, telecommunications, cybersecurity), there is an emerging adoption of conversational data analysis agents that enable users to \"talk to your data\" to extract insights. Such data analysis agents operate on timeseries data models; e.g., measurements from sensors or events monitoring user clicks and actions in product analytics. We evaluate 6 popular data analysis agents (both open-source and proprietary) ",
+      "url": "https://arxiv.org/abs/2603.12483",
+      "category": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "AI Planning Framework for LLM-Based Web Agents",
+      "date": "Mon, 16 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.12710v1 Announce Type: new Abstract: Developing autonomous agents for web-based tasks is a core challenge in AI. While Large Language Model (LLM) agents can interpret complex user requests, they often operate as black boxes, making it difficult to diagnose why they fail or how they plan. This paper addresses this gap by formally treating web tasks as sequential decision-making processes. We introduce a taxonomy that maps modern agent architectures to traditional planning paradigms: St",
+      "url": "https://arxiv.org/abs/2603.12710",
+      "category": [
+        "cs.AI",
+        "cs.CL"
+      ]
+    },
+    {
+      "title": "On Using Machine Learning to Early Detect Catastrophic Failures in Marine Diesel Engines",
+      "date": "Mon, 16 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.12733v1 Announce Type: new Abstract: Catastrophic failures of marine engines imply severe loss of functionality and destroy or damage the systems irreversibly. Being sudden and often unpredictable events, they pose a severe threat to navigation, crew, and passengers. The abrupt nature makes early detection the only effective countermeasure. However, research has concentrated on modeling the gradual degradation of components, with limited attention to sudden and anomalous phenomena. Th",
+      "url": "https://arxiv.org/abs/2603.12733",
+      "category": "cs.AI"
+    },
+    {
+      "title": "ToolTree: Efficient LLM Agent Tool Planning via Dual-Feedback Monte Carlo Tree Search and Bidirectional Pruning",
+      "date": "Mon, 16 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.12740v1 Announce Type: new Abstract: Large Language Model (LLM) agents are increasingly applied to complex, multi-step tasks that require interaction with diverse external tools across various domains. However, current LLM agent tool planning methods typically rely on greedy, reactive tool selection strategies that lack foresight and fail to account for inter-tool dependencies. In this paper, we present ToolTree, a novel Monte Carlo tree search-inspired planning paradigm for tool plan",
+      "url": "https://arxiv.org/abs/2603.12740",
+      "category": "cs.AI"
+    }
+  ],
   "status": "success",
   "error": null
 }
