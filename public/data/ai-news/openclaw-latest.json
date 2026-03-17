@@ -1,8 +1,69 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-03-17T08:41:46.773Z",
-  "articles": [],
-  "status": "error",
-  "error": "GitHub API 请求失败: 403"
+  "fetch_time": "2026-03-17T12:38:32.817Z",
+  "articles": [
+    {
+      "title": "openclaw 2026.3.13",
+      "date": "2026-03-14T18:04:28Z",
+      "summary": "This recovery release uses `v2026.3.13-1` because GitHub immutable releases do not allow reusing `v2026.3.13` after publication.\r\n\r\nImportant:\r\n- This release exists to recover the broken `v2026.3.13`...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.13-1",
+      "category": "Release",
+      "author": "onutc",
+      "tagName": "v2026.3.13-1",
+      "downloadCount": 0
+    },
+    {
+      "title": "openclaw 2026.3.13-beta.1",
+      "date": "2026-03-14T05:17:09Z",
+      "summary": "Pre-release for npm beta tag `v2026.3.13-beta.1`.\n\nmacOS assets are built with stable app version `2026.3.13` so they can be reused for the later non-beta release. `appcast.xml` is intentionally uncha...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.13-beta.1",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.3.13-beta.1",
+      "downloadCount": 859
+    },
+    {
+      "title": "openclaw 2026.3.12",
+      "date": "2026-03-13T04:26:46Z",
+      "summary": "\n### Changes\n\n- Control UI/dashboard-v2: refresh the gateway dashboard with modular overview, chat, config, agent, and session views, plus a command palette, mobile bottom tabs, and richer chat tools ...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.12",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.3.12",
+      "downloadCount": 6649
+    },
+    {
+      "title": "openclaw 2026.3.11",
+      "date": "2026-03-12T05:07:15Z",
+      "summary": "\n### Security\n\n- Gateway/WebSocket: enforce browser origin validation for all browser-originated connections regardless of whether proxy headers are present, closing a cross-site WebSocket hijacking p...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.11",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.3.11",
+      "downloadCount": 0
+    },
+    {
+      "title": "openclaw 2026.3.11-beta.1",
+      "date": "2026-03-12T04:23:39Z",
+      "summary": "\n### Security\n\n- Gateway/WebSocket: enforce browser origin validation for all browser-originated connections regardless of whether proxy headers are present, closing a cross-site WebSocket hijacking p...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.11-beta.1",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.3.11-beta.1",
+      "downloadCount": 0
+    },
+    {
+      "title": "openclaw 2026.3.8",
+      "date": "2026-03-09T07:49:27Z",
+      "summary": "Mac assets on this release reuse the beta artifact line from v2026.3.8-beta.1.\n\n\n### Changes\n\n- CLI/backup: add `openclaw backup create` and `openclaw backup verify` for local state archives, includin...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.8",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.3.8",
+      "downloadCount": 37346
+    }
+  ],
+  "status": "success",
+  "error": null
 }
