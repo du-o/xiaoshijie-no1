@@ -1,8 +1,36 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-03-18T08:38:32.974Z",
+  "fetch_time": "2026-03-18T12:38:38.050Z",
   "articles": [
+    {
+      "title": "瑞士构建 BGP 的安全替代",
+      "date": "Wed, 18 Mar 2026 10:00:54 GMT",
+      "summary": "边界网关路由（BGP）不是为安全设计的，而是为构成互联网的数以千计的自治系统之间大规模快速路由数据包设计的。过去四十年，BGP 运作良好，但其安全缺陷也日益显现。为堵上漏洞，BGP 引入了一系列补丁和扩展如 Resource Public Key Infrastructure (RPKI)、BGPsec 和 RPKI-based Route Origin Authorization (ROA)，但无法从根本上解决问题。瑞士苏黎世联邦理工学院开发的 SCION——代表 Scalability, Control, and Isolation On Next-Generation Networks——尝试从根本上改变互联网的路由架构，提供一种更安全的替代。SCION 的首席架构师 Adrian Perrig 是苏黎世联邦理工的计算机科学教授，一直致力于提升互联网的安全。他发现安全无法拼拼凑凑，必须彻底改变设计。SCION 尝试通过三个关联机制解决 BGP 的安全缺陷：其一是多路径路由，两点之间能同时建立数十条甚至数百条并行路径，一条路径发生故障，系统会在几毫秒内完成重路由；其二是不依赖证书颁",
+      "url": "https://www.solidot.org/story?sid=83798",
+      "category": ""
+    },
+    {
+      "title": "GTC 2026 重磅 AI 会议推荐：注册观看还有机会获得 NVIDIA 定制装备",
+      "date": "Wed, 18 Mar 2026 09:33:09 GMT",
+      "summary": "重磅一：中国创业生态精彩会议 错过首播也无妨，复制下方链接即可直达回看页面。 GTC 2026 创业企业会议特辑深度聚焦中国创业生态，干货满满，不容错过。 线上演讲：《十载相伴，NVIDIA 赋能创业公司在 AI 时代加速前行》 https://www.nvidia.cn/gtc/session-catalog/sessions/gtc26-s81981/?ncid=so-othe-950414 线上演讲：《基于 NVIDIA 全栈技术打造代理式 AI 与物理 AI 的未来基石》 https://www.nvidia.cn/gtc/session-catalog/sessions/gtc26-s81974/?ncid=so-othe-950414 圆桌论坛：《洞察 2026 中国 AI 市场 — AI 智能体和物理 AI 浪潮下的创业风口》 https://www.nvidia.cn/gtc/session-catalog/sessions/gtc26-s81846/?ncid=so-othe-950414",
+      "url": "https://www.solidot.org/story?sid=83797",
+      "category": ""
+    },
+    {
+      "title": "韩国游戏发行商 CEO 为避免支付合同承诺的 2.5 亿美元而求助于 ChatGPT",
+      "date": "Wed, 18 Mar 2026 07:34:14 GMT",
+      "summary": "Unknown Worlds Entertainment 是知名水下生存游戏《Subnautica》的开发商，2021 年韩国游戏发行商 Krafton 以 5 亿美元收购了该游戏工作室，并在合同中承诺如果续作《Subnautica 2》销量足够好将额外支付 2.5 亿美元。Krafton 内部对《Subnautica 2》的销量预测相当乐观，因此 2.5 亿美元看起来不得不兑现了。然而 CEO Changhan Kim 不想支付这笔费用，他因此求助于 AI 聊天机器人 ChatGPT 而不是公司法务讨论如何避免支付 2.5 亿美元。公司法务认为奖金取消不了，但 Kim 在 ChatGPT 的帮助下设计了一个方案以莫须有理由突然解雇了 Unknown Worlds 的主要高管。被解雇的高管提起诉讼曝光了 ChatGPT 的阴谋。法官本周裁决 Unknown Worlds 前 CEO Ted Gill 恢复原职。拖延了很久的《Subnautica 2》预计将于今年 5 月发布抢先体验版本（early access）。",
+      "url": "https://www.solidot.org/story?sid=83796",
+      "category": ""
+    },
+    {
+      "title": "法官裁决苹果可以以任何理由下架应用",
+      "date": "Wed, 18 Mar 2026 07:06:39 GMT",
+      "summary": "Musi 是一款免费音乐串流应用，只有 iOS 版本，它本身并不托管音乐，而是利用了 YouTube 上的音乐。它诞生于 2013 年，2024 年 9 月因 YouTube 的投诉而被苹果下架，下架前其下载量超过 6600 万次。Musi 有广告，用户可以一次性支付 5.99 美元移除广告。在下架之后，Musi 起诉了苹果。加州北区联邦地区法院法官 Eumi Lee 本周裁决 Musi 败诉。法官称，根据苹果的开发者协议 Developer Program License Agreement(DPLA)，苹果“不论有没有原因”都可以下架应用，它只需要发出终止通知。苹果向 Musi 发出了终止通知，因此下架并没有违反 DPLA。法官还抨击 Musi 的律师在案件中捏造事实，下令由该律所支付诉讼费用。",
+      "url": "https://www.solidot.org/story?sid=83795",
+      "category": ""
+    },
     {
       "title": "社会出身与儿童的努力程度密切相关",
       "date": "Tue, 17 Mar 2026 16:40:19 GMT",
@@ -15,34 +43,6 @@
       "date": "Tue, 17 Mar 2026 15:43:20 GMT",
       "summary": "日本研究团队在《Nature Astronomy》期刊上报告，探测器隼鸟 2 号从小行星龙宫采集的沙粒样本中含有地球生命所需的五种核碱基，再次为小行星陨石将生命所需成分带到地球的假说提供了佐证。隼鸟 2 号探测器于 2018 年造访了小行星龙宫，向其表面发射了两枚金属弹丸——一枚较小，一枚较大——收集了撞击产生的碎片。隼鸟 2 号于 2020 年携带样本返回地球，此后研究人员一直在对其进行分析。日本北海道大学的 Yasuhiro Oba 和同事分析了两个样本，一个来自小行星表面，另一个由弹丸撞击出的地下物质组成。在两个样本中，研究团队都发现了全部五种主要核碱基，核碱基与糖和磷酸结合构成了核酸 DNA 和 RNA。",
       "url": "https://www.solidot.org/story?sid=83793",
-      "category": ""
-    },
-    {
-      "title": "英伟达的 DLSS 5 引发争议和批评",
-      "date": "Tue, 17 Mar 2026 14:45:01 GMT",
-      "summary": "英伟达演示了计划于今年晚些时候推出的深度学习超级采样技术 DLSS 的新版本，结果在玩家中间引发了广泛争议和批评，因为 DLSS 5 在重构图像过程中戏剧性的改变了游戏画面，为游戏画面加入了一层 AI 滤镜，让游戏中的人物变得面目全非。DLSS 5 在社交媒体上引发了玩家制作大量梗图进行嘲讽，在 reddit 上大量相关讨论被删除（可能是英伟达在公关），就像微软被称为 Microslop，玩家现在开始称英伟达为 Slopvidia。",
-      "url": "https://www.solidot.org/story?sid=83792",
-      "category": ""
-    },
-    {
-      "title": "太阳可能在几十亿年前从银河中心迁移到外围",
-      "date": "Tue, 17 Mar 2026 14:28:25 GMT",
-      "summary": "最新证据显示，约在 40-60 亿年前，太阳可能曾参与一次大规模的恒星迁移事件。一群与太阳性质非常相似的太阳类恒星（solar twins）一同离开银河系核心区域并向外迁移。天文学家利用 ESA Gaia 卫星的观测数据进行分析，建立了一份前所未有精确的恒星目录。研究显示，太阳目前位于银河系的位置并非偶然，而可能是这次大规模恒星迁移事件的一部分。太阳约在 46 亿年前诞生，而当时太阳的位置比今天更接近银河中心超过一万光年。恒星化学成分的研究支持这一推论，但这个结果长期让科学家感到困惑。观测显示银河中心存在一个巨大的棒状结构，它会形成所谓的共转屏障，使恒星​​难以从银河中心区域迁移到如此遥远的位置。为了解答这个问题，来自日本的研究团队对银河系中类似太阳的恒星展开了大规模研究。这些恒星在温度、表面重力与化学组成上都与太阳极为相似。研究团队从 Gaia 的资料中挑选出 6594 颗太阳类恒星建立目录。透过这份庞大的资料，研究人员得以重建目前最精确的恒星年龄分布。分析结果显示，在 40-60 亿年前出现一个明显且宽广的年龄峰值，显示一群年龄相近的恒星分布在距离银河中心相似的位置。这代表太阳并非",
-      "url": "https://www.solidot.org/story?sid=83791",
-      "category": ""
-    },
-    {
-      "title": "微软允许 Windows 11 用户在安装过程中重命名主文件夹名称",
-      "date": "Tue, 17 Mar 2026 14:21:59 GMT",
-      "summary": "众所周知，Windows 在安装过程中并不允许用户重命名主文件夹名称，而是根据用户账号或邮箱地址自动生成名称。去年微软开始测试允许用户重命名主文件夹名称，但非常繁琐。现在微软终于将重命名主文件夹名称作为安装流程的一部分提供给用户。微软释出了预览版本 Windows 11 Insider Preview Build 26220.8062，在安装流程的“设备名称”页面包含了一个重命名主文件夹名称选项，如果用户跳过这一步骤，那么主文件夹仍然会使用默认名称。命名文件夹名称需要遵循微软的命名规定。",
-      "url": "https://www.solidot.org/story?sid=83790",
-      "category": ""
-    },
-    {
-      "title": "德国法庭裁决 TCL 的 QLED 不是真的 QLED",
-      "date": "Tue, 17 Mar 2026 09:50:13 GMT",
-      "summary": "德国的一家法庭裁决 TCL 误导消费者，它的多款宣称“量子点电视（QLED）”的产品并不是真的 QLED，没有提供 QLED 电视应有的色彩还原。法院命令 TCL 停止在德国宣传或销售相关型号的电视机。相关诉讼由韩国公司韩松化学提起，它是 TCL 竞争对手三星的合作伙伴。韩松化学委托进行的测试显示，三款以量子点名义出售的 TV 都未检测出铟和镉，它们是不可或缺的量子点材料。TCL 对测试结果提出异议，称量子点含量因供应商而异，它公布了自己的测试结果。TCL 的测试结果与韩松化学的测试结果相矛盾，但双方采用了不同的测试方法：TCL 的测试侧重于其使用的量子点薄膜，而韩松化学测试的是 TCL 电视机。韩松化学在包括美国在内的多国提起了针对 TCL 的诉讼，另一家中国电视制造商海信也面临类似的诉讼。",
-      "url": "https://www.solidot.org/story?sid=83789",
       "category": ""
     }
   ],
