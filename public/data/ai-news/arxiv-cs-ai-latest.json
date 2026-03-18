@@ -1,54 +1,56 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-03-18T02:45:49.121Z",
+  "fetch_time": "2026-03-18T05:25:34.272Z",
   "articles": [
     {
-      "title": "Human Attribution of Causality to AI Across Agency, Misuse, and Misalignment",
-      "date": "Tue, 17 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.13236v1 Announce Type: new Abstract: AI-related incidents are becoming increasingly frequent and severe, ranging from safety failures to misuse by malicious actors. In such complex situations, identifying which elements caused an adverse outcome, the problem of cause selection, is a critical first step for establishing liability. This paper investigates folk perceptions of causal responsibility in causal chain structures when AI systems are involved in harmful outcomes. We conduct hum",
-      "url": "https://arxiv.org/abs/2603.13236",
+      "title": "Neural-Symbolic Logic Query Answering in Non-Euclidean Space",
+      "date": "Wed, 18 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.15633v1 Announce Type: new Abstract: Answering complex first-order logic (FOL) queries on knowledge graphs is essential for reasoning. Symbolic methods offer interpretability but struggle with incomplete graphs, while neural approaches generalize better but lack transparency. Neural-symbolic models aim to integrate both strengths but often fail to capture the hierarchical structure of logical queries, limiting their effectiveness. We propose HYQNET, a neural-symbolic model for logic q",
+      "url": "https://arxiv.org/abs/2603.15633",
+      "category": "cs.AI"
+    },
+    {
+      "title": "NextMem: Towards Latent Factual Memory for LLM-based Agents",
+      "date": "Wed, 18 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.15634v1 Announce Type: new Abstract: Memory is critical for LLM-based agents to preserve past observations for future decision-making, where factual memory serves as its foundational part. However, existing approaches to constructing factual memory face several limitations. Textual methods impose heavy context and indexing burdens, while parametric methods suffer from catastrophic forgetting and high costs. To address these challenges, we introduce NextMem, a latent factual memory fra",
+      "url": "https://arxiv.org/abs/2603.15634",
       "category": [
         "cs.AI",
-        "cs.CY"
+        "cs.IR",
+        "cs.LG"
       ]
     },
     {
-      "title": "A Dual-Path Generative Framework for Zero-Day Fraud Detection in Banking Systems",
-      "date": "Tue, 17 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.13237v1 Announce Type: new Abstract: High-frequency banking environments face a critical trade-off between low-latency fraud detection and the regulatory explainability demanded by GDPR. Traditional rule-based and discriminative models struggle with \"zero-day\" attacks due to extreme class imbalance and the lack of historical precedents. This paper proposes a Dual-Path Generative Framework that decouples real-time anomaly detection from offline adversarial training. The architecture em",
-      "url": "https://arxiv.org/abs/2603.13237",
+      "title": "AIDABench: AI Data Analytics Benchmark",
+      "date": "Wed, 18 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.15636v1 Announce Type: new Abstract: As AI-driven document understanding and processing tools become increasingly prevalent in real-world applications, the need for rigorous evaluation standards has grown increasingly urgent. Existing benchmarks and evaluations often focus on isolated capabilities or simplified scenarios, failing to capture the end-to-end task effectiveness required in practical settings. To address this gap, we introduce AIDABench, a comprehensive benchmark for evalu",
+      "url": "https://arxiv.org/abs/2603.15636",
+      "category": "cs.AI"
+    },
+    {
+      "title": "The Comprehension-Gated Agent Economy: A Robustness-First Architecture for AI Economic Agency",
+      "date": "Wed, 18 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.15639v1 Announce Type: new Abstract: AI agents are increasingly granted economic agency (executing trades, managing budgets, negotiating contracts, and spawning sub-agents), yet current frameworks gate this agency on capability benchmarks that are empirically uncorrelated with operational robustness. We introduce the Comprehension-Gated Agent Economy (CGAE), a formal architecture in which an agent's economic permissions are upper-bounded by a verified comprehension function derived fr",
+      "url": "https://arxiv.org/abs/2603.15639",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Form Follows Function: Recursive Stem Model",
+      "date": "Wed, 18 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.15641v1 Announce Type: new Abstract: Recursive reasoning models such as Hierarchical Reasoning Model (HRM) and Tiny Recursive Model (TRM) show that small, weight-shared networks can solve compute-heavy and NP puzzles by iteratively refining latent states, but their training typically relies on deep supervision and/or long unrolls that increase wall-clock cost and can bias the model toward greedy intermediate behavior. We introduce Recursive Stem Model (RSM), a recursive reasoning appr",
+      "url": "https://arxiv.org/abs/2603.15641",
       "category": [
         "cs.AI",
-        "cs.CR"
+        "cs.LG",
+        "cs.NE"
       ]
     },
     {
-      "title": "Benchmarking Zero-Shot Reasoning Approaches for Error Detection in Solidity Smart Contracts",
-      "date": "Tue, 17 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.13239v1 Announce Type: new Abstract: Smart contracts play a central role in blockchain systems by encoding financial and operational logic. Still, their susceptibility to subtle security flaws poses significant risks of financial loss and erosion of trust. LLMs create new opportunities for automating vulnerability detection, yet the effectiveness of different prompting strategies and model choices in real-world contexts remains uncertain. This paper evaluates state-of-the-art LLMs on ",
-      "url": "https://arxiv.org/abs/2603.13239",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Think First, Diffuse Fast: Improving Diffusion Language Model Reasoning via Autoregressive Plan Conditioning",
-      "date": "Tue, 17 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.13243v1 Announce Type: new Abstract: Diffusion large language models (dLLMs) generate text via iterative denoising but consistently underperform on multi-step reasoning. We hypothesize this gap stems from a coordination problem: AR models build coherence token-by-token, while diffusion models must coordinate all positions simultaneously. We propose plan conditioning, a training-free method that prepends a short (~100-token) natural-language plan from an AR model to the diffusion model",
-      "url": "https://arxiv.org/abs/2603.13243",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Automating Document Intelligence in Statutory City Planning",
-      "date": "Tue, 17 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.13245v1 Announce Type: new Abstract: UK planning authorities face a legislative conflict between the Planning Act, which mandates public access to application documents, and the Data Protection Act, which requires protection of personal information. This situation creates a manually intensive workload for processing large document volumes, diverting planning officers to administrative tasks and creating legal compliance risks. This paper presents an integrated AI system designed to ad",
-      "url": "https://arxiv.org/abs/2603.13245",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Multi-Axis Trust Modeling for Interpretable Account Hijacking Detection",
-      "date": "Tue, 17 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.13246v1 Announce Type: new Abstract: This paper proposes a Hadith-inspired multi-axis trust modeling framework, motivated by a structurally analogous problem in classical Hadith scholarship: assessing the trustworthiness of information sources using interpretable, multidimensional criteria rather than a single anomaly score. We translate five trust axes - long-term integrity (adalah), behavioral precision (dabt), contextual continuity (isnad), cumulative reputation, and anomaly eviden",
-      "url": "https://arxiv.org/abs/2603.13246",
+      "title": "CraniMem: Cranial Inspired Gated and Bounded Memory for Agentic Systems",
+      "date": "Wed, 18 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.15642v1 Announce Type: new Abstract: Large language model (LLM) agents are increasingly deployed in long running workflows, where they must preserve user and task state across many turns. Many existing agent memory systems behave like external databases with ad hoc read/write rules, which can yield unstable retention, limited consolidation, and vulnerability to distractor content. We present CraniMem, a neurocognitively motivated, gated and bounded multi-stage memory design for agenti",
+      "url": "https://arxiv.org/abs/2603.15642",
       "category": "cs.AI"
     }
   ],
