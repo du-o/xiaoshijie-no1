@@ -1,8 +1,22 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-03-17T12:38:08.783Z",
+  "fetch_time": "2026-03-18T02:45:48.927Z",
   "articles": [
+    {
+      "title": "Introducing GPT-5.4 mini and nano",
+      "date": "Tue, 17 Mar 2026 10:00:00 GMT",
+      "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
+      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+      "category": "Company"
+    },
+    {
+      "title": "Equipping workers with insights about compensation",
+      "date": "Tue, 17 Mar 2026 00:00:00 GMT",
+      "summary": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap.",
+      "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
+      "category": "Global Affairs"
+    },
     {
       "title": "Why Codex Security Doesn’t Include a SAST Report",
       "date": "Mon, 16 Mar 2026 00:00:00 GMT",
@@ -30,20 +44,6 @@
       "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
       "url": "https://openai.com/index/wayfair",
       "category": "B2B Story"
-    },
-    {
-      "title": "From model to agent: Equipping the Responses API with a computer environment ",
-      "date": "Wed, 11 Mar 2026 11:00:00 GMT",
-      "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
-      "url": "https://openai.com/index/equip-responses-api-computer-environment",
-      "category": "Engineering"
-    },
-    {
-      "title": "Improving instruction hierarchy in frontier LLMs",
-      "date": "Tue, 10 Mar 2026 11:00:00 GMT",
-      "summary": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
-      "url": "https://openai.com/index/instruction-hierarchy-challenge",
-      "category": "Research"
     }
   ],
   "status": "success",
