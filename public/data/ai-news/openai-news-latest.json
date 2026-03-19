@@ -1,7 +1,7 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-03-18T12:38:34.847Z",
+  "fetch_time": "2026-03-19T02:47:15.077Z",
   "articles": [
     {
       "title": "Introducing GPT-5.4 mini and nano",
@@ -9,6 +9,13 @@
       "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
       "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
       "category": "Company"
+    },
+    {
+      "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+      "date": "Tue, 17 Mar 2026 10:00:00 GMT",
+      "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
+      "url": "https://openai.com/index/japan-teen-safety-blueprint",
+      "category": "Safety"
     },
     {
       "title": "Equipping workers with insights about compensation",
@@ -37,13 +44,6 @@
       "summary": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
       "url": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
       "category": "Security"
-    },
-    {
-      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-      "date": "Wed, 11 Mar 2026 11:00:00 GMT",
-      "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
-      "url": "https://openai.com/index/wayfair",
-      "category": "B2B Story"
     }
   ],
   "status": "success",
