@@ -1,56 +1,54 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-03-19T02:47:15.179Z",
+  "fetch_time": "2026-03-19T05:22:31.733Z",
   "articles": [
     {
-      "title": "Neural-Symbolic Logic Query Answering in Non-Euclidean Space",
-      "date": "Wed, 18 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.15633v1 Announce Type: new Abstract: Answering complex first-order logic (FOL) queries on knowledge graphs is essential for reasoning. Symbolic methods offer interpretability but struggle with incomplete graphs, while neural approaches generalize better but lack transparency. Neural-symbolic models aim to integrate both strengths but often fail to capture the hierarchical structure of logical queries, limiting their effectiveness. We propose HYQNET, a neural-symbolic model for logic q",
-      "url": "https://arxiv.org/abs/2603.15633",
+      "title": "Generative AI-assisted Participatory Modeling in Socio-Environmental Planning under Deep Uncertainty",
+      "date": "Thu, 19 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.17021v1 Announce Type: new Abstract: Socio-environmental planning under deep uncertainty requires researchers to identify and conceptualize problems before exploring policies and deploying plans. In practice and model-based planning approaches, this problem conceptualization process often relies on participatory modeling to translate stakeholders' natural-language descriptions into a quantitative model, making this process complex and time-consuming. To facilitate this process, we pro",
+      "url": "https://arxiv.org/abs/2603.17021",
       "category": "cs.AI"
     },
     {
-      "title": "NextMem: Towards Latent Factual Memory for LLM-based Agents",
-      "date": "Wed, 18 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.15634v1 Announce Type: new Abstract: Memory is critical for LLM-based agents to preserve past observations for future decision-making, where factual memory serves as its foundational part. However, existing approaches to constructing factual memory face several limitations. Textual methods impose heavy context and indexing burdens, while parametric methods suffer from catastrophic forgetting and high costs. To address these challenges, we introduce NextMem, a latent factual memory fra",
-      "url": "https://arxiv.org/abs/2603.15634",
+      "title": "Transformers are Bayesian Networks",
+      "date": "Thu, 19 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.17063v1 Announce Type: new Abstract: Transformers are the dominant architecture in AI, yet why they work remains poorly understood. This paper offers a precise answer: a transformer is a Bayesian network. We establish this in five ways. First, we prove that every sigmoid transformer with any weights implements weighted loopy belief propagation on its implicit factor graph. One layer is one round of BP. This holds for any weights -- trained, random, or constructed. Formally verified ag",
+      "url": "https://arxiv.org/abs/2603.17063",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Cascade-Aware Multi-Agent Routing: Spatio-Temporal Sidecars and Geometry-Switching",
+      "date": "Thu, 19 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.17112v1 Announce Type: new Abstract: A common architectural pattern in advanced AI reasoning systems is the symbolic graph network: specialized agents or modules connected by delegation edges, routing tasks through a dynamic execution graph. Current schedulers optimize load and fitness but are geometry-blind: they do not model how failures propagate differently in tree-like versus cyclic regimes. In tree-like delegation, a single failure can cascade exponentially; in dense cyclic grap",
+      "url": "https://arxiv.org/abs/2603.17112",
       "category": [
         "cs.AI",
-        "cs.IR",
         "cs.LG"
       ]
     },
     {
-      "title": "AIDABench: AI Data Analytics Benchmark",
-      "date": "Wed, 18 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.15636v1 Announce Type: new Abstract: As AI-driven document understanding and processing tools become increasingly prevalent in real-world applications, the need for rigorous evaluation standards has grown increasingly urgent. Existing benchmarks and evaluations often focus on isolated capabilities or simplified scenarios, failing to capture the end-to-end task effectiveness required in practical settings. To address this gap, we introduce AIDABench, a comprehensive benchmark for evalu",
-      "url": "https://arxiv.org/abs/2603.15636",
-      "category": "cs.AI"
-    },
-    {
-      "title": "The Comprehension-Gated Agent Economy: A Robustness-First Architecture for AI Economic Agency",
-      "date": "Wed, 18 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.15639v1 Announce Type: new Abstract: AI agents are increasingly granted economic agency (executing trades, managing budgets, negotiating contracts, and spawning sub-agents), yet current frameworks gate this agency on capability benchmarks that are empirically uncorrelated with operational robustness. We introduce the Comprehension-Gated Agent Economy (CGAE), a formal architecture in which an agent's economic permissions are upper-bounded by a verified comprehension function derived fr",
-      "url": "https://arxiv.org/abs/2603.15639",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Form Follows Function: Recursive Stem Model",
-      "date": "Wed, 18 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.15641v1 Announce Type: new Abstract: Recursive reasoning models such as Hierarchical Reasoning Model (HRM) and Tiny Recursive Model (TRM) show that small, weight-shared networks can solve compute-heavy and NP puzzles by iteratively refining latent states, but their training typically relies on deep supervision and/or long unrolls that increase wall-clock cost and can bias the model toward greedy intermediate behavior. We introduce Recursive Stem Model (RSM), a recursive reasoning appr",
-      "url": "https://arxiv.org/abs/2603.15641",
+      "title": "How Clued up are LLMs? Evaluating Multi-Step Deductive Reasoning in a Text-Based Game Environment",
+      "date": "Thu, 19 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.17169v1 Announce Type: new Abstract: Deducing whodunit proves challenging for LLM agents. In this paper, we implement a text-based multi-agent version of the classic board game Clue as a rule-based testbed for evaluating multi-step deductive reasoning, with six agents drawn from GPT-4o-mini and Gemini-2.5-Flash. We further investigate whether fine-tuning on structured logic puzzles transfers to improved in-game reasoning and gameplay. Across 18 simulated games, agents achieve only fou",
+      "url": "https://arxiv.org/abs/2603.17169",
       "category": [
         "cs.AI",
-        "cs.LG",
-        "cs.NE"
+        "cs.CL"
       ]
     },
     {
-      "title": "CraniMem: Cranial Inspired Gated and Bounded Memory for Agentic Systems",
-      "date": "Wed, 18 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.15642v1 Announce Type: new Abstract: Large language model (LLM) agents are increasingly deployed in long running workflows, where they must preserve user and task state across many turns. Many existing agent memory systems behave like external databases with ad hoc read/write rules, which can yield unstable retention, limited consolidation, and vulnerability to distractor content. We present CraniMem, a neurocognitively motivated, gated and bounded multi-stage memory design for agenti",
-      "url": "https://arxiv.org/abs/2603.15642",
+      "title": "AI Scientist via Synthetic Task Scaling",
+      "date": "Thu, 19 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.17216v1 Announce Type: new Abstract: With the advent of AI agents, automatic scientific discovery has become a tenable goal. Many recent works scaffold agentic systems that can perform machine learning research, but don't offer a principled way to train such agents -- and current LLMs often generate plausible-looking but ineffective ideas. To make progress on training agents that can learn from doing, we provide a novel synthetic environment generation pipeline targeting machine learn",
+      "url": "https://arxiv.org/abs/2603.17216",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Draft-and-Prune: Improving the Reliability of Auto-formalization for Logical Reasoning",
+      "date": "Thu, 19 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.17233v1 Announce Type: new Abstract: Auto-formalization (AF) translates natural-language reasoning problems into solver-executable programs, enabling symbolic solvers to perform sound logical deduction. In practice, however, AF pipelines are currently brittle: programs may fail to execute, or execute but encode incorrect semantics. While prior work largely mitigates syntactic failures via repairs based on solver feedback, reducing semantics failures remains a major bottleneck. We prop",
+      "url": "https://arxiv.org/abs/2603.17233",
       "category": "cs.AI"
     }
   ],
