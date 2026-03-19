@@ -1,48 +1,48 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-03-19T05:22:36.345Z",
+  "fetch_time": "2026-03-19T08:32:41.298Z",
   "articles": [
     {
-      "title": "瑞士构建 BGP 的安全替代",
-      "date": "Wed, 18 Mar 2026 10:00:54 GMT",
-      "summary": "边界网关路由（BGP）不是为安全设计的，而是为构成互联网的数以千计的自治系统之间大规模快速路由数据包设计的。过去四十年，BGP 运作良好，但其安全缺陷也日益显现。为堵上漏洞，BGP 引入了一系列补丁和扩展如 Resource Public Key Infrastructure (RPKI)、BGPsec 和 RPKI-based Route Origin Authorization (ROA)，但无法从根本上解决问题。瑞士苏黎世联邦理工学院开发的 SCION——代表 Scalability, Control, and Isolation On Next-Generation Networks——尝试从根本上改变互联网的路由架构，提供一种更安全的替代。SCION 的首席架构师 Adrian Perrig 是苏黎世联邦理工的计算机科学教授，一直致力于提升互联网的安全。他发现安全无法拼拼凑凑，必须彻底改变设计。SCION 尝试通过三个关联机制解决 BGP 的安全缺陷：其一是多路径路由，两点之间能同时建立数十条甚至数百条并行路径，一条路径发生故障，系统会在几毫秒内完成重路由；其二是不依赖证书颁",
-      "url": "https://www.solidot.org/story?sid=83798",
+      "title": "Firefox v149 将内置 VPN",
+      "date": "Thu, 19 Mar 2026 08:04:52 GMT",
+      "summary": "Mozilla 宣布，3 月 24 日释出的 Firefox v149 将内置 VPN 服务。该服务将首先提供给美国、法国、德国和英国的用户，免费套餐的流量为每月 50GB。Firefox VPN 与 Mozilla VPN 不同，Mozilla VPN 是一项独立的付费服务，可同时在五台设备上使用；而 Firefox VPN 只限于浏览器本身，设计通过 Mozilla 管理的服务器路由流量，隐藏用户的真实 IP 地址。Mozilla 此前强调，不会出售个人数据，同步浏览数据如历史和书签将依赖于端到端加密。",
+      "url": "https://www.solidot.org/story?sid=83809",
       "category": ""
     },
     {
-      "title": "GTC 2026 重磅 AI 会议推荐：注册观看还有机会获得 NVIDIA 定制装备",
-      "date": "Wed, 18 Mar 2026 09:33:09 GMT",
-      "summary": "重磅一：中国创业生态精彩会议 错过首播也无妨，复制下方链接即可直达回看页面。 GTC 2026 创业企业会议特辑深度聚焦中国创业生态，干货满满，不容错过。 线上演讲：《十载相伴，NVIDIA 赋能创业公司在 AI 时代加速前行》 https://www.nvidia.cn/gtc/session-catalog/sessions/gtc26-s81981/?ncid=so-othe-950414",
-      "url": "https://www.solidot.org/story?sid=83797",
+      "title": "美国私人太空公司计划捕捉小行星",
+      "date": "Thu, 19 Mar 2026 07:29:27 GMT",
+      "summary": "美国私人太空公司 TransAstra 周三宣布了名为“New Moon”的任务，该任务旨在捕获一颗房屋大小、质量 100 吨左右的小行星，将其转移到地球附近的 L2 点。TransAstra CEO Joel Sercel 表示设想将小行星变成一个材料加工和制造的机器人研发基地，长远目标是无需在地面制造太空飞行器硬件，无需从地球发射推进剂，直接利用太空原材料提取推进剂。他表示如果资金到位，New Moon 任务最早在 2028 年或 2029 年发射太空“捕获袋”与一颗小行星交会。",
+      "url": "https://www.solidot.org/story?sid=83808",
       "category": ""
     },
     {
-      "title": "韩国游戏发行商 CEO 为避免支付合同承诺的 2.5 亿美元而求助于 ChatGPT",
-      "date": "Wed, 18 Mar 2026 07:34:14 GMT",
-      "summary": "Unknown Worlds Entertainment 是知名水下生存游戏《Subnautica》的开发商，2021 年韩国游戏发行商 Krafton 以 5 亿美元收购了该游戏工作室，并在合同中承诺如果续作《Subnautica 2》销量足够好将额外支付 2.5 亿美元。Krafton 内部对《Subnautica 2》的销量预测相当乐观，因此 2.5 亿美元看起来不得不兑现了。然而 CEO Changhan Kim 不想支付这笔费用，他因此求助于 AI 聊天机器人 ChatGPT 而不是公司法务讨论如何避免支付 2.5 亿美元。公司法务认为奖金取消不了，但 Kim 在 ChatGPT 的帮助下设计了一个方案以莫须有理由突然解雇了 Unknown Worlds 的主要高管。被解雇的高管提起诉讼曝光了 ChatGPT 的阴谋。法官本周裁决 Unknown Worlds 前 CEO Ted Gill 恢复原职。拖延了很久的《Subnautica 2》预计将于今年 5 月发布抢先体验版本（early access）。",
-      "url": "https://www.solidot.org/story?sid=83796",
+      "title": "GNOME 50 释出",
+      "date": "Thu, 19 Mar 2026 07:06:19 GMT",
+      "summary": "桌面环境项目 GNOME 释出了 v50。该版本被命名为“东京（Tokyo）”，以表彰 GNOME.Asia Summit 2025 当地组织者的工作。GNOME 50 的主要特性包括：改进了家长控制，家长和监护人能监控儿童的屏幕使用时间，为儿童账户设置就寝自动锁屏限制；增强 Orca 屏幕阅读器；改进文件管理器的 UI 和性能；Wayland 会话支持鼠标预览；新的 Reduced Motion 选项减少动画造成的任何不适或干扰；文档查看器支持添加文本注释、添加线条和高亮显示；等等，更多可浏览发布公告。",
+      "url": "https://www.solidot.org/story?sid=83807",
       "category": ""
     },
     {
-      "title": "法官裁决苹果可以以任何理由下架应用",
-      "date": "Wed, 18 Mar 2026 07:06:39 GMT",
-      "summary": "Musi 是一款免费音乐串流应用，只有 iOS 版本，它本身并不托管音乐，而是利用了 YouTube 上的音乐。它诞生于 2013 年，2024 年 9 月因 YouTube 的投诉而被苹果下架，下架前其下载量超过 6600 万次。Musi 有广告，用户可以一次性支付 5.99 美元移除广告。在下架之后，Musi 起诉了苹果。加州北区联邦地区法院法官 Eumi Lee 本周裁决 Musi 败诉。法官称，根据苹果的开发者协议 Developer Program License Agreement(DPLA)，苹果“不论有没有原因”都可以下架应用，它只需要发出终止通知。苹果向 Musi 发出了终止通知，因此下架并没有违反 DPLA。法官还抨击 Musi 的律师在案件中捏造事实，下令由该律所支付诉讼费用。",
-      "url": "https://www.solidot.org/story?sid=83795",
+      "title": "2026 年图灵奖授予了两位量子信息理论的奠基人",
+      "date": "Thu, 19 Mar 2026 06:45:17 GMT",
+      "summary": "2026 年图灵奖授予了量子信息理论的两位奠基人 Charles Henry Bennett 和 Gilles Brassard，两人共享 100 万美元奖金。两人是在 1979 年出席一学术会议期间抽空去游泳时相遇的，他们讨论了利用量子机制制造永远也无法伪造的货币。他们的合作推动了量子密码学的诞生，1984 年他们提出了第一个实用的量子密码协议 BB84，他们的论文《Quantum Cryptography: Public Key Distribution and Coin Tossing》证明，即使面临一个拥有无限计算能力和尖端技术如量子计算机的对手，通信双方仍然能建立一个由物理定律确保安全的加密密钥。BB84 依赖于量子信息的一个基本属性：它无法在不被干扰的情况下被复制或测量。任何窃听尝试都会在信息泄露前留下可检测的痕迹。",
+      "url": "https://www.solidot.org/story?sid=83806",
       "category": ""
     },
     {
-      "title": "社会出身与儿童的努力程度密切相关",
-      "date": "Tue, 17 Mar 2026 16:40:19 GMT",
-      "summary": "哪些孩子在学校更努力？他们的努力程度与其社会出身有何关系？根据发表在《American Sociological Review》上的一项研究，来自优渥家庭的学龄儿童比来自贫困环境的孩子表现出更高的认知努力，尤其是在没有奖励且仅靠内在动力的情况下。尽管如此，两组之间的差距并不大，且可以通过激励措施得到补偿：当提供小奖品（如玩具或社会认可）时，资源匮乏家庭的孩子所表现出的投入程度与家庭环境较好的同龄人非常接近。研究人员指出，与努力相关的行为受社会环境制约，因为家庭可利用资源以及儿童在日常生活中感受到的安全感起着至关重要的作用。在匮乏的环境中成长（缺乏经济手段或缺乏父母的关注时间）会使个体难以长时间集中精力完成某项任务。",
-      "url": "https://www.solidot.org/story?sid=83794",
+      "title": "Meta 将于 6 月 15 日关闭 VR 社交网络 Horizo​​n Worlds",
+      "date": "Thu, 19 Mar 2026 05:35:24 GMT",
+      "summary": "元宇宙已成为过去，Meta 将于 6 月 15 日关闭其 VR 社交网络 Horizo​​n Worlds。该应用将于 3 月底从 Quest 应用商店下架，6 月 15 日前从 Quest 头显中完全移除，此后将转变为独立的“移动专属体验”。Horizo​​n Worlds 于 2021 年末正式发布，用户可以在虚拟 3D 世界中操控虚拟化身与其他用户互动以及玩游戏。在 Meta 于 2023 年 9 月推出移动应用前，它只支持 Quest VR 平台，移动应用的工作方式类似 Roblox。Meta 数周前已经裁掉了负责元宇宙的 Reality Labs 部门逾千名员工。",
+      "url": "https://www.solidot.org/story?sid=83805",
       "category": ""
     },
     {
-      "title": "小行星龙宫含有所有五种核碱基",
-      "date": "Tue, 17 Mar 2026 15:43:20 GMT",
-      "summary": "日本研究团队在《Nature Astronomy》期刊上报告，探测器隼鸟 2 号从小行星龙宫采集的沙粒样本中含有地球生命所需的五种核碱基，再次为小行星陨石将生命所需成分带到地球的假说提供了佐证。隼鸟 2 号探测器于 2018 年造访了小行星龙宫，向其表面发射了两枚金属弹丸——一枚较小，一枚较大——收集了撞击产生的碎片。隼鸟 2 号于 2020 年携带样本返回地球，此后研究人员一直在对其进行分析。日本北海道大学的 Yasuhiro Oba 和同事分析了两个样本，一个来自小行星表面，另一个由弹丸撞击出的地下物质组成。在两个样本中，研究团队都发现了全部五种主要核碱基，核碱基与糖和磷酸结合构成了核酸 DNA 和 RNA。",
-      "url": "https://www.solidot.org/story?sid=83793",
+      "title": "DarkSword 漏洞影响数亿 iPhone 用户",
+      "date": "Wed, 18 Mar 2026 15:09:06 GMT",
+      "summary": "Google 安全团队披露了被称为 DarkSword 的漏洞利用链，数亿 iPhone 用户受到影响，苹果已经释出修复补丁。对 DarkSword 的利用最早可追溯到 2025 年 11 月，研究人员推测商业间谍软件正在利用该漏洞。受影响的版本从 iOS 18.4 到 18.7 版本，攻击者组合利用六个漏洞完全控制设备，之后部署恶意程序 GHOSTBLADE、GHOSTKNIFE 和 GHOSTSABER。Google 安全团队于 2025 年底向苹果公司报告了 DarkSword 使用的漏洞，所有漏洞已在 iOS 26.3 中修复。",
+      "url": "https://www.solidot.org/story?sid=83804",
       "category": ""
     }
   ],
