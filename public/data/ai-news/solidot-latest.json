@@ -1,8 +1,36 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-03-19T12:32:07.109Z",
+  "fetch_time": "2026-03-20T02:38:06.819Z",
   "articles": [
+    {
+      "title": "新能源危机迫使政府重新考虑对化石燃料的依赖",
+      "date": "Thu, 19 Mar 2026 15:38:10 GMT",
+      "summary": "正在爆发的新能源危机正促使全球决策者重新思考对化石燃料的依赖，提议扩大核能和可再生能源，推动能源供应来源多元化。欧洲上周公布了对核能的新金融担保，中国发改委的一个部门表示要加快可再生能源转型，多个亚洲国家建议居民在家办公节约能源，日本一直在讨论重启闲置的核反应堆。中国因拥有充足的应急石油储备和较高的电气化率而受到的影响相对较小，电动汽车占中国国内新车销量的半数以上，电网中逾 50% 的电力来自可再生能源。",
+      "url": "https://www.solidot.org/story?sid=83813",
+      "category": ""
+    },
+    {
+      "title": "内存条和传统 DIMM 插槽可能将消失",
+      "date": "Thu, 19 Mar 2026 14:35:19 GMT",
+      "summary": "JEDEC 和主要内存制造商美光、SK 海力士和三星正在共同制定下一代内存标准 DDR6，我们所熟悉的内存条和传统 DIMM 插槽可能将消失。DDR5 将传统的 64-bit 通道拆分为两个 32 位子通道，而 DDR6 将会进一步分为 4 个 24 位子通道以降低每个通道的电负载。DDR6 的数据传输带宽也将进一步提高至 17,600 MT/s。新一代内存模块 CAMM2 (Compression Attached Memory Module)的外形也将摒弃传统的垂直 DIMM 插槽，采用低矮的螺栓锁住设计，缩短 CPU 和内存芯片之间的距离。CAMM2 很可能成为 DIMM 标准的接替者。",
+      "url": "https://www.solidot.org/story?sid=83812",
+      "category": ""
+    },
+    {
+      "title": "社媒使用降低个人幸福感",
+      "date": "Thu, 19 Mar 2026 13:50:58 GMT",
+      "summary": "牛津大学幸福研究中心、盖洛普和联合国等机构发布了 2026 年世界幸福报告。报告是基于对 140 个国家约 10 万人的调查。报告指出，重度使用社交媒体与年轻人幸福感下降有关，尤其是在英语国家和西欧国家的少女群体中。过度使用社交媒体，尤其是每天使用社交媒体超过七小时，与较低的幸福感密切相关，而算法、以图片为中心的平台以及网红内容是造成这种现象的关键因素。大多数美国大学生希望社交媒体平台不存在：“他们使用社交媒体是因为其他人都在用，但他们更希望没有人使用社交媒体。”芬兰连续第九年蝉联全球最幸福国家榜首，前十包括芬兰、冰岛、丹麦、哥斯达黎加、瑞典、挪威、荷兰、以色列、卢森堡、瑞士。东亚三国日本（55 名）、韩国（58名）和中国（68名）。",
+      "url": "https://www.solidot.org/story?sid=83811",
+      "category": ""
+    },
+    {
+      "title": "居家办公有助于提高生育率",
+      "date": "Thu, 19 Mar 2026 10:16:36 GMT",
+      "summary": "斯坦福、普林斯顿、伦敦国王学院的研究人员调查了居家办公和生育率的关系。研究是基于 2024 年 11 月到 2025 年 2 月之间收集的 38 国 Global Survey of Working Arrangements(G-SWA)调查数据，以及 2022 年 12 月到 2025 年 12 月间收集的 U.S. Survey of Working Arrangements and Attitudes (SWAA)美国调查数据。研究显示居家办公有助于提高生育率。在 38 国样本中，如果伴侣双方每周至少一天在家工作，则每位女性的终生生育率会增加 0.32 个孩子；美国样本中则会增加 0.45 个孩子。",
+      "url": "https://www.solidot.org/story?sid=83810",
+      "category": ""
+    },
     {
       "title": "Firefox v149 将内置 VPN",
       "date": "Thu, 19 Mar 2026 08:04:52 GMT",
@@ -15,34 +43,6 @@
       "date": "Thu, 19 Mar 2026 07:29:27 GMT",
       "summary": "美国私人太空公司 TransAstra 周三宣布了名为“New Moon”的任务，该任务旨在捕获一颗房屋大小、质量 100 吨左右的小行星，将其转移到地球附近的 L2 点。TransAstra CEO Joel Sercel 表示设想将小行星变成一个材料加工和制造的机器人研发基地，长远目标是无需在地面制造太空飞行器硬件，无需从地球发射推进剂，直接利用太空原材料提取推进剂。他表示如果资金到位，New Moon 任务最早在 2028 年或 2029 年发射太空“捕获袋”与一颗小行星交会。",
       "url": "https://www.solidot.org/story?sid=83808",
-      "category": ""
-    },
-    {
-      "title": "GNOME 50 释出",
-      "date": "Thu, 19 Mar 2026 07:06:19 GMT",
-      "summary": "桌面环境项目 GNOME 释出了 v50。该版本被命名为“东京（Tokyo）”，以表彰 GNOME.Asia Summit 2025 当地组织者的工作。GNOME 50 的主要特性包括：改进了家长控制，家长和监护人能监控儿童的屏幕使用时间，为儿童账户设置就寝自动锁屏限制；增强 Orca 屏幕阅读器；改进文件管理器的 UI 和性能；Wayland 会话支持鼠标预览；新的 Reduced Motion 选项减少动画造成的任何不适或干扰；文档查看器支持添加文本注释、添加线条和高亮显示；等等，更多可浏览发布公告。",
-      "url": "https://www.solidot.org/story?sid=83807",
-      "category": ""
-    },
-    {
-      "title": "2026 年图灵奖授予了两位量子信息理论的奠基人",
-      "date": "Thu, 19 Mar 2026 06:45:17 GMT",
-      "summary": "2026 年图灵奖授予了量子信息理论的两位奠基人 Charles Henry Bennett 和 Gilles Brassard，两人共享 100 万美元奖金。两人是在 1979 年出席一学术会议期间抽空去游泳时相遇的，他们讨论了利用量子机制制造永远也无法伪造的货币。他们的合作推动了量子密码学的诞生，1984 年他们提出了第一个实用的量子密码协议 BB84，他们的论文《Quantum Cryptography: Public Key Distribution and Coin Tossing》证明，即使面临一个拥有无限计算能力和尖端技术如量子计算机的对手，通信双方仍然能建立一个由物理定律确保安全的加密密钥。BB84 依赖于量子信息的一个基本属性：它无法在不被干扰的情况下被复制或测量。任何窃听尝试都会在信息泄露前留下可检测的痕迹。",
-      "url": "https://www.solidot.org/story?sid=83806",
-      "category": ""
-    },
-    {
-      "title": "Meta 将于 6 月 15 日关闭 VR 社交网络 Horizo​​n Worlds",
-      "date": "Thu, 19 Mar 2026 05:35:24 GMT",
-      "summary": "元宇宙已成为过去，Meta 将于 6 月 15 日关闭其 VR 社交网络 Horizo​​n Worlds。该应用将于 3 月底从 Quest 应用商店下架，6 月 15 日前从 Quest 头显中完全移除，此后将转变为独立的“移动专属体验”。Horizo​​n Worlds 于 2021 年末正式发布，用户可以在虚拟 3D 世界中操控虚拟化身与其他用户互动以及玩游戏。在 Meta 于 2023 年 9 月推出移动应用前，它只支持 Quest VR 平台，移动应用的工作方式类似 Roblox。Meta 数周前已经裁掉了负责元宇宙的 Reality Labs 部门逾千名员工。",
-      "url": "https://www.solidot.org/story?sid=83805",
-      "category": ""
-    },
-    {
-      "title": "DarkSword 漏洞影响数亿 iPhone 用户",
-      "date": "Wed, 18 Mar 2026 15:09:06 GMT",
-      "summary": "Google 安全团队披露了被称为 DarkSword 的漏洞利用链，数亿 iPhone 用户受到影响，苹果已经释出修复补丁。对 DarkSword 的利用最早可追溯到 2025 年 11 月，研究人员推测商业间谍软件正在利用该漏洞。受影响的版本从 iOS 18.4 到 18.7 版本，攻击者组合利用六个漏洞完全控制设备，之后部署恶意程序 GHOSTBLADE、GHOSTKNIFE 和 GHOSTSABER。Google 安全团队于 2025 年底向苹果公司报告了 DarkSword 使用的漏洞，所有漏洞已在 iOS 26.3 中修复。",
-      "url": "https://www.solidot.org/story?sid=83804",
       "category": ""
     }
   ],

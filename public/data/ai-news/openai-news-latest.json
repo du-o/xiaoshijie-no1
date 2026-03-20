@@ -1,13 +1,20 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-03-19T12:32:04.371Z",
+  "fetch_time": "2026-03-20T02:38:02.960Z",
   "articles": [
     {
-      "title": "Introducing GPT-5.4 mini and nano",
-      "date": "Tue, 17 Mar 2026 10:00:00 GMT",
-      "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
-      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+      "title": "How we monitor internal coding agents for misalignment",
+      "date": "Thu, 19 Mar 2026 10:00:00 GMT",
+      "summary": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
+      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "category": "Safety"
+    },
+    {
+      "title": "OpenAI to acquire Astral",
+      "date": "Thu, 19 Mar 2026 00:00:00 GMT",
+      "summary": "Accelerates Codex growth to power the next generation of Python developer tools",
+      "url": "https://openai.com/index/openai-to-acquire-astral",
       "category": "Company"
     },
     {
@@ -16,6 +23,13 @@
       "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
       "url": "https://openai.com/index/japan-teen-safety-blueprint",
       "category": "Safety"
+    },
+    {
+      "title": "Introducing GPT-5.4 mini and nano",
+      "date": "Tue, 17 Mar 2026 10:00:00 GMT",
+      "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
+      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+      "category": "Company"
     },
     {
       "title": "Equipping workers with insights about compensation",
@@ -30,20 +44,6 @@
       "summary": "A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.",
       "url": "https://openai.com/index/why-codex-security-doesnt-include-sast",
       "category": "Product"
-    },
-    {
-      "title": "Rakuten fixes issues twice as fast with Codex",
-      "date": "Wed, 11 Mar 2026 13:00:00 GMT",
-      "summary": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
-      "url": "https://openai.com/index/rakuten",
-      "category": "API"
-    },
-    {
-      "title": "Designing AI agents to resist prompt injection",
-      "date": "Wed, 11 Mar 2026 11:30:00 GMT",
-      "summary": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
-      "url": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
-      "category": "Security"
     }
   ],
   "status": "success",
