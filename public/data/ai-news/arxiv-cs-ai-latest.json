@@ -1,11 +1,11 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-03-21T02:31:54.940Z",
+  "fetch_time": "2026-03-21T05:06:04.810Z",
   "articles": [
     {
       "title": "DEAF: A Benchmark for Diagnostic Evaluation of Acoustic Faithfulness in Audio Language Models",
-      "date": "Fri, 20 Mar 2026 04:00:00 GMT",
+      "date": "Sat, 21 Mar 2026 04:00:00 GMT",
       "summary": "arXiv:2603.18048v1 Announce Type: new Abstract: Recent Audio Multimodal Large Language Models (Audio MLLMs) demonstrate impressive performance on speech benchmarks, yet it remains unclear whether these models genuinely process acoustic signals or rely on text-based semantic inference. To systematically study this question, we introduce DEAF (Diagnostic Evaluation of Acoustic Faithfulness), a benchmark of over 2,700 conflict stimuli spanning three acoustic dimensions: emotional prosody, backgroun",
       "url": "https://arxiv.org/abs/2603.18048",
       "category": [
@@ -16,21 +16,21 @@
     },
     {
       "title": "Continually self-improving AI",
-      "date": "Fri, 20 Mar 2026 04:00:00 GMT",
+      "date": "Sat, 21 Mar 2026 04:00:00 GMT",
       "summary": "arXiv:2603.18073v1 Announce Type: new Abstract: Modern language model-based AI systems are remarkably powerful, yet their capabilities remain fundamentally capped by their human creators in three key ways. First, although a model's weights can be updated via fine-tuning, acquiring new knowledge from small, specialized corpora after pretraining remains highly data-inefficient. Second, the training of these systems relies heavily on finite, human-generated data from across history. Third, the pipe",
       "url": "https://arxiv.org/abs/2603.18073",
       "category": "cs.AI"
     },
     {
       "title": "Multi-Trait Subspace Steering to Reveal the Dark Side of Human-AI Interaction",
-      "date": "Fri, 20 Mar 2026 04:00:00 GMT",
+      "date": "Sat, 21 Mar 2026 04:00:00 GMT",
       "summary": "arXiv:2603.18085v1 Announce Type: new Abstract: Recent incidents have highlighted alarming cases where human-AI interactions led to negative psychological outcomes, including mental health crises and even user harm. As LLMs serve as sources of guidance, emotional support, and even informal therapy, these risks are poised to escalate. However, studying the mechanisms underlying harmful human-AI interactions presents significant methodological challenges, where organic harmful interactions typical",
       "url": "https://arxiv.org/abs/2603.18085",
       "category": "cs.AI"
     },
     {
       "title": "Adaptive Domain Models: Bayesian Evolution, Warm Rotation, and Principled Training for Geometric and Neuromorphic AI",
-      "date": "Fri, 20 Mar 2026 04:00:00 GMT",
+      "date": "Sat, 21 Mar 2026 04:00:00 GMT",
       "summary": "arXiv:2603.18104v1 Announce Type: new Abstract: Prevailing AI training infrastructure assumes reverse-mode automatic differentiation over IEEE-754 arithmetic. The memory overhead of training relative to inference, optimizer complexity, and structural degradation of geometric properties through training are consequences of this arithmetic substrate. This paper develops an alternative training architecture grounded in three prior results: the Dimensional Type System and Deterministic Memory Manage",
       "url": "https://arxiv.org/abs/2603.18104",
       "category": [
@@ -42,7 +42,7 @@
     },
     {
       "title": "Don't Vibe Code, Do Skele-Code: Interactive No-Code Notebooks for Subject Matter Experts to Build Lower-Cost Agentic Workflows",
-      "date": "Fri, 20 Mar 2026 04:00:00 GMT",
+      "date": "Sat, 21 Mar 2026 04:00:00 GMT",
       "summary": "arXiv:2603.18122v1 Announce Type: new Abstract: Skele-Code is a natural-language and graph-based interface for building workflows with AI agents, designed especially for less or non-technical users. It supports incremental, interactive notebook-style development, and each step is converted to code with a required set of functions and behavior to enable incremental building of workflows. Agents are invoked only for code generation and error recovery, not orchestration or task execution. This agen",
       "url": "https://arxiv.org/abs/2603.18122",
       "category": [
@@ -55,7 +55,7 @@
     },
     {
       "title": "Efficient Dense Crowd Trajectory Prediction Via Dynamic Clustering",
-      "date": "Fri, 20 Mar 2026 04:00:00 GMT",
+      "date": "Sat, 21 Mar 2026 04:00:00 GMT",
       "summary": "arXiv:2603.18166v1 Announce Type: new Abstract: Crowd trajectory prediction plays a crucial role in public safety and management, where it can help prevent disasters such as stampedes. Recent works address the problem by predicting individual trajectories and considering surrounding objects based on manually annotated data. However, these approaches tend to overlook dense crowd scenarios, where the challenges of automation become more pronounced due to the massiveness, noisiness, and inaccuracy ",
       "url": "https://arxiv.org/abs/2603.18166",
       "category": "cs.AI"
