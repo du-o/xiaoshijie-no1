@@ -1,8 +1,63 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-03-23T02:48:10.084Z",
-  "articles": [],
+  "fetch_time": "2026-03-23T05:29:25.705Z",
+  "articles": [
+    {
+      "title": "When both Grounding and not Grounding are Bad -- A Partially Grounded Encoding of Planning into SAT (Extended Version)",
+      "date": "Mon, 23 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.19429v1 Announce Type: new Abstract: Classical planning problems are typically defined using lifted first-order representations, which offer compactness and generality. While most planners ground these representations to simplify reasoning, this can cause an exponential blowup in size. Recent approaches instead operate directly on the lifted level to avoid full grounding. We explore a middle ground between fully lifted and fully grounded planning by introducing three SAT encodings tha",
+      "url": "https://arxiv.org/abs/2603.19429",
+      "category": [
+        "cs.AI",
+        "cs.LO",
+        "cs.SC"
+      ]
+    },
+    {
+      "title": "Hyperagents",
+      "date": "Mon, 23 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.19461v1 Announce Type: new Abstract: Self-improving AI systems aim to reduce reliance on human engineering by learning to improve their own learning and problem-solving processes. Existing approaches to self-improvement rely on fixed, handcrafted meta-level mechanisms, fundamentally limiting how fast such systems can improve. The Darwin G\\\"odel Machine (DGM) demonstrates open-ended self-improvement in coding by repeatedly generating and evaluating self-modified variants. Because both ",
+      "url": "https://arxiv.org/abs/2603.19461",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Teaching an Agent to Sketch One Part at a Time",
+      "date": "Mon, 23 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.19500v1 Announce Type: new Abstract: We develop a method for producing vector sketches one part at a time. To do this, we train a multi-modal language model-based agent using a novel multi-turn process-reward reinforcement learning following supervised fine-tuning. Our approach is enabled by a new dataset we call ControlSketch-Part, containing rich part-level annotations for sketches, obtained using a novel, generic automatic annotation pipeline that segments vector sketches into sema",
+      "url": "https://arxiv.org/abs/2603.19500",
+      "category": [
+        "cs.AI",
+        "cs.CV",
+        "cs.GR",
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "Learning to Disprove: Formal Counterexample Generation with Large Language Models",
+      "date": "Mon, 23 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.19514v1 Announce Type: new Abstract: Mathematical reasoning demands two critical, complementary skills: constructing rigorous proofs for true statements and discovering counterexamples that disprove false ones. However, current AI efforts in mathematics focus almost exclusively on proof construction, often neglecting the equally important task of finding counterexamples. In this paper, we address this gap by fine-tuning large language models (LLMs) to reason about and generate counter",
+      "url": "https://arxiv.org/abs/2603.19514",
+      "category": "cs.AI"
+    },
+    {
+      "title": "ItinBench: Benchmarking Planning Across Multiple Cognitive Dimensions with Large Language Models",
+      "date": "Mon, 23 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.19515v1 Announce Type: new Abstract: Large language models (LLMs) with advanced cognitive capabilities are emerging as agents for various reasoning and planning tasks. Traditional evaluations often focus on specific reasoning or planning questions within controlled environments. Recent studies have explored travel planning as a medium to integrate various verbal reasoning tasks into real-world contexts. However, reasoning tasks extend beyond verbal reasoning alone, and a comprehensive",
+      "url": "https://arxiv.org/abs/2603.19515",
+      "category": "cs.AI"
+    },
+    {
+      "title": "PA2D-MORL: Pareto Ascent Directional Decomposition based Multi-Objective Reinforcement Learning",
+      "date": "Mon, 23 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.19579v1 Announce Type: new Abstract: Multi-objective reinforcement learning (MORL) provides an effective solution for decision-making problems involving conflicting objectives. However, achieving high-quality approximations to the Pareto policy set remains challenging, especially in complex tasks with continuous or high-dimensional state-action space. In this paper, we propose the Pareto Ascent Directional Decomposition based Multi-Objective Reinforcement Learning (PA2D-MORL) method, ",
+      "url": "https://arxiv.org/abs/2603.19579",
+      "category": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    }
+  ],
   "status": "success",
   "error": null
 }
