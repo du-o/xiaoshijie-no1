@@ -1,8 +1,15 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-03-23T05:29:29.883Z",
+  "fetch_time": "2026-03-23T08:45:07.731Z",
   "articles": [
+    {
+      "title": "SE 将在《勇者斗恶龙X》中集成 Google Gemini",
+      "date": "Mon, 23 Mar 2026 05:18:09 GMT",
+      "summary": "史克威尔艾尼克斯（Square Enix）宣布将在其热门网游《勇者斗恶龙X》中集成 Google 的 Gemini 模型，允许玩家与其对话，为新手玩家提供导引方面的帮助。《勇者斗恶龙X》还将加入一个集成生成式 AI 的新伙伴角色 Chatty Slimey，当玩家使用聊天功能与其对话时，它会自动生成语音进行互动。如果玩家击败强敌或获得稀有道具，Slimey 还可能主动发起对话。《勇者斗恶龙X》于 2012 年上线，中国版于 2016 年上线，由盛大游戏运营，但在 2019 年就终止了服务。《勇者斗恶龙X》运营已超过十年，每月仍然有数十万活跃玩家，但如何吸引新玩家是其面临的一大挑战。",
+      "url": "https://www.solidot.org/story?sid=83834",
+      "category": ""
+    },
     {
       "title": "视觉小说数据库创始人去世",
       "date": "Sun, 22 Mar 2026 12:16:17 GMT",
@@ -36,13 +43,6 @@
       "date": "Sat, 21 Mar 2026 16:44:25 GMT",
       "summary": "SystemD 项目合并了一个 pull request，为 userdb 管理的 JSON 用户记录添加了一个新的 birthDate 字段，此举旨在响应美国加州和科罗拉多州，以及巴西的年龄验证法律。systemd 作者 Lennart Poettering 强调该字段是完全可选的，只是定义了一个字段，在用户需要存储出生日期时将其标准化。他表示 systemd 本身不会处理出生日期相关的数据，也不会强制要求提供数据，systemd 并不执行年龄验证政策，而是由系统的其它部分决定。",
       "url": "https://www.solidot.org/story?sid=83829",
-      "category": ""
-    },
-    {
-      "title": "慢性肾脏病可能会唤醒破坏大脑的病毒",
-      "date": "Sat, 21 Mar 2026 16:08:13 GMT",
-      "summary": "全世界可能多达九成的人感染了人类多瘤病毒 2——aka JC 病毒，以首位分离出该病毒的患者 John Cunningham 的名字首字母命名。除非被激活，对大部分人而言这种病毒不会有症状。如果激活，病毒会破坏大脑，导致“进行性多灶性白质脑病（缩写 PML）”。PML 型的 JC 病毒会破坏特定的脑细胞，导致神经细胞功能障碍和死亡。PML 被认为非常罕见，但在艾滋病出现之后，在流行早期有 2% 至 5% 的 HIV 感染者会同时出现 PML。这意味着艾滋病相关联的严重免疫抑制可能是 PML 的一种激活条件。现在，根据发表在《Annals of Internal Medicine Case》期刊上的一项研究，研究人员报告了 PML 的另一种可能的激活条件——慢性肾脏病。相比 HIV，慢性肾脏病影响全世界十分之一的人口，慢性肾脏病激活 PML 型 JC 病毒可能会带来严重后果，需要警惕。",
-      "url": "https://www.solidot.org/story?sid=83828",
       "category": ""
     }
   ],
