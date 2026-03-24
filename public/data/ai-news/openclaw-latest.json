@@ -1,69 +1,8 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-03-23T12:35:54.050Z",
-  "articles": [
-    {
-      "title": "openclaw 2026.3.22",
-      "date": "2026-03-23T11:11:22Z",
-      "summary": "\n### Breaking\n\n- Plugins/install: bare `openclaw plugins install <package>` now prefers ClawHub before npm for npm-safe names, and only falls back to npm when ClawHub does not have that package or ver...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.22",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.3.22",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.3.22-beta.1",
-      "date": "2026-03-23T09:37:57Z",
-      "summary": "Pre-release for npm beta tag `v2026.3.22-beta.1`.\n\nNo new macOS app build is attached to this beta. macOS assets remain on stable app version `2026.3.22`, and `appcast.xml` is intentionally unchanged ...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.22-beta.1",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.3.22-beta.1",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.3.13",
-      "date": "2026-03-14T18:04:28Z",
-      "summary": "This recovery release uses `v2026.3.13-1` because GitHub immutable releases do not allow reusing `v2026.3.13` after publication.\r\n\r\nImportant:\r\n- This release exists to recover the broken `v2026.3.13`...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.13-1",
-      "category": "Release",
-      "author": "onutc",
-      "tagName": "v2026.3.13-1",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.3.13-beta.1",
-      "date": "2026-03-14T05:17:09Z",
-      "summary": "Pre-release for npm beta tag `v2026.3.13-beta.1`.\n\nmacOS assets are built with stable app version `2026.3.13` so they can be reused for the later non-beta release. `appcast.xml` is intentionally uncha...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.13-beta.1",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.3.13-beta.1",
-      "downloadCount": 1865
-    },
-    {
-      "title": "openclaw 2026.3.12",
-      "date": "2026-03-13T04:26:46Z",
-      "summary": "\n### Changes\n\n- Control UI/dashboard-v2: refresh the gateway dashboard with modular overview, chat, config, agent, and session views, plus a command palette, mobile bottom tabs, and richer chat tools ...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.12",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.3.12",
-      "downloadCount": 7020
-    },
-    {
-      "title": "openclaw 2026.3.11",
-      "date": "2026-03-12T05:07:15Z",
-      "summary": "\n### Security\n\n- Gateway/WebSocket: enforce browser origin validation for all browser-originated connections regardless of whether proxy headers are present, closing a cross-site WebSocket hijacking p...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.11",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.3.11",
-      "downloadCount": 0
-    }
-  ],
-  "status": "success",
-  "error": null
+  "fetch_time": "2026-03-24T02:39:53.301Z",
+  "articles": [],
+  "status": "error",
+  "error": "GitHub API 请求失败: 403"
 }

@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-03-23T12:35:39.504Z",
+  "fetch_time": "2026-03-24T02:39:41.131Z",
   "articles": [
+    {
+      "title": "Creating with Sora Safely",
+      "date": "Mon, 23 Mar 2026 00:00:00 GMT",
+      "summary": "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approach is anchored in concrete protections.",
+      "url": "https://openai.com/index/creating-with-sora-safely",
+      "category": "Safety"
+    },
     {
       "title": "How we monitor internal coding agents for misalignment",
       "date": "Thu, 19 Mar 2026 10:00:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap.",
       "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
       "category": "Global Affairs"
-    },
-    {
-      "title": "Why Codex Security Doesn’t Include a SAST Report",
-      "date": "Mon, 16 Mar 2026 00:00:00 GMT",
-      "summary": "A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.",
-      "url": "https://openai.com/index/why-codex-security-doesnt-include-sast",
-      "category": "Product"
     }
   ],
   "status": "success",
