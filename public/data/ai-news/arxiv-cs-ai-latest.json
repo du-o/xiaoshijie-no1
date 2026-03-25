@@ -1,53 +1,59 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-03-25T02:45:03.789Z",
+  "fetch_time": "2026-03-25T05:22:56.605Z",
   "articles": [
     {
-      "title": "AgenticGEO: A Self-Evolving Agentic System for Generative Engine Optimization",
-      "date": "Tue, 24 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.20213v1 Announce Type: new Abstract: Generative search engines represent a transition from traditional ranking-based retrieval to Large Language Model (LLM)-based synthesis, transforming optimization goals from ranking prominence towards content inclusion. Generative Engine Optimization (GEO), specifically, aims to maximize visibility and attribution in black-box summarized outputs by strategically manipulating source content. However, existing methods rely on static heuristics, singl",
-      "url": "https://arxiv.org/abs/2603.20213",
+      "title": "Memory Bear AI Memory Science Engine for Multimodal Affective Intelligence: A Technical Report",
+      "date": "Wed, 25 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.22306v1 Announce Type: new Abstract: Affective judgment in real interaction is rarely a purely local prediction problem. Emotional meaning often depends on prior trajectory, accumulated context, and multimodal evidence that may be weak, noisy, or incomplete at the current moment. Although multimodal emotion recognition (MER) has improved the integration of text, speech, and visual signals, many existing systems remain optimized for short-range inference and provide limited support for",
+      "url": "https://arxiv.org/abs/2603.22306",
+      "category": "cs.AI"
+    },
+    {
+      "title": "The Efficiency Attenuation Phenomenon: A Computational Challenge to the Language of Thought Hypothesis",
+      "date": "Wed, 25 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.22312v1 Announce Type: new Abstract: This paper computationally investigates whether thought requires a language-like format, as posited by the Language of Thought (LoT) hypothesis. We introduce the ``AI Private Language'' thought experiment: if two artificial agents develop an efficient, inscrutable communication protocol via multi-agent reinforcement learning (MARL), and their performance declines when forced to use a human-comprehensible language, this Efficiency Attenuation Phenom",
+      "url": "https://arxiv.org/abs/2603.22312",
       "category": [
         "cs.AI",
         "cs.CL",
-        "cs.LG",
-        "cs.NE"
+        "cs.LG"
       ]
     },
     {
-      "title": "ProMAS: Proactive Error Forecasting for Multi-Agent Systems Using Markov Transition Dynamics",
-      "date": "Tue, 24 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.20260v1 Announce Type: new Abstract: The integration of Large Language Models into Multi-Agent Systems (MAS) has enabled the so-lution of complex, long-horizon tasks through collaborative reasoning. However, this collec-tive intelligence is inherently fragile, as a single logical fallacy can rapidly propagate and lead to system-wide failure. Most current research re-lies on post-hoc failure analysis, thereby hinder-ing real-time intervention. To address this, we propose PROMAS, a proa",
-      "url": "https://arxiv.org/abs/2603.20260",
+      "title": "Dynamic Fusion-Aware Graph Convolutional Neural Network for Multimodal Emotion Recognition in Conversations",
+      "date": "Wed, 25 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.22345v1 Announce Type: new Abstract: Multimodal emotion recognition in conversations (MERC) aims to identify and understand the emotions expressed by speakers during utterance interaction from multiple modalities (e.g., text, audio, images, etc.). Existing studies have shown that GCN can improve the performance of MERC by modeling dependencies between speakers. However, existing methods usually use fixed parameters to process multimodal features for different emotion types, ignoring t",
+      "url": "https://arxiv.org/abs/2603.22345",
       "category": "cs.AI"
     },
     {
-      "title": "Domain-Specialized Tree of Thought through Plug-and-Play Predictors",
-      "date": "Tue, 24 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.20267v1 Announce Type: new Abstract: While Large Language Models (LLMs) have advanced complex reasoning, prominent methods like the Tree of Thoughts (ToT) framework face a critical trade-off between exploration depth and computational efficiency. Existing ToT implementations often rely on heavyweight LLM-based self-evaluation or rigid heuristics for branch pruning, making them prohibitively expensive and inflexible for broad application. To address this, we introduce DST, an adaptable",
-      "url": "https://arxiv.org/abs/2603.20267",
-      "category": "cs.AI"
+      "title": "Intelligence Inertia: Physical Principles and Applications",
+      "date": "Wed, 25 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.22347v1 Announce Type: new Abstract: While Landauer's principle establishes the fundamental thermodynamic floor for information erasure and Fisher Information provides a metric for local curvature in parameter space, these classical frameworks function effectively only as approximations within regimes of sparse rule-constraints. They fail to explain the super-linear, and often explosive, computational and energy costs incurred when maintaining symbolic interpretability during the reco",
+      "url": "https://arxiv.org/abs/2603.22347",
+      "category": [
+        "cs.AI",
+        "cond-mat.stat-mech",
+        "cs.LG"
+      ]
     },
     {
-      "title": "FactorSmith: Agentic Simulation Generation via Markov Decision Process Decomposition with Planner-Designer-Critic Refinement",
-      "date": "Tue, 24 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.20270v1 Announce Type: new Abstract: Generating executable simulations from natural language specifications remains a challenging problem due to the limited reasoning capacity of large language models (LLMs) when confronted with large, interconnected codebases. This paper presents FactorSmith, a framework that synthesizes playable game simulations in code from textual descriptions by combining two complementary ideas: factored POMDP decomposition for principled context reduction and a",
-      "url": "https://arxiv.org/abs/2603.20270",
-      "category": "cs.AI"
+      "title": "Session Risk Memory (SRM): Temporal Authorization for Deterministic Pre-Execution Safety Gates",
+      "date": "Wed, 25 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.22350v1 Announce Type: new Abstract: Deterministic pre-execution safety gates evaluate whether individual agent actions are compatible with their assigned roles. While effective at per-action authorization, these systems are structurally blind to distributed attacks that decompose harmful intent across multiple individually-compliant steps. This paper introduces Session Risk Memory (SRM), a lightweight deterministic module that extends stateless execution gates with trajectory-level a",
+      "url": "https://arxiv.org/abs/2603.22350",
+      "category": [
+        "cs.AI",
+        "cs.CR"
+      ]
     },
     {
-      "title": "Me, Myself, and $\\pi$ : Evaluating and Explaining LLM Introspection",
-      "date": "Tue, 24 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.20276v1 Announce Type: new Abstract: A hallmark of human intelligence is Introspection-the ability to assess and reason about one's own cognitive processes. Introspection has emerged as a promising but contested capability in large language models (LLMs). However, current evaluations often fail to distinguish genuine meta-cognition from the mere application of general world knowledge or text-based self-simulation. In this work, we propose a principled taxonomy that formalizes introspe",
-      "url": "https://arxiv.org/abs/2603.20276",
-      "category": "cs.AI"
-    },
-    {
-      "title": "AgentComm-Bench: Stress-Testing Cooperative Embodied AI Under Latency, Packet Loss, and Bandwidth Collapse",
-      "date": "Tue, 24 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.20285v1 Announce Type: new Abstract: Cooperative multi-agent methods for embodied AI are almost universally evaluated under idealized communication: zero latency, no packet loss, and unlimited bandwidth. Real-world deployment on robots with wireless links, autonomous vehicles on congested networks, or drone swarms in contested spectrum offers no such guarantees. We introduce AgentComm-Bench, a benchmark suite and evaluation protocol that systematically stress-tests cooperative embodie",
-      "url": "https://arxiv.org/abs/2603.20285",
+      "title": "STEM Agent: A Self-Adapting, Tool-Enabled, Extensible Architecture for Multi-Protocol AI Agent Systems",
+      "date": "Wed, 25 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.22359v1 Announce Type: new Abstract: Current AI agent frameworks commit early to a single interaction protocol, a fixed tool integration strategy, and static user models, limiting their deployment across diverse interaction paradigms. To address these constraints, we introduce STEM Agent (Self-adapting, Tool-enabled, Extensible, Multi-agent), a modular architecture inspired by biological pluripotency in which an undifferentiated agent core differentiates into specialized protocol hand",
+      "url": "https://arxiv.org/abs/2603.22359",
       "category": "cs.AI"
     }
   ],
