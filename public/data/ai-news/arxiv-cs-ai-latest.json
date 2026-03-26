@@ -1,60 +1,60 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-03-26T02:51:57.106Z",
+  "fetch_time": "2026-03-26T05:40:51.558Z",
   "articles": [
     {
-      "title": "Memory Bear AI Memory Science Engine for Multimodal Affective Intelligence: A Technical Report",
-      "date": "Wed, 25 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.22306v1 Announce Type: new Abstract: Affective judgment in real interaction is rarely a purely local prediction problem. Emotional meaning often depends on prior trajectory, accumulated context, and multimodal evidence that may be weak, noisy, or incomplete at the current moment. Although multimodal emotion recognition (MER) has improved the integration of text, speech, and visual signals, many existing systems remain optimized for short-range inference and provide limited support for",
-      "url": "https://arxiv.org/abs/2603.22306",
-      "category": "cs.AI"
-    },
-    {
-      "title": "The Efficiency Attenuation Phenomenon: A Computational Challenge to the Language of Thought Hypothesis",
-      "date": "Wed, 25 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.22312v1 Announce Type: new Abstract: This paper computationally investigates whether thought requires a language-like format, as posited by the Language of Thought (LoT) hypothesis. We introduce the ``AI Private Language'' thought experiment: if two artificial agents develop an efficient, inscrutable communication protocol via multi-agent reinforcement learning (MARL), and their performance declines when forced to use a human-comprehensible language, this Efficiency Attenuation Phenom",
-      "url": "https://arxiv.org/abs/2603.22312",
+      "title": "PLDR-LLMs Reason At Self-Organized Criticality",
+      "date": "Thu, 26 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.23539v1 Announce Type: new Abstract: We show that PLDR-LLMs pretrained at self-organized criticality exhibit reasoning at inference time. The characteristics of PLDR-LLM deductive outputs at criticality is similar to second-order phase transitions. At criticality, the correlation length diverges, and the deductive outputs attain a metastable steady state. The steady state behaviour suggests that deductive outputs learn representations equivalent to scaling functions, universality clas",
+      "url": "https://arxiv.org/abs/2603.23539",
       "category": [
         "cs.AI",
         "cs.CL",
-        "cs.LG"
+        "cs.LG",
+        "nlin.AO"
       ]
     },
     {
-      "title": "Dynamic Fusion-Aware Graph Convolutional Neural Network for Multimodal Emotion Recognition in Conversations",
-      "date": "Wed, 25 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.22345v1 Announce Type: new Abstract: Multimodal emotion recognition in conversations (MERC) aims to identify and understand the emotions expressed by speakers during utterance interaction from multiple modalities (e.g., text, audio, images, etc.). Existing studies have shown that GCN can improve the performance of MERC by modeling dependencies between speakers. However, existing methods usually use fixed parameters to process multimodal features for different emotion types, ignoring t",
-      "url": "https://arxiv.org/abs/2603.22345",
+      "title": "Environment Maps: Structured Environmental Representations for Long-Horizon Agents",
+      "date": "Thu, 26 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.23610v1 Announce Type: new Abstract: Although large language models (LLMs) have advanced rapidly, robust automation of complex software workflows remains an open problem. In long-horizon settings, agents frequently suffer from cascading errors and environmental stochasticity; a single misstep in a dynamic interface can lead to task failure, resulting in hallucinations or trial-and-error. This paper introduces $\\textit{Environment Maps}$: a persistent, agent-agnostic representation tha",
+      "url": "https://arxiv.org/abs/2603.23610",
       "category": "cs.AI"
     },
     {
-      "title": "Intelligence Inertia: Physical Principles and Applications",
-      "date": "Wed, 25 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.22347v1 Announce Type: new Abstract: While Landauer's principle establishes the fundamental thermodynamic floor for information erasure and Fisher Information provides a metric for local curvature in parameter space, these classical frameworks function effectively only as approximations within regimes of sparse rule-constraints. They fail to explain the super-linear, and often explosive, computational and energy costs incurred when maintaining symbolic interpretability during the reco",
-      "url": "https://arxiv.org/abs/2603.22347",
+      "title": "Evaluating a Multi-Agent Voice-Enabled Smart Speaker for Care Homes: A Safety-Focused Framework",
+      "date": "Thu, 26 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.23625v1 Announce Type: new Abstract: Artificial intelligence (AI) is increasingly being explored in health and social care to reduce administrative workload and allow staff to spend more time on patient care. This paper evaluates a voice-enabled Care Home Smart Speaker designed to support everyday activities in residential care homes, including spoken access to resident records, reminders, and scheduling tasks. A safety-focused evaluation framework is presented that examines the syste",
+      "url": "https://arxiv.org/abs/2603.23625",
       "category": [
         "cs.AI",
-        "cond-mat.stat-mech",
-        "cs.LG"
+        "cs.CL"
       ]
     },
     {
-      "title": "Session Risk Memory (SRM): Temporal Authorization for Deterministic Pre-Execution Safety Gates",
-      "date": "Wed, 25 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.22350v1 Announce Type: new Abstract: Deterministic pre-execution safety gates evaluate whether individual agent actions are compatible with their assigned roles. While effective at per-action authorization, these systems are structurally blind to distributed attacks that decompose harmful intent across multiple individually-compliant steps. This paper introduces Session Risk Memory (SRM), a lightweight deterministic module that extends stateless execution gates with trajectory-level a",
-      "url": "https://arxiv.org/abs/2603.22350",
-      "category": [
-        "cs.AI",
-        "cs.CR"
-      ]
-    },
-    {
-      "title": "STEM Agent: A Self-Adapting, Tool-Enabled, Extensible Architecture for Multi-Protocol AI Agent Systems",
-      "date": "Wed, 25 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.22359v1 Announce Type: new Abstract: Current AI agent frameworks commit early to a single interaction protocol, a fixed tool integration strategy, and static user models, limiting their deployment across diverse interaction paradigms. To address these constraints, we introduce STEM Agent (Self-adapting, Tool-enabled, Extensible, Multi-agent), a modular architecture inspired by biological pluripotency in which an undifferentiated agent core differentiates into specialized protocol hand",
-      "url": "https://arxiv.org/abs/2603.22359",
+      "title": "Can LLM Agents Be CFOs? A Benchmark for Resource Allocation in Dynamic Enterprise Environments",
+      "date": "Thu, 26 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.23638v1 Announce Type: new Abstract: Large language models (LLMs) have enabled agentic systems that can reason, plan, and act across complex tasks, but it remains unclear whether they can allocate resources effectively under uncertainty. Unlike short-horizon reactive decisions, allocation requires committing scarce resources over time while balancing competing objectives and preserving flexibility for future needs. We introduce EnterpriseArena, the first benchmark for evaluating agent",
+      "url": "https://arxiv.org/abs/2603.23638",
       "category": "cs.AI"
+    },
+    {
+      "title": "GTO Wizard Benchmark",
+      "date": "Thu, 26 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.23660v1 Announce Type: new Abstract: We introduce GTO Wizard Benchmark, a public API and standardized evaluation framework for benchmarking algorithms in Heads-Up No-Limit Texas Hold'em (HUNL). The benchmark evaluates agents against GTO Wizard AI, a state-of-the-art superhuman poker agent that approximates Nash Equilibria, and defeated Slumbot, the 2018 Annual Computer Poker Competition champion and previous strongest publicly accessible HUNL benchmark, by $19.4$ $\\pm$ $4.1$ bb/100. V",
+      "url": "https://arxiv.org/abs/2603.23660",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Grounding Vision and Language to 3D Masks for Long-Horizon Box Rearrangement",
+      "date": "Thu, 26 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.23676v1 Announce Type: new Abstract: We study long-horizon planning in 3D environments from under-specified natural-language goals using only visual observations, focusing on multi-step 3D box rearrangement tasks. Existing approaches typically rely on symbolic planners with brittle relational grounding of states and goals, or on direct action-sequence generation from 2D vision-language models (VLMs). Both approaches struggle with reasoning over many objects, rich 3D geometry, and impl",
+      "url": "https://arxiv.org/abs/2603.23676",
+      "category": [
+        "cs.AI",
+        "cs.RO"
+      ]
     }
   ],
   "status": "success",
