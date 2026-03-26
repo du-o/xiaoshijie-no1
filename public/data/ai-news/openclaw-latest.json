@@ -1,8 +1,28 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-03-25T12:36:14.938Z",
+  "fetch_time": "2026-03-26T02:52:17.553Z",
   "articles": [
+    {
+      "title": "openclaw 2026.3.24",
+      "date": "2026-03-25T16:35:52Z",
+      "summary": "### Breaking\n\n### Changes\n\n- Gateway/OpenAI compatibility: add `/v1/models` and `/v1/embeddings`, and forward explicit model overrides through `/v1/chat/completions` and `/v1/responses` for broader cl...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.24",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.3.24",
+      "downloadCount": 4638
+    },
+    {
+      "title": "openclaw 2026.3.24-beta.2",
+      "date": "2026-03-25T14:11:48Z",
+      "summary": "### Fixes\n\n- Outbound media/local files: align outbound media access with the configured fs policy so host-local files and inbound-media paths keep sending when `workspaceOnly` is off, while strict wo...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.24-beta.2",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.3.24-beta.2",
+      "downloadCount": 94
+    },
     {
       "title": "openclaw 2026.3.24-beta.1",
       "date": "2026-03-25T11:54:55Z",
@@ -11,7 +31,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.3.24-beta.1",
-      "downloadCount": 0
+      "downloadCount": 26
     },
     {
       "title": "2026.3.23",
@@ -21,7 +41,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.3.23",
-      "downloadCount": 4528
+      "downloadCount": 5589
     },
     {
       "title": "openclaw 2026.3.22",
@@ -42,26 +62,6 @@
       "author": "steipete",
       "tagName": "v2026.3.22-beta.1",
       "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.3.13",
-      "date": "2026-03-14T18:04:28Z",
-      "summary": "This recovery release uses `v2026.3.13-1` because GitHub immutable releases do not allow reusing `v2026.3.13` after publication.\r\n\r\nImportant:\r\n- This release exists to recover the broken `v2026.3.13`...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.13-1",
-      "category": "Release",
-      "author": "onutc",
-      "tagName": "v2026.3.13-1",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.3.13-beta.1",
-      "date": "2026-03-14T05:17:09Z",
-      "summary": "Pre-release for npm beta tag `v2026.3.13-beta.1`.\n\nmacOS assets are built with stable app version `2026.3.13` so they can be reused for the later non-beta release. `appcast.xml` is intentionally uncha...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.13-beta.1",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.3.13-beta.1",
-      "downloadCount": 1933
     }
   ],
   "status": "success",
