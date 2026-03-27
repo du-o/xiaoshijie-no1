@@ -1,11 +1,11 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-03-27T02:54:02.144Z",
+  "fetch_time": "2026-03-27T05:42:22.425Z",
   "articles": [
     {
       "title": "PLDR-LLMs Reason At Self-Organized Criticality",
-      "date": "Thu, 26 Mar 2026 04:00:00 GMT",
+      "date": "Fri, 27 Mar 2026 04:00:00 GMT",
       "summary": "arXiv:2603.23539v1 Announce Type: new Abstract: We show that PLDR-LLMs pretrained at self-organized criticality exhibit reasoning at inference time. The characteristics of PLDR-LLM deductive outputs at criticality is similar to second-order phase transitions. At criticality, the correlation length diverges, and the deductive outputs attain a metastable steady state. The steady state behaviour suggests that deductive outputs learn representations equivalent to scaling functions, universality clas",
       "url": "https://arxiv.org/abs/2603.23539",
       "category": [
@@ -17,14 +17,14 @@
     },
     {
       "title": "Environment Maps: Structured Environmental Representations for Long-Horizon Agents",
-      "date": "Thu, 26 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.23610v1 Announce Type: new Abstract: Although large language models (LLMs) have advanced rapidly, robust automation of complex software workflows remains an open problem. In long-horizon settings, agents frequently suffer from cascading errors and environmental stochasticity; a single misstep in a dynamic interface can lead to task failure, resulting in hallucinations or trial-and-error. This paper introduces $\\textit{Environment Maps}$: a persistent, agent-agnostic representation tha",
+      "date": "Fri, 27 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.23610v2 Announce Type: new Abstract: Although large language models (LLMs) have advanced rapidly, robust automation of complex software workflows remains an open problem. In long-horizon settings, agents frequently suffer from cascading errors and environmental stochasticity; a single misstep in a dynamic interface can lead to task failure, resulting in hallucinations or trial-and-error. This paper introduces $\\textit{Environment Maps}$: a persistent, agent-agnostic representation tha",
       "url": "https://arxiv.org/abs/2603.23610",
       "category": "cs.AI"
     },
     {
       "title": "Evaluating a Multi-Agent Voice-Enabled Smart Speaker for Care Homes: A Safety-Focused Framework",
-      "date": "Thu, 26 Mar 2026 04:00:00 GMT",
+      "date": "Fri, 27 Mar 2026 04:00:00 GMT",
       "summary": "arXiv:2603.23625v1 Announce Type: new Abstract: Artificial intelligence (AI) is increasingly being explored in health and social care to reduce administrative workload and allow staff to spend more time on patient care. This paper evaluates a voice-enabled Care Home Smart Speaker designed to support everyday activities in residential care homes, including spoken access to resident records, reminders, and scheduling tasks. A safety-focused evaluation framework is presented that examines the syste",
       "url": "https://arxiv.org/abs/2603.23625",
       "category": [
@@ -34,21 +34,21 @@
     },
     {
       "title": "Can LLM Agents Be CFOs? A Benchmark for Resource Allocation in Dynamic Enterprise Environments",
-      "date": "Thu, 26 Mar 2026 04:00:00 GMT",
+      "date": "Fri, 27 Mar 2026 04:00:00 GMT",
       "summary": "arXiv:2603.23638v1 Announce Type: new Abstract: Large language models (LLMs) have enabled agentic systems that can reason, plan, and act across complex tasks, but it remains unclear whether they can allocate resources effectively under uncertainty. Unlike short-horizon reactive decisions, allocation requires committing scarce resources over time while balancing competing objectives and preserving flexibility for future needs. We introduce EnterpriseArena, the first benchmark for evaluating agent",
       "url": "https://arxiv.org/abs/2603.23638",
       "category": "cs.AI"
     },
     {
       "title": "GTO Wizard Benchmark",
-      "date": "Thu, 26 Mar 2026 04:00:00 GMT",
+      "date": "Fri, 27 Mar 2026 04:00:00 GMT",
       "summary": "arXiv:2603.23660v1 Announce Type: new Abstract: We introduce GTO Wizard Benchmark, a public API and standardized evaluation framework for benchmarking algorithms in Heads-Up No-Limit Texas Hold'em (HUNL). The benchmark evaluates agents against GTO Wizard AI, a state-of-the-art superhuman poker agent that approximates Nash Equilibria, and defeated Slumbot, the 2018 Annual Computer Poker Competition champion and previous strongest publicly accessible HUNL benchmark, by $19.4$ $\\pm$ $4.1$ bb/100. V",
       "url": "https://arxiv.org/abs/2603.23660",
       "category": "cs.AI"
     },
     {
       "title": "Grounding Vision and Language to 3D Masks for Long-Horizon Box Rearrangement",
-      "date": "Thu, 26 Mar 2026 04:00:00 GMT",
+      "date": "Fri, 27 Mar 2026 04:00:00 GMT",
       "summary": "arXiv:2603.23676v1 Announce Type: new Abstract: We study long-horizon planning in 3D environments from under-specified natural-language goals using only visual observations, focusing on multi-step 3D box rearrangement tasks. Existing approaches typically rely on symbolic planners with brittle relational grounding of states and goals, or on direct action-sequence generation from 2D vision-language models (VLMs). Both approaches struggle with reasoning over many objects, rich 3D geometry, and impl",
       "url": "https://arxiv.org/abs/2603.23676",
       "category": [
