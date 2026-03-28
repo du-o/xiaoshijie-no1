@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-03-27T12:33:25.463Z",
+  "fetch_time": "2026-03-28T02:43:46.584Z",
   "articles": [
+    {
+      "title": "STADLER reshapes knowledge work at a 230-year-old company",
+      "date": "Fri, 27 Mar 2026 22:00:00 GMT",
+      "summary": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
+      "url": "https://openai.com/index/stadler",
+      "category": "B2B Story"
+    },
     {
       "title": "Inside our approach to the Model Spec",
       "date": "Wed, 25 Mar 2026 10:00:00 GMT",
@@ -25,13 +32,6 @@
       "category": "Safety"
     },
     {
-      "title": "Update on the OpenAI Foundation",
-      "date": "Tue, 24 Mar 2026 09:00:00 GMT",
-      "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
-      "url": "https://openai.com/index/update-on-the-openai-foundation",
-      "category": "Company"
-    },
-    {
       "title": "Powering product discovery in ChatGPT",
       "date": "Tue, 24 Mar 2026 09:00:00 GMT",
       "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
@@ -39,11 +39,11 @@
       "category": "Product"
     },
     {
-      "title": "Creating with Sora Safely",
-      "date": "Mon, 23 Mar 2026 00:00:00 GMT",
-      "summary": "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approach is anchored in concrete protections.",
-      "url": "https://openai.com/index/creating-with-sora-safely",
-      "category": "Safety"
+      "title": "Update on the OpenAI Foundation",
+      "date": "Tue, 24 Mar 2026 09:00:00 GMT",
+      "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
+      "url": "https://openai.com/index/update-on-the-openai-foundation",
+      "category": "Company"
     }
   ],
   "status": "success",
