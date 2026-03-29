@@ -1,8 +1,28 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-03-28T12:25:32.284Z",
+  "fetch_time": "2026-03-29T03:16:53.973Z",
   "articles": [
+    {
+      "title": "openclaw 2026.3.28",
+      "date": "2026-03-29T01:34:30Z",
+      "summary": "\n### Breaking\n\n- Providers/Qwen: remove the deprecated `qwen-portal-auth` OAuth integration for `portal.qwen.ai`; migrate to Model Studio with `openclaw onboard --auth-choice modelstudio-api-key`. (#5...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.28",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.3.28",
+      "downloadCount": 534
+    },
+    {
+      "title": "OpenClaw 2026.3.28-beta.1",
+      "date": "2026-03-28T22:25:05Z",
+      "summary": "## 2026.3.28-beta.1\n\n### Breaking\n\n- Providers/Qwen: remove the deprecated `qwen-portal-auth` OAuth integration for `portal.qwen.ai`; migrate to Model Studio with `openclaw onboard --auth-choice model...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.28-beta.1",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.3.28-beta.1",
+      "downloadCount": 67
+    },
     {
       "title": "openclaw 2026.3.24",
       "date": "2026-03-25T16:35:52Z",
@@ -11,7 +31,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.3.24",
-      "downloadCount": 32874
+      "downloadCount": 37357
     },
     {
       "title": "openclaw 2026.3.24-beta.2",
@@ -21,7 +41,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.3.24-beta.2",
-      "downloadCount": 253
+      "downloadCount": 273
     },
     {
       "title": "openclaw 2026.3.24-beta.1",
@@ -31,7 +51,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.3.24-beta.1",
-      "downloadCount": 94
+      "downloadCount": 116
     },
     {
       "title": "2026.3.23",
@@ -41,27 +61,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.3.23",
-      "downloadCount": 5972
-    },
-    {
-      "title": "openclaw 2026.3.22",
-      "date": "2026-03-23T11:11:22Z",
-      "summary": "## 2026.3.22\n\n### Breaking\n\n- Plugins/install: bare `openclaw plugins install <package>` now prefers ClawHub before npm for npm-safe names, and only falls back to npm when ClawHub does not have that p...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.22",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.3.22",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.3.22-beta.1",
-      "date": "2026-03-23T09:37:57Z",
-      "summary": "Pre-release for npm beta tag `v2026.3.22-beta.1`.\n\nNo new macOS app build is attached to this beta. macOS assets remain on stable app version `2026.3.22`, and `appcast.xml` is intentionally unchanged ...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.22-beta.1",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.3.22-beta.1",
-      "downloadCount": 0
+      "downloadCount": 6056
     }
   ],
   "status": "success",
