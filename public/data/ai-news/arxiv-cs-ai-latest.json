@@ -1,8 +1,58 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-03-30T03:19:30.469Z",
-  "articles": [],
+  "fetch_time": "2026-03-30T05:58:34.534Z",
+  "articles": [
+    {
+      "title": "BeSafe-Bench: Unveiling Behavioral Safety Risks of Situated Agents in Functional Environments",
+      "date": "Mon, 30 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.25747v1 Announce Type: new Abstract: The rapid evolution of Large Multimodal Models (LMMs) has enabled agents to perform complex digital and physical tasks, yet their deployment as autonomous decision-makers introduces substantial unintentional behavioral safety risks. However, the absence of a comprehensive safety benchmark remains a major bottleneck, as existing evaluations rely on low-fidelity environments, simulated APIs, or narrowly scoped tasks. To address this gap, we present B",
+      "url": "https://arxiv.org/abs/2603.25747",
+      "category": "cs.AI"
+    },
+    {
+      "title": "AutoB2G: A Large Language Model-Driven Agentic Framework For Automated Building-Grid Co-Simulation",
+      "date": "Mon, 30 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.26005v1 Announce Type: new Abstract: The growing availability of building operational data motivates the use of reinforcement learning (RL), which can learn control policies directly from data and cope with the complexity and uncertainty of large-scale building clusters. However, most existing simulation environments prioritize building-side performance metrics and lack systematic evaluation of grid-level impacts, while their experimental workflows still rely heavily on manual configu",
+      "url": "https://arxiv.org/abs/2603.26005",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Semi-Automated Knowledge Engineering and Process Mapping for Total Airport Management",
+      "date": "Mon, 30 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.26076v1 Announce Type: new Abstract: Documentation of airport operations is inherently complex due to extensive technical terminology, rigorous regulations, proprietary regional information, and fragmented communication across multiple stakeholders. The resulting data silos and semantic inconsistencies present a significant impediment to the Total Airport Management (TAM) initiative. This paper presents a methodological framework for constructing a domain-grounded, machine-readable Kn",
+      "url": "https://arxiv.org/abs/2603.26076",
+      "category": [
+        "cs.AI",
+        "cs.CL",
+        "cs.IR"
+      ]
+    },
+    {
+      "title": "GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval and Plug-and-Play Annotation",
+      "date": "Mon, 30 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.26266v1 Announce Type: new Abstract: Large vision-language models have endowed GUI agents with strong general capabilities for interface understanding and interaction. However, due to insufficient exposure to domain-specific software operation data during training, these agents exhibit significant domain bias - they lack familiarity with the specific operation workflows (planning) and UI element layouts (grounding) of particular applications, limiting their real-world task performance",
+      "url": "https://arxiv.org/abs/2603.26266",
+      "category": [
+        "cs.AI",
+        "cs.CV"
+      ]
+    },
+    {
+      "title": "AIRA_2: Overcoming Bottlenecks in AI Research Agents",
+      "date": "Mon, 30 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.26499v1 Announce Type: new Abstract: Existing research has identified three structural performance bottlenecks in AI research agents: (1) synchronous single-GPU execution constrains sample throughput, limiting the benefit of search; (2) a generalization gap where validation-based selection causes performance to degrade over extended search horizons; and (3) the limited capability of fixed, single-turn LLM operators imposes a ceiling on search performance. We introduce AIRA$_2$, which ",
+      "url": "https://arxiv.org/abs/2603.26499",
+      "category": "cs.AI"
+    },
+    {
+      "title": "CADSmith: Multi-Agent CAD Generation with Programmatic Geometric Validation",
+      "date": "Mon, 30 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.26512v1 Announce Type: new Abstract: Existing methods for text-to-CAD generation either operate in a single pass with no geometric verification or rely on lossy visual feedback that cannot resolve dimensional errors. We present CADSmith, a multi-agent pipeline that generates CadQuery code from natural language. It then undergoes an iterative refinement process through two nested correction loops: an inner loop that resolves execution errors and an outer loop grounded in programmatic g",
+      "url": "https://arxiv.org/abs/2603.26512",
+      "category": "cs.AI"
+    }
+  ],
   "status": "success",
   "error": null
 }
