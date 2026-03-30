@@ -1,76 +1,76 @@
 {
-  "fetch_time": "2026-03-29T12:25:28.451Z",
+  "fetch_time": "2026-03-30T03:19:33.355Z",
   "total_count": 28,
   "sources_count": 6,
   "errors": null,
   "articles": [
     {
-      "title": "Google TurboQuant AI 压缩算法大幅减少大模型内存使用",
-      "date": "Sun, 29 Mar 2026 11:05:52 GMT",
-      "summary": "Google 研究院发布了压缩算法 TurboQuant，能在大幅减少大模型内存占用的同时提高速度和维持精度。TurboQuant 旨在减小键值缓存的大小，被称为是储存重要信息减少再计算的“数字查找表（digital cheat sheet）”。大模型并不理解任何东西，它通过映射词元文本语义的向量去模拟对事物的理解。大模型的向量通常使用 XYZ 坐标进行编码，而实现 TurboQuant 压缩的系统将向量转换为笛卡尔坐标系的极坐标，向量被简化为两类信息：半径（核心数据强度）和方向（数据含义）。如果使用 XYZ 坐标编码向量，那么特定位置可以编码为“向东走 3 个街区，向北走 4 个街区”，采用笛卡尔坐标编码向量，那么同样的信息编码为“沿 37 度方向走 5 个街区” ，简化了空间节省了计算。Google 的早期测试显示，TurboQuant 在部分测试中实现了 8 倍的性能提升，内存占用减少到原来的六分之一，同时质量没有损失。实现 TurboQuant 算法将有助于降低 AI 模型的运行成本和内存占用，但也可能推动更复杂模型的出现，因此对将降低内存价格可能没有什么效果。",
-      "url": "https://www.solidot.org/story?sid=83907",
+      "title": "TCL科技等在深圳成立创新科技技术公司，注册资本2亿元",
+      "date": "Mon, 30 Mar 2026 03:13:08 GMT",
+      "summary": "36氪获悉，爱企查App显示，近日，纪元创新（深圳）科技技术有限公司成立，法定代表人为杨进，注册资本为2亿元人民币，经营范围包括人工智能双创服务平台、人工智能基础软件开发、软件开发、人工智能应用软件开发等。股东信息显示，该公司由TCL王牌电器（惠州）有限公司、TCL科技集团股份有限公司等共同持股。",
+      "url": "https://36kr.com/newsflashes/3744864477069568?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "“瑞云冷链”完成新一轮亿元人民币融资",
+      "date": "Mon, 30 Mar 2026 03:07:02 GMT",
+      "summary": "36氪获悉，国内数字化冷链综合服务平台“瑞云冷链”宣布完成新一轮亿元人民币融资，距离上一轮融资仅三个月。本轮融资由无锡高新区新铁基金领投，宁波甬涌股权投资基金、天津博正泰达投资基金、广东盛德企业投资跟投，此次融资将主要用于数字化能力提升和供应链业务延伸。",
+      "url": "https://36kr.com/newsflashes/3744858483720201?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "汇川技术据悉聘请银行筹备香港上市，可能筹集高达20亿美元",
+      "date": "Mon, 30 Mar 2026 02:58:49 GMT",
+      "summary": "汇川技术据悉聘请银行筹备香港上市，可能筹集高达20亿美元。（财联社）",
+      "url": "https://36kr.com/newsflashes/3744850405458185?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "世界数据组织今天正式投入运行",
+      "date": "Mon, 30 Mar 2026 02:52:22 GMT",
+      "summary": "记者从世界数据组织筹委会了解到，今天（3月30日），世界数据组织在北京完成组建，选举产生首届理事、监事和组织负责人。这标志着世界数据组织正式投入运行。这是全球首个旨在推动数据发展与治理实践的专业性国际组织，总部设在北京。（央视新闻）",
+      "url": "https://36kr.com/newsflashes/3744844068306949?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "智元第10000台通用具身机器人下线",
+      "date": "Mon, 30 Mar 2026 02:50:53 GMT",
+      "summary": "36氪获悉，今天，智元机器人联合创始人、总裁兼CTO彭志辉宣布，智元第10000台通用具身机器人——远征A3于3月28日正式下线。彭志辉表示，万台下线标志着供应链成熟与制造标准化的关键拐点，行业正从“技术验证”全面迈向“规模化商用部署”。目前，智元机器人已在汽车制造、3C电子、物流仓储等领域实现部署，行业头部企业已进入批量采购与复购阶段。",
+      "url": "https://36kr.com/newsflashes/3744842601365767?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "招商银行副行长彭家文：2026年息差管理要实现三个目标",
+      "date": "Mon, 30 Mar 2026 02:44:22 GMT",
+      "summary": "招商银行副行长彭家文在该行2025年度业绩发布会上表示，息差管理方面，要在2026年实现三个目标：一是实现息差收窄幅度减小；二是尽快实现息差企稳；三是实现息差水平仍保持市场领先水平。（证券时报）",
+      "url": "https://36kr.com/newsflashes/3744836206411784?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "高效烹饪番茄和胡萝卜",
+      "date": "Sun, 29 Mar 2026 15:18:38 GMT",
+      "summary": "番茄和胡萝卜是食物中类胡萝卜素的主要来源。类胡萝卜素有助于降低多种慢性疾病的风险，包括心血管疾病和癌症。类胡萝卜素的健康影响不仅取决于其在食物中的浓度，还取决于其生物可利用率（Bioaccessibility）——即这些物质在经过人体消化后到底有多少能真正被肠胃吸收。生物可利用率会根据烹饪方式不同而产生显著差异。热处理通过破坏细胞结构和促进微胶粒形成提高类胡萝卜素的生物可利用率，但过高的温度或过长的时间可能导致其降解和异构化。根据发表在《Food Chemistry》期刊上的一项研究，研究人员对比了空气炸锅、烤箱和微波炉烹饪番茄和胡萝卜的生物可利用率。结果显示：胡萝卜经烤箱烹饪后，其总类胡萝卜素的生物可利用率最高可达原来的 9 倍；对于西红柿，无论采用空气炸锅（190 ℃ 10 分钟）还是传统烤箱（180 ℃ 20 分钟）烹饪，均可获得最高的生物利用率；对胡萝卜来说，微波加热是效率最高的烹饪方式，可将电力消耗降低 96%；对于西红柿来说，使用空气炸锅不仅能获得最高的生物可利用率，还能减少 80% 的耗能。",
+      "url": "https://www.solidot.org/story?sid=83908",
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
     },
     {
-      "title": "科氪 | 变革传统同传设备，亮亮视野推出全球首创AR+AI会议翻译系统，部署中关村论坛",
-      "date": "Sun, 29 Mar 2026 10:07:47 GMT",
-      "summary": "在2026中关村论坛主会场，亮亮视野联合智谱AI推出并部署了全球首创的AR+AI会议翻译系统，为主论坛及多场平行论坛提供大会翻译保障。这套系统深度融合亮亮视野AR眼镜与智谱AI大模型能力，可支持54种语言实时翻译，延迟小于1秒，单次续航8小时，并可7×24小时稳定运行。这标志着国际会议翻译从传统设备和人工依赖，迈向更高效率、更低成本、更强普惠性的 AR+AI 新阶段。 长期以来，国际会议翻译领域始终受困于部署繁琐、成本高昂、语种覆盖有限、实时传递滞后等核心痛点。尤其在大型论坛、专业峰会等高端跨语言交流场景中，传统同传模式更受限于包厢搭建、接收设备调试、专业人工译员稀缺及会场信号不稳定等多重因素，既大幅增加活动组织方的筹备压力，也难以保障信息传递的准确性与一致性，制约跨语言沟通的效率与质量。 外籍嘉宾佩戴亮亮视野AR翻译眼镜接受媒体采访 自2025年起，亮亮视野聚焦国际会议翻译领域的效率升级，持续深耕更具可行性的创新解决方案，先后为IASP世界大会、北京文化论坛、中国高层发展论坛等一系列高规格国际盛会，提供专业AR翻译服务。本次与智谱AI联合打造的这套翻译系统，正是精准破解行业核心痛点，",
-      "url": "https://36kr.com/p/3743855989587971?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "“AI未来论坛”在京举办，红杉中国、高瓴创投等6家投资机构集中签约",
-      "date": "Sun, 29 Mar 2026 10:05:46 GMT",
-      "summary": "36氪获悉，3月29日，2026中关村论坛年会“人工智能主题日”特色专题论坛“AI未来论坛：跃迁·投资·共生”成功举办。活动现场，中关村科学城国际创新服务集聚区迎来重要时刻，红杉中国、高瓴创投、经纬创投、五源资本、金沙江创投、真知创投6家投资机构作为投资生态伙伴集中签约。集聚区是海淀区为系统性集聚全球顶尖创投与科创服务资源而建，旨在打造全球前沿科技的创投中心，构建“人才-技术-场景-资本”高效协同生态，最大化加速创新。",
-      "url": "https://36kr.com/newsflashes/3743854538899714?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "中信证券：配置上建议继续坚守中国优势制造业，静待4月决断",
-      "date": "Sun, 29 Mar 2026 09:43:35 GMT",
-      "summary": "36氪获悉，中信证券研报认为，短期资本市场仍然处于情绪降温期，损失规避的心态可能产生一些减仓需求。在配置上，建议继续坚守中国优势制造业，静待4月决断。目前的底仓建议仍然是中国有份额优势、海外产能重置成本高难度大、且供应弹性容易被政策影响的行业，以化工、有色、电力设备和新能源为基础。在以上底仓的基础上，建议继续增加对低估值因子的敞口暴露，重点关注保险、券商和电力。从短期景气信号驱动的框架来考虑，涨价仍然是最“锋利的矛”，PPI交易成为全年主线的概率在上升，4—5月就是决断期。",
-      "url": "https://36kr.com/newsflashes/3743825887248645?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "广汽丰田铂智7正式上市",
-      "date": "Sun, 29 Mar 2026 09:34:22 GMT",
-      "summary": "36氪获悉，3月29日，丰田首款鸿蒙座舱豪华旗舰大型纯电轿车铂智7正式上市，新车共推出600km和700km两种续航5款配置，限时补贴权益价14.78万-19.98万元。",
-      "url": "https://36kr.com/newsflashes/3743823660138760?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "三安光电：董事长及总经理拟增持公司股份",
-      "date": "Sun, 29 Mar 2026 09:24:59 GMT",
-      "summary": "36氪获悉，三安光电公告，公司董事长林志强和副董事长、总经理林科闯拟自3月31日起的6个月内，通过上海证券交易所系统以集中竞价方式增持公司股份，林志强拟增持金额2000万元—4000万元，林科闯拟增持金额500万元—1000万元。",
-      "url": "https://36kr.com/newsflashes/3743814449446920?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "科大讯飞AIPC华东制造基地正式投产，年规划产能10万台",
-      "date": "Sun, 29 Mar 2026 09:08:44 GMT",
-      "summary": "36氪获悉，近日，由科大讯飞主办的“信创AIPC华东制造基地（金华）投产暨首机下线仪式”在浙江举行。科大讯飞规划年产能达10万台的国产AIPC产线正式步入规模化量产阶段。据了解，该基地深度集成了ERP、WMS、MES等七大核心数字化平台，实现了从零部件入库到成品出库的全流程闭环管控。仪式现场，科大讯飞与龙芯中科正式达成战略合作。",
-      "url": "https://36kr.com/newsflashes/3743798461022208?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
       "title": "Gemini App",
       "url": "https://blog.google/products-and-platforms/products/gemini/",
-      "date": "2026-03-29T08:32:40.892Z",
+      "date": "2026-03-29T12:25:33.358Z",
       "summary": "",
       "category": "Products",
       "source": "Google Blog",
@@ -79,7 +79,7 @@
     {
       "title": "# Make the switch: Bring your AI memories and chat history to Gemini The Gemini app just made it easier to switch from another AI chat app, without starting from scratch.",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/switch-to-gemini-app/",
-      "date": "2026-03-29T08:32:40.892Z",
+      "date": "2026-03-29T12:25:33.358Z",
       "summary": "",
       "category": "Innovation & AI",
       "source": "Google Blog",
@@ -88,7 +88,7 @@
     {
       "title": "“No technology has me dreaming bigger than AI” Sundar Pichai gave remarks at the opening ceremony of the AI Impact Summit. Read a transcript of his speech.",
       "url": "https://blog.google/company-news/inside-google/message-ceo/sundar-pichai-ai-impact-summit-2026/",
-      "date": "2026-03-29T08:32:40.892Z",
+      "date": "2026-03-29T12:25:33.358Z",
       "summary": "",
       "category": "Company",
       "source": "Google Blog",
@@ -97,7 +97,7 @@
     {
       "title": "Google Cloud",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/",
-      "date": "2026-03-29T08:32:40.892Z",
+      "date": "2026-03-29T12:25:33.358Z",
       "summary": "",
       "category": "Innovation & AI",
       "source": "Google Blog",
@@ -106,11 +106,20 @@
     {
       "title": "The State of AI: A Look at What's Next",
       "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-03-29T08:32:33.149Z",
+      "date": "2026-03-29T12:25:24.328Z",
       "summary": "An in-depth analysis of the current AI landscape and future trends.",
       "category": "AI Analysis",
       "source": "Every.to",
       "source_name": "every"
+    },
+    {
+      "title": "Google TurboQuant AI 压缩算法大幅减少大模型内存使用",
+      "date": "Sun, 29 Mar 2026 11:05:52 GMT",
+      "summary": "Google 研究院发布了压缩算法 TurboQuant，能在大幅减少大模型内存占用的同时提高速度和维持精度。TurboQuant 旨在减小键值缓存的大小，被称为是储存重要信息减少再计算的“数字查找表（digital cheat sheet）”。大模型并不理解任何东西，它通过映射词元文本语义的向量去模拟对事物的理解。大模型的向量通常使用 XYZ 坐标进行编码，而实现 TurboQuant 压缩的系统将向量转换为笛卡尔坐标系的极坐标，向量被简化为两类信息：半径（核心数据强度）和方向（数据含义）。如果使用 XYZ 坐标编码向量，那么特定位置可以编码为“向东走 3 个街区，向北走 4 个街区”，采用笛卡尔坐标编码向量，那么同样的信息编码为“沿 37 度方向走 5 个街区” ，简化了空间节省了计算。Google 的早期测试显示，TurboQuant 在部分测试中实现了 8 倍的性能提升，内存占用减少到原来的六分之一，同时质量没有损失。实现 TurboQuant 算法将有助于降低 AI 模型的运行成本和内存占用，但也可能推动更复杂模型的出现，因此对降低内存价格可能没有什么效果。",
+      "url": "https://www.solidot.org/story?sid=83907",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
     },
     {
       "title": "奥地利计划禁止 14 岁以下儿童使用社媒",
@@ -120,6 +129,15 @@
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
+    },
+    {
+      "title": "How Startups Are Using AI to Disrupt Industries",
+      "url": "https://every.to/source-code/ai-startups",
+      "date": "2026-03-28T12:25:24.328Z",
+      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
+      "category": "Source Code",
+      "source": "Every.to",
+      "source_name": "every"
     },
     {
       "title": "太空中的精子会像失控宇航员那样翻滚",
@@ -149,24 +167,6 @@
       "source_name": "solidot"
     },
     {
-      "title": "How Startups Are Using AI to Disrupt Industries",
-      "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-03-28T08:32:33.149Z",
-      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
-      "category": "Source Code",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "金·斯坦利·罗宾森称殖民火星是毫无意义的",
-      "date": "Sat, 28 Mar 2026 05:32:46 GMT",
-      "summary": "美国科幻作家金·斯坦利·罗宾森（Kim Stanley Robinson）以火星殖民以及地球化改造的三部曲——《红火星》，《绿火星》以及《蓝火星》——著称，他的《红火星》将火星殖民之旅设定在 2026 年。罗宾森在 New Scientist 上发表文章回顾了他的《红火星》以及过去几十年对火星的更深入了解，他认为目前殖民火星是没有任何意义的。《红火星》开始创作的时间是 1989-1990 年，于 1992 年出版，35 年后罗宾森称，殖民火星比以前认为的要困难得多。火星漫游车在本世纪初发现火星表面土壤掺杂着浓度百分之一的高氯酸盐，高氯酸盐在浓度百万分之一时对人类就是有毒的，火星表面对人类剧毒无比。火星更轻的重力以及无阻挡太空辐射都会人体造成伤害。火星更适合短期的科考而不是长期的殖民。更重要的是人类需要先解决在地球上制造的问题之后去另外一颗星球才有意义。罗宾森表示他对于任何殖民火星的言论都嗤之以鼻，亿万富翁们关于殖民火星的豪言壮语都纯属幻想。",
-      "url": "https://www.solidot.org/story?sid=83902",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
       "title": "STADLER reshapes knowledge work at a 230-year-old company",
       "date": "Fri, 27 Mar 2026 22:00:00 GMT",
       "summary": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
@@ -178,7 +178,7 @@
     {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-03-27T08:32:33.149Z",
+      "date": "2026-03-27T12:25:24.328Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
@@ -187,9 +187,18 @@
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-03-26T08:32:33.149Z",
+      "date": "2026-03-26T12:25:24.328Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "AI Agents: The Next Evolution of Automation",
+      "url": "https://every.to/source-code/ai-agents",
+      "date": "2026-03-25T12:25:24.328Z",
+      "summary": "Understanding autonomous AI agents and their potential impact on software.",
+      "category": "Source Code",
       "source": "Every.to",
       "source_name": "every"
     },
@@ -203,15 +212,6 @@
       "source_name": "openai"
     },
     {
-      "title": "AI Agents: The Next Evolution of Automation",
-      "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-03-25T08:32:33.149Z",
-      "summary": "Understanding autonomous AI agents and their potential impact on software.",
-      "category": "Source Code",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
       "title": "Introducing the OpenAI Safety Bug Bounty program",
       "date": "Wed, 25 Mar 2026 00:00:00 GMT",
       "summary": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
@@ -219,6 +219,15 @@
       "category": "Safety",
       "source": "OpenAI News",
       "source_name": "openai"
+    },
+    {
+      "title": "The Economics of AI: Costs, Benefits, and ROI",
+      "url": "https://every.to/context-window/ai-economics",
+      "date": "2026-03-24T12:25:24.328Z",
+      "summary": "A deep dive into the financial aspects of implementing AI solutions.",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
     },
     {
       "title": "Helping developers build safer AI experiences for teens",
@@ -246,15 +255,6 @@
       "category": "Company",
       "source": "OpenAI News",
       "source_name": "openai"
-    },
-    {
-      "title": "The Economics of AI: Costs, Benefits, and ROI",
-      "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-03-24T08:32:33.149Z",
-      "summary": "A deep dive into the financial aspects of implementing AI solutions.",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
     }
   ]
 }
