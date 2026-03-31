@@ -1,56 +1,59 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-03-31T02:53:20.614Z",
+  "fetch_time": "2026-03-31T05:44:05.243Z",
   "articles": [
     {
-      "title": "BeSafe-Bench: Unveiling Behavioral Safety Risks of Situated Agents in Functional Environments",
-      "date": "Mon, 30 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.25747v1 Announce Type: new Abstract: The rapid evolution of Large Multimodal Models (LMMs) has enabled agents to perform complex digital and physical tasks, yet their deployment as autonomous decision-makers introduces substantial unintentional behavioral safety risks. However, the absence of a comprehensive safety benchmark remains a major bottleneck, as existing evaluations rely on low-fidelity environments, simulated APIs, or narrowly scoped tasks. To address this gap, we present B",
-      "url": "https://arxiv.org/abs/2603.25747",
+      "title": "Bitboard version of Tetris AI",
+      "date": "Tue, 31 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.26765v1 Announce Type: new Abstract: The efficiency of game engines and policy optimization algorithms is crucial for training reinforcement learning (RL) agents in complex sequential decision-making tasks, such as Tetris. Existing Tetris implementations suffer from low simulation speeds, suboptimal state evaluation, and inefficient training paradigms, limiting their utility for large-scale RL research. To address these limitations, this paper proposes a high-performance Tetris AI fra",
+      "url": "https://arxiv.org/abs/2603.26765",
       "category": "cs.AI"
     },
     {
-      "title": "AutoB2G: A Large Language Model-Driven Agentic Framework For Automated Building-Grid Co-Simulation",
-      "date": "Mon, 30 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.26005v1 Announce Type: new Abstract: The growing availability of building operational data motivates the use of reinforcement learning (RL), which can learn control policies directly from data and cope with the complexity and uncertainty of large-scale building clusters. However, most existing simulation environments prioritize building-side performance metrics and lack systematic evaluation of grid-level impacts, while their experimental workflows still rely heavily on manual configu",
-      "url": "https://arxiv.org/abs/2603.26005",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Semi-Automated Knowledge Engineering and Process Mapping for Total Airport Management",
-      "date": "Mon, 30 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.26076v1 Announce Type: new Abstract: Documentation of airport operations is inherently complex due to extensive technical terminology, rigorous regulations, proprietary regional information, and fragmented communication across multiple stakeholders. The resulting data silos and semantic inconsistencies present a significant impediment to the Total Airport Management (TAM) initiative. This paper presents a methodological framework for constructing a domain-grounded, machine-readable Kn",
-      "url": "https://arxiv.org/abs/2603.26076",
+      "title": "Multiverse: Language-Conditioned Multi-Game Level Blending via Shared Representation",
+      "date": "Tue, 31 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.26782v1 Announce Type: new Abstract: Text-to-level generation aims to translate natural language descriptions into structured game levels, enabling intuitive control over procedural content generation. While prior text-to-level generators are typically limited to a single game domain, extending language-conditioned generation to multiple games requires learning representations that capture structural relationships across domains. We propose Multiverse, a language-conditioned multi-gam",
+      "url": "https://arxiv.org/abs/2603.26782",
       "category": [
         "cs.AI",
-        "cs.CL",
-        "cs.IR"
+        "cs.LG"
       ]
     },
     {
-      "title": "GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval and Plug-and-Play Annotation",
-      "date": "Mon, 30 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.26266v1 Announce Type: new Abstract: Large vision-language models have endowed GUI agents with strong general capabilities for interface understanding and interaction. However, due to insufficient exposure to domain-specific software operation data during training, these agents exhibit significant domain bias - they lack familiarity with the specific operation workflows (planning) and UI element layouts (grounding) of particular applications, limiting their real-world task performance",
-      "url": "https://arxiv.org/abs/2603.26266",
+      "title": "Concerning Uncertainty -- A Systematic Survey of Uncertainty-Aware XAI",
+      "date": "Tue, 31 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.26838v1 Announce Type: new Abstract: This paper surveys uncertainty-aware explainable artificial intelligence (UAXAI), examining how uncertainty is incorporated into explanatory pipelines and how such methods are evaluated. Across the literature, three recurring approaches to uncertainty quantification emerge (Bayesian, Monte Carlo, and Conformal methods), alongside distinct strategies for integrating uncertainty into explanations: assessing trustworthiness, constraining models or exp",
+      "url": "https://arxiv.org/abs/2603.26838",
       "category": [
         "cs.AI",
-        "cs.CV"
+        "cs.LG"
       ]
     },
     {
-      "title": "AIRA_2: Overcoming Bottlenecks in AI Research Agents",
-      "date": "Mon, 30 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.26499v1 Announce Type: new Abstract: Existing research has identified three structural performance bottlenecks in AI research agents: (1) synchronous single-GPU execution constrains sample throughput, limiting the benefit of search; (2) a generalization gap where validation-based selection causes performance to degrade over extended search horizons; and (3) the limited capability of fixed, single-turn LLM operators imposes a ceiling on search performance. We introduce AIRA$_2$, which ",
-      "url": "https://arxiv.org/abs/2603.26499",
+      "title": "Neuro-Symbolic Learning for Predictive Process Monitoring via Two-Stage Logic Tensor Networks with Rule Pruning",
+      "date": "Tue, 31 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.26944v1 Announce Type: new Abstract: Predictive modeling on sequential event data is critical for fraud detection and healthcare monitoring. Existing data-driven approaches learn correlations from historical data but fail to incorporate domain-specific sequential constraints and logical rules governing event relationships, limiting accuracy and regulatory compliance. For example, healthcare procedures must follow specific sequences, and financial transactions must adhere to compliance",
+      "url": "https://arxiv.org/abs/2603.26944",
       "category": "cs.AI"
     },
     {
-      "title": "CADSmith: Multi-Agent CAD Generation with Programmatic Geometric Validation",
-      "date": "Mon, 30 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.26512v1 Announce Type: new Abstract: Existing methods for text-to-CAD generation either operate in a single pass with no geometric verification or rely on lossy visual feedback that cannot resolve dimensional errors. We present CADSmith, a multi-agent pipeline that generates CadQuery code from natural language. It then undergoes an iterative refinement process through two nested correction loops: an inner loop that resolves execution errors and an outer loop grounded in programmatic g",
-      "url": "https://arxiv.org/abs/2603.26512",
+      "title": "Compliance-Aware Predictive Process Monitoring: A Neuro-Symbolic Approach",
+      "date": "Tue, 31 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.26948v1 Announce Type: new Abstract: Existing approaches for predictive process monitoring are sub-symbolic, meaning that they learn correlations between descriptive features and a target feature fully based on data, e.g., predicting the surgical needs of a patient based on historical events and biometrics. However, such approaches fail to incorporate domain-specific process constraints (knowledge), e.g., surgery can only be planned if the patient was released more than a week ago, li",
+      "url": "https://arxiv.org/abs/2603.26948",
       "category": "cs.AI"
+    },
+    {
+      "title": "Transparency as Architecture: Structural Compliance Gaps in EU AI Act Article 50 II",
+      "date": "Tue, 31 Mar 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.26983v1 Announce Type: new Abstract: Art. 50 II of the EU Artificial Intelligence Act mandates dual transparency for AI-generated content: outputs must be labeled in both human-understandable and machine-readable form for automated verification. This requirement, entering into force in August 2026, collides with fundamental constraints of current generative AI systems. Using synthetic data generation and automated fact-checking as diagnostic use cases, we show that compliance cannot b",
+      "url": "https://arxiv.org/abs/2603.26983",
+      "category": [
+        "cs.AI",
+        "cs.CY",
+        "cs.LG"
+      ]
     }
   ],
   "status": "success",
