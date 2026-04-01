@@ -1,8 +1,29 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-04-01T05:54:38.220Z",
+  "fetch_time": "2026-04-01T08:55:06.504Z",
   "articles": [
+    {
+      "title": "俄罗斯加大力度打击 VPN",
+      "date": "Wed, 01 Apr 2026 08:08:27 GMT",
+      "summary": "俄罗斯数字部长 Maksut Shadayev 通过官方支持的消息应用 MAX 宣布政府将加大力度打击 VPN。有数以百万计的俄罗斯人通过 VPN 绕过封锁和审查。俄罗斯此前已经多次封锁移动互联网，干扰主要消息应用 WhatsApp 和 Telegram 的服务。Shadayev 称最新的任务是减少 VPN 使用。但封锁 VPN 就像猫捉老鼠的游戏，封锁一个用户会切换到另一个，俄罗斯年轻人每天都在更换 VPN。",
+      "url": "https://www.solidot.org/story?sid=83932",
+      "category": ""
+    },
+    {
+      "title": "一颗 Starlink 卫星在轨道上突然解体",
+      "date": "Wed, 01 Apr 2026 06:59:14 GMT",
+      "summary": "SpaceX 证实它的一颗 Starlink 卫星上周日失去联系。对于这颗卫星解体成数十块碎片 SpaceX 没有使用“爆炸”一词去形容。根据利用地面雷达网络跟踪近地轨道物体的 LeoLabs 公司的观察，编号为 34343 的 Starlink 卫星解体是因为“内部的高能源”而非太空碎片等导致的碰撞。卫星高度大约为 560 公里，因此其碎片会在数周内脱离轨道进入大气层烧毁。SpaceX Starlink 表示正在调查事故原因。LeoLabs 认为最新事件与 2025 年 12 月 17 日发生的 Starlink 卫星解体事件相似，后者也是内部高能源导致而非与其它太空物体发生碰撞。",
+      "url": "https://www.solidot.org/story?sid=83931",
+      "category": ""
+    },
+    {
+      "title": "科技公司 CEO 热衷以 AI 为借口大规模裁员",
+      "date": "Wed, 01 Apr 2026 06:43:57 GMT",
+      "summary": "今天的科技巨头在大规模裁员时越来越多的将 AI 作为借口。Google、亚马逊、Meta 等科技巨头，以及Pinterest 和 Atlassian 等中等规模的科技公司最近几周都宣布或警告即将裁员，称 AI 的进步让企业能以更少的人手完成更多的工作。科技投资者 Terrence Rohan 表示，以 AI 为借口听起来比成本压力或取悦股东要好得多，强调 AI 让 CEO 们看起来不像是为了开源节流而裁员的坏人。Rohan 认为将 AI 作为借口并不是完全没有道理。企业越来越多的在 AI 工具的帮助下写代码，AI 工具已经足够好，能用更少的人完成相同的工作，它对曾经的高薪职位如程序员和软件工程师构成了威胁。AI 导致裁员的另一个因素是科技巨头竞相向 AI 数据中心投资数千亿美元，CEO 们需要寻找方法缓解投资者对巨额投资的担忧，削减成本最终体现在削减员工薪水上面。",
+      "url": "https://www.solidot.org/story?sid=83930",
+      "category": ""
+    },
     {
       "title": "非洲研究显示气温超过 20 C 与男胎流产率上升相关",
       "date": "Tue, 31 Mar 2026 16:02:05 GMT",
@@ -22,27 +43,6 @@
       "date": "Tue, 31 Mar 2026 15:04:47 GMT",
       "summary": "大约 3500 年前，位于今天西班牙 Villena 的青铜时代定居点 Cabezo Redondo，一场大火将民居和作坊夷为平地，但坍塌房屋的残骸也意外保存了一台木结构织布机。织机配重以及由木材及植物纤维制成的部件均保存完好。该织布机是欧洲青铜时代“纺织革命”的一部分，其特征是纺织生产的技术进步和经济变革。Cabezo Redondo 定居点的定居时间是公元前 2100 年至公元前 1250 年，面积一公顷。民居依山而建，呈梯田状，有工作台、壁炉、筒仓和储藏容器。对动植物遗骸的分析表明，当地经济以集约化农业为主。",
       "url": "https://www.solidot.org/story?sid=83927",
-      "category": ""
-    },
-    {
-      "title": "Claude Code 源码泄漏",
-      "date": "Tue, 31 Mar 2026 14:20:49 GMT",
-      "summary": "Anthropic 公司开发的 AI 编程工具 Claude Code 在发布到 npm 上时不小心通过一个映射文件泄漏了未混淆的源代码，源代码被提取出来之后被上传到了 GitHub 等平台。用户发现， Claude Code 使用了正则表达式检测用户提示词中的负面情绪。使用正则表达式去检测情绪比调用大模型要快得多也能显著节省算力。",
-      "url": "https://www.solidot.org/story?sid=83926",
-      "category": ""
-    },
-    {
-      "title": "微软计划为 Windows 11 构建更多原生应用",
-      "date": "Tue, 31 Mar 2026 13:55:33 GMT",
-      "summary": "在内存价格飙升的时代，微软开始考虑降低应用的内存占用，计划为 Windows 11 构建更多原生应用而非资源消耗巨大的 Web 应用。从事应用商店和文件资源管理器相关工作的微软合作伙伴架构师（Partner Architect）Rudy Huyn 表示正组建一个团队开发原生 Windows 应用。微软最近推出的工具如 Clipchamp 和 Copilot 都是基于 Web 技术和 Progressive Web App 架构，容易开发但占用了更多资源。",
-      "url": "https://www.solidot.org/story?sid=83925",
-      "category": ""
-    },
-    {
-      "title": "AI 数据中心周围地区温度最高上升 9.1C",
-      "date": "Tue, 31 Mar 2026 10:09:28 GMT",
-      "summary": "剑桥大学的研究人员利用卫星数据测量了过去 20 年的地表温度，交叉对比 8400 多个 AI 数据中心的地理坐标。考虑到地表温度可能受到其它因素的影响，研究人员将重点放在远离人口密集区的数据中心之上。研究人员发现，AI 数据中心投入运营后几个月内，地表温度平均升高了 2C。最极端的情况下温度升幅高达 9.1C。升温影响不仅限于数据中心周围区域。研究团队发现，升温影响能覆盖数据中心 10 公里范围，在距离数据中心 7 公里处温度升幅仅降低 30%。研究人员利用人口数据估计逾 3.4 亿人居住在数据中心 10 公里范围内，意味着他们所处的环境比没有数据中心的地方温度更高。研究人员对结果表示惊讶，认为数据中心的环境影响将是一个大问题。",
-      "url": "https://www.solidot.org/story?sid=83924",
       "category": ""
     }
   ],
