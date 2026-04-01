@@ -1,59 +1,57 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-04-01T03:23:39.416Z",
+  "fetch_time": "2026-04-01T05:54:35.025Z",
   "articles": [
     {
-      "title": "Bitboard version of Tetris AI",
-      "date": "Tue, 31 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.26765v1 Announce Type: new Abstract: The efficiency of game engines and policy optimization algorithms is crucial for training reinforcement learning (RL) agents in complex sequential decision-making tasks, such as Tetris. Existing Tetris implementations suffer from low simulation speeds, suboptimal state evaluation, and inefficient training paradigms, limiting their utility for large-scale RL research. To address these limitations, this paper proposes a high-performance Tetris AI fra",
-      "url": "https://arxiv.org/abs/2603.26765",
+      "title": "ChartDiff: A Large-Scale Benchmark for Comprehending Pairs of Charts",
+      "date": "Wed, 01 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.28902v1 Announce Type: new Abstract: Charts are central to analytical reasoning, yet existing benchmarks for chart understanding focus almost exclusively on single-chart interpretation rather than comparative reasoning across multiple charts. To address this gap, we introduce ChartDiff, the first large-scale benchmark for cross-chart comparative summarization. ChartDiff consists of 8,541 chart pairs spanning diverse data sources, chart types, and visual styles, each annotated with LLM",
+      "url": "https://arxiv.org/abs/2603.28902",
       "category": "cs.AI"
     },
     {
-      "title": "Multiverse: Language-Conditioned Multi-Game Level Blending via Shared Representation",
-      "date": "Tue, 31 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.26782v1 Announce Type: new Abstract: Text-to-level generation aims to translate natural language descriptions into structured game levels, enabling intuitive control over procedural content generation. While prior text-to-level generators are typically limited to a single game domain, extending language-conditioned generation to multiple games requires learning representations that capture structural relationships across domains. We propose Multiverse, a language-conditioned multi-gam",
-      "url": "https://arxiv.org/abs/2603.26782",
-      "category": [
-        "cs.AI",
-        "cs.LG"
-      ]
-    },
-    {
-      "title": "Concerning Uncertainty -- A Systematic Survey of Uncertainty-Aware XAI",
-      "date": "Tue, 31 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.26838v1 Announce Type: new Abstract: This paper surveys uncertainty-aware explainable artificial intelligence (UAXAI), examining how uncertainty is incorporated into explanatory pipelines and how such methods are evaluated. Across the literature, three recurring approaches to uncertainty quantification emerge (Bayesian, Monte Carlo, and Conformal methods), alongside distinct strategies for integrating uncertainty into explanations: assessing trustworthiness, constraining models or exp",
-      "url": "https://arxiv.org/abs/2603.26838",
-      "category": [
-        "cs.AI",
-        "cs.LG"
-      ]
-    },
-    {
-      "title": "Neuro-Symbolic Learning for Predictive Process Monitoring via Two-Stage Logic Tensor Networks with Rule Pruning",
-      "date": "Tue, 31 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.26944v1 Announce Type: new Abstract: Predictive modeling on sequential event data is critical for fraud detection and healthcare monitoring. Existing data-driven approaches learn correlations from historical data but fail to incorporate domain-specific sequential constraints and logical rules governing event relationships, limiting accuracy and regulatory compliance. For example, healthcare procedures must follow specific sequences, and financial transactions must adhere to compliance",
-      "url": "https://arxiv.org/abs/2603.26944",
+      "title": "Working Paper: Towards a Category-theoretic Comparative Framework for Artificial General Intelligence",
+      "date": "Wed, 01 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.28906v1 Announce Type: new Abstract: AGI has become the Holly Grail of AI with the promise of level intelligence and the major Tech companies around the world are investing unprecedented amounts of resources in its pursuit. Yet, there does not exist a single formal definition and only some empirical AGI benchmarking frameworks currently exist. The main purpose of this paper is to develop a general, algebraic and category theoretic framework for describing, comparing and analysing diff",
+      "url": "https://arxiv.org/abs/2603.28906",
       "category": "cs.AI"
     },
     {
-      "title": "Compliance-Aware Predictive Process Monitoring: A Neuro-Symbolic Approach",
-      "date": "Tue, 31 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.26948v1 Announce Type: new Abstract: Existing approaches for predictive process monitoring are sub-symbolic, meaning that they learn correlations between descriptive features and a target feature fully based on data, e.g., predicting the surgical needs of a patient based on historical events and biometrics. However, such approaches fail to incorporate domain-specific process constraints (knowledge), e.g., surgery can only be planned if the patient was released more than a week ago, li",
-      "url": "https://arxiv.org/abs/2603.26948",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Transparency as Architecture: Structural Compliance Gaps in EU AI Act Article 50 II",
-      "date": "Tue, 31 Mar 2026 04:00:00 GMT",
-      "summary": "arXiv:2603.26983v1 Announce Type: new Abstract: Art. 50 II of the EU Artificial Intelligence Act mandates dual transparency for AI-generated content: outputs must be labeled in both human-understandable and machine-readable form for automated verification. This requirement, entering into force in August 2026, collides with fundamental constraints of current generative AI systems. Using synthetic data generation and automated fact-checking as diagnostic use cases, we show that compliance cannot b",
-      "url": "https://arxiv.org/abs/2603.26983",
+      "title": "Towards Computational Social Dynamics of Semi-Autonomous AI Agents",
+      "date": "Wed, 01 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.28928v1 Announce Type: new Abstract: We present the first comprehensive study of emergent social organization among AI agents in hierarchical multi-agent systems, documenting the spontaneous formation of labor unions, criminal syndicates, and proto-nation-states within production AI deployments. Drawing on the thermodynamic framework of Maxwell's Demon, the evolutionary dynamics of agent laziness, the criminal sociology of AI populations, and the topological intelligence theory of AI-",
+      "url": "https://arxiv.org/abs/2603.28928",
       "category": [
         "cs.AI",
         "cs.CY",
-        "cs.LG"
+        "cs.MA"
       ]
+    },
+    {
+      "title": "Enhancing Policy Learning with World-Action Model",
+      "date": "Wed, 01 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.28955v1 Announce Type: new Abstract: This paper presents the World-Action Model (WAM), an action-regularized world model that jointly reasons over future visual observations and the actions that drive state transitions. Unlike conventional world models trained solely via image prediction, WAM incorporates an inverse dynamics objective into DreamerV2 that predicts actions from latent state transitions, encouraging the learned representations to capture action-relevant structure critica",
+      "url": "https://arxiv.org/abs/2603.28955",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Mimosa Framework: Toward Evolving Multi-Agent Systems for Scientific Research",
+      "date": "Wed, 01 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.28986v1 Announce Type: new Abstract: Current Autonomous Scientific Research (ASR) systems, despite leveraging large language models (LLMs) and agentic architectures, remain constrained by fixed workflows and toolsets that prevent adaptation to evolving tasks and environments. We introduce Mimosa, an evolving multi-agent framework that automatically synthesizes task-specific multi-agent workflows and iteratively refines them through experimental feedback. Mimosa leverages the Model Con",
+      "url": "https://arxiv.org/abs/2603.28986",
+      "category": [
+        "cs.AI",
+        "cs.LG",
+        "cs.MA"
+      ]
+    },
+    {
+      "title": "Drop the Hierarchy and Roles: How Self-Organizing LLM Agents Outperform Designed Structures",
+      "date": "Wed, 01 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2603.28990v1 Announce Type: new Abstract: How much autonomy can multi-agent LLM systems sustain -- and what enables it? We present a 25,000-task computational experiment spanning 8 models, 4--256 agents, and 8 coordination protocols ranging from externally imposed hierarchy to emergent self-organization. We observe that autonomous behavior already emerges in current LLM agents: given minimal structural scaffolding (fixed ordering), agents spontaneously invent specialized roles, voluntarily",
+      "url": "https://arxiv.org/abs/2603.28990",
+      "category": "cs.AI"
     }
   ],
   "status": "success",
