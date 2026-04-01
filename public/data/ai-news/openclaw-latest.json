@@ -1,8 +1,28 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-03-31T12:44:05.194Z",
+  "fetch_time": "2026-04-01T03:23:52.323Z",
   "articles": [
+    {
+      "title": "openclaw 2026.3.31",
+      "date": "2026-03-31T20:54:44Z",
+      "summary": "### Breaking\n\n- Nodes/exec: remove the duplicated `nodes.run` shell wrapper from the CLI and agent `nodes` tool so node shell execution always goes through `exec host=node`, keeping node-specific capa...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.31",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.3.31",
+      "downloadCount": 2567
+    },
+    {
+      "title": "OpenClaw 2026.3.31-beta.1",
+      "date": "2026-03-31T19:47:04Z",
+      "summary": "\n### Breaking\n\n- Nodes/exec: remove the duplicated `nodes.run` shell wrapper from the CLI and agent `nodes` tool so node shell execution always goes through `exec host=node`, keeping node-specific cap...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.31-beta.1",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.3.31-beta.1",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.3.28",
       "date": "2026-03-29T01:34:30Z",
@@ -11,7 +31,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.3.28",
-      "downloadCount": 28672
+      "downloadCount": 32124
     },
     {
       "title": "OpenClaw 2026.3.28-beta.1",
@@ -21,7 +41,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.3.28-beta.1",
-      "downloadCount": 193
+      "downloadCount": 205
     },
     {
       "title": "openclaw 2026.3.24",
@@ -31,7 +51,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.3.24",
-      "downloadCount": 37957
+      "downloadCount": 38011
     },
     {
       "title": "openclaw 2026.3.24-beta.2",
@@ -42,26 +62,6 @@
       "author": "steipete",
       "tagName": "v2026.3.24-beta.2",
       "downloadCount": 297
-    },
-    {
-      "title": "openclaw 2026.3.24-beta.1",
-      "date": "2026-03-25T11:54:55Z",
-      "summary": "## 2026.3.24-beta.1\n\n### Breaking\n\n### Changes\n\n- Gateway/OpenAI compatibility: add `/v1/models` and `/v1/embeddings`, and forward explicit model overrides through `/v1/chat/completions` and `/v1/resp...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.24-beta.1",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.3.24-beta.1",
-      "downloadCount": 136
-    },
-    {
-      "title": "2026.3.23",
-      "date": "2026-03-23T23:15:50Z",
-      "summary": "### Breaking\n\n### Changes\n\n- ModelStudio/Qwen: add standard (pay-as-you-go) DashScope endpoints for China and global Qwen API keys alongside the existing Coding Plan endpoints, and relabel the provide...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.23",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.3.23",
-      "downloadCount": 6360
     }
   ],
   "status": "success",

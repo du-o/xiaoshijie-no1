@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-03-31T12:43:52.626Z",
+  "fetch_time": "2026-04-01T03:23:39.113Z",
   "articles": [
+    {
+      "title": "Accelerating the next phase of AI",
+      "date": "Tue, 31 Mar 2026 13:00:00 GMT",
+      "summary": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
+      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
+      "category": "Company"
+    },
     {
       "title": "Helping disaster response teams turn AI into action across Asia",
       "date": "Sun, 29 Mar 2026 22:15:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
       "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
       "category": "Safety"
-    },
-    {
-      "title": "Update on the OpenAI Foundation",
-      "date": "Tue, 24 Mar 2026 09:00:00 GMT",
-      "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
-      "url": "https://openai.com/index/update-on-the-openai-foundation",
-      "category": "Company"
     }
   ],
   "status": "success",
