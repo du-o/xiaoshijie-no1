@@ -1,8 +1,28 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-04-01T12:46:01.711Z",
+  "fetch_time": "2026-04-02T02:49:55.305Z",
   "articles": [
+    {
+      "title": "openclaw 2026.4.1",
+      "date": "2026-04-01T16:58:06Z",
+      "summary": "## 2026.4.1\n\n### Changes\n\n- Tasks/chat: add `/tasks` as a chat-native background task board for the current session, with recent task details and agent-local fallback counts when no linked tasks are v...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.1",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.4.1",
+      "downloadCount": 3999
+    },
+    {
+      "title": "OpenClaw 2026.4.1-beta.1",
+      "date": "2026-04-01T14:10:49Z",
+      "summary": "### Changes\n\n- Tasks/chat: add `/tasks` as a chat-native background task board for the current session, with recent task details and agent-local fallback counts when no linked tasks are visible. Relat...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.1-beta.1",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.4.1-beta.1",
+      "downloadCount": 147
+    },
     {
       "title": "openclaw 2026.3.31",
       "date": "2026-03-31T20:54:44Z",
@@ -11,7 +31,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.3.31",
-      "downloadCount": 8857
+      "downloadCount": 12490
     },
     {
       "title": "OpenClaw 2026.3.31-beta.1",
@@ -31,7 +51,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.3.28",
-      "downloadCount": 32301
+      "downloadCount": 32451
     },
     {
       "title": "OpenClaw 2026.3.28-beta.1",
@@ -41,27 +61,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.3.28-beta.1",
-      "downloadCount": 217
-    },
-    {
-      "title": "openclaw 2026.3.24",
-      "date": "2026-03-25T16:35:52Z",
-      "summary": "### Breaking\n\n### Changes\n\n- Gateway/OpenAI compatibility: add `/v1/models` and `/v1/embeddings`, and forward explicit model overrides through `/v1/chat/completions` and `/v1/responses` for broader cl...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.24",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.3.24",
-      "downloadCount": 38074
-    },
-    {
-      "title": "openclaw 2026.3.24-beta.2",
-      "date": "2026-03-25T14:11:48Z",
-      "summary": "### Fixes\n\n- Outbound media/local files: align outbound media access with the configured fs policy so host-local files and inbound-media paths keep sending when `workspaceOnly` is off, while strict wo...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.24-beta.2",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.3.24-beta.2",
-      "downloadCount": 301
+      "downloadCount": 224
     }
   ],
   "status": "success",
