@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-04-02T12:40:53.446Z",
+  "fetch_time": "2026-04-03T02:52:34.278Z",
   "articles": [
+    {
+      "title": "openclaw 2026.4.2",
+      "date": "2026-04-02T18:30:45Z",
+      "summary": "\n### Breaking\n\n- Plugins/xAI: move `x_search` settings from the legacy core `tools.web.x_search.*` path to the plugin-owned `plugins.entries.xai.config.xSearch.*` path, standardize `x_search` auth on ...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.2",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.4.2",
+      "downloadCount": 3022
+    },
     {
       "title": "openclaw 2026.4.1",
       "date": "2026-04-01T16:58:06Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.1",
-      "downloadCount": 10233
+      "downloadCount": 14080
     },
     {
       "title": "OpenClaw 2026.4.1-beta.1",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.1-beta.1",
-      "downloadCount": 179
+      "downloadCount": 196
     },
     {
       "title": "openclaw 2026.3.31",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.3.31",
-      "downloadCount": 12615
+      "downloadCount": 12682
     },
     {
       "title": "OpenClaw 2026.3.31-beta.1",
@@ -51,17 +61,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.3.28",
-      "downloadCount": 32578
-    },
-    {
-      "title": "OpenClaw 2026.3.28-beta.1",
-      "date": "2026-03-28T22:25:05Z",
-      "summary": "## 2026.3.28-beta.1\n\n### Breaking\n\n- Providers/Qwen: remove the deprecated `qwen-portal-auth` OAuth integration for `portal.qwen.ai`; migrate to Model Studio with `openclaw onboard --auth-choice model...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.28-beta.1",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.3.28-beta.1",
-      "downloadCount": 230
+      "downloadCount": 32679
     }
   ],
   "status": "success",
