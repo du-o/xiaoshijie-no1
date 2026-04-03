@@ -1,11 +1,11 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-04-03T02:52:20.831Z",
+  "fetch_time": "2026-04-03T05:41:32.886Z",
   "articles": [
     {
       "title": "How Emotion Shapes the Behavior of LLMs and Agents: A Mechanistic Study",
-      "date": "Thu, 02 Apr 2026 04:00:00 GMT",
+      "date": "Fri, 03 Apr 2026 04:00:00 GMT",
       "summary": "arXiv:2604.00005v1 Announce Type: new Abstract: Emotion plays an important role in human cognition and performance. Motivated by this, we investigate whether analogous emotional signals can shape the behavior of large language models (LLMs) and agents. Existing emotion-aware studies mainly treat emotion as a surface-level style factor or a perception target, overlooking its mechanistic role in task processing. To address this limitation, we propose E-STEER, an interpretable emotion steering fram",
       "url": "https://arxiv.org/abs/2604.00005",
       "category": [
@@ -15,7 +15,7 @@
     },
     {
       "title": "One Panel Does Not Fit All: Case-Adaptive Multi-Agent Deliberation for Clinical Prediction",
-      "date": "Thu, 02 Apr 2026 04:00:00 GMT",
+      "date": "Fri, 03 Apr 2026 04:00:00 GMT",
       "summary": "arXiv:2604.00085v1 Announce Type: new Abstract: Large language models applied to clinical prediction exhibit case-level heterogeneity: simple cases yield consistent outputs, while complex cases produce divergent predictions under minor prompt changes. Existing single-agent strategies sample from one role-conditioned distribution, and multi-agent frameworks use fixed roles with flat majority voting, discarding the diagnostic signal in disagreement. We propose CAMP (Case-Adaptive Multi-agent Panel",
       "url": "https://arxiv.org/abs/2604.00085",
       "category": [
@@ -26,7 +26,7 @@
     },
     {
       "title": "Open, Reliable, and Collective: A Community-Driven Framework for Tool-Using AI Agents",
-      "date": "Thu, 02 Apr 2026 04:00:00 GMT",
+      "date": "Fri, 03 Apr 2026 04:00:00 GMT",
       "summary": "arXiv:2604.00137v1 Announce Type: new Abstract: Tool-integrated LLMs can retrieve, compute, and take real-world actions via external tools, but reliability remains a key bottleneck. We argue that failures stem from both tool-use accuracy (how well an agent invokes a tool) and intrinsic tool accuracy (the tool's own correctness), while most prior work emphasizes the former. We introduce OpenTools, a community-driven toolbox that standardizes tool schemas, provides lightweight plug-and-play wrappe",
       "url": "https://arxiv.org/abs/2604.00137",
       "category": [
@@ -36,7 +36,7 @@
     },
     {
       "title": "A Safety-Aware Role-Orchestrated Multi-Agent LLM Framework for Behavioral Health Communication Simulation",
-      "date": "Thu, 02 Apr 2026 04:00:00 GMT",
+      "date": "Fri, 03 Apr 2026 04:00:00 GMT",
       "summary": "arXiv:2604.00249v1 Announce Type: new Abstract: Single-agent large language model (LLM) systems struggle to simultaneously support diverse conversational functions and maintain safety in behavioral health communication. We propose a safety-aware, role-orchestrated multi-agent LLM framework designed to simulate supportive behavioral health dialogue through coordinated, role-differentiated agents. Conversational responsibilities are decomposed across specialized agents, including empathy-focused, ",
       "url": "https://arxiv.org/abs/2604.00249",
       "category": [
@@ -46,14 +46,14 @@
     },
     {
       "title": "Human-in-the-Loop Control of Objective Drift in LLM-Assisted Computer Science Education",
-      "date": "Thu, 02 Apr 2026 04:00:00 GMT",
+      "date": "Fri, 03 Apr 2026 04:00:00 GMT",
       "summary": "arXiv:2604.00281v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly embedded in computer science education through AI-assisted programming tools, yet such workflows often exhibit objective drift, in which locally plausible outputs diverge from stated task specifications. Existing instructional responses frequently emphasize tool-specific prompting practices, limiting durability as AI platforms evolve. This paper adopts a human-centered stance, treating human-in-the-loop",
       "url": "https://arxiv.org/abs/2604.00281",
       "category": "cs.AI"
     },
     {
       "title": "Improvisational Games as a Benchmark for Social Intelligence of AI Agents: The Case of Connections",
-      "date": "Thu, 02 Apr 2026 04:00:00 GMT",
+      "date": "Fri, 03 Apr 2026 04:00:00 GMT",
       "summary": "arXiv:2604.00284v1 Announce Type: new Abstract: We formally introduce a improvisational wordplay game called Connections to explore reasoning capabilities of AI agents. Playing Connections combines skills in knowledge retrieval, summarization and awareness of cognitive states of other agents. We show how the game serves as a good benchmark for social intelligence abilities of language model based agents that go beyond the agents' own memory and deductive reasoning and also involve gauging the un",
       "url": "https://arxiv.org/abs/2604.00284",
       "category": [
