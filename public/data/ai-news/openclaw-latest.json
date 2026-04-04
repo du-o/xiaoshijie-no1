@@ -1,69 +1,8 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-04-03T12:33:43.141Z",
-  "articles": [
-    {
-      "title": "openclaw 2026.4.2",
-      "date": "2026-04-02T18:30:45Z",
-      "summary": "\n### Breaking\n\n- Plugins/xAI: move `x_search` settings from the legacy core `tools.web.x_search.*` path to the plugin-owned `plugins.entries.xai.config.xSearch.*` path, standardize `x_search` auth on ...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.2",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.4.2",
-      "downloadCount": 8906
-    },
-    {
-      "title": "openclaw 2026.4.1",
-      "date": "2026-04-01T16:58:06Z",
-      "summary": "## 2026.4.1\n\n### Changes\n\n- Tasks/chat: add `/tasks` as a chat-native background task board for the current session, with recent task details and agent-local fallback counts when no linked tasks are v...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.1",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.4.1",
-      "downloadCount": 14166
-    },
-    {
-      "title": "OpenClaw 2026.4.1-beta.1",
-      "date": "2026-04-01T14:10:49Z",
-      "summary": "### Changes\n\n- Tasks/chat: add `/tasks` as a chat-native background task board for the current session, with recent task details and agent-local fallback counts when no linked tasks are visible. Relat...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.1-beta.1",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.4.1-beta.1",
-      "downloadCount": 209
-    },
-    {
-      "title": "openclaw 2026.3.31",
-      "date": "2026-03-31T20:54:44Z",
-      "summary": "### Breaking\n\n- Nodes/exec: remove the duplicated `nodes.run` shell wrapper from the CLI and agent `nodes` tool so node shell execution always goes through `exec host=node`, keeping node-specific capa...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.31",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.3.31",
-      "downloadCount": 12737
-    },
-    {
-      "title": "OpenClaw 2026.3.31-beta.1",
-      "date": "2026-03-31T19:47:04Z",
-      "summary": "\n### Breaking\n\n- Nodes/exec: remove the duplicated `nodes.run` shell wrapper from the CLI and agent `nodes` tool so node shell execution always goes through `exec host=node`, keeping node-specific cap...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.31-beta.1",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.3.31-beta.1",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.3.28",
-      "date": "2026-03-29T01:34:30Z",
-      "summary": "\n### Breaking\n\n- Providers/Qwen: remove the deprecated `qwen-portal-auth` OAuth integration for `portal.qwen.ai`; migrate to Model Studio with `openclaw onboard --auth-choice modelstudio-api-key`. (#5...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.28",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.3.28",
-      "downloadCount": 32749
-    }
-  ],
-  "status": "success",
-  "error": null
+  "fetch_time": "2026-04-04T02:42:47.146Z",
+  "articles": [],
+  "status": "error",
+  "error": "GitHub API 请求失败: 403"
 }
