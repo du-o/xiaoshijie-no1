@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-04-05T12:27:33.963Z",
+  "fetch_time": "2026-04-06T03:21:58.036Z",
   "articles": [
+    {
+      "title": "openclaw 2026.4.5",
+      "date": "2026-04-06T03:04:54Z",
+      "summary": "### Breaking\n\n- Config: remove legacy public config aliases such as `talk.voiceId` / `talk.apiKey`, `agents.*.sandbox.perSession`, `browser.ssrfPolicy.allowPrivateNetwork`, `hooks.internal.handlers`, ...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.5",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.4.5",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.4.2",
       "date": "2026-04-02T18:30:45Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.2",
-      "downloadCount": 27085
+      "downloadCount": 31851
     },
     {
       "title": "openclaw 2026.4.1",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.1",
-      "downloadCount": 14393
+      "downloadCount": 14432
     },
     {
       "title": "OpenClaw 2026.4.1-beta.1",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.1-beta.1",
-      "downloadCount": 249
+      "downloadCount": 254
     },
     {
       "title": "openclaw 2026.3.31",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.3.31",
-      "downloadCount": 12852
+      "downloadCount": 12868
     },
     {
       "title": "OpenClaw 2026.3.31-beta.1",
@@ -52,16 +62,6 @@
       "author": "steipete",
       "tagName": "v2026.3.31-beta.1",
       "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.3.28",
-      "date": "2026-03-29T01:34:30Z",
-      "summary": "\n### Breaking\n\n- Providers/Qwen: remove the deprecated `qwen-portal-auth` OAuth integration for `portal.qwen.ai`; migrate to Model Studio with `openclaw onboard --auth-choice modelstudio-api-key`. (#5...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.28",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.3.28",
-      "downloadCount": 32939
     }
   ],
   "status": "success",

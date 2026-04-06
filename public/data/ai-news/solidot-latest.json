@@ -1,8 +1,29 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-04-05T12:27:23.946Z",
+  "fetch_time": "2026-04-06T03:21:47.216Z",
   "articles": [
+    {
+      "title": "认知投降导致 AI 用户放弃逻辑思维能力",
+      "date": "Sun, 05 Apr 2026 17:15:06 GMT",
+      "summary": "AI 工具的用户通常可分为两类：其一将 AI 视为功能强大但会犯错的服务，需要人类仔细监督和审查以发现其中的推理或事实错误；其二将 AI 视为无所不知——此类用户被称为是“认知投降派”。宾夕法尼亚大学沃顿商学院的研究人员对 1372 名参与者和逾 9500 次测试后发现，高达 73.2% 的情况下参与者愿意接受 AI 错误的推理，只有 19.7% 的情况下会推翻推理。研究人员表示这一结果“表明人很容易将 AI 生成的输出融入到决策过程中，且通常几乎没有任何抵触或怀疑”,“流畅、自信的输出会被视为有认知权威性，从而降低审查门槛，减弱了通常会促使人们进行深思熟虑的元认知信号”。他们发现，倾向于将 AI 视为权威的人更容易被 AI 提供的错误答案误导。",
+      "url": "https://www.solidot.org/story?sid=83967",
+      "category": ""
+    },
+    {
+      "title": "AWS 工程师报告 Linux 7.0 下 PostgreSQL 性能暴降一半",
+      "date": "Sun, 05 Apr 2026 16:33:40 GMT",
+      "summary": "亚马逊 AWS 工程师 Salvatore Dipietro 报告 Linux 7.0 下 PostgreSQL 的吞吐量和延迟性能出现了显著的下降。Linux 7.0 目前还在开发中，预计会在一两周内发布。测试显示，在基于 arm64 架构的 Graviton4 服务器上 PostgreSQL 的吞吐量仅为上个内核版本的 0.51 倍，原因是用户空间自旋锁导致花费的时间大幅增加。根本原因被认为是 Linux 7.0 新引入的对内核可用抢占模式的限制上。PostgreSQL 开发者要求在不同条件下重复进行更多测试。",
+      "url": "https://www.solidot.org/story?sid=83966",
+      "category": ""
+    },
+    {
+      "title": "Ubuntu 26.04 LTS 的最低内存需求提高到 6GB",
+      "date": "Sun, 05 Apr 2026 15:48:59 GMT",
+      "summary": "Canonical 即将于本月晚些时候正式释出的 Ubuntu 26.04 LTS 把最低内存需求提高到了 6GB。Ubuntu 14.04 LTS (Trusty Tahr)将最低内存需求设为 1GB，Ubuntu 18.04 LTS (Bionic Beaver)提高到 4GB，现在又一次提高了内存需求。相比下，微软将 Windows 11 的最低内存需求设为 4GB，当然这不过是微软的又一个谎言，没人真的会在只有 4GB 内存的计算机运行微软的最新操作系统，Windows 11 至少需要 8GB 内存。Canonical 并没有将 6GB 内存作为硬条件，用户仍然能在不到 6GB 内存的计算机上安装 Ubuntu 26.04。",
+      "url": "https://www.solidot.org/story?sid=83965",
+      "category": ""
+    },
     {
       "title": "蟒蛇之血含有无副作用的减肥化合物",
       "date": "Sat, 04 Apr 2026 16:04:20 GMT",
@@ -22,27 +43,6 @@
       "date": "Sat, 04 Apr 2026 10:28:00 GMT",
       "summary": "律师滥用 AI 生成虚假的不存在案例的情况屡禁不止，而法庭对相关律师的惩罚并没有起到威慑作用。2025 年此类事件的数量出现了激增。巴黎高等商学院 (HEC Paris) 研究员 Damien Charlotin 建立了一个全球数据库，跟踪律师对 AI 的滥用。他说最近一天内收到来自 10 个不同法院的 10 起此类案件。他至今记录到了逾 1200 起滥用 AI 生成虚构案例的事件，其中美国最多，高达 831 起，香港记录到了 2 起。Damien Charlotin 说，法庭最近也开始加大了惩罚力度，俄勒冈州一名律师因滥用 AI 被勒令支付 109,700 美元的罚款和诉讼费用。",
       "url": "https://www.solidot.org/story?sid=83961",
-      "category": ""
-    },
-    {
-      "title": "Gentoo GNU/Hurd 不是愚人节玩笑",
-      "date": "Sat, 04 Apr 2026 09:09:35 GMT",
-      "summary": "4 月 1 日愚人节，Gentoo Linux 项目宣布将把 GNU Hurd 作为其主要内核。这并非完全是愚人节玩笑，它真的发布了 Gentoo GNU/Hurd 移植版本。基于微内核架构的 GNU Hurd 至今有逾 35 历史，但 1.0 版本还未发布，最新版本是 2016 年的 v0.9。Gentoo 项目表示它的 GNU/Hurd 版本仍然处于实验阶段，建议想要尝试的用户通过 QEMU 模拟器运行，当然也可以挑战直接在硬件上运行。",
-      "url": "https://www.solidot.org/story?sid=83960",
-      "category": ""
-    },
-    {
-      "title": "微软更新服务条款声明 Copilot 仅供娱乐",
-      "date": "Fri, 03 Apr 2026 15:59:37 GMT",
-      "summary": "微软被发现最近更新了 Copilot 的服务条款，包含了一则免责声明：Copilot 仅供娱乐，会犯错，会没有如预期般的工作，不要依赖 Copilot 提供重要建议，使用 Copilot 风险自负。经常使用 AI 聊天机器人的人可能早就知道它提供的信息并不可靠，需要验证。但由于它们过于方便，偷懒的人类变得不那么愿意花时间验证其输出。微软的免责声明再次强调，AI 聊天机器人既不是伴侣，也不是可靠的建议来源。它们是容易出错的工具，可能前一秒大有裨益，下一秒就可能犯错。",
-      "url": "https://www.solidot.org/story?sid=83959",
-      "category": ""
-    },
-    {
-      "title": "可再生能源新增装机容量占全球新增装机容量的八成以上",
-      "date": "Fri, 03 Apr 2026 15:42:57 GMT",
-      "summary": "IRENA 最新报告显示，2025 年可再生能源新增装机容量占全球新增装机容量的 85.6%，其中太阳能新增装机容量占到了四分之三。可再生能源新增装机容量约 700 GW，太阳能就有 511 GW，太阳能总装机容量达到了 2.4 TW，比风能和水力发电高 1 TW 以上，但由于太阳能的特性，2024 年的数据显示太阳能的发电量低于风力发电：太阳能占全球总发电量的 7%，风能 8%，核能占 9%。2025 年的数据还没有公布，但根据其快速增长的装机容量太阳能的发电量可能已经超过风电成为仅次于水电的第二大无碳电力来源。",
-      "url": "https://www.solidot.org/story?sid=83958",
       "category": ""
     }
   ],
