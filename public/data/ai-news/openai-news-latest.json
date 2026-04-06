@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-04-06T09:01:21.767Z",
+  "fetch_time": "2026-04-06T12:40:02.766Z",
   "articles": [
+    {
+      "title": "Industrial policy for the Intelligence Age",
+      "date": "Mon, 06 Apr 2026 02:30:00 GMT",
+      "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
+      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+      "category": "Global Affairs"
+    },
     {
       "title": "OpenAI acquires TBPN",
       "date": "Thu, 02 Apr 2026 10:30:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
       "url": "https://openai.com/index/helping-disaster-response-teams-asia",
       "category": "Global Affairs"
-    },
-    {
-      "title": "STADLER reshapes knowledge work at a 230-year-old company",
-      "date": "Fri, 27 Mar 2026 22:00:00 GMT",
-      "summary": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
-      "url": "https://openai.com/index/stadler",
-      "category": "B2B Story"
     }
   ],
   "status": "success",
