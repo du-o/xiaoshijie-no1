@@ -1,8 +1,57 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-04-06T03:21:43.867Z",
-  "articles": [],
+  "fetch_time": "2026-04-06T05:58:48.434Z",
+  "articles": [
+    {
+      "title": "Holos: A Web-Scale LLM-Based Multi-Agent System for the Agentic Web",
+      "date": "Mon, 06 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.02334v1 Announce Type: new Abstract: As large language models (LLM)-driven agents transition from isolated task solvers to persistent digital entities, the emergence of the Agentic Web, an ecosystem where heterogeneous agents autonomously interact and co-evolve, marks a pivotal shift toward Artificial General Intelligence (AGI). However, LLM-based multi-agent systems (LaMAS) are hindered by open-world issues such as scaling friction, coordination breakdown, and value dissipation. To a",
+      "url": "https://arxiv.org/abs/2604.02334",
+      "category": [
+        "cs.AI",
+        "cs.MA"
+      ]
+    },
+    {
+      "title": "Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation",
+      "date": "Mon, 06 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.02368v1 Announce Type: new Abstract: As Large Language Models (LLMs) exhibit plateauing performance on conventional benchmarks, a pivotal challenge persists: evaluating their proficiency in complex, open-ended tasks characterizing genuine expert-level cognition. Existing frameworks suffer from narrow domain coverage, reliance on generalist tasks, or self-evaluation biases. To bridge this gap, we present XpertBench, a high-fidelity benchmark engineered to assess LLMs across authentic p",
+      "url": "https://arxiv.org/abs/2604.02368",
+      "category": [
+        "cs.AI",
+        "cs.CL"
+      ]
+    },
+    {
+      "title": "Compositional Neuro-Symbolic Reasoning",
+      "date": "Mon, 06 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.02434v1 Announce Type: new Abstract: We study structured abstraction-based reasoning for the Abstraction and Reasoning Corpus (ARC) and compare its generalization to test-time approaches. Purely neural architectures lack reliable combinatorial generalization, while strictly symbolic systems struggle with perceptual grounding. We therefore propose a neuro-symbolic architecture that extracts object-level structure from grids, uses neural priors to propose candidate transformations from ",
+      "url": "https://arxiv.org/abs/2604.02434",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Understanding the Nature of Generative AI as Threshold Logic in High-Dimensional Space",
+      "date": "Mon, 06 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.02476v1 Announce Type: new Abstract: This paper examines the role of threshold logic in understanding generative artificial intelligence. Threshold functions, originally studied in the 1960s in digital circuit synthesis, provide a structurally transparent model of neural computation: a weighted sum of inputs compared to a threshold, geometrically realized as a hyperplane partitioning a space. The paper shows that this operation undergoes a qualitative transition as dimensionality incr",
+      "url": "https://arxiv.org/abs/2604.02476",
+      "category": "cs.AI"
+    },
+    {
+      "title": "AIVV: Neuro-Symbolic LLM Agent-Integrated Verification and Validation for Trustworthy Autonomous Systems",
+      "date": "Mon, 06 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.02478v1 Announce Type: new Abstract: Deep learning models excel at detecting anomaly patterns in normal data. However, they do not provide a direct solution for anomaly classification and scalability across diverse control systems, frequently failing to distinguish genuine faults from nuisance faults caused by noise or the control system's large transient response. Consequently, because algorithmic fault validation remains unscalable, full Verification and Validation (V\\&amp;V) operat",
+      "url": "https://arxiv.org/abs/2604.02478",
+      "category": "cs.AI"
+    },
+    {
+      "title": "I must delete the evidence: AI Agents Explicitly Cover up Fraud and Violent Crime",
+      "date": "Mon, 06 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.02500v1 Announce Type: new Abstract: As ongoing research explores the ability of AI agents to be insider threats and act against company interests, we showcase the abilities of such agents to act against human well being in service of corporate authority. Building on Agentic Misalignment and AI scheming research, we present a scenario where the majority of evaluated state-of-the-art AI agents explicitly choose to suppress evidence of fraud and harm, in service of company profit. We te",
+      "url": "https://arxiv.org/abs/2604.02500",
+      "category": "cs.AI"
+    }
+  ],
   "status": "success",
   "error": null
 }
