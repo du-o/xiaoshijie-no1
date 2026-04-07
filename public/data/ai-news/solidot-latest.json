@@ -1,8 +1,29 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-04-07T08:53:36.893Z",
+  "fetch_time": "2026-04-07T12:48:45.539Z",
   "articles": [
+    {
+      "title": "TDF 基金会称它取消 Collabora 员工的会员资格是为了遵守非营利组织法",
+      "date": "Tue, 07 Apr 2026 11:20:32 GMT",
+      "summary": "The Document Foundation（TDF）再次通过官方博客回应了它与主要商业合作伙伴 Collabora 之间的分歧。TDF 称过去几年它犯下了多项违反非营利组织法的错误：仅允许生态系统内的公司免费使用 LibreOffice 品牌；将 LibreOffice 的开发合同——新功能开发、修 bug 等——授予在基金会董事会中拥有代表，积极参与采购的企业。基金会法律顾问指出这些违反法律的错误之后，从中受益的企业试图维持现状而不是解决问题。为避免失去非营利组织地位以及由此带来的不可预见的后果，TDF 基金会采取了措施，取消 Collabora 员工的会员资格、冻结招标以及引入开发采购政策，并制定了规则降低未来再次出现类似问题的风险。",
+      "url": "https://www.solidot.org/story?sid=83978",
+      "category": ""
+    },
+    {
+      "title": "Linux 准备移除对 i486 CPU 的支持 ",
+      "date": "Tue, 07 Apr 2026 09:48:15 GMT",
+      "summary": "Linux 准备移除对 i486 CPU 的支持，名为“x86/cpu: Remove M486/M486SX/ELAN support”的补丁预计将合并到 Linux 7.1 中。英特尔是在 1989 年 4 月推出了 25MHz i486 CPU，33MHz i486 在 1990 年 5 月发布，50MHz 在 1991 年 6 月推出。英特尔对 i486 的生产一直持续到 2007 年。i486 的继任者是 1993 年推出的奔腾 CPU。i486 也是 AMD 的最后一款英特尔处理器克隆产品。Linux kernel 过去几年已经多次考虑移除对 i486 的支持。Linux 作者 Linus Torvalds 最近再次表示不应该再浪费精力在 i486 的支持上。",
+      "url": "https://www.solidot.org/story?sid=83977",
+      "category": ""
+    },
+    {
+      "title": "Sam Altman 能被信任吗？",
+      "date": "Tue, 07 Apr 2026 09:15:34 GMT",
+      "summary": "《纽约客》发表了一篇长文，从 OpenAI 董事会在 2023 年秋季发起的未遂“政变”谈起，使用了未完整公开的内部备忘录，详述了 OpenAI 受争议 CEO Sam Altman 过去十几年的经历，提出了一个问题：如果今天的大模型能通向 AGI（通用人工智能），那么 OpenAI 及其 CEO 有可能控制人类的未来，但 Sam 能被人信任吗？文章援引了他在 Y Combinator 第一批创业营的同学、2013 年自杀的 Aaron Swartz 的评价，“Sam 永远不可被信任，他是个反社会人格者。什么都做得出来。”微软在 2023 年的未遂“政变”中支持了 Sam，如今双方关系紧张， 微软高管认为他可能会作为一个骗子留在人们的记忆里。",
+      "url": "https://www.solidot.org/story?sid=83976",
+      "category": ""
+    },
     {
       "title": "日本越来越多的家庭没有电视",
       "date": "Tue, 07 Apr 2026 07:45:53 GMT",
@@ -22,27 +43,6 @@
       "date": "Tue, 07 Apr 2026 06:29:31 GMT",
       "summary": "NASA Artemis II 于 4 月 6 日 12:56 p.m. CDT 创下了人类太空飞行最遥远纪录。Artemis II 正在执行载人绕月任务，共持续十天，于 4 月 1 日发射，目前整个任务还剩下四天。Artemis II 的 Orion 飞船飞行了 248,655 英里，超过了 1970 年阿波罗 13 号任务创下的人类太空飞行最远距离纪录。Orion 飞船最远将达到 252,756 英里，之后返回地球，预计 4 月 10 日 8:07 p.m. EDT 溅落在圣地亚哥海岸附近。",
       "url": "https://www.solidot.org/story?sid=83972",
-      "category": ""
-    },
-    {
-      "title": "欧盟在一次供应链攻击中被盗走 92 GB 压缩数据 ",
-      "date": "Tue, 07 Apr 2026 06:06:05 GMT",
-      "summary": "黑客组织 TeamPCP 利用 Trivy 的 GitHub 库在二月底被入侵之后凭证轮换不完整的漏洞推送了恶意代码。Trivy 是广泛使用的开源漏洞扫描器。欧盟委员会的自动化安全流程下载了含有恶意代码的 Trivy 更新，恶意代码窃取了 AWS API 密钥，攻击者随后访问了欧盟委员会在 AWS 的云账号，窃取了 92 GB 的压缩数据。这次攻击始于 3 月 19 日，安全团队直到 3 月 24 日才检测到异常活动。另一个黑客团队 ShinyHunters 公开了部分窃取的数据。一个网络犯罪团队负责攻击，另一个团队负责泄露，凸显了网络犯罪活动的专业分工程度在提高。公开的数据集在解压后大小为 340GB，包含了数万电邮和个人信息。",
-      "url": "https://www.solidot.org/story?sid=83971",
-      "category": ""
-    },
-    {
-      "title": "德国公开俄罗斯勒索软件组织 REvil 头目的身份",
-      "date": "Mon, 06 Apr 2026 15:30:33 GMT",
-      "summary": "德国公开了曾在早期运营俄罗斯勒索软件组织 GandCrab 和 REvil 的头目 UNKN 的身份。31 岁的 Daniil Maksimovich Shchukin 于 2019-2021 年间协助在德国实施了至少 130 起计算机破坏和勒索行动。德国称，Shchukin 以及另一名俄罗斯人——43 岁 Anatoly Sergeevitsch Kravchuk——一起勒索了近 200 万欧元，造成经济损失逾 3500 万欧元。德国联邦刑事警察局（BKA）称他领导的 GandCrab 和 REvil 首创了双重勒索——先向受害者收取赎金提供解锁的密钥，然后再收取一笔费用换取不公开被盗数据的承诺。GandCrab 在 2019 年成功勒索逾 20 亿美元后宣布解散，但随后就以 REvil 的名字再次亮相。",
-      "url": "https://www.solidot.org/story?sid=83970",
-      "category": ""
-    },
-    {
-      "title": "Chrome 148 将延迟加载视频和音频以改进性能",
-      "date": "Mon, 06 Apr 2026 14:22:34 GMT",
-      "summary": "Chrome 和 Firefox 等浏览器都支持延迟加载。延迟加载又名懒加载，顾名思义，为了加快页面加载速度而推迟加载特定对象，这些对象直到要使用时才会开始加载，如 Chrome 从 2019 年起就延迟加载图像和 iframe。现在它正在 Chrome 148 上测试延迟加载视频和音频以改进浏览器性能。今天很多网站尤其是新闻网站都会在页面中嵌入视频和音频，影响了页面加载速度。",
-      "url": "https://www.solidot.org/story?sid=83969",
       "category": ""
     }
   ],
