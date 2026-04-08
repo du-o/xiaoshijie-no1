@@ -1,60 +1,53 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-04-08T02:56:12.356Z",
+  "fetch_time": "2026-04-08T05:46:42.218Z",
   "articles": [
     {
-      "title": "IC3-Evolve: Proof-/Witness-Gated Offline LLM-Driven Heuristic Evolution for IC3 Hardware Model Checking",
-      "date": "Tue, 07 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.03232v1 Announce Type: new Abstract: IC3, also known as property-directed reachability (PDR), is a commonly-used algorithm for hardware safety model checking. It checks if a state transition system complies with a given safety property. IC3 either returns UNSAFE (indicating property violation) with a counterexample trace, or SAFE with a checkable inductive invariant as the proof to safety. In practice, the performance of IC3 is dominated by a large web of interacting heuristics and im",
-      "url": "https://arxiv.org/abs/2604.03232",
+      "title": "Pramana: Fine-Tuning Large Language Models for Epistemic Reasoning through Navya-Nyaya",
+      "date": "Wed, 08 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.04937v1 Announce Type: new Abstract: Large language models produce fluent text but struggle with systematic reasoning, often hallucinating confident but unfounded claims. When Apple researchers added irrelevant context to mathematical problems, LLM performance degraded by 65% Apple Machine Learning Research, exposing brittle pattern-matching beneath apparent reasoning. This epistemic gap, the inability to ground claims in traceable evidence, limits AI reliability in domains requiring ",
+      "url": "https://arxiv.org/abs/2604.04937",
       "category": "cs.AI"
     },
     {
-      "title": "Structural Segmentation of the Minimum Set Cover Problem: Exploiting Universe Decomposability for Metaheuristic Optimization",
-      "date": "Tue, 07 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.03234v1 Announce Type: new Abstract: The Minimum Set Cover Problem (MSCP) is a classical NP-hard combinatorial optimization problem with numerous applications in science and engineering. Although a wide range of exact, approximate, and metaheuristic approaches have been proposed, most methods implicitly treat MSCP instances as monolithic, overlooking potential intrinsic structural properties of the universe. In this work, we investigate the concept of \\emph{universe segmentability} in",
-      "url": "https://arxiv.org/abs/2604.03234",
-      "category": [
-        "cs.AI",
-        "math.OC"
-      ]
-    },
-    {
-      "title": "To Throw a Stone with Six Birds: On Agents and Agenthood",
-      "date": "Tue, 07 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.03239v1 Announce Type: new Abstract: Six Birds Theory (SBT) treats macroscopic objects as induced closures rather than primitives. Empirical discussions of agency often conflate persistence (being an object) with control (making a counterfactual difference), which makes agency claims difficult to test and easy to spoof. We give a type-correct account of agency within SBT: a theory induces a layer with an explicit interface and ledgered constraints; an agent is a maintained theory obje",
-      "url": "https://arxiv.org/abs/2604.03239",
+      "title": "Operational Noncommutativity in Sequential Metacognitive Judgments",
+      "date": "Wed, 08 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.04938v1 Announce Type: new Abstract: Metacognition, understood as the monitoring and regulation of one's own cognitive processes, is inherently sequential: an agent evaluates an internal state, updates it, and may then re-evaluate under modified criteria. Order effects in cognition are well documented, yet it remains unclear whether such effects reflect classical state changes or reveal a deeper structural non-commutativity. We develop an operational framework that makes this distinct",
+      "url": "https://arxiv.org/abs/2604.04938",
       "category": "cs.AI"
     },
     {
-      "title": "Position: Science of AI Evaluation Requires Item-level Benchmark Data",
-      "date": "Tue, 07 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.03244v1 Announce Type: new Abstract: AI evaluations have become the primary evidence for deploying generative AI systems across high-stakes domains. However, current evaluation paradigms often exhibit systemic validity failures. These issues, ranging from unjustified design choices to misaligned metrics, remain intractable without a principled framework for gathering validity evidence and conducting granular diagnostic analysis. In this position paper, we argue that item-level AI benc",
-      "url": "https://arxiv.org/abs/2604.03244",
-      "category": [
-        "cs.AI",
-        "cs.CY",
-        "cs.DB"
-      ]
-    },
-    {
-      "title": "Toward Full Autonomous Laboratory Instrumentation Control with Large Language Models",
-      "date": "Tue, 07 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.03286v1 Announce Type: new Abstract: The control of complex laboratory instrumentation often requires significant programming expertise, creating a barrier for researchers lacking computational skills. This work explores the potential of large language models (LLMs), such as ChatGPT, and LLM-based artificial intelligence (AI) agents to enable efficient programming and automation of scientific equipment. Through a case study involving the implementation of a setup that can be used as a",
-      "url": "https://arxiv.org/abs/2604.03286",
-      "category": [
-        "cs.AI",
-        "cond-mat.mtrl-sci",
-        "cs.HC"
-      ]
-    },
-    {
-      "title": "Evaluating Artificial Intelligence Through a Christian Understanding of Human Flourishing",
-      "date": "Tue, 07 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.03356v1 Announce Type: new Abstract: Artificial intelligence (AI) alignment is fundamentally a formation problem, not only a safety problem. As Large Language Models (LLMs) increasingly mediate moral deliberation and spiritual inquiry, they do more than provide information; they function as instruments of digital catechesis, actively shaping and ordering human understanding, decision-making, and moral reflection. To make this formative influence visible and measurable, we introduce th",
-      "url": "https://arxiv.org/abs/2604.03356",
+      "title": "Proximity Measure of Information Object Features for Solving the Problem of Their Identification in Information Systems",
+      "date": "Wed, 08 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.04939v1 Announce Type: new Abstract: The paper considers a new quantitative-qualitative proximity measure for the features of information objects, where data enters a common information resource from several sources independently. The goal is to determine the possibility of their relation to the same physical object (observation object). The proposed measure accounts for the possibility of differences in individual feature values - both quantitative and qualitative - caused by existin",
+      "url": "https://arxiv.org/abs/2604.04939",
       "category": "cs.AI"
+    },
+    {
+      "title": "ReVEL: Multi-Turn Reflective LLM-Guided Heuristic Evolution via Structured Performance Feedback",
+      "date": "Wed, 08 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.04940v1 Announce Type: new Abstract: Designing effective heuristics for NP-hard combinatorial optimization problems remains a challenging and expertise-intensive task. Existing applications of large language models (LLMs) primarily rely on one-shot code synthesis, yielding brittle heuristics that underutilize the models' capacity for iterative reasoning. We propose ReVEL: Multi-Turn Reflective LLM-Guided Heuristic Evolution via Structured Performance Feedback, a hybrid framework that ",
+      "url": "https://arxiv.org/abs/2604.04940",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Algebraic Structure Discovery for Real World Combinatorial Optimisation Problems: A General Framework from Abstract Algebra to Quotient Space Learning",
+      "date": "Wed, 08 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.04941v1 Announce Type: new Abstract: Many combinatorial optimisation problems hide algebraic structures that, once exposed, shrink the search space and improve the chance of finding the global optimal solution. We present a general framework that (i) identifies algebraic structure, (ii) formalises operations, (iii) constructs quotient spaces that collapse redundant representations, and (iv) optimises directly over these reduced spaces. Across a broad family of rule-combination tasks (",
+      "url": "https://arxiv.org/abs/2604.04941",
+      "category": "cs.AI"
+    },
+    {
+      "title": "PaperOrchestra: A Multi-Agent Framework for Automated AI Research Paper Writing",
+      "date": "Wed, 08 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.05018v1 Announce Type: new Abstract: Synthesizing unstructured research materials into manuscripts is an essential yet under-explored challenge in AI-driven scientific discovery. Existing autonomous writers are rigidly coupled to specific experimental pipelines, and produce superficial literature reviews. We introduce PaperOrchestra, a multi-agent framework for automated AI research paper writing. It flexibly transforms unconstrained pre-writing materials into submission-ready LaTeX m",
+      "url": "https://arxiv.org/abs/2604.05018",
+      "category": [
+        "cs.AI",
+        "cs.LG",
+        "cs.MA"
+      ]
     }
   ],
   "status": "success",
