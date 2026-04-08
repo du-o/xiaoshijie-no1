@@ -1,8 +1,36 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-04-08T08:53:05.387Z",
+  "fetch_time": "2026-04-08T12:47:40.671Z",
   "articles": [
+    {
+      "title": "Cloudflare 计划到 2029 年全面实现后量子加密",
+      "date": "Wed, 08 Apr 2026 09:50:54 GMT",
+      "summary": "Cloudflare 宣布它计划加快速度提前到 2029 年全面实现后量子加密，原因是最近的两项研究显示破解现有加密算法所需的量子比特规模比预期的要少得多。IBM Quantum Safe CTO 认为最快到 2029 年量子计算机就能对高价值目标进行破解（即所谓的 moonshot attacks）。Cloudflare 称，它在 2014 年开始免费提供通用 SSL 证书，2019 年开始准备迁移到后量子加密，2022 年为所有网站和 API 启用了后量子加密，目前逾 65% 的 Cloudflare 用户流量已使用后量子加密。",
+      "url": "https://www.solidot.org/story?sid=83988",
+      "category": ""
+    },
+    {
+      "title": "阿根廷总统卷入加密货币骗局",
+      "date": "Wed, 08 Apr 2026 09:22:58 GMT",
+      "summary": "阿根廷总统 Javier Milei 去年帮助推广了名为 $Libra 的加密货币，该加密货币的价格在短暂飙升之后又迅速暴跌，给投资者造成了数百万美元的损失，并引发了阿根廷检方的调查。Milei 坚称他与该加密货币没有任何关联，只是帮个忙宣传下。但根据电话纪录，2025 年 Milei 通过其 X 账号宣传 $Libra 的当晚，他与该加密货币背后的一位企业家有过 7 次通话。通话内容未知。新披露的信息还显示，Milei 在担任国会议员期间，曾从其中一位企业家定期收款。",
+      "url": "https://www.solidot.org/story?sid=83987",
+      "category": ""
+    },
+    {
+      "title": "天文学家发现已知最原始的恒星",
+      "date": "Wed, 08 Apr 2026 08:13:14 GMT",
+      "summary": "学界普遍认为，宇宙大爆炸约数亿年后第一代恒星应运而生。这些初代恒星在剧烈的核聚变中淬炼出重元素，随后诞生的第二代恒星，便孕育于这些富含新元素的残骸之中。天文学界将宇宙中所有重于氦的元素统称为“金属”。因此，恒星的重元素比例（即金属丰度）便成了推断其诞生年代的天然标尺。金属含量极低的恒星，被称为“原始恒星”或“贫金属星”。SDSS J0715-7334 归属第二代恒星谱系，为一颗红巨星。麦哲伦望远镜的光谱与化学分析表明，其金属含量不足太阳的 0.005%，总金属丰度低至约 7.8 × 10−7 ，仅为前纪录保持者的一半，更是已知最贫铁恒星的 1/40，刷新了迄今观测纪录。SDSS J0715-7334 不仅铁含量极低，碳元素亦异常匮乏，有别于通常“贫铁富碳”的同类恒星。借助 ESA“盖亚”探测器的数据，团队追溯了这颗恒星的轨迹。它最初诞生于大麦哲伦星云附近，现“定居”银河系，距地球约 8 万光年。",
+      "url": "https://www.solidot.org/story?sid=83986",
+      "category": ""
+    },
+    {
+      "title": "苹果和联想的笔记本电脑最难维修",
+      "date": "Wed, 08 Apr 2026 07:49:30 GMT",
+      "summary": "消费者倡导组织 Public Interest Research Group (PIRG) Education Fund 发表了报告《Failing the Fix (2026): Grading laptop and cell phone companies on the fixability of their products》，评估了笔记本电脑和智能手机的可维修评分。结果显示，苹果的笔记本电脑可维修评分最差为 C-，智能手机为 D-。PIRG 采用了法国的维修指数，包括维修文档的可获得性，零配件的可获得性，零配件价格的可负担性。此外还考虑是否是反对维修权立法的行业组织成员——如果是就扣分，如果支持维修权则可以加分。报告显示，笔记本电脑的可维修评分最高是华硕（B+），其次是宏碁(B)、惠普（B-）、戴尔（B-）、三星（B-）、微软（B-）和联想（C）；智能手机可维修评分最高是摩托罗拉（B+），其次是 Google（C-）和三星（D）。",
+      "url": "https://www.solidot.org/story?sid=83985",
+      "category": ""
+    },
     {
       "title": "非激素男性避孕药研究取得突破",
       "date": "Wed, 08 Apr 2026 06:58:46 GMT",
@@ -15,34 +43,6 @@
       "date": "Wed, 08 Apr 2026 06:18:02 GMT",
       "summary": "纽约时报的测试显示，Google 搜索的 AI 概括功能 AI Overviews 每 10 个答案有一个是错误的，这听起来还不错，但考虑到 Google 服务每天的搜索量，这意味着每分钟就有成千上万的错误信息传播出去。纽约时报和 Oumi 合作利用 AI 工具通过 SimpleQA 评估 AI Overviews 答案的准确性。Oumi 从去年开始执行测试，当时 Google 最好的模型还是 Gemini 2.5，当时 AI Overviews 的准确性是 85%。当模型升级到 Gemini 3 后，AI Overviews 的准确性提高到 91%。AI Overviews 给出答案时会列出引用来源，当它出错时，其答案经常会与引用来源的信息互相矛盾。",
       "url": "https://www.solidot.org/story?sid=83983",
-      "category": ""
-    },
-    {
-      "title": "Chrome 支持垂直标签",
-      "date": "Wed, 08 Apr 2026 05:26:19 GMT",
-      "summary": "习惯于顶部水平标签的用户可能不知道垂直标签在标签管理和组织上有多么的高效，用过之后几乎没有人会再回到水平标签。主流浏览器如 Firefox 和 Microsoft Edge 都官方支持垂直标签，现在市场份额最高的浏览器 Google Chrome 也正式宣布支持垂直标签。Google 称，启用垂直标签十分简单，只需要在一个窗口点击右键，选择“Show Tabs Verticall（显示垂直标签）”。除此之外，Google Chrome 还推出新的沉浸式阅读模式 Reading Mode，减少广告等带来的干扰，让用户能专注于阅读文本。",
-      "url": "https://www.solidot.org/story?sid=83982",
-      "category": ""
-    },
-    {
-      "title": "日本科学家演示能承受核反应堆六个月强辐射的 Wi-Fi 接收器",
-      "date": "Tue, 07 Apr 2026 16:23:56 GMT",
-      "summary": "日本科学家 Yasuto Narukiyo 在 ISSCC 上演示了能承受核反应堆六个月强辐射的 Wi-Fi 接收器。Wi-Fi 接收器能承受 500 kilograys，是太空电子设备通常三年承受 100-300 grays 辐射剂量的千倍以上。Narukiyo 称，2011 年福岛核事故后工程师使用机器人勘察和清理核电站。这些机器人多需要 LAN 线缆，而线缆很容易缠绕在一起。他的团队的目标是开发一种用于在这种恶劣环境下控制机器人的无线系统。即使不是如此极端的环境，核电站寿命到期也需要清理，而很多关闭的核电站至今未完成清理工作，未来二十年还有 200 座反应堆退役。Narukiyo 的团队使用了硅 MOSFET 晶体管，减少晶体管数量同时改变其形状，并加宽了栅极。",
-      "url": "https://www.solidot.org/story?sid=83981",
-      "category": ""
-    },
-    {
-      "title": "创纪录风能和太阳能发电量让英国避免了 10 亿英镑天然气进口",
-      "date": "Tue, 07 Apr 2026 15:51:33 GMT",
-      "summary": "由于风能和太阳能发电量创新高，英国在 2026 年 3 月免于进口价值 10 亿英镑的天然气。3 月的风能和太阳能发电总量达到 11TWh，合计增长 28%，英国因此避免了进口 21 TWh 的天然气，按照目前的价格相当于 10 亿英镑。相比 2022 年俄罗斯入侵乌克兰导致 3 月油气价格高涨，中东战事后的天然气价格对英国电价的影响降低了约 25%。",
-      "url": "https://www.solidot.org/story?sid=83980",
-      "category": ""
-    },
-    {
-      "title": "流行 NPM 软件包维护者成为 AI 深度伪造攻击目标",
-      "date": "Tue, 07 Apr 2026 15:31:32 GMT",
-      "summary": "多位流行 NPM 软件包维护者成为 AI 深度伪造攻击目标，他们遭遇了相似的社会工程攻击。axios 维护者 Jason Saayman 称，疑似 APT 组织 UNC1069 的黑客冒充一家公司的创始人联系他，他们不仅克隆了创始人的外表，还克隆了公司本身。他们邀请他加入一个真实的 Slack 工作区（workspace），还创建了频道分享 LinkedIn 帖子，非常逼真。然后黑客邀请参加一个 Microsoft Teams 虚拟会议，会议提示其系统存在问题。他以为这与 Teams 有关，于是安装了缺失组件，结果却植入了远程访问木马。他维护的 axios 周下载量 1 亿，被云服务和编码环境广泛使用，黑客窃取了维护者的凭证释出了 axios 的恶意版本。这不是一起孤立事件，多位周下载量上亿的 NPM 软件包维护者遭遇了类似的 AI 深度伪造攻击。",
-      "url": "https://www.solidot.org/story?sid=83979",
       "category": ""
     }
   ],

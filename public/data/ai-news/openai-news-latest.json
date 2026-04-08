@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-04-08T08:53:00.574Z",
+  "fetch_time": "2026-04-08T12:47:37.561Z",
   "articles": [
+    {
+      "title": "Introducing the Child Safety Blueprint",
+      "date": "Wed, 08 Apr 2026 05:00:00 GMT",
+      "summary": "Discover OpenAI’s Child Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online.",
+      "url": "https://openai.com/index/introducing-child-safety-blueprint",
+      "category": "Safety"
+    },
     {
       "title": "Announcing the OpenAI Safety Fellowship",
       "date": "Mon, 06 Apr 2026 10:00:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability.",
       "url": "https://openai.com/index/gradient-labs",
       "category": "B2B Story"
-    },
-    {
-      "title": "Accelerating the next phase of AI",
-      "date": "Tue, 31 Mar 2026 13:00:00 GMT",
-      "summary": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
-      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
-      "category": "Company"
     }
   ],
   "status": "success",
