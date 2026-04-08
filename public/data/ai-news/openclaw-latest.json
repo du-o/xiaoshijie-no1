@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-04-08T05:46:59.217Z",
+  "fetch_time": "2026-04-08T08:53:16.997Z",
   "articles": [
+    {
+      "title": "openclaw 2026.4.8",
+      "date": "2026-04-08T05:59:44Z",
+      "summary": "\n### Fixes\n\n- Telegram/setup: load setup and secret contracts through packaged top-level sidecars so installed npm builds no longer try to import missing `dist/extensions/telegram/src/*` files during ...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.8",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.4.8",
+      "downloadCount": 1952
+    },
     {
       "title": "openclaw 2026.4.7",
       "date": "2026-04-08T02:12:57Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.7",
-      "downloadCount": 1520
+      "downloadCount": 1923
     },
     {
       "title": "openclaw 2026.4.5",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.5",
-      "downloadCount": 29745
+      "downloadCount": 30054
     },
     {
       "title": "openclaw 2026.4.2",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.2",
-      "downloadCount": 32671
+      "downloadCount": 32688
     },
     {
       "title": "openclaw 2026.4.1",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.1",
-      "downloadCount": 14618
+      "downloadCount": 14639
     },
     {
       "title": "OpenClaw 2026.4.1-beta.1",
@@ -52,16 +62,6 @@
       "author": "steipete",
       "tagName": "v2026.4.1-beta.1",
       "downloadCount": 310
-    },
-    {
-      "title": "openclaw 2026.3.31",
-      "date": "2026-03-31T20:54:44Z",
-      "summary": "### Breaking\n\n- Nodes/exec: remove the duplicated `nodes.run` shell wrapper from the CLI and agent `nodes` tool so node shell execution always goes through `exec host=node`, keeping node-specific capa...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.31",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.3.31",
-      "downloadCount": 13012
     }
   ],
   "status": "success",

@@ -1,8 +1,29 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-04-08T05:46:46.153Z",
+  "fetch_time": "2026-04-08T08:53:05.387Z",
   "articles": [
+    {
+      "title": "非激素男性避孕药研究取得突破",
+      "date": "Wed, 08 Apr 2026 06:58:46 GMT",
+      "summary": "康奈尔科学家在研究安全可逆转且百分之百有效的非激素男性避孕药上取得了突破。现有的男性避孕方法包括避孕套和输精管结扎术，其中输精管结扎因难以逆转而不太受到男性青睐。激素类避孕药则存在影响女性的风险。康奈尔科学家针对的是精子生成的第二个阶段。精子生成分为三个阶段：精原细胞增殖分化；精母细胞减数分裂；精子细胞形成。研究人员称，如果针对精原细胞进行干预，那么精原细胞死亡将会导致男性终身无法再次生育。他们使用了小分子抑制剂 JQ1 对减数分裂前期 I 进行干预杀死细胞，阻断精子形成所需的基因表达。在实验中，研究人员对小鼠注射了 JQ1，持续三周，结果显示小鼠失去了产生精子的能力。停止注射 JQ1 的六周内精子生成恢复了正常。研究人员让实验小鼠繁殖后代，结果显示后代都发育正常。",
+      "url": "https://www.solidot.org/story?sid=83984",
+      "category": ""
+    },
+    {
+      "title": "测试显示 AI Overviews 每 10 个答案就有一个是错误的",
+      "date": "Wed, 08 Apr 2026 06:18:02 GMT",
+      "summary": "纽约时报的测试显示，Google 搜索的 AI 概括功能 AI Overviews 每 10 个答案有一个是错误的，这听起来还不错，但考虑到 Google 服务每天的搜索量，这意味着每分钟就有成千上万的错误信息传播出去。纽约时报和 Oumi 合作利用 AI 工具通过 SimpleQA 评估 AI Overviews 答案的准确性。Oumi 从去年开始执行测试，当时 Google 最好的模型还是 Gemini 2.5，当时 AI Overviews 的准确性是 85%。当模型升级到 Gemini 3 后，AI Overviews 的准确性提高到 91%。AI Overviews 给出答案时会列出引用来源，当它出错时，其答案经常会与引用来源的信息互相矛盾。",
+      "url": "https://www.solidot.org/story?sid=83983",
+      "category": ""
+    },
+    {
+      "title": "Chrome 支持垂直标签",
+      "date": "Wed, 08 Apr 2026 05:26:19 GMT",
+      "summary": "习惯于顶部水平标签的用户可能不知道垂直标签在标签管理和组织上有多么的高效，用过之后几乎没有人会再回到水平标签。主流浏览器如 Firefox 和 Microsoft Edge 都官方支持垂直标签，现在市场份额最高的浏览器 Google Chrome 也正式宣布支持垂直标签。Google 称，启用垂直标签十分简单，只需要在一个窗口点击右键，选择“Show Tabs Verticall（显示垂直标签）”。除此之外，Google Chrome 还推出新的沉浸式阅读模式 Reading Mode，减少广告等带来的干扰，让用户能专注于阅读文本。",
+      "url": "https://www.solidot.org/story?sid=83982",
+      "category": ""
+    },
     {
       "title": "日本科学家演示能承受核反应堆六个月强辐射的 Wi-Fi 接收器",
       "date": "Tue, 07 Apr 2026 16:23:56 GMT",
@@ -22,27 +43,6 @@
       "date": "Tue, 07 Apr 2026 15:31:32 GMT",
       "summary": "多位流行 NPM 软件包维护者成为 AI 深度伪造攻击目标，他们遭遇了相似的社会工程攻击。axios 维护者 Jason Saayman 称，疑似 APT 组织 UNC1069 的黑客冒充一家公司的创始人联系他，他们不仅克隆了创始人的外表，还克隆了公司本身。他们邀请他加入一个真实的 Slack 工作区（workspace），还创建了频道分享 LinkedIn 帖子，非常逼真。然后黑客邀请参加一个 Microsoft Teams 虚拟会议，会议提示其系统存在问题。他以为这与 Teams 有关，于是安装了缺失组件，结果却植入了远程访问木马。他维护的 axios 周下载量 1 亿，被云服务和编码环境广泛使用，黑客窃取了维护者的凭证释出了 axios 的恶意版本。这不是一起孤立事件，多位周下载量上亿的 NPM 软件包维护者遭遇了类似的 AI 深度伪造攻击。",
       "url": "https://www.solidot.org/story?sid=83979",
-      "category": ""
-    },
-    {
-      "title": "TDF 基金会称它取消 Collabora 员工的会员资格是为了遵守非营利组织法",
-      "date": "Tue, 07 Apr 2026 11:20:32 GMT",
-      "summary": "The Document Foundation（TDF）再次通过官方博客回应了它与主要商业合作伙伴 Collabora 之间的分歧。TDF 称过去几年它犯下了多项违反非营利组织法的错误：仅允许生态系统内的公司免费使用 LibreOffice 品牌；将 LibreOffice 的开发合同——新功能开发、修 bug 等——授予在基金会董事会中拥有代表，积极参与采购的企业。基金会法律顾问指出这些违反法律的错误之后，从中受益的企业试图维持现状而不是解决问题。为避免失去非营利组织地位以及由此带来的不可预见的后果，TDF 基金会采取了措施，取消 Collabora 员工的会员资格、冻结招标以及引入开发采购政策，并制定了规则降低未来再次出现类似问题的风险。",
-      "url": "https://www.solidot.org/story?sid=83978",
-      "category": ""
-    },
-    {
-      "title": "Linux 准备移除对 i486 CPU 的支持 ",
-      "date": "Tue, 07 Apr 2026 09:48:15 GMT",
-      "summary": "Linux 准备移除对 i486 CPU 的支持，名为“x86/cpu: Remove M486/M486SX/ELAN support”的补丁预计将合并到 Linux 7.1 中。英特尔是在 1989 年 4 月推出了 25MHz i486 CPU，33MHz i486 在 1990 年 5 月发布，50MHz 在 1991 年 6 月推出。英特尔对 i486 的生产一直持续到 2007 年。i486 的继任者是 1993 年推出的奔腾 CPU。i486 也是 AMD 的最后一款英特尔处理器克隆产品。Linux kernel 过去几年已经多次考虑移除对 i486 的支持。Linux 作者 Linus Torvalds 最近再次表示不应该再浪费精力在 i486 的支持上。",
-      "url": "https://www.solidot.org/story?sid=83977",
-      "category": ""
-    },
-    {
-      "title": "Sam Altman 能被信任吗？",
-      "date": "Tue, 07 Apr 2026 09:15:34 GMT",
-      "summary": "《纽约客》发表了一篇长文，从 OpenAI 董事会在 2023 年秋季发起的未遂“政变”谈起，使用了未完整公开的内部备忘录，详述了 OpenAI 受争议 CEO Sam Altman 过去十几年的经历，提出了一个问题：如果今天的大模型能通向 AGI（通用人工智能），那么 OpenAI 及其 CEO 有可能控制人类的未来，但 Sam 能被人信任吗？文章援引了他在 Y Combinator 第一批创业营的同学、2013 年自杀的 Aaron Swartz 的评价，“Sam 永远不可被信任，他是个反社会人格者。什么都做得出来。”微软在 2023 年的未遂“政变”中支持了 Sam，如今双方关系紧张， 微软高管认为他可能会作为一个骗子留在人们的记忆里。",
-      "url": "https://www.solidot.org/story?sid=83976",
       "category": ""
     }
   ],
