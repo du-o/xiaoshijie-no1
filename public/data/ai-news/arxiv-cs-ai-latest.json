@@ -1,53 +1,60 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-04-09T02:50:36.806Z",
+  "fetch_time": "2026-04-09T05:48:39.176Z",
   "articles": [
     {
-      "title": "Pramana: Fine-Tuning Large Language Models for Epistemic Reasoning through Navya-Nyaya",
-      "date": "Wed, 08 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.04937v1 Announce Type: new Abstract: Large language models produce fluent text but struggle with systematic reasoning, often hallucinating confident but unfounded claims. When Apple researchers added irrelevant context to mathematical problems, LLM performance degraded by 65% Apple Machine Learning Research, exposing brittle pattern-matching beneath apparent reasoning. This epistemic gap, the inability to ground claims in traceable evidence, limits AI reliability in domains requiring ",
-      "url": "https://arxiv.org/abs/2604.04937",
+      "title": "High-Precision Estimation of the State-Space Complexity of Shogi via the Monte Carlo Method",
+      "date": "Thu, 09 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.06189v1 Announce Type: new Abstract: Determining the state-space complexity of the game of Shogi (Japanese Chess) has been a challenging problem, with previous combinatorial estimates leaving a gap of five orders of magnitude ($10^{64}$ to $10^{69}$). This large gap arises from the difficulty of distinguishing Shogi positions legally reachable from the initial position among the vast number of valid board configurations. In this paper, we present a high-precision statistical estimatio",
+      "url": "https://arxiv.org/abs/2604.06189",
+      "category": [
+        "cs.AI",
+        "cs.GT"
+      ]
+    },
+    {
+      "title": "Blind Refusal: Language Models Refuse to Help Users Evade Unjust, Absurd, and Illegitimate Rules",
+      "date": "Thu, 09 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.06233v1 Announce Type: new Abstract: Safety-trained language models routinely refuse requests for help circumventing rules. But not all rules deserve compliance. When users ask for help evading rules imposed by an illegitimate authority, rules that are deeply unjust or absurd in their content or application, or rules that admit of justified exceptions, refusal is a failure of moral reasoning. We introduce empirical results documenting this pattern of refusal that we call blind refusal",
+      "url": "https://arxiv.org/abs/2604.06233",
       "category": "cs.AI"
     },
     {
-      "title": "Operational Noncommutativity in Sequential Metacognitive Judgments",
-      "date": "Wed, 08 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.04938v1 Announce Type: new Abstract: Metacognition, understood as the monitoring and regulation of one's own cognitive processes, is inherently sequential: an agent evaluates an internal state, updates it, and may then re-evaluate under modified criteria. Order effects in cognition are well documented, yet it remains unclear whether such effects reflect classical state changes or reveal a deeper structural non-commutativity. We develop an operational framework that makes this distinct",
-      "url": "https://arxiv.org/abs/2604.04938",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Proximity Measure of Information Object Features for Solving the Problem of Their Identification in Information Systems",
-      "date": "Wed, 08 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.04939v1 Announce Type: new Abstract: The paper considers a new quantitative-qualitative proximity measure for the features of information objects, where data enters a common information resource from several sources independently. The goal is to determine the possibility of their relation to the same physical object (observation object). The proposed measure accounts for the possibility of differences in individual feature values - both quantitative and qualitative - caused by existin",
-      "url": "https://arxiv.org/abs/2604.04939",
-      "category": "cs.AI"
-    },
-    {
-      "title": "ReVEL: Multi-Turn Reflective LLM-Guided Heuristic Evolution via Structured Performance Feedback",
-      "date": "Wed, 08 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.04940v1 Announce Type: new Abstract: Designing effective heuristics for NP-hard combinatorial optimization problems remains a challenging and expertise-intensive task. Existing applications of large language models (LLMs) primarily rely on one-shot code synthesis, yielding brittle heuristics that underutilize the models' capacity for iterative reasoning. We propose ReVEL: Multi-Turn Reflective LLM-Guided Heuristic Evolution via Structured Performance Feedback, a hybrid framework that ",
-      "url": "https://arxiv.org/abs/2604.04940",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Algebraic Structure Discovery for Real World Combinatorial Optimisation Problems: A General Framework from Abstract Algebra to Quotient Space Learning",
-      "date": "Wed, 08 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.04941v1 Announce Type: new Abstract: Many combinatorial optimisation problems hide algebraic structures that, once exposed, shrink the search space and improve the chance of finding the global optimal solution. We present a general framework that (i) identifies algebraic structure, (ii) formalises operations, (iii) constructs quotient spaces that collapse redundant representations, and (iv) optimises directly over these reduced spaces. Across a broad family of rule-combination tasks (",
-      "url": "https://arxiv.org/abs/2604.04941",
-      "category": "cs.AI"
-    },
-    {
-      "title": "PaperOrchestra: A Multi-Agent Framework for Automated AI Research Paper Writing",
-      "date": "Wed, 08 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.05018v1 Announce Type: new Abstract: Synthesizing unstructured research materials into manuscripts is an essential yet under-explored challenge in AI-driven scientific discovery. Existing autonomous writers are rigidly coupled to specific experimental pipelines, and produce superficial literature reviews. We introduce PaperOrchestra, a multi-agent framework for automated AI research paper writing. It flexibly transforms unconstrained pre-writing materials into submission-ready LaTeX m",
-      "url": "https://arxiv.org/abs/2604.05018",
+      "title": "Toward Reducing Unproductive Container Moves: Predicting Service Requirements and Dwell Times",
+      "date": "Thu, 09 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.06251v1 Announce Type: new Abstract: This article presents the results of a data science study conducted at a container terminal, aimed at reducing unproductive container moves through the prediction of service requirements and container dwell times. We develop and evaluate machine learning models that leverage historical operational data to anticipate which containers will require pre-clearance handling services prior to cargo release and to estimate how long they are expected to rem",
+      "url": "https://arxiv.org/abs/2604.06251",
       "category": [
         "cs.AI",
         "cs.LG",
-        "cs.MA"
+        "stat.AP"
       ]
+    },
+    {
+      "title": "Weakly Supervised Distillation of Hallucination Signals into Transformer Representations",
+      "date": "Thu, 09 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.06277v1 Announce Type: new Abstract: Existing hallucination detection methods for large language models (LLMs) rely on external verification at inference time, requiring gold answers, retrieval systems, or auxiliary judge models. We ask whether this external supervision can instead be distilled into the model's own representations during training, enabling hallucination detection from internal activations alone at inference time. We introduce a weak supervision framework that combines",
+      "url": "https://arxiv.org/abs/2604.06277",
+      "category": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "SymptomWise: A Deterministic Reasoning Layer for Reliable and Efficient AI Systems",
+      "date": "Thu, 09 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.06375v1 Announce Type: new Abstract: AI-driven symptom analysis systems face persistent challenges in reliability, interpretability, and hallucination. End-to-end generative approaches often lack traceability and may produce unsupported or inconsistent diagnostic outputs in safety-critical settings. We present SymptomWise, a framework that separates language understanding from diagnostic reasoning. The system combines expert-curated medical knowledge, deterministic codex-driven infere",
+      "url": "https://arxiv.org/abs/2604.06375",
+      "category": "cs.AI"
+    },
+    {
+      "title": "SELFDOUBT: Uncertainty Quantification for Reasoning LLMs via the Hedge-to-Verify Ratio",
+      "date": "Thu, 09 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.06389v1 Announce Type: new Abstract: Uncertainty estimation for reasoning language models remains difficult to deploy in practice: sampling-based methods are computationally expensive, while common single-pass proxies such as verbalized confidence or trace length are often inconsistent across models. This problem is compounded for proprietary reasoning APIs that expose neither logits nor intermediate token probabilities, leaving practitioners with no reliable uncertainty signal at inf",
+      "url": "https://arxiv.org/abs/2604.06389",
+      "category": "cs.AI"
     }
   ],
   "status": "success",
