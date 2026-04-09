@@ -1,8 +1,28 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-04-08T12:47:52.986Z",
+  "fetch_time": "2026-04-09T02:50:49.832Z",
   "articles": [
+    {
+      "title": "openclaw 2026.4.9",
+      "date": "2026-04-09T02:25:28Z",
+      "summary": "### Changes\n\n- Memory/dreaming: add a grounded REM backfill lane with historical `rem-harness --path`, diary commit/reset flows, cleaner durable-fact extraction, and live short-term promotion integrat...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.9",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.4.9",
+      "downloadCount": 88
+    },
+    {
+      "title": "openclaw 2026.4.9-beta.1",
+      "date": "2026-04-09T01:26:28Z",
+      "summary": "\n### Changes\n\n- Memory/dreaming: add a grounded REM backfill lane with historical `rem-harness --path`, diary commit/reset flows, cleaner durable-fact extraction, and live short-term promotion integra...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.9-beta.1",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.4.9-beta.1",
+      "downloadCount": 19
+    },
     {
       "title": "openclaw 2026.4.8",
       "date": "2026-04-08T05:59:44Z",
@@ -11,7 +31,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.8",
-      "downloadCount": 4780
+      "downloadCount": 11971
     },
     {
       "title": "openclaw 2026.4.7",
@@ -21,7 +41,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.7",
-      "downloadCount": 1970
+      "downloadCount": 2039
     },
     {
       "title": "openclaw 2026.4.5",
@@ -31,7 +51,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.5",
-      "downloadCount": 30119
+      "downloadCount": 30269
     },
     {
       "title": "openclaw 2026.4.2",
@@ -41,27 +61,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.2",
-      "downloadCount": 32710
-    },
-    {
-      "title": "openclaw 2026.4.1",
-      "date": "2026-04-01T16:58:06Z",
-      "summary": "## 2026.4.1\n\n### Changes\n\n- Tasks/chat: add `/tasks` as a chat-native background task board for the current session, with recent task details and agent-local fallback counts when no linked tasks are v...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.1",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.4.1",
-      "downloadCount": 14649
-    },
-    {
-      "title": "OpenClaw 2026.4.1-beta.1",
-      "date": "2026-04-01T14:10:49Z",
-      "summary": "### Changes\n\n- Tasks/chat: add `/tasks` as a chat-native background task board for the current session, with recent task details and agent-local fallback counts when no linked tasks are visible. Relat...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.1-beta.1",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.4.1-beta.1",
-      "downloadCount": 310
+      "downloadCount": 32748
     }
   ],
   "status": "success",
