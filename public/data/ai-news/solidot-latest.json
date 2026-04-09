@@ -1,8 +1,29 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-04-09T05:48:41.993Z",
+  "fetch_time": "2026-04-09T09:00:06.884Z",
   "articles": [
+    {
+      "title": "W玻色子质量测量结果与标准模型一致",
+      "date": "Thu, 09 Apr 2026 07:53:25 GMT",
+      "summary": "当基本粒子的质量测量结果偏离理论预测时，往往可能动摇现有理论体系。但 LHC 的实验结果显示，W 玻色子质量测量结果与标准模型一致。W 玻色子是传递弱相互作用的基本粒子之一，而弱相互作用是自然界四种基本作用力之一。这种作用力使粒子能够发生“身份转换”，例如质子可以转变为中子，反之亦然。正是这种转变驱动了放射性衰变，也使得为太阳提供能量的核聚变反应成为可能。研究团队对 LHC 在 2016 年产生的超过 10 亿次质子碰撞数据进行了分析。研究团队测得 W 玻色子的质量为 80360.2±9.9 MeV，这一结果与标准模型的理论预测相符。",
+      "url": "https://www.solidot.org/story?sid=83996",
+      "category": ""
+    },
+    {
+      "title": "微软终止 VeraCrypt 账户 Windows 版本更新暂停",
+      "date": "Thu, 09 Apr 2026 07:01:51 GMT",
+      "summary": "开源加密工具 VeraCrypt 的开发者 Mounir Idrassi 透露，微软终止了他用于给驱动和引导程序签名的账号，没有给出解释，导致该工具的 Windows 版本无法更新。VeraCrypt 基于已经停止开发的加密工具 TrueCrypt，允许用户在硬盘上创建加密分区，或者创建单独的加密卷存储文件。如果用户被迫交出登陆凭证，该工具也允许用户创建一个隐藏卷。Idrassi 称他的账号是在 1 月被关闭的，微软在账号关闭的信息中表示其组织没有通过微软的验证要求，随即关闭了申述通道。Idrassi 的联系信息都返回了自动回复信息。Idrassi 表示这导致他无法再释出 Windows 更新，Linux 和 macOS 的更新仍然能照常，但 Windows 是用户数最多平台，无法更新 Windows 版本是一次重大打击。VeraCrypt 不是唯一受到影响的项目，很多微软 Windows 驱动开发者报告他们的账号被锁定了。",
+      "url": "https://www.solidot.org/story?sid=83994",
+      "category": ""
+    },
+    {
+      "title": "纽时记者称 Adam Back 是中本聪",
+      "date": "Thu, 09 Apr 2026 05:27:20 GMT",
+      "summary": "纽时记者 John Carreyrou 在调查之后宣称 Adam Back 是比特币作者中本聪，Adam Back 本人公开否认。Adam Back 出生于 1970 年，是一位英国密码学家和密码朋克，工作量证明系统 Hashcash 的作者，这不是第一次他被认为是比特币作者。Carreyrou 是知名的调查记者和作家，他的调查认为，Back 的写作风格、意识形态、技术背景以及早年发表的帖子都与中本聪有重合之处。他的调查主要是基于芬兰程序员 Martti Malmi 公开的数百封与中本聪交流的电子邮件。Back 通过其 X 账号回应称，他不是中本聪，但他早年非常关注密码学、网络隐私和电子现金的积极社会影响，因此从 1992 年左右开始积极参与电子现金和隐私技术的应用研究，在密码朋克邮件列表中参与讨论，最终促成了 Hashcash 等创意的诞生。",
+      "url": "https://www.solidot.org/story?sid=83993",
+      "category": ""
+    },
     {
       "title": "全新世最暴力火山正在重新注满岩浆",
       "date": "Wed, 08 Apr 2026 16:02:26 GMT",
@@ -22,27 +43,6 @@
       "date": "Wed, 08 Apr 2026 14:59:24 GMT",
       "summary": "亚马逊正式宣布，从 2026 年 5 月 20 日起停止支持 2012 年以及之前发布的旧型号 Kindle 和 Kindle Fire 设备，这些设备的用户将无法通过 Kindle 商店购买、借阅或下载新内容。亚马逊声称它已经为这些设备提供了 14 年，部分型号甚至长达 18 年的支持。它正在通知仍然使用这些设备的用户，为相关用户提供折扣帮助他们过渡到新设备。受影响的设备包括：第一代和第二代 Kindle，Kindle DX 和 DX Graphite、Kindle Keyboard、Kindle 4、Kindle Touch、Kindle 5 和第一代 Kindle Paperwhite。亚马逊 Kindle 已于2024 年6 月30 日退出了中国市场。",
       "url": "https://www.solidot.org/story?sid=83990",
-      "category": ""
-    },
-    {
-      "title": "OpenAI 提议四天工作制应对 AI 对社会的冲击",
-      "date": "Wed, 08 Apr 2026 14:45:35 GMT",
-      "summary": "AI 的进步预计会对整个社会造成巨大冲击，为了应对这一社会问题，OpenAI 提出了一系列建议，包括对机器人征税，设立公共财富基金，以及推行四天工作制。OpenAI 表示这份文件是它应对 AI 工具普及可能冲击就业岗位以及整个行业而提出的初步想法。它的核心建议是设立公共财富基金，投资于与 AI 发展相关的长期资产，将收益直接分配给公民。四天工作制则要求雇主在不减少薪酬的情况下减少工作时间。另一项建议是改革税收制度，将税基转向企业所得税和资本利得税，而不是依赖可能受到 AI 引发的大规模失业潮冲击的劳动所得税和工资税。",
-      "url": "https://www.solidot.org/story?sid=83989",
-      "category": ""
-    },
-    {
-      "title": "Cloudflare 计划到 2029 年全面实现后量子加密",
-      "date": "Wed, 08 Apr 2026 09:50:54 GMT",
-      "summary": "Cloudflare 宣布它计划加快速度提前到 2029 年全面实现后量子加密，原因是最近的两项研究显示破解现有加密算法所需的量子比特规模比预期的要少得多。IBM Quantum Safe CTO 认为最快到 2029 年量子计算机就能对高价值目标进行破解（即所谓的 moonshot attacks）。Cloudflare 称，它在 2014 年开始免费提供通用 SSL 证书，2019 年开始准备迁移到后量子加密，2022 年为所有网站和 API 启用了后量子加密，目前逾 65% 的 Cloudflare 用户流量已使用后量子加密。",
-      "url": "https://www.solidot.org/story?sid=83988",
-      "category": ""
-    },
-    {
-      "title": "阿根廷总统卷入加密货币骗局",
-      "date": "Wed, 08 Apr 2026 09:22:58 GMT",
-      "summary": "阿根廷总统 Javier Milei 去年帮助推广了名为 $Libra 的加密货币，该加密货币的价格在短暂飙升之后又迅速暴跌，给投资者造成了数百万美元的损失，并引发了阿根廷检方的调查。Milei 坚称他与该加密货币没有任何关联，只是帮个忙宣传下。但根据电话纪录，2025 年 Milei 通过其 X 账号宣传 $Libra 的当晚，他与该加密货币背后的一位企业家有过 7 次通话。通话内容未知。新披露的信息还显示，Milei 在担任国会议员期间，曾从其中一位企业家定期收款。",
-      "url": "https://www.solidot.org/story?sid=83987",
       "category": ""
     }
   ],
