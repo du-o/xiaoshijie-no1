@@ -1,8 +1,22 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-04-10T09:00:29.253Z",
+  "fetch_time": "2026-04-10T12:38:50.468Z",
   "articles": [
+    {
+      "title": "EFF 退出 X 平台",
+      "date": "Fri, 10 Apr 2026 09:17:26 GMT",
+      "summary": "电子前哨基金会（EFF）宣布退出 X/Twitter 平台，原因可能是 X 平台的算法在马斯克（Elon Musk）治下更倾向于传播右翼内容，导致立场倾向于左翼的数字权利组织 EFF 的内容曝光度大幅下降。EFF 称它每天在 X/Twitter 上发表 5-10 条推文， 2018 年这些推文月曝光量能达到 5000 万到 1 亿次，2024 年它共发表了 2500 条推文月曝光量仅为 200 万次，2025 年共发表了 1500 条推文，全年曝光量仅为 1300 万次。今天 EFF 一则推文的曝光量仅为 7 年前的 3%。EFF 称，它在 Facebook、Instagram、YouTube 和 TikTok 上有账号并不代表认可这些平台，而是为了接触这些平台的用户。它会继续通过 Bluesky、Mastodon、LinkedIn、Instagram、TikTok、Facebook、YouTube 和 eff.org 等平台和网站继续抗争，只是不再通过 X 平台。",
+      "url": "https://www.solidot.org/story?sid=84013",
+      "category": ""
+    },
+    {
+      "title": "NASA 如何构建 Artemis II 的容错计算机",
+      "date": "Fri, 10 Apr 2026 08:14:58 GMT",
+      "summary": "阿波罗宇航员用于登月的计算机配备了 1-MHz 处理器和 4 kilobytes 可擦除内存，其功能有限，飞船重要的环境和电源控制仍然是通过手动或机电方式实现的。阿尔忒弥斯（Artemis）II 的 Orion 飞船则配备了至今容错能力最强的计算机系统。为了应对太空辐射，飞船配备了两台计算机 Vehicle Management Computers，每台包含两个飞控模块 Flight Control Modules，总共四个 FCM，每个 FCM 配备了一对自检验处理器。八个 CPU 并行运行飞行软件。自检验意味着一旦某个 CPU 因一次辐射事件而出错，系统会立即检测出错误并做出反应。此外系统还使用了三模块冗余内存，每次读取时都能自动纠正单比特错误。网络也采用三重冗余设计，所有网络交换机都采用自检策略。飞船还搭载了一个完全独立的 Backup Flight Software（BFS）系统，它使用不同的硬件，运行不同的操作系统，使用独立开发的简化版飞行软件。这种设计被称为异构冗余。",
+      "url": "https://www.solidot.org/story?sid=84012",
+      "category": ""
+    },
     {
       "title": "FreeBSD 公布兼容笔记本型号",
       "date": "Fri, 10 Apr 2026 07:19:32 GMT",
@@ -29,20 +43,6 @@
       "date": "Fri, 10 Apr 2026 05:55:46 GMT",
       "summary": "Mozilla 再次指控微软给予自己的浏览器和 AI 服务不公平的优势。即使用户明确选择其它浏览器，微软仍然会引导用户使用 Edge。Mozilla 称，不管默认的浏览器设置，Windows 的部分功能仍然会使用 Edge 打开链接，包括任务栏搜索结果以及 Outlook 和 Teams 等应用中的链接。微软在推广其 AI 助手 Copilot 时采取了类似的做法，利用平台优势推广自家服务。Copilot 固定在任务栏上，在安装了 Microsoft 365 的系统中自动安装，甚至部分型号的笔记本电脑还有专门的按键。Mozilla 认为，当占据主导地位的桌面操作系统制造商在系统层面推广自家浏览器和 AI 工具时，Firefox 之类的独立浏览器难以与之竞争。",
       "url": "https://www.solidot.org/story?sid=84008",
-      "category": ""
-    },
-    {
-      "title": "黑猩猩群体也会爆发内战",
-      "date": "Fri, 10 Apr 2026 03:49:41 GMT",
-      "summary": "研究人员报告了可能首次在野生黑猩猩中观察到的“内战”。在人类社会中，战争和集体暴力通常被解释为文化差异，这些差异在凝聚群体内部成员的同时也能激化对外敌意。然而这种观点无法充分解释那些发生在原本团结的共同体内部的冲突——正如我们在暴力叛乱或内战中所见的那样。一种替代性的解释认为，仅凭社会关系的变动与局部的竞争对抗就足以使群体分裂并滋生暴力。根据发表在《科学》期刊上的一项研究，科学家报告了在乌干达基巴莱国家公园（Kibale National Park）恩戈戈（Ngogo）黑猩猩群体中一次罕见且得到详实观察的永久性分裂及其后续的致命冲突。据估计此类事件每 500 年才会发生一次。大约从 2015 年开始，该黑猩猩群体开始迅速瓦解：从某单一且紧密的群体分裂为两个截然对立的集群——这种社会层面的断裂同时伴随着地域空间的分离以及生殖繁衍上的隔绝。到 2018 年时，该分裂已完成且持续存在，两个群体之间不再存留任何联系。随着这种分裂局面的固化，两个群体之间的攻击行为也随之升级。在 2018 年的分裂之后，其中一个黑猩猩群体对另一群体发动了持续且协同一致的攻击，标志着昔日群体成员之间的关系已明确转为",
-      "url": "https://www.solidot.org/story?sid=84007",
-      "category": ""
-    },
-    {
-      "title": "NASA 宇航员的笔记本电脑运行 VLC",
-      "date": "Thu, 09 Apr 2026 15:10:20 GMT",
-      "summary": "NASA 的视频显示，Artemis II 宇航员的笔记本电脑运行了开源多媒体播放器 VLC，而 VLC 使用了 FFmpeg 多媒体库，这意味着两大开源项目都进入了太空，而且工作正常，不像微软的私有软件 Outlook。Artemis 宇航员除了使用开源软件，还用苹果最新的 iPhone 17 Pro Max 智能手机在飞船内自拍。飞船外的拍摄则使用了 2014 年款的 GoPro Hero 4 Black 相机。",
-      "url": "https://www.solidot.org/story?sid=84006",
       "category": ""
     }
   ],
