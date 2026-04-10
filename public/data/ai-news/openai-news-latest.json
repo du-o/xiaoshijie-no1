@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-04-09T12:52:30.701Z",
+  "fetch_time": "2026-04-10T03:22:26.450Z",
   "articles": [
+    {
+      "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
+      "date": "Thu, 09 Apr 2026 00:00:00 GMT",
+      "summary": "CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming.",
+      "url": "https://openai.com/index/cyberagent",
+      "category": "B2B Story"
+    },
     {
       "title": "OpenAI Full Fan Mode Contest: Terms & Conditions",
       "date": "Thu, 09 Apr 2026 00:00:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
       "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
       "category": "Global Affairs"
-    },
-    {
-      "title": "OpenAI acquires TBPN",
-      "date": "Thu, 02 Apr 2026 10:30:00 GMT",
-      "summary": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.",
-      "url": "https://openai.com/index/openai-acquires-tbpn",
-      "category": "Company"
     }
   ],
   "status": "success",
