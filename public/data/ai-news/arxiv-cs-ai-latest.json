@@ -1,11 +1,11 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-04-10T03:22:26.579Z",
+  "fetch_time": "2026-04-10T05:57:06.238Z",
   "articles": [
     {
       "title": "High-Precision Estimation of the State-Space Complexity of Shogi via the Monte Carlo Method",
-      "date": "Thu, 09 Apr 2026 04:00:00 GMT",
+      "date": "Fri, 10 Apr 2026 04:00:00 GMT",
       "summary": "arXiv:2604.06189v1 Announce Type: new Abstract: Determining the state-space complexity of the game of Shogi (Japanese Chess) has been a challenging problem, with previous combinatorial estimates leaving a gap of five orders of magnitude ($10^{64}$ to $10^{69}$). This large gap arises from the difficulty of distinguishing Shogi positions legally reachable from the initial position among the vast number of valid board configurations. In this paper, we present a high-precision statistical estimatio",
       "url": "https://arxiv.org/abs/2604.06189",
       "category": [
@@ -15,14 +15,14 @@
     },
     {
       "title": "Blind Refusal: Language Models Refuse to Help Users Evade Unjust, Absurd, and Illegitimate Rules",
-      "date": "Thu, 09 Apr 2026 04:00:00 GMT",
+      "date": "Fri, 10 Apr 2026 04:00:00 GMT",
       "summary": "arXiv:2604.06233v1 Announce Type: new Abstract: Safety-trained language models routinely refuse requests for help circumventing rules. But not all rules deserve compliance. When users ask for help evading rules imposed by an illegitimate authority, rules that are deeply unjust or absurd in their content or application, or rules that admit of justified exceptions, refusal is a failure of moral reasoning. We introduce empirical results documenting this pattern of refusal that we call blind refusal",
       "url": "https://arxiv.org/abs/2604.06233",
       "category": "cs.AI"
     },
     {
       "title": "Toward Reducing Unproductive Container Moves: Predicting Service Requirements and Dwell Times",
-      "date": "Thu, 09 Apr 2026 04:00:00 GMT",
+      "date": "Fri, 10 Apr 2026 04:00:00 GMT",
       "summary": "arXiv:2604.06251v1 Announce Type: new Abstract: This article presents the results of a data science study conducted at a container terminal, aimed at reducing unproductive container moves through the prediction of service requirements and container dwell times. We develop and evaluate machine learning models that leverage historical operational data to anticipate which containers will require pre-clearance handling services prior to cargo release and to estimate how long they are expected to rem",
       "url": "https://arxiv.org/abs/2604.06251",
       "category": [
@@ -33,7 +33,7 @@
     },
     {
       "title": "Weakly Supervised Distillation of Hallucination Signals into Transformer Representations",
-      "date": "Thu, 09 Apr 2026 04:00:00 GMT",
+      "date": "Fri, 10 Apr 2026 04:00:00 GMT",
       "summary": "arXiv:2604.06277v1 Announce Type: new Abstract: Existing hallucination detection methods for large language models (LLMs) rely on external verification at inference time, requiring gold answers, retrieval systems, or auxiliary judge models. We ask whether this external supervision can instead be distilled into the model's own representations during training, enabling hallucination detection from internal activations alone at inference time. We introduce a weak supervision framework that combines",
       "url": "https://arxiv.org/abs/2604.06277",
       "category": [
@@ -44,14 +44,14 @@
     },
     {
       "title": "SymptomWise: A Deterministic Reasoning Layer for Reliable and Efficient AI Systems",
-      "date": "Thu, 09 Apr 2026 04:00:00 GMT",
+      "date": "Fri, 10 Apr 2026 04:00:00 GMT",
       "summary": "arXiv:2604.06375v1 Announce Type: new Abstract: AI-driven symptom analysis systems face persistent challenges in reliability, interpretability, and hallucination. End-to-end generative approaches often lack traceability and may produce unsupported or inconsistent diagnostic outputs in safety-critical settings. We present SymptomWise, a framework that separates language understanding from diagnostic reasoning. The system combines expert-curated medical knowledge, deterministic codex-driven infere",
       "url": "https://arxiv.org/abs/2604.06375",
       "category": "cs.AI"
     },
     {
       "title": "SELFDOUBT: Uncertainty Quantification for Reasoning LLMs via the Hedge-to-Verify Ratio",
-      "date": "Thu, 09 Apr 2026 04:00:00 GMT",
+      "date": "Fri, 10 Apr 2026 04:00:00 GMT",
       "summary": "arXiv:2604.06389v1 Announce Type: new Abstract: Uncertainty estimation for reasoning language models remains difficult to deploy in practice: sampling-based methods are computationally expensive, while common single-pass proxies such as verbalized confidence or trace length are often inconsistent across models. This problem is compounded for proprietary reasoning APIs that expose neither logits nor intermediate token probabilities, leaving practitioners with no reliable uncertainty signal at inf",
       "url": "https://arxiv.org/abs/2604.06389",
       "category": "cs.AI"
