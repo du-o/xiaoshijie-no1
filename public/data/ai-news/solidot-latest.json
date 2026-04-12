@@ -1,8 +1,22 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-04-12T03:26:12.765Z",
+  "fetch_time": "2026-04-12T05:53:39.455Z",
   "articles": [
+    {
+      "title": "CPUID 网站下载链接被劫持传播恶意程序",
+      "date": "Sun, 12 Apr 2026 05:20:37 GMT",
+      "summary": "提供 CPU-Z 和 HWMonitor 等流行免费系统分析工具的 CPUID 网站遭到入侵，导致用户在短时间内下载了恶意程序。用户首先通过社交媒体报告安装从 CPUID 下载的程序时杀毒软件弹出了警告。CPUID 网站随后证实，它使用的一个第三方 API 在 4 月 9-10 日期间被入侵了大约 6 个小时，导致主网站随机显示恶意链接。CPUID 提供的应用本身没有被纂改。攻击者主要针对 HWMonitor 用户，恶意版本包含了一个假的 CRYPTBASE.dll 文件，它会连接指令控制服务器下载更多恶意负荷。CPUID 表示问题已修复。",
+      "url": "https://www.solidot.org/story?sid=84023",
+      "category": ""
+    },
+    {
+      "title": "Rockstar 证实遭到入侵，但否认重要数据被盗",
+      "date": "Sun, 12 Apr 2026 04:29:39 GMT",
+      "summary": "黑客组织 ShinyHunters 声称入侵了 Rockstar Games 的 Snowflake 服务器，窃取了大量数据，它要求 Rockstar 在 4 月14 日前支付赎金，否则将泄露数据。ShinyHunters 是通过 Anodot 访问了 Rockstar 托管在 Snowflake 的服务器，Snowflake 本身并没有遭到入侵。Rockstar 之后证实遭到入侵，但否认重要数据被盗，称有少量非物质（non-material）公司信息被访问，这次事件不会对公司或玩家造成任何影响。",
+      "url": "https://www.solidot.org/story?sid=84022",
+      "category": ""
+    },
     {
       "title": "Red Hat 裁掉了中国工程团队",
       "date": "Sat, 11 Apr 2026 15:55:57 GMT",
@@ -29,20 +43,6 @@
       "date": "Sat, 11 Apr 2026 11:58:23 GMT",
       "summary": "旧金山警方逮捕了一名涉嫌向 OpenAI CEO Sam Altman 住宅扔燃烧瓶的嫌疑人，还嫌疑人还跑到 OpenAI 位于旧金山 Mission Bay 的总部大楼前发表威胁言论。OpenAI 在发给员工的内部声明中表示，在周五 3:45am PT 左右，嫌疑人接近 Sam 住宅投掷了一枚燃烧装置。该装置落在附近并熄灭。无人受伤，仅造成轻微损失。不久后安保在总部大楼 MB1 外发现了与一位描述的嫌疑人相符的人。OpenAI 通知员工，安保可能会有所加强，办公室仍然正常开放，建议员工不要让任何人尾随进入大楼。",
       "url": "https://www.solidot.org/story?sid=84018",
-      "category": ""
-    },
-    {
-      "title": "Artemis II 宇航员返回地面",
-      "date": "Sat, 11 Apr 2026 11:17:40 GMT",
-      "summary": "NASA 执行阿尔忒弥斯二号（Artemis II）绕月任务的四名宇航员于 4 月 10 日 5:07 p.m. PDT 溅落在圣地亚哥海岸附近。NASA 宇航员 Reid Wiseman、Victor Glover 和 Christina Koch，以及加拿大 CSA 宇航员 Jeremy Hansen 搭乘直升飞机前往 John P. Murtha 号驱逐舰接受初步体检，预计 4 月 11 日返回休斯顿的 NASA 太空中心。宇航员总共飞行了 694,481 英里，打破了 1970 年阿波罗 13 号宇航员创下的人类最远飞行距离纪录。",
-      "url": "https://www.solidot.org/story?sid=84017",
-      "category": ""
-    },
-    {
-      "title": "阿根廷企鹅国度发现 PFAS",
-      "date": "Fri, 10 Apr 2026 16:48:49 GMT",
-      "summary": "加州戴维斯的科学家在 2022-2024 年的企鹅繁殖季期间给生活在阿根廷 Patagonian 海岸的 54 只麦哲伦企鹅的脚套上硅胶被动取样器，收集企鹅在数天活动期间内接触的水、空气和表面化学物质的样本。采样器回收后送往纽约州立大学布法罗进行检测。检测结果显示，即使在偏远地区，逾九成样本都检测到了 PFAS，PFAS 代表全氟烷基和多氟烷基物质，因为不会自然分解它被称为“永久留存的化学品”。",
-      "url": "https://www.solidot.org/story?sid=84016",
       "category": ""
     }
   ],
