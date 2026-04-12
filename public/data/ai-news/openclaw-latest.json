@@ -1,8 +1,28 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-04-11T12:28:28.349Z",
+  "fetch_time": "2026-04-12T03:26:24.203Z",
   "articles": [
+    {
+      "title": "openclaw 2026.4.11",
+      "date": "2026-04-12T00:18:03Z",
+      "summary": "\n### Changes\n\n- Dreaming/memory-wiki: add ChatGPT import ingestion plus new `Imported Insights` and `Memory Palace` diary subtabs so Dreaming can inspect imported source chats, compiled wiki pages, an...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.11",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.4.11",
+      "downloadCount": 1038
+    },
+    {
+      "title": "openclaw 2026.4.11-beta.1",
+      "date": "2026-04-11T15:15:03Z",
+      "summary": "\n### Changes\n\n- Dreaming/memory-wiki: add ChatGPT import ingestion plus new `Imported Insights` and `Memory Palace` diary subtabs so Dreaming can inspect imported source chats, compiled wiki pages, an...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.11-beta.1",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.4.11-beta.1",
+      "downloadCount": 171
+    },
     {
       "title": "openclaw 2026.4.10",
       "date": "2026-04-11T02:43:25Z",
@@ -11,7 +31,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.10",
-      "downloadCount": 4538
+      "downloadCount": 9981
     },
     {
       "title": "openclaw 2026.4.9",
@@ -21,7 +41,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.9",
-      "downloadCount": 22296
+      "downloadCount": 22371
     },
     {
       "title": "openclaw 2026.4.9-beta.1",
@@ -31,7 +51,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.9-beta.1",
-      "downloadCount": 156
+      "downloadCount": 172
     },
     {
       "title": "openclaw 2026.4.8",
@@ -41,27 +61,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.8",
-      "downloadCount": 12931
-    },
-    {
-      "title": "openclaw 2026.4.7",
-      "date": "2026-04-08T02:12:57Z",
-      "summary": "### Changes\n- CLI/infer: add a first-class `openclaw infer ...` hub for provider-backed inference workflows across model, media, web, and embedding tasks. Thanks @Takhoffman.\n- Tools/media generation:...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.7",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.4.7",
-      "downloadCount": 2147
-    },
-    {
-      "title": "openclaw 2026.4.5",
-      "date": "2026-04-06T03:04:54Z",
-      "summary": "### Breaking\n\n- Config: remove legacy public config aliases such as `talk.voiceId` / `talk.apiKey`, `agents.*.sandbox.perSession`, `browser.ssrfPolicy.allowPrivateNetwork`, `hooks.internal.handlers`, ...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.5",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.4.5",
-      "downloadCount": 30490
+      "downloadCount": 12982
     }
   ],
   "status": "success",
