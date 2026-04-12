@@ -1,48 +1,48 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-04-12T05:53:36.125Z",
+  "fetch_time": "2026-04-12T08:38:30.983Z",
   "articles": [
     {
-      "title": "Getting started with ChatGPT",
+      "title": "Using projects in ChatGPT",
       "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
-      "url": "https://openai.com/academy/getting-started",
+      "summary": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
+      "url": "https://openai.com/academy/projects",
       "category": "OpenAI Academy"
     },
     {
-      "title": "Brainstorming with ChatGPT",
+      "title": "ChatGPT for marketing teams",
       "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
-      "url": "https://openai.com/academy/brainstorming",
+      "summary": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
+      "url": "https://openai.com/academy/marketing",
       "category": "OpenAI Academy"
     },
     {
-      "title": "Writing with ChatGPT",
+      "title": "Our response to the Axios developer tool compromise",
       "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent.",
-      "url": "https://openai.com/academy/writing",
+      "summary": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
+      "url": "https://openai.com/index/axios-developer-tool-compromise",
+      "category": "Security"
+    },
+    {
+      "title": "Using custom GPTs",
+      "date": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "summary": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
+      "url": "https://openai.com/academy/custom-gpts",
       "category": "OpenAI Academy"
     },
     {
-      "title": "ChatGPT for research",
+      "title": "Analyzing data with ChatGPT",
       "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
-      "url": "https://openai.com/academy/research",
+      "summary": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
+      "url": "https://openai.com/academy/data-analysis",
       "category": "OpenAI Academy"
     },
     {
-      "title": "Responsible and safe use of AI ",
+      "title": "Using skills",
       "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
-      "url": "https://openai.com/academy/responsible-and-safe-use",
-      "category": "OpenAI Academy"
-    },
-    {
-      "title": "Prompting fundamentals",
-      "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
-      "url": "https://openai.com/academy/prompting",
+      "summary": "Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs.",
+      "url": "https://openai.com/academy/skills",
       "category": "OpenAI Academy"
     }
   ],
