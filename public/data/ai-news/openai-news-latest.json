@@ -1,48 +1,48 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-04-13T06:13:28.583Z",
+  "fetch_time": "2026-04-13T09:28:27.072Z",
   "articles": [
     {
-      "title": "Using projects in ChatGPT",
+      "title": "Research with ChatGPT",
       "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
-      "url": "https://openai.com/academy/projects",
+      "summary": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
+      "url": "https://openai.com/academy/search-and-deep-research",
       "category": "OpenAI Academy"
     },
     {
-      "title": "ChatGPT for marketing teams",
+      "title": "ChatGPT for finance teams",
       "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
-      "url": "https://openai.com/academy/marketing",
+      "summary": "Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly.",
+      "url": "https://openai.com/academy/finance",
       "category": "OpenAI Academy"
     },
     {
-      "title": "Our response to the Axios developer tool compromise",
+      "title": "ChatGPT for research",
       "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
-      "url": "https://openai.com/index/axios-developer-tool-compromise",
-      "category": "Security"
-    },
-    {
-      "title": "Using custom GPTs",
-      "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
-      "url": "https://openai.com/academy/custom-gpts",
+      "summary": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
+      "url": "https://openai.com/academy/research",
       "category": "OpenAI Academy"
     },
     {
-      "title": "Analyzing data with ChatGPT",
+      "title": "Financial services",
       "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
-      "url": "https://openai.com/academy/data-analysis",
+      "summary": "Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to help institutions deploy and scale AI securely.",
+      "url": "https://openai.com/academy/financial-services",
       "category": "OpenAI Academy"
     },
     {
-      "title": "Using skills",
+      "title": "Responsible and safe use of AI ",
       "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs.",
-      "url": "https://openai.com/academy/skills",
+      "summary": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
+      "url": "https://openai.com/academy/responsible-and-safe-use",
+      "category": "OpenAI Academy"
+    },
+    {
+      "title": "Prompting fundamentals",
+      "date": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "summary": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
+      "url": "https://openai.com/academy/prompting",
       "category": "OpenAI Academy"
     }
   ],
