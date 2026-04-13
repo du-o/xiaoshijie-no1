@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-04-13T09:28:40.040Z",
+  "fetch_time": "2026-04-13T12:53:41.628Z",
   "articles": [
+    {
+      "title": "openclaw 2026.4.12",
+      "date": "2026-04-13T12:35:53Z",
+      "summary": "OpenClaw `2026.4.12` is a broad quality release focused on plugin loading, memory and dreaming reliability, new local-model options, and a much smoother Feishu setup path.\r\n\r\n## Changes\r\n\r\n- QA/lab: a...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.12",
+      "category": "Release",
+      "author": "vincentkoc",
+      "tagName": "v2026.4.12",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.4.12-beta.1",
       "date": "2026-04-12T23:27:07Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.12-beta.1",
-      "downloadCount": 309
+      "downloadCount": 401
     },
     {
       "title": "openclaw 2026.4.11",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.11",
-      "downloadCount": 12157
+      "downloadCount": 13497
     },
     {
       "title": "openclaw 2026.4.11-beta.1",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.11-beta.1",
-      "downloadCount": 277
+      "downloadCount": 314
     },
     {
       "title": "openclaw 2026.4.10",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.10",
-      "downloadCount": 10284
+      "downloadCount": 10292
     },
     {
       "title": "openclaw 2026.4.9",
@@ -51,17 +61,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.9",
-      "downloadCount": 22544
-    },
-    {
-      "title": "openclaw 2026.4.9-beta.1",
-      "date": "2026-04-09T01:26:28Z",
-      "summary": "\n### Changes\n\n- Memory/dreaming: add a grounded REM backfill lane with historical `rem-harness --path`, diary commit/reset flows, cleaner durable-fact extraction, and live short-term promotion integra...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.9-beta.1",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.4.9-beta.1",
-      "downloadCount": 233
+      "downloadCount": 22553
     }
   ],
   "status": "success",
