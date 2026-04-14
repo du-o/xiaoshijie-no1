@@ -1,8 +1,29 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-04-14T06:00:12.095Z",
+  "fetch_time": "2026-04-14T09:09:59.293Z",
   "articles": [
+    {
+      "title": "31 个 WordPress 插件被收购后植入了后门",
+      "date": "Tue, 14 Apr 2026 07:59:37 GMT",
+      "summary": "一个印度开发团队以 Essential Plugin 的名义开发了 31 款 WordPress 插件，插件有免费版本也有付费版本。2024 年底由于收入下降了 35-45% 开发者将所有插件出售给了一个有 SEO、加密货币和赌博背景的买家，金额是六位数。2025 年 8 月 8 日买家释出了更新，其中包含了后门，但后门一直处于休眠状态。2026 年 4 月 5-6 日后门激活开始向所有运行相关插件的网站传播恶意载荷。恶意代码从指令控制服务器获取垃圾链接、重定向和虚假页面。这些垃圾信息只会显示给 Google 的机器人 Googlebot，对网站所有者不可见。WordPress.org 插件团队次日关闭了所有插件，但 SEO 垃圾信息注入攻击仍在进行中。这不是 WordPress.org 第一次遭遇模式相似的供应链攻击——收购信任插件然后注入恶意代码，它没有机制标记或审查插件所有权转移，也没有向用户发出插件所有权变更的通知，新所有者也不会触发额外的代码审查。最新攻击有数十万安装这些插件的网站受到影响。",
+      "url": "https://www.solidot.org/story?sid=84039",
+      "category": ""
+    },
+    {
+      "title": "FBI 搜查朝 Sam Altman 住宅扔燃烧瓶的男子家",
+      "date": "Tue, 14 Apr 2026 07:12:41 GMT",
+      "summary": "OpenAI CEO Sam Altman 过去几天遭遇了两次袭击。第一次是一名男子朝他在旧金山的住宅扔燃烧瓶，并在 OpenAI 总部大楼前发口头威胁；第二次是有人在汽车内朝 Altman 的家开枪。三位嫌疑人都遭到了逮捕。扔燃烧瓶的嫌疑人是 20 岁的 Daniel Moreno-Gama，FBI 搜查了他在德州的家。Moreno-Gama 还被发现在 Substack 上撰写博客表达对 AI 的担忧以及反对 AI 高管。他还是 Discord 服务器 PauseAI 的成员，该组织是一个致力于禁止开发最强大的 AI 模型以保护公众的激进组织。Moreno-Gama 被捕时携带了一份文件，表达对 AI 以及 AI 公司高管的反对立场，他本人此前并没有犯罪记录。",
+      "url": "https://www.solidot.org/story?sid=84038",
+      "category": ""
+    },
+    {
+      "title": "黑客入侵 a16z 投资的手机农场，试图让手机农场账号发帖称 a16z 是反基督 ",
+      "date": "Tue, 14 Apr 2026 06:45:50 GMT",
+      "summary": "一名黑客入侵了硅谷风投 a16z 投资的手机农场 Doublespeed，该公司使用 AI 生成的 TikTok 账号创建虚假网红、生成视频以及发评论。黑客试图控制 Doublespeed 的社交账号发梗图声称 a16z 是“反基督”，图像包含了 a16z 联合创始人、特朗普支持者 Marc Andreessen。Doublespeed 联合创始人 Zuhair Lakhani 称他们已经迅速采取行动阻止了这次未经授权的访问，该公司的社交账号没有发布未经授权的帖子。Doublespeed 从 a16z 获得了 100 万美元的投资。",
+      "url": "https://www.solidot.org/story?sid=84037",
+      "category": ""
+    },
     {
       "title": "扎克伯格可能很快会有他的 AI 克隆",
       "date": "Mon, 13 Apr 2026 16:13:14 GMT",
@@ -22,27 +43,6 @@
       "date": "Mon, 13 Apr 2026 14:12:59 GMT",
       "summary": "《传送门2（Portal 2）》自 2011 年 4 月发布至今已有 15 年，期间模组开发者推出了多个衍生版本，包括《Portal Stories: Mel》、《Aperture Tag: The Paint Gun Testing Initiative》以及《Portal Reloaded》等，现在由 P2:CE Team 开发的最新社区版本《传送门2社区版（Portal 2: Community Edition）》将于 4 月 18 日公测。《社区版》升级了引擎，使用了官方授权、基于 CS:GO 的 Source 引擎重度修改版本 Strata Source，原生支持 64 位改进了性能，新增原生 DirectX 11 支持，移除了旧引擎的很多限制，更新或改进了游戏玩法，提供了允许玩家轻松扩展游戏机制的脚本框架 AngelScript，采用了 Source 2 引擎的 Panorama UI 框架等等。《社区版》将免费提供给现有的《传送门2》玩家。",
       "url": "https://www.solidot.org/story?sid=84034",
-      "category": ""
-    },
-    {
-      "title": "长期接触农药可能诱发糖尿病",
-      "date": "Mon, 13 Apr 2026 13:24:21 GMT",
-      "summary": "2023 年全球农药使用量达 373 万吨，约为 1990 年的两倍。农药相关健康风险研究长期集中在急性中毒、神经毒性和癌症方面。新型基因技术如今已能用于追踪农药对肠道菌群的影响。印度团队对印度南部近 3000 人开展研究后发现，城市地区 23% 的人患有糖尿病，多与肥胖、高胆固醇等典型危险因素相关；但农村地区糖尿病患病率仍高达 16%，且与这些危险因素无关。研究人员怀疑环境化学物质可能发挥了作用研究团队在小鼠身上研究了一种广泛使用的农业杀虫剂——氯氰菊酯的影响。根据印度日常饮食中的农药残留量，研究团队采用了“现实剂量”，持续给药 120 天。研究显示，氯氰菊酯重塑了小鼠肠道菌群，其中乳酸杆菌等有益菌数量下降，幽门螺杆菌等潜在有害菌增多。即便体重没有增加，接触氯氰菊酯的小鼠仍出现了高血糖和糖尿病症状。农药似乎不仅会改变菌群种类，还会影响其代谢活性。在另一项大型研究中，研究人员将 17 种人体肠道代表性细菌暴露于 18 种不同农药，检测到微生物产生的数百种小分子物质发生变化，其中包括短链脂肪酸、胆汁酸和色氨酸相关分子。这些物质能维持肠道黏膜健康、调节炎症反应、调控免疫功能。他们还发现，部",
-      "url": "https://www.solidot.org/story?sid=84033",
-      "category": ""
-    },
-    {
-      "title": "Google Play 下架《心跳文学部》",
-      "date": "Mon, 13 Apr 2026 11:35:09 GMT",
-      "summary": "Google Play 下架了《心跳文学部（Doki Doki Literature Club）》，理由是游戏内容违反了与敏感主题相关的服务条款。作者 Dan Salvato 在一份声明中表示在致力于让游戏在 Google Play 重新上架。《心跳文学部》描述了一位男高中生加入学校的文学部与四位女性成员交流的故事，看起来是一个简单的恋爱视觉小说，但在完成一个结局之后故事会变得非常古怪，游戏会通过删除文件和存档的方式打破第四面墙。《心跳文学部》的免费版本积累了逾千万下载量，是 Steam 平台排名第一的心理恐怖游戏。关于敏感主题《心跳文学部》会在启动之后发出多次警告。《心跳文学部》有 iOS、Nintendo Switch、PlayStation 等各种版本。",
-      "url": "https://www.solidot.org/story?sid=84032",
-      "category": ""
-    },
-    {
-      "title": "Valve 工程师改进 Linux 游戏的显存占用",
-      "date": "Mon, 13 Apr 2026 10:57:17 GMT",
-      "summary": "随着游戏日益图像密集，显存占用愈来愈成为一大问题。提升视觉保真度需要将越来越多的游戏素材储存在显卡的显存内。但显存的容量有限，不是人人桌面上都有 128 GB 大显存的数据中心级 GPU。Valve 工程师 Natalie Vock 开发了新的内核补丁和两个专门的工具去解决容量在 8GB 以内的显卡显存占用问题。她的补丁主要针对 AMD GPU，英特尔的 Xe 显卡也支持，但使用私有驱动的英伟达显卡不支持——原因是英伟达私有内核模块不支持 dmem cgroups。她的方法主要是确保前台运行的游戏对显存有优先使用权，如果显存开始占满，后台任务占用的显存将优先转移到系统内存。在有 8GB 显存的显卡上运行《赛博朋克 2077》，有 1.37GB 的显存溢出到 GTT（Graphics Translation Table），游戏实际上只用了 6GB 显存，应用补丁之后游戏占用的显存提高到 7.4GB，GTT 减少到 650MB。",
-      "url": "https://www.solidot.org/story?sid=84031",
       "category": ""
     }
   ],
