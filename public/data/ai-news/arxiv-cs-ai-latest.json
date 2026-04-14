@@ -1,61 +1,62 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-04-14T03:22:17.823Z",
+  "fetch_time": "2026-04-14T06:00:09.439Z",
   "articles": [
     {
-      "title": "OpenKedge: Governing Agentic Mutation with Execution-Bound Safety and Evidence Chains",
-      "date": "Mon, 13 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.08601v1 Announce Type: new Abstract: The rise of autonomous AI agents exposes a fundamental flaw in API-centric architectures: probabilistic systems directly execute state mutations without sufficient context, coordination, or safety guarantees. We introduce OpenKedge, a protocol that redefines mutation as a governed process rather than an immediate consequence of API invocation. OpenKedge requires actors to submit declarative intent proposals, which are evaluated against deterministi",
-      "url": "https://arxiv.org/abs/2604.08601",
+      "title": "LABBench2: An Improved Benchmark for AI Systems Performing Biology Research",
+      "date": "Tue, 14 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.09554v1 Announce Type: new Abstract: Optimism for accelerating scientific discovery with AI continues to grow. Current applications of AI in scientific research range from training dedicated foundation models on scientific data to agentic autonomous hypothesis generation systems to AI-driven autonomous labs. The need to measure progress of AI systems in scientific domains correspondingly must not only accelerate, but increasingly shift focus to more real-world capabilities. Beyond rot",
+      "url": "https://arxiv.org/abs/2604.09554",
+      "category": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "Linear Programming for Multi-Criteria Assessment with Cardinal and Ordinal Data: A Pessimistic Virtual Gap Analysis",
+      "date": "Tue, 14 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.09555v1 Announce Type: new Abstract: Multi-criteria Analysis (MCA) is used to rank alternatives based on various criteria. Key MCA methods, such as Multiple Criteria Decision Making (MCDM) methods, estimate parameters for criteria to compute the performance of each alternative. Nonetheless, subjective evaluations and biases frequently influence the reliability of results, while the diversity of data affects the precision of the parameters. The novel linear programming-based Virtual Ga",
+      "url": "https://arxiv.org/abs/2604.09555",
+      "category": [
+        "cs.AI",
+        "math.OC"
+      ]
+    },
+    {
+      "title": "Seven simple steps for log analysis in AI systems",
+      "date": "Tue, 14 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.09563v1 Announce Type: new Abstract: AI systems produce large volumes of logs as they interact with tools and users. Analysing these logs can help understand model capabilities, propensities, and behaviours, or assess whether an evaluation worked as intended. Researchers have started developing methods for log analysis, but a standardised approach is still missing. Here we suggest a pipeline based on current best practices. We illustrate it with concrete code examples in the Inspect S",
+      "url": "https://arxiv.org/abs/2604.09563",
+      "category": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "Turing Test on Screen: A Benchmark for Mobile GUI Agent Humanization",
+      "date": "Tue, 14 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.09574v1 Announce Type: new Abstract: The rise of autonomous GUI agents has triggered adversarial countermeasures from digital platforms, yet existing research prioritizes utility and robustness over the critical dimension of anti-detection. We argue that for agents to survive in human-centric ecosystems, they must evolve Humanization capabilities. We introduce the ``Turing Test on Screen,'' formally modeling the interaction as a MinMax optimization problem between a detector and an ag",
+      "url": "https://arxiv.org/abs/2604.09574",
       "category": [
         "cs.AI",
         "cs.LG"
       ]
     },
     {
-      "title": "From Business Events to Auditable Decisions: Ontology-Governed Graph Simulation for Enterprise AI",
-      "date": "Mon, 13 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.08603v1 Announce Type: new Abstract: Existing LLM-based agent systems share a common architectural failure: they answer from the unrestricted knowledge space without first simulating how active business scenarios reshape that space for the event at hand -- producing decisions that are fluent but ungrounded and carrying no audit trail. We present LOM-action, which equips enterprise AI with \\emph{event-driven ontology simulation}: business events trigger scenario conditions encoded in t",
-      "url": "https://arxiv.org/abs/2604.08603",
-      "category": [
-        "cs.AI",
-        "cs.CL"
-      ]
-    },
-    {
-      "title": "Sustained Impact of Agentic Personalisation in Marketing: A Longitudinal Case Study",
-      "date": "Mon, 13 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.08621v1 Announce Type: new Abstract: In consumer applications, Customer Relationship Management (CRM) has traditionally relied on the manual optimisation of static, rule-based messaging strategies. While adaptive and autonomous learning systems offer the promise of scalable personalisation, it remains unclear to what extent ``human-in-the-loop'' oversight is required to sustain performance uplift over time. This paper presents a longitudinal case study analysing a real-world consumer ",
-      "url": "https://arxiv.org/abs/2604.08621",
-      "category": [
-        "cs.AI",
-        "cs.HC",
-        "cs.LG"
-      ]
-    },
-    {
-      "title": "RAMP: Hybrid DRL for Online Learning of Numeric Action Models",
-      "date": "Mon, 13 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.08685v1 Announce Type: new Abstract: Automated planning algorithms require an action model specifying the preconditions and effects of each action, but obtaining such a model is often hard. Learning action models from observations is feasible, but existing algorithms for numeric domains are offline, requiring expert traces as input. We propose the Reinforcement learning, Action Model learning, and Planning (RAMP) strategy for learning numeric planning action models online via interact",
-      "url": "https://arxiv.org/abs/2604.08685",
+      "title": "AHC: Meta-Learned Adaptive Compression for Continual Object Detection on Memory-Constrained Microcontrollers",
+      "date": "Tue, 14 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.09576v1 Announce Type: new Abstract: Deploying continual object detection on microcontrollers (MCUs) with under 100KB memory requires efficient feature compression that can adapt to evolving task distributions. Existing approaches rely on fixed compression strategies (e.g., FiLM conditioning) that cannot adapt to heterogeneous task characteristics, leading to suboptimal memory utilization and catastrophic forgetting. We introduce Adaptive Hierarchical Compression (AHC), a meta-learnin",
+      "url": "https://arxiv.org/abs/2604.09576",
       "category": "cs.AI"
     },
     {
-      "title": "Parameterized Complexity Of Representing Models Of MSO Formulas",
-      "date": "Mon, 13 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.08707v1 Announce Type: new Abstract: Monadic second order logic (MSO2) plays an important role in parameterized complexity due to the Courcelle's theorem. This theorem states that the problem of checking if a given graph has a property specified by a given MSO2 formula can be solved by a parameterized linear time algorithm with respect to the treewidth of the graph and the size of the formula. We extend this result by showing that models of MSO2 formula with free variables can be repr",
-      "url": "https://arxiv.org/abs/2604.08707",
-      "category": [
-        "cs.AI",
-        "cs.CC"
-      ]
-    },
-    {
-      "title": "Model Space Reasoning as Search in Feedback Space for Planning Domain Generation",
-      "date": "Mon, 13 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.08712v1 Announce Type: new Abstract: The generation of planning domains from natural language descriptions remains an open problem even with the advent of large language models and reasoning models. Recent work suggests that while LLMs have the ability to assist with domain generation, they are still far from producing high quality domains that can be deployed in practice. To this end, we investigate the ability of an agentic language model feedback framework to generate planning doma",
-      "url": "https://arxiv.org/abs/2604.08712",
+      "title": "Explainable Planning for Hybrid Systems",
+      "date": "Tue, 14 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.09578v1 Announce Type: new Abstract: The recent advancement in artificial intelligence (AI) technologies facilitates a paradigm shift toward automation. Autonomous systems are fully or partially replacing manually crafted ones. At the core of these systems is automated planning. With the advent of powerful planners, automated planning is now applied to many complex and safety-critical domains, including smart energy grids, self-driving cars, warehouse automation, urban and air traffic",
+      "url": "https://arxiv.org/abs/2604.09578",
       "category": "cs.AI"
     }
   ],
