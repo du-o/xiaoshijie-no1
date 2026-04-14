@@ -1,13 +1,27 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-04-13T12:53:27.061Z",
+  "fetch_time": "2026-04-14T03:22:17.479Z",
   "articles": [
     {
-      "title": "Research with ChatGPT",
+      "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+      "date": "Mon, 13 Apr 2026 06:00:00 GMT",
+      "summary": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
+      "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
+      "category": "Global Affairs"
+    },
+    {
+      "title": "ChatGPT for operations teams",
       "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
-      "url": "https://openai.com/academy/search-and-deep-research",
+      "summary": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.",
+      "url": "https://openai.com/academy/operations",
+      "category": "OpenAI Academy"
+    },
+    {
+      "title": "Applications of AI at OpenAI",
+      "date": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "summary": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
+      "url": "https://openai.com/academy/applications-of-ai",
       "category": "OpenAI Academy"
     },
     {
@@ -18,32 +32,18 @@
       "category": "OpenAI Academy"
     },
     {
-      "title": "ChatGPT for research",
+      "title": "Brainstorming with ChatGPT",
       "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
-      "url": "https://openai.com/academy/research",
+      "summary": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
+      "url": "https://openai.com/academy/brainstorming",
       "category": "OpenAI Academy"
     },
     {
-      "title": "Financial services",
+      "title": "Our response to the Axios developer tool compromise",
       "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to help institutions deploy and scale AI securely.",
-      "url": "https://openai.com/academy/financial-services",
-      "category": "OpenAI Academy"
-    },
-    {
-      "title": "Responsible and safe use of AI ",
-      "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
-      "url": "https://openai.com/academy/responsible-and-safe-use",
-      "category": "OpenAI Academy"
-    },
-    {
-      "title": "Prompting fundamentals",
-      "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
-      "url": "https://openai.com/academy/prompting",
-      "category": "OpenAI Academy"
+      "summary": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
+      "url": "https://openai.com/index/axios-developer-tool-compromise",
+      "category": "Security"
     }
   ],
   "status": "success",
