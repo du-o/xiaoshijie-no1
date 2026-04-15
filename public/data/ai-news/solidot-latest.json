@@ -1,48 +1,48 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-04-14T12:53:07.310Z",
+  "fetch_time": "2026-04-15T03:20:23.264Z",
   "articles": [
+    {
+      "title": "Google 将惩罚“后退按钮劫持”行为",
+      "date": "Tue, 14 Apr 2026 16:56:20 GMT",
+      "summary": "今天的很多网站不让用户“后退”，但到了 6 月 15 日，如果网站还这么做，Google 将会进行惩罚，大幅降低网站的搜索排名。Google 将把这种被称为“后退按钮劫持”的做法定性为恶意行为。“后退按钮劫持”旨在强行将用户留在网站以增加流量，当访客试图通过后退按钮返回上一页，网站会篡改页面浏览历史记录，在用户点击后退按钮时插入其他内容。Google 表示，后退按钮应该始终执行用户预期的功能——返回上一页，任何其他行为都属于一种欺骗性的用户体验。",
+      "url": "https://www.solidot.org/story?sid=84046",
+      "category": ""
+    },
+    {
+      "title": "德国主权科技基金向 Mastodon 资助 61.4 万欧元",
+      "date": "Tue, 14 Apr 2026 16:02:30 GMT",
+      "summary": "德国主权科技基金（Sovereign Tech Fund)向联邦宇宙微博客项目 Mastodon 资助 61.4 万欧元，用于支持 Mastodon 及其软件生态系统的改进和更新。这笔资金将投入到改进：黑名单同步；新的 Fediverse Auxiliary Service Provider(FASP)允许服务器之间共享存储和媒体处理资源；自动化内容检测；私信端到端加密；改进文档。相关改进预计在 2026 年底到 2027 年完成。",
+      "url": "https://www.solidot.org/story?sid=84045",
+      "category": ""
+    },
+    {
+      "title": "OpenSSL 4.0 释出",
+      "date": "Tue, 14 Apr 2026 15:27:38 GMT",
+      "summary": "OpenSSL 项目释出了 v4.0 版本。主要新特性包括：支持 Encrypted Client Hello (ECH)，通过加密初始 TLS 握手以及隐藏服务器名称指示(SNI)提供更好的隐私保护；移除 SSLv3 等旧协议/引擎支持；通过支持 RFC 8998 改进后量子加密支持；移除 SSLv2 Client Hello，停止支持 Darwin i386 和 PowerPC/PPC64 等。",
+      "url": "https://www.solidot.org/story?sid=84044",
+      "category": ""
+    },
+    {
+      "title": "Servo 发布首个 crates.io 版本",
+      "date": "Tue, 14 Apr 2026 15:02:42 GMT",
+      "summary": "Rust 语言开发的浏览器渲染引擎项目 Servo 释出了 servo crate v0.1.0，这是它发布的首个 crates.io 版本，允许 Servo 作为一个库供其他项目使用。Servo 源自 Mozilla，2020 年 8 月 Mozilla 在裁员时砍掉了 Servo 引擎团队的大部分成员。Servo 项目之后脱离 Mozilla 成为一个独立项目，由 Linux 基金会托管，旨在为其它项目提供一个嵌入的高性能的、安全的渲染引擎。Servo 项目于 2025 年 10 月释出了 v0.0.1 版本，之后以每月发布一个新版本的频率发布。开发者表示他们计划以每半年更新一次的频率提供长期支持版本(LTS)，因为嵌入开发者可能无法及时更新到最新 Servo 版本，他们更适合使用 LTS 版本。LTS 版本预计将提供九个月的安全更新。",
+      "url": "https://www.solidot.org/story?sid=84043",
+      "category": ""
+    },
+    {
+      "title": "斯坦福的 AI 报告认为中美差距微乎其微",
+      "date": "Tue, 14 Apr 2026 14:37:21 GMT",
+      "summary": "斯坦福大学研究院 Institute for Human-Centered Artificial Intelligence(HAI)发布了年度报告 AI Index，报告认为中国顶级 AI 与美国 AI 相差无几。2024 年 1 月美国顶级 AI 的得分比中国顶级 AI 高 10% 左右，到 2026 年 3 月美国 Anthropic 和字节跳动的 AI 得分差距仅为 2.7%。在衡量语言、数学和编程领域难题正确率的基准测试中，差距也在缩小，中美之间的性能差距已基本消除。在开发和运营数据中心数量方面，美国有 5427 个遥遥领先于其他国家，2025 年民间投资额美国也以 2859 亿美元遥遥领先其他国家。中国的民间投资仅为 124 亿美元，但政府投资较大，实际投资额尚不明确。在被引用最多的前 100 篇论文中，中国的论文在 2024 年达到 41 篇，比上年增加 7 篇，缩小了与排名第一的美国（46 篇）的差距。",
+      "url": "https://www.solidot.org/story?sid=84042",
+      "category": ""
+    },
     {
       "title": "人类止痛药对龙虾有效",
       "date": "Tue, 14 Apr 2026 09:55:08 GMT",
       "summary": "根据发表在《Scientific Reports》期刊上的一项研究，龙虾能感受到疼痛，而人类止痛药也能帮助它止痛。这项研究再次表明需要为甲壳类动物开发出更人道的宰杀方法。新研究发现，当挪威龙虾在水中遭受电击时它们会快速摆动尾巴试图逃脱。但如果用止痛药阿司匹林和利多卡因预先为龙虾镇痛，尾巴摆动会减少甚至消失。论文合作者 Lynne Sneddon 称人类止痛药对挪威龙虾也有效，这表明人类生理功能与龙虾十分相似。人类应像对待鸡和牛一样重视对甲壳类动物的饲养和宰杀方式。",
       "url": "https://www.solidot.org/story?sid=84041",
-      "category": ""
-    },
-    {
-      "title": "含氟自来水对 IQ 和大脑功能没有影响",
-      "date": "Tue, 14 Apr 2026 08:53:50 GMT",
-      "summary": "根据发表在 PNAS 期刊上的一项长期研究，儿童时期饮用含氟自来水对直至 80 岁的智商和大脑功能没有影响。美国反疫苗的卫生部长 Robert F. Kennedy Jr.此前宣称饮用水中的氟化物与 IQ 下降相关。美国多个红州——其中包括犹他州和佛罗里达州——已经颁布了禁令禁止在饮用水中添加氟化物，理由是担心氟化物导致 IQ 下降。肯塔基州、路易斯安那州、密苏里州和俄克拉荷马州等也在审议类似的立法。反对饮用水中添加氟化物的人士引用的研究多来自中国等国，这些国家饮用水中的氟化物浓度远高于美国，相关研究认为氟化物可能与儿童 IQ 有关。根据美国 CDC 的数据，预防龋齿的饮用水最优氟化物浓度为每升 0.7 毫克，相当于在 55 加仑的水桶中滴入 3 滴。美国饮用水法定氟化物浓度上限为每升 4.0 毫克。",
-      "url": "https://www.solidot.org/story?sid=84040",
-      "category": ""
-    },
-    {
-      "title": "31 个 WordPress 插件被收购后植入了后门",
-      "date": "Tue, 14 Apr 2026 07:59:37 GMT",
-      "summary": "一个印度开发团队以 Essential Plugin 的名义开发了 31 款 WordPress 插件，插件有免费版本也有付费版本。2024 年底由于收入下降了 35-45% 开发者将所有插件出售给了一个有 SEO、加密货币和赌博背景的买家，金额是六位数。2025 年 8 月 8 日买家释出了更新，其中包含了后门，但后门一直处于休眠状态。2026 年 4 月 5-6 日后门激活开始向所有运行相关插件的网站传播恶意载荷。恶意代码从指令控制服务器获取垃圾链接、重定向和虚假页面。这些垃圾信息只会显示给 Google 的机器人 Googlebot，对网站所有者不可见。WordPress.org 插件团队次日关闭了所有插件，但 SEO 垃圾信息注入攻击仍在进行中。这不是 WordPress.org 第一次遭遇模式相似的供应链攻击——收购信任插件然后注入恶意代码，它没有机制标记或审查插件所有权转移，也没有向用户发出插件所有权变更的通知，新所有者也不会触发额外的代码审查。最新攻击有数十万安装这些插件的网站受到影响。",
-      "url": "https://www.solidot.org/story?sid=84039",
-      "category": ""
-    },
-    {
-      "title": "FBI 搜查朝 Sam Altman 住宅扔燃烧瓶的男子家",
-      "date": "Tue, 14 Apr 2026 07:12:41 GMT",
-      "summary": "OpenAI CEO Sam Altman 过去几天遭遇了两次袭击。第一次是一名男子朝他在旧金山的住宅扔燃烧瓶，并在 OpenAI 总部大楼前发口头威胁；第二次是有人在汽车内朝 Altman 的家开枪。三位嫌疑人都遭到了逮捕。扔燃烧瓶的嫌疑人是 20 岁的 Daniel Moreno-Gama，FBI 搜查了他在德州的家。Moreno-Gama 还被发现在 Substack 上撰写博客表达对 AI 的担忧以及反对 AI 高管。他还是 Discord 服务器 PauseAI 的成员，该组织是一个致力于禁止开发最强大的 AI 模型以保护公众的激进组织。Moreno-Gama 被捕时携带了一份文件，表达对 AI 以及 AI 公司高管的反对立场，他本人此前并没有犯罪记录。",
-      "url": "https://www.solidot.org/story?sid=84038",
-      "category": ""
-    },
-    {
-      "title": "黑客入侵 a16z 投资的手机农场，试图让手机农场账号发帖称 a16z 是反基督 ",
-      "date": "Tue, 14 Apr 2026 06:45:50 GMT",
-      "summary": "一名黑客入侵了硅谷风投 a16z 投资的手机农场 Doublespeed，该公司使用 AI 生成的 TikTok 账号创建虚假网红、生成视频以及发评论。黑客试图控制 Doublespeed 的社交账号发梗图声称 a16z 是“反基督”，图像包含了 a16z 联合创始人、特朗普支持者 Marc Andreessen。Doublespeed 联合创始人 Zuhair Lakhani 称他们已经迅速采取行动阻止了这次未经授权的访问，该公司的社交账号没有发布未经授权的帖子。Doublespeed 从 a16z 获得了 100 万美元的投资。",
-      "url": "https://www.solidot.org/story?sid=84037",
-      "category": ""
-    },
-    {
-      "title": "扎克伯格可能很快会有他的 AI 克隆",
-      "date": "Mon, 13 Apr 2026 16:13:14 GMT",
-      "summary": "FT 报道，Meta 正在构建一个 AI 版本的扎克伯格（Mark Zuckerberg），代替真人与员工互动。报道援引知情人士的消息称，这是该公司目前的优先事项，扎克伯格本人亲自参与了 AI 的训练和测试。AI 的训练内容包括他的举止、语气和公开发表的声明，以及近期对公司战略的思考，以便员工能通过与其互动感受到与创始人更紧密的联系。知情人士称，这项工作的重点之一是制作逼真的虚拟 AI 角色，因为需要大量的算力才能实现逼真的效果以及避免在与用户交互时出现延迟，因此扩大规模存在困难之处。如果实验成功的话，未来网红和内容创作者也可以采用这项技术。",
-      "url": "https://www.solidot.org/story?sid=84036",
       "category": ""
     }
   ],

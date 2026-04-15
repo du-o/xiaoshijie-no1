@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-04-14T12:53:22.140Z",
+  "fetch_time": "2026-04-15T03:20:35.234Z",
   "articles": [
+    {
+      "title": "openclaw 2026.4.14",
+      "date": "2026-04-14T13:03:29Z",
+      "summary": "OpenClaw `2026.4.14` is another broad quality release focused on model provider with explicit turn improvements for GPT-5 family and channel provider issues. Additionally we improved overal performanc...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.14",
+      "category": "Release",
+      "author": "vincentkoc",
+      "tagName": "v2026.4.14",
+      "downloadCount": 5730
+    },
     {
       "title": "openclaw 2026.4.14-beta.1",
       "date": "2026-04-14T02:07:43Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.14-beta.1",
-      "downloadCount": 465
+      "downloadCount": 528
     },
     {
       "title": "openclaw 2026.4.12",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.12-beta.1",
-      "downloadCount": 702
+      "downloadCount": 717
     },
     {
       "title": "openclaw 2026.4.11",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.11",
-      "downloadCount": 19034
+      "downloadCount": 19557
     },
     {
       "title": "openclaw 2026.4.11-beta.1",
@@ -51,17 +61,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.11-beta.1",
-      "downloadCount": 340
-    },
-    {
-      "title": "openclaw 2026.4.10",
-      "date": "2026-04-11T02:43:25Z",
-      "summary": "## 2026.4.10\n\n### Changes\n\n- Models/Codex: add the bundled Codex provider and plugin-owned app-server harness so `codex/gpt-*` models use Codex-managed auth, native threads, model discovery, and compa...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.10",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.4.10",
-      "downloadCount": 10377
+      "downloadCount": 351
     }
   ],
   "status": "success",
