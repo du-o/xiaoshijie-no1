@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-04-16T09:09:55.683Z",
+  "fetch_time": "2026-04-16T12:56:39.375Z",
   "articles": [
+    {
+      "title": "Accelerating the cyber defense ecosystem that protects us all",
+      "date": "Thu, 16 Apr 2026 00:00:00 GMT",
+      "summary": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
+      "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
+      "category": "Security"
+    },
     {
       "title": "The next evolution of the Agents SDK",
       "date": "Wed, 15 Apr 2026 10:00:00 GMT",
@@ -25,24 +32,17 @@
       "category": "Global Affairs"
     },
     {
-      "title": "Prompting fundamentals",
+      "title": "Responsible and safe use of AI ",
       "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
-      "url": "https://openai.com/academy/prompting",
+      "summary": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
+      "url": "https://openai.com/academy/responsible-and-safe-use",
       "category": "OpenAI Academy"
     },
     {
-      "title": "Using projects in ChatGPT",
+      "title": "Writing with ChatGPT",
       "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
-      "url": "https://openai.com/academy/projects",
-      "category": "OpenAI Academy"
-    },
-    {
-      "title": "ChatGPT for research",
-      "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
-      "url": "https://openai.com/academy/research",
+      "summary": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent.",
+      "url": "https://openai.com/academy/writing",
       "category": "OpenAI Academy"
     }
   ],
