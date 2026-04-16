@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-04-15T12:52:38.451Z",
+  "fetch_time": "2026-04-16T03:28:38.390Z",
   "articles": [
+    {
+      "title": "The next evolution of the Agents SDK",
+      "date": "Wed, 15 Apr 2026 10:00:00 GMT",
+      "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
+      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+      "category": "Product"
+    },
     {
       "title": "Trusted access for the next era of cyber defense",
       "date": "Tue, 14 Apr 2026 00:00:00 GMT",
@@ -18,20 +25,6 @@
       "category": "Global Affairs"
     },
     {
-      "title": "Responsible and safe use of AI ",
-      "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
-      "url": "https://openai.com/academy/responsible-and-safe-use",
-      "category": "OpenAI Academy"
-    },
-    {
-      "title": "Research with ChatGPT",
-      "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
-      "url": "https://openai.com/academy/search-and-deep-research",
-      "category": "OpenAI Academy"
-    },
-    {
       "title": "Prompting fundamentals",
       "date": "Fri, 10 Apr 2026 00:00:00 GMT",
       "summary": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
@@ -39,10 +32,17 @@
       "category": "OpenAI Academy"
     },
     {
-      "title": "ChatGPT for customer success teams",
+      "title": "Using projects in ChatGPT",
       "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce churn, and drive adoption and renewals.",
-      "url": "https://openai.com/academy/customer-success",
+      "summary": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
+      "url": "https://openai.com/academy/projects",
+      "category": "OpenAI Academy"
+    },
+    {
+      "title": "ChatGPT for research",
+      "date": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "summary": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
+      "url": "https://openai.com/academy/research",
       "category": "OpenAI Academy"
     }
   ],

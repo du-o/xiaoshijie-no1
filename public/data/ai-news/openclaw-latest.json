@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-04-15T12:52:55.854Z",
+  "fetch_time": "2026-04-16T03:28:53.847Z",
   "articles": [
+    {
+      "title": "OpenClaw 2026.4.15-beta.1",
+      "date": "2026-04-15T19:40:30Z",
+      "summary": "### Changes\n\n- Control UI/Overview: add a Model Auth status card showing OAuth token health and provider rate-limit pressure at a glance, with attention callouts when OAuth tokens are expiring or expi...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.15-beta.1",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.4.15-beta.1",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.4.14",
       "date": "2026-04-14T13:03:29Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "vincentkoc",
       "tagName": "v2026.4.14",
-      "downloadCount": 10688
+      "downloadCount": 15841
     },
     {
       "title": "openclaw 2026.4.14-beta.1",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.14-beta.1",
-      "downloadCount": 559
+      "downloadCount": 576
     },
     {
       "title": "openclaw 2026.4.12",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.12-beta.1",
-      "downloadCount": 726
+      "downloadCount": 732
     },
     {
       "title": "openclaw 2026.4.11",
@@ -51,17 +61,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.11",
-      "downloadCount": 19605
-    },
-    {
-      "title": "openclaw 2026.4.11-beta.1",
-      "date": "2026-04-11T15:15:03Z",
-      "summary": "\n### Changes\n\n- Dreaming/memory-wiki: add ChatGPT import ingestion plus new `Imported Insights` and `Memory Palace` diary subtabs so Dreaming can inspect imported source chats, compiled wiki pages, an...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.11-beta.1",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.4.11-beta.1",
-      "downloadCount": 356
+      "downloadCount": 19643
     }
   ],
   "status": "success",

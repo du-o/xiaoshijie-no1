@@ -1,8 +1,36 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-04-15T12:52:41.815Z",
+  "fetch_time": "2026-04-16T03:28:41.804Z",
   "articles": [
+    {
+      "title": "全球暖化危及水稻产量",
+      "date": "Wed, 15 Apr 2026 16:34:40 GMT",
+      "summary": "全球九成以上的大米产自亚洲，亚洲有逾十亿人口以大米为主食。历史数据显示，亚洲大米过去九千年很少能在年平均气温逾 28°C 或暖季最高气温逾 33°C 的地区茁壮成长，而全球暖化的速度比水稻能适应的速度快 5000 倍。根据发表在《Communications Earth &amp; Environment》期刊上的一项研究，预计到 2070 年印度和东南亚等传统水稻种植区的温度将超过 40 摄氏度，在这种温度下现有的亚洲水稻无法正常生长，逾十亿人的粮食安全面临威胁。研究人员指出，现有的水稻未适应气温升高，而是其种植从较暖的地区扩大到了较凉的地区，种植面积增加了，但承受气候变化的能力并没有增长。以中国为例，水稻种植从华中扩大到华北，同时加大了炎热地区的灌溉力度，因此大米的产量才略有增长。",
+      "url": "https://www.solidot.org/story?sid=84057",
+      "category": ""
+    },
+    {
+      "title": "美国国会新法案要求操作系统验证用户年龄",
+      "date": "Wed, 15 Apr 2026 14:41:16 GMT",
+      "summary": "美国民主党议员 Josh Gottheimer 和共和党议员 Elise M. Stefanik 联合提出了一项新法案，要求操作系统开发商验证用户的年龄。法案已于 4 月 13 日递交到众议院能源和商业委员，其详细内容还没有公开，目前只知道法案的标题是“To require operating system providers to verify the age of any user of an operating system, and for other purposes”。该法案可能是 Gottheimer 本月初提出的 Parents Decide Act 的一部分，其中包括：要求苹果和 Google 等操作系统开发商在设置新设备时验证用户年龄，不依赖于用户自行报告的年龄；允许家长从一开始就设置适合孩子年龄的内容控制，包括限制访问社交媒体、应用和 AI 平台；确保年龄和家长控制设置安全传输到应用和 AI 平台，它们因此能为儿童量身定制内容；通过在各个平台建立一致且可信的标准，防止儿童访问有害或露骨的内容，包括不合适的 AI 聊天机器人互动。",
+      "url": "https://www.solidot.org/story?sid=84056",
+      "category": ""
+    },
+    {
+      "title": "斯坦福报告凸显了 AI 业内人士和公众之间的分歧",
+      "date": "Wed, 15 Apr 2026 14:23:49 GMT",
+      "summary": "斯坦福大学 HAI 研究院本周一发表了年度报告 AI Index。报告凸显了 AI 业内人士和公众之间日益扩大的分歧。报告援引皮尤研究中心上月发布的一份报告：只有 10% 的美国人对 AI 在日常生活中的日益普及感到兴奋而非担忧，但 56% 的 AI 专家认为 AI 将在未来 20 年对美国产生积极影响。AI 专家的意见和公众情绪存在显著分歧：84% 的专家认为 AI 未来 20 年将对医疗保健产生积极影响，只有 44% 的公众持相同观点；73% 的专家积极看待 AI 对工作方式的影响，而持相同观点的公众仅占 23%；69% 的专家认为 AI 将对经济产生积极影响，只有 21% 的公众持相同观点；AI 专家对 AI 对就业市场的影响持较为乐观态度，而 64% 的公众认为 AI 将在未来 20 年导致就业岗位减少。",
+      "url": "https://www.solidot.org/story?sid=84055",
+      "category": ""
+    },
+    {
+      "title": "俄罗斯流行应用被发现会检测是否安装 VPN",
+      "date": "Wed, 15 Apr 2026 13:43:09 GMT",
+      "summary": "RKS Global 的专家发现，30 款俄罗斯最流行 Android 应用​有 22 款能检测 VPN，其中 19 款会将 VPN 状态发送至服务器。这些应用包括：Yandex Browser、Yandex Maps、VKontakte、My MTS、Sberbank Online、T-Bank、VK Video、Wildberries、 Kinopoisk、Ozon、Samokat、RuStore、VTB Online、Yandex Music、Avito、Alfa-Bank、2GIS、MegaMarket、Odnoklassniki、MAX、Rutube 和 VK Music。俄罗斯数字发展部已经要求大型企业从 4 月 15 日起限制那些在设备上启用了 VPN 的用户的访问。调查发现，Avito 应用会检测设备上是否安装了逾 200 种外国应用，其中包括银行、加密货币钱包和 IM 等。",
+      "url": "https://www.solidot.org/story?sid=84054",
+      "category": ""
+    },
     {
       "title": "安娜的档案被勒令向 Spotify 等赔偿 3.22 亿美元",
       "date": "Wed, 15 Apr 2026 10:30:17 GMT",
@@ -15,34 +43,6 @@
       "date": "Wed, 15 Apr 2026 08:53:11 GMT",
       "summary": "芝加哥音乐粉丝 Aadam Jacobs 自 1980 年代起录制他参加的演唱会，至今积累了逾万盘磁带。现年 59 岁的 Jacobs 知道磁带会随着时间推移而损坏，因此他同意互联网档案馆的志愿者将这些磁带数字化。互联网档案馆已经上传了 2477 盘音乐会磁带，其中包括相当罕见的 1989 年涅盘乐队（Nirvana）音乐会磁带，乐队被主流观众所熟悉是在 1991 年发行的单曲 Smells Like Teen Spirit 之后。",
       "url": "https://www.solidot.org/story?sid=84052",
-      "category": ""
-    },
-    {
-      "title": "美国最完美的约会日期是 10 月 8 日",
-      "date": "Wed, 15 Apr 2026 07:53:47 GMT",
-      "summary": "在 2000 年上映的电影《特工佳丽（Miss Congeniality）》中，桑德拉·布洛克扮演的女主角被问到完美的约会日期时回答，“April 25th, because it's not too hot, not too cold. All you need is a light jacket”。但 4 月 25 日真的是完美的天气？WeatherBug 对美国自 2018 年以来的天气的分析显示，10 月 8 日才是全美温度最舒适和降雨量最低的日期，当天的平均气温约为 19 摄氏度，降雨量约 0.25 毫米。而 4 月 25 日在全年排名中排在第 80 位，平均气温 16 摄氏度，降雨量约 0.32 毫米。数据显示，7 月是美国全年最热的月份，而 1 月则是最冷的月份，1 月 20 日的全国平均气温约 0.5 摄氏度。",
-      "url": "https://www.solidot.org/story?sid=84051",
-      "category": ""
-    },
-    {
-      "title": "英国首相表示社媒平台应停止无限滚动",
-      "date": "Wed, 15 Apr 2026 07:30:02 GMT",
-      "summary": "在澳大利亚等国之后，英国也在考虑限制儿童使用社交媒体，它正在测试禁令、宵禁和应用使用时间限制等措施观察这些措施对儿童睡眠、家庭生活和学业的影响。英国首相 Keir Starmer 表示社媒平台应移除针对年轻用户的让人上瘾的无限滚动功能。他接受 BBC 采访时称社媒公司设计的算法旨在让用户上瘾，家长正要求政府介入。",
-      "url": "https://www.solidot.org/story?sid=84050",
-      "category": ""
-    },
-    {
-      "title": "微软 Surface 系列产品大幅涨价",
-      "date": "Wed, 15 Apr 2026 07:07:22 GMT",
-      "summary": "由于 AI 热导致内存和固态硬盘等产品供不应求，相关零部件过去几个月价格翻了几倍，导致电脑和手机等产品也跟着涨价，现在微软也大幅提高了其 Surface 系列产品的价格。12 英寸的 Surface Pro 从 799 美元涨到了 1049 美元（起售价），13 英寸的 Surface Pro 从 999 美元涨到 1499 美元，13 英寸的 Surface Laptop 从 899 美元涨到了 1149 美元，13.8 英寸 Surface Laptop 从 999 美元涨到 1499 美元，15 英寸型号起售价现在为 1599 美元。15 英寸 Surface Laptop 的顶配如今价格超过了同等规格的苹果 16 英寸 MacBook Pro。难以想象苹果的电脑产品有一天会成为比 Windows 电脑更廉价同时性能还更好的产品。",
-      "url": "https://www.solidot.org/story?sid=84049",
-      "category": ""
-    },
-    {
-      "title": "亚马逊收购 Globalstar",
-      "date": "Wed, 15 Apr 2026 06:23:50 GMT",
-      "summary": "亚马逊和 Globalstar 发表新闻稿，宣布达成了收购协议，扩大亚马逊的 Leo 宽带卫星网络。苹果持有 Globalstar 五分之一的股份，作为收购协议的一部分，苹果与亚马逊达成协议，Amazon Leo 将为 iPhone 和 Apple Watch 提供卫星服务，包括通过卫星提供紧急 SOS 求救服务。",
-      "url": "https://www.solidot.org/story?sid=84048",
       "category": ""
     }
   ],
