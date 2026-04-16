@@ -1,12 +1,12 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-04-16T03:28:38.715Z",
+  "fetch_time": "2026-04-16T06:01:05.574Z",
   "articles": [
     {
       "title": "The Non-Optimality of Scientific Knowledge: Path Dependence, Lock-In, and The Local Minimum Trap",
-      "date": "Wed, 15 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.11828v1 Announce Type: new Abstract: Science is widely regarded as humanity's most reliable method for uncovering truths about the natural world. Yet the \\emph{trajectory} of scientific discovery is rarely examined as an optimization problem in its own right. This paper argues that the body of scientific knowledge, at any given historical moment, represents a \\emph{local optimum} rather than a global one--that the frameworks, formalisms, and paradigms through which we understand natur",
+      "date": "Thu, 16 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.11828v2 Announce Type: new Abstract: Science is widely regarded as humanity's most reliable method for uncovering truths about the natural world. Yet the \\emph{trajectory} of scientific discovery is rarely examined as an optimization problem in its own right. This paper argues that the body of scientific knowledge, at any given historical moment, represents a \\emph{local optimum} rather than a global one--that the frameworks, formalisms, and paradigms through which we understand natur",
       "url": "https://arxiv.org/abs/2604.11828",
       "category": [
         "cs.AI",
@@ -16,14 +16,14 @@
     },
     {
       "title": "Self-Monitoring Benefits from Structural Integration: Lessons from Metacognition in Continuous-Time Multi-Timescale Agents",
-      "date": "Wed, 15 Apr 2026 04:00:00 GMT",
+      "date": "Thu, 16 Apr 2026 04:00:00 GMT",
       "summary": "arXiv:2604.11914v1 Announce Type: new Abstract: Self-monitoring capabilities -- metacognition, self-prediction, and subjective duration -- are often proposed as useful additions to reinforcement learning agents. But do they actually help? We investigate this question in a continuous-time multi-timescale agent operating in predator-prey survival environments of varying complexity, including a 2D partially observable variant. We first show that three self-monitoring modules, implemented as auxilia",
       "url": "https://arxiv.org/abs/2604.11914",
       "category": "cs.AI"
     },
     {
       "title": "GoodPoint: Learning Constructive Scientific Paper Feedback from Author Responses",
-      "date": "Wed, 15 Apr 2026 04:00:00 GMT",
+      "date": "Thu, 16 Apr 2026 04:00:00 GMT",
       "summary": "arXiv:2604.11924v1 Announce Type: new Abstract: While LLMs hold significant potential to transform scientific research, we advocate for their use to augment and empower researchers rather than to automate research without human oversight. To this end, we study constructive feedback generation, the task of producing targeted, actionable feedback that helps authors improve both their research and its presentation. In this work, we operationalize the effectiveness of feedback along two author-centr",
       "url": "https://arxiv.org/abs/2604.11924",
       "category": [
@@ -33,21 +33,21 @@
     },
     {
       "title": "Narrative-Driven Paper-to-Slide Generation via ArcDeck",
-      "date": "Wed, 15 Apr 2026 04:00:00 GMT",
+      "date": "Thu, 16 Apr 2026 04:00:00 GMT",
       "summary": "arXiv:2604.11969v1 Announce Type: new Abstract: We introduce ArcDeck, a multi-agent framework that formulates paper-to-slide generation as a structured narrative reconstruction task. Unlike existing methods that directly summarize raw text into slides, ArcDeck explicitly models the source paper's logical flow. It first parses the input to construct a discourse tree and establish a global commitment document, ensuring the high-level intent is preserved. These structural priors then guide an itera",
       "url": "https://arxiv.org/abs/2604.11969",
       "category": "cs.AI"
     },
     {
       "title": "The Long-Horizon Task Mirage? Diagnosing Where and Why Agentic Systems Break",
-      "date": "Wed, 15 Apr 2026 04:00:00 GMT",
+      "date": "Thu, 16 Apr 2026 04:00:00 GMT",
       "summary": "arXiv:2604.11978v1 Announce Type: new Abstract: Large language model (LLM) agents perform strongly on short- and mid-horizon tasks, but often break down on long-horizon tasks that require extended, interdependent action sequences. Despite rapid progress in agentic systems, these long-horizon failures remain poorly characterized, hindering principled diagnosis and comparison across domains. To address this gap, we introduce HORIZON, an initial cross-domain diagnostic benchmark for systematically ",
       "url": "https://arxiv.org/abs/2604.11978",
       "category": "cs.AI"
     },
     {
       "title": "When to Forget: A Memory Governance Primitive",
-      "date": "Wed, 15 Apr 2026 04:00:00 GMT",
+      "date": "Thu, 16 Apr 2026 04:00:00 GMT",
       "summary": "arXiv:2604.12007v1 Announce Type: new Abstract: Agent memory systems accumulate experience but currently lack a principled operational metric for memory quality governance -- deciding which memories to trust, suppress, or deprecate as the agent's task distribution shifts. Write-time importance scores are static; dynamic management systems use LLM judgment or structural heuristics rather than outcome feedback. This paper proposes Memory Worth (MW): a two-counter per-memory signal that tracks how ",
       "url": "https://arxiv.org/abs/2604.12007",
       "category": "cs.AI"
