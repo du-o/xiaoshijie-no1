@@ -1,8 +1,22 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-04-16T12:56:39.375Z",
+  "fetch_time": "2026-04-17T03:23:43.738Z",
   "articles": [
+    {
+      "title": "Codex for (almost) everything",
+      "date": "Thu, 16 Apr 2026 10:00:00 GMT",
+      "summary": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
+      "url": "https://openai.com/index/codex-for-almost-everything",
+      "category": "Product"
+    },
+    {
+      "title": "Introducing GPT-Rosalind for life sciences research",
+      "date": "Thu, 16 Apr 2026 01:00:00 GMT",
+      "summary": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
+      "url": "https://openai.com/index/introducing-gpt-rosalind",
+      "category": "Research"
+    },
     {
       "title": "Accelerating the cyber defense ecosystem that protects us all",
       "date": "Thu, 16 Apr 2026 00:00:00 GMT",
@@ -30,20 +44,6 @@
       "summary": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
       "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
       "category": "Global Affairs"
-    },
-    {
-      "title": "Responsible and safe use of AI ",
-      "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
-      "url": "https://openai.com/academy/responsible-and-safe-use",
-      "category": "OpenAI Academy"
-    },
-    {
-      "title": "Writing with ChatGPT",
-      "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent.",
-      "url": "https://openai.com/academy/writing",
-      "category": "OpenAI Academy"
     }
   ],
   "status": "success",

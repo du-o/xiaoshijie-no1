@@ -1,8 +1,28 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-04-16T12:56:59.563Z",
+  "fetch_time": "2026-04-17T03:24:00.044Z",
   "articles": [
+    {
+      "title": "openclaw 2026.4.15",
+      "date": "2026-04-16T21:50:22Z",
+      "summary": "### Changes\n\n- Anthropic/models: default Anthropic selections, `opus` aliases, Claude CLI defaults, and bundled image understanding to Claude Opus 4.7.\n- Google/TTS: add Gemini text-to-speech support ...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.15",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.4.15",
+      "downloadCount": 1507
+    },
+    {
+      "title": "openclaw 2026.4.15-beta.2",
+      "date": "2026-04-16T19:30:02Z",
+      "summary": "### Changes\n\n- Anthropic/models: default Anthropic selections, `opus` aliases, Claude CLI defaults, and bundled image understanding to Claude Opus 4.7.\n- Google/TTS: add Gemini text-to-speech support ...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.15-beta.2",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.4.15-beta.2",
+      "downloadCount": 0
+    },
     {
       "title": "OpenClaw 2026.4.15-beta.1",
       "date": "2026-04-15T19:40:30Z",
@@ -21,7 +41,7 @@
       "category": "Release",
       "author": "vincentkoc",
       "tagName": "v2026.4.14",
-      "downloadCount": 19394
+      "downloadCount": 22595
     },
     {
       "title": "openclaw 2026.4.14-beta.1",
@@ -31,7 +51,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.14-beta.1",
-      "downloadCount": 588
+      "downloadCount": 592
     },
     {
       "title": "openclaw 2026.4.12",
@@ -42,26 +62,6 @@
       "author": "vincentkoc",
       "tagName": "v2026.4.12",
       "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.4.12-beta.1",
-      "date": "2026-04-12T23:27:07Z",
-      "summary": "\n### Changes\n\n- Plugins/loading: narrow CLI, provider, and channel activation to manifest-declared needs, preserve explicit scope and trust boundaries, and centralize manifest-owner policy so startup,...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.12-beta.1",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.4.12-beta.1",
-      "downloadCount": 735
-    },
-    {
-      "title": "openclaw 2026.4.11",
-      "date": "2026-04-12T00:18:03Z",
-      "summary": "\n### Changes\n\n- Dreaming/memory-wiki: add ChatGPT import ingestion plus new `Imported Insights` and `Memory Palace` diary subtabs so Dreaming can inspect imported source chats, compiled wiki pages, an...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.11",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.4.11",
-      "downloadCount": 19672
     }
   ],
   "status": "success",
