@@ -1,56 +1,63 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-04-17T03:23:43.863Z",
+  "fetch_time": "2026-04-17T06:02:51.226Z",
   "articles": [
     {
-      "title": "The Non-Optimality of Scientific Knowledge: Path Dependence, Lock-In, and The Local Minimum Trap",
-      "date": "Thu, 16 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.11828v2 Announce Type: new Abstract: Science is widely regarded as humanity's most reliable method for uncovering truths about the natural world. Yet the \\emph{trajectory} of scientific discovery is rarely examined as an optimization problem in its own right. This paper argues that the body of scientific knowledge, at any given historical moment, represents a \\emph{local optimum} rather than a global one--that the frameworks, formalisms, and paradigms through which we understand natur",
-      "url": "https://arxiv.org/abs/2604.11828",
-      "category": [
-        "cs.AI",
-        "cs.CY",
-        "math.OC"
-      ]
-    },
-    {
-      "title": "Self-Monitoring Benefits from Structural Integration: Lessons from Metacognition in Continuous-Time Multi-Timescale Agents",
-      "date": "Thu, 16 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.11914v1 Announce Type: new Abstract: Self-monitoring capabilities -- metacognition, self-prediction, and subjective duration -- are often proposed as useful additions to reinforcement learning agents. But do they actually help? We investigate this question in a continuous-time multi-timescale agent operating in predator-prey survival environments of varying complexity, including a 2D partially observable variant. We first show that three self-monitoring modules, implemented as auxilia",
-      "url": "https://arxiv.org/abs/2604.11914",
+      "title": "Exploration and Exploitation Errors Are Measurable for Language Model Agents",
+      "date": "Fri, 17 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.13151v1 Announce Type: new Abstract: Language Model (LM) agents are increasingly used in complex open-ended decision-making tasks, from AI coding to physical AI. A core requirement in these settings is the ability to both explore the problem space and exploit acquired knowledge effectively. However, systematically distinguishing and quantifying exploration and exploitation from observed actions without access to the agent's internal policy remains challenging. To address this, we desi",
+      "url": "https://arxiv.org/abs/2604.13151",
       "category": "cs.AI"
     },
     {
-      "title": "GoodPoint: Learning Constructive Scientific Paper Feedback from Author Responses",
-      "date": "Thu, 16 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.11924v1 Announce Type: new Abstract: While LLMs hold significant potential to transform scientific research, we advocate for their use to augment and empower researchers rather than to automate research without human oversight. To this end, we study constructive feedback generation, the task of producing targeted, actionable feedback that helps authors improve both their research and its presentation. In this work, we operationalize the effectiveness of feedback along two author-centr",
-      "url": "https://arxiv.org/abs/2604.11924",
+      "title": "SciFi: A Safe, Lightweight, User-Friendly, and Fully Autonomous Agentic AI Workflow for Scientific Applications",
+      "date": "Fri, 17 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.13180v1 Announce Type: new Abstract: Recent advances in agentic AI have enabled increasingly autonomous workflows, but existing systems still face substantial challenges in achieving reliable deployment in real-world scientific research. In this work, we present a safe, lightweight, and user-friendly agentic framework for the autonomous execution of well-defined scientific tasks. The framework combines an isolated execution environment, a three-layer agent loop, and a self-assessing d",
+      "url": "https://arxiv.org/abs/2604.13180",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Numerical Instability and Chaos: Quantifying the Unpredictability of Large Language Models",
+      "date": "Fri, 17 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.13206v1 Announce Type: new Abstract: As Large Language Models (LLMs) are increasingly integrated into agentic workflows, their unpredictability stemming from numerical instability has emerged as a critical reliability issue. While recent studies have demonstrated the significant downstream effects of these instabilities, the root causes and underlying mechanisms remain poorly understood. In this paper, we present a rigorous analysis of how unpredictability is rooted in the finite nume",
+      "url": "https://arxiv.org/abs/2604.13206",
+      "category": [
+        "cs.AI",
+        "cs.LG",
+        "cs.NA",
+        "math.NA"
+      ]
+    },
+    {
+      "title": "Optimizing Earth Observation Satellite Schedules under Unknown Operational Constraints: An Active Constraint Acquisition Approach",
+      "date": "Fri, 17 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.13283v1 Announce Type: new Abstract: Earth Observation (EO) satellite scheduling (deciding which imaging tasks to perform and when) is a well-studied combinatorial optimization problem. Existing methods typically assume that the operational constraint model is fully specified in advance. In practice, however, constraints governing separation between observations, power budgets, and thermal limits are often embedded in engineering artefacts or high-fidelity simulators rather than in ex",
+      "url": "https://arxiv.org/abs/2604.13283",
+      "category": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "WebXSkill: Skill Learning for Autonomous Web Agents",
+      "date": "Fri, 17 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.13318v1 Announce Type: new Abstract: Autonomous web agents powered by large language models (LLMs) have shown promise in completing complex browser tasks, yet they still struggle with long-horizon workflows. A key bottleneck is the grounding gap in existing skill formulations: textual workflow skills provide natural language guidance but cannot be directly executed, while code-based skills are executable but opaque to the agent, offering no step-level understanding for error recovery ",
+      "url": "https://arxiv.org/abs/2604.13318",
       "category": [
         "cs.AI",
         "cs.CL"
       ]
     },
     {
-      "title": "Narrative-Driven Paper-to-Slide Generation via ArcDeck",
-      "date": "Thu, 16 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.11969v1 Announce Type: new Abstract: We introduce ArcDeck, a multi-agent framework that formulates paper-to-slide generation as a structured narrative reconstruction task. Unlike existing methods that directly summarize raw text into slides, ArcDeck explicitly models the source paper's logical flow. It first parses the input to construct a discourse tree and establish a global commitment document, ensuring the high-level intent is preserved. These structural priors then guide an itera",
-      "url": "https://arxiv.org/abs/2604.11969",
-      "category": "cs.AI"
-    },
-    {
-      "title": "The Long-Horizon Task Mirage? Diagnosing Where and Why Agentic Systems Break",
-      "date": "Thu, 16 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.11978v1 Announce Type: new Abstract: Large language model (LLM) agents perform strongly on short- and mid-horizon tasks, but often break down on long-horizon tasks that require extended, interdependent action sequences. Despite rapid progress in agentic systems, these long-horizon failures remain poorly characterized, hindering principled diagnosis and comparison across domains. To address this gap, we introduce HORIZON, an initial cross-domain diagnostic benchmark for systematically ",
-      "url": "https://arxiv.org/abs/2604.11978",
-      "category": "cs.AI"
-    },
-    {
-      "title": "When to Forget: A Memory Governance Primitive",
-      "date": "Thu, 16 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.12007v1 Announce Type: new Abstract: Agent memory systems accumulate experience but currently lack a principled operational metric for memory quality governance -- deciding which memories to trust, suppress, or deprecate as the agent's task distribution shifts. Write-time importance scores are static; dynamic management systems use LLM judgment or structural heuristics rather than outcome feedback. This paper proposes Memory Worth (MW): a two-counter per-memory signal that tracks how ",
-      "url": "https://arxiv.org/abs/2604.12007",
-      "category": "cs.AI"
+      "title": "Listening Alone, Understanding Together: Collaborative Context Recovery for Privacy-Aware AI",
+      "date": "Fri, 17 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.13348v1 Announce Type: new Abstract: We introduce CONCORD, a privacy-aware asynchronous assistant-to-assistant (A2A) framework that leverages collaboration between proactive speech-based AI. As agents evolve from reactive to always-listening assistants, they face a core privacy risk (of capturing non-consenting speakers), which makes their social deployment a challenge. To overcome this, we implement CONCORD, which enforces owner-only speech capture via real-time speaker verification,",
+      "url": "https://arxiv.org/abs/2604.13348",
+      "category": [
+        "cs.AI",
+        "cs.CR"
+      ]
     }
   ],
   "status": "success",
