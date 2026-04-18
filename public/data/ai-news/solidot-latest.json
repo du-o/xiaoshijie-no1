@@ -1,8 +1,29 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-04-17T12:47:07.761Z",
+  "fetch_time": "2026-04-18T02:55:10.259Z",
   "articles": [
+    {
+      "title": "英伟达 CEO 反对进一步限制向中国出口芯片",
+      "date": "Fri, 17 Apr 2026 16:32:56 GMT",
+      "summary": "英伟达执行长黄仁勋在 Dwarkesh Podcast 节目中反驳美国强化对中国芯片设备出口管制的主张，反对进一步限制对中国出口。他指出，中国具备庞大能源资源，可透过扩大产能弥补制程差距，因此中国无法自主发展 AI 芯片的说法“毫无根据”。黄仁勋强调，美国不该放弃全球第二大的算力市场，若迫使中国加速建立本土 AI 技术系统，将损害美国科技领先地位。他批评，现行政策已间接推动中国芯片产业成长，并指出华为去年营收已创下历史新高。",
+      "url": "https://www.solidot.org/story?sid=84078",
+      "category": ""
+    },
+    {
+      "title": "美国科技巨头成功在欧盟法律中将数据中心环境影响列为保密信息",
+      "date": "Fri, 17 Apr 2026 16:09:13 GMT",
+      "summary": "微软以及成员包括亚马逊、Google 和 Meta 的游说组织 DigitalEurope 被发现成功在欧盟法律中争取到一则保密条款，阻止公众获取数据中心环境影响的相关信息。法律学者认为该保密条款可能违反了欧盟的透明度规定。该保密条款是在 2024 年添加到 EU Energy Efficiency Directive 修订版中。欧盟委员会在 2023 年发布了第一版草案，按程序听取利益攸关者的反馈。2024 年初微软和 DigitalEurope 提出了他们的反馈意见：将数据中心的环境足迹信息列为机密和商业敏感信息。2024 年 3 月欧盟委员会发布终稿时逐字逐句的加入了微软和 DigitalEurope 的意见。",
+      "url": "https://www.solidot.org/story?sid=84077",
+      "category": ""
+    },
+    {
+      "title": "Firefox 加入了对 Web Serial API 的支持",
+      "date": "Fri, 17 Apr 2026 15:24:24 GMT",
+      "summary": "Firefox Nightly 版加入了对 Web Serial API 的支持，而六年前 Mozilla 以不安全为由反对支持该 API。Web Serial API 允许浏览器与通过串行端口通信的设备交互，此类设备包括 3D 打印机，微控制器如 Arduino 和 ESP32，智能家居面板如 ESPHome，以及通过 USB 或蓝牙模拟串行端口的设备通信。Google Chrome 自 2021 年起加入了对 Web Serial API 的支持，基于 Chromium 的浏览器如 Edge、Opera 和 Vivaldi 也都支持该 API。Mozilla 杰出工程师 Martin Thomso 在 2020 年表示，对于如此强大的功能，无法为用户提供充分的保护，即使用户同意。串行端口是物理连接赋予高度信任的时代的遗物，许多设备允许通过该接口连接的设备在没有任何身份验证的情况下获得管理权限，这一权限甚至超过了 root。两年后 Mozilla 被要求重新考虑其立场，Firefox CTO Bobby Holley 表示 Mozilla 愿意采用和 WebMIDI 相同的附加组件守",
+      "url": "https://www.solidot.org/story?sid=84075",
+      "category": ""
+    },
     {
       "title": "大自然仍然在铸造人类基因",
       "date": "Fri, 17 Apr 2026 10:07:33 GMT",
@@ -22,27 +43,6 @@
       "date": "Fri, 17 Apr 2026 08:11:54 GMT",
       "summary": "NASA 宣布，因种种原因多次推迟的 ESA Rosalind Franklin 火星漫游车将使用 SpaceX 的重型火箭 Falcon Heavy 发射到火星，最早发射时间是 2028 年。Rosalind Franklin 漫游车的历史可上溯到 1997 年，最初是 NASA 和 ESA 合作的项目，原计划 2018 年发射，但因为 NASA 在奥巴马政府任期内削减预算，美国退出了该项目。ESA 因此改与俄罗斯进行合作，计划 2020 年发射，但由于新冠疫情以及降落伞测试失败等问题，发射时间推迟到 2022 年。2022 年的俄乌战争促使 ESA 终止了与俄罗斯的合作。这一次美国再次伸出了援助之手，双方于 2024 年签署了合作协议。",
       "url": "https://www.solidot.org/story?sid=84072",
-      "category": ""
-    },
-    {
-      "title": "Discourse 强调会继续开源",
-      "date": "Fri, 17 Apr 2026 07:01:29 GMT",
-      "summary": "日程安排平台 Cal.com 最近宣布从开源转为闭源，理由是 AI 工具更容易从开源代码中发现漏洞，而安全性依赖于模糊，因此闭源有助于提高安全。开源论坛软件 Discourse 对此做出了回应，强调会继续开源，同时表示不敢苟同其对软件安全的看法。Discourse 认为 AI 工具并不需要源代码去发现漏洞，它们针对的是编译后的二进制文件和黑盒 API。闭源并不会让软件更安全。世界最重要的互联网基础设施运行在以 Linux 为代表的开源软件之上，开源代码时刻暴露在无数人的注视之下。它遭受无情的攻击，但也在无止境的加固。这就是安全领域开源真正的意义所在：透明性不是消除风险，但能带来更强大的防御能力。开源带来了一种紧迫感：当代码公开时，你会预料到代码会被仔细审查，因此会更早更积极投入资源，在攻击者前面发现和修复问题。闭源只是给你带来虚幻的安全感。",
-      "url": "https://www.solidot.org/story?sid=84071",
-      "category": ""
-    },
-    {
-      "title": "美国主流媒体封禁互联网档案馆的存档机器人",
-      "date": "Fri, 17 Apr 2026 06:24:42 GMT",
-      "summary": "互联网档案馆时光机器（Wayback Machine)存档的内容被媒体广泛使用，然而包括 NYT 和 USA Today 等美国几十家主流新闻网站最近都屏蔽了互联网档案馆的存档爬虫 ia_archiverbot，社交新闻平台 Reddit 也屏蔽了该爬虫，《卫报》没有屏蔽但进行了限制。《卫报》解释称这是为了防止 AI 公司滥用存档目的的内容抓取。NYT 给出的理由类似，称 AI 公司正利用互联网档案馆存档的纽约时报内容训练其模型。AI 公司大量收集互联网内容，而时光机器拥有数十年历史的资料库，被认为是一个极具吸引力的数据源。互联网档案馆运营了 30 年，存档了逾万亿网页。主流网站对其的限制可能削弱其保存工作。互联网档案馆正与 NYT 等媒体进行对话，希望它们最终会改变其做法。",
-      "url": "https://www.solidot.org/story?sid=84070",
-      "category": ""
-    },
-    {
-      "title": "新研究再次证实 AI 有害大脑",
-      "date": "Thu, 16 Apr 2026 15:18:58 GMT",
-      "summary": "研究人员在预印本平台 ArXiv 上发表论文《AI assistance reduces persistence and hurts independent performance》，再次证实 AI 有害大脑。研究人员招募了 350 名美国人，任务是解决一些分数方程。半数参与者被随机分配到 AI 组，他们可从一个基于 OpenAI GPT-5 构建的专用聊天机器人获取帮助，另一半必须独立完成。考试进行到一半时，AI 组的访问权限被切断。此举导致 AI 组的正确答案数量急剧下降，很多人干脆放弃考试。这一结果——成绩和毅力双双下降——在一项包含 670 名参与者的更大规模实验中得到了重复验证。研究人员指出，AI 辅助能提高即时表现，但会带来巨大的认知代价。仅仅使用 AI 十分钟就会让人对这项技术产生依赖，一旦停止使用，会导致表现下降和倦怠。",
-      "url": "https://www.solidot.org/story?sid=84069",
       "category": ""
     }
   ],
