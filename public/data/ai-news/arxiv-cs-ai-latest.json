@@ -1,65 +1,8 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-04-18T02:55:06.482Z",
-  "articles": [
-    {
-      "title": "Exploration and Exploitation Errors Are Measurable for Language Model Agents",
-      "date": "Fri, 17 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.13151v1 Announce Type: new Abstract: Language Model (LM) agents are increasingly used in complex open-ended decision-making tasks, from AI coding to physical AI. A core requirement in these settings is the ability to both explore the problem space and exploit acquired knowledge effectively. However, systematically distinguishing and quantifying exploration and exploitation from observed actions without access to the agent's internal policy remains challenging. To address this, we desi",
-      "url": "https://arxiv.org/abs/2604.13151",
-      "category": "cs.AI"
-    },
-    {
-      "title": "SciFi: A Safe, Lightweight, User-Friendly, and Fully Autonomous Agentic AI Workflow for Scientific Applications",
-      "date": "Fri, 17 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.13180v1 Announce Type: new Abstract: Recent advances in agentic AI have enabled increasingly autonomous workflows, but existing systems still face substantial challenges in achieving reliable deployment in real-world scientific research. In this work, we present a safe, lightweight, and user-friendly agentic framework for the autonomous execution of well-defined scientific tasks. The framework combines an isolated execution environment, a three-layer agent loop, and a self-assessing d",
-      "url": "https://arxiv.org/abs/2604.13180",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Numerical Instability and Chaos: Quantifying the Unpredictability of Large Language Models",
-      "date": "Fri, 17 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.13206v1 Announce Type: new Abstract: As Large Language Models (LLMs) are increasingly integrated into agentic workflows, their unpredictability stemming from numerical instability has emerged as a critical reliability issue. While recent studies have demonstrated the significant downstream effects of these instabilities, the root causes and underlying mechanisms remain poorly understood. In this paper, we present a rigorous analysis of how unpredictability is rooted in the finite nume",
-      "url": "https://arxiv.org/abs/2604.13206",
-      "category": [
-        "cs.AI",
-        "cs.LG",
-        "cs.NA",
-        "math.NA"
-      ]
-    },
-    {
-      "title": "Optimizing Earth Observation Satellite Schedules under Unknown Operational Constraints: An Active Constraint Acquisition Approach",
-      "date": "Fri, 17 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.13283v1 Announce Type: new Abstract: Earth Observation (EO) satellite scheduling (deciding which imaging tasks to perform and when) is a well-studied combinatorial optimization problem. Existing methods typically assume that the operational constraint model is fully specified in advance. In practice, however, constraints governing separation between observations, power budgets, and thermal limits are often embedded in engineering artefacts or high-fidelity simulators rather than in ex",
-      "url": "https://arxiv.org/abs/2604.13283",
-      "category": [
-        "cs.AI",
-        "cs.LG"
-      ]
-    },
-    {
-      "title": "WebXSkill: Skill Learning for Autonomous Web Agents",
-      "date": "Fri, 17 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.13318v1 Announce Type: new Abstract: Autonomous web agents powered by large language models (LLMs) have shown promise in completing complex browser tasks, yet they still struggle with long-horizon workflows. A key bottleneck is the grounding gap in existing skill formulations: textual workflow skills provide natural language guidance but cannot be directly executed, while code-based skills are executable but opaque to the agent, offering no step-level understanding for error recovery ",
-      "url": "https://arxiv.org/abs/2604.13318",
-      "category": [
-        "cs.AI",
-        "cs.CL"
-      ]
-    },
-    {
-      "title": "Listening Alone, Understanding Together: Collaborative Context Recovery for Privacy-Aware AI",
-      "date": "Fri, 17 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.13348v1 Announce Type: new Abstract: We introduce CONCORD, a privacy-aware asynchronous assistant-to-assistant (A2A) framework that leverages collaboration between proactive speech-based AI. As agents evolve from reactive to always-listening assistants, they face a core privacy risk (of capturing non-consenting speakers), which makes their social deployment a challenge. To overcome this, we implement CONCORD, which enforces owner-only speech capture via real-time speaker verification,",
-      "url": "https://arxiv.org/abs/2604.13348",
-      "category": [
-        "cs.AI",
-        "cs.CR"
-      ]
-    }
-  ],
+  "fetch_time": "2026-04-18T05:41:03.203Z",
+  "articles": [],
   "status": "success",
   "error": null
 }
