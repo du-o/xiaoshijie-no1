@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-04-19T03:31:13.209Z",
+  "fetch_time": "2026-04-19T05:58:16.591Z",
   "articles": [
+    {
+      "title": "openclaw 2026.4.19-beta.2",
+      "date": "2026-04-19T05:55:49Z",
+      "summary": "## 2026.4.19-beta.2\n\n### Fixes\n\n- Agents/openai-completions: always send `stream_options.include_usage` on streaming requests, so local and custom OpenAI-compatible backends report real context usage ...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.19-beta.2",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.4.19-beta.2",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.4.19-beta.1",
       "date": "2026-04-19T02:01:54Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.19-beta.1",
-      "downloadCount": 28
+      "downloadCount": 95
     },
     {
       "title": "openclaw 2026.4.15",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.15",
-      "downloadCount": 17853
+      "downloadCount": 18485
     },
     {
       "title": "openclaw 2026.4.15-beta.2",
@@ -51,17 +61,7 @@
       "category": "Release",
       "author": "vincentkoc",
       "tagName": "v2026.4.14",
-      "downloadCount": 22799
-    },
-    {
-      "title": "openclaw 2026.4.14-beta.1",
-      "date": "2026-04-14T02:07:43Z",
-      "summary": "\n### Changes\n\n- Telegram/forum topics: surface human topic names in agent context, prompt metadata, and plugin hook metadata by learning names from Telegram forum service messages. (#65973) Thanks @pt...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.14-beta.1",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.4.14-beta.1",
-      "downloadCount": 615
+      "downloadCount": 22804
     }
   ],
   "status": "success",
