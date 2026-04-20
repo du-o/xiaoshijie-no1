@@ -1,8 +1,65 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-04-20T03:32:50.372Z",
-  "articles": [],
+  "fetch_time": "2026-04-20T06:13:55.545Z",
+  "articles": [
+    {
+      "title": "DeepER-Med: Advancing Deep Evidence-Based Research in Medicine Through Agentic AI",
+      "date": "Mon, 20 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.15456v1 Announce Type: new Abstract: Trustworthiness and transparency are essential for the clinical adoption of artificial intelligence (AI) in healthcare and biomedical research. Recent deep research systems aim to accelerate evidence-grounded scientific discovery by integrating AI agents with multi-hop information retrieval, reasoning, and synthesis. However, most existing systems lack explicit and inspectable criteria for evidence appraisal, creating a risk of compounding errors a",
+      "url": "https://arxiv.org/abs/2604.15456",
+      "category": "cs.AI"
+    },
+    {
+      "title": "GIST: Multimodal Knowledge Extraction and Spatial Grounding via Intelligent Semantic Topology",
+      "date": "Mon, 20 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.15495v1 Announce Type: new Abstract: Navigating complex, densely packed environments like retail stores, warehouses, and hospitals poses a significant spatial grounding challenge for humans and embodied AI. In these spaces, dense visual features quickly become stale given the quasi-static nature of items, and long-tail semantic distributions challenge traditional computer vision. While Vision-Language Models (VLMs) help assistive systems navigate semantically-rich spaces, they still s",
+      "url": "https://arxiv.org/abs/2604.15495",
+      "category": [
+        "cs.AI",
+        "cs.CV",
+        "cs.HC",
+        "cs.RO"
+      ]
+    },
+    {
+      "title": "Bureaucratic Silences: What the Canadian AI Register Reveals, Omits, and Obscures",
+      "date": "Mon, 20 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.15514v1 Announce Type: new Abstract: In November 2025, the Government of Canada operationalized its commitment to transparency by releasing its first Federal AI Register. In this paper, we argue that such registers are not neutral mirrors of government activity, but active instruments of ontological design that configure the boundaries of accountability. We analyzed the Register's complete dataset of 409 systems using the Algorithmic Decision-Making Adapted for the Public Sector (ADMA",
+      "url": "https://arxiv.org/abs/2604.15514",
+      "category": [
+        "cs.AI",
+        "cs.CY",
+        "cs.HC"
+      ]
+    },
+    {
+      "title": "LACE: Lattice Attention for Cross-thread Exploration",
+      "date": "Mon, 20 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.15529v1 Announce Type: new Abstract: Current large language models reason in isolation. Although it is common to sample multiple reasoning paths in parallel, these trajectories do not interact, and often fail in the same redundant ways. We introduce LACE, a framework that transforms reasoning from a collection of independent trials into a coordinated, parallel process. By repurposing the model architecture to enable cross-thread attention, LACE allows concurrent reasoning paths to sha",
+      "url": "https://arxiv.org/abs/2604.15529",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Preregistered Belief Revision Contracts",
+      "date": "Mon, 20 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.15558v1 Announce Type: new Abstract: Deliberative multi-agent systems allow agents to exchange messages and revise beliefs over time. While this interaction is meant to improve performance, it can also create dangerous conformity effects: agreement, confidence, prestige, or majority size may be treated as if they were evidence, producing high-confidence convergence to false conclusions. To address this, we introduce PBRC (Preregistered Belief Revision Contracts), a protocol-level mech",
+      "url": "https://arxiv.org/abs/2604.15558",
+      "category": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LO",
+        "cs.MA"
+      ]
+    },
+    {
+      "title": "Subliminal Transfer of Unsafe Behaviors in AI Agent Distillation",
+      "date": "Mon, 20 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.15559v1 Announce Type: new Abstract: Recent work on subliminal learning demonstrates that language models can transmit semantic traits through data that is semantically unrelated to those traits. However, it remains unclear whether behavioral traits can transfer in agentic systems, where policies are learned from trajectories rather than static text. In this work, we provide the first empirical evidence that unsafe agent behaviors can transfer subliminally through model distillation a",
+      "url": "https://arxiv.org/abs/2604.15559",
+      "category": "cs.AI"
+    }
+  ],
   "status": "success",
   "error": null
 }
