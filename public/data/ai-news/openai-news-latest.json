@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-04-20T12:58:00.352Z",
+  "fetch_time": "2026-04-21T03:24:40.691Z",
   "articles": [
+    {
+      "title": "OpenAI helps Hyatt advance AI among colleagues ",
+      "date": "Mon, 20 Apr 2026 00:00:00 GMT",
+      "summary": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
+      "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+      "category": "Global Affairs"
+    },
     {
       "title": "Codex for (almost) everything",
       "date": "Thu, 16 Apr 2026 10:00:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.",
       "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
       "category": "Security"
-    },
-    {
-      "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
-      "date": "Mon, 13 Apr 2026 06:00:00 GMT",
-      "summary": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
-      "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
-      "category": "Global Affairs"
     }
   ],
   "status": "success",
