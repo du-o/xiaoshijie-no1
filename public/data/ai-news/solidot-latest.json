@@ -1,8 +1,29 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-04-22T09:12:45.535Z",
+  "fetch_time": "2026-04-22T12:53:14.249Z",
   "articles": [
+    {
+      "title": "好奇号在火星上发现新有机分子",
+      "date": "Wed, 22 Apr 2026 10:38:42 GMT",
+      "summary": "根据发表在《Nature Communications》期刊上的一项研究，科学家从好奇号在火星盖尔陨石坑采集的岩石样本中发现了 20 多种有机分子，其中一种含氮分子的结构与形成 DNA 的化合物相似，此前从未在火星上探测到。最新研究成果支持了火星可能曾经拥有适宜生命存在环境的观点，但还无法证明火星曾有过生命。有机分子被认为是生命的关键成分，但它们也可通过非生物过程形成，或通过陨石到达星球。其中一种识别的有机分子苯并噻吩(benzothiophene）通常就与太空陨石相关。科学家是利用好奇号搭载的 Sample Analysis at Mars 仪器，使用化合物 TMAH 分解大有机分子进行研究。",
+      "url": "https://www.solidot.org/story?sid=84117",
+      "category": ""
+    },
+    {
+      "title": "Cal.com 发布开源社区版 Cal.diy",
+      "date": "Wed, 22 Apr 2026 08:55:04 GMT",
+      "summary": "日程安排平台 Cal.com 在以安全理由从开源转为闭源后，发布了面向个人自托管的开源社区版本 Cal.diy，并且在发布声明中反复强调不要将其用于生产用途。Cal.diy 采用 MIT 许可证，是 Cal.com 的开源分支，移除所有私有的企业版功能如 Teams、Organizations、Insights、Workflows 和 SSO/SAML，不需要 Cal.com 账号或授权。Cal.com 声明，它不推荐将 Cal.diy 用于生产。",
+      "url": "https://www.solidot.org/story?sid=84116",
+      "category": ""
+    },
+    {
+      "title": "新报告称 2025 年是太阳能占据优势的第一年",
+      "date": "Wed, 22 Apr 2026 08:45:23 GMT",
+      "summary": "国际能源署最新报告证实，2025 年是太阳能占据优势的第一年。过去两年多数能源的发电量变化不大，但太阳能是一个显著的例外。2025 年太阳能总发电量 2700 太瓦时（terawatt-hours），是三年前的两倍多。太阳能发电量占到了全球总发电量的逾 8%。30 个国家新增太阳能发电装机容量至少 1 GW。太阳能发电离不开电池蓄能，2024 年到 2025 年间新增电池蓄能容量增长了 40%，去年新增容量达到 110 GW。尽管中国在 2025 年投产了大量燃煤电厂，但由于在可再生能源的大规模投资，去年中国的燃煤发电量反而略有下降。中国还在建造大量核电站，如果全部投入运营，核电装机容量将超过美国。去年开工建设的新核电厂装机容量为 12 GW，10 座核电厂有 9 座位于中国。",
+      "url": "https://www.solidot.org/story?sid=84115",
+      "category": ""
+    },
     {
       "title": "Scattered Spider 资深成员 Tylerb 认罪",
       "date": "Wed, 22 Apr 2026 07:03:59 GMT",
@@ -22,27 +43,6 @@
       "date": "Wed, 22 Apr 2026 06:09:43 GMT",
       "summary": "公司内部备忘录显示，Meta 正在美国员工电脑上安装追踪软件，捕捉员工鼠标移动、点击和按键数据以用于训练 AI 模型，此举是该公司构建能自动执行工作任务的 AI 智能体的大计划的一部分。被称为 Model Capability Initiative(MCI)的工具将在工作相关应用和网站上运行，会不定时截取屏幕内容的快照。备忘录表示此举旨在改进公司 AI 模型，使其在难以模拟人机交互领域如下拉菜单选择和使用快捷键上表现更出色。耶鲁法学教授Ifeoma Ajunwa 表达了员工被实时监控的担忧，称美国在这方面缺乏监管。加拿大法学教授 Valerio De Stefano 称欧洲法律会禁止此类监控。",
       "url": "https://www.solidot.org/story?sid=84112",
-      "category": ""
-    },
-    {
-      "title": "Firefox 150 释出",
-      "date": "Wed, 22 Apr 2026 05:42:39 GMT",
-      "summary": "Mozilla 释出了 Firefox 150，主要新特性包括：对所有用户启用“本地网络访问限制”；通过内置 PDF 编辑器支持对文件进行页面重排序、复制、删除、粘贴和导出；改进分屏浏览；通过 about:translations 体验尊重隐私的即时翻译（或在地址栏直接输入 translate）；等等。",
-      "url": "https://www.solidot.org/story?sid=84111",
-      "category": ""
-    },
-    {
-      "title": "SpaceX 达成协议可选以 600 亿美元收购 Cursor",
-      "date": "Wed, 22 Apr 2026 05:28:42 GMT",
-      "summary": "SpaceX 还在继续为其史上最高估值增加燃料。它宣布获得了一个选择权，可选择在晚些时候以 600 亿美元收购 Cursor，或者支付 100 亿美元建立新的合作伙伴关系。Cursor 提供了 AI 驱动的集成开发环境（IDE），支持代码生成、智能重写和代码库查询等功能。收购或与 Cursor 合作将有助于增强 SpaceX 旗下的 xAI 在 AI 代码生成方面的实力。相比 OpenAI 和 Anthropic，xAI 在 AI 代码生成方面缺乏竞争力。",
-      "url": "https://www.solidot.org/story?sid=84110",
-      "category": ""
-    },
-    {
-      "title": "创意软件行业向 Adobe 宣战 ",
-      "date": "Tue, 21 Apr 2026 15:01:48 GMT",
-      "summary": "帝国终将陨落，创意软件行业如今一致认为 Adobe 结束的时代即将到来，它们纷纷以免费或更低的价格提供与 Adobe 竞争的产品——Adobe 的创意软件过去几十年一直被视为行业标准。Cinema 4D 开发商 Maxon 在收购 Autograph 之后向个人用户提供了免费版本，Autograph 是类似 Adobe After Effects 的 动态图形设计软件，此前的永久授权费用高达 1795 美元；Canva 在收购 Affinity 之后将功能上类似 Adobe Illustrator、Photoshop 和 InDesign 的软件 Affinity Designer 2、Affinity Photo 2 和 Affinity Publisher 2 免费提供给用户，它在收购 Cavalry 之后也将其免费，Cavalry 类似 After Effects；苹果于今年 1 月推出了 Creator Studio 套件，包含了 Final Cut Pro、Logic Pro、Pixelmator Pro、Motion、Compressor 和 MainStage 等创意软件",
-      "url": "https://www.solidot.org/story?sid=84109",
       "category": ""
     }
   ],
