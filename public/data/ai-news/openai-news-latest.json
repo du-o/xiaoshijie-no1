@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-04-21T12:52:57.587Z",
+  "fetch_time": "2026-04-22T03:22:48.011Z",
   "articles": [
+    {
+      "title": "Scaling Codex to enterprises worldwide",
+      "date": "Tue, 21 Apr 2026 00:00:00 GMT",
+      "summary": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU.",
+      "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
+      "category": "Company"
+    },
     {
       "title": "OpenAI helps Hyatt advance AI among colleagues ",
       "date": "Mon, 20 Apr 2026 00:00:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
       "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
       "category": "Product"
-    },
-    {
-      "title": "Trusted access for the next era of cyber defense",
-      "date": "Tue, 14 Apr 2026 00:00:00 GMT",
-      "summary": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.",
-      "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
-      "category": "Security"
     }
   ],
   "status": "success",
