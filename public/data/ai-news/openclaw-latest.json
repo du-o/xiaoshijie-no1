@@ -1,8 +1,69 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-04-22T05:59:48.955Z",
-  "articles": [],
-  "status": "error",
-  "error": "GitHub API 请求失败: 403"
+  "fetch_time": "2026-04-22T09:12:55.455Z",
+  "articles": [
+    {
+      "title": "openclaw 2026.4.21",
+      "date": "2026-04-22T04:18:58Z",
+      "summary": "## 2026.4.21\n\n### Changes\n\n- OpenAI/images: default the bundled image-generation provider and live media smoke tests to `gpt-image-2`, and advertise the newer 2K/4K OpenAI size hints in image-generati...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.21",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.4.21",
+      "downloadCount": 0
+    },
+    {
+      "title": "openclaw 2026.4.20",
+      "date": "2026-04-21T19:19:35Z",
+      "summary": "## 2026.4.20\n\n### Changes\n\n- Onboard/wizard: restyle the setup security disclaimer with a single yellow warning banner, section headings and bulleted checklists, and un-dim the note body so key guidan...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.20",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.4.20",
+      "downloadCount": 4688
+    },
+    {
+      "title": "openclaw 2026.4.20-beta.2",
+      "date": "2026-04-21T17:44:40Z",
+      "summary": "## 2026.4.20\n\n### Changes\n\n- Onboard/wizard: restyle the setup security disclaimer with a single yellow warning banner, section headings and bulleted checklists, and un-dim the note body so key guidan...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.20-beta.2",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.4.20-beta.2",
+      "downloadCount": 0
+    },
+    {
+      "title": "openclaw 2026.4.20-beta.1",
+      "date": "2026-04-21T13:34:18Z",
+      "summary": "\n### Changes\n\n- Onboard/wizard: restyle the setup security disclaimer with a single yellow warning banner, section headings and bulleted checklists, and un-dim the note body so key guidance is easy to...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.20-beta.1",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.4.20-beta.1",
+      "downloadCount": 0
+    },
+    {
+      "title": "openclaw 2026.4.19-beta.2",
+      "date": "2026-04-19T05:55:49Z",
+      "summary": "## 2026.4.19-beta.2\n\n### Fixes\n\n- Agents/openai-completions: always send `stream_options.include_usage` on streaming requests, so local and custom OpenAI-compatible backends report real context usage ...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.19-beta.2",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.4.19-beta.2",
+      "downloadCount": 1461
+    },
+    {
+      "title": "openclaw 2026.4.19-beta.1",
+      "date": "2026-04-19T02:01:54Z",
+      "summary": "\n### Fixes\n\n- Agents/channels: route cross-agent subagent spawns through the target agent's bound channel account while preserving peer and workspace/role-scoped bindings, so child sessions no longer ...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.19-beta.1",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.4.19-beta.1",
+      "downloadCount": 243
+    }
+  ],
+  "status": "success",
+  "error": null
 }

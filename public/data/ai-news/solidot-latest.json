@@ -1,48 +1,48 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-04-22T05:59:34.883Z",
+  "fetch_time": "2026-04-22T09:12:45.535Z",
   "articles": [
+    {
+      "title": "Scattered Spider 资深成员 Tylerb 认罪",
+      "date": "Wed, 22 Apr 2026 07:03:59 GMT",
+      "summary": "24 岁的英国公民、勒索组织 Scattered Spider 资深成员 Tyler Robert Buchanan aka Tylerb 认罪。他目前关押在美国，面临逾 20 年监禁。Scattered Spider 以利用社交工程方法入侵公司窃取数据勒索赎金闻名，该组织成员通常采取的方法是冒充员工或合同工欺骗 IT 授予企业的访问权限。作为认罪协议的一部分，Tylerb 承认与其他人合谋，在 2022 年发起数万起基于短信的钓鱼攻击，导致包括 Twilio、LastPass、DoorDash 和 Mailchimp 在内的科技公司系统遭到入侵。攻击者利用窃取的数据对加密货币投资者发起 SIM-swapping 攻击，仅在美国就从受害者手中窃取了至少 800 万美元的虚拟货币。Tylerb 被发现是因为他使用相同的用户名和电子邮件注册了钓鱼域名，域名注册商 NameCheap 提供的注册时使用的 IP 地址暴露了其身份。",
+      "url": "https://www.solidot.org/story?sid=84114",
+      "category": ""
+    },
+    {
+      "title": "微软降低 Game Pass 订阅费",
+      "date": "Wed, 22 Apr 2026 06:36:47 GMT",
+      "summary": "在新上任 Xbox CEO Asha Sharma 上周表示 Game Pass 订阅费对玩家而言太贵之后，微软下调了价格，不过代价是《使命召唤》系列新作不会同步加入到 Game Pass 服务，而是会延后一年加入。此前有报道称 Game Pass 订阅服务让《使命召唤》损失了 3 亿美元的收入。根据最新调价：Xbox Game Pass Ultimate 将从每月 29.99 美元降至 22.99 美元，PC Game Pass 将从每月 16.49 美元降至 13.99 美元。",
+      "url": "https://www.solidot.org/story?sid=84113",
+      "category": ""
+    },
+    {
+      "title": "Meta 开始记录员工鼠标移动和按键用于 AI 训练",
+      "date": "Wed, 22 Apr 2026 06:09:43 GMT",
+      "summary": "公司内部备忘录显示，Meta 正在美国员工电脑上安装追踪软件，捕捉员工鼠标移动、点击和按键数据以用于训练 AI 模型，此举是该公司构建能自动执行工作任务的 AI 智能体的大计划的一部分。被称为 Model Capability Initiative(MCI)的工具将在工作相关应用和网站上运行，会不定时截取屏幕内容的快照。备忘录表示此举旨在改进公司 AI 模型，使其在难以模拟人机交互领域如下拉菜单选择和使用快捷键上表现更出色。耶鲁法学教授Ifeoma Ajunwa 表达了员工被实时监控的担忧，称美国在这方面缺乏监管。加拿大法学教授 Valerio De Stefano 称欧洲法律会禁止此类监控。",
+      "url": "https://www.solidot.org/story?sid=84112",
+      "category": ""
+    },
+    {
+      "title": "Firefox 150 释出",
+      "date": "Wed, 22 Apr 2026 05:42:39 GMT",
+      "summary": "Mozilla 释出了 Firefox 150，主要新特性包括：对所有用户启用“本地网络访问限制”；通过内置 PDF 编辑器支持对文件进行页面重排序、复制、删除、粘贴和导出；改进分屏浏览；通过 about:translations 体验尊重隐私的即时翻译（或在地址栏直接输入 translate）；等等。",
+      "url": "https://www.solidot.org/story?sid=84111",
+      "category": ""
+    },
+    {
+      "title": "SpaceX 达成协议可选以 600 亿美元收购 Cursor",
+      "date": "Wed, 22 Apr 2026 05:28:42 GMT",
+      "summary": "SpaceX 还在继续为其史上最高估值增加燃料。它宣布获得了一个选择权，可选择在晚些时候以 600 亿美元收购 Cursor，或者支付 100 亿美元建立新的合作伙伴关系。Cursor 提供了 AI 驱动的集成开发环境（IDE），支持代码生成、智能重写和代码库查询等功能。收购或与 Cursor 合作将有助于增强 SpaceX 旗下的 xAI 在 AI 代码生成方面的实力。相比 OpenAI 和 Anthropic，xAI 在 AI 代码生成方面缺乏竞争力。",
+      "url": "https://www.solidot.org/story?sid=84110",
+      "category": ""
+    },
     {
       "title": "创意软件行业向 Adobe 宣战 ",
       "date": "Tue, 21 Apr 2026 15:01:48 GMT",
       "summary": "帝国终将陨落，创意软件行业如今一致认为 Adobe 结束的时代即将到来，它们纷纷以免费或更低的价格提供与 Adobe 竞争的产品——Adobe 的创意软件过去几十年一直被视为行业标准。Cinema 4D 开发商 Maxon 在收购 Autograph 之后向个人用户提供了免费版本，Autograph 是类似 Adobe After Effects 的 动态图形设计软件，此前的永久授权费用高达 1795 美元；Canva 在收购 Affinity 之后将功能上类似 Adobe Illustrator、Photoshop 和 InDesign 的软件 Affinity Designer 2、Affinity Photo 2 和 Affinity Publisher 2 免费提供给用户，它在收购 Cavalry 之后也将其免费，Cavalry 类似 After Effects；苹果于今年 1 月推出了 Creator Studio 套件，包含了 Final Cut Pro、Logic Pro、Pixelmator Pro、Motion、Compressor 和 MainStage 等创意软件",
       "url": "https://www.solidot.org/story?sid=84109",
-      "category": ""
-    },
-    {
-      "title": "吸入可卡因的鲑鱼有更强的冒险精神",
-      "date": "Tue, 21 Apr 2026 14:43:10 GMT",
-      "summary": "人类使用的毒品不可避免的渗透到环境中，被动物如鲨鱼摄入。但动物摄入毒品之后会有什么影响？实验室研究表明，接触过可卡因的水蚤游得更快，小龙虾会冒险游到藏身处之外，在自然界里这是一种危险的行为。根据发表在《Current Biology》期刊上的一项研究，科学家首次在野外环境测试了毒品对鲑鱼的影响。一组 35 条鲑鱼植入了含有可卡因的小型装置，另一组植入了含有可卡因主要代谢物苯甲酰爱康宁（benzoylecgonine）的装置，第三组则是对照组。实验结果显示，对照组的鱼多数生活在距离其放流点 20 公里的地方，可卡因组则生活在更遥远的地方，苯甲酰爱康宁组最远生活在 32 公里外。代谢物相对于可卡因对动物的影响更大，这与实验室观察一致。毒品对动物行为的影响会带来什么长期后果暂时还不清楚，需要进一步研究。",
-      "url": "https://www.solidot.org/story?sid=84108",
-      "category": ""
-    },
-    {
-      "title": "Palantir 发表受争议的技术共和国宣言",
-      "date": "Tue, 21 Apr 2026 13:57:37 GMT",
-      "summary": "Palantir CEO Alex Karp 及法务主管 Nicholas W. Zamiska 联合发表的《技术共和国（The Technological Republic）》一书 22 点宣言过去几天引发了广泛争议。Palantir 是硅谷亿万富翁 Peter Thiel 联合创办的军事承包商。批评者认为这一宣言是法西斯主义，充斥着保守派对自由主义的陈词滥调。宣言称，自由民主社会要赢需要的不只是道德诉求，它需要硬实力，而本世纪的硬实力将建立在软件之上。宣言要求对宗教信仰更宽容，抵制空洞的多元主义的诱惑；认为制造人们喜欢且觉得有用的产品是颓废，硅谷公司应该提供安全；问题不在于 AI 武器是否会被制造出来；问题在于谁建造它们，以及建造的目的是什么，就 AI 武器展开作秀式的辩论纯属浪费时间；兵役应是一种普遍义务，民众同时要对精英保持敬畏和宽容，不应嘲笑马斯克（Elon Musk），反对无情曝光公众人物私生活。宣言还批评西方以包容性之名拒绝定义民族文化。",
-      "url": "https://www.solidot.org/story?sid=84107",
-      "category": ""
-    },
-    {
-      "title": "F-35 是为不同战争而造的尖端战斗机",
-      "date": "Tue, 21 Apr 2026 12:25:28 GMT",
-      "summary": "美国的 F-35 战斗机项目始于上世纪末到本世纪初，整个项目总生命周期成本预计超两万亿美元，为美国历史上最昂贵的国防采购项目。然而过去几年爆发的战争凸显了现代战争越来越趋向于能大批量生产且损失之后能迅速替换的系统。而 F-35 战斗机数量少，造价昂贵，无法迅速替换，使其并不适合此类持久战。大规模发射的廉价导弹或无人机也让今天昂贵的导弹防御系统面临性价比问题。爱国者和萨德是最先进的导弹防御系统，但造价昂贵且产量有限。F-35 的情况类似。俄乌战争证明，无人系统能以比怀疑者预期更快的速度重塑战场。",
-      "url": "https://www.solidot.org/story?sid=84106",
-      "category": ""
-    },
-    {
-      "title": "英国计划学校期间禁止使用手机",
-      "date": "Tue, 21 Apr 2026 10:22:06 GMT",
-      "summary": "英国计划禁止学生在校期间使用手机。政府计划修订《儿童福祉与学校法案（children’s wellbeing and schools bill）》，将学校手机禁令的指导意见变成具有法律效力的正式禁令。英国大部分学校已经制定政策禁止使用手机，数据显示 99.8% 的小学和 90% 的中学限制或禁止学生在校期间使用手机。《儿童福祉与学校法案》被视为英国数十年来最重要的儿童保护立法，其中包括对未入学儿童进行强制性登记、打击儿童社会福利领域的牟利行为，以及创建一个唯一标识符帮助相关机构追踪儿童福利状况等。",
-      "url": "https://www.solidot.org/story?sid=84105",
-      "category": ""
-    },
-    {
-      "title": "荣耀人形机器人如何成为半马冠军",
-      "date": "Tue, 21 Apr 2026 08:08:42 GMT",
-      "summary": "智能手机厂商荣耀的人形机器人包揽了北京亦庄半程马拉松的前六名，而去年的冠军天工以及备受关注的宇树科技的 H1 都在终点线附近摔倒。这一结果凸显了荣耀与初创企业之间的可靠性差距。荣耀工程师在谈及该公司人形机器人获胜原因时表示，第一是将智能手机领域积累的技术实力应用到了人形机器人上。第二是体型，参考人类顶尖运动员的身形，将腿长设定为 95 厘米，实现了非常大的改善。第三是自主开发的高性能冷却系统。荣耀机器人所使用的核心散热部件来自华科冷芯（上海）动力科技有限公司。华科冷芯 CEO 陈奇表示，人形机器人要实现持续高速奔跑，面临的核心难题之一是下肢关节电机的散热。高负载奔跑要求高扭矩输出，并产生大量热量，这相当于一个小型“火炉”。一旦电机温度超过安全阈值，可能导致控制器烧毁、永磁体退磁、绕组绝缘损坏等永久性故障。荣耀机器人配置两个华科冷芯的高速悬浮泵，这种液冷技术帮助解决机器人的散热困境。",
-      "url": "https://www.solidot.org/story?sid=84104",
       "category": ""
     }
   ],
