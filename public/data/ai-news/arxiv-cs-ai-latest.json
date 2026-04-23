@@ -1,62 +1,68 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-04-23T03:26:37.096Z",
+  "fetch_time": "2026-04-23T06:05:14.616Z",
   "articles": [
     {
-      "title": "On Solving the Multiple Variable Gapped Longest Common Subsequence Problem",
-      "date": "Wed, 22 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.18645v1 Announce Type: new Abstract: This paper addresses the Variable Gapped Longest Common Subsequence (VGLCS) problem, a generalization of the classical LCS problem involving flexible gap constraints between consecutive solutions' characters. The problem arises in molecular sequence comparison, where structural distance constraints between residues must be respected, and in time-series analysis where events are required to occur within specified temporal delays. We propose a search",
-      "url": "https://arxiv.org/abs/2604.18645",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Beyond One Output: Visualizing and Comparing Distributions of Language Model Generations",
-      "date": "Wed, 22 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.18724v1 Announce Type: new Abstract: Users typically interact with and evaluate language models via single outputs, but each output is just one sample from a broad distribution of possible completions. This interaction hides distributional structure such as modes, uncommon edge cases, and sensitivity to small prompt changes, leading users to over-generalize from anecdotes when iterating on prompts for open-ended tasks. Informed by a formative study with researchers who use LMs (n=13) ",
-      "url": "https://arxiv.org/abs/2604.18724",
-      "category": "cs.AI"
-    },
-    {
-      "title": "ARES: Adaptive Red-Teaming and End-to-End Repair of Policy-Reward System",
-      "date": "Wed, 22 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.18789v1 Announce Type: new Abstract: Reinforcement Learning from Human Feedback (RLHF) is central to aligning Large Language Models (LLMs), yet it introduces a critical vulnerability: an imperfect Reward Model (RM) can become a single point of failure when it fails to penalize unsafe behaviors. While existing red-teaming approaches primarily target policy-level weaknesses, they overlook what we term systemic weaknesses cases where both the core LLM and the RM fail in tandem. We presen",
-      "url": "https://arxiv.org/abs/2604.18789",
+      "title": "The Tool-Overuse Illusion: Why Does LLM Prefer External Tools over Internal Knowledge?",
+      "date": "Thu, 23 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.19749v1 Announce Type: new Abstract: Equipping LLMs with external tools effectively addresses internal reasoning limitations. However, it introduces a critical yet under-explored phenomenon: tool overuse, the unnecessary tool-use during reasoning. In this paper, we first reveal this phenomenon is pervasive across diverse LLMs. We then experimentally elucidate its underlying mechanisms through two key lenses: (1) First, by analyzing tool-use behavior across different internal knowledge",
+      "url": "https://arxiv.org/abs/2604.19749",
       "category": [
         "cs.AI",
-        "cs.CR",
+        "cs.SE"
+      ]
+    },
+    {
+      "title": "AI to Learn 2.0: A Deliverable-Oriented Governance Framework and Maturity Rubric for Opaque AI in Learning-Intensive Domains",
+      "date": "Thu, 23 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.19751v1 Announce Type: new Abstract: Generative AI is entering research, education, and professional work faster than current governance frameworks can specify how AI-assisted outputs should be judged in learning-intensive settings. The central problem is proxy failure: a polished artifact can be useful while no longer serving as credible evidence of the human understanding, judgment, or transfer ability that the work is supposed to cultivate or certify. This paper proposes AI to Lear",
+      "url": "https://arxiv.org/abs/2604.19751",
+      "category": [
+        "cs.AI",
+        "cs.CY"
+      ]
+    },
+    {
+      "title": "Algorithm Selection with Zero Domain Knowledge via Text Embeddings",
+      "date": "Thu, 23 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.19753v1 Announce Type: new Abstract: We propose a feature-free approach to algorithm selection that replaces hand-crafted instance features with pretrained text embeddings. Our method, ZeroFolio, proceeds in three steps: it reads the raw instance file as plain text, embeds it with a pretrained embedding model, and selects an algorithm via weighted k-nearest neighbors. The key to our approach is the observation that pretrained embeddings produce representations that distinguish problem",
+      "url": "https://arxiv.org/abs/2604.19753",
+      "category": [
+        "cs.AI",
+        "cs.CL",
         "cs.LG"
       ]
     },
     {
-      "title": "AI scientists produce results without reasoning scientifically",
-      "date": "Wed, 22 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.18805v1 Announce Type: new Abstract: Large language model (LLM)-based systems are increasingly deployed to conduct scientific research autonomously, yet whether their reasoning adheres to the epistemic norms that make scientific inquiry self-correcting is poorly understood. Here, we evaluate LLM-based scientific agents across eight domains, spanning workflow execution to hypothesis-driven inquiry, through more than 25,000 agent runs and two complementary lenses: (i) a systematic perfo",
-      "url": "https://arxiv.org/abs/2604.18805",
+      "title": "Exploring Data Augmentation and Resampling Strategies for Transformer-Based Models to Address Class Imbalance in AI Scoring of Scientific Explanations in NGSS Classroom",
+      "date": "Thu, 23 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.19754v1 Announce Type: new Abstract: Automated scoring of students' scientific explanations offers the potential for immediate, accurate feedback, yet class imbalance in rubric categories particularly those capturing advanced reasoning remains a challenge. This study investigates augmentation strategies to improve transformer-based text classification of student responses to a physical science assessment based on an NGSS-aligned learning progression. The dataset consists of 1,466 high",
+      "url": "https://arxiv.org/abs/2604.19754",
       "category": [
         "cs.AI",
-        "cond-mat.mtrl-sci",
         "cs.LG"
       ]
     },
     {
-      "title": "Quantum inspired qubit qutrit neural networks for real time financial forecasting",
-      "date": "Wed, 22 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.18838v1 Announce Type: new Abstract: This research investigates the performance and efficacy of machine learning models in stock prediction, comparing Artificial Neural Networks (ANNs), Quantum Qubit-based Neural Networks (QQBNs), and Quantum Qutrit-based Neural Networks (QQTNs). By outlining methodologies, architectures, and training procedures, the study highlights significant differences in training times and performance metrics across models. While all models demonstrate robust ac",
-      "url": "https://arxiv.org/abs/2604.18838",
+      "title": "Explainable AML Triage with LLMs: Evidence Retrieval and Counterfactual Checks",
+      "date": "Thu, 23 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.19755v1 Announce Type: new Abstract: Anti-money laundering (AML) transaction monitoring generates large volumes of alerts that must be rapidly triaged by investigators under strict audit and governance constraints. While large language models (LLMs) can summarize heterogeneous evidence and draft rationales, unconstrained generation is risky in regulated workflows due to hallucinations, weak provenance, and explanations that are not faithful to the underlying decision. We propose an ex",
+      "url": "https://arxiv.org/abs/2604.19755",
       "category": [
         "cs.AI",
-        "quant-ph"
+        "cs.LG"
       ]
     },
     {
-      "title": "Human-Guided Harm Recovery for Computer Use Agents",
-      "date": "Wed, 22 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.18847v1 Announce Type: new Abstract: As LM agents gain the ability to execute actions on real computer systems, we need ways to not only prevent harmful actions at scale but also effectively remediate harm when prevention fails. We formalize a solution to this neglected challenge in post-execution safeguards as harm recovery: the problem of optimally steering an agent from a harmful state back to a safe one in alignment with human preferences. We ground preference-aligned recovery thr",
-      "url": "https://arxiv.org/abs/2604.18847",
+      "title": "ThermoQA: A Three-Tier Benchmark for Evaluating Thermodynamic Reasoning in Large Language Models",
+      "date": "Thu, 23 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.19758v1 Announce Type: new Abstract: We present ThermoQA, a benchmark of 293 open-ended engineering thermodynamics problems in three tiers: property lookups (110 Q), component analysis (101 Q), and full cycle analysis (82 Q). Ground truth is computed programmatically from CoolProp 7.2.0, covering water, R-134a, and variable-cp air. Six frontier LLMs are evaluated across three independent runs each. The composite leaderboard is led by Claude Opus 4.6 (94.1%), GPT-5.4 (93.1%), and Gemin",
+      "url": "https://arxiv.org/abs/2604.19758",
       "category": [
         "cs.AI",
-        "cs.CL"
+        "cs.CL",
+        "cs.LG"
       ]
     }
   ],
