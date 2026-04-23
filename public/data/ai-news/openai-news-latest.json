@@ -1,7 +1,7 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-04-23T06:05:14.391Z",
+  "fetch_time": "2026-04-23T09:19:14.403Z",
   "articles": [
     {
       "title": "Making ChatGPT better for clinicians",
@@ -11,11 +11,11 @@
       "category": "Product"
     },
     {
-      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+      "title": "Workspace agents",
       "date": "Wed, 22 Apr 2026 10:00:00 GMT",
-      "summary": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
-      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
-      "category": "Engineering"
+      "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
+      "url": "https://openai.com/academy/workspace-agents",
+      "category": "OpenAI Academy"
     },
     {
       "title": "Introducing workspace agents in ChatGPT",
@@ -25,11 +25,11 @@
       "category": "Product"
     },
     {
-      "title": "Workspace agents",
+      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
       "date": "Wed, 22 Apr 2026 10:00:00 GMT",
-      "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
-      "url": "https://openai.com/academy/workspace-agents",
-      "category": "OpenAI Academy"
+      "summary": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
+      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+      "category": "Engineering"
     },
     {
       "title": "Introducing OpenAI Privacy Filter",
