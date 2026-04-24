@@ -1,49 +1,49 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-04-23T12:53:09.683Z",
+  "fetch_time": "2026-04-24T03:29:04.033Z",
   "articles": [
     {
-      "title": "Making ChatGPT better for clinicians",
-      "date": "Wed, 22 Apr 2026 15:00:00 GMT",
-      "summary": "OpenAI makes ChatGPT for Clinicians free for verified U.S. physicians, nurse practitioners, and pharmacists, supporting clinical care, documentation, and research.",
-      "url": "https://openai.com/index/making-chatgpt-better-for-clinicians",
+      "title": "Introducing GPT-5.5",
+      "date": "Thu, 23 Apr 2026 11:00:00 GMT",
+      "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
+      "url": "https://openai.com/index/introducing-gpt-5-5",
       "category": "Product"
     },
     {
-      "title": "Workspace agents",
-      "date": "Wed, 22 Apr 2026 10:00:00 GMT",
-      "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
-      "url": "https://openai.com/academy/workspace-agents",
+      "title": "GPT-5.5 System Card",
+      "date": "Thu, 23 Apr 2026 11:00:00 GMT",
+      "summary": "",
+      "url": "https://openai.com/index/gpt-5-5-system-card",
+      "category": "Safety"
+    },
+    {
+      "title": "Automations",
+      "date": "Thu, 23 Apr 2026 10:00:00 GMT",
+      "summary": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
+      "url": "https://openai.com/academy/codex-automations",
       "category": "OpenAI Academy"
     },
     {
-      "title": "Introducing workspace agents in ChatGPT",
-      "date": "Wed, 22 Apr 2026 10:00:00 GMT",
-      "summary": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
-      "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
-      "category": "Product"
+      "title": "Top 10 uses for Codex at work",
+      "date": "Thu, 23 Apr 2026 10:00:00 GMT",
+      "summary": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
+      "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
+      "category": "OpenAI Academy"
     },
     {
-      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
-      "date": "Wed, 22 Apr 2026 10:00:00 GMT",
-      "summary": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
-      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
-      "category": "Engineering"
+      "title": "Plugins and skills",
+      "date": "Thu, 23 Apr 2026 10:00:00 GMT",
+      "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
+      "url": "https://openai.com/academy/codex-plugins-and-skills",
+      "category": "OpenAI Academy"
     },
     {
-      "title": "Introducing OpenAI Privacy Filter",
-      "date": "Wed, 22 Apr 2026 00:00:00 GMT",
-      "summary": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy",
-      "url": "https://openai.com/index/introducing-openai-privacy-filter",
-      "category": "Research"
-    },
-    {
-      "title": "Introducing ChatGPT Images 2.0",
-      "date": "Tue, 21 Apr 2026 12:00:00 GMT",
-      "summary": "ChatGPT Images 2.0 introduces a state-of-the-art image generation model with improved text rendering, multilingual support, and advanced visual reasoning.",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-0",
-      "category": "Product"
+      "title": "Working with Codex",
+      "date": "Thu, 23 Apr 2026 10:00:00 GMT",
+      "summary": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
+      "url": "https://openai.com/academy/working-with-codex",
+      "category": "OpenAI Academy"
     }
   ],
   "status": "success",
