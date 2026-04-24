@@ -1,8 +1,22 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-04-24T09:23:32.766Z",
+  "fetch_time": "2026-04-24T12:50:43.536Z",
   "articles": [
+    {
+      "title": "天文学家发现银河系的边缘",
+      "date": "Fri, 24 Apr 2026 09:53:08 GMT",
+      "summary": "银河系是圆盘状恒星，也就是恒星的形成是由里向外，这意味着越远的恒星越年轻。天文学家分析了银河系逾 10 万颗巨型恒星，发现恒星年龄分布由内向外模式在距离银河系中心 3.5-4 万光年间发生逆转，超过该距离恒星年龄变大了。这种突变形成了 U 型年龄分布，曲线最低点对应的恒星形成率急剧下降，代表着银河系恒星形成盘的边界。天文学家认为他们识别了银河系圆盘的边缘。",
+      "url": "https://www.solidot.org/story?sid=84141",
+      "category": ""
+    },
+    {
+      "title": "NASA Roman 太空望远镜最早九月发射",
+      "date": "Fri, 24 Apr 2026 08:38:14 GMT",
+      "summary": "NASA 宣布 Nancy Grace Roman 太空望远镜最早今年九月发射最晚 2027 年 5 月发射。望远镜以 NASA 首任天文学部门女主任的名字命名，它属于红外望远镜，核心任务包括探测暗能量、发现系外行星及验证广义相对论宇宙时空曲率。望远镜使用美国国家侦察局捐赠的 2.4 米口径主镜（当年 NRO 捐赠了两台主镜），配备了两台科学仪器：3 亿像素多波段红外相机大视场仪表（WFI），能直接观测邻近恒星周围的类木行星的日冕仪（CGI）。",
+      "url": "https://www.solidot.org/story?sid=84140",
+      "category": ""
+    },
     {
       "title": "深度求索发布 DeepSeek-V4 预览版",
       "date": "Fri, 24 Apr 2026 07:59:56 GMT",
@@ -29,20 +43,6 @@
       "date": "Fri, 24 Apr 2026 05:56:42 GMT",
       "summary": "Canonical 释出了代号为 Resolute Raccoon 的 Ubuntu 26.04 LTS。同时释出的还有衍生版本 Edubuntu、Kubuntu、Lubuntu、Ubuntu Budgie、Ubuntu Cinnamon、Ubuntu Kylin、Ubuntu Studio、Ubuntu Unity 和 Xubuntu。Ubuntu Desktop、Ubuntu Server、Ubuntu Cloud、Ubuntu WSL 和 Ubuntu Core 将获得五年的支持，其余版本获得三年的支持，付费扩展支持 ESM (Expanded Security Maintenance)为十年 。Ubuntu 26.04 采用最新的 Linux 7.0 kernel，GNOME 50 桌面环境，引入了基于 TPM 的全盘加密，GStreamer 1.28，沙盒图形加载，Chrony 4.8，等等。",
       "url": "https://www.solidot.org/story?sid=84136",
-      "category": ""
-    },
-    {
-      "title": "AI 漏洞报告大增促使内核移除缺乏维护的代码",
-      "date": "Fri, 24 Apr 2026 05:24:40 GMT",
-      "summary": "内核开发者宣布，为了保持自己的理智不被大量涌入的 AI 生成漏洞报告搞疯，他们正在 Linux 内核移除缺乏维护的代码。计划移除的代码包括 ISA 和 PCMCIA Ethernet 驱动、一对 PCI 驱动、ax25 和业余无线电子系统、ATM 协议和驱动，以及 ISDN 子系统。",
-      "url": "https://www.solidot.org/story?sid=84135",
-      "category": ""
-    },
-    {
-      "title": "猕猴吃土帮助消化游客的高热量垃圾食品",
-      "date": "Thu, 23 Apr 2026 15:31:51 GMT",
-      "summary": "剑桥大学的一项研究发现，欧洲唯一野猴群、生活在直布罗陀的猕猴群会定期吃土。对猴群的监测显示，与游客接触频繁的猕猴摄入的泥土量更多，而在旅游旺季食土率也更高。科学家认为游客提供或从游客偷取的高热量食物如巧克力、薯片和冰淇淋正在扰乱它们的肠道微生物组成，导致了其习惯的改变。吃土可能有助于猕猴恢复肠胃平衡，土壤可以提供垃圾食品缺乏的细菌和矿物质，可能有助于保护肠道内壁，缓解或预防因摄入过多糖分和脂肪引起的刺激。猕猴群平均每周有 12 次吃土行为。30% 的吃土行为发生在群体中，89% 发生在其它猕猴在场的情况下，其它猕猴通常会在旁观察，表明这种行为是“社会习得的”。大多数猕猴偏爱食用红土（terra rossa），占到了所有事件的 83%。",
-      "url": "https://www.solidot.org/story?sid=84134",
       "category": ""
     }
   ],
