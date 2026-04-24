@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-04-24T06:08:21.325Z",
+  "fetch_time": "2026-04-24T09:23:44.193Z",
   "articles": [
+    {
+      "title": "openclaw 2026.4.23-beta.4",
+      "date": "2026-04-24T08:56:03Z",
+      "summary": "\n### Changes\n\n- Providers/OpenAI: add image generation and reference-image editing through Codex OAuth, so `openai/gpt-image-2` works without an `OPENAI_API_KEY`. Fixes #70703.\n- Providers/OpenRouter:...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.23-beta.4",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.4.23-beta.4",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.4.22",
       "date": "2026-04-23T13:56:23Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.22",
-      "downloadCount": 4348
+      "downloadCount": 5692
     },
     {
       "title": "openclaw 2026.4.21",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.20",
-      "downloadCount": 11884
+      "downloadCount": 11897
     },
     {
       "title": "openclaw 2026.4.20-beta.2",
@@ -52,16 +62,6 @@
       "author": "steipete",
       "tagName": "v2026.4.20-beta.1",
       "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.4.19-beta.2",
-      "date": "2026-04-19T05:55:49Z",
-      "summary": "## 2026.4.19-beta.2\n\n### Fixes\n\n- Agents/openai-completions: always send `stream_options.include_usage` on streaming requests, so local and custom OpenAI-compatible backends report real context usage ...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.19-beta.2",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.4.19-beta.2",
-      "downloadCount": 1500
     }
   ],
   "status": "success",
