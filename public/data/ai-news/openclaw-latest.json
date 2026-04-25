@@ -1,8 +1,28 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-04-25T08:42:58.869Z",
+  "fetch_time": "2026-04-25T12:33:21.570Z",
   "articles": [
+    {
+      "title": "OpenClaw 2026.4.24 beta 2",
+      "date": "2026-04-25T12:22:26Z",
+      "summary": "Beta 2 fixes packaged bundled-plugin runtime mirrors on Windows and other copied-runtime installs so shared package-root dependencies remain resolvable during npm updates.\n\nIt also keeps future bundle...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.24-beta.2",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.4.24-beta.2",
+      "downloadCount": 0
+    },
+    {
+      "title": "openclaw 2026.4.24-beta.1",
+      "date": "2026-04-25T09:32:12Z",
+      "summary": "## 2026.4.24\n\n### Highlights\n\n- Google Meet joins OpenClaw as a bundled participant plugin, with personal Google auth, Chrome/Twilio realtime sessions, paired-node Chrome support, artifact/attendance ...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.24-beta.1",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.4.24-beta.1",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.4.23",
       "date": "2026-04-24T15:19:55Z",
@@ -41,26 +61,6 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.23-beta.4",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.4.22",
-      "date": "2026-04-23T13:56:23Z",
-      "summary": "## 2026.4.22\n\n### Changes\n\n- Providers/xAI: add image generation, text-to-speech, and speech-to-text support, including `grok-imagine-image` / `grok-imagine-image-pro`, reference-image edits, six live...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.22",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.4.22",
-      "downloadCount": 10288
-    },
-    {
-      "title": "openclaw 2026.4.21",
-      "date": "2026-04-22T04:18:58Z",
-      "summary": "## 2026.4.21\n\n### Changes\n\n- OpenAI/images: default the bundled image-generation provider and live media smoke tests to `gpt-image-2`, and advertise the newer 2K/4K OpenAI size hints in image-generati...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.21",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.4.21",
       "downloadCount": 0
     }
   ],
