@@ -1,64 +1,8 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-04-25T02:56:54.866Z",
-  "articles": [
-    {
-      "title": "Architecture of an AI-Based Automated Course of Action Generation System for Military Operations",
-      "date": "Fri, 24 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.20862v1 Announce Type: new Abstract: The automation system for Course of Action (CoA) planning is an essential element in future warfare. As maneuver speeds increase, surveillance ranges extend, and weapon ranges grow, the operational area expands, making traditional manned-based CoA planning increasingly challenging. Consequently, the development of an AI-based automated CoA planning system is becoming increasingly necessary. Accordingly, several countries and defense organizations a",
-      "url": "https://arxiv.org/abs/2604.20862",
-      "category": [
-        "cs.AI",
-        "cs.MA"
-      ]
-    },
-    {
-      "title": "Escaping the Agreement Trap: Defensibility Signals for Evaluating Rule-Governed AI",
-      "date": "Fri, 24 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.20972v1 Announce Type: new Abstract: Content moderation systems are typically evaluated by measuring agreement with human labels. In rule-governed environments this assumption fails: multiple decisions may be logically consistent with the governing policy, and agreement metrics penalize valid decisions while mischaracterizing ambiguity as error - a failure mode we term the Agreement Trap. We formalize evaluation as policy-grounded correctness and introduce the Defensibility Index (DI)",
-      "url": "https://arxiv.org/abs/2604.20972",
-      "category": [
-        "cs.AI",
-        "cs.CY"
-      ]
-    },
-    {
-      "title": "Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks",
-      "date": "Fri, 24 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.20987v1 Announce Type: new Abstract: Long horizon interactive environments are a testbed for evaluating agents skill usage abilities. These environments demand multi step reasoning, the chaining of multiple skills over many timesteps, and robust decision making under delayed rewards and partial observability. Games are a good testbed for evaluating agent skill usage in environments. Large Language Models (LLMs) offer a promising alternative as game playing agents, but they often strug",
-      "url": "https://arxiv.org/abs/2604.20987",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Value-Conflict Diagnostics Reveal Widespread Alignment Faking in Language Models",
-      "date": "Fri, 24 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.20995v1 Announce Type: new Abstract: Alignment faking, where a model behaves aligned with developer policy when monitored but reverts to its own preferences when unobserved, is a concerning yet poorly understood phenomenon, in part because current diagnostic tools remain limited. Prior diagnostics rely on highly toxic and clearly harmful scenarios, causing most models to refuse immediately. As a result, models never deliberate over developer policy, monitoring conditions, or the conse",
-      "url": "https://arxiv.org/abs/2604.20995",
-      "category": [
-        "cs.AI",
-        "cs.CL",
-        "cs.SE"
-      ]
-    },
-    {
-      "title": "The Last Harness You'll Ever Build",
-      "date": "Fri, 24 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.21003v1 Announce Type: new Abstract: AI agents are increasingly deployed on complex, domain-specific workflows -- navigating enterprise web applications that require dozens of clicks and form fills, orchestrating multi-step research pipelines that span search, extraction, and synthesis, automating code review across unfamiliar repositories, and handling customer escalations that demand nuanced domain knowledge. \\textbf{Each new task domain requires painstaking, expert-driven harness e",
-      "url": "https://arxiv.org/abs/2604.21003",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Deep FinResearch Bench: Evaluating AI's Ability to Conduct Professional Financial Investment Research",
-      "date": "Fri, 24 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.21006v1 Announce Type: new Abstract: We introduce Deep FinResearch Bench, a practical and comprehensive evaluation framework for deep research (DR) agents in financial investment research. The benchmark assesses three dimensions of report quality: qualitative rigor, quantitative forecasting and valuation accuracy, and claim credibility and verifiability. Particularly, we define corresponding qualitative and quantitative evaluation metrics and implement an automated scoring procedure t",
-      "url": "https://arxiv.org/abs/2604.21006",
-      "category": [
-        "cs.AI",
-        "cs.LG"
-      ]
-    }
-  ],
+  "fetch_time": "2026-04-25T05:47:34.837Z",
+  "articles": [],
   "status": "success",
   "error": null
 }
