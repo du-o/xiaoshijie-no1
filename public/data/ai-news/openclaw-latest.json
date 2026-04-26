@@ -1,8 +1,48 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-04-25T12:33:21.570Z",
+  "fetch_time": "2026-04-26T03:36:12.609Z",
   "articles": [
+    {
+      "title": "openclaw 2026.4.24",
+      "date": "2026-04-25T18:15:17Z",
+      "summary": "## 2026.4.24\n\n### Highlights\n\n- Google Meet joins OpenClaw as a bundled participant plugin, with personal Google auth, Chrome/Twilio realtime sessions, paired-node Chrome support, artifact/attendance ...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.24",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.4.24",
+      "downloadCount": 1947
+    },
+    {
+      "title": "openclaw 2026.4.24-beta.5",
+      "date": "2026-04-25T15:09:26Z",
+      "summary": "## 2026.4.24\n\n### Highlights\n\n- Google Meet joins OpenClaw as a bundled participant plugin, with personal Google auth, Chrome/Twilio realtime sessions, paired-node Chrome support, artifact/attendance ...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.24-beta.5",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.4.24-beta.5",
+      "downloadCount": 0
+    },
+    {
+      "title": "openclaw 2026.4.24-beta.4",
+      "date": "2026-04-25T14:26:47Z",
+      "summary": "## 2026.4.24\n\n### Highlights\n\n- Google Meet joins OpenClaw as a bundled participant plugin, with personal Google auth, Chrome/Twilio realtime sessions, paired-node Chrome support, artifact/attendance ...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.24-beta.4",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.4.24-beta.4",
+      "downloadCount": 0
+    },
+    {
+      "title": "openclaw 2026.4.24-beta.3",
+      "date": "2026-04-25T13:39:59Z",
+      "summary": "## 2026.4.24\n\n### Highlights\n\n- Google Meet joins OpenClaw as a bundled participant plugin, with personal Google auth, Chrome/Twilio realtime sessions, paired-node Chrome support, artifact/attendance ...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.24-beta.3",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.4.24-beta.3",
+      "downloadCount": 0
+    },
     {
       "title": "OpenClaw 2026.4.24 beta 2",
       "date": "2026-04-25T12:22:26Z",
@@ -21,46 +61,6 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.24-beta.1",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.4.23",
-      "date": "2026-04-24T15:19:55Z",
-      "summary": "## 2026.4.23\n\n### Changes\n\n- Providers/OpenAI: add image generation and reference-image editing through Codex OAuth, so `openai/gpt-image-2` works without an `OPENAI_API_KEY`. Fixes #70703.\n- Provider...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.23",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.4.23",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.4.23-beta.6",
-      "date": "2026-04-24T14:34:43Z",
-      "summary": "## 2026.4.23\n\n### Changes\n\n- Providers/OpenAI: add image generation and reference-image editing through Codex OAuth, so `openai/gpt-image-2` works without an `OPENAI_API_KEY`. Fixes #70703.\n- Provider...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.23-beta.6",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.4.23-beta.6",
-      "downloadCount": 0
-    },
-    {
-      "title": "OpenClaw 2026.4.23 beta 5",
-      "date": "2026-04-24T09:50:01Z",
-      "summary": "## 2026.4.23\n\n### Changes\n\n- Providers/OpenAI: add image generation and reference-image editing through Codex OAuth, so `openai/gpt-image-2` works without an `OPENAI_API_KEY`. Fixes #70703.\n- Provider...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.23-beta.5",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.4.23-beta.5",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.4.23-beta.4",
-      "date": "2026-04-24T08:56:03Z",
-      "summary": "\n### Changes\n\n- Providers/OpenAI: add image generation and reference-image editing through Codex OAuth, so `openai/gpt-image-2` works without an `OPENAI_API_KEY`. Fixes #70703.\n- Providers/OpenRouter:...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.23-beta.4",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.4.23-beta.4",
       "downloadCount": 0
     }
   ],
