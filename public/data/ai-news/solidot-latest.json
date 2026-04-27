@@ -1,8 +1,29 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-04-27T10:07:30.218Z",
+  "fetch_time": "2026-04-27T13:11:00.875Z",
   "articles": [
+    {
+      "title": "杀虫剂导致北美蝴蝶数量大减",
+      "date": "Mon, 27 Apr 2026 12:45:39 GMT",
+      "summary": "2025 年 3 月科学家在《科学》期刊上发表研究，Xerces Society for Invertebrate Conservation 保护协会随后发表了蝴蝶现状报告。研究发现，从 2000 年到 2020 年全美蝴蝶总数下降了 22%，有 24 种蝴蝶数量下降 90% 或以上。杀虫剂被认为是导致这一结果的主要原因。1960 年代化学公司研制出了强效杀虫剂滴滴涕（DDT），公众对滴滴涕的反对促使企业研制出弱化对人类伤害但强化对昆虫杀伤力的新杀虫剂。多种混合型杀虫剂的使用导致蝴蝶等昆虫在 21 世纪加速减少。生态学家 Matt Forister 等人在《Environmental Toxicology and Chemistry》期刊上报告，他们分析了 336 株植物只有 22 株植物没有检测到农药残留。这些植物至少含有三种化学物质，其中 71 株植物的农药浓度对蝴蝶而言是致命或接近致命。在 2022 年的一项类似研究中，Forister 团队分析了 33 家苗圃出售的 235 株乳草（对帝王蝶至关重要的植物），发现每株植物平均含有 12.2 种杀虫剂。",
+      "url": "https://www.solidot.org/story?sid=84162",
+      "category": ""
+    },
+    {
+      "title": "发改委要求撤销对 Manus 的收购",
+      "date": "Mon, 27 Apr 2026 12:20:29 GMT",
+      "summary": "国家发展改革委周一发布通报，外商投资安全审查工作机制办公室（国家发改委）依法依规对外资收购 Manus 项目作出禁止投资决定，要求当事人撤销该收购交易。《外商投资安全审查办法》于 2020 年 12 月 19 日由国家发展改革委、商务部联合发布，自 2021 年 1 月 18 日开始施行，对适用审查的外商投资类型、审查机构、审查范围、审查程序、审查决定监督执行和违规处理等进行规定。跟据该文件，国家建立外商投资安全审查工作机制，工作机制办公室设在国家发展改革委，由国家发展改革委、商务部牵头，承担外商投资安全审查的日常工作。",
+      "url": "https://www.solidot.org/story?sid=84161",
+      "category": ""
+    },
+    {
+      "title": "Greg K-H 使用基于 AMD Ryzen AI Max 的 AI 工具发现内核 Bug",
+      "date": "Mon, 27 Apr 2026 10:03:08 GMT",
+      "summary": "稳定版内核维护者 Greg Kroah-Hartman 正在使用名为 gkh_clanker_t1000 的 AI 工具发现内核 Bug。他在 Mastodon 上分享了 gkh_clanker_t1000 的硬件图片。gkh_clanker_t1000 运行在搭载 AMD Ryzen AI Max+“Strix Halo”APU 的 Framework Desktop 之上，Ryzen AI Max+ 提供了最高 128GB 的统一内存，可分配 96GB 内存给 GPU 使用，其性能足以运行本地大模型以及其它基于开源软件栈的 AI 工具。Greg K-H 尚未透露 gkh_clanker_t1000 软件方面的信息。",
+      "url": "https://www.solidot.org/story?sid=84160",
+      "category": ""
+    },
     {
       "title": "AI 成本可能高于人工成本",
       "date": "Mon, 27 Apr 2026 09:29:16 GMT",
@@ -22,27 +43,6 @@
       "date": "Mon, 27 Apr 2026 06:35:53 GMT",
       "summary": "Linus Torvalds 在内核邮件列表上宣布释出 Linux 7.1-rc1。主要变化包括：移除对部分旧硬件的支持，其中包括 i486 和俄罗斯 Baikal CPU，清理部分旧 PCMCIA 驱动；新 NTFS 驱动，支持 12 种新 SoC，新联想 Legion Go 驱动，Intel QAT Zstd 支持，AMD Zen 6 支持，Intel Linear Address Space Separation (LASS)，等等。",
       "url": "https://www.solidot.org/story?sid=84157",
-      "category": ""
-    },
-    {
-      "title": "切尔诺贝利灾难 40 年后",
-      "date": "Mon, 27 Apr 2026 06:13:49 GMT",
-      "summary": "1986 年 4 月 26 日切尔诺贝利核电站 4 号反应堆发生燃料棒破裂堆芯熔毁事故，这起事故是历史上最严重的核电事故。40 年后这场灾难对在核电站周围的野生动物产生了什么影响？人们担心核事故会对附近的动植物造成毁灭性影响，因为人类还能疏散，但动植物无法。40 年后动植物们仍然在隔离区/禁区内繁衍生息，但影响也是显著的。研究人员报告，禁区内的树蛙比外面的同类颜色更深，其体内的黑色素可能起到了屏障作用，能减缓辐射的影响。田鼠线粒体遗传多样性比非污染区的同类更高，可能是辐射暴露引起的基因突变，也可能是其它因素。辐射敏感的松树大批死亡，取而代之的是桦树。曾经人类生活的地区如今游荡着狼、熊、野牛、鹿、野猪和麋鹿，禁区内的狼群数量甚至七倍于自然保护区内的狼群。2014 年一台禁区内的红外相机拍摄到了一只棕熊，而棕熊已经一百多年没有在该地区出现过了。研究人员认为反应堆厂房内生长的黑色真菌提供了黑色素能部分抵抗电离辐射影响的证据。",
-      "url": "https://www.solidot.org/story?sid=84156",
-      "category": ""
-    },
-    {
-      "title": "调查称半数澳大利亚青少年仍然能访问社交媒体",
-      "date": "Mon, 27 Apr 2026 03:31:27 GMT",
-      "summary": "澳大利亚禁止 16 岁以下青少年使用社媒的禁令于 2025 年 12 月 10 日生效，社媒公司如 Meta、Snap 和 TikTok 必须删除和停用逾百万未成年人账户，违反者将面临最高 3250 万美元的罚款。但根据英国预防自杀组织 Molly Rose Foundation 对 1050 名 12 至 15 岁澳大利亚青少年的调查，禁令生效前拥有社媒账号的青少年逾六成仍然能访问至少一个平台。TikTok、YouTube 和 Instagram 仍然保留了逾半数 16 岁以下用户账号。三分之二年轻用户表示这些平台未采取任何行动删除禁令前已存在的账户。澳大利亚互联网监管机构正呼吁对五家最大的社媒平台展开调查，以查明其是否存在违反禁令的行为。",
-      "url": "https://www.solidot.org/story?sid=84155",
-      "category": ""
-    },
-    {
-      "title": "Peter Thiel 移居阿根廷",
-      "date": "Sun, 26 Apr 2026 16:03:46 GMT",
-      "summary": "最近热衷于研究敌基督的 Palantir 联合创始人 Peter Thiel 移居阿根廷。他在布宜诺斯艾利斯富人区购置了一座价值 1200 万美元的新豪宅，据报道计划长期定居，他与其丈夫 Matt Danzeisen 本周在玫瑰宫(Casa Rosada)会见了阿根廷总统 Javier Milei，当时在场的还有阿外交部长 Pablo Quirno。Thiel 等科技亿万富翁被认为是在寻找避险之地，因为他们相信随着科技进步造成广泛的经济和政治混乱，美国等国将经历一场崩溃，而新西兰以及阿根廷都被视为是极佳的候选避险之地，这些地方比较偏远，但有着较高的公共卫生水平，以及低成本的食品产地。他已经在新西兰获得了公民身份，拥有欧洲地区的马耳他护照。",
-      "url": "https://www.solidot.org/story?sid=84153",
       "category": ""
     }
   ],

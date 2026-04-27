@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-04-27T10:07:22.971Z",
+  "fetch_time": "2026-04-27T13:10:57.496Z",
   "articles": [
+    {
+      "title": "The next phase of the Microsoft OpenAI partnership",
+      "date": "Mon, 27 Apr 2026 06:00:00 GMT",
+      "summary": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
+      "url": "https://openai.com/index/next-phase-of-microsoft-partnership",
+      "category": "Company"
+    },
     {
       "title": "Our principles",
       "date": "Sun, 26 Apr 2026 16:00:00 GMT",
@@ -25,24 +32,17 @@
       "category": "Safety"
     },
     {
+      "title": "Working with Codex",
+      "date": "Thu, 23 Apr 2026 10:00:00 GMT",
+      "summary": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
+      "url": "https://openai.com/academy/working-with-codex",
+      "category": "OpenAI Academy"
+    },
+    {
       "title": "Plugins and skills",
       "date": "Thu, 23 Apr 2026 10:00:00 GMT",
       "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
       "url": "https://openai.com/academy/codex-plugins-and-skills",
-      "category": "OpenAI Academy"
-    },
-    {
-      "title": "What is Codex?",
-      "date": "Thu, 23 Apr 2026 10:00:00 GMT",
-      "summary": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
-      "url": "https://openai.com/academy/what-is-codex",
-      "category": "OpenAI Academy"
-    },
-    {
-      "title": "Automations",
-      "date": "Thu, 23 Apr 2026 10:00:00 GMT",
-      "summary": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
-      "url": "https://openai.com/academy/codex-automations",
       "category": "OpenAI Academy"
     }
   ],

@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-04-27T10:07:42.360Z",
+  "fetch_time": "2026-04-27T13:11:12.667Z",
   "articles": [
+    {
+      "title": "OpenClaw 2026.4.25",
+      "date": "2026-04-27T12:45:30Z",
+      "summary": "## 2026.4.25\n\n### Highlights\n\n- Voice replies get a full TTS upgrade: `/tts latest`, chat-scoped auto-TTS controls, personas, per-agent/per-account overrides, and new Azure Speech, Xiaomi, Local CLI, ...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.25",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.4.25",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.4.25-beta.4",
       "date": "2026-04-26T13:24:41Z",
@@ -51,17 +61,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.24",
-      "downloadCount": 12038
-    },
-    {
-      "title": "openclaw 2026.4.24-beta.5",
-      "date": "2026-04-25T15:09:26Z",
-      "summary": "## 2026.4.24\n\n### Highlights\n\n- Google Meet joins OpenClaw as a bundled participant plugin, with personal Google auth, Chrome/Twilio realtime sessions, paired-node Chrome support, artifact/attendance ...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.24-beta.5",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.4.24-beta.5",
-      "downloadCount": 0
+      "downloadCount": 12941
     }
   ],
   "status": "success",
