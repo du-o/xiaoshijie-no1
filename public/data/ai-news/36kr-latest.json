@@ -1,7 +1,7 @@
 {
   "source": "36氪",
   "source_url": "https://www.36kr.com/feed",
-  "fetch_time": "2026-04-27T03:39:22.511Z",
+  "fetch_time": "2026-04-27T06:28:08.779Z",
   "articles": [
     {
       "title": "中科创达推出滴水AIOS 2.1和Kanzi 4",
@@ -46,6 +46,6 @@
       "category": ""
     }
   ],
-  "status": "success",
-  "error": null
+  "status": "error",
+  "error": "Request timeout"
 }

@@ -1,62 +1,150 @@
 {
-  "fetch_time": "2026-04-27T03:39:23.800Z",
+  "fetch_time": "2026-04-27T06:28:10.459Z",
   "total_count": 30,
   "sources_count": 6,
-  "errors": null,
+  "errors": [
+    "36kr: Request timeout"
+  ],
   "articles": [
     {
-      "title": "中科创达推出滴水AIOS 2.1和Kanzi 4",
-      "date": "Mon, 27 Apr 2026 03:39:03 GMT",
-      "summary": "36氪获悉，4月26日，中科创达推出专为AIOS而生的新一代汽车人机交互（HMI）引擎Kanzi 4和滴水AIOS 2.1。该产品以超级融合AI智能体为核心，依托全新OpenClaw架构搭建AquaClaw汽车智能体技术底座，完成操作系统从内核到应用的全栈重构，实现智能座舱由“被动响应执行”向“主动全域智能”的进阶。",
-      "url": "https://36kr.com/newsflashes/3784526119279619?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
+      "title": "Math Takes Two: A test for emergent mathematical reasoning in communication",
+      "date": "Mon, 27 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.21935v1 Announce Type: new Abstract: Although language models demonstrate remarkable proficiency on mathematical benchmarks, it remains unclear whether this reflects true mathematical reasoning or statistical pattern matching over learning formal syntax. Most existing evaluations rely on symbolic problems grounded in established mathematical conventions, limiting insight into the models' ability to construct abstract concepts from first principles. In this work, we propose Math Takes ",
+      "url": "https://arxiv.org/abs/2604.21935",
+      "category": [
+        "cs.AI",
+        "cs.LG"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
     },
     {
-      "title": "A股三大指数午间休盘涨跌不一，汽车股领涨",
-      "date": "Mon, 27 Apr 2026 03:32:12 GMT",
-      "summary": "36氪获悉，A股三大指数午间休盘涨跌不一，沪指涨0.15%，深成指涨0.52%，创业板指跌0.2%；半导体、汽车、通信设备板块领涨，东芯股份涨超13%，北汽蓝谷、长飞光纤涨超5%，白酒、互联网、贵金属板块跌幅居前，贵州茅台跌超3%，首都在线跌超2%，紫金矿业跌超1%。",
-      "url": "https://36kr.com/newsflashes/3784519385095176?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
+      "title": "An Artifact-based Agent Framework for Adaptive and Reproducible Medical Image Processing",
+      "date": "Mon, 27 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.21936v1 Announce Type: new Abstract: Medical imaging research is increasingly shifting from controlled benchmark evaluation toward real-world clinical deployment. In such settings, applying analytical methods extends beyond model design to require dataset-aware workflow configuration and provenance tracking. Two requirements therefore become central: \\textbf{adaptability}, the ability to configure workflows according to dataset-specific conditions and evolving analytical goals; and \\t",
+      "url": "https://arxiv.org/abs/2604.21936",
+      "category": [
+        "cs.AI",
+        "cs.CV",
+        "cs.MA"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
     },
     {
-      "title": "郭明錤：OpenAI进军手机，正与联发科、高通合作开发处理器",
-      "date": "Mon, 27 Apr 2026 03:26:46 GMT",
-      "summary": "知名分析师郭明錤发文称，OpenAI计划自研手机，正与联发科、高通合作开发手机处理器，预计2028年量产。唯有完全掌控系统与硬件，才能提供全面性的AI Agent（代理）服务。（财联社）",
-      "url": "https://36kr.com/newsflashes/3784514046926081?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
+      "title": "MolClaw: An Autonomous Agent with Hierarchical Skills for Drug Molecule Evaluation, Screening, and Optimization",
+      "date": "Mon, 27 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.21937v1 Announce Type: new Abstract: Computational drug discovery, particularly the complex workflows of drug molecule screening and optimization, requires orchestrating dozens of specialized tools in multi-step workflows, yet current AI agents struggle to maintain robust performance and consistently underperform in these high-complexity scenarios. Here we present MolClaw, an autonomous agent that leads drug molecule evaluation, screening, and optimization. It unifies over 30 speciali",
+      "url": "https://arxiv.org/abs/2604.21937",
+      "category": [
+        "cs.AI",
+        "cs.MA"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
     },
     {
-      "title": "一季度保险业保费收入同比增长6.2%",
-      "date": "Mon, 27 Apr 2026 03:25:49 GMT",
-      "summary": "中国保险行业协会今天（4月27日）召开新闻发布会。相关负责人介绍，2026年一季度保险业实现保费收入2.31万亿元，同比增长6.2%；赔付支出0.89万亿元，同比增长7.5%。（央视新闻）",
-      "url": "https://36kr.com/newsflashes/3784513118739464?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
+      "title": "Read the Paper, Write the Code: Agentic Reproduction of Social-Science Results",
+      "date": "Mon, 27 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.21965v1 Announce Type: new Abstract: Recent work has used LLM agents to reproduce empirical social science results with access to both the data and code. We broaden this scope by asking: Can they reproduce results given only a paper's methods description and original data? We develop an agentic reproduction system that extracts structured methods descriptions from papers, runs reimplementations under strict information isolation -- agents never see the original code, results, or paper",
+      "url": "https://arxiv.org/abs/2604.21965",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
     },
     {
-      "title": "国家能源局：一季度氢能、煤制油气、新型储能等领域投资加快释放",
-      "date": "Mon, 27 Apr 2026 03:16:21 GMT",
-      "summary": "国家能源局4月27日举行新闻发布会，介绍2026年一季度全国能源形势及发展成效等。国家能源局发展规划司副司长邢翼腾介绍，能源重点项目加快建设。一季度能源投资保持较快增长，为全国固定资产投资转正提供有力支撑。电网保安全、扩投资作用不断彰显，氢能、煤制油气、新型储能等领域投资加快释放。民营企业深度参与能源领域国家科技项目，全国首个引入民营资本核电项目浙江三澳1号机组并网发电。（证券时报）",
-      "url": "https://36kr.com/newsflashes/3784503813102596?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
+      "title": "Rethinking Publication: A Certification Framework for AI-Enabled Research",
+      "date": "Mon, 27 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.22026v1 Announce Type: new Abstract: AI research pipelines now produce a growing share of publishable academic output, including work that meets existing peer-review standards for quality and novelty. Yet the publication system was built on the assumption of universal human authorship and lacks a principled way to evaluate knowledge produced through automated pipelines. This paper proposes a two-layer certification framework that separates knowledge quality assessment from grading of ",
+      "url": "https://arxiv.org/abs/2604.22026",
+      "category": [
+        "cs.AI",
+        "cs.CY",
+        "cs.DL"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
     },
     {
-      "title": "中赋科技：计划以10亿元对价收购军科正源87%股权",
-      "date": "Mon, 27 Apr 2026 03:14:08 GMT",
-      "summary": "36氪获悉，创业板公司中赋科技公告，计划以10亿元对价收购国家级专精特新小巨人企业军科正源87%股权，正式拿下国内生物样本分析领域头部CRO平台。本次整合后，中赋源创将快速构建“临床前+临床”一体化服务能力，为创新药企业提供端到端、全链条、数据统一的一站式解决方案。",
-      "url": "https://36kr.com/newsflashes/3784501634407433?f=rss",
+      "title": "Sound Agentic Science Requires Adversarial Experiments",
+      "date": "Mon, 27 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.22080v1 Announce Type: new Abstract: LLM-based agents are rapidly being adopted for scientific data analysis, automating tasks once limited by human time and expertise. This capability is often framed as an acceleration of discovery, but it also accelerates a familiar failure mode, the rapid production of plausible, endlessly revisable analyses that are easy to generate, effectively turning hypothesis space into candidate claims supported by selectively chosen analyses, optimized for ",
+      "url": "https://arxiv.org/abs/2604.22080",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Google Cloud",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/",
+      "date": "2026-04-27T03:39:26.350Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Cloud Next ‘26: Momentum and innovation at Google scale Google CEO Sundar Pichai discusses the top announcements at Cloud Next 2026.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/cloud-next-2026-sundar-pichai/",
+      "date": "2026-04-27T03:39:26.350Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Our eighth generation TPUs: two chips for the agentic era",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
+      "date": "2026-04-27T03:39:26.350Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Gemini Enterprise Agent Platform lets you build, govern and optimize your agents.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-enterprise-agent-platform/",
+      "date": "2026-04-27T03:39:26.350Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Gemini App",
+      "url": "https://blog.google/products-and-platforms/products/gemini/",
+      "date": "2026-04-27T03:39:26.350Z",
+      "summary": "",
+      "category": "Products",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Google Labs",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/",
+      "date": "2026-04-27T03:39:26.350Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "The State of AI: A Look at What's Next",
+      "url": "https://every.to/p/the-state-of-ai",
+      "date": "2026-04-27T03:39:20.571Z",
+      "summary": "An in-depth analysis of the current AI landscape and future trends.",
+      "category": "AI Analysis",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "调查称半数澳大利亚青少年仍然能访问社交媒体",
+      "date": "Mon, 27 Apr 2026 03:31:27 GMT",
+      "summary": "澳大利亚禁止 16 岁以下青少年使用社媒的禁令于 2025 年 12 月 10 日生效，社媒公司如 Meta、Snap 和 TikTok 必须删除和停用逾百万未成年人账户，违反者将面临最高 3250 万美元的罚款。但根据英国预防自杀组织 Molly Rose Foundation 对 1050 名 12 至 15 岁澳大利亚青少年的调查，禁令生效前拥有社媒账号的青少年逾六成仍然能访问至少一个平台。TikTok、YouTube 和 Instagram 仍然保留了逾半数 16 岁以下用户账号。三分之二年轻用户表示这些平台未采取任何行动删除禁令前已存在的账户。澳大利亚互联网监管机构正呼吁对五家最大的社媒平台展开调查，以查明其是否存在违反禁令的行为。",
+      "url": "https://www.solidot.org/story?sid=84155",
       "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
+      "source": "Solidot",
+      "source_name": "solidot"
     },
     {
       "title": "Peter Thiel 移居阿根廷",
@@ -95,72 +183,9 @@
       "source_name": "solidot"
     },
     {
-      "title": "Google Cloud",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/",
-      "date": "2026-04-26T12:35:20.153Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Cloud Next ‘26: Momentum and innovation at Google scale Google CEO Sundar Pichai discusses the top announcements at Cloud Next 2026.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/cloud-next-2026-sundar-pichai/",
-      "date": "2026-04-26T12:35:20.153Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Our eighth generation TPUs: two chips for the agentic era",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
-      "date": "2026-04-26T12:35:20.153Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Gemini Enterprise Agent Platform lets you build, govern and optimize your agents.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-enterprise-agent-platform/",
-      "date": "2026-04-26T12:35:20.153Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Gemini App",
-      "url": "https://blog.google/products-and-platforms/products/gemini/",
-      "date": "2026-04-26T12:35:20.153Z",
-      "summary": "",
-      "category": "Products",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Google Labs",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/",
-      "date": "2026-04-26T12:35:20.153Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "The State of AI: A Look at What's Next",
-      "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-04-26T12:35:12.951Z",
-      "summary": "An in-depth analysis of the current AI landscape and future trends.",
-      "category": "AI Analysis",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
       "title": "How Startups Are Using AI to Disrupt Industries",
       "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-04-25T12:35:12.951Z",
+      "date": "2026-04-26T03:39:20.571Z",
       "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
       "category": "Source Code",
       "source": "Every.to",
@@ -185,18 +210,9 @@
       "source_name": "solidot"
     },
     {
-      "title": "挪威计划禁止 16 岁以下儿童使用社交媒体",
-      "date": "Sat, 25 Apr 2026 10:44:41 GMT",
-      "summary": "挪威计划禁止 16 岁以下儿童使用社交媒体，加入了澳大利亚、法国、奥地利、印度尼西亚和丹麦等国家的行列。挪威政府周五表示，社媒禁令是在公众强烈要求下提出的，政府计划年底前将法案提交议会。政府称，限制使用社媒的禁令将持续到儿童年满 16 岁当年的 1 月 1 日，由科技公司负责年龄验证。首相 Jonas Gahr Store 表示：“我们希望孩子拥有一个真正属于自己的童年。游戏、友谊和日常生活不应被算法和屏幕所占据。”挪威数字部长 Karianne Tung 在声明中表示：“不能让孩子承担远离他们被禁止使用的平台的责任。责任应该由提供服务的公司承担。”",
-      "url": "https://www.solidot.org/story?sid=84148",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-04-24T12:35:12.951Z",
+      "date": "2026-04-25T03:39:20.571Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
@@ -205,7 +221,7 @@
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-04-23T12:35:12.951Z",
+      "date": "2026-04-24T03:39:20.571Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
@@ -230,10 +246,10 @@
       "source_name": "openai"
     },
     {
-      "title": "Top 10 uses for Codex at work",
+      "title": "Automations",
       "date": "Thu, 23 Apr 2026 10:00:00 GMT",
-      "summary": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
-      "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
+      "summary": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
+      "url": "https://openai.com/academy/codex-automations",
       "category": "OpenAI Academy",
       "source": "OpenAI News",
       "source_name": "openai"
@@ -259,7 +275,7 @@
     {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-04-22T12:35:12.951Z",
+      "date": "2026-04-23T03:39:20.571Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -268,7 +284,7 @@
     {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-04-21T12:35:12.951Z",
+      "date": "2026-04-22T03:39:20.571Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
