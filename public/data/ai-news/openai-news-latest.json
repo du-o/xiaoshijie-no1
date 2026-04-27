@@ -1,7 +1,7 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-04-27T06:27:06.081Z",
+  "fetch_time": "2026-04-27T10:07:22.971Z",
   "articles": [
     {
       "title": "Our principles",
@@ -11,13 +11,6 @@
       "category": "Company"
     },
     {
-      "title": "GPT-5.5 System Card",
-      "date": "Thu, 23 Apr 2026 11:00:00 GMT",
-      "summary": "",
-      "url": "https://openai.com/index/gpt-5-5-system-card",
-      "category": "Safety"
-    },
-    {
       "title": "Introducing GPT-5.5",
       "date": "Thu, 23 Apr 2026 11:00:00 GMT",
       "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
@@ -25,17 +18,17 @@
       "category": "Product"
     },
     {
-      "title": "Automations",
-      "date": "Thu, 23 Apr 2026 10:00:00 GMT",
-      "summary": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
-      "url": "https://openai.com/academy/codex-automations",
-      "category": "OpenAI Academy"
+      "title": "GPT-5.5 System Card",
+      "date": "Thu, 23 Apr 2026 11:00:00 GMT",
+      "summary": "",
+      "url": "https://openai.com/index/gpt-5-5-system-card",
+      "category": "Safety"
     },
     {
-      "title": "How to get started with Codex",
+      "title": "Plugins and skills",
       "date": "Thu, 23 Apr 2026 10:00:00 GMT",
-      "summary": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
-      "url": "https://openai.com/academy/codex-how-to-start",
+      "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
+      "url": "https://openai.com/academy/codex-plugins-and-skills",
       "category": "OpenAI Academy"
     },
     {
@@ -43,6 +36,13 @@
       "date": "Thu, 23 Apr 2026 10:00:00 GMT",
       "summary": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
       "url": "https://openai.com/academy/what-is-codex",
+      "category": "OpenAI Academy"
+    },
+    {
+      "title": "Automations",
+      "date": "Thu, 23 Apr 2026 10:00:00 GMT",
+      "summary": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
+      "url": "https://openai.com/academy/codex-automations",
       "category": "OpenAI Academy"
     }
   ],
