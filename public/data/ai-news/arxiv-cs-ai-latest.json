@@ -1,63 +1,62 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-04-28T03:45:01.079Z",
+  "fetch_time": "2026-04-28T06:28:31.285Z",
   "articles": [
     {
-      "title": "Math Takes Two: A test for emergent mathematical reasoning in communication",
-      "date": "Mon, 27 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.21935v1 Announce Type: new Abstract: Although language models demonstrate remarkable proficiency on mathematical benchmarks, it remains unclear whether this reflects true mathematical reasoning or statistical pattern matching over learning formal syntax. Most existing evaluations rely on symbolic problems grounded in established mathematical conventions, limiting insight into the models' ability to construct abstract concepts from first principles. In this work, we propose Math Takes ",
-      "url": "https://arxiv.org/abs/2604.21935",
+      "title": "An Intelligent Fault Diagnosis Method for General Aviation Aircraft Based on Multi-Fidelity Digital Twin and FMEA Knowledge Enhancement",
+      "date": "Tue, 28 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.22777v1 Announce Type: new Abstract: Fault diagnosis of general aviation aircraft faces challenges including scarce real fault data, diverse fault types, and weak fault signatures. This paper proposes an intelligent fault diagnosis framework based on multi-fidelity digital twin, integrating four modules: high-fidelity flight dynamics simulation, FMEA-driven fault injection, multi-fidelity residual feature extraction, and large language model (LLM)-enhanced interpretable report generat",
+      "url": "https://arxiv.org/abs/2604.22777",
       "category": [
         "cs.AI",
         "cs.LG"
       ]
     },
     {
-      "title": "An Artifact-based Agent Framework for Adaptive and Reproducible Medical Image Processing",
-      "date": "Mon, 27 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.21936v1 Announce Type: new Abstract: Medical imaging research is increasingly shifting from controlled benchmark evaluation toward real-world clinical deployment. In such settings, applying analytical methods extends beyond model design to require dataset-aware workflow configuration and provenance tracking. Two requirements therefore become central: \\textbf{adaptability}, the ability to configure workflows according to dataset-specific conditions and evolving analytical goals; and \\t",
-      "url": "https://arxiv.org/abs/2604.21936",
+      "title": "PExA: Parallel Exploration Agent for Complex Text-to-SQL",
+      "date": "Tue, 28 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.22934v1 Announce Type: new Abstract: LLM-based agents for text-to-SQL often struggle with latency-performance trade-off, where performance improvements come at the cost of latency or vice versa. We reformulate text-to-SQL generation within the lens of software test coverage where the original query is prepared with a suite of test cases with simpler, atomic SQLs that are executed in parallel and together ensure semantic coverage of the original query. After iterating on test case cove",
+      "url": "https://arxiv.org/abs/2604.22934",
       "category": [
         "cs.AI",
-        "cs.CV",
-        "cs.MA"
+        "cs.CL"
       ]
     },
     {
-      "title": "MolClaw: An Autonomous Agent with Hierarchical Skills for Drug Molecule Evaluation, Screening, and Optimization",
-      "date": "Mon, 27 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.21937v1 Announce Type: new Abstract: Computational drug discovery, particularly the complex workflows of drug molecule screening and optimization, requires orchestrating dozens of specialized tools in multi-step workflows, yet current AI agents struggle to maintain robust performance and consistently underperform in these high-complexity scenarios. Here we present MolClaw, an autonomous agent that leads drug molecule evaluation, screening, and optimization. It unifies over 30 speciali",
-      "url": "https://arxiv.org/abs/2604.21937",
+      "title": "The Power of Power Law: Asymmetry Enables Compositional Reasoning",
+      "date": "Tue, 28 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.22951v1 Announce Type: new Abstract: Natural language data follows a power-law distribution, with most knowledge and skills appearing at very low frequency. While a common intuition suggests that reweighting or curating data towards a uniform distribution may help models better learn these long-tail skills, we find a counterintuitive result: across a wide range of compositional reasoning tasks, such as state tracking and multi-step arithmetic, training under power-law distributions co",
+      "url": "https://arxiv.org/abs/2604.22951",
       "category": [
         "cs.AI",
-        "cs.MA"
+        "cs.CL",
+        "cs.LG"
       ]
     },
     {
-      "title": "Read the Paper, Write the Code: Agentic Reproduction of Social-Science Results",
-      "date": "Mon, 27 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.21965v1 Announce Type: new Abstract: Recent work has used LLM agents to reproduce empirical social science results with access to both the data and code. We broaden this scope by asking: Can they reproduce results given only a paper's methods description and original data? We develop an agentic reproduction system that extracts structured methods descriptions from papers, runs reimplementations under strict information isolation -- agents never see the original code, results, or paper",
-      "url": "https://arxiv.org/abs/2604.21965",
+      "title": "On the Existence of an Inverse Solution for Preference-Based Reductions in Argumentation",
+      "date": "Tue, 28 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.22958v1 Announce Type: new Abstract: Preference-based argumentation frameworks (PAFs) extend Dung's approach to abstract argumentation (AAFs) by encoding preferences over arguments. Such preferences control the transformation of attacks into defeats, and different approaches to doing so result in different reductions from a PAF to an AAF. In this paper we consider a PAF inverse problem which takes an argumentation graph, a labelling and a semantics as an input, and outputs a ``yes\" or",
+      "url": "https://arxiv.org/abs/2604.22958",
       "category": "cs.AI"
     },
     {
-      "title": "Rethinking Publication: A Certification Framework for AI-Enabled Research",
-      "date": "Mon, 27 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.22026v1 Announce Type: new Abstract: AI research pipelines now produce a growing share of publishable academic output, including work that meets existing peer-review standards for quality and novelty. Yet the publication system was built on the assumption of universal human authorship and lacks a principled way to evaluate knowledge produced through automated pipelines. This paper proposes a two-layer certification framework that separates knowledge quality assessment from grading of ",
-      "url": "https://arxiv.org/abs/2604.22026",
-      "category": [
-        "cs.AI",
-        "cs.CY",
-        "cs.DL"
-      ]
+      "title": "Towards Causally Interpretable Wi-Fi CSI-Based Human Activity Recognition with Discrete Latent Compression and LTL Rule Extraction",
+      "date": "Tue, 28 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.22979v1 Announce Type: new Abstract: We address Human Activity Recognition (HAR) utilizing Wi-Fi Channel State Information (CSI) under the joint requirements of causal interpretability, symbolic controllability, and direct operation on high-dimensional raw signals. Deep neural models achieve strong predictive performance on CSI-based HAR (CHAR), yet rely on continuous latent representations that are opaque and difficult to modify; purely symbolic approaches, in contrast, cannot proces",
+      "url": "https://arxiv.org/abs/2604.22979",
+      "category": "cs.AI"
     },
     {
-      "title": "Sound Agentic Science Requires Adversarial Experiments",
-      "date": "Mon, 27 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.22080v1 Announce Type: new Abstract: LLM-based agents are rapidly being adopted for scientific data analysis, automating tasks once limited by human time and expertise. This capability is often framed as an acceleration of discovery, but it also accelerates a familiar failure mode, the rapid production of plausible, endlessly revisable analyses that are easy to generate, effectively turning hypothesis space into candidate claims supported by selectively chosen analyses, optimized for ",
-      "url": "https://arxiv.org/abs/2604.22080",
-      "category": "cs.AI"
+      "title": "FormalScience: Scalable Human-in-the-Loop Autoformalisation of Science with Agentic Code Generation in Lean",
+      "date": "Tue, 28 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.23002v1 Announce Type: new Abstract: Formalising informal mathematical reasoning into formally verifiable code is a significant challenge for large language models. In scientific fields such as physics, domain-specific machinery (\\textit{e.g.} Dirac notation, vector calculus) imposes additional formalisation challenges that modern LLMs and agentic approaches have yet to tackle. To aid autoformalisation in scientific domains, we present FormalScience; a domain-agnostic human-in-the-loo",
+      "url": "https://arxiv.org/abs/2604.23002",
+      "category": [
+        "cs.AI",
+        "cs.CL"
+      ]
     }
   ],
   "status": "success",
