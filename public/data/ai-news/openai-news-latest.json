@@ -1,14 +1,35 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-04-27T13:10:57.496Z",
+  "fetch_time": "2026-04-28T03:45:00.929Z",
   "articles": [
+    {
+      "title": "OpenAI available at FedRAMP Moderate",
+      "date": "Mon, 27 Apr 2026 14:00:00 GMT",
+      "summary": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
+      "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
+      "category": "Global Affairs"
+    },
     {
       "title": "The next phase of the Microsoft OpenAI partnership",
       "date": "Mon, 27 Apr 2026 06:00:00 GMT",
       "summary": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
       "url": "https://openai.com/index/next-phase-of-microsoft-partnership",
       "category": "Company"
+    },
+    {
+      "title": "An open-source spec for orchestration: Symphony",
+      "date": "Mon, 27 Apr 2026 00:00:00 GMT",
+      "summary": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
+      "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
+      "category": "Engineering"
+    },
+    {
+      "title": "Choco automates food distribution with AI agents",
+      "date": "Mon, 27 Apr 2026 00:00:00 GMT",
+      "summary": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact.",
+      "url": "https://openai.com/index/choco",
+      "category": "B2B Story"
     },
     {
       "title": "Our principles",
@@ -18,32 +39,11 @@
       "category": "Company"
     },
     {
-      "title": "Introducing GPT-5.5",
-      "date": "Thu, 23 Apr 2026 11:00:00 GMT",
-      "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
-      "url": "https://openai.com/index/introducing-gpt-5-5",
-      "category": "Product"
-    },
-    {
       "title": "GPT-5.5 System Card",
       "date": "Thu, 23 Apr 2026 11:00:00 GMT",
       "summary": "",
       "url": "https://openai.com/index/gpt-5-5-system-card",
       "category": "Safety"
-    },
-    {
-      "title": "Working with Codex",
-      "date": "Thu, 23 Apr 2026 10:00:00 GMT",
-      "summary": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
-      "url": "https://openai.com/academy/working-with-codex",
-      "category": "OpenAI Academy"
-    },
-    {
-      "title": "Plugins and skills",
-      "date": "Thu, 23 Apr 2026 10:00:00 GMT",
-      "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
-      "url": "https://openai.com/academy/codex-plugins-and-skills",
-      "category": "OpenAI Academy"
     }
   ],
   "status": "success",

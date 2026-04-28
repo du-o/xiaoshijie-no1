@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-04-27T13:11:12.667Z",
+  "fetch_time": "2026-04-28T03:45:26.625Z",
   "articles": [
+    {
+      "title": "OpenClaw 2026.4.26",
+      "date": "2026-04-28T01:11:02Z",
+      "summary": "## 2026.4.26\n\n### Changes\n\n- Control UI/Talk: add a generic browser realtime transport contract, Google Live browser Talk sessions with constrained ephemeral tokens, and a Gateway relay for backend-on...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.26",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.4.26",
+      "downloadCount": 300
+    },
     {
       "title": "OpenClaw 2026.4.25",
       "date": "2026-04-27T12:45:30Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.25",
-      "downloadCount": 0
+      "downloadCount": 3950
     },
     {
       "title": "openclaw 2026.4.25-beta.4",
@@ -52,16 +62,6 @@
       "author": "steipete",
       "tagName": "v2026.4.25-beta.1",
       "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.4.24",
-      "date": "2026-04-25T18:15:17Z",
-      "summary": "## 2026.4.24\n\n### Highlights\n\n- Google Meet joins OpenClaw as a bundled participant plugin, with personal Google auth, Chrome/Twilio realtime sessions, paired-node Chrome support, artifact/attendance ...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.24",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.4.24",
-      "downloadCount": 12941
     }
   ],
   "status": "success",
