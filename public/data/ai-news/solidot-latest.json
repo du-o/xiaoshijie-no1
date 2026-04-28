@@ -1,8 +1,15 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-04-28T10:07:15.628Z",
+  "fetch_time": "2026-04-28T13:23:56.427Z",
   "articles": [
+    {
+      "title": "Mercor 4TB 语音样本被盗",
+      "date": "Tue, 28 Apr 2026 10:28:20 GMT",
+      "summary": "Mercor 是美国一家 AI 初创公司，主要业务是为其他 AI 公司提供专家帮助训练模型和聊天机器人。它招聘专家/合同工时要求对方提供护照或驾照扫描件、自拍和录制一段语音。本月初勒索组织 Lapsus$ 披露它从 Mercor 窃取了 4TB 语音样本。语音样本加上身份证件，引发了合同工们身份被盗用的担忧。已有至少五名合同工对 Mercor 提起了诉讼，指控该公司以训练数据的名义收集语音特征，但并未明确说明这些特征是永久性的生物识别标识符。现有的语音克隆技术只需要 15 秒钟的清晰参照音频，而 Mercor 要求合同工录制的语音长度达到了 2-5 分钟，足够实现语音克隆。",
+      "url": "https://www.solidot.org/story?sid=84172",
+      "category": ""
+    },
     {
       "title": "三星家电业务计划退出中国",
       "date": "Tue, 28 Apr 2026 08:19:49 GMT",
@@ -36,13 +43,6 @@
       "date": "Tue, 28 Apr 2026 06:41:03 GMT",
       "summary": "斯坦福、伦敦帝国理工和互联网档案馆的研究人员发表论文《The Impact of AI-Generated Text on the Internet》，他们利用互联网档案馆的数据发现在 ChatGPT 发布三年之后，35% 的新网站是 AI 生成或使用 AI 辅助，而 ChatGPT 之前的比例是零。论文合作者、斯坦福 AI 研究员 Jonas Dolezal 说，人类用了几十年时间塑造互联网，但它的很大一部分仅仅三年就被 AI 重新定义，我们正见证数字化景观在短时间内的一次重大转变。",
       "url": "https://www.solidot.org/story?sid=84167",
-      "category": ""
-    },
-    {
-      "title": "pgBackRest 作者宣布停止维护该项目",
-      "date": "Tue, 28 Apr 2026 06:09:07 GMT",
-      "summary": "PostgreSQL 备份恢复项目 pgBackRest 的维护者 David Steele 宣布项目存档停止维护。Steele 解释说，过去 13 年 pgBackRest 是他倾注热情的项目，幸运的是大部分时间里他都有企业资助，他的长期赞助商是 Crunchy Data 公司，但这家公司被 Snowflake 收购了，而新东家无意资助他继续从事相关工作，因此他过去几个月一直在寻找继续这项工作的职位但没有成功，获得的赞助也远远未能达到维持项目运营所需的金额。因此他只能宣布停止维护。pgBackRest 被广泛视为是 PostgreSQL 生态系统最流行的运维工具之一，是功能最完整的 PostgreSQL 备份工具，支持块级增量备份、并行恢复、页面校验和验证等。",
-      "url": "https://www.solidot.org/story?sid=84166",
       "category": ""
     }
   ],
