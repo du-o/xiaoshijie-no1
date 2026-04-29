@@ -1,14 +1,14 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-04-29T09:58:28.553Z",
+  "fetch_time": "2026-04-29T13:14:20.019Z",
   "articles": [
     {
-      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-      "date": "Tue, 28 Apr 2026 00:00:00 GMT",
-      "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
-      "url": "https://openai.com/index/openai-on-aws",
-      "category": "Product"
+      "title": "Cybersecurity in the Intelligence Age",
+      "date": "Wed, 29 Apr 2026 04:00:00 GMT",
+      "summary": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
+      "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+      "category": "Global Affairs"
     },
     {
       "title": "Our commitment to community safety",
@@ -16,6 +16,13 @@
       "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
       "url": "https://openai.com/index/our-commitment-to-community-safety",
       "category": "Safety"
+    },
+    {
+      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+      "date": "Tue, 28 Apr 2026 00:00:00 GMT",
+      "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+      "url": "https://openai.com/index/openai-on-aws",
+      "category": "Product"
     },
     {
       "title": "OpenAI available at FedRAMP Moderate",
@@ -37,13 +44,6 @@
       "summary": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
       "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
       "category": "Engineering"
-    },
-    {
-      "title": "Choco automates food distribution with AI agents",
-      "date": "Mon, 27 Apr 2026 00:00:00 GMT",
-      "summary": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact.",
-      "url": "https://openai.com/index/choco",
-      "category": "B2B Story"
     }
   ],
   "status": "success",
