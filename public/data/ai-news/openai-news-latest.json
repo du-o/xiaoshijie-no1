@@ -1,8 +1,22 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-04-28T13:23:51.999Z",
+  "fetch_time": "2026-04-29T03:41:45.260Z",
   "articles": [
+    {
+      "title": "Our commitment to community safety",
+      "date": "Tue, 28 Apr 2026 00:00:00 GMT",
+      "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
+      "url": "https://openai.com/index/our-commitment-to-community-safety",
+      "category": "Safety"
+    },
+    {
+      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+      "date": "Tue, 28 Apr 2026 00:00:00 GMT",
+      "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+      "url": "https://openai.com/index/openai-on-aws",
+      "category": "Product"
+    },
     {
       "title": "OpenAI available at FedRAMP Moderate",
       "date": "Mon, 27 Apr 2026 14:00:00 GMT",
@@ -30,20 +44,6 @@
       "summary": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact.",
       "url": "https://openai.com/index/choco",
       "category": "B2B Story"
-    },
-    {
-      "title": "Our principles",
-      "date": "Sun, 26 Apr 2026 16:00:00 GMT",
-      "summary": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
-      "url": "https://openai.com/index/our-principles",
-      "category": "Company"
-    },
-    {
-      "title": "GPT-5.5 System Card",
-      "date": "Thu, 23 Apr 2026 11:00:00 GMT",
-      "summary": "",
-      "url": "https://openai.com/index/gpt-5-5-system-card",
-      "category": "Safety"
     }
   ],
   "status": "success",
