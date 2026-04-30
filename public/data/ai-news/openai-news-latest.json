@@ -1,21 +1,28 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-04-29T13:14:20.019Z",
+  "fetch_time": "2026-04-30T03:42:49.998Z",
   "articles": [
+    {
+      "title": "Where the goblins came from",
+      "date": "Wed, 29 Apr 2026 20:00:00 GMT",
+      "summary": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
+      "url": "https://openai.com/index/where-the-goblins-came-from",
+      "category": "Publication"
+    },
+    {
+      "title": "Building the compute infrastructure for the Intelligence Age",
+      "date": "Wed, 29 Apr 2026 15:00:00 GMT",
+      "summary": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
+      "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+      "category": "Global Affairs"
+    },
     {
       "title": "Cybersecurity in the Intelligence Age",
       "date": "Wed, 29 Apr 2026 04:00:00 GMT",
       "summary": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
       "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
       "category": "Global Affairs"
-    },
-    {
-      "title": "Our commitment to community safety",
-      "date": "Tue, 28 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
-      "url": "https://openai.com/index/our-commitment-to-community-safety",
-      "category": "Safety"
     },
     {
       "title": "OpenAI models, Codex, and Managed Agents come to AWS",
@@ -25,25 +32,18 @@
       "category": "Product"
     },
     {
+      "title": "Our commitment to community safety",
+      "date": "Tue, 28 Apr 2026 00:00:00 GMT",
+      "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
+      "url": "https://openai.com/index/our-commitment-to-community-safety",
+      "category": "Safety"
+    },
+    {
       "title": "OpenAI available at FedRAMP Moderate",
       "date": "Mon, 27 Apr 2026 14:00:00 GMT",
       "summary": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
       "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
       "category": "Global Affairs"
-    },
-    {
-      "title": "The next phase of the Microsoft OpenAI partnership",
-      "date": "Mon, 27 Apr 2026 06:00:00 GMT",
-      "summary": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
-      "url": "https://openai.com/index/next-phase-of-microsoft-partnership",
-      "category": "Company"
-    },
-    {
-      "title": "An open-source spec for orchestration: Symphony",
-      "date": "Mon, 27 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
-      "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
-      "category": "Engineering"
     }
   ],
   "status": "success",

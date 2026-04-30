@@ -1,8 +1,36 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-04-29T13:14:24.505Z",
+  "fetch_time": "2026-04-30T03:42:53.823Z",
   "articles": [
+    {
+      "title": "Zed 编辑器发布 1.0 版本",
+      "date": "Wed, 29 Apr 2026 15:36:21 GMT",
+      "summary": "用 Rust 开发的文本编辑器项目 Zed 宣布发布 1.0 版本。开发者表示 1.0 版本并不意味着“完成”或“完美”，而是意味着到达了一个关键点。开发者还宣称 Zed 编辑器是一个 AI 原生编辑器，能并行运行多个 AI 智能体，包括 Claude Agent、Codex、OpenCode，以及 Cursor。AI 构建在编辑器的基础架构之中，而不是附加组件。",
+      "url": "https://www.solidot.org/story?sid=84187",
+      "category": ""
+    },
+    {
+      "title": "城里的鸟更怕女性，原因未知",
+      "date": "Wed, 29 Apr 2026 14:23:47 GMT",
+      "summary": "根据发表在《People and Nature》期刊上的一项研究，欧洲大山雀和其它 36 种鸟更惧怕女性，原因未知。研究显示，在鸟儿飞走前男性能比女性多靠近大约一米距离。无论男女衣着，是否长发，身高如何，以何种方式接近鸟，这种现象始终存在。鸟类或许能辨别人类的性别，但具体机制并不清楚。研究人员观察了生活在五个欧洲国家城市中心的鸟类，其中包括已知一见到人类就会飞走的鸟类如喜鹊，以及倾向于稍迟才飞走的鸟类如鸽子。对女性表现出过度恐惧的反应在不同鸟类中间是一致的。研究人员猜测鸟可能通过气味或步态辨别性别",
+      "url": "https://www.solidot.org/story?sid=84186",
+      "category": ""
+    },
+    {
+      "title": ".icu 域名被短暂劫持",
+      "date": "Wed, 29 Apr 2026 13:50:18 GMT",
+      "summary": "中国网民报告 .icu 顶级域名的权威服务器在短时间内解析到了错误的 IP。.icu 最知名的域名可能是 996.ICU。不同于个别域名被错误解析，域名服务器被错误解析可能会导致影响扩大化。4 月 28 日 6:22 a.m. UTC 进行的测试显示，.icu 权威服务器之一的 b.nic.icu 在 58.13% 的情况下解析到正确 IP，其余解析到污染 IP。到 16:00 UTC 问题基本解决，99.38% 解析到正确 IP，仅 0.63% 返回污染 IP。",
+      "url": "https://www.solidot.org/story?sid=84185",
+      "category": ""
+    },
+    {
+      "title": "荷兰政府上线开源代码托管平台",
+      "date": "Wed, 29 Apr 2026 13:16:29 GMT",
+      "summary": "荷兰政府上线了它自己的开源代码托管平台 code.overheid.nl。该平台是基于 Forgejo——Forgejo 是 Gitea 的分支，是一个类似 GitHub 的 Git 软件开发和版本控制平台，支持 bug 跟踪、Wiki 和代码审查等功能。该平台托管于荷兰政府基础设施之上，所有政府机构都可以免费使用。荷兰政府表示此举是加强数字主权行动的一部分。",
+      "url": "https://www.solidot.org/story?sid=84184",
+      "category": ""
+    },
     {
       "title": "报告称逾三分之二婴儿使用屏幕，最多花 8 小时在屏幕上",
       "date": "Wed, 29 Apr 2026 10:26:16 GMT",
@@ -15,34 +43,6 @@
       "date": "Wed, 29 Apr 2026 09:55:43 GMT",
       "summary": "2024 年马斯克（Elon Musk）向旧金山高等法院起诉 OpenAI 及其联合创始人 Sam Altman 和 Greg Brockman 违反公司的创始原则，将商业利益置于公共利益之上。OpenAI 则公开了马斯克的邮件，证明作为曾经的联合创始人，马斯克同意 OpenAI 建立一个盈利实体，还表示将提供资金，但之后暂停了资金支持，他的目的是获得多数股权和董事会控制权，双方最终因此终止了合作。本周这起诉讼正式进入审讯阶段，马斯克在法庭上作证，称创办 OpenAI 是将其作为一家非盈利公司去对抗 Google，如果 OpenAI 的目标是盈利他不会支持它。马斯克称他在与 Google 联合创始人 Larry Page 就 AI 安全问题上发生争执后萌生了创办非盈利 AI 公司的想法。他担心 Page 没有认真对待 AI 安全问题，因此希望通过一个非盈利的开源替代方案去对抗 Google。",
       "url": "https://www.solidot.org/story?sid=84182",
-      "category": ""
-    },
-    {
-      "title": "打呵欠有助于大脑清理脑液",
-      "date": "Wed, 29 Apr 2026 08:57:25 GMT",
-      "summary": "打哈欠是一种常见的人类行为，可能是感觉疲劳或无聊，或者是看到同伴打哈欠的反射行为。但科学家至今并不清楚人类为什么要打呵欠。根据发表在《Respiratory Physiology &amp; Neurobiology》期刊上的一项研究，澳大利亚研究人员利用实时 MRI 扫描技术，观察了打哈欠时头部和颈部内部的变化，与正常呼吸和深呼吸进行对比。结果显示，打哈欠会触发一种特定的脑脊液和静脉血同时流出颅骨，而深呼吸时脑脊液则会流入颅骨。脑脊液充当了缓冲，能保护大脑和脊髓免受损伤，还能帮助输送营养物质和排出垃圾。研究表明打哈欠有助于清除脑脊液，其作用很可能是发生在临睡前。这项研究为理解打哈欠的生理功提供了一条新途径。",
-      "url": "https://www.solidot.org/story?sid=84181",
-      "category": ""
-    },
-    {
-      "title": "食肉细菌在三天内就破坏了男子的手臂和腿",
-      "date": "Wed, 29 Apr 2026 07:35:21 GMT",
-      "summary": "食肉细菌短短三天内就破坏了一位 74 岁佛罗里达男子的手臂和腿。三天前他还身体健康，还在海边活动，但在跳入水中时他的右腿被划伤了，伤口很快疼痛难忍，而且右臂的颜色也变了。他被送往医院急救，其右腿进行了膝上截肢手术。医生对其血液和组织样本的检测发现他感染了创伤弧菌（Vibrio vulnificus），一种生活在温暖咸淡水的食肉细菌。创伤弧菌通过两种途径感染人类：其一是通过伤口接触受污染的水，其二是食用受污染的海鲜。创伤弧菌会释放出各种毒素杀死感染者，感染者的总死亡率高达 35%，如果存在免疫功能问题或肝脏疾病，死亡率会进一步提高到 50%-60%。如果抗生素治疗或坏死组织切除手术延误，死亡率将是 100%。在本病例中，该男子最终幸存。该病例凸显了创伤弧菌在气候变化下日益加剧的威胁。美国 CDC 建议只食用完全煮熟的海鲜，以及在身上有创口的情况下避免进入咸淡水。",
-      "url": "https://www.solidot.org/story?sid=84180",
-      "category": ""
-    },
-    {
-      "title": "Ghostty 项目将退出 GitHub 平台",
-      "date": "Wed, 29 Apr 2026 06:52:02 GMT",
-      "summary": "终端模拟器项目 Ghostty 宣布将退出 GitHub 平台，原因是在微软治理下 GitHub 越来越不稳定，严重扰乱开发者的工作。开发者称，过去一个月 GitHub 几乎天天宕机。GitHub 是工作的平台，如果每天都要宕机数小时那么它不再是一个可以工作的地方。Ghostty 项目将在未来几个月公布迁移细节，GitHub 上的项目将成为一个只读镜像。",
-      "url": "https://www.solidot.org/story?sid=84179",
-      "category": ""
-    },
-    {
-      "title": "Fedora Linux 44 释出",
-      "date": "Wed, 29 Apr 2026 05:25:32 GMT",
-      "summary": "Fedora 项目释出了 Fedora Linux 44。新版本搭载了最新桌面环境 GNOME 50 和 Plasma 6.6，针对桌面用户的变化包括：Wine 和 Steam (RPM Fusion) 默认启用能显著提升游戏性能的 NTSYNC 内核模块，Budgie 10.10，Atomic Desktops 移除了 FUSE 2，IBus 1.5.34，ibus-speech-to-text 支持 WhisperCpp 语音识别引擎。针对开发者的变化包括：LLVM 22，GNU C Compiler (gcc) 16.1，GNU Binary Utilities (binutils) 2.46，GNU C Library (glibc) 2.43，GNU Debugger (gdb) 16.3，Boost 1.90，Golang 1.26，Django 6.0，Helm 4，PHP 8.5，Ruby 4.0 等等。更多可浏览发布公告。",
-      "url": "https://www.solidot.org/story?sid=84177",
       "category": ""
     }
   ],
