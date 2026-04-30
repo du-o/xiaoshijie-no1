@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-04-30T06:26:38.168Z",
+  "fetch_time": "2026-04-30T09:59:22.015Z",
   "articles": [
+    {
+      "title": "OpenClaw 2026.4.29-beta.1",
+      "date": "2026-04-30T09:33:26Z",
+      "summary": "## 2026.4.29\n\n### Highlights\n\n- Messaging and automation get active-run steering by default, visible-reply enforcement, spawned subagent routing metadata, and opt-in follow-up commitments for heartbea...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.29-beta.1",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.4.29-beta.1",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.4.27",
       "date": "2026-04-29T22:12:19Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.27",
-      "downloadCount": 1885
+      "downloadCount": 3263
     },
     {
       "title": "OpenClaw 2026.4.26",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.26",
-      "downloadCount": 14355
+      "downloadCount": 14370
     },
     {
       "title": "OpenClaw 2026.4.25",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.25",
-      "downloadCount": 4432
+      "downloadCount": 4434
     },
     {
       "title": "openclaw 2026.4.25-beta.4",
@@ -51,16 +61,6 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.25-beta.3",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.4.25-beta.2",
-      "date": "2026-04-26T12:23:17Z",
-      "summary": "## 2026.4.25\n\n### Highlights\n\n- Voice replies get a full TTS upgrade: `/tts latest`, chat-scoped auto-TTS controls, personas, per-agent/per-account overrides, and new Azure Speech, Xiaomi, Local CLI, ...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.25-beta.2",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.4.25-beta.2",
       "downloadCount": 0
     }
   ],
