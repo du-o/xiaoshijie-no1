@@ -1,61 +1,58 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-04-30T03:42:50.255Z",
+  "fetch_time": "2026-04-30T06:26:23.049Z",
   "articles": [
     {
-      "title": "An Intelligent Fault Diagnosis Method for General Aviation Aircraft Based on Multi-Fidelity Digital Twin and FMEA Knowledge Enhancement",
-      "date": "Wed, 29 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.22777v1 Announce Type: new Abstract: Fault diagnosis of general aviation aircraft faces challenges including scarce real fault data, diverse fault types, and weak fault signatures. This paper proposes an intelligent fault diagnosis framework based on multi-fidelity digital twin, integrating four modules: high-fidelity flight dynamics simulation, FMEA-driven fault injection, multi-fidelity residual feature extraction, and large language model (LLM)-enhanced interpretable report generat",
-      "url": "https://arxiv.org/abs/2604.22777",
+      "title": "Operating-Layer Controls for Onchain Language-Model Agents Under Real Capital",
+      "date": "Thu, 30 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.26091v1 Announce Type: new Abstract: We study reliability in autonomous language-model agents that translate user mandates into validated tool actions under real capital. The setting is DX Terminal Pro, a 21-day deployment in which 3,505 user-funded agents traded real ETH in a bounded onchain market. Users configured vaults through structured controls and natural-language strategies, but only agents could choose normal buy/sell trades. The system produced 7.5M agent invocations, rough",
+      "url": "https://arxiv.org/abs/2604.26091",
+      "category": [
+        "cs.AI",
+        "cs.CE",
+        "cs.MA"
+      ]
+    },
+    {
+      "title": "Distill-Belief: Closed-Loop Inverse Source Localization and Characterization in Physical Fields",
+      "date": "Thu, 30 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.26095v1 Announce Type: new Abstract: {Closed-loop inverse source localization and characterization (ISLC) requires a mobile agent to select measurements that localize sources and infer latent field parameters under strict time constraints.} {The core challenge lies in the belief-space objective: valid uncertainty estimation requires expensive Bayesian inference, whereas using fast learned belief model leads to reward hacking, in which the policy exploits approximation errors rather th",
+      "url": "https://arxiv.org/abs/2604.26095",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Evaluating Strategic Reasoning in Forecasting Agents",
+      "date": "Thu, 30 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.26106v1 Announce Type: new Abstract: Forecasting benchmarks produce accuracy leaderboards but little insight into why some forecasters are more accurate than others. We introduce Bench to the Future 2 (BTF-2), 1,417 pastcasting questions with a frozen 15M-document research corpus in which agents reproducibly research and forecast offline, producing full reasoning traces. BTF-2 detects accuracy differences of 0.004 Brier score, and can distinguish differential agent strengths in resear",
+      "url": "https://arxiv.org/abs/2604.26106",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Hierarchical Multi-Persona Induction from User Behavioral Logs: Learning Evidence-Grounded and Truthful Personas",
+      "date": "Thu, 30 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.26120v1 Announce Type: new Abstract: Behavioral logs provide rich signals for user modeling, but are noisy and interleaved across diverse intents. Recent work uses LLMs to generate interpretable natural-language personas from user logs, yet evaluation often emphasizes downstream utility, providing limited assurance of persona quality itself. We propose a hierarchical framework that aggregates user actions into intent memories and induces multiple evidence-grounded personas by clusteri",
+      "url": "https://arxiv.org/abs/2604.26120",
+      "category": "cs.AI"
+    },
+    {
+      "title": "OMEGA: Optimizing Machine Learning by Evaluating Generated Algorithms",
+      "date": "Thu, 30 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.26211v1 Announce Type: new Abstract: In order to automate AI research we introduce a full, end-to-end framework, OMEGA: Optimizing Machine learning by Evaluating Generated Algorithms, that starts at idea generation and ends with executable code. Our system combines structured meta-prompt engineering with executable code generation to create new ML classifiers. The OMEGA framework has been utilized to generate several novel algorithms that outperform scikit-learn baselines across a rob",
+      "url": "https://arxiv.org/abs/2604.26211",
       "category": [
         "cs.AI",
         "cs.LG"
       ]
     },
     {
-      "title": "PExA: Parallel Exploration Agent for Complex Text-to-SQL",
-      "date": "Wed, 29 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.22934v1 Announce Type: new Abstract: LLM-based agents for text-to-SQL often struggle with latency-performance trade-off, where performance improvements come at the cost of latency or vice versa. We reformulate text-to-SQL generation within the lens of software test coverage where the original query is prepared with a suite of test cases with simpler, atomic SQLs that are executed in parallel and together ensure semantic coverage of the original query. After iterating on test case cove",
-      "url": "https://arxiv.org/abs/2604.22934",
+      "title": "Persuadability and LLMs as Legal Decision Tools",
+      "date": "Thu, 30 Apr 2026 04:00:00 GMT",
+      "summary": "arXiv:2604.26233v1 Announce Type: new Abstract: As Large Language Models (LLMs) are proposed as legal decision assistants, and even first-instance decision-makers, across a range of judicial and administrative contexts, it becomes essential to explore how they answer legal questions, and in particular the factors that lead them to decide difficult questions in one way or another. A specific feature of legal decisions is the need to respond to arguments advanced by contending parties. A legal dec",
+      "url": "https://arxiv.org/abs/2604.26233",
       "category": [
         "cs.AI",
-        "cs.CL"
-      ]
-    },
-    {
-      "title": "The Power of Power Law: Asymmetry Enables Compositional Reasoning",
-      "date": "Wed, 29 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.22951v1 Announce Type: new Abstract: Natural language data follows a power-law distribution, with most knowledge and skills appearing at very low frequency. While a common intuition suggests that reweighting or curating data towards a uniform distribution may help models better learn these long-tail skills, we find a counterintuitive result: across a wide range of compositional reasoning tasks, such as state tracking and multi-step arithmetic, training under power-law distributions co",
-      "url": "https://arxiv.org/abs/2604.22951",
-      "category": [
-        "cs.AI",
-        "cs.CL",
-        "cs.LG"
-      ]
-    },
-    {
-      "title": "On the Existence of an Inverse Solution for Preference-Based Reductions in Argumentation",
-      "date": "Wed, 29 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.22958v1 Announce Type: new Abstract: Preference-based argumentation frameworks (PAFs) extend Dung's approach to abstract argumentation (AAFs) by encoding preferences over arguments. Such preferences control the transformation of attacks into defeats, and different approaches to doing so result in different reductions from a PAF to an AAF. In this paper we consider a PAF inverse problem which takes an argumentation graph, a labelling and a semantics as an input, and outputs a ``yes\" or",
-      "url": "https://arxiv.org/abs/2604.22958",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Towards Causally Interpretable Wi-Fi CSI-Based Human Activity Recognition with Discrete Latent Compression and LTL Rule Extraction",
-      "date": "Wed, 29 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.22979v1 Announce Type: new Abstract: We address Human Activity Recognition (HAR) utilizing Wi-Fi Channel State Information (CSI) under the joint requirements of causal interpretability, symbolic controllability, and direct operation on high-dimensional raw signals. Deep neural models achieve strong predictive performance on CSI-based HAR (CHAR), yet rely on continuous latent representations that are opaque and difficult to modify; purely symbolic approaches, in contrast, cannot proces",
-      "url": "https://arxiv.org/abs/2604.22979",
-      "category": "cs.AI"
-    },
-    {
-      "title": "FormalScience: Scalable Human-in-the-Loop Autoformalisation of Science with Agentic Code Generation in Lean",
-      "date": "Wed, 29 Apr 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.23002v1 Announce Type: new Abstract: Formalising informal mathematical reasoning into formally verifiable code is a significant challenge for large language models. In scientific fields such as physics, domain-specific machinery (\\textit{e.g.} Dirac notation, vector calculus) imposes additional formalisation challenges that modern LLMs and agentic approaches have yet to tackle. To aid autoformalisation in scientific domains, we present FormalScience; a domain-agnostic human-in-the-loo",
-      "url": "https://arxiv.org/abs/2604.23002",
-      "category": [
-        "cs.AI",
-        "cs.CL"
+        "cs.CY"
       ]
     }
   ],
