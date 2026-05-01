@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-04-30T13:13:06.732Z",
+  "fetch_time": "2026-05-01T03:56:12.729Z",
   "articles": [
+    {
+      "title": "Introducing Advanced Account Security",
+      "date": "Thu, 30 Apr 2026 00:00:00 GMT",
+      "summary": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.",
+      "url": "https://openai.com/index/advanced-account-security",
+      "category": "Product"
+    },
     {
       "title": "Where the goblins came from",
       "date": "Wed, 29 Apr 2026 20:00:00 GMT",
@@ -25,13 +32,6 @@
       "category": "Global Affairs"
     },
     {
-      "title": "Our commitment to community safety",
-      "date": "Tue, 28 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
-      "url": "https://openai.com/index/our-commitment-to-community-safety",
-      "category": "Safety"
-    },
-    {
       "title": "OpenAI models, Codex, and Managed Agents come to AWS",
       "date": "Tue, 28 Apr 2026 00:00:00 GMT",
       "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
@@ -39,11 +39,11 @@
       "category": "Product"
     },
     {
-      "title": "OpenAI available at FedRAMP Moderate",
-      "date": "Mon, 27 Apr 2026 14:00:00 GMT",
-      "summary": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
-      "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
-      "category": "Global Affairs"
+      "title": "Our commitment to community safety",
+      "date": "Tue, 28 Apr 2026 00:00:00 GMT",
+      "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
+      "url": "https://openai.com/index/our-commitment-to-community-safety",
+      "category": "Safety"
     }
   ],
   "status": "success",
