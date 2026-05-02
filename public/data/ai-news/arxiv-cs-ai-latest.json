@@ -1,63 +1,8 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-05-02T03:29:18.334Z",
-  "articles": [
-    {
-      "title": "Compositional Meta-Learning for Mitigating Task Heterogeneity in Physics-Informed Neural Networks",
-      "date": "Fri, 01 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.26999v1 Announce Type: new Abstract: Physics-informed neural networks (PINNs) approximate solutions of partial differential equations (PDEs) by embedding physical laws into the loss function. In parameterized PDE families, variations in coefficients or boundary/initial conditions define distinct tasks. This makes training individual PINNs for each task computationally prohibitive, while cross-task transfer can be sensitive to task heterogeneity. While meta-learning can reduce retraini",
-      "url": "https://arxiv.org/abs/2604.26999",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Binary Spiking Neural Networks as Causal Models",
-      "date": "Fri, 01 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.27007v1 Announce Type: new Abstract: We provide a causal analysis of Binary Spiking Neural Networks (BSNNs) to explain their behavior. We formally define a BSNN and represent its spiking activity as a binary causal model. Thanks to this causal representation, we are able to explain the output of the network by leveraging logic-based methods. In particular, we show that we can successfully use a SAT as well as a SMT solver to compute abductive explanations from this binary causal model",
-      "url": "https://arxiv.org/abs/2604.27007",
-      "category": "cs.AI"
-    },
-    {
-      "title": "When Your LLM Reaches End-of-Life: A Framework for Confident Model Migration in Production Systems",
-      "date": "Fri, 01 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.27082v1 Announce Type: new Abstract: We present a framework for migrating production Large Language Model (LLM) based systems when the underlying model reaches end-of-life or requires replacement. The key contribution is a Bayesian statistical approach that calibrates automated evaluation metrics against human judgments, enabling confident model comparison even with limited manual evaluation data. We demonstrate this framework on a commercial question-answering system serving 5.3M mon",
-      "url": "https://arxiv.org/abs/2604.27082",
-      "category": [
-        "cs.AI",
-        "cs.LG",
-        "cs.SE"
-      ]
-    },
-    {
-      "title": "End-to-end autonomous scientific discovery on a real optical platform",
-      "date": "Fri, 01 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.27092v1 Announce Type: new Abstract: Scientific research has long been human-led, driving new knowledge and transformative technologies through the continual revision of questions, methods and claims as evidence accumulates. Although large language model (LLM)-based agents are beginning to move beyond assisting predefined research workflows, none has yet demonstrated end-to-end autonomous discovery in a real physical system that produces a nontrivial result supported by experimental e",
-      "url": "https://arxiv.org/abs/2604.27092",
-      "category": [
-        "cs.AI",
-        "physics.optics"
-      ]
-    },
-    {
-      "title": "Think it, Run it: Autonomous ML pipeline generation via self-healing multi-agent AI",
-      "date": "Fri, 01 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.27096v1 Announce Type: new Abstract: The purpose of our paper is to develop a unified multi-agent architecture that automates end-to-end machine learning (ML) pipeline generation from datasets and natural-language (NL) goals, improving efficiency, robustness and explainability. A five-agent system is proposed to handle profiling, intent parsing, microservice recommendation, Directed Acyclic Graph (DAG) construction and execution. It integrates code-grounded Retrieval-Augmented Generat",
-      "url": "https://arxiv.org/abs/2604.27096",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Unsupervised Electrofacies Classification and Porosity Characterization in the Offshore Keta Basin Using Wireline Logs",
-      "date": "Fri, 01 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2604.27126v1 Announce Type: new Abstract: This study presents an unsupervised machine learning workflow for electrofacies analysis in the offshore Keta Basin, Ghana, where core data are scarce. Six standard wireline logs from Well~C were analysed over a depth interval comprising approximately $11{,}195$ samples. K-means clustering was applied in multivariate log space, with the clustering structure evaluated using inertia and silhouette diagnostics. Four clusters were identified, supported",
-      "url": "https://arxiv.org/abs/2604.27126",
-      "category": [
-        "cs.AI",
-        "cs.CE",
-        "cs.LG",
-        "physics.geo-ph"
-      ]
-    }
-  ],
+  "fetch_time": "2026-05-02T06:06:10.075Z",
+  "articles": [],
   "status": "success",
   "error": null
 }
