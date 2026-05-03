@@ -1,8 +1,69 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-05-03T06:26:19.514Z",
-  "articles": [],
-  "status": "error",
-  "error": "GitHub API 请求失败: 403"
+  "fetch_time": "2026-05-03T09:14:48.921Z",
+  "articles": [
+    {
+      "title": "openclaw 2026.5.2",
+      "date": "2026-05-02T23:37:55Z",
+      "summary": "\n### Highlights\n\n- External plugin installation, update, doctor repair, dependency reporting, and artifact metadata now cover the npm-first cutover, stale configured installs, missing package payloads...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.2",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.5.2",
+      "downloadCount": 2277
+    },
+    {
+      "title": "openclaw 2026.5.2-beta.3",
+      "date": "2026-05-02T22:15:21Z",
+      "summary": "## 2026.5.2\n\n### Highlights\n\n- External plugin installation now covers diagnostics, onboarding, doctor repair, channel setup, install/update records, and artifact metadata while keeping bare package i...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.2-beta.3",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.5.2-beta.3",
+      "downloadCount": 0
+    },
+    {
+      "title": "openclaw 2026.5.2-beta.2",
+      "date": "2026-05-02T20:40:17Z",
+      "summary": "## 2026.5.2\n\n### Highlights\n\n- External plugin installation now covers diagnostics, onboarding, doctor repair, channel setup, install/update records, and artifact metadata while keeping bare package i...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.2-beta.2",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.5.2-beta.2",
+      "downloadCount": 0
+    },
+    {
+      "title": "openclaw 2026.4.29",
+      "date": "2026-04-30T21:01:08Z",
+      "summary": "## 2026.4.29\n\n### Highlights\n\n- Messaging and automation get active-run steering by default, visible-reply enforcement, spawned subagent routing metadata, and opt-in follow-up commitments for heartbea...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.29",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.4.29",
+      "downloadCount": 12752
+    },
+    {
+      "title": "openclaw 2026.4.29-beta.4",
+      "date": "2026-04-30T20:04:16Z",
+      "summary": "## 2026.4.29\n\n### Highlights\n\n- Messaging and automation get active-run steering by default, visible-reply enforcement, spawned subagent routing metadata, and opt-in follow-up commitments for heartbea...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.29-beta.4",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.4.29-beta.4",
+      "downloadCount": 0
+    },
+    {
+      "title": "openclaw 2026.4.29-beta.3",
+      "date": "2026-04-30T18:37:22Z",
+      "summary": "## 2026.4.29\n\n### Highlights\n\n- Messaging and automation get active-run steering by default, visible-reply enforcement, spawned subagent routing metadata, and opt-in follow-up commitments for heartbea...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.29-beta.3",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.4.29-beta.3",
+      "downloadCount": 0
+    }
+  ],
+  "status": "success",
+  "error": null
 }
