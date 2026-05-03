@@ -1,8 +1,38 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-05-02T12:39:02.381Z",
+  "fetch_time": "2026-05-03T03:50:35.844Z",
   "articles": [
+    {
+      "title": "openclaw 2026.5.2",
+      "date": "2026-05-02T23:37:55Z",
+      "summary": "\n### Highlights\n\n- External plugin installation, update, doctor repair, dependency reporting, and artifact metadata now cover the npm-first cutover, stale configured installs, missing package payloads...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.2",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.5.2",
+      "downloadCount": 656
+    },
+    {
+      "title": "openclaw 2026.5.2-beta.3",
+      "date": "2026-05-02T22:15:21Z",
+      "summary": "## 2026.5.2\n\n### Highlights\n\n- External plugin installation now covers diagnostics, onboarding, doctor repair, channel setup, install/update records, and artifact metadata while keeping bare package i...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.2-beta.3",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.5.2-beta.3",
+      "downloadCount": 0
+    },
+    {
+      "title": "openclaw 2026.5.2-beta.2",
+      "date": "2026-05-02T20:40:17Z",
+      "summary": "## 2026.5.2\n\n### Highlights\n\n- External plugin installation now covers diagnostics, onboarding, doctor repair, channel setup, install/update records, and artifact metadata while keeping bare package i...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.2-beta.2",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.5.2-beta.2",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.4.29",
       "date": "2026-04-30T21:01:08Z",
@@ -11,7 +41,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.29",
-      "downloadCount": 10117
+      "downloadCount": 12703
     },
     {
       "title": "openclaw 2026.4.29-beta.4",
@@ -32,36 +62,6 @@
       "author": "steipete",
       "tagName": "v2026.4.29-beta.3",
       "downloadCount": 0
-    },
-    {
-      "title": "OpenClaw 2026.4.29-beta.2",
-      "date": "2026-04-30T16:50:22Z",
-      "summary": "## 2026.4.29\n\n### Highlights\n\n- Messaging and automation get active-run steering by default, visible-reply enforcement, spawned subagent routing metadata, and opt-in follow-up commitments for heartbea...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.29-beta.2",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.4.29-beta.2",
-      "downloadCount": 0
-    },
-    {
-      "title": "OpenClaw 2026.4.29-beta.1",
-      "date": "2026-04-30T09:33:26Z",
-      "summary": "## 2026.4.29\n\n### Highlights\n\n- Messaging and automation get active-run steering by default, visible-reply enforcement, spawned subagent routing metadata, and opt-in follow-up commitments for heartbea...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.29-beta.1",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.4.29-beta.1",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.4.27",
-      "date": "2026-04-29T22:12:19Z",
-      "summary": "## 2026.4.27\n\n### Highlights\n\n- Codex Computer Use setup now ships with status/install commands, marketplace discovery, and fail-closed MCP checks for Codex-mode desktop control. Thanks @pash-openai.\n...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.27",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.4.27",
-      "downloadCount": 7266
     }
   ],
   "status": "success",
