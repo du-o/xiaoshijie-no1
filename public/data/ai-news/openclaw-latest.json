@@ -1,8 +1,28 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-05-03T12:38:25.207Z",
+  "fetch_time": "2026-05-04T03:47:57.809Z",
   "articles": [
+    {
+      "title": "openclaw 2026.5.3-beta.3",
+      "date": "2026-05-04T02:20:18Z",
+      "summary": "## 2026.5.3\n\n### Highlights\n\n- Plugins/file-transfer: add bundled file-transfer plugin with `file_fetch`, `dir_list`, `dir_fetch`, and `file_write` agent tools for binary file ops on paired nodes; def...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.3-beta.3",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.5.3-beta.3",
+      "downloadCount": 0
+    },
+    {
+      "title": "OpenClaw 2026.5.3 beta 2",
+      "date": "2026-05-03T21:26:05Z",
+      "summary": "## 2026.5.3\n\n### Highlights\n\n- Plugins/file-transfer: add bundled file-transfer plugin with `file_fetch`, `dir_list`, `dir_fetch`, and `file_write` agent tools for binary file ops on paired nodes; def...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.3-beta.2",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.5.3-beta.2",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.5.2",
       "date": "2026-05-02T23:37:55Z",
@@ -11,7 +31,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.5.2",
-      "downloadCount": 3311
+      "downloadCount": 7211
     },
     {
       "title": "openclaw 2026.5.2-beta.3",
@@ -41,27 +61,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.4.29",
-      "downloadCount": 12767
-    },
-    {
-      "title": "openclaw 2026.4.29-beta.4",
-      "date": "2026-04-30T20:04:16Z",
-      "summary": "## 2026.4.29\n\n### Highlights\n\n- Messaging and automation get active-run steering by default, visible-reply enforcement, spawned subagent routing metadata, and opt-in follow-up commitments for heartbea...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.29-beta.4",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.4.29-beta.4",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.4.29-beta.3",
-      "date": "2026-04-30T18:37:22Z",
-      "summary": "## 2026.4.29\n\n### Highlights\n\n- Messaging and automation get active-run steering by default, visible-reply enforcement, spawned subagent routing metadata, and opt-in follow-up commitments for heartbea...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.29-beta.3",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.4.29-beta.3",
-      "downloadCount": 0
+      "downloadCount": 12801
     }
   ],
   "status": "success",
