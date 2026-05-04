@@ -1,8 +1,28 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-05-04T06:37:51.330Z",
+  "fetch_time": "2026-05-04T10:06:45.942Z",
   "articles": [
+    {
+      "title": "openclaw 2026.5.3-1",
+      "date": "2026-05-04T09:35:36Z",
+      "summary": "Core npm hotfix release for v2026.5.3.\n\n- Plugins/security: stop the install scanner from blocking official bundled plugin packages when `process.env` access and normal API sends only appear in distan...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.3-1",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.5.3-1",
+      "downloadCount": 0
+    },
+    {
+      "title": "OpenClaw 2026.5.3",
+      "date": "2026-05-04T07:01:29Z",
+      "summary": "\n### Highlights\n\n- Plugins/file-transfer: add bundled file-transfer plugin with `file_fetch`, `dir_list`, `dir_fetch`, and `file_write` agent tools for binary file ops on paired nodes; default-deny pe...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.3",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.5.3",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.5.3-beta.3",
       "date": "2026-05-04T02:20:18Z",
@@ -31,7 +51,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.5.2",
-      "downloadCount": 7811
+      "downloadCount": 8446
     },
     {
       "title": "openclaw 2026.5.2-beta.3",
@@ -42,26 +62,6 @@
       "author": "steipete",
       "tagName": "v2026.5.2-beta.3",
       "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.5.2-beta.2",
-      "date": "2026-05-02T20:40:17Z",
-      "summary": "## 2026.5.2\n\n### Highlights\n\n- External plugin installation now covers diagnostics, onboarding, doctor repair, channel setup, install/update records, and artifact metadata while keeping bare package i...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.2-beta.2",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.5.2-beta.2",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.4.29",
-      "date": "2026-04-30T21:01:08Z",
-      "summary": "## 2026.4.29\n\n### Highlights\n\n- Messaging and automation get active-run steering by default, visible-reply enforcement, spawned subagent routing metadata, and opt-in follow-up commitments for heartbea...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.29",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.4.29",
-      "downloadCount": 12807
     }
   ],
   "status": "success",
