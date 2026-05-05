@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-05-05T03:31:02.002Z",
+  "fetch_time": "2026-05-05T06:14:57.767Z",
   "articles": [
+    {
+      "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+      "date": "Mon, 04 May 2026 21:00:00 GMT",
+      "summary": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
+      "url": "https://openai.com/index/openai-pwc-finance-collaboration",
+      "category": "Global Affairs"
+    },
     {
       "title": "How OpenAI delivers low-latency voice AI at scale",
       "date": "Mon, 04 May 2026 00:00:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
       "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
       "category": "Global Affairs"
-    },
-    {
-      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-      "date": "Tue, 28 Apr 2026 00:00:00 GMT",
-      "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
-      "url": "https://openai.com/index/openai-on-aws",
-      "category": "Product"
     }
   ],
   "status": "success",
