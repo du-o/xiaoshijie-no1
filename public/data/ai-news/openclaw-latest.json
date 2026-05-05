@@ -1,8 +1,28 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-05-04T13:15:59.162Z",
+  "fetch_time": "2026-05-05T03:31:21.434Z",
   "articles": [
+    {
+      "title": "openclaw 2026.5.4-beta.2",
+      "date": "2026-05-05T01:43:03Z",
+      "summary": "## 2026.5.4\n\n### Highlights\n\n- Google Meet/Voice Call: make Twilio dial-in joins speak through the realtime Gemini voice bridge with paced audio streaming, backpressure-aware buffering, barge-in queue...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.4-beta.2",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.5.4-beta.2",
+      "downloadCount": 0
+    },
+    {
+      "title": "openclaw 2026.5.4-beta.1",
+      "date": "2026-05-04T18:22:09Z",
+      "summary": "## 2026.5.4\n\n### Highlights\n\n- Plugins/file-transfer: add bundled file-transfer plugin with `file_fetch`, `dir_list`, `dir_fetch`, and `file_write` agent tools for binary file ops on paired nodes; def...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.4-beta.1",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.5.4-beta.1",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.5.3-1",
       "date": "2026-05-04T09:35:36Z",
@@ -41,26 +61,6 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.5.3-beta.2",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.5.2",
-      "date": "2026-05-02T23:37:55Z",
-      "summary": "\n### Highlights\n\n- External plugin installation, update, doctor repair, dependency reporting, and artifact metadata now cover the npm-first cutover, stale configured installs, missing package payloads...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.2",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.5.2",
-      "downloadCount": 8960
-    },
-    {
-      "title": "openclaw 2026.5.2-beta.3",
-      "date": "2026-05-02T22:15:21Z",
-      "summary": "## 2026.5.2\n\n### Highlights\n\n- External plugin installation now covers diagnostics, onboarding, doctor repair, channel setup, install/update records, and artifact metadata while keeping bare package i...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.2-beta.3",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.5.2-beta.3",
       "downloadCount": 0
     }
   ],

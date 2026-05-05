@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-05-04T13:15:45.083Z",
+  "fetch_time": "2026-05-05T03:31:02.002Z",
   "articles": [
+    {
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "date": "Mon, 04 May 2026 00:00:00 GMT",
+      "summary": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+      "category": "Engineering"
+    },
     {
       "title": "Introducing Advanced Account Security",
       "date": "Thu, 30 Apr 2026 00:00:00 GMT",
@@ -30,13 +37,6 @@
       "summary": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
       "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
       "category": "Global Affairs"
-    },
-    {
-      "title": "Our commitment to community safety",
-      "date": "Tue, 28 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
-      "url": "https://openai.com/index/our-commitment-to-community-safety",
-      "category": "Safety"
     },
     {
       "title": "OpenAI models, Codex, and Managed Agents come to AWS",
