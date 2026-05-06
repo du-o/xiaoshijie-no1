@@ -1,8 +1,22 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-05-05T13:02:11.551Z",
+  "fetch_time": "2026-05-06T03:43:06.695Z",
   "articles": [
+    {
+      "title": "MS Edge 被发现会在内存中明文加载所有密码",
+      "date": "Tue, 05 May 2026 14:12:37 GMT",
+      "summary": "MS Edge 浏览器被发现启动时会在内存中明文加载其保存的所有密码。相比下 Chrome 只在需要时解密凭证，没有将所有密码保存在内存中。Edge 和 Chrome 都是基于开源的 Chromium。微软的做法让从内存中抓取重要数据变得更容易，也增加了共享环境下密码泄露的风险。安全研究人员将这一问题报告给了微软，收到的回应是该行为就是这么设计的。研究人员在 GitHub 上发布了概念演示工具 EdgeSavedPasswordsDumper。",
+      "url": "https://www.solidot.org/story?sid=84213",
+      "category": ""
+    },
+    {
+      "title": "NetHack 释出 5.0 版本",
+      "date": "Mon, 04 May 2026 15:55:34 GMT",
+      "summary": "有 39 年历史的 Roguelike 游戏 NetHack 释出 5.0 版本。NetHack 在 1987 年发布了最早的版本，名字中的 Net 指的是通过网络合作开发，Hack 则指的是角色扮演中的 hack 和 slash。玩家可以在游戏中扮演骑士、野蛮人、巫师、游侠、女武神、僧侣和武士等不同职业，目标是在地下城的最底层获取 Yendor 的项链并将其供奉给自己的神灵。NetHack 5.0 除了支持 Windows，还支持 MS-DOS 和 Amiga，此外它是完全开源的，可以编译在 Linux 等类 Unix 系统运行。NetHack 5.0 现在可以通过支持 C99 标准的编译器进行编译，使用 Lua 生成地下城，在游戏初期阶段新增了一个可选教程，等等。",
+      "url": "https://www.solidot.org/story?sid=84212",
+      "category": ""
+    },
     {
       "title": "科学家发现咖啡如何影响肠道和大脑",
       "date": "Mon, 04 May 2026 15:29:21 GMT",
@@ -29,20 +43,6 @@
       "date": "Sun, 03 May 2026 15:23:12 GMT",
       "summary": "因霍尔木兹海峡封锁引发的新一轮能源危机，世界各国正加速向清洁能源转型，最大的绿色技术出口国中国三月的太阳能、电池和电动汽车的出口总额同比增长 70%，其中出口的太阳能装机容量达到 68GW，电池出口额达到 100 亿美元，电动汽车和混合动力汽车出口同比增长 140%。多达 50 个国家从中国进口的太阳能设备都创历史新高。",
       "url": "https://www.solidot.org/story?sid=84208",
-      "category": ""
-    },
-    {
-      "title": "Steam 用户中使用 Linux 比例占 4.52%",
-      "date": "Sun, 03 May 2026 14:54:09 GMT",
-      "summary": "2026 年 3 月 Steam 玩家中使用 Linux 比例达到了史无前例的 5.33%，比前一个月增加了一倍多。根据 Valve 公布的 2026 年 4 月 Steam 硬件和软件调查，Steam 用户中使用 Linux 比例回落到了 4.52%，减少 0.81%，但仍然比去年同期翻了一番。Windows 操作系统的比例提高到 93.47%，OSX 占 2.01%。有众多证据表明 Linux 上的游戏表现有了翻天覆地的变化，而 Linux 下游戏的一大特性是需要的资源比 Windows 更少，在今天内存价格飙升的时期显得更有吸引力。其它数据显示：简体中文用户比例占 23.41%，英语用户占 36.77% 。用户使用英特尔 CPU 的比例占 55.81%，AMD 占 44.18%，几乎和前一个月相同。",
-      "url": "https://www.solidot.org/story?sid=84207",
-      "category": ""
-    },
-    {
-      "title": "英国 NHS 以 AI 为由准备关闭所有开源库",
-      "date": "Sat, 02 May 2026 16:07:05 GMT",
-      "summary": "日程安排平台 Cal.com 上月宣布从开源转为闭源，理由是 AI 工具更容易从开源代码中发现漏洞，而安全性依赖于模糊，因此闭源有助于提高安全。现在英国国家医疗服务体系（NHS）以相同的理由准备关闭它几乎所有的开源库，这一决定引发了广泛争议和批评。批评者指出 NHS 公布的大部分开源库是数据集、内部工具、指南、研究工具、前端设计等，它们不会因为安全扫描技术的进步而受到影响。此外是否开源对于 Anthropic Mythos 之类的 AI 工具并无区别，因为它们也能分析二进制程序并寻找漏洞。批评者发表了公开信，呼吁 NHS 保持其代码公开。",
-      "url": "https://www.solidot.org/story?sid=84206",
       "category": ""
     }
   ],

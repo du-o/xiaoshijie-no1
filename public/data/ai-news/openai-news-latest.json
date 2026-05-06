@@ -1,8 +1,29 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-05-05T13:02:07.951Z",
+  "fetch_time": "2026-05-06T03:43:03.826Z",
   "articles": [
+    {
+      "title": "GPT-5.5 Instant System Card",
+      "date": "Tue, 05 May 2026 10:00:00 GMT",
+      "summary": "",
+      "url": "https://openai.com/index/gpt-5-5-instant-system-card",
+      "category": "Safety"
+    },
+    {
+      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+      "date": "Tue, 05 May 2026 10:00:00 GMT",
+      "summary": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
+      "url": "https://openai.com/index/gpt-5-5-instant",
+      "category": "Product"
+    },
+    {
+      "title": "New ways to buy ChatGPT ads",
+      "date": "Tue, 05 May 2026 00:00:00 GMT",
+      "summary": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads.",
+      "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+      "category": "Product"
+    },
     {
       "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
       "date": "Mon, 04 May 2026 21:00:00 GMT",
@@ -23,27 +44,6 @@
       "summary": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.",
       "url": "https://openai.com/index/advanced-account-security",
       "category": "Product"
-    },
-    {
-      "title": "Where the goblins came from",
-      "date": "Wed, 29 Apr 2026 20:00:00 GMT",
-      "summary": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
-      "url": "https://openai.com/index/where-the-goblins-came-from",
-      "category": "Publication"
-    },
-    {
-      "title": "Building the compute infrastructure for the Intelligence Age",
-      "date": "Wed, 29 Apr 2026 15:00:00 GMT",
-      "summary": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
-      "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
-      "category": "Global Affairs"
-    },
-    {
-      "title": "Cybersecurity in the Intelligence Age",
-      "date": "Wed, 29 Apr 2026 04:00:00 GMT",
-      "summary": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
-      "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
-      "category": "Global Affairs"
     }
   ],
   "status": "success",
