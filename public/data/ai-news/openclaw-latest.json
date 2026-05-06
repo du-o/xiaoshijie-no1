@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-05-06T06:28:48.155Z",
+  "fetch_time": "2026-05-06T10:10:19.766Z",
   "articles": [
+    {
+      "title": "openclaw 2026.5.5",
+      "date": "2026-05-06T09:00:55Z",
+      "summary": "## 2026.5.5\n\n### Fixes\n\n- Feishu: hydrate missing native topic starter thread IDs before session routing so first turns and follow-ups stay in the same topic session. Fixes #78262. Thanks @joeyzenghua...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.5",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.5.5",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.5.4",
       "date": "2026-05-05T08:24:01Z",
@@ -51,16 +61,6 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.5.3-1",
-      "downloadCount": 0
-    },
-    {
-      "title": "OpenClaw 2026.5.3",
-      "date": "2026-05-04T07:01:29Z",
-      "summary": "\n### Highlights\n\n- Plugins/file-transfer: add bundled file-transfer plugin with `file_fetch`, `dir_list`, `dir_fetch`, and `file_write` agent tools for binary file ops on paired nodes; default-deny pe...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.3",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.5.3",
       "downloadCount": 0
     }
   ],
