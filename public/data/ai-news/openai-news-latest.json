@@ -1,7 +1,7 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-05-07T06:34:05.210Z",
+  "fetch_time": "2026-05-07T10:14:31.683Z",
   "articles": [
     {
       "title": "Introducing ChatGPT Futures: Class of 2026",
@@ -11,11 +11,11 @@
       "category": "Company"
     },
     {
-      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+      "title": "How frontier enterprises are building an AI advantage",
       "date": "Wed, 06 May 2026 00:00:00 GMT",
-      "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up.",
-      "url": "https://openai.com/index/singular-bank",
-      "category": "B2B Story"
+      "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
+      "url": "https://openai.com/index/introducing-b2b-signals",
+      "category": "Company"
     },
     {
       "title": "Uber uses OpenAI to help people earn smarter and book faster",
@@ -25,18 +25,11 @@
       "category": "B2B Story"
     },
     {
-      "title": "How frontier enterprises are building an AI advantage",
+      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
       "date": "Wed, 06 May 2026 00:00:00 GMT",
-      "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
-      "url": "https://openai.com/index/introducing-b2b-signals",
-      "category": "Company"
-    },
-    {
-      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
-      "date": "Tue, 05 May 2026 10:00:00 GMT",
-      "summary": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
-      "url": "https://openai.com/index/gpt-5-5-instant",
-      "category": "Product"
+      "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up.",
+      "url": "https://openai.com/index/singular-bank",
+      "category": "B2B Story"
     },
     {
       "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
@@ -44,6 +37,13 @@
       "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
       "url": "https://openai.com/index/mrc-supercomputer-networking",
       "category": "Engineering"
+    },
+    {
+      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+      "date": "Tue, 05 May 2026 10:00:00 GMT",
+      "summary": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
+      "url": "https://openai.com/index/gpt-5-5-instant",
+      "category": "Product"
     }
   ],
   "status": "success",
