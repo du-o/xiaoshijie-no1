@@ -1,70 +1,64 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-05-07T03:42:27.371Z",
+  "fetch_time": "2026-05-07T06:34:05.347Z",
   "articles": [
     {
-      "title": "2026 Roadmap on Artificial Intelligence and Machine Learning for Smart Manufacturing",
-      "date": "Wed, 06 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.00839v1 Announce Type: new Abstract: The evolution of artificial intelligence (AI) and machine learning (ML) is reshaping smart manufacturing by providing new capabilities for efficiency, adaptability, and autonomy across industrial value chains. However, the deployment of AI and ML in industrial settings still faces critical challenges, including the complexity of industrial big data, effective data management, integration with heterogeneous sensing and control systems, and the deman",
-      "url": "https://arxiv.org/abs/2605.00839",
+      "title": "CreativityBench: Evaluating Agent Creative Reasoning via Affordance-Based Tool Repurposing",
+      "date": "Thu, 07 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.02910v2 Announce Type: new Abstract: Recent advances in large language models have led to strong performance on reasoning and environment-interaction tasks, yet their ability for creative problem-solving remains underexplored. We study this capability through the lens of creative tool use, where a model repurposes available objects by reasoning about their affordances and attributes rather than relying on canonical usage. As a first step, we introduce CreativityBench, a benchmark for ",
+      "url": "https://arxiv.org/abs/2605.02910",
       "category": [
         "cs.AI",
+        "cs.CL",
         "cs.LG"
       ]
     },
     {
-      "title": "AI Agents for Sustainable SMEs: A Green ESG Assessment Framework",
-      "date": "Wed, 06 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.00841v1 Announce Type: new Abstract: This study presents a novel, AI-driven framework for assessing Environmental, Social, and Governance (ESG) performance in European small and medium-sized enterprises (SMEs). An initial phase established expert-validated ESG baseline scores from a subset of the Flash Eurobarometer FL549 survey data. In the second phase, a scalable AI agent system, built on the n8n automation platform, applied these baselines to perform automated ESG classification a",
-      "url": "https://arxiv.org/abs/2605.00841",
+      "title": "Stable Agentic Control: Tool-Mediated LLM Architecture for Autonomous Cyber Defense",
+      "date": "Thu, 07 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.03034v1 Announce Type: new Abstract: Agentic systems involved in high-stake decision-making under adversarial pressure need formal guarantees not offered by existing approaches. Motivated by the operational needs of security operations centers (SOCs) that must configure endpoint detection and response (EDR) policies under adversarial pressure, we present a tool-mediated architecture: LLM agents use deterministic tools (Stackelberg best-response, Bayesian observer updates, attack-graph",
+      "url": "https://arxiv.org/abs/2605.03034",
       "category": [
         "cs.AI",
-        "econ.GN",
-        "q-fin.EC"
+        "cs.CR",
+        "cs.SY",
+        "eess.SY"
       ]
     },
     {
-      "title": "Understanding Emergent Misalignment via Feature Superposition Geometry",
-      "date": "Wed, 06 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.00842v1 Announce Type: new Abstract: Emergent misalignment, where fine-tuning on narrow, non-harmful tasks induces harmful behaviors, poses a key challenge for AI safety in LLMs. Despite growing empirical evidence, its underlying mechanism remains unclear. To uncover the reason behind this phenomenon, we propose a geometric account based on the geometry of feature superposition. Because features are encoded in overlapping representations, fine-tuning that amplifies a target feature al",
-      "url": "https://arxiv.org/abs/2605.00842",
+      "title": "Computing Thiele Rules on Interval Elections and their Generalizations",
+      "date": "Thu, 07 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.03067v1 Announce Type: new Abstract: Approval-based committee voting has received significant attention in the social choice community. Among the studied rules, Thiele rules, and especially Proportional Approval Voting (PAV), stand out for desirable properties such as proportional representation, Pareto optimality, and support monotonicity. Their main drawback is that computing a Thiele outcome is NP-hard in general. A glimpse of hope comes from the fact that Thiele rules are better b",
+      "url": "https://arxiv.org/abs/2605.03067",
       "category": [
         "cs.AI",
-        "cs.LG"
+        "cs.GT"
       ]
     },
     {
-      "title": "ClinicBot: A Guideline-Grounded Clinical Chatbot with Prioritized Evidence RAG and Verifiable Citations",
-      "date": "Wed, 06 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.00846v1 Announce Type: new Abstract: Clinical diagnosis requires answers that are accurate, verifiable, and explicitly grounded in official guidelines. While large language models excel at natural language processing, their tendency to hallucinate undermines their utility in high-stakes medical contexts where precision is essential. Existing retrieval-augmented generation (RAG) systems treat all evidence equally, producing noisy context and generic answers misaligned with clinical pra",
-      "url": "https://arxiv.org/abs/2605.00846",
+      "title": "Making the Invisible Visible: Understanding the Mismatch Between Organizational Goals and Worker Experiences in AI Adoption",
+      "date": "Thu, 07 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.03078v1 Announce Type: new Abstract: While AI is often introduced into organizations to drive innovation and efficiency, many adoption efforts fail as workers resist and struggle to integrate these systems. These failures point to a deeper issue: workers, the very people expected to collaborate with AI, are often invisible in decisions about how AI is designed and used. Drawing on interviews with professionals who interact with AI systems daily in healthcare, finance, and management, ",
+      "url": "https://arxiv.org/abs/2605.03078",
       "category": [
         "cs.AI",
-        "cs.MA"
+        "cs.HC"
       ]
     },
     {
-      "title": "Accelerating battery research with an AI interface between FINALES and Kadi4Mat",
-      "date": "Wed, 06 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.00909v1 Announce Type: new Abstract: The time-consuming formation process critically impacts the longevity of sodium-ion coin cells and End Of Life (EOL) performance. This study aims to optimize formation protocols for duration efficiency, targeting high-performance outcomes while minimizing the number of experiments to reduce resource consumption and accelerate discovery. Specifically, we consider two potentially competing objectives: minimizing formation time and maximizing EOL perf",
-      "url": "https://arxiv.org/abs/2605.00909",
-      "category": [
-        "cs.AI",
-        "cond-mat.mtrl-sci",
-        "cs.LG"
-      ]
+      "title": "Programmatic Context Augmentation for LLM-based Symbolic Regression",
+      "date": "Thu, 07 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.03101v1 Announce Type: new Abstract: Symbolic regression (SR), the task of discovering mathematical expressions that best describe a given dataset, remains a fundamental challenge in scientific discovery. Traditional approaches, primarily based on genetic algorithms and related evolutionary methods, have proven useful but suffer from scalability and expressivity limitations. Recently, large language model (LLM)-based evolutionary search methods have been introduced into SR and show pr",
+      "url": "https://arxiv.org/abs/2605.03101",
+      "category": "cs.AI"
     },
     {
-      "title": "Effect-Transparent Governance for AI Workflow Architectures: Semantic Preservation, Expressive Minimality, and Decidability Boundaries",
-      "date": "Wed, 06 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.01030v2 Announce Type: new Abstract: We present a machine-checked formalization of structurally governed AI workflow architectures and prove that effect-level governance can be imposed without reducing internal computational expressivity. Using Interaction Trees in Rocq 8.19, we define a governance operator G that mediates all effectful directives, including memory access, external calls, and oracle (LLM) queries. Our development compiles with 0 admitted lemmas and consists of 36 modu",
-      "url": "https://arxiv.org/abs/2605.01030",
-      "category": [
-        "cs.AI",
-        "cs.LO",
-        "cs.PL"
-      ]
+      "title": "Are you with me? A Framework for Detecting Mental Model Discrepancies in Task-Based Team Dialogues",
+      "date": "Thu, 07 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.03149v1 Announce Type: new Abstract: Humans typically use natural language to update teammates on task states. Since not all updates are communicated, discrepancies arise between the team members' mental models that negatively affect overall team performance. How can we categorize such discrepancies? Do misalignments detected in team dialogue predict future mental model misalignments? Traditional shared mental model (SMM) assessment methods rely on retrospective expert coding that can",
+      "url": "https://arxiv.org/abs/2605.03149",
+      "category": "cs.AI"
     }
   ],
   "status": "success",
