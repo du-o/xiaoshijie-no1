@@ -1,21 +1,35 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-05-06T13:21:53.541Z",
+  "fetch_time": "2026-05-07T03:42:27.196Z",
   "articles": [
     {
-      "title": "GPT-5.5 Instant System Card",
-      "date": "Tue, 05 May 2026 10:00:00 GMT",
-      "summary": "",
-      "url": "https://openai.com/index/gpt-5-5-instant-system-card",
-      "category": "Safety"
+      "title": "Introducing ChatGPT Futures: Class of 2026",
+      "date": "Wed, 06 May 2026 00:00:00 GMT",
+      "summary": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
+      "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+      "category": "Company"
     },
     {
-      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
-      "date": "Tue, 05 May 2026 10:00:00 GMT",
-      "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
-      "url": "https://openai.com/index/mrc-supercomputer-networking",
-      "category": "Engineering"
+      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+      "date": "Wed, 06 May 2026 00:00:00 GMT",
+      "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up.",
+      "url": "https://openai.com/index/singular-bank",
+      "category": "B2B Story"
+    },
+    {
+      "title": "Uber uses OpenAI to help people earn smarter and book faster",
+      "date": "Wed, 06 May 2026 00:00:00 GMT",
+      "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
+      "url": "https://openai.com/index/uber",
+      "category": "B2B Story"
+    },
+    {
+      "title": "How frontier enterprises are building an AI advantage",
+      "date": "Wed, 06 May 2026 00:00:00 GMT",
+      "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
+      "url": "https://openai.com/index/introducing-b2b-signals",
+      "category": "Company"
     },
     {
       "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
@@ -25,24 +39,10 @@
       "category": "Product"
     },
     {
-      "title": "New ways to buy ChatGPT ads",
-      "date": "Tue, 05 May 2026 00:00:00 GMT",
-      "summary": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads.",
-      "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
-      "category": "Product"
-    },
-    {
-      "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
-      "date": "Mon, 04 May 2026 21:00:00 GMT",
-      "summary": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
-      "url": "https://openai.com/index/openai-pwc-finance-collaboration",
-      "category": "Global Affairs"
-    },
-    {
-      "title": "How OpenAI delivers low-latency voice AI at scale",
-      "date": "Mon, 04 May 2026 00:00:00 GMT",
-      "summary": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
-      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+      "date": "Tue, 05 May 2026 10:00:00 GMT",
+      "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
+      "url": "https://openai.com/index/mrc-supercomputer-networking",
       "category": "Engineering"
     }
   ],

@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-05-06T13:22:16.305Z",
+  "fetch_time": "2026-05-07T03:42:55.191Z",
   "articles": [
+    {
+      "title": "openclaw 2026.5.6",
+      "date": "2026-05-06T17:51:03Z",
+      "summary": "## 2026.5.6\n\n### Fixes\n\n- Doctor/OpenAI Codex: revert the 2026.5.5 `doctor --fix` repair that rewrote valid `openai-codex/*` ChatGPT/Codex OAuth routes to `openai/*`, which could break OAuth-only GPT-...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.6",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.5.6",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.5.5",
       "date": "2026-05-06T09:00:55Z",
@@ -51,16 +61,6 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.5.4-beta.1",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.5.3-1",
-      "date": "2026-05-04T09:35:36Z",
-      "summary": "Core npm hotfix release for v2026.5.3.\n\n- Plugins/security: stop the install scanner from blocking official bundled plugin packages when `process.env` access and normal API sends only appear in distan...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.3-1",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.5.3-1",
       "downloadCount": 0
     }
   ],
