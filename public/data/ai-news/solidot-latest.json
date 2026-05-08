@@ -1,8 +1,29 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-05-08T05:56:24.957Z",
+  "fetch_time": "2026-05-08T09:06:45.948Z",
   "articles": [
+    {
+      "title": "六成 MD5 密码能在一小时内破解",
+      "date": "Fri, 08 May 2026 06:55:13 GMT",
+      "summary": "卡巴斯基研究人员发现，如果你有一块英伟达 RTX 5090 显卡，那么六成 MD5 哈希密码可在一小时内破解，48% 的密码甚至能在一分钟内破解。如果泄露的密码使用的是 MD5 之类的哈希算法，那么密码基本可以认为被暴露了。研究人员分析了逾 2 亿个泄露的密码，发现攻击者可利用常见模式优化破解算法，显著缩短猜测密码字符组合的时间。研究人员称破解速度加快主要归功于 GPU，GPU 的性能一直在进步，但密码的安全性则没什么变化。",
+      "url": "https://www.solidot.org/story?sid=84242",
+      "category": ""
+    },
+    {
+      "title": "Cloudflare 裁员逾 1100 人",
+      "date": "Fri, 08 May 2026 06:17:34 GMT",
+      "summary": "Cloudflare 宣布裁员逾 1100 人，理由是 AI 工具快速普及而进行业务重组。截至 2025 年底，Cloudflare 有 5156 名全职员工，1100 人占到了员工总数的五分之一。Cloudflare CEO Matthew Prince 和联合创始人 Michelle Zatlyn 在致员工的信中表示，公司正在重新构想每个团队和职能部门的运作方式，以适应“智能体 AI 时代”。",
+      "url": "https://www.solidot.org/story?sid=84241",
+      "category": ""
+    },
+    {
+      "title": "PHP 项目淘汰 PHP 许可证",
+      "date": "Fri, 08 May 2026 05:57:06 GMT",
+      "summary": "PHP 项目正式宣布淘汰 PHP 许可证，切换到 3-Clause BSD License。PHP 许可证属于与 GPL 不兼容的自由软件许可证，因为许可证限制了对“PHP”一词的使用。该许可证也赋予 PHP Group 修改许可证的权力，而修改许可证需要获得每一位 PHP Group 创始成员的书面同意。PHP 项目包含了由 Zend Technologies 开发的 Zend Engine，Zend Technologies 于 2019 年被 Perforce Software 收购，Perforce 也已经同意了许可证更改。PHP 项目宣布他们已经获得了修改许可证的完整授权。",
+      "url": "https://www.solidot.org/story?sid=84240",
+      "category": ""
+    },
     {
       "title": "2026年一季度全球智能手机售价创历史同期新高",
       "date": "Thu, 07 May 2026 16:42:48 GMT",
@@ -22,27 +43,6 @@
       "date": "Thu, 07 May 2026 16:10:55 GMT",
       "summary": "根据发表在《自然》期刊上的一项研究，传粉昆虫与农户健康与收入息息相关。英国研究人员观察了尼泊尔 10 个小农社区中 776 人的饮食、营养状况、耕作方式和社会经济状况，并记录了支持其营养和生计的传粉物种。他们发现，昆虫传粉者直接贡献了 44% 的农场收入，以及超过 20% 的维生素A、叶酸和维生素E摄入。研究表明，传粉者和人类的关系对于维持环境和人类健康至关重要。传粉者减少与营养摄入和家庭收入降低相关。",
       "url": "https://www.solidot.org/story?sid=84237",
-      "category": ""
-    },
-    {
-      "title": "Valve 以 CC 协议发布 Steam 手柄 CAD 文件",
-      "date": "Thu, 07 May 2026 15:55:44 GMT",
-      "summary": "Valve 在知识共享（CC）协议下发布了其上市即售罄的 Steam 手柄的 CAD 文件。用户可以自由使用这些文件制作底座支架、手柄装饰套或其它任何想要的东西。Valve 称手柄为用户所有，可以任意处置，但它建议用户将其交给专业人士处理，因为用户可以会不小心造成损害，而这不在保修范围之内。",
-      "url": "https://www.solidot.org/story?sid=84236",
-      "category": ""
-    },
-    {
-      "title": "CRISPR-Cas12a2 能选择性摧毁细胞",
-      "date": "Thu, 07 May 2026 15:27:52 GMT",
-      "summary": "犹他州立大学的研究人员在《自然》期刊上发表论文，报告了基因编辑技术 CRISPR-Cas12a2 的突破，它能选择性摧毁细胞，对疾病治疗具有重大意义。治疗包括癌症在内的疾病的难点在于如何在不破坏健康组织的情况下清除恶性肿瘤或感染。更知名的 CRISPR-Cas9 基因编辑技术是使用引导 RNA 去结合互补 DNA，CRISPR-Cas12a2 是使用引导 RNA 去结合互补 RNA。研究人员报告，Cas12a2 具有特定靶向性，几乎没有脱靶效应，能选择性杀死含有单点突变的致癌细胞，而不含该突变的细胞不受影响，且没有观察到任何副作用。在小鼠实验中，新疗法在单次治疗后使肿瘤体积缩小了约 50%。",
-      "url": "https://www.solidot.org/story?sid=84235",
-      "category": ""
-    },
-    {
-      "title": "SpaceX IPO 给予马斯克不受限制的权力以及禁止投资者提起诉讼",
-      "date": "Thu, 07 May 2026 11:32:56 GMT",
-      "summary": "根据 SpaceX 的 IPO 注册申报文件，SpaceX 组合超级投票权、强制仲裁等规则赋予马斯克（Elon Musk）等人广泛的控制权，马斯克拥有几乎不受制约的执行权，还限制了投资者/股东挑战管理层、提起诉讼以及就公司治理问题进行投票的能力，结果是唯一能解雇马斯克的人只有马斯克本人。马斯克目前持有 SpaceX 42.5% 的股权，拥有 83.8% 的投票权，上市后仍将有逾 50% 的投票权。SpaceX 的 IPO 文件属于保密文件，使得该公司可在不披露详细财务信息的情况下推进 IPO 进程。",
-      "url": "https://www.solidot.org/story?sid=84234",
       "category": ""
     }
   ],
