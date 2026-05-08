@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-05-07T13:22:20.033Z",
+  "fetch_time": "2026-05-08T03:36:20.788Z",
   "articles": [
+    {
+      "title": "openclaw 2026.5.7",
+      "date": "2026-05-07T20:57:43Z",
+      "summary": "\n### Fixes\n\n- Release/plugin publishing: retry transient ClawHub CLI dependency install failures, keep preview-passing plugins publishable when one preview cell flakes, and verify every expected ClawH...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.7",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.5.7",
+      "downloadCount": 1293
+    },
     {
       "title": "openclaw 2026.5.6",
       "date": "2026-05-06T17:51:03Z",
@@ -51,16 +61,6 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.5.4-beta.2",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.5.4-beta.1",
-      "date": "2026-05-04T18:22:09Z",
-      "summary": "## 2026.5.4\n\n### Highlights\n\n- Plugins/file-transfer: add bundled file-transfer plugin with `file_fetch`, `dir_list`, `dir_fetch`, and `file_write` agent tools for binary file ops on paired nodes; def...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.4-beta.1",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.5.4-beta.1",
       "downloadCount": 0
     }
   ],
