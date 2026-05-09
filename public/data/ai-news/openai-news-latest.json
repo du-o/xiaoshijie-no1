@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-05-08T13:02:25.321Z",
+  "fetch_time": "2026-05-09T03:36:29.854Z",
   "articles": [
+    {
+      "title": "Running Codex safely at OpenAI",
+      "date": "Fri, 08 May 2026 12:30:00 GMT",
+      "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
+      "url": "https://openai.com/index/running-codex-safely",
+      "category": "Security"
+    },
     {
       "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
       "date": "Thu, 07 May 2026 13:00:00 GMT",
@@ -25,13 +32,6 @@
       "category": "Product"
     },
     {
-      "title": "Introducing Trusted Contact in ChatGPT",
-      "date": "Thu, 07 May 2026 00:00:00 GMT",
-      "summary": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected.",
-      "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
-      "category": "Safety"
-    },
-    {
       "title": "Testing ads in ChatGPT",
       "date": "Thu, 07 May 2026 00:00:00 GMT",
       "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
@@ -39,11 +39,11 @@
       "category": "Company"
     },
     {
-      "title": "Simplex rethinks software development with Codex",
+      "title": "Introducing Trusted Contact in ChatGPT",
       "date": "Thu, 07 May 2026 00:00:00 GMT",
-      "summary": "Simplex boosts software development with ChatGPT Enterprise and Codex, reducing design, build, and testing time while scaling AI-driven workflows.",
-      "url": "https://openai.com/index/simplex",
-      "category": "B2B Story"
+      "summary": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected.",
+      "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+      "category": "Safety"
     }
   ],
   "status": "success",
