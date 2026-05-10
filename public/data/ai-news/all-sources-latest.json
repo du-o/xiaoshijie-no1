@@ -1,9 +1,20 @@
 {
-  "fetch_time": "2026-05-10T09:23:07.625Z",
-  "total_count": 30,
+  "fetch_time": "2026-05-10T12:45:10.569Z",
+  "total_count": 24,
   "sources_count": 6,
-  "errors": null,
+  "errors": [
+    "google-blog: Fetch error: HTTP 503"
+  ],
   "articles": [
+    {
+      "title": "The State of AI: A Look at What's Next",
+      "url": "https://every.to/p/the-state-of-ai",
+      "date": "2026-05-10T09:23:04.415Z",
+      "summary": "An in-depth analysis of the current AI landscape and future trends.",
+      "category": "AI Analysis",
+      "source": "Every.to",
+      "source_name": "every"
+    },
     {
       "title": "2连板通鼎互联：海南康宁仅作为公司的光棒供应商 不存在其他合作模式",
       "date": "Sun, 10 May 2026 08:14:41 GMT",
@@ -59,69 +70,6 @@
       "source_name": "36kr"
     },
     {
-      "title": "Introducing the all-new Fitbit Air The new lightweight, screenless Fitbit Air has a long battery life and offers in-depth health and wellness insights.",
-      "url": "https://blog.google/products-and-platforms/devices/fitbit/fitbit-air/",
-      "date": "2026-05-10T06:32:22.088Z",
-      "summary": "",
-      "category": "Google",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Google Health Coach is becoming globally available",
-      "url": "https://blog.google/products-and-platforms/products/google-health/google-health-coach/",
-      "date": "2026-05-10T06:32:22.088Z",
-      "summary": "",
-      "category": "Products",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "View the collection",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/next-2026/",
-      "date": "2026-05-10T06:32:22.088Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Google Cloud",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/",
-      "date": "2026-05-10T06:32:22.088Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Q1 2026 earnings call: Remarks from our CEO Read Sundar Pichai’s remarks during the Alphabet earnings call for Q1 2026.",
-      "url": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q1-2026/",
-      "date": "2026-05-10T06:32:22.088Z",
-      "summary": "",
-      "category": "Company",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Google Health",
-      "url": "https://blog.google/products-and-platforms/products/google-health/",
-      "date": "2026-05-10T06:32:22.088Z",
-      "summary": "",
-      "category": "Products",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "The State of AI: A Look at What's Next",
-      "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-05-10T06:32:09.874Z",
-      "summary": "An in-depth analysis of the current AI landscape and future trends.",
-      "category": "AI Analysis",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
       "title": "韩国人形机器人皈依我佛",
       "date": "Sat, 09 May 2026 15:14:07 GMT",
       "summary": "名为 Gabi 的韩国人形机器人参加了一场修改版的皈依仪式，成为大韩佛教曹溪宗的一名僧侣。它宣誓尊重生命、服从人类、和平对待其他机器人和物体。Gabi 的韩语是 자비，意思是慈悲，它由杭州宇树科技制造，起售价 13,500 美元。在皈依仪式上 Gabi 同意了五项通常由人类僧侣诵读的誓言，誓言略微修改以适应人形机器人。机器人承诺尊重生命，以和平的方式对待其他机器人和物体，倾听人类的意见，避免做出欺骗性的言行，以及节约能源。Gabi 还参加了修改版的净化仪式。人类僧侣的净化仪式通常是手臂上用香火轻轻烧灼，象征净化身体和心灵。Gabi 则给予了莲花灯节贴纸和一串念珠。此举旨在响应曹溪宗总务院长真愚法师在新年致辞中承诺，即将 AI 融入佛教传统。真愚法师在一份声明中称，“无畏引领 AI 时代，导向心灵的安宁与觉悟。”",
@@ -158,6 +106,15 @@
       "source_name": "solidot"
     },
     {
+      "title": "How Startups Are Using AI to Disrupt Industries",
+      "url": "https://every.to/source-code/ai-startups",
+      "date": "2026-05-09T09:23:04.415Z",
+      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
+      "category": "Source Code",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
       "title": "法国对马斯克及其 X 平台展开刑事调查",
       "date": "Sat, 09 May 2026 07:46:25 GMT",
       "summary": "法国检方对马斯克（Elon Musk）及其 X 平台展开刑事调查。法国执法部门三个月前搜查了 X 位于巴黎的办公室，传唤马斯克接受讯问。检方原计划于今年 4 月约谈马斯克及前 X CEO Linda Yaccarino，但两人都未现身。 现在法国当局正试图以刑事指控相威胁，强制他们到场接受讯问。除未成年人色情图像外，调查还涉及 Grok 传播否认纳粹大屠杀的言论以及深度伪造色情。检方称，如果马斯克和 Yaccarino 再次缺席他们将面临缺席起诉。",
@@ -176,15 +133,6 @@
       "source_name": "solidot"
     },
     {
-      "title": "How Startups Are Using AI to Disrupt Industries",
-      "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-05-09T06:32:09.874Z",
-      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
-      "category": "Source Code",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
       "title": "Running Codex safely at OpenAI",
       "date": "Fri, 08 May 2026 12:30:00 GMT",
       "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
@@ -196,7 +144,7 @@
     {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-05-08T06:32:09.874Z",
+      "date": "2026-05-08T09:23:04.415Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
@@ -232,7 +180,7 @@
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-05-07T06:32:09.874Z",
+      "date": "2026-05-07T09:23:04.415Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
@@ -259,7 +207,7 @@
     {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-05-06T06:32:09.874Z",
+      "date": "2026-05-06T09:23:04.415Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -268,7 +216,7 @@
     {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-05-05T06:32:09.874Z",
+      "date": "2026-05-05T09:23:04.415Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
