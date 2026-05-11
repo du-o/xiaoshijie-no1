@@ -1,8 +1,22 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-05-11T04:03:01.788Z",
+  "fetch_time": "2026-05-11T07:39:16.676Z",
   "articles": [
+    {
+      "title": "OpenAI Campus Network: Student club interest form",
+      "date": "Mon, 11 May 2026 10:00:00 GMT",
+      "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
+      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+      "category": "Company"
+    },
+    {
+      "title": "How enterprises are scaling AI",
+      "date": "Mon, 11 May 2026 10:00:00 GMT",
+      "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+      "category": "Guides"
+    },
     {
       "title": "Running Codex safely at OpenAI",
       "date": "Fri, 08 May 2026 12:30:00 GMT",
@@ -30,20 +44,6 @@
       "summary": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
       "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
       "category": "Product"
-    },
-    {
-      "title": "Testing ads in ChatGPT",
-      "date": "Thu, 07 May 2026 00:00:00 GMT",
-      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "category": "Company"
-    },
-    {
-      "title": "Introducing Trusted Contact in ChatGPT",
-      "date": "Thu, 07 May 2026 00:00:00 GMT",
-      "summary": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected.",
-      "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
-      "category": "Safety"
     }
   ],
   "status": "success",
