@@ -1,8 +1,38 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-05-10T12:45:24.806Z",
+  "fetch_time": "2026-05-11T04:03:19.626Z",
   "articles": [
+    {
+      "title": "openclaw 2026.5.10-beta.3",
+      "date": "2026-05-11T03:28:30Z",
+      "summary": "\n### Changes\n\n- Build: enable stricter Vitest lint rules for focused, disabled, conditional, hook, matcher, and expectation hazards.\n- Build: pin explicit oxfmt defaults in the shared formatter config...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.10-beta.3",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.5.10-beta.3",
+      "downloadCount": 0
+    },
+    {
+      "title": "openclaw 2026.5.10-beta.2",
+      "date": "2026-05-10T18:18:58Z",
+      "summary": "\n### Changes\n\n- QA/Mantis: add Telegram live PR evidence automation with Convex-leased credentials, Crabbox transcript capture, motion GIF previews, and inline PR comments.\n- QA/Mantis: add a Telegram...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.10-beta.2",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.5.10-beta.2",
+      "downloadCount": 0
+    },
+    {
+      "title": "openclaw 2026.5.10-beta.1",
+      "date": "2026-05-10T14:02:46Z",
+      "summary": "## 2026.5.10\n\n### Changes\n\n- QA/Mantis: add Telegram live PR evidence automation with Convex-leased credentials, Crabbox transcript capture, motion GIF previews, and inline PR comments.\n- QA/Mantis: a...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.10-beta.1",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.5.10-beta.1",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.5.9-beta.1",
       "date": "2026-05-09T13:32:02Z",
@@ -21,7 +51,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.5.7",
-      "downloadCount": 15526
+      "downloadCount": 18156
     },
     {
       "title": "openclaw 2026.5.6",
@@ -31,36 +61,6 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.5.6",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.5.5",
-      "date": "2026-05-06T09:00:55Z",
-      "summary": "## 2026.5.5\n\n### Fixes\n\n- Feishu: hydrate missing native topic starter thread IDs before session routing so first turns and follow-ups stay in the same topic session. Fixes #78262. Thanks @joeyzenghua...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.5",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.5.5",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.5.4",
-      "date": "2026-05-05T08:24:01Z",
-      "summary": "## 2026.5.4\n\n### Highlights\n\n- Google Meet/Voice Call: make Twilio dial-in joins speak through the realtime Gemini voice bridge with paced audio streaming, backpressure-aware buffering, barge-in queue...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.4",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.5.4",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.5.4-beta.3",
-      "date": "2026-05-05T06:14:48Z",
-      "summary": "## 2026.5.4\n\n### Highlights\n\n- Google Meet/Voice Call: make Twilio dial-in joins speak through the realtime Gemini voice bridge with paced audio streaming, backpressure-aware buffering, barge-in queue...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.4-beta.3",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.5.4-beta.3",
       "downloadCount": 0
     }
   ],

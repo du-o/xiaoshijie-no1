@@ -1,73 +1,219 @@
 {
-  "fetch_time": "2026-05-10T12:45:10.569Z",
-  "total_count": 24,
+  "fetch_time": "2026-05-11T04:03:05.654Z",
+  "total_count": 36,
   "sources_count": 6,
-  "errors": [
-    "google-blog: Fetch error: HTTP 503"
-  ],
+  "errors": null,
   "articles": [
+    {
+      "title": "恒指午间休盘跌0.29%，恒生科技指数涨0.04%",
+      "date": "Mon, 11 May 2026 04:02:49 GMT",
+      "summary": "36氪获悉，恒指午间休盘跌0.29%，恒生科技指数涨0.04%；半导体、硬件设备、机械板块领涨，乐动机器人涨128%，澜起科技涨超20%，三一重工涨超6%；零售、有色金属、传媒板块跌幅居前，力天影业跌超11%，灵宝黄金跌超10%，国美零售跌超7%；南向资金净买入31.39亿港元。",
+      "url": "https://36kr.com/newsflashes/3804367576768256?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "GraphDC: A Divide-and-Conquer Multi-Agent System for Scalable Graph Algorithm Reasoning",
+      "date": "Mon, 11 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.06671v1 Announce Type: new Abstract: Large Language Models (LLMs) have demonstrated strong potential for many mathematical problems. However, their performance on graph algorithmic tasks is still unsatisfying, since graphs are naturally more complex in topology and often require systematic multi-step reasoning, especially on larger graphs. Motivated by this gap, we propose GraphDC, a Divide-and-Conquer multi-agent framework for scalable graph algorithm reasoning. Specifically, inspire",
+      "url": "https://arxiv.org/abs/2605.06671",
+      "category": [
+        "cs.AI",
+        "cs.MA"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "More Thinking, More Bias: Length-Driven Position Bias in Reasoning Models",
+      "date": "Mon, 11 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.06672v1 Announce Type: new Abstract: Chain-of-thought (CoT) reasoning and reasoning-tuned models such as DeepSeek-R1 are commonly assumed to reduce shallow heuristic biases by thinking carefully. We test this on position bias in multiple-choice QA and find a different story: within any reasoning-capable model, per-question position bias scales with the length of the reasoning trajectory. Across thirteen reasoning-mode configurations (two R1-distilled 7-8B models, two base models promp",
+      "url": "https://arxiv.org/abs/2605.06672",
+      "category": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Fast and Effective Redistricting Optimization via Composite-Move Tabu Search",
+      "date": "Mon, 11 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.06682v1 Announce Type: new Abstract: Spatial redistricting is a practical combinatorial optimization problem that demands high-quality solutions, rapid turnaround, and flexibility to accommodate multi-criteria objectives and interactive refinement. A central challenge is the contiguity constraint: enforcing contiguity in integer-programming or heuristic search can severely shrink the feasible neighborhood, weaken exploration, and trap the search in poor local optima. We introduce a co",
+      "url": "https://arxiv.org/abs/2605.06682",
+      "category": [
+        "cs.AI",
+        "cs.CY"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "State Representation and Termination for Recursive Reasoning Systems",
+      "date": "Mon, 11 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.06690v1 Announce Type: new Abstract: Recursive reasoning systems alternate between acquiring new evidence and refining an accumulated understanding. Two design choices are typically left implicit: how to represent the evolving reasoning state, and when to stop iterating. This paper addresses both. We represent the reasoning state as an epistemic state graph encoding extracted claims, evidential relations, open questions, and confidence weights. We define the order-gap as the distance ",
+      "url": "https://arxiv.org/abs/2605.06690",
+      "category": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Hidden Coalitions in Multi-Agent AI: A Spectral Diagnostic from Internal Representations",
+      "date": "Mon, 11 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.06696v1 Announce Type: new Abstract: Collections of interacting AI agents can form coalitions, creating emergent group-level organization that is critical for AI safety and alignment. However, observing agent behavior alone is often insufficient to distinguish genuine informational coupling from spurious similarity, as consequential coalitions may form at the level of internal representations before any overt behavioral change is apparent. Here, we introduce a practical method for det",
+      "url": "https://arxiv.org/abs/2605.06696",
+      "category": [
+        "cs.AI",
+        "cs.LG",
+        "cs.MA"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "CASCADE: Case-Based Continual Adaptation for Large Language Models During Deployment",
+      "date": "Mon, 11 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.06702v1 Announce Type: new Abstract: Large language models (LLMs) have become a central foundation of modern artificial intelligence, yet their lifecycle remains constrained by a rigid separation between training and deployment, after which learning effectively ceases. This limitation contrasts with natural intelligence, which continually adapts through interaction with its environment. In this paper, we formalise deployment-time learning (DTL) as the third stage in the LLM lifecycle ",
+      "url": "https://arxiv.org/abs/2605.06702",
+      "category": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "山西调整住房公积金贷款和提取政策",
+      "date": "Mon, 11 May 2026 03:49:29 GMT",
+      "summary": "5月11日，记者从山西省省级机关住房资金管理中心了解到，为降低购房消费成本、放宽购房提取公积金条件，2026年5月10日起，山西延长个人住房公积金贷款年限，住房公积金贷款期限按整年计算，最长不得超过30年，且贷款到期日不超过借款申请人68周岁。同时，调整“商转公贷款”及“部分商转公贷款”的住房消费行为时间限制，缴存职工于2026年5月10日以前通过商业银行发放的商业住房按揭贷款购买太原市住房的，贷款房屋取得不动产权证书后，符合山西省省级机关住房资金管理中心其他贷款条件的，可以申请办理商业住房按揭贷款转公积金贷款及部分转公积金贷款。另外，调整购房类提取住房公积金政策，职工购买住房，凭5年以内的《商品房买卖合同》或《不动产权证书》可分别办理1次住房公积金提取，累计提取金额不超过实际支付的购房款。（央视新闻）",
+      "url": "https://36kr.com/newsflashes/3804354477858561?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "半日主力资金加仓电子、电力设备股，抛售交通运输股",
+      "date": "Mon, 11 May 2026 03:48:25 GMT",
+      "summary": "主力资金早间净流入电子、电力设备、机械设备、通信等板块，净流出交通运输、汽车、有色金属、银行等板块。具体到个股来看，澜起科技、兆易创新、长电科技获净流入41.7亿元、32.9亿元、30.82亿元。净流出方面，亨通光电、新易盛、中国长城遭抛售11.34亿元、10.38亿元、7.31亿元。（第一财经）",
+      "url": "https://36kr.com/newsflashes/3804353426578945?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "泡泡玛特将在5月13日举行2026年一季度业务更新电话会",
+      "date": "Mon, 11 May 2026 03:44:20 GMT",
+      "summary": "泡泡玛特将在5月13日举行2026年一季度业务更新电话会，届时将有公司高管团队参会。一季度电话会与股东周年大会同为5月13日举行。2023年至2025年，泡泡玛特仅发布了一季度相关营运数据公告，未有过公开的业务电话会。（界面）",
+      "url": "https://36kr.com/newsflashes/3804349405617664?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "“鹿明机器人”完成数亿元A1及A2轮融资",
+      "date": "Mon, 11 May 2026 03:43:05 GMT",
+      "summary": "36氪获悉，近日，“鹿明机器人”宣布，连续完成A1及A2两轮融资。其中A1轮融资由三菱电机智能制造科技（中国）集团有限公司（统筹在中国的工业自动化事业，以下简称“三菱电机”）领投，老股东普华资本、吴中金控等超额跟投，A2轮融资由三菱电机继续领投，恒生电子、海高集团、昆石投资等产业方跟投。两轮融资完成后，公司累计融资近10亿元。融资将用于公司具身大模型研发和场景拓展的持续投入。",
+      "url": "https://36kr.com/newsflashes/3804348184157701?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "A股三大指数午间休盘集体上涨，半导体板块走强",
+      "date": "Mon, 11 May 2026 03:31:30 GMT",
+      "summary": "36氪获悉，A股三大指数午间休盘集体上涨，沪指涨0.94%，深成指涨2.13%，创业板指涨3.03%；工程机械、半导体、电脑硬件板块领涨，徐工机械、澜起科技、同有科技涨停；海运、贵金属、日用化工板块跌幅居前，国航远洋跌超6%，赤峰黄金跌超5%，两面针跌超3%。",
+      "url": "https://36kr.com/newsflashes/3804336792379145?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "每天走 8500 步有助于维持体重",
+      "date": "Sun, 10 May 2026 17:07:12 GMT",
+      "summary": "肥胖成为日益严重的公共卫生问题，预计到 2035 年全球肥胖人口比例将逾 30%。寻找能改善减肥效果的新策略是公共卫生领域的当务之急。根据发表在《International Journal of Environmental Research and Public Health》期刊上的一项研究，对比实验组和对照组，研究人员发现每天走约 8500 步有助于减肥者长期维持体重。研究人员认为应鼓励减肥者在减肥阶段增加每日步数，目标是每天约 8500 步，在维持阶段保持这些步数。",
+      "url": "https://www.solidot.org/story?sid=84259",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "欧盟考虑制限制使用美国云服务处理敏感数据",
+      "date": "Sun, 10 May 2026 14:39:37 GMT",
+      "summary": "欧盟考虑制定规则，限制成员国政府使用美国云平台处理敏感数据。欧盟委员会预计将于 5 月 27 日公布技术主权计划 Tech Sovereignty Package，该计划包含了一系列措施加强在数字领域的战略自主性。欧盟委员会内部讨论了限制敏感公共部门数据暴露于非欧盟云平台的问题。包括美国在内的云服务商可能会受到影响。欧盟委员会没有完全禁止非欧盟云平台竞标政府合同，而是根据敏感程度限制非欧盟云平台处理敏感数据。它讨论的敏感数据主要与金融、司法和医疗数据相关。",
+      "url": "https://www.solidot.org/story?sid=84258",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "Introducing the all-new Fitbit Air The new lightweight, screenless Fitbit Air has a long battery life and offers in-depth health and wellness insights.",
+      "url": "https://blog.google/products-and-platforms/devices/fitbit/fitbit-air/",
+      "date": "2026-05-10T12:45:17.098Z",
+      "summary": "",
+      "category": "Google",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Google Health Coach is becoming globally available",
+      "url": "https://blog.google/products-and-platforms/products/google-health/google-health-coach/",
+      "date": "2026-05-10T12:45:17.098Z",
+      "summary": "",
+      "category": "Products",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "View the collection",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/next-2026/",
+      "date": "2026-05-10T12:45:17.098Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Google Cloud",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/",
+      "date": "2026-05-10T12:45:17.098Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Q1 2026 earnings call: Remarks from our CEO Read Sundar Pichai’s remarks during the Alphabet earnings call for Q1 2026.",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q1-2026/",
+      "date": "2026-05-10T12:45:17.098Z",
+      "summary": "",
+      "category": "Company",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Google Health",
+      "url": "https://blog.google/products-and-platforms/products/google-health/",
+      "date": "2026-05-10T12:45:17.098Z",
+      "summary": "",
+      "category": "Products",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
     {
       "title": "The State of AI: A Look at What's Next",
       "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-05-10T09:23:04.415Z",
+      "date": "2026-05-10T12:45:06.219Z",
       "summary": "An in-depth analysis of the current AI landscape and future trends.",
       "category": "AI Analysis",
       "source": "Every.to",
       "source_name": "every"
-    },
-    {
-      "title": "2连板通鼎互联：海南康宁仅作为公司的光棒供应商 不存在其他合作模式",
-      "date": "Sun, 10 May 2026 08:14:41 GMT",
-      "summary": "5月10日，通鼎互联公告称，公司股票于2026年5月6日至8日连续三个交易日收盘价格涨幅偏离值累计超过20%，构成异常波动。公司注意到近期市场对光纤光缆行业关注度较高，光纤产品短期价格波动的可持续性具有不确定性，对公司未来业绩的影响需结合未来市场环境及公司业务开展情况进行综合判断，同样存在不确定性。公司用于光纤生产的原材料光纤预制棒（以下简称“光棒”），主要由康宁（海南）光通信有限公司提供。截至目前，海南康宁仅作为公司的光棒供应商，不存在其他合作模式。目前光纤市场景气度同比提升，公司将根据市场需求适当增加产能释放。但光纤复产及扩产需要综合考虑光纤市场价格、供需关系、光棒的供给能力等多方面因素。相关复产及扩产如达到信息披露标准，公司将依据相关规定进行披露。重点提示，如后续市场环境发生变化，存在光纤价格下跌及供需关系变化的风险，请投资者注意风险。（财联社）",
-      "url": "https://36kr.com/newsflashes/3803199588114181?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "宇环数控：不生产航空航天产品的零部件",
-      "date": "Sun, 10 May 2026 08:13:59 GMT",
-      "summary": "5月10日，宇环数控公告称，公司股票连续三个交易日(5月6日至5月8日)收盘价格涨幅偏离值累计超过20%，属于股票交易异常波动。公司不生产航空航天产品的零部件。公司主要产品为数控磨削设备、拉削设备等通用机床设备，公司不生产航空航天产品的零部件。公司产品未应用于商业航天领域，部分产品间接应用于航空航天领域，且收入占比较小，对公司业绩的影响程度较小。2026年一季度公司产品间接用于航空航天领域的营业收入为367.26万元，占2026年一季度营业收入比重不足4%。公司产品应用于航空航天领域的业务发展具有较大的不确定性。公司不生产机器人的零部件。公司主要产品为数控磨削设备、拉削设备等通用机床设备，公司不生产机器人的零部件，公司产品在机器人领域的收入占比较小，对公司业绩的影响程度较小。2026年一季度公司产品在机器人领域的营业收入为257.87万元，占2026年一季度营业收入比重不足3%。公司目前无机器人行业的重大在手订单，公司产品应用于机器人领域的业务发展具有较大的不确定性，请投资者审慎决策，注意投资风险。（财联社）",
-      "url": "https://36kr.com/newsflashes/3803198906392067?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "泰坦股份：高端电子布喷气织机尚处于研发阶段 未形成任何销售收入",
-      "date": "Sun, 10 May 2026 08:13:21 GMT",
-      "summary": "5月10日，泰坦股份公告称，公司股票连续3个交易日收盘价格涨幅偏离值累计超过20%，属于异常波动。公司关注到近期电子布织机概念受市场关注度较高。截至目前，公司高端电子布喷气织机尚处于研发阶段，未形成任何销售收入，亦存在研发进展不及预期等风险，特别提醒广大投资者，注意投资风险，理性决策，审慎投资。（财联社）",
-      "url": "https://36kr.com/newsflashes/3803198288453384?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "复星医药：控股子公司药品新增适应症获欧盟批准",
-      "date": "Sun, 10 May 2026 08:12:24 GMT",
-      "summary": "复星医药公告，近日，公司控股子公司上海复宏汉霖生物技术股份有限公司及其控股子公司自主研发的斯鲁利单抗注射液（欧盟商品名：Hetronifly®）的如下两项新增适应症获欧盟委员会批准：1、联合氟尿嘧啶类及铂类化疗，适用于PD-L1综合阳性评分(CPS)≥5、不可切除的局部晚期、复发或转移性食管鳞状细胞癌（ESCC）成人患者的一线治疗；2、联合卡铂与培美曲塞，适用于EGFR基因突变阴性、ALK或ROS1阴性的不可手术切除的局部晚期或转移性非鳞状非小细胞肺癌（nsNSCLC）成人患者的一线治疗。据此，该等新增适应症已于所有欧盟成员国及冰岛、列支敦士登和挪威（分别为欧洲经济区国家）获得批准。（第一财经）",
-      "url": "https://36kr.com/newsflashes/3803197347356417?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "2025年度全国秋粮收购超3.38亿吨",
-      "date": "Sun, 10 May 2026 07:25:31 GMT",
-      "summary": "5月10日，国家粮食和物资储备局最新发布数据显示，2025年度秋粮旺季收购于今年4月底结束，全国各类粮食经营主体累计收购秋粮超3.38亿吨，为近年来较高水平。收购总体呈现进度快、购销活、价格涨等特点。据初步统计，累计收购中晚稻1.03亿吨、玉米2.22亿吨、大豆1299万吨。河南、湖南、黑龙江3省启动中晚稻最低收购价执行预案，累计收购最低收购价中晚稻418万吨。2026年夏粮收购即将展开，国家粮食和物资储备局将加强对夏粮收购形势的分析研判，指导各地和有关企业提前制定收购方案，扎实做好夏粮收购工作准备，全力维护粮食市场平稳运行，促进粮食价格保持在合理水平。 (新华社)",
-      "url": "https://36kr.com/newsflashes/3803151259966977?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "算力、绿能协同悄然提速",
-      "date": "Sun, 10 May 2026 07:24:47 GMT",
-      "summary": "5月10日，2026年，算电协同被写入政府工作报告，成为社会关注的热词。“十五五”规划纲要也明确提出，推动绿色电力与算力协同布局。记者近日走访了解到，内蒙古、宁夏、贵州等新能源富集地区，通过布局建设源网荷储一体化、绿电直连等重点项目，充分挖掘西部地区就地消纳潜力，促进新能源与算力设施的协同规划布局。一场算力和绿能的“双向奔赴”正在悄然提速。 (新华社)",
-      "url": "https://36kr.com/newsflashes/3803150542675465?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
     },
     {
       "title": "韩国人形机器人皈依我佛",
@@ -88,6 +234,15 @@
       "source_name": "solidot"
     },
     {
+      "title": "How Startups Are Using AI to Disrupt Industries",
+      "url": "https://every.to/source-code/ai-startups",
+      "date": "2026-05-09T12:45:06.219Z",
+      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
+      "category": "Source Code",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
       "title": "Linux 基金会 2.95% 的预算投入在 Linux",
       "date": "Sat, 09 May 2026 11:32:57 GMT",
       "summary": "根据 Linux 基金会公布的 2025 年年度报告，去年它在 Linux 内核项目上的开支为 841 万美元，占到了总预算的 2.95%，其中 Linux 内核作者 Linus Torvalds 薪水大约为 150 万美元（其中包括百万美元的“其它”收入，该收入未明确定义）。Linux 基金会其实是一个行业协会，并非公益性非营利组织，它的资金来自于科技巨头的赞助，从董事会成员的构成就可以看出，它的董事来自索尼、华为、OpenAI、高通、三星、微软、甲骨文、Google 和 Meta 等。Linux 基金会托管了大约 1500 个开源项目，Linux 内核也不是最大的项目，它在区块链上支出占到了总预算的 4%。",
@@ -106,31 +261,13 @@
       "source_name": "solidot"
     },
     {
-      "title": "How Startups Are Using AI to Disrupt Industries",
-      "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-05-09T09:23:04.415Z",
-      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
-      "category": "Source Code",
+      "title": "The Future of Work in an AI-Driven World",
+      "url": "https://every.to/context-window/future-of-work",
+      "date": "2026-05-08T12:45:06.219Z",
+      "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
+      "category": "Context Window",
       "source": "Every.to",
       "source_name": "every"
-    },
-    {
-      "title": "法国对马斯克及其 X 平台展开刑事调查",
-      "date": "Sat, 09 May 2026 07:46:25 GMT",
-      "summary": "法国检方对马斯克（Elon Musk）及其 X 平台展开刑事调查。法国执法部门三个月前搜查了 X 位于巴黎的办公室，传唤马斯克接受讯问。检方原计划于今年 4 月约谈马斯克及前 X CEO Linda Yaccarino，但两人都未现身。 现在法国当局正试图以刑事指控相威胁，强制他们到场接受讯问。除未成年人色情图像外，调查还涉及 Grok 传播否认纳粹大屠杀的言论以及深度伪造色情。检方称，如果马斯克和 Yaccarino 再次缺席他们将面临缺席起诉。",
-      "url": "https://www.solidot.org/story?sid=84253",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "爆发汉坦病毒疫情的豪华游轮",
-      "date": "Sat, 09 May 2026 07:00:09 GMT",
-      "summary": "悬挂荷兰国旗的豪华游轮 MV Hondius 于 2026 年 4 月 1 日从阿根廷 Ushuaia 启航，目前正在西非沿岸航行。游轮上爆发的汉坦病毒疫情引发了广泛关注，至今共报告了 8 个病例，有 3 人死亡，其余 147 名乘客和船员未出现症状。西班牙同意为这艘游轮提供援助，它目前正从佛得角航行西班牙的 Canary 岛。卫生官员和传染病专家试图消除公众的恐慌，强调船上的疫情对外界的风险很低，WHO 的 Maria Van Kerkhove 称，这不是新冠病毒，也不是流感，它的传播方式截然不同。美国 CDC 也声明称美国公众面临的风险极低。汉坦病毒是一个庞大的家族，有旧世界汉坦病毒，还有新大陆汉坦病毒，游轮上传播的是主要分布于阿根廷的 Andes 病毒（ANDV）。人类主要是通过接触啮齿动物的排泄物感染汉坦病毒，人与人传播非常罕见，而 ANDV 是唯一的例外。ANDV 的人际传播需要密切且长时间的接触，潜伏期约 7-42 天。目前建议对可能接触过病毒的病例进行 42 天的隔离或主动监测。",
-      "url": "https://www.solidot.org/story?sid=84252",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
     },
     {
       "title": "Running Codex safely at OpenAI",
@@ -142,15 +279,6 @@
       "source_name": "openai"
     },
     {
-      "title": "The Future of Work in an AI-Driven World",
-      "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-05-08T09:23:04.415Z",
-      "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
       "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
       "date": "Thu, 07 May 2026 13:00:00 GMT",
       "summary": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
@@ -158,6 +286,15 @@
       "category": "Security",
       "source": "OpenAI News",
       "source_name": "openai"
+    },
+    {
+      "title": "Building AI Products: Lessons from the Trenches",
+      "url": "https://every.to/p/building-ai-products",
+      "date": "2026-05-07T12:45:06.219Z",
+      "summary": "Practical insights from builders creating AI-powered products.",
+      "category": "Product",
+      "source": "Every.to",
+      "source_name": "every"
     },
     {
       "title": "Parloa builds service agents customers want to talk to",
@@ -176,15 +313,6 @@
       "category": "Product",
       "source": "OpenAI News",
       "source_name": "openai"
-    },
-    {
-      "title": "Building AI Products: Lessons from the Trenches",
-      "url": "https://every.to/p/building-ai-products",
-      "date": "2026-05-07T09:23:04.415Z",
-      "summary": "Practical insights from builders creating AI-powered products.",
-      "category": "Product",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "Testing ads in ChatGPT",
@@ -207,7 +335,7 @@
     {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-05-06T09:23:04.415Z",
+      "date": "2026-05-06T12:45:06.219Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -216,7 +344,7 @@
     {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-05-05T09:23:04.415Z",
+      "date": "2026-05-05T12:45:06.219Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
