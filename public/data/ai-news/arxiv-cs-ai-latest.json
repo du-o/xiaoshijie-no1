@@ -1,71 +1,63 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-05-12T03:46:49.143Z",
+  "fetch_time": "2026-05-12T06:35:43.058Z",
   "articles": [
     {
-      "title": "GraphDC: A Divide-and-Conquer Multi-Agent System for Scalable Graph Algorithm Reasoning",
-      "date": "Mon, 11 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.06671v1 Announce Type: new Abstract: Large Language Models (LLMs) have demonstrated strong potential for many mathematical problems. However, their performance on graph algorithmic tasks is still unsatisfying, since graphs are naturally more complex in topology and often require systematic multi-step reasoning, especially on larger graphs. Motivated by this gap, we propose GraphDC, a Divide-and-Conquer multi-agent framework for scalable graph algorithm reasoning. Specifically, inspire",
-      "url": "https://arxiv.org/abs/2605.06671",
+      "title": "Where Reliability Lives in Vision-Language Models: A Mechanistic Study of Attention, Hidden States, and Causal Circuits",
+      "date": "Tue, 12 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.08200v1 Announce Type: new Abstract: A pervasive intuition holds that vision-language models (VLMs) are most trustworthy when their attention maps look sharp: concentrated attention on the queried region should imply a confident, calibrated answer. We test this Attention-Confidence Assumption directly. We instrument three open-weight VLM families (LLaVA-1.5, PaliGemma, Qwen2-VL; 3-7B parameters) with a unified mechanistic pipeline -- the VLM Reliability Probe (VRP) -- that compares at",
+      "url": "https://arxiv.org/abs/2605.08200",
       "category": [
         "cs.AI",
-        "cs.MA"
-      ]
-    },
-    {
-      "title": "More Thinking, More Bias: Length-Driven Position Bias in Reasoning Models",
-      "date": "Mon, 11 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.06672v1 Announce Type: new Abstract: Chain-of-thought (CoT) reasoning and reasoning-tuned models such as DeepSeek-R1 are commonly assumed to reduce shallow heuristic biases by thinking carefully. We test this on position bias in multiple-choice QA and find a different story: within any reasoning-capable model, per-question position bias scales with the length of the reasoning trajectory. Across thirteen reasoning-mode configurations (two R1-distilled 7-8B models, two base models promp",
-      "url": "https://arxiv.org/abs/2605.06672",
-      "category": [
-        "cs.AI",
-        "cs.CL",
+        "cs.CV",
         "cs.LG"
       ]
     },
     {
-      "title": "Fast and Effective Redistricting Optimization via Composite-Move Tabu Search",
-      "date": "Mon, 11 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.06682v1 Announce Type: new Abstract: Spatial redistricting is a practical combinatorial optimization problem that demands high-quality solutions, rapid turnaround, and flexibility to accommodate multi-criteria objectives and interactive refinement. A central challenge is the contiguity constraint: enforcing contiguity in integer-programming or heuristic search can severely shrink the feasible neighborhood, weaken exploration, and trap the search in poor local optima. We introduce a co",
-      "url": "https://arxiv.org/abs/2605.06682",
+      "title": "Spatial Priming Outperforms Semantic Prompting: A Grid-Based Approach to Improving LLM Accuracy on Chart Data Extraction",
+      "date": "Tue, 12 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.08220v1 Announce Type: new Abstract: The automated extraction of data from scientific charts is a critical task for large-scale literature analysis. While multimodal Large Language Models (LLMs) show promise, their accuracy on non-standardized charts remains a challenge. This raises a key research question: what is the most effective strategy to improve model performance (high-level semantic priming) or low-level spatial priming? This paper presents a comparative investigation into th",
+      "url": "https://arxiv.org/abs/2605.08220",
       "category": [
         "cs.AI",
-        "cs.CY"
+        "cs.CE",
+        "cs.CL",
+        "cs.CV",
+        "cs.SE"
       ]
     },
     {
-      "title": "State Representation and Termination for Recursive Reasoning Systems",
-      "date": "Mon, 11 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.06690v1 Announce Type: new Abstract: Recursive reasoning systems alternate between acquiring new evidence and refining an accumulated understanding. Two design choices are typically left implicit: how to represent the evolving reasoning state, and when to stop iterating. This paper addresses both. We represent the reasoning state as an epistemic state graph encoding extracted claims, evidential relations, open questions, and confidence weights. We define the order-gap as the distance ",
-      "url": "https://arxiv.org/abs/2605.06690",
+      "title": "Auto-Rubric as Reward: From Implicit Preferences to Explicit Multimodal Generative Criteria",
+      "date": "Tue, 12 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.08354v1 Announce Type: new Abstract: Aligning multimodal generative models with human preferences demands reward signals that respect the compositional, multi-dimensional structure of human judgment. Prevailing RLHF approaches reduce this structure to scalar or pairwise labels, collapsing nuanced preferences into opaque parametric proxies and exposing vulnerabilities to reward hacking. While recent Rubrics-as-Reward (RaR) methods attempt to recover this structure through explicit crit",
+      "url": "https://arxiv.org/abs/2605.08354",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Embeddings for Preferences, Not Semantics",
+      "date": "Tue, 12 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.08360v1 Announce Type: new Abstract: Modern AI is opening the door to collective decision-making in which participants express their views as free-form text rather than voting on a fixed set of candidates. A natural idea is to embed these opinions in a vector space so that the substantial literature on facility location problems and fair clustering can be brought to bear. But standard text embeddings measure semantic similarity, whereas distances in facility location problems and fair",
+      "url": "https://arxiv.org/abs/2605.08360",
+      "category": "cs.AI"
+    },
+    {
+      "title": "On Distinguishing Capability Elicitation from Capability Creation in Post-Training: A Free-Energy Perspective",
+      "date": "Tue, 12 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.08368v1 Announce Type: new Abstract: Debates about large language model post-training often treat supervised fine-tuning (SFT) as imitation and reinforcement learning (RL) as discovery. But this distinction is too coarse. What matters is whether a training procedure increases the probability of behaviors the pretrained model could already produce, or whether it changes what the model can practically reach. We argue that post-training research should distinguish between capability elic",
+      "url": "https://arxiv.org/abs/2605.08368",
       "category": [
         "cs.AI",
-        "cs.CL",
+        "cond-mat.stat-mech",
         "cs.LG"
       ]
     },
     {
-      "title": "Hidden Coalitions in Multi-Agent AI: A Spectral Diagnostic from Internal Representations",
-      "date": "Mon, 11 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.06696v1 Announce Type: new Abstract: Collections of interacting AI agents can form coalitions, creating emergent group-level organization that is critical for AI safety and alignment. However, observing agent behavior alone is often insufficient to distinguish genuine informational coupling from spurious similarity, as consequential coalitions may form at the level of internal representations before any overt behavioral change is apparent. Here, we introduce a practical method for det",
-      "url": "https://arxiv.org/abs/2605.06696",
-      "category": [
-        "cs.AI",
-        "cs.LG",
-        "cs.MA"
-      ]
-    },
-    {
-      "title": "CASCADE: Case-Based Continual Adaptation for Large Language Models During Deployment",
-      "date": "Mon, 11 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.06702v1 Announce Type: new Abstract: Large language models (LLMs) have become a central foundation of modern artificial intelligence, yet their lifecycle remains constrained by a rigid separation between training and deployment, after which learning effectively ceases. This limitation contrasts with natural intelligence, which continually adapts through interaction with its environment. In this paper, we formalise deployment-time learning (DTL) as the third stage in the LLM lifecycle ",
-      "url": "https://arxiv.org/abs/2605.06702",
-      "category": [
-        "cs.AI",
-        "cs.CL",
-        "cs.LG"
-      ]
+      "title": "MemQ: Integrating Q-Learning into Self-Evolving Memory Agents over Provenance DAGs",
+      "date": "Tue, 12 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.08374v1 Announce Type: new Abstract: Episodic memory allows LLM agents to accumulate and retrieve experience, but current methods treat each memory independently, i.e., evaluating retrieval quality in isolation without accounting for the dependency chains through which memories enable the creation of future memories. We introduce MemQ, which applies TD($\\lambda$) eligibility traces to memory Q-values, propagating credit backward through a provenance DAG that records which memories wer",
+      "url": "https://arxiv.org/abs/2605.08374",
+      "category": "cs.AI"
     }
   ],
   "status": "success",
