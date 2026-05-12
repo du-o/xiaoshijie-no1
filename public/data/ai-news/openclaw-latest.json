@@ -1,8 +1,28 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-05-11T10:54:12.511Z",
+  "fetch_time": "2026-05-12T03:47:04.992Z",
   "articles": [
+    {
+      "title": "openclaw 2026.5.10-beta.5",
+      "date": "2026-05-11T16:38:39Z",
+      "summary": "\n### Changes\n\n- CI: add a non-blocking `plugin-inspector-advisory` artifact to Plugin Prerelease so release runs capture bundled plugin compatibility triage without changing the blocking gate.\n- Runti...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.10-beta.5",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.5.10-beta.5",
+      "downloadCount": 0
+    },
+    {
+      "title": "openclaw 2026.5.10-beta.4",
+      "date": "2026-05-11T16:04:13Z",
+      "summary": "\n### Changes\n\n- CI: add a non-blocking `plugin-inspector-advisory` artifact to Plugin Prerelease so release runs capture bundled plugin compatibility triage without changing the blocking gate.\n- Runti...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.10-beta.4",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.5.10-beta.4",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.5.10-beta.3",
       "date": "2026-05-11T03:28:30Z",
@@ -41,26 +61,6 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.5.9-beta.1",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.5.7",
-      "date": "2026-05-07T20:57:43Z",
-      "summary": "\n### Fixes\n\n- Release/plugin publishing: retry transient ClawHub CLI dependency install failures, keep preview-passing plugins publishable when one preview cell flakes, and verify every expected ClawH...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.7",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.5.7",
-      "downloadCount": 19541
-    },
-    {
-      "title": "openclaw 2026.5.6",
-      "date": "2026-05-06T17:51:03Z",
-      "summary": "## 2026.5.6\n\n### Fixes\n\n- Doctor/OpenAI Codex: revert the 2026.5.5 `doctor --fix` repair that rewrote valid `openai-codex/*` ChatGPT/Codex OAuth routes to `openai/*`, which could break OAuth-only GPT-...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.6",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.5.6",
       "downloadCount": 0
     }
   ],
