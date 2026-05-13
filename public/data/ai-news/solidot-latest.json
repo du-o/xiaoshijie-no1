@@ -1,8 +1,15 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-05-13T06:47:00.233Z",
+  "fetch_time": "2026-05-13T10:14:12.192Z",
   "articles": [
+    {
+      "title": "欧盟的浏览器选择屏为 Firefox 增加了数百万用户",
+      "date": "Wed, 13 May 2026 08:05:15 GMT",
+      "summary": "欧盟的 Digital Markets Act(DMA)强制要求苹果和 Google 向消费者提供浏览器选择屏，允许消费者选择非默认浏览器如 Safari 或 Chrome。Mozilla 估计，浏览器选择屏为它带来了大约 600 万用户，其中 iOS 平台上的用户数增长了 113%，而 Android 只增加 12%。这一差异可能与苹果和 Google 实现浏览器选择屏的方式有关：苹果用户在首次打开 Safari 时看到浏览器选择屏，而 Android 设备则是在首次启动或恢复出厂设置后。Mozilla 称，用户留存率比 DMA 实施前提高了五倍。浏览器开发商 Aloha、Brave、Opera 和 Vivaldi 此前也披露 DMA 强制实施后的最初几天和几周内，用户数量都出现了显著增长。Mozilla 希望 DMA 也应适用于桌面操作系统，指责微软使用欺骗性的设计策略推广其 Edge 浏览器。",
+      "url": "https://www.solidot.org/story?sid=84285",
+      "category": ""
+    },
     {
       "title": "Google 宣布以 AI 为核心的新笔电 Googlebook",
       "date": "Wed, 13 May 2026 06:13:37 GMT",
@@ -36,13 +43,6 @@
       "date": "Tue, 12 May 2026 11:53:02 GMT",
       "summary": "欧洲肥胖大会公布的一项研究比较了 1990-2022 年间 33 个经合组织国家的工作模式和肥胖率。结果发现，美国、墨西哥和哥伦比亚等年工作时间较长的国家肥胖率也更高，即使北欧国家的平均能量和脂肪摄入量高于拉美国家。年工作时间减少 1% 与肥胖率下降 0.16% 相关。研究人员认为，工作压力和缺乏锻炼时间可能是工作时长更多的人容易发胖的原因。研究主要作者、澳大利亚昆士兰大学的 Pradeepa Korale-Gedara 博士表示，压力增加会提高皮质醇激素水平，导致人们在无法消耗能量的工作中储存更多脂肪。研究人员强调这一发现是相关性的，并不代表因果关系。但它促使专家再次呼吁推行四天工作制，四天工作制有助于人们在饮食、运动和睡眠方面做出更健康的选择，有助于促进整个社会的健康。",
       "url": "https://www.solidot.org/story?sid=84278",
-      "category": ""
-    },
-    {
-      "title": "Digg 再次尝试重启，将转向 AI 新闻聚合",
-      "date": "Tue, 12 May 2026 10:26:05 GMT",
-      "summary": "Digg 今年一月初上线了一个 Reddit 克隆版本，提供类似的基于兴趣的社区。但两个月后就宣布关闭，理由是机器人账号泛滥。现在 Digg 准备再次尝试重启，这一次是转向它曾经的模样：新闻聚合。Digg 向 Beta 测试用户展示了新网站的预览，目标是追踪某个领域最具影响力的声音，推送真正值得关注的新闻。AI 是 Digg 目前测试的领域，如果成功将扩展到其他主题。Digg 会实时从 X 抓取内容以判断讨论热点，同时还会进行情感分析、聚类分析和信号检测，判断哪些内容最重要。",
-      "url": "https://www.solidot.org/story?sid=84277",
       "category": ""
     }
   ],
