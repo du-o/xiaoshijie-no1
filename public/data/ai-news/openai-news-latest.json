@@ -1,8 +1,36 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-05-12T13:29:20.867Z",
+  "fetch_time": "2026-05-13T03:55:48.368Z",
   "articles": [
+    {
+      "title": "How finance teams use Codex",
+      "date": "Tue, 12 May 2026 15:00:00 GMT",
+      "summary": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
+      "url": "https://openai.com/academy/how-finance-teams-use-codex",
+      "category": "OpenAI Academy"
+    },
+    {
+      "title": "How NVIDIA engineers and researchers build with Codex",
+      "date": "Tue, 12 May 2026 00:00:00 GMT",
+      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+      "url": "https://openai.com/index/nvidia",
+      "category": ""
+    },
+    {
+      "title": "What Parameter Golf taught us about AI-assisted research",
+      "date": "Tue, 12 May 2026 00:00:00 GMT",
+      "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+      "url": "https://openai.com/index/what-parameter-golf-taught-us",
+      "category": "Research"
+    },
+    {
+      "title": "AutoScout24 scales engineering with AI-powered workflows",
+      "date": "Tue, 12 May 2026 00:00:00 GMT",
+      "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
+      "url": "https://openai.com/index/autoscout24",
+      "category": ""
+    },
     {
       "title": "How ChatGPT adoption broadened in early 2026",
       "date": "Mon, 11 May 2026 15:00:00 GMT",
@@ -11,39 +39,11 @@
       "category": ""
     },
     {
-      "title": "OpenAI Campus Network: Student club interest form",
-      "date": "Mon, 11 May 2026 10:00:00 GMT",
-      "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
-      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-      "category": "Company"
-    },
-    {
       "title": "How enterprises are scaling AI",
       "date": "Mon, 11 May 2026 10:00:00 GMT",
       "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
       "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
       "category": "Guides"
-    },
-    {
-      "title": "OpenAI launches DeployCo to help businesses build around intelligence",
-      "date": "Mon, 11 May 2026 06:00:00 GMT",
-      "summary": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
-      "url": "https://openai.com/index/openai-launches-the-deployment-company",
-      "category": "Company"
-    },
-    {
-      "title": "Running Codex safely at OpenAI",
-      "date": "Fri, 08 May 2026 12:30:00 GMT",
-      "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
-      "url": "https://openai.com/index/running-codex-safely",
-      "category": "Security"
-    },
-    {
-      "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
-      "date": "Thu, 07 May 2026 13:00:00 GMT",
-      "summary": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
-      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
-      "category": "Security"
     }
   ],
   "status": "success",

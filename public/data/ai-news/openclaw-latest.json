@@ -1,8 +1,38 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-05-12T13:29:37.469Z",
+  "fetch_time": "2026-05-13T03:56:02.737Z",
   "articles": [
+    {
+      "title": "openclaw 2026.5.12-beta.3",
+      "date": "2026-05-12T23:38:26Z",
+      "summary": "\n### Fixes\n\n- Codex harness: keep auth-profile-backed media tools such as `image_generate` available when OpenAI auth lives in the agent's auth-profile store instead of environment variables.\n- WhatsA...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.12-beta.3",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.5.12-beta.3",
+      "downloadCount": 0
+    },
+    {
+      "title": "openclaw 2026.5.12-beta.2",
+      "date": "2026-05-12T22:15:42Z",
+      "summary": "\n### Fixes\n\n- Codex harness: keep auth-profile-backed media tools such as `image_generate` available when OpenAI auth lives in the agent's auth-profile store instead of environment variables.\n- WhatsA...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.12-beta.2",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.5.12-beta.2",
+      "downloadCount": 0
+    },
+    {
+      "title": "openclaw 2026.5.12-beta.1",
+      "date": "2026-05-12T17:10:10Z",
+      "summary": "\n### Fixes\n\n- fix(memory-wiki): require admin scope for ingest [AI]. (#80897) Thanks @pgondhi987.\n- memory-wiki: require write scope for Obsidian search [AI]. (#80904) Thanks @pgondhi987.\n- Build: ski...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.12-beta.1",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.5.12-beta.1",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.5.10-beta.5",
       "date": "2026-05-11T16:38:39Z",
@@ -31,36 +61,6 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.5.10-beta.3",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.5.10-beta.2",
-      "date": "2026-05-10T18:18:58Z",
-      "summary": "\n### Changes\n\n- QA/Mantis: add Telegram live PR evidence automation with Convex-leased credentials, Crabbox transcript capture, motion GIF previews, and inline PR comments.\n- QA/Mantis: add a Telegram...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.10-beta.2",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.5.10-beta.2",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.5.10-beta.1",
-      "date": "2026-05-10T14:02:46Z",
-      "summary": "## 2026.5.10\n\n### Changes\n\n- QA/Mantis: add Telegram live PR evidence automation with Convex-leased credentials, Crabbox transcript capture, motion GIF previews, and inline PR comments.\n- QA/Mantis: a...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.10-beta.1",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.5.10-beta.1",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.5.9-beta.1",
-      "date": "2026-05-09T13:32:02Z",
-      "summary": "\n### Changes\n\n- Chat commands: add `/think default` and `/fast default` to clear session overrides and inherit configured/provider defaults. (#79385) Thanks @VACInc.\n- Dependencies: refresh workspace ...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.9-beta.1",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.5.9-beta.1",
       "downloadCount": 0
     }
   ],
