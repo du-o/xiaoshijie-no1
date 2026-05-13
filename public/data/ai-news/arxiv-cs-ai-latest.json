@@ -1,11 +1,11 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-05-13T03:55:48.620Z",
+  "fetch_time": "2026-05-13T06:46:55.977Z",
   "articles": [
     {
       "title": "Where Reliability Lives in Vision-Language Models: A Mechanistic Study of Attention, Hidden States, and Causal Circuits",
-      "date": "Tue, 12 May 2026 04:00:00 GMT",
+      "date": "Wed, 13 May 2026 04:00:00 GMT",
       "summary": "arXiv:2605.08200v1 Announce Type: new Abstract: A pervasive intuition holds that vision-language models (VLMs) are most trustworthy when their attention maps look sharp: concentrated attention on the queried region should imply a confident, calibrated answer. We test this Attention-Confidence Assumption directly. We instrument three open-weight VLM families (LLaVA-1.5, PaliGemma, Qwen2-VL; 3-7B parameters) with a unified mechanistic pipeline -- the VLM Reliability Probe (VRP) -- that compares at",
       "url": "https://arxiv.org/abs/2605.08200",
       "category": [
@@ -16,7 +16,7 @@
     },
     {
       "title": "Spatial Priming Outperforms Semantic Prompting: A Grid-Based Approach to Improving LLM Accuracy on Chart Data Extraction",
-      "date": "Tue, 12 May 2026 04:00:00 GMT",
+      "date": "Wed, 13 May 2026 04:00:00 GMT",
       "summary": "arXiv:2605.08220v1 Announce Type: new Abstract: The automated extraction of data from scientific charts is a critical task for large-scale literature analysis. While multimodal Large Language Models (LLMs) show promise, their accuracy on non-standardized charts remains a challenge. This raises a key research question: what is the most effective strategy to improve model performance (high-level semantic priming) or low-level spatial priming? This paper presents a comparative investigation into th",
       "url": "https://arxiv.org/abs/2605.08220",
       "category": [
@@ -29,21 +29,21 @@
     },
     {
       "title": "Auto-Rubric as Reward: From Implicit Preferences to Explicit Multimodal Generative Criteria",
-      "date": "Tue, 12 May 2026 04:00:00 GMT",
+      "date": "Wed, 13 May 2026 04:00:00 GMT",
       "summary": "arXiv:2605.08354v1 Announce Type: new Abstract: Aligning multimodal generative models with human preferences demands reward signals that respect the compositional, multi-dimensional structure of human judgment. Prevailing RLHF approaches reduce this structure to scalar or pairwise labels, collapsing nuanced preferences into opaque parametric proxies and exposing vulnerabilities to reward hacking. While recent Rubrics-as-Reward (RaR) methods attempt to recover this structure through explicit crit",
       "url": "https://arxiv.org/abs/2605.08354",
       "category": "cs.AI"
     },
     {
       "title": "Embeddings for Preferences, Not Semantics",
-      "date": "Tue, 12 May 2026 04:00:00 GMT",
+      "date": "Wed, 13 May 2026 04:00:00 GMT",
       "summary": "arXiv:2605.08360v1 Announce Type: new Abstract: Modern AI is opening the door to collective decision-making in which participants express their views as free-form text rather than voting on a fixed set of candidates. A natural idea is to embed these opinions in a vector space so that the substantial literature on facility location problems and fair clustering can be brought to bear. But standard text embeddings measure semantic similarity, whereas distances in facility location problems and fair",
       "url": "https://arxiv.org/abs/2605.08360",
       "category": "cs.AI"
     },
     {
       "title": "On Distinguishing Capability Elicitation from Capability Creation in Post-Training: A Free-Energy Perspective",
-      "date": "Tue, 12 May 2026 04:00:00 GMT",
+      "date": "Wed, 13 May 2026 04:00:00 GMT",
       "summary": "arXiv:2605.08368v1 Announce Type: new Abstract: Debates about large language model post-training often treat supervised fine-tuning (SFT) as imitation and reinforcement learning (RL) as discovery. But this distinction is too coarse. What matters is whether a training procedure increases the probability of behaviors the pretrained model could already produce, or whether it changes what the model can practically reach. We argue that post-training research should distinguish between capability elic",
       "url": "https://arxiv.org/abs/2605.08368",
       "category": [
@@ -54,8 +54,8 @@
     },
     {
       "title": "MemQ: Integrating Q-Learning into Self-Evolving Memory Agents over Provenance DAGs",
-      "date": "Tue, 12 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.08374v1 Announce Type: new Abstract: Episodic memory allows LLM agents to accumulate and retrieve experience, but current methods treat each memory independently, i.e., evaluating retrieval quality in isolation without accounting for the dependency chains through which memories enable the creation of future memories. We introduce MemQ, which applies TD($\\lambda$) eligibility traces to memory Q-values, propagating credit backward through a provenance DAG that records which memories wer",
+      "date": "Wed, 13 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.08374v2 Announce Type: new Abstract: Episodic memory allows LLM agents to accumulate and retrieve experience, but current methods treat each memory independently, i.e., evaluating retrieval quality in isolation without accounting for the dependency chains through which memories enable the creation of future memories. We introduce MemQ, which applies TD($\\lambda$) eligibility traces to memory Q-values, propagating credit backward through a provenance DAG that records which memories wer",
       "url": "https://arxiv.org/abs/2605.08374",
       "category": "cs.AI"
     }
