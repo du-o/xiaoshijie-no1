@@ -1,8 +1,28 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-05-13T13:56:42.919Z",
+  "fetch_time": "2026-05-14T03:55:32.203Z",
   "articles": [
+    {
+      "title": "openclaw 2026.5.12-beta.6",
+      "date": "2026-05-13T21:00:40Z",
+      "summary": "\n### Fixes\n\n- iMessage: stop sending visible `<media:image>` placeholder text for media-only native image sends while preserving the internal echo key that prevents self-echo duplicate replies. (#8120...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.12-beta.6",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.5.12-beta.6",
+      "downloadCount": 0
+    },
+    {
+      "title": "openclaw 2026.5.12-beta.5",
+      "date": "2026-05-13T18:06:44Z",
+      "summary": "\n### Fixes\n\n- gateway: pass Talk session scope to resolver [AI]. (#81379) Thanks @pgondhi987.\n- Gateway protocol: require v4 clients and stream explicit chat `deltaText`/`replace` frames so SDK client...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.12-beta.5",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.5.12-beta.5",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.5.12-beta.4",
       "date": "2026-05-13T05:17:07Z",
@@ -41,26 +61,6 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.5.12-beta.1",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.5.10-beta.5",
-      "date": "2026-05-11T16:38:39Z",
-      "summary": "\n### Changes\n\n- CI: add a non-blocking `plugin-inspector-advisory` artifact to Plugin Prerelease so release runs capture bundled plugin compatibility triage without changing the blocking gate.\n- Runti...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.10-beta.5",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.5.10-beta.5",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.5.10-beta.4",
-      "date": "2026-05-11T16:04:13Z",
-      "summary": "\n### Changes\n\n- CI: add a non-blocking `plugin-inspector-advisory` artifact to Plugin Prerelease so release runs capture bundled plugin compatibility triage without changing the blocking gate.\n- Runti...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.10-beta.4",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.5.10-beta.4",
       "downloadCount": 0
     }
   ],
