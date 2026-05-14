@@ -1,7 +1,7 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-05-14T03:55:17.218Z",
+  "fetch_time": "2026-05-14T06:45:39.159Z",
   "articles": [
     {
       "title": "Building a safe, effective sandbox to enable Codex on Windows",
@@ -11,18 +11,18 @@
       "category": "Engineering"
     },
     {
+      "title": "Our response to the TanStack npm supply chain attack",
+      "date": "Wed, 13 May 2026 00:00:00 GMT",
+      "summary": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening defenses against evolving software supply chain threats.",
+      "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
+      "category": "Security"
+    },
+    {
       "title": "How finance teams use Codex",
       "date": "Tue, 12 May 2026 15:00:00 GMT",
       "summary": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
       "url": "https://openai.com/academy/how-finance-teams-use-codex",
       "category": "OpenAI Academy"
-    },
-    {
-      "title": "How NVIDIA engineers and researchers build with Codex",
-      "date": "Tue, 12 May 2026 00:00:00 GMT",
-      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
-      "url": "https://openai.com/index/nvidia",
-      "category": ""
     },
     {
       "title": "What Parameter Golf taught us about AI-assisted research",
@@ -39,10 +39,10 @@
       "category": ""
     },
     {
-      "title": "How ChatGPT adoption broadened in early 2026",
-      "date": "Mon, 11 May 2026 15:00:00 GMT",
-      "summary": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
-      "url": "https://openai.com/signals/research/2026q1-update",
+      "title": "How NVIDIA engineers and researchers build with Codex",
+      "date": "Tue, 12 May 2026 00:00:00 GMT",
+      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+      "url": "https://openai.com/index/nvidia",
       "category": ""
     }
   ],
