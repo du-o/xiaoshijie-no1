@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-05-14T06:45:55.436Z",
+  "fetch_time": "2026-05-14T10:07:10.765Z",
   "articles": [
+    {
+      "title": "openclaw 2026.5.12-beta.7",
+      "date": "2026-05-14T09:39:25Z",
+      "summary": "\n### Changes\n\n- Amazon Bedrock: externalize the Bedrock and Bedrock Mantle provider packages so core installs no longer pull AWS SDK dependencies unless those providers are installed.\n- Plugins: exter...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.12-beta.7",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.5.12-beta.7",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.5.12-beta.6",
       "date": "2026-05-13T21:00:40Z",
@@ -51,16 +61,6 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.5.12-beta.2",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.5.12-beta.1",
-      "date": "2026-05-12T17:10:10Z",
-      "summary": "\n### Fixes\n\n- fix(memory-wiki): require admin scope for ingest [AI]. (#80897) Thanks @pgondhi987.\n- memory-wiki: require write scope for Obsidian search [AI]. (#80904) Thanks @pgondhi987.\n- Build: ski...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.12-beta.1",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.5.12-beta.1",
       "downloadCount": 0
     }
   ],
