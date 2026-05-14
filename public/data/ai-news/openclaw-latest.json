@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-05-14T10:07:10.765Z",
+  "fetch_time": "2026-05-14T13:21:31.794Z",
   "articles": [
+    {
+      "title": "openclaw 2026.5.12-beta.8",
+      "date": "2026-05-14T11:16:04Z",
+      "summary": "\n### Changes\n\n- Amazon Bedrock: externalize the Bedrock and Bedrock Mantle provider packages so core installs no longer pull AWS SDK dependencies unless those providers are installed.\n- Plugins: exter...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.12-beta.8",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.5.12-beta.8",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.5.12-beta.7",
       "date": "2026-05-14T09:39:25Z",
@@ -51,16 +61,6 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.5.12-beta.3",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.5.12-beta.2",
-      "date": "2026-05-12T22:15:42Z",
-      "summary": "\n### Fixes\n\n- Codex harness: keep auth-profile-backed media tools such as `image_generate` available when OpenAI auth lives in the agent's auth-profile store instead of environment variables.\n- WhatsA...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.12-beta.2",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.5.12-beta.2",
       "downloadCount": 0
     }
   ],
