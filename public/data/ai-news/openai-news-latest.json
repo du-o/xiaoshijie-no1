@@ -1,8 +1,29 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-05-14T13:21:14.158Z",
+  "fetch_time": "2026-05-15T03:59:09.280Z",
   "articles": [
+    {
+      "title": "Sea's View on the Future of Agentic Software Development with Codex",
+      "date": "Thu, 14 May 2026 20:30:00 GMT",
+      "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
+      "url": "https://openai.com/index/sea-david-chen",
+      "category": ""
+    },
+    {
+      "title": "Work with Codex from anywhere",
+      "date": "Thu, 14 May 2026 13:00:00 GMT",
+      "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
+      "url": "https://openai.com/index/work-with-codex-from-anywhere",
+      "category": "Product"
+    },
+    {
+      "title": "Helping ChatGPT better recognize context in sensitive conversations",
+      "date": "Thu, 14 May 2026 00:00:00 GMT",
+      "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
+      "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+      "category": "Safety"
+    },
     {
       "title": "Building a safe, effective sandbox to enable Codex on Windows",
       "date": "Wed, 13 May 2026 11:00:00 GMT",
@@ -23,27 +44,6 @@
       "summary": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
       "url": "https://openai.com/academy/how-finance-teams-use-codex",
       "category": "OpenAI Academy"
-    },
-    {
-      "title": "What Parameter Golf taught us about AI-assisted research",
-      "date": "Tue, 12 May 2026 00:00:00 GMT",
-      "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
-      "url": "https://openai.com/index/what-parameter-golf-taught-us",
-      "category": "Research"
-    },
-    {
-      "title": "How NVIDIA engineers and researchers build with Codex",
-      "date": "Tue, 12 May 2026 00:00:00 GMT",
-      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
-      "url": "https://openai.com/index/nvidia",
-      "category": ""
-    },
-    {
-      "title": "AutoScout24 scales engineering with AI-powered workflows",
-      "date": "Tue, 12 May 2026 00:00:00 GMT",
-      "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
-      "url": "https://openai.com/index/autoscout24",
-      "category": ""
     }
   ],
   "status": "success",
