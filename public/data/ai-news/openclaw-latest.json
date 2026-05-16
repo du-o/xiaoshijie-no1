@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-05-16T09:22:43.776Z",
+  "fetch_time": "2026-05-16T12:50:24.236Z",
   "articles": [
+    {
+      "title": "openclaw 2026.5.16-beta.2",
+      "date": "2026-05-16T11:29:05Z",
+      "summary": "\n### Changes\n\n- Providers/xAI: add xAI Grok OAuth login for SuperGrok subscribers, letting `xai/*` models and xAI media/tool providers authenticate without `XAI_API_KEY`.\n- CLI/cron: add `openclaw cro...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.16-beta.2",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.5.16-beta.2",
+      "downloadCount": 12
+    },
     {
       "title": "openclaw 2026.5.16-beta.1",
       "date": "2026-05-16T01:33:32Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.5.16-beta.1",
-      "downloadCount": 40
+      "downloadCount": 50
     },
     {
       "title": "openclaw 2026.5.14-beta.2",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.5.14-beta.2",
-      "downloadCount": 70
+      "downloadCount": 72
     },
     {
       "title": "openclaw 2026.5.14-beta.1",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.5.12",
-      "downloadCount": 5455
+      "downloadCount": 6448
     },
     {
       "title": "openclaw 2026.5.12-beta.8",
@@ -51,16 +61,6 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.5.12-beta.8",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.5.12-beta.7",
-      "date": "2026-05-14T09:39:25Z",
-      "summary": "\n### Changes\n\n- Amazon Bedrock: externalize the Bedrock and Bedrock Mantle provider packages so core installs no longer pull AWS SDK dependencies unless those providers are installed.\n- Plugins: exter...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.12-beta.7",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.5.12-beta.7",
       "downloadCount": 0
     }
   ],
