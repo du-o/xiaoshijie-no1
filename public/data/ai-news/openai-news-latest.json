@@ -1,8 +1,22 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-05-15T13:20:18.602Z",
+  "fetch_time": "2026-05-16T03:40:15.255Z",
   "articles": [
+    {
+      "title": "A new personal finance experience in ChatGPT",
+      "date": "Fri, 15 May 2026 00:00:00 GMT",
+      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+      "url": "https://openai.com/index/personal-finance-chatgpt",
+      "category": "Product"
+    },
+    {
+      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "date": "Fri, 15 May 2026 00:00:00 GMT",
+      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+      "url": "https://openai.com/index/databricks",
+      "category": ""
+    },
     {
       "title": "Sea's View on the Future of Agentic Software Development with Codex",
       "date": "Thu, 14 May 2026 20:30:00 GMT",
@@ -30,20 +44,6 @@
       "summary": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
       "url": "https://openai.com/index/building-codex-windows-sandbox",
       "category": "Engineering"
-    },
-    {
-      "title": "Our response to the TanStack npm supply chain attack",
-      "date": "Wed, 13 May 2026 00:00:00 GMT",
-      "summary": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening defenses against evolving software supply chain threats.",
-      "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
-      "category": "Security"
-    },
-    {
-      "title": "How finance teams use Codex",
-      "date": "Tue, 12 May 2026 15:00:00 GMT",
-      "summary": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
-      "url": "https://openai.com/academy/how-finance-teams-use-codex",
-      "category": "OpenAI Academy"
     }
   ],
   "status": "success",
