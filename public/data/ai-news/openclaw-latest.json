@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-05-17T03:59:53.102Z",
+  "fetch_time": "2026-05-17T06:43:34.559Z",
   "articles": [
+    {
+      "title": "openclaw 2026.5.16-beta.4",
+      "date": "2026-05-17T04:22:04Z",
+      "summary": "\n### Changes\n\n- Security/audit: add `security.audit.suppressions` for intentionally accepted audit findings, keeping suppressed matches out of the active summary while preserving them in JSON output w...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.16-beta.4",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.5.16-beta.4",
+      "downloadCount": 6
+    },
     {
       "title": "openclaw 2026.5.16-beta.3",
       "date": "2026-05-16T19:46:18Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.5.16-beta.3",
-      "downloadCount": 30
+      "downloadCount": 32
     },
     {
       "title": "openclaw 2026.5.16-beta.2",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.5.16-beta.2",
-      "downloadCount": 52
+      "downloadCount": 53
     },
     {
       "title": "openclaw 2026.5.16-beta.1",
@@ -52,16 +62,6 @@
       "author": "github-actions[bot]",
       "tagName": "v2026.5.14-beta.1",
       "downloadCount": 102
-    },
-    {
-      "title": "openclaw 2026.5.12",
-      "date": "2026-05-14T18:28:04Z",
-      "summary": "### Highlights\n\n- Leaner installs: WhatsApp, Slack, Amazon Bedrock, Anthropic Vertex, and related provider/plugin dependency cones moved out of the core runtime so installs only pull what you use.\n- T...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.12",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.5.12",
-      "downloadCount": 9091
     }
   ],
   "status": "success",
