@@ -1,7 +1,7 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-05-17T12:46:13.100Z",
+  "fetch_time": "2026-05-18T04:12:41.378Z",
   "articles": [
     {
       "title": "烂尾楼带来了巨大的资源和社会经济成本",
@@ -46,6 +46,6 @@
       "category": ""
     }
   ],
-  "status": "success",
-  "error": null
+  "status": "error",
+  "error": "read ECONNRESET"
 }

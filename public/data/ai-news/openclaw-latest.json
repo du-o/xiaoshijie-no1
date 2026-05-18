@@ -1,8 +1,28 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-05-17T12:46:33.692Z",
+  "fetch_time": "2026-05-18T04:12:56.431Z",
   "articles": [
+    {
+      "title": "openclaw 2026.5.16-beta.6",
+      "date": "2026-05-18T01:09:36Z",
+      "summary": "\n### Changes\n\n- Mac app: redesign Settings pages with consistent card layouts, cached navigation, cleaner permissions/voice/skills/cron/exec/debug panes, and steadier spacing around the native sidebar...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.16-beta.6",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.5.16-beta.6",
+      "downloadCount": 17
+    },
+    {
+      "title": "openclaw 2026.5.16-beta.5",
+      "date": "2026-05-17T17:59:02Z",
+      "summary": "\n### Changes\n\n- Mac app: redesign Settings pages with consistent card layouts, cached navigation, cleaner permissions/voice/skills/cron/exec/debug panes, and steadier spacing around the native sidebar...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.16-beta.5",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.5.16-beta.5",
+      "downloadCount": 32
+    },
     {
       "title": "openclaw 2026.5.16-beta.4",
       "date": "2026-05-17T04:22:04Z",
@@ -11,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.5.16-beta.4",
-      "downloadCount": 36
+      "downloadCount": 68
     },
     {
       "title": "openclaw 2026.5.16-beta.3",
@@ -21,7 +41,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.5.16-beta.3",
-      "downloadCount": 42
+      "downloadCount": 50
     },
     {
       "title": "openclaw 2026.5.16-beta.2",
@@ -31,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.5.16-beta.2",
-      "downloadCount": 55
+      "downloadCount": 61
     },
     {
       "title": "openclaw 2026.5.16-beta.1",
@@ -41,27 +61,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.5.16-beta.1",
-      "downloadCount": 55
-    },
-    {
-      "title": "openclaw 2026.5.14-beta.2",
-      "date": "2026-05-15T11:11:27Z",
-      "summary": "\n### Changes\n\n- Channels/SDK: add normalized command turn facts to channel turn construction and expose command-turn helpers for plugin inbound contexts.\n- Agents/config: support per-agent bootstrap p...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.14-beta.2",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.5.14-beta.2",
-      "downloadCount": 76
-    },
-    {
-      "title": "openclaw 2026.5.14-beta.1",
-      "date": "2026-05-14T21:31:13Z",
-      "summary": "\n### Changes\n\n- Dependencies: route root ambient Node proxy agents through `@openclaw/proxyline` and drop root `proxy-agent`, `https-proxy-agent`, and `minimatch` dependencies.\n- Control UI/i18n: add ...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.14-beta.1",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.5.14-beta.1",
-      "downloadCount": 103
+      "downloadCount": 58
     }
   ],
   "status": "success",
