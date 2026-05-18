@@ -1,7 +1,7 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-05-18T04:12:34.151Z",
+  "fetch_time": "2026-05-18T08:02:30.265Z",
   "articles": [
     {
       "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
@@ -11,10 +11,17 @@
       "category": "Global Affairs"
     },
     {
-      "title": "How business operations teams use Codex",
+      "title": "A new personal finance experience in ChatGPT",
       "date": "Fri, 15 May 2026 00:00:00 GMT",
-      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+      "url": "https://openai.com/index/personal-finance-chatgpt",
+      "category": "Product"
+    },
+    {
+      "title": "How data science teams use Codex",
+      "date": "Fri, 15 May 2026 00:00:00 GMT",
+      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
       "category": "OpenAI Academy"
     },
     {
@@ -25,24 +32,17 @@
       "category": ""
     },
     {
-      "title": "How data science teams use Codex",
-      "date": "Fri, 15 May 2026 00:00:00 GMT",
-      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "category": "OpenAI Academy"
-    },
-    {
-      "title": "A new personal finance experience in ChatGPT",
-      "date": "Fri, 15 May 2026 00:00:00 GMT",
-      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
-      "category": "Product"
-    },
-    {
       "title": "How sales teams use Codex",
       "date": "Fri, 15 May 2026 00:00:00 GMT",
       "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
       "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "category": "OpenAI Academy"
+    },
+    {
+      "title": "How business operations teams use Codex",
+      "date": "Fri, 15 May 2026 00:00:00 GMT",
+      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
       "category": "OpenAI Academy"
     }
   ],
