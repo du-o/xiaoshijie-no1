@@ -1,8 +1,38 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-05-18T14:48:19.886Z",
+  "fetch_time": "2026-05-19T04:06:27.859Z",
   "articles": [
+    {
+      "title": "openclaw 2026.5.19-beta.1",
+      "date": "2026-05-18T22:58:13Z",
+      "summary": "## 2026.5.19\n\n### Changes\n\n- Agents: clarify that fixes should default to clean bounded refactors, lean internals, and explicit plugin SDK/API deprecation paths.\n- Dependencies: update `@openclaw/prox...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.19-beta.1",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.5.19-beta.1",
+      "downloadCount": 0
+    },
+    {
+      "title": "openclaw 2026.5.18",
+      "date": "2026-05-18T18:54:22Z",
+      "summary": "\n### Changes\n\n- Agents: clarify that fixes should default to clean bounded refactors, lean internals, and explicit plugin SDK/API deprecation paths.\n- Dependencies: update `@openclaw/proxyline` to 0.3...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.18",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.5.18",
+      "downloadCount": 1512
+    },
+    {
+      "title": "openclaw 2026.5.18-beta.1",
+      "date": "2026-05-18T16:13:00Z",
+      "summary": "\n### Changes\n\n- Agents: clarify that fixes should default to clean bounded refactors, lean internals, and explicit plugin SDK/API deprecation paths.\n- Dependencies: update `@openclaw/proxyline` to 0.3...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.18-beta.1",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.5.18-beta.1",
+      "downloadCount": 9
+    },
     {
       "title": "openclaw 2026.5.16-beta.7",
       "date": "2026-05-18T08:47:11Z",
@@ -11,7 +41,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.5.16-beta.7",
-      "downloadCount": 36
+      "downloadCount": 43
     },
     {
       "title": "openclaw 2026.5.16-beta.6",
@@ -21,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.5.16-beta.6",
-      "downloadCount": 59
+      "downloadCount": 63
     },
     {
       "title": "openclaw 2026.5.16-beta.5",
@@ -31,37 +61,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.5.16-beta.5",
-      "downloadCount": 35
-    },
-    {
-      "title": "openclaw 2026.5.16-beta.4",
-      "date": "2026-05-17T04:22:04Z",
-      "summary": "\n### Changes\n\n- Security/audit: add `security.audit.suppressions` for intentionally accepted audit findings, keeping suppressed matches out of the active summary while preserving them in JSON output w...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.16-beta.4",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.5.16-beta.4",
-      "downloadCount": 69
-    },
-    {
-      "title": "openclaw 2026.5.16-beta.3",
-      "date": "2026-05-16T19:46:18Z",
-      "summary": "\n### Changes\n\n- Providers/xAI: add xAI Grok OAuth login for SuperGrok subscribers, letting `xai/*` models and xAI media/tool providers authenticate without `XAI_API_KEY`.\n- CLI/cron: add `openclaw cro...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.16-beta.3",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.5.16-beta.3",
-      "downloadCount": 50
-    },
-    {
-      "title": "openclaw 2026.5.16-beta.2",
-      "date": "2026-05-16T11:29:05Z",
-      "summary": "\n### Changes\n\n- Providers/xAI: add xAI Grok OAuth login for SuperGrok subscribers, letting `xai/*` models and xAI media/tool providers authenticate without `XAI_API_KEY`.\n- CLI/cron: add `openclaw cro...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.16-beta.2",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.5.16-beta.2",
-      "downloadCount": 61
+      "downloadCount": 37
     }
   ],
   "status": "success",

@@ -1,65 +1,62 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-05-18T14:48:02.276Z",
+  "fetch_time": "2026-05-19T04:06:08.371Z",
   "articles": [
     {
-      "title": "DeepSlide: From Artifacts to Presentation Delivery",
-      "date": "Mon, 18 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.15202v1 Announce Type: new Abstract: Presentations are a primary medium for scholarly communication, yet most AI slide generators optimize the artifact (a visually plausible deck) while under-optimizing the delivery process (pacing, narrative, and presentation preparation). We present DeepSlide, a human-in-the-loop multi-agent system that supports preparing the full presentation process, from requirement elicitation and time-budgeted narrative planning, to evidence-grounded slide--scr",
-      "url": "https://arxiv.org/abs/2605.15202",
+      "title": "AgentWall: A Runtime Safety Layer for Local AI Agents",
+      "date": "Tue, 19 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.16265v1 Announce Type: new Abstract: The safety of autonomous AI agents is increasingly recognized as a critical open problem. As agents transition from passive text generators to active actors capable of executing shell commands, modifying files, calling APIs, and browsing the web, the consequences of unsafe or adversarially manipulated behavior become immediate and tangible. Existing AI safety work has focused primarily on model alignment and input filtering, but these approaches do",
+      "url": "https://arxiv.org/abs/2605.16265",
       "category": [
         "cs.AI",
-        "cs.CL",
-        "cs.IR"
+        "cs.CR"
       ]
     },
     {
-      "title": "SDOF: Taming the Alignment Tax in Multi-Agent Orchestration with State-Constrained Dispatch",
-      "date": "Mon, 18 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.15204v1 Announce Type: new Abstract: Multi-agent orchestration frameworks such as LangChain, LangGraph, and CrewAI route tasks through graph-based pipelines but do not enforce the stage constraints that govern real business processes. We present SDOF, a framework that treats multi-agent execution as a constrained state machine. SDOF operates through two primary defensive layers, implemented by three components: (1) an Online-RLHF Specialized Intent Router trained via Generative Reward",
-      "url": "https://arxiv.org/abs/2605.15204",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Does Theory of Mind Improvement Really Benefit Human-AI Interactions? Empirical Findings from Interactive Evaluations",
-      "date": "Mon, 18 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.15205v1 Announce Type: new Abstract: Improving the Theory of Mind (ToM) capability of Large Language Models (LLMs) is crucial for effective social interactions between these AI models and humans. However, the existing benchmarks often measure ToM capability improvement through story-reading, multiple-choice questions from a third-person perspective, while ignoring the first-person, dynamic, and open-ended nature of human-AI (HAI) interactions. To directly examine how ToM improvement t",
-      "url": "https://arxiv.org/abs/2605.15205",
-      "category": "cs.AI"
-    },
-    {
-      "title": "SkillSmith: Compiling Agent Skills into Boundary-Guided Runtime Interfaces",
-      "date": "Mon, 18 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.15215v1 Announce Type: new Abstract: Recently, skills have been widely adopted in large language model (LLM)-based agent systems across various domains. In existing frameworks, skills are typically injected into the agent reasoning loop as contextual guidance once matched to a runtime task, enabling specialized task-solving capabilities. We find that this execution paradigm introduces two major sources of redundancy: irrelevant context injection and repeated skill-specific reasoning a",
-      "url": "https://arxiv.org/abs/2605.15215",
+      "title": "ANNEAL: Adapting LLM Agents via Governed Symbolic Patch Learning",
+      "date": "Tue, 19 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.16309v1 Announce Type: new Abstract: LLM-based agents can recover from individual execution errors, yet they repeatedly fail on the same fault when the underlying process knowledge--operator schemas, preconditions, and constraints--remains unrepaired. Existing self-evolving approaches address this gap by updating prompts, memory, or model weights, but none directly repair the symbolic structures that encode how tasks are executed, and few provide the governance guarantees required for",
+      "url": "https://arxiv.org/abs/2605.16309",
       "category": [
         "cs.AI",
-        "cs.SE"
-      ]
-    },
-    {
-      "title": "Fair outputs, Biased Internals: Causal Potency and Asymmetry of Latent Bias in LLMs for High-Stakes Decisions",
-      "date": "Mon, 18 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.15217v1 Announce Type: new Abstract: Instruction-tuned language models exhibit behavioural fairness in high-stakes decisions while retaining biased associations in their internal representations. However, whether these suppressed representations can affect model outputs - and whether such causal potency is symmetric across demographic groups - remains unknown. We investigate the use of open-weight models for mortgage underwriting using matched applications that differ only in racially",
-      "url": "https://arxiv.org/abs/2605.15217",
-      "category": [
-        "cs.AI",
-        "cs.CY",
         "cs.LG",
-        "econ.GN",
-        "q-fin.EC"
+        "cs.MA"
       ]
     },
     {
-      "title": "CAX-Agent: A Lightweight Agent Harness for Reliable APDL Automation",
-      "date": "Mon, 18 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.15218v1 Announce Type: new Abstract: Large language models deployed for MAPDL finite-element simulation face practical reliability challenges: without structured execution control, tool encapsulation, and fault recovery, outputs may be inconsistent and task failures are common. The Agent Harness paradigm addresses this by inserting domain-specific orchestration middleware that manages tool lifecycles, workflow state, and recovery escalation. This paper presents the architecture of CAX",
-      "url": "https://arxiv.org/abs/2605.15218",
+      "title": "From Prompts to Protocols: An AI Agent for Laboratory Automation",
+      "date": "Tue, 19 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.16552v1 Announce Type: new Abstract: Automating science laboratories enables faster, safer, more accurate, and more reproducible execution of protocols, accelerating the discovery and testing of new materials, drugs, and more. However, setting up and running autonomous labs requires coordinating numerous instruments and robots, forcing scientists to write code, manage configuration files, and navigate complex software infrastructure. We present an AI agent architecture that integrates",
+      "url": "https://arxiv.org/abs/2605.16552",
       "category": [
         "cs.AI",
-        "cs.CE"
+        "cs.RO"
       ]
+    },
+    {
+      "title": "Skim: Speculative Execution for Fast and Efficient Web Agents",
+      "date": "Tue, 19 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.16565v1 Announce Type: new Abstract: Skim is a speculative execution framework for web agents that exploits the predictable structure of purpose-built websites. Today's web-agent expense is not intrinsic to the tasks but a property of how agents are composed: frontier-model inference, browser rendering, and ReAct-style planning are applied to every step of every task regardless of complexity. Skim's key observation is that websites enforce stable URL patterns, answer formats, and task",
+      "url": "https://arxiv.org/abs/2605.16565",
+      "category": [
+        "cs.AI",
+        "cs.OS"
+      ]
+    },
+    {
+      "title": "Scalable Uncertainty Reasoning in Knowledge Graphs",
+      "date": "Tue, 19 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.16568v1 Announce Type: new Abstract: Knowledge Graphs are pivotal for semantic data integration. The real-world data they model is often inherently uncertain. Within knowledge graphs, uncertainty manifests in three distinct levels: imprecise attribute values, probabilistic triple existence, and incomplete schema knowledge. However, current Semantic Web standards lack native support for reasoning over such uncertainty, and na\\\"ive extensions often incur computational intractability. In",
+      "url": "https://arxiv.org/abs/2605.16568",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Counterparty Modeling is Not Strategy: The Limits of LLM Negotiators",
+      "date": "Tue, 19 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.16575v1 Announce Type: new Abstract: Negotiation requires more than inferring what the other side wants: it requires using that information to make advantageous offers and counteroffers over multiple turns. We study whether large language model (LLM) agents do this in a controlled multi-attribute bargaining environment. We find that current LLM agents can model a counterparty's preferences, but do not reliably turn that knowledge into strategic bargaining. When given negotiating partn",
+      "url": "https://arxiv.org/abs/2605.16575",
+      "category": "cs.AI"
     }
   ],
   "status": "success",

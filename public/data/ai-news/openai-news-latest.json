@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-05-18T14:48:02.111Z",
+  "fetch_time": "2026-05-19T04:06:07.928Z",
   "articles": [
+    {
+      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+      "date": "Mon, 18 May 2026 10:00:00 GMT",
+      "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
+      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "category": "Company"
+    },
     {
       "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
       "date": "Sat, 16 May 2026 00:00:00 GMT",
@@ -18,10 +25,10 @@
       "category": ""
     },
     {
-      "title": "How data science teams use Codex",
+      "title": "How business operations teams use Codex",
       "date": "Fri, 15 May 2026 00:00:00 GMT",
-      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
       "category": "OpenAI Academy"
     },
     {
@@ -29,13 +36,6 @@
       "date": "Fri, 15 May 2026 00:00:00 GMT",
       "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
       "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "category": "OpenAI Academy"
-    },
-    {
-      "title": "How business operations teams use Codex",
-      "date": "Fri, 15 May 2026 00:00:00 GMT",
-      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
       "category": "OpenAI Academy"
     },
     {

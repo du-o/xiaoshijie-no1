@@ -1,67 +1,152 @@
 {
-  "fetch_time": "2026-05-18T14:48:06.820Z",
+  "fetch_time": "2026-05-19T04:06:11.773Z",
   "total_count": 36,
   "sources_count": 6,
   "errors": null,
   "articles": [
     {
-      "title": "科士达：液冷相关产品当前形成收入占公司整体收入规模不到1%",
-      "date": "Mon, 18 May 2026 12:59:01 GMT",
-      "summary": "36氪获悉，科士达公告，公司股票连续三个交易日收盘价格涨幅偏离值累计超过20%，属于股票交易异常波动。公司关注到近期资本市场对数据中心(AIDC)、新能源储能、液冷等概念关注度较高，但公司电源产品应用于各行各业，AIDC相关业务增长及增速预期具有不确定性；公司储能业务海外占比较大，受政策、汇率、冲突等影响明显；温控设备以传统制冷形式为主，液冷相关产品当前形成收入占公司整体收入规模不到1%，未来业务拓展具有较大不确定性。公司目前经营正常，不存在应披露而未披露的重大事项。",
-      "url": "https://36kr.com/newsflashes/3814803728097030?f=rss",
+      "title": "腾讯WorkBuddy启动创业者激励计划",
+      "date": "Tue, 19 May 2026 04:02:56 GMT",
+      "summary": "36氪获悉，腾讯WorkBuddy正式启动一人公司激励计划，面向全球创业者、OPC及其他WorkBuddy深度用户，送出3000万 WorkBuddy Credits（内置模型使用额度，价值百万元）。获取本次激励的用户可在WorkBuddy中直接使用AI额度，用于帮助自身业务提效创新。",
+      "url": "https://36kr.com/newsflashes/3815692310634241?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "何立峰会见美国超威半导体公司董事会主席兼首席执行官苏姿丰",
-      "date": "Mon, 18 May 2026 12:58:11 GMT",
-      "summary": "5月18日下午，中共中央政治局委员、国务院副总理何立峰在人民大会堂会见美国超威半导体公司董事会主席兼首席执行官苏姿丰。何立峰指出，上周中美两国元首在北京举行重要会晤，达成一系列重要共识。在两国元首战略引领下，两国经贸团队达成了总体平衡积极的成果，这将为下一步的中美经贸合作与世界经济注入更多确定性和稳定性。欢迎包括超威半导体公司在内的跨国公司把握中国发展机遇，深化互利合作。苏姿丰积极评价两国元首会晤成果，表示愿继续拓展在华业务，持续加大在华投资。（新华社）",
-      "url": "https://36kr.com/newsflashes/3814802899230465?f=rss",
+      "title": "恒指午间休盘涨0.39%，恒生科技指数跌0.11%",
+      "date": "Tue, 19 May 2026 04:02:21 GMT",
+      "summary": "36氪获悉，恒指午间休盘涨0.39%，恒生科技指数跌0.11%；传媒、耐用消费品、软件服务板块领涨，腾讯音乐涨超4%，腾讯控股、网易涨超2%，泡泡玛特涨超1%；半导体、硬件设备、汽车板块跌幅居前，英诺赛科跌超7%，海天天线跌超5%，“蔚小理”均跌超4%；南向资金净买入20.62亿港元。",
+      "url": "https://36kr.com/newsflashes/3815691745599240?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "670亿美元创下“史上最大电力收购案”，新纪元能源吞并道明尼能源剑指AI算力电网霸主",
-      "date": "Mon, 18 May 2026 12:55:30 GMT",
-      "summary": "新纪元能源已同意以约670亿美元的股票收购道明尼能源，这是有史以来规模最大的电力收购案，此举将创造一个业务从佛罗里达州延伸至弗吉尼亚州密集数据中心集群的公用事业巨头。这笔交易将使新纪元能源获得横跨弗吉尼亚州、北卡罗来纳州和南卡罗来纳州的大片电力资产，并使其在这片正努力满足新建人工智能（AI）设施需求激增的地区中，成为占据主导地位的公用事业公司。新纪元能源目前已经是按市值计算美国最大的公用事业公司，也是该国最大的可再生能源开发商。（财联社）",
-      "url": "https://36kr.com/newsflashes/3814800262373120?f=rss",
+      "title": "AgentWall: A Runtime Safety Layer for Local AI Agents",
+      "date": "Tue, 19 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.16265v1 Announce Type: new Abstract: The safety of autonomous AI agents is increasingly recognized as a critical open problem. As agents transition from passive text generators to active actors capable of executing shell commands, modifying files, calling APIs, and browsing the web, the consequences of unsafe or adversarially manipulated behavior become immediate and tangible. Existing AI safety work has focused primarily on model alignment and input filtering, but these approaches do",
+      "url": "https://arxiv.org/abs/2605.16265",
+      "category": [
+        "cs.AI",
+        "cs.CR"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "ANNEAL: Adapting LLM Agents via Governed Symbolic Patch Learning",
+      "date": "Tue, 19 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.16309v1 Announce Type: new Abstract: LLM-based agents can recover from individual execution errors, yet they repeatedly fail on the same fault when the underlying process knowledge--operator schemas, preconditions, and constraints--remains unrepaired. Existing self-evolving approaches address this gap by updating prompts, memory, or model weights, but none directly repair the symbolic structures that encode how tasks are executed, and few provide the governance guarantees required for",
+      "url": "https://arxiv.org/abs/2605.16309",
+      "category": [
+        "cs.AI",
+        "cs.LG",
+        "cs.MA"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "From Prompts to Protocols: An AI Agent for Laboratory Automation",
+      "date": "Tue, 19 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.16552v1 Announce Type: new Abstract: Automating science laboratories enables faster, safer, more accurate, and more reproducible execution of protocols, accelerating the discovery and testing of new materials, drugs, and more. However, setting up and running autonomous labs requires coordinating numerous instruments and robots, forcing scientists to write code, manage configuration files, and navigate complex software infrastructure. We present an AI agent architecture that integrates",
+      "url": "https://arxiv.org/abs/2605.16552",
+      "category": [
+        "cs.AI",
+        "cs.RO"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Skim: Speculative Execution for Fast and Efficient Web Agents",
+      "date": "Tue, 19 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.16565v1 Announce Type: new Abstract: Skim is a speculative execution framework for web agents that exploits the predictable structure of purpose-built websites. Today's web-agent expense is not intrinsic to the tasks but a property of how agents are composed: frontier-model inference, browser rendering, and ReAct-style planning are applied to every step of every task regardless of complexity. Skim's key observation is that websites enforce stable URL patterns, answer formats, and task",
+      "url": "https://arxiv.org/abs/2605.16565",
+      "category": [
+        "cs.AI",
+        "cs.OS"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Scalable Uncertainty Reasoning in Knowledge Graphs",
+      "date": "Tue, 19 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.16568v1 Announce Type: new Abstract: Knowledge Graphs are pivotal for semantic data integration. The real-world data they model is often inherently uncertain. Within knowledge graphs, uncertainty manifests in three distinct levels: imprecise attribute values, probabilistic triple existence, and incomplete schema knowledge. However, current Semantic Web standards lack native support for reasoning over such uncertainty, and na\\\"ive extensions often incur computational intractability. In",
+      "url": "https://arxiv.org/abs/2605.16568",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Counterparty Modeling is Not Strategy: The Limits of LLM Negotiators",
+      "date": "Tue, 19 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.16575v1 Announce Type: new Abstract: Negotiation requires more than inferring what the other side wants: it requires using that information to make advantageous offers and counteroffers over multiple turns. We study whether large language model (LLM) agents do this in a controlled multi-attribute bargaining environment. We find that current LLM agents can model a counterparty's preferences, but do not reliably turn that knowledge into strategic bargaining. When given negotiating partn",
+      "url": "https://arxiv.org/abs/2605.16575",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "报告：2025年中国AI云市场规模超567亿元，阿里云AI IaaS、MaaS双料冠军",
+      "date": "Tue, 19 May 2026 03:49:53 GMT",
+      "summary": "36氪获悉，5月19日，市场调研机构英富曼（Omdia）发布最新的《中国AI云市场份额2025》报告，2025年中国AI云市场总规模达567亿元人民币，其中，阿里云在AI IaaS和MaaS两大领域均位列第一，总份额从上半年的35.8%上涨至38.1%，整体稳居第一。",
+      "url": "https://36kr.com/newsflashes/3815679486909954?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "热门中概股美股盘前涨跌不一，百度涨近5%",
-      "date": "Mon, 18 May 2026 12:51:50 GMT",
-      "summary": "36氪获悉，热门中概股美股盘前涨跌不一，截至发稿，百度涨近5%，腾讯音乐涨超2%，阿里巴巴、京东、哔哩哔哩涨超1%，理想汽车跌超8%，爱奇艺跌超2%，网易跌0.43%。",
-      "url": "https://36kr.com/newsflashes/3814796670115590?f=rss",
+      "title": "华友钴业增资至约19亿，增幅约12%",
+      "date": "Tue, 19 May 2026 03:43:33 GMT",
+      "summary": "36氪获悉，天眼查App显示，近日，浙江华友钴业股份有限公司发生工商变更，注册资本由约17亿人民币增至约19亿人民币，增幅约12%。 该公司成立于2002年5月，法定代表人为陈雪华，经营范围包括研发、生产、销售钴、镍、铜氧化物，钴、镍、铜盐类，钴、镍、铜金属及制品，钴粉，镍粉，铜粉，氢氧化钴，钴酸锂，氯化铵等，由华友控股集团有限公司、香港中央结算有限公司、陈雪华等共同持股。",
+      "url": "https://36kr.com/newsflashes/3815662677106440?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "联讯仪器：股价涨幅大、估值高 提示多项投资风险",
-      "date": "Mon, 18 May 2026 12:49:59 GMT",
-      "summary": "36氪获悉，联讯仪器公告，公司股票4月24日至5月18日累计涨幅68.33%，超相关指数涨幅，未来或快速回落。截至5月18日，滚动市盈率505.39倍，显著高于行业平均的56.38倍。2026年一季度营业利润11941.04万元，归属于上市公司股东的净利润11890.32万元。公司提示经营业绩波动、技术和产品迭代等风险，提醒投资者注意投资风险，理性决策。",
-      "url": "https://36kr.com/newsflashes/3814794849787654?f=rss",
+      "title": "半日主力资金加仓公用事业股，抛售通信股",
+      "date": "Tue, 19 May 2026 03:39:55 GMT",
+      "summary": "主力资金早间净流入公用事业、机械设备、传媒、计算机等板块，净流出通信、有色金属、基础化工、电力设备等板块。具体到个股来看，利欧股份、芯原股份、弘信电子、风华高科获净流入20.83亿元、14.92亿元、10.41亿元、10.29亿元。净流出方面，佰维存储、天孚通信、中际旭创、德明利遭抛售21.48亿元、16.51亿元、16.48亿元、13.89亿元。（第一财经）",
+      "url": "https://36kr.com/newsflashes/3815669689261572?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "美股大型科技股盘前涨跌不一，英伟达涨超2%",
-      "date": "Mon, 18 May 2026 12:47:16 GMT",
-      "summary": "36氪获悉，美股大型科技股盘前涨跌不一，截至发稿，英伟达、美光科技涨超2%，英特尔涨超1%，谷歌涨0.07%，特斯拉跌0.55%，微软跌0.18%，亚马逊跌0.09%。",
-      "url": "https://36kr.com/newsflashes/3814792174657025?f=rss",
+      "title": "A股三大指数午间休盘涨跌不一，通信设备板块领跌",
+      "date": "Tue, 19 May 2026 03:31:59 GMT",
+      "summary": "36氪获悉，A股三大指数午间休盘涨跌不一，沪指涨0.02%，深成指跌0.78%，创业板指跌1.21%；通信设备、电脑传媒、基本金属板块领跌，天孚通信跌超7%，江波龙跌超5%，中矿资源跌超4%；电力、传媒、电信板块领涨，上海电力、建投能源涨停，幸福蓝海涨超11%，中国电信涨超3%。",
+      "url": "https://36kr.com/newsflashes/3815661887872517?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
+    },
+    {
+      "title": "你生活的地点与你衰老的速度相关",
+      "date": "Mon, 18 May 2026 15:37:43 GMT",
+      "summary": "根据发表在《Cell》期刊上的一项研究，研究人员通过分析欧洲、东亚和南亚的 322 名健康人去构建迄今最详尽的遗传祖先和环境如何塑造人类生物学特征的图谱。通过招募居住在不同大洲、具有相同遗传背景的人群，科学家得以以前所未有的清晰度，将 DNA 的影响与环境的影响区分开来。研究人员发现，无论搬到哪里，种族背景会对免疫系统、新陈代谢和肠道菌群产生深远影响。南亚人表现出更高的病原体暴露水平。欧洲人的肠道微生物多样性更丰富，且与心脏病风险相关的化合物含量更高。跨州迁移会改变主要的代谢途径，改变肠道微生物的平衡。研究的一大发现是你生活的地点与你衰老的速度相关。居住在亚洲外的东亚人比东亚人生物年龄更大。欧洲人则相反，居住在欧洲外的欧洲人生物年龄更小。",
+      "url": "https://www.solidot.org/story?sid=84333",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "伊朗要求通过霍尔木兹海峡的海底光缆付费",
+      "date": "Mon, 18 May 2026 15:11:36 GMT",
+      "summary": "伊朗军方发言人 Ebrahim Zolfaghari 在 X 上宣布对通过霍尔木兹海峡的海底光缆收费。暂时不清楚伊朗只是发出一种威胁，还是会将威胁付诸实施。伊朗的计划将要求 Google、微软、Meta和亚马逊等公司遵守其法律，同时海底光缆公司被要求支付通行许可费，而维修和维护权则完全授予伊朗公司。海底光缆传输着欧洲、亚洲和波斯湾之间的网络和金融流量，破坏光缆将会引发数字灾难，威胁到从银行系统、军事通信和 AI 云基础设施到远程办公、在线游戏和流媒体服务。",
+      "url": "https://www.solidot.org/story?sid=84332",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
     },
     {
       "title": "A smarter, more proactive Android with Gemini Intelligence At the Android Show 2026, we introduced Gemini Intelligence, proactive new AI features on Android.",
       "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence/",
-      "date": "2026-05-18T11:38:35.305Z",
+      "date": "2026-05-18T14:48:12.893Z",
       "summary": "",
       "category": "Google",
       "source": "Google Blog",
@@ -70,7 +155,7 @@
     {
       "title": "Introducing Googlebook, designed for Gemini Intelligence",
       "url": "https://blog.google/products-and-platforms/platforms/android/meet-googlebook/",
-      "date": "2026-05-18T11:38:35.305Z",
+      "date": "2026-05-18T14:48:12.893Z",
       "summary": "",
       "category": "Google",
       "source": "Google Blog",
@@ -79,7 +164,7 @@
     {
       "title": "Bringing the best of Gemini in Chrome to Android",
       "url": "https://blog.google/products-and-platforms/products/chrome/bringing-chrome-ai-to-android/",
-      "date": "2026-05-18T11:38:35.305Z",
+      "date": "2026-05-18T14:48:12.893Z",
       "summary": "",
       "category": "Products",
       "source": "Google Blog",
@@ -88,7 +173,7 @@
     {
       "title": "Quantum computing",
       "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/",
-      "date": "2026-05-18T11:38:35.305Z",
+      "date": "2026-05-18T14:48:12.893Z",
       "summary": "",
       "category": "Innovation & AI",
       "source": "Google Blog",
@@ -97,7 +182,7 @@
     {
       "title": "Q1 2026 earnings call: Remarks from our CEO Read Sundar Pichai’s remarks during the Alphabet earnings call for Q1 2026.",
       "url": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q1-2026/",
-      "date": "2026-05-18T11:38:35.305Z",
+      "date": "2026-05-18T14:48:12.893Z",
       "summary": "",
       "category": "Company",
       "source": "Google Blog",
@@ -106,7 +191,7 @@
     {
       "title": "Android makes it easier to share, switch and connect securely",
       "url": "https://blog.google/products-and-platforms/platforms/android/new-android-updates/",
-      "date": "2026-05-18T11:38:35.305Z",
+      "date": "2026-05-18T14:48:12.893Z",
       "summary": "",
       "category": "Google",
       "source": "Google Blog",
@@ -115,140 +200,61 @@
     {
       "title": "The State of AI: A Look at What's Next",
       "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-05-18T11:38:24.966Z",
+      "date": "2026-05-18T14:48:01.699Z",
       "summary": "An in-depth analysis of the current AI landscape and future trends.",
       "category": "AI Analysis",
       "source": "Every.to",
       "source_name": "every"
     },
     {
-      "title": "Windows 11 KB5089549 会导致部分 PC 安装失败",
-      "date": "Mon, 18 May 2026 08:34:06 GMT",
-      "summary": "微软证实本月释出的例行安全更新 Windows 11 KB5089549 会导致部分 PC 安装失败，原因是对系统启动至关重要的 EFI 系统分区（ESP）空间不足。如果 ESP 可用空间不足 10 MB，KB5089549 安装会失败，返回 0x800f0922 错误，用户会看到安装卡在了 35-36%，然后回滚，提示空间不足。微软提供了一个临时的修复方法：以管理员身份打开命令提示符。运行以下命令：reg add “HKLM\\SYSTEM\\CurrentControlSet\\Control\\Bfsvc /v EspPaddingPercent /t REG_DWORD /d 0 /f”。然后重启受影响的设备。",
-      "url": "https://www.solidot.org/story?sid=84324",
+      "title": "微软将修改 Edge 加载密码的方式",
+      "date": "Mon, 18 May 2026 14:39:02 GMT",
+      "summary": "安全研究员本月初披露，Edge 内置的密码管理器会在浏览器启动时候解密所有密码然后加载到内存里。他联络了微软，结果收到的回应是“源于设计（by design）”，认为不是安全隐患。微软当时强调这是应用的预期功能。然而仅仅过了几天，微软就改变了主意，宣布未来版本的 Edge 不会再在启动时加载密码。相关补丁已经释出到 Edge Canary 版本，将包含在 Edge build 148 或更新版本中。",
+      "url": "https://www.solidot.org/story?sid=84331",
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
     },
     {
-      "title": "Fisker Ocean 车主将其变成一个开源汽车项目",
-      "date": "Mon, 18 May 2026 07:51:02 GMT",
-      "summary": "2024 年 6 月 Ocean SUV 制造商 Fisker 公司申请破产，它总共交付了 1.1 万辆电动汽车。斥巨资购买汽车的车主面临汽车失去维修的难题，零部件替换、电池、软件、电子钥匙等问题横在他们面前，如果无法解决他们的汽车将会沦为昂贵的垃圾。接下来发生的堪称电动汽车行业历史上最引人入胜的故事。车主们没有认命，他们组织成立了一个非盈利组织 Fisker Owners Association(FOA)，对汽车的私有软件进行逆向工程，破解 CAN 总线网络，在 GitHub 上发布开源工具，最终在 Fisker 的废墟上建起一家由志愿者运营的开源汽车公司。Fisker 不是唯一一家破产的美国电动汽车公司，Nikola、Canoo 和 Arrival 的车主都面临类似的困境。",
-      "url": "https://www.solidot.org/story?sid=84323",
+      "title": "《Terraria》 15 年售出 7000 万份拷贝",
+      "date": "Mon, 18 May 2026 13:54:07 GMT",
+      "summary": "独立沙盒游戏《Terraria》的开发商宣布游戏上市 15 年共售出了七千万份拷贝，其中 PC 平台销量最高 3960 万份，主机 1070 万份，移动 1970 万份，Mod 工具 tModLoader 下载量 1230 万次。过去一年《Terraria》PC 版本日均玩家 46.1 万最高 140 万，PC 玩家平均游戏时长 101 小时 18 分钟。开发商表示会继续更新《Terraria》。在史上最畅销的游戏中，《Terraria》排在第 7 位。销量最高的是《我的世界（Minecraft）》（如果不考虑《俄罗斯方块》），售出超过 3.5 亿份拷贝，其次是《Grand Theft Auto V》的 2.25 亿份，《Wii Sports》的 8290 万份、《Red Dead Redemption 2》的 8200 万份，《马里奥赛车8》的 7954 万份， 《绝地求生》的 7500 万份等。",
+      "url": "https://www.solidot.org/story?sid=84330",
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
     },
     {
-      "title": "AMD Mesa 驱动主开发正为 Valve 工作",
-      "date": "Mon, 18 May 2026 06:41:10 GMT",
-      "summary": "AMD Mesa 驱动开发者 Marek Olšák 更新了个人资料，显示他正为 Valve 工作。Marek 是资深 Linux GPU 驱动开发者，长期致力于 AMD Mesa 驱动开发，从 R300g 时代开始参与 Mesa 项目。他最初是 Mesa 项目的独立开发者，在大学毕业后加入 AMD。十多年以来他一直是 AMD Linux Mesa 驱动的主要开发者，也是最活跃的开发者之一。现在他将代表 Valve 继续参与 Mesa 项目开发，估计薪水会更高。Valve 的 Steam Deck 和 Steam Machine 采用了定制的 AMD SoC，是 AMD 开源驱动的重要支持者。",
-      "url": "https://www.solidot.org/story?sid=84322",
+      "title": "三星电子工会威胁总罢工",
+      "date": "Mon, 18 May 2026 13:28:59 GMT",
+      "summary": "三星电子工会已经宣布将于 21 日启动为期 18 天的总罢工，双方就绩效奖金的上限存在分歧。目前韩国政府对此事表达了高度关注，总理金民锡周日表示若罢工对国民经济造成巨大损失，政府将为保护国民经济而采取包括行使紧急调整权在内的所有可行手段。周一三星电子劳资双方展开了最新一轮谈判。韩国法院同一天就三星电子资方针对工会提出的禁止其进行违法集体斗争行为的申请作出裁定，支持资方大部分诉求，要求工会即便罢工也不得耽误生产。该决定或给劳资谈判以及工会的罢工计划带来不小影响。专家估计每罢工一天造成的损失最高达到 20 亿美元，18 天总罢工将接近 170 亿美元。而 JPMorgan 估计损失最高将达到 280 亿美元。",
+      "url": "https://www.solidot.org/story?sid=84329",
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
     },
     {
-      "title": "DeepSlide: From Artifacts to Presentation Delivery",
-      "date": "Mon, 18 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.15202v1 Announce Type: new Abstract: Presentations are a primary medium for scholarly communication, yet most AI slide generators optimize the artifact (a visually plausible deck) while under-optimizing the delivery process (pacing, narrative, and presentation preparation). We present DeepSlide, a human-in-the-loop multi-agent system that supports preparing the full presentation process, from requirement elicitation and time-budgeted narrative planning, to evidence-grounded slide--scr",
-      "url": "https://arxiv.org/abs/2605.15202",
-      "category": [
-        "cs.AI",
-        "cs.CL",
-        "cs.IR"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "SDOF: Taming the Alignment Tax in Multi-Agent Orchestration with State-Constrained Dispatch",
-      "date": "Mon, 18 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.15204v1 Announce Type: new Abstract: Multi-agent orchestration frameworks such as LangChain, LangGraph, and CrewAI route tasks through graph-based pipelines but do not enforce the stage constraints that govern real business processes. We present SDOF, a framework that treats multi-agent execution as a constrained state machine. SDOF operates through two primary defensive layers, implemented by three components: (1) an Online-RLHF Specialized Intent Router trained via Generative Reward",
-      "url": "https://arxiv.org/abs/2605.15204",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Does Theory of Mind Improvement Really Benefit Human-AI Interactions? Empirical Findings from Interactive Evaluations",
-      "date": "Mon, 18 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.15205v1 Announce Type: new Abstract: Improving the Theory of Mind (ToM) capability of Large Language Models (LLMs) is crucial for effective social interactions between these AI models and humans. However, the existing benchmarks often measure ToM capability improvement through story-reading, multiple-choice questions from a third-person perspective, while ignoring the first-person, dynamic, and open-ended nature of human-AI (HAI) interactions. To directly examine how ToM improvement t",
-      "url": "https://arxiv.org/abs/2605.15205",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "SkillSmith: Compiling Agent Skills into Boundary-Guided Runtime Interfaces",
-      "date": "Mon, 18 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.15215v1 Announce Type: new Abstract: Recently, skills have been widely adopted in large language model (LLM)-based agent systems across various domains. In existing frameworks, skills are typically injected into the agent reasoning loop as contextual guidance once matched to a runtime task, enabling specialized task-solving capabilities. We find that this execution paradigm introduces two major sources of redundancy: irrelevant context injection and repeated skill-specific reasoning a",
-      "url": "https://arxiv.org/abs/2605.15215",
-      "category": [
-        "cs.AI",
-        "cs.SE"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Fair outputs, Biased Internals: Causal Potency and Asymmetry of Latent Bias in LLMs for High-Stakes Decisions",
-      "date": "Mon, 18 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.15217v1 Announce Type: new Abstract: Instruction-tuned language models exhibit behavioural fairness in high-stakes decisions while retaining biased associations in their internal representations. However, whether these suppressed representations can affect model outputs - and whether such causal potency is symmetric across demographic groups - remains unknown. We investigate the use of open-weight models for mortgage underwriting using matched applications that differ only in racially",
-      "url": "https://arxiv.org/abs/2605.15217",
-      "category": [
-        "cs.AI",
-        "cs.CY",
-        "cs.LG",
-        "econ.GN",
-        "q-fin.EC"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "CAX-Agent: A Lightweight Agent Harness for Reliable APDL Automation",
-      "date": "Mon, 18 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.15218v1 Announce Type: new Abstract: Large language models deployed for MAPDL finite-element simulation face practical reliability challenges: without structured execution control, tool encapsulation, and fault recovery, outputs may be inconsistent and task failures are common. The Agent Harness paradigm addresses this by inserting domain-specific orchestration middleware that manages tool lifecycles, workflow state, and recovery escalation. This paper presents the architecture of CAX",
-      "url": "https://arxiv.org/abs/2605.15218",
-      "category": [
-        "cs.AI",
-        "cs.CE"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Eric Sc​​hmidt 在毕业典礼上谈 AI 收到了学生的嘘声",
-      "date": "Sun, 17 May 2026 15:55:46 GMT",
-      "summary": "前 Google CEO Eric Sc​​hmidt 在亚利桑那大学的毕业典礼上谈及了 AI，结果现场学生嘘声四起。Sc​​hmidt 说：“我们原以为自己是在为人类几个世纪以来一直构建的知识殿堂添砖加瓦，但我们构建的世界最终却比我们预想的复杂得多。那些连接我们的工具，也让我们彼此疏离。那些赋予每个人发言权的平台——就像你们现在正使用的——却也侵蚀了公共领域。”“我毕业后的几年里，没有人会坐下来决心去开发一种使民主制度极化、扰乱一代年轻人生活的技术。这并非我们的初衷，但它却发生了。”他谈到了 AI：“我知道很多人对此的感受。我能听到你们的声音。你们感到恐惧，你们这一代人害怕未来已被预先设定，害怕机器即将到来，害怕工作岗位在消失，害怕气候在恶化，害怕政治四分五裂，害怕你们正继承一个并非由你们造成的烂摊子。”他称这些恐惧是“合理的”，但他鼓励毕业生适应这项技术，并极参与塑造它未来的应用方式。“问题不在于 AI 是否会塑造世界。它肯定会。问题在于你们是否会塑造 AI。”",
-      "url": "https://www.solidot.org/story?sid=84320",
+      "title": "NASA 维护旅行者号代码的工程师日益稀少",
+      "date": "Mon, 18 May 2026 12:59:13 GMT",
+      "summary": "NASA 在 48 年前先后发射了两艘旅行者号探测器，当年曾为旅行者号写代码的工程师如今早已白发苍苍，甚至已经去世。旅行者号机载计算机运行的是汇编语言，是专为通用电气开发的处理器编写的。探测器上有三个计算机系统：计算机指令子系统（CCS）、姿态调节控制子系统（ACS）以及飞行数据子系统（FDS）。其底层飞行工作依赖于专门的汇编语言，地面系统和早期任务工具使用了 Fortran 语言。探测器上的计算机内存非常小，总容量仅为 64-70 KB。几十年来，地面控制团队成员不断减少，也逐渐老去。更糟的是很多原始文档遗失或支离破碎。项目文件大多是纸质的，每次项目搬迁办公室，会有更多的文件丢失。NASA JPL Interplanetary Network Directorate 项目主任 Suzy Dodd 在 2024 年称建造探测器的人都已经不在人世。Larry Zottarelli 是最后一位仍在工作的原始团队工程师，他于 2016 年 80 岁时退休。目前旅行者号维护团队大多数人都年过八旬，团队还依赖于一份退休工程师名单，以便在紧急情况下呼叫。该名单每年都在缩小。",
+      "url": "https://www.solidot.org/story?sid=84328",
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
     },
     {
-      "title": "调查显示六成 PC 玩家未来两年没有升级 PC 的计划",
-      "date": "Sun, 17 May 2026 15:18:37 GMT",
-      "summary": "对逾 1500 名用户的调查显示，六成 PC 玩家未来两年没有升级 PC 或组装新 PC 的计划。AI 热导致 DRAM 芯片供应严重短缺，进而导致使用到 DRAM 的 PC 组件如内存、SSD 以及显卡等价格上涨，其中内存价格飙升了数倍之多。接受调查的用户中，15% 的人表示会在未来两年内组装 PC，25% 的人计划在未来 12 个月内尝试组装一台新 PC。有很多人都在等待电商平台的促销活动，希望届时价格会略有下降，当然价格回落到一年前是不可能的。",
-      "url": "https://www.solidot.org/story?sid=84319",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "刚果再次爆发埃博拉疫情",
-      "date": "Sun, 17 May 2026 14:10:47 GMT",
-      "summary": "WHO 周日（5月17日）将刚果民主共和国（DRC）与乌干达暴发的埃博拉疫情列为“国际关注的突发公共卫生事件”。这次疫情尚未达到《国际卫生条例》所定义的大流行紧急事件标准，但与刚果民主共和国接壤的国家面临极高的进一步扩散风险。此次疫情由 Bundibugyo 毒株引发，已在刚果民主共和国造成数十人死亡。截至周六，该国伊图里省已报告 80 例疑似死亡病例、8 例实验室确诊病例，以及 246 例疑似病例。刚果卫生部长表示：“Bundibugyo 毒株目前没有疫苗，也没有针对性地治疗方法。这一毒株的致死率非常高，可高达50%。”乌干达首都坎帕拉在周五和周六也报告了两例实验室确诊病例，其中一人死亡。这两名患者均为从刚果民主共和国入境的人员。这是自 1976 年发现埃博拉病毒以来，刚果民主共和国发生的第 17 次埃博拉疫情。",
-      "url": "https://www.solidot.org/story?sid=84317",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
+      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+      "date": "Mon, 18 May 2026 10:00:00 GMT",
+      "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
+      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "category": "Company",
+      "source": "OpenAI News",
+      "source_name": "openai"
     },
     {
       "title": "How Startups Are Using AI to Disrupt Industries",
       "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-05-17T11:38:24.966Z",
+      "date": "2026-05-17T14:48:01.699Z",
       "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
       "category": "Source Code",
       "source": "Every.to",
@@ -257,7 +263,7 @@
     {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-05-16T11:38:24.966Z",
+      "date": "2026-05-16T14:48:01.699Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
@@ -275,7 +281,7 @@
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-05-15T11:38:24.966Z",
+      "date": "2026-05-15T14:48:01.699Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
@@ -291,10 +297,10 @@
       "source_name": "openai"
     },
     {
-      "title": "How data science teams use Codex",
+      "title": "How business operations teams use Codex",
       "date": "Fri, 15 May 2026 00:00:00 GMT",
-      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
       "category": "OpenAI Academy",
       "source": "OpenAI News",
       "source_name": "openai"
@@ -304,15 +310,6 @@
       "date": "Fri, 15 May 2026 00:00:00 GMT",
       "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
       "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "category": "OpenAI Academy",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
-      "title": "How business operations teams use Codex",
-      "date": "Fri, 15 May 2026 00:00:00 GMT",
-      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
       "category": "OpenAI Academy",
       "source": "OpenAI News",
       "source_name": "openai"
@@ -329,7 +326,7 @@
     {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-05-14T11:38:24.966Z",
+      "date": "2026-05-14T14:48:01.699Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -338,7 +335,7 @@
     {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-05-13T11:38:24.966Z",
+      "date": "2026-05-13T14:48:01.699Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
