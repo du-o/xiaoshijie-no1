@@ -1,17 +1,17 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-05-20T04:07:35.006Z",
+  "fetch_time": "2026-05-20T07:42:28.203Z",
   "articles": [
     {
       "title": "openclaw 2026.5.19-beta.2",
       "date": "2026-05-19T21:12:37Z",
-      "summary": "## 2026.5.19\n### Changes\n\n- Agents: clarify that fixes should default to clean bounded refactors, lean internals, and explicit plugin SDK/API deprecation paths.\n- Dependencies: update `@openclaw/proxy...",
+      "summary": "\n### Changes\n\n- Agents: clarify that fixes should default to clean bounded refactors, lean internals, and explicit plugin SDK/API deprecation paths.\n- Dependencies: update `@openclaw/proxyline` to 0.3...",
       "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.19-beta.2",
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.5.19-beta.2",
-      "downloadCount": 0
+      "downloadCount": 10
     },
     {
       "title": "openclaw 2026.5.19-alpha.1",
@@ -21,7 +21,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.5.19-alpha.1",
-      "downloadCount": 5
+      "downloadCount": 8
     },
     {
       "title": "openclaw 2026.5.19-beta.1",
@@ -41,7 +41,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.5.18",
-      "downloadCount": 8147
+      "downloadCount": 8947
     },
     {
       "title": "openclaw 2026.5.18-beta.1",
@@ -51,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.5.18-beta.1",
-      "downloadCount": 12
+      "downloadCount": 13
     },
     {
       "title": "openclaw 2026.5.16-beta.7",
