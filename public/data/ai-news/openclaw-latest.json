@@ -1,7 +1,7 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-05-20T07:42:28.203Z",
+  "fetch_time": "2026-05-20T10:43:02.842Z",
   "articles": [
     {
       "title": "openclaw 2026.5.19-beta.2",
@@ -11,7 +11,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.5.19-beta.2",
-      "downloadCount": 10
+      "downloadCount": 22
     },
     {
       "title": "openclaw 2026.5.19-alpha.1",
@@ -21,7 +21,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.5.19-alpha.1",
-      "downloadCount": 8
+      "downloadCount": 11
     },
     {
       "title": "openclaw 2026.5.19-beta.1",
@@ -36,12 +36,12 @@
     {
       "title": "openclaw 2026.5.18",
       "date": "2026-05-18T18:54:22Z",
-      "summary": "\n### Changes\n\n- Agents: clarify that fixes should default to clean bounded refactors, lean internals, and explicit plugin SDK/API deprecation paths.\n- Dependencies: update `@openclaw/proxyline` to 0.3...",
+      "summary": "## 2026.5.18\n\nOpenClaw 2026.5.18 is the stable rollup after 2026.5.12. It includes the 2026.5.14 and 2026.5.17 beta trains plus the final 2026.5.18 fixes below.\n\n### Consolidated Since 2026.5.12\n\n- Co...",
       "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.18",
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.5.18",
-      "downloadCount": 8947
+      "downloadCount": 9687
     },
     {
       "title": "openclaw 2026.5.18-beta.1",
