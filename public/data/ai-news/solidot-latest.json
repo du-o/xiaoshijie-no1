@@ -1,8 +1,22 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-05-19T14:24:45.429Z",
+  "fetch_time": "2026-05-20T04:07:05.731Z",
   "articles": [
+    {
+      "title": "pgBackRest 作者宣布继续维护该项目",
+      "date": "Tue, 19 May 2026 13:55:28 GMT",
+      "summary": "上月底，PostgreSQL 备份恢复项目 pgBackRest 的维护者 David Steele 宣布项目存档停止维护。pgBackRest 被广泛视为是 PostgreSQL 生态系统最流行的运维工具之一。Steele 解释说，过去 13 年 pgBackRest 是他倾注热情的项目，幸运的是大部分时间里他都有企业资助，他的长期赞助商是 Crunchy Data 公司，但这家公司被 Snowflake 收购了，而新东家无意资助他继续从事相关工作，因此他过去几个月一直在寻找继续这项工作的职位但没有成功，获得的赞助也远远未能达到维持项目运营所需的金额，因此只能宣布停止维护。在这一声明公布数周之后，他更新了消息，宣布将继续开发 pgBackRes：因为一个赞助商联盟同意为项目持续提供资金，给予了 pgBackRes 开发所需的长期稳定性，他对此表示了感谢。",
+      "url": "https://www.solidot.org/story?sid=84343",
+      "category": ""
+    },
+    {
+      "title": "索尼取消将 PS 独占单人游戏移植到 PC 的计划",
+      "date": "Tue, 19 May 2026 13:43:32 GMT",
+      "summary": "负责索尼 PS 工作室业务的高管 Hermen Hulst 周一证实了此前的流言：取消将 PS 独占单人游戏移植到 PC 的计划。索尼过去几年将此前的独占 PS 单人游戏如 God of War 系列、Spider-Man 系列、Ghost of Tsushima、The Last of Us 系列和 Horizon Zero Dawn 系列移植到了 PC 平台，但最近一段时间移植频率下降，引发了索尼改变移植战略的流言。Hermen Hulst 周一在员工大会上宣布了公司的战略调整计划。索尼据称是担心稀释 PlayStation 品牌影响力。此举意味着索尼最近推出的单人游戏 Ghost of Yotei 和 Saros 将会无缘登陆 PC。索尼的战略调整针对的是第一方工作室的单人游戏，多人游戏以及第三方工作室的单人游戏仍然会登陆 PC。",
+      "url": "https://www.solidot.org/story?sid=84342",
+      "category": ""
+    },
     {
       "title": "人类为什么惯用右手",
       "date": "Tue, 19 May 2026 09:58:53 GMT",
@@ -29,20 +43,6 @@
       "date": "Tue, 19 May 2026 07:40:54 GMT",
       "summary": "Kubernetes 联合创始人、微软副总裁 Brendan Burns 在北美开源峰会上突然宣布了一个通用 Linux 发行版。微软以前发布过 Linux 应用，针对边缘计算设备的 Azure Sphere，Linux 容器软件平台 CBL-Marnier——后更名为 Azure Linux，但此前从未发布过通用发行版。微软 Azure 开源团队首席项目经理 Lachlan Everson 表示，通过 Azure Linux 4.0，微软正致力于将 Azure Linux 转变成一个功能完整的通用云发行版。Azure Linux 4.0 是基于 Fedora Linux 发行版，已发布在 GitHub 上，使用 Fedora 的 RPM 包管理系统，深度整合 Azure 云平台。开发者可以通过 WSL 在 Windows 11 上运行 Azure Linux 4.0，但没有 GUI。微软承诺为 Azure Linux 每月释出补丁，如果出现重要漏洞，微软也承诺及时释出补丁。",
       "url": "https://www.solidot.org/story?sid=84338",
-      "category": ""
-    },
-    {
-      "title": "Meta 重分配七千员工专注于 AI",
-      "date": "Tue, 19 May 2026 06:38:37 GMT",
-      "summary": "Meta 周一通知员工，将重分配七千员工专注于 AI。Meta HR 负责人 Janelle Gale 在一份内部备忘录中称，员工将被调往四个专注构建新 AI 工具和应用的新部门，新部门采用“AI 原生设计架构”，每位员工的经理人数将少于其他部门。截至 2025 年底，Meta 员工总数逾 78,000 人。它最近宣布将裁员八千人。Meta CEO 扎克伯格(Mark Zuckerberg)正将公司的未来押注在 AI 上，他今年初表示计划年内投入 1150 亿至 1350 亿美元，大部分将用于开发新 AI 技术。",
-      "url": "https://www.solidot.org/story?sid=84337",
-      "category": ""
-    },
-    {
-      "title": "陪审团以诉讼时效为由判马斯克败诉",
-      "date": "Tue, 19 May 2026 05:56:33 GMT",
-      "summary": "引发广泛关注的马斯克（Elon Musk）诉 OpenAI 一案经历三周的庭审之后，陪审团周一以超出三年诉讼时效为由判马斯克败诉。OpenAI 由 Sam Altman、Greg Brockman 和马斯克等人在 2015 年创建，最初是非营利组织，马斯克在 2018 年离开董事会，次年 OpenAI 成立了营利性公司，当年获得了微软的 10 亿美元投资。马斯克是在 2024 年向旧金山高等法院起诉 OpenAI 及其联合创始人 Altman 和 Brockman 违反公司的创始原则，将商业利益置于公共利益之上。陪审团认定他提起诉讼的时间过长，未能及时提出 OpenAI 背离其非营利使命的指控。",
-      "url": "https://www.solidot.org/story?sid=84336",
       "category": ""
     }
   ],

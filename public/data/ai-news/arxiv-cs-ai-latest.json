@@ -1,62 +1,64 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-05-19T14:24:42.632Z",
+  "fetch_time": "2026-05-20T04:07:02.388Z",
   "articles": [
     {
-      "title": "AgentWall: A Runtime Safety Layer for Local AI Agents",
-      "date": "Tue, 19 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.16265v1 Announce Type: new Abstract: The safety of autonomous AI agents is increasingly recognized as a critical open problem. As agents transition from passive text generators to active actors capable of executing shell commands, modifying files, calling APIs, and browsing the web, the consequences of unsafe or adversarially manipulated behavior become immediate and tangible. Existing AI safety work has focused primarily on model alignment and input filtering, but these approaches do",
-      "url": "https://arxiv.org/abs/2605.16265",
+      "title": "Position: Let's Develop Data Probes to Fundamentally Understand How Data Affects LLM Performance",
+      "date": "Wed, 20 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.18801v1 Announce Type: new Abstract: Data is fundamental to large language models (LLMs). However, understanding of what makes certain data useful for different stages of an LLM workflow, including training, tuning, alignment, in-context learning, etc., and why, remains an open question. Current approaches rely heavily on extensive experimentation with large public datasets to obtain empirical heuristics for data filtering and dataset construction. These approaches are compute intensi",
+      "url": "https://arxiv.org/abs/2605.18801",
       "category": [
         "cs.AI",
-        "cs.CR"
+        "cs.IR",
+        "cs.LG"
       ]
     },
     {
-      "title": "ANNEAL: Adapting LLM Agents via Governed Symbolic Patch Learning",
-      "date": "Tue, 19 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.16309v1 Announce Type: new Abstract: LLM-based agents can recover from individual execution errors, yet they repeatedly fail on the same fault when the underlying process knowledge--operator schemas, preconditions, and constraints--remains unrepaired. Existing self-evolving approaches address this gap by updating prompts, memory, or model weights, but none directly repair the symbolic structures that encode how tasks are executed, and few provide the governance guarantees required for",
-      "url": "https://arxiv.org/abs/2605.16309",
+      "title": "Operationalizing Document AI: A Microservice Architecture for OCR and LLM Pipelines in Production",
+      "date": "Wed, 20 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.18818v1 Announce Type: new Abstract: Academic research tends to focus on new models for document understanding creating a wide gap in the literature between model definition and running models at production scale. To close that gap, we present a microservice architecture that encapsulates pipelines of multiple models for classification, optical character recognition (OCR), and large language model structured field extraction as well as our experience running this pipeline on thousands",
+      "url": "https://arxiv.org/abs/2605.18818",
       "category": [
         "cs.AI",
         "cs.LG",
-        "cs.MA"
+        "cs.SE"
       ]
     },
     {
-      "title": "From Prompts to Protocols: An AI Agent for Laboratory Automation",
-      "date": "Tue, 19 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.16552v1 Announce Type: new Abstract: Automating science laboratories enables faster, safer, more accurate, and more reproducible execution of protocols, accelerating the discovery and testing of new materials, drugs, and more. However, setting up and running autonomous labs requires coordinating numerous instruments and robots, forcing scientists to write code, manage configuration files, and navigate complex software infrastructure. We present an AI agent architecture that integrates",
-      "url": "https://arxiv.org/abs/2605.16552",
-      "category": [
-        "cs.AI",
-        "cs.RO"
-      ]
-    },
-    {
-      "title": "Skim: Speculative Execution for Fast and Efficient Web Agents",
-      "date": "Tue, 19 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.16565v1 Announce Type: new Abstract: Skim is a speculative execution framework for web agents that exploits the predictable structure of purpose-built websites. Today's web-agent expense is not intrinsic to the tasks but a property of how agents are composed: frontier-model inference, browser rendering, and ReAct-style planning are applied to every step of every task regardless of complexity. Skim's key observation is that websites enforce stable URL patterns, answer formats, and task",
-      "url": "https://arxiv.org/abs/2605.16565",
-      "category": [
-        "cs.AI",
-        "cs.OS"
-      ]
-    },
-    {
-      "title": "Scalable Uncertainty Reasoning in Knowledge Graphs",
-      "date": "Tue, 19 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.16568v1 Announce Type: new Abstract: Knowledge Graphs are pivotal for semantic data integration. The real-world data they model is often inherently uncertain. Within knowledge graphs, uncertainty manifests in three distinct levels: imprecise attribute values, probabilistic triple existence, and incomplete schema knowledge. However, current Semantic Web standards lack native support for reasoning over such uncertainty, and na\\\"ive extensions often incur computational intractability. In",
-      "url": "https://arxiv.org/abs/2605.16568",
+      "title": "Evaluating the Utility of Personal Health Records in Personalized Health AI",
+      "date": "Wed, 20 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.18937v1 Announce Type: new Abstract: Patient-managed Personal Health Records (PHRs) promises to empower patients to better understand their health; but information in the record is complex, potentially hindering insights. In this study, we assess the potential of large language models (LLMs, Gemini 3.0 Flash) to provide helpful answers to user health queries, when provided clinical data from PHRs as context. A total of 2,257 user queries were drawn from 3 different distributions to re",
+      "url": "https://arxiv.org/abs/2605.18937",
       "category": "cs.AI"
     },
     {
-      "title": "Counterparty Modeling is Not Strategy: The Limits of LLM Negotiators",
-      "date": "Tue, 19 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.16575v1 Announce Type: new Abstract: Negotiation requires more than inferring what the other side wants: it requires using that information to make advantageous offers and counteroffers over multiple turns. We study whether large language model (LLM) agents do this in a controlled multi-attribute bargaining environment. We find that current LLM agents can model a counterparty's preferences, but do not reliably turn that knowledge into strategic bargaining. When given negotiating partn",
-      "url": "https://arxiv.org/abs/2605.16575",
+      "title": "Learn-by-Wire Training Control Governance: Bounded Autonomous Training Under Stress for Stability and Efficiency",
+      "date": "Wed, 20 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.19008v1 Announce Type: new Abstract: Modern language-model training is increasingly exposed to instability, degraded runs, and wasted compute, especially under aggressive learning-rate, scale, and runtime-stress conditions. This paper introduces Learn-by-Wire Guard (LBW-Guard), a bounded autonomous training-control governance layer that operates above AdamW. Rather than replacing the optimizer update rule, LBW-Guard observes training telemetry, interprets instability-sensitive regimes",
+      "url": "https://arxiv.org/abs/2605.19008",
+      "category": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "AgentNLQ: A General-Purpose Agent for Natural Language to SQL",
+      "date": "Wed, 20 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.19010v1 Announce Type: new Abstract: Natural language to SQL (NL2SQL) conversion is an important problem for researchers and enterprises due to the ubiquitous importance of relational databases in broad-ranging practical problems. Despite the rapid advancements in the capabilities of LLMs, NL2SQL has not reached parity in accuracy with human expert SQL writers, hence needing additional improvements in NL2SQL algorithms. This study presents a new multi-agent method for NL2SQL that achi",
+      "url": "https://arxiv.org/abs/2605.19010",
       "category": "cs.AI"
+    },
+    {
+      "title": "KAN-MLP-Mixer: A comprehensive investigation of the usage of Kolmogorov-Arnold Networks (KANs) for improving IMU-based Human Activity Recognition",
+      "date": "Wed, 20 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.19031v1 Announce Type: new Abstract: Kolmogorov-Arnold Networks (KANs) have demonstrated an exceptional ability to learn complex functions on clean, low-dimensional data but struggle to maintain performance on noisy and imperfect real-world datasets. In contrast, conventional multi-layer perceptrons (MLPs) are far more tolerant to noise and computationally efficient. Replacing all MLP components with KANs in HAR models often degrades accuracy and computation efficiency, highlighting a",
+      "url": "https://arxiv.org/abs/2605.19031",
+      "category": [
+        "cs.AI",
+        "eess.SP"
+      ]
     }
   ],
   "status": "success",

@@ -1,94 +1,145 @@
 {
-  "fetch_time": "2026-05-19T14:24:45.430Z",
+  "fetch_time": "2026-05-20T04:07:05.732Z",
   "total_count": 36,
   "sources_count": 6,
   "errors": null,
   "articles": [
     {
-      "title": "ST金鸿：“松树资本产业导入上市公司”等属不实言论",
-      "date": "Tue, 19 May 2026 12:57:43 GMT",
-      "summary": "36氪获悉，ST金鸿发布关于市场传闻的澄清及风险提示的公告，近期，公司关注到部分财经媒体平台有投资者发帖称李文浩系洛阳国资委派、本次实控人变更系配合洛阳、与韩国三星海力士有关、松树资本产业导入上市公司等。公司在此郑重澄清，以上信息均属不实言论。敬请广大投资者理性投资，注意风险。",
-      "url": "https://36kr.com/newsflashes/3816218027983239?f=rss",
+      "title": "平头哥真武系列GPU已累计出货超56万片",
+      "date": "Wed, 20 May 2026 04:06:41 GMT",
+      "summary": "36氪获悉，5月20日，在2026阿里云峰会上，平头哥首次公布真武系列芯片的规划，未来两年将陆续推出算力更强的真武V900、真武J900两代芯片，以满足Agentic时代千行百业的AI算力需求。目前，真武系列芯片已累计出货56万片，服务了中国电信、中国一汽、浦发银行等20多个行业的400多家客户。",
+      "url": "https://36kr.com/newsflashes/3817111570482304?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "*ST阳光：公司股票自5月21日起撤销退市风险警示，股票简称变更为“阳光股份”",
-      "date": "Tue, 19 May 2026 12:55:38 GMT",
-      "summary": "36氪获悉，*ST阳光公告，公司股票自2026年5月20日开市起停牌1天，并于5月21日开市起复牌。自5月21日起，公司股票被撤销退市风险警示，股票简称由“*ST阳光”变更为“阳光股份”，证券代码仍为“000608”，日涨跌幅限制由“5%”变更为“10%”。",
-      "url": "https://36kr.com/newsflashes/3816215984570760?f=rss",
+      "title": "恒指午间休盘跌0.55%，恒生科技指数涨0.17%",
+      "date": "Wed, 20 May 2026 04:03:09 GMT",
+      "summary": "36氪获悉，恒指午间休盘跌0.55%，恒生科技指数涨0.17%；半导体板块大涨，兆易创新涨超14%，华虹半导体、中芯国际涨超8%；汽车、有色板块跌幅居前，赤峰黄金跌超5%，蔚来、比亚迪股份跌超3%南向资金净买入54.68亿港元。",
+      "url": "https://36kr.com/newsflashes/3817108104708994?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "热门中概股美股盘前涨跌互现，哔哩哔哩跌超4%",
-      "date": "Tue, 19 May 2026 12:52:35 GMT",
-      "summary": "36氪获悉，热门中概股美股盘前涨跌互现，截至发稿，阿里巴巴、京东、微博涨超1%，百度涨0.65%；哔哩哔哩、理想汽车跌超4%，蔚来跌超1%，小鹏集团跌0.27%。",
-      "url": "https://36kr.com/newsflashes/3816212978680200?f=rss",
+      "title": "Position: Let's Develop Data Probes to Fundamentally Understand How Data Affects LLM Performance",
+      "date": "Wed, 20 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.18801v1 Announce Type: new Abstract: Data is fundamental to large language models (LLMs). However, understanding of what makes certain data useful for different stages of an LLM workflow, including training, tuning, alignment, in-context learning, etc., and why, remains an open question. Current approaches rely heavily on extensive experimentation with large public datasets to obtain empirical heuristics for data filtering and dataset construction. These approaches are compute intensi",
+      "url": "https://arxiv.org/abs/2605.18801",
+      "category": [
+        "cs.AI",
+        "cs.IR",
+        "cs.LG"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Operationalizing Document AI: A Microservice Architecture for OCR and LLM Pipelines in Production",
+      "date": "Wed, 20 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.18818v1 Announce Type: new Abstract: Academic research tends to focus on new models for document understanding creating a wide gap in the literature between model definition and running models at production scale. To close that gap, we present a microservice architecture that encapsulates pipelines of multiple models for classification, optical character recognition (OCR), and large language model structured field extraction as well as our experience running this pipeline on thousands",
+      "url": "https://arxiv.org/abs/2605.18818",
+      "category": [
+        "cs.AI",
+        "cs.LG",
+        "cs.SE"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Evaluating the Utility of Personal Health Records in Personalized Health AI",
+      "date": "Wed, 20 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.18937v1 Announce Type: new Abstract: Patient-managed Personal Health Records (PHRs) promises to empower patients to better understand their health; but information in the record is complex, potentially hindering insights. In this study, we assess the potential of large language models (LLMs, Gemini 3.0 Flash) to provide helpful answers to user health queries, when provided clinical data from PHRs as context. A total of 2,257 user queries were drawn from 3 different distributions to re",
+      "url": "https://arxiv.org/abs/2605.18937",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Learn-by-Wire Training Control Governance: Bounded Autonomous Training Under Stress for Stability and Efficiency",
+      "date": "Wed, 20 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.19008v1 Announce Type: new Abstract: Modern language-model training is increasingly exposed to instability, degraded runs, and wasted compute, especially under aggressive learning-rate, scale, and runtime-stress conditions. This paper introduces Learn-by-Wire Guard (LBW-Guard), a bounded autonomous training-control governance layer that operates above AdamW. Rather than replacing the optimizer update rule, LBW-Guard observes training telemetry, interprets instability-sensitive regimes",
+      "url": "https://arxiv.org/abs/2605.19008",
+      "category": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "AgentNLQ: A General-Purpose Agent for Natural Language to SQL",
+      "date": "Wed, 20 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.19010v1 Announce Type: new Abstract: Natural language to SQL (NL2SQL) conversion is an important problem for researchers and enterprises due to the ubiquitous importance of relational databases in broad-ranging practical problems. Despite the rapid advancements in the capabilities of LLMs, NL2SQL has not reached parity in accuracy with human expert SQL writers, hence needing additional improvements in NL2SQL algorithms. This study presents a new multi-agent method for NL2SQL that achi",
+      "url": "https://arxiv.org/abs/2605.19010",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "KAN-MLP-Mixer: A comprehensive investigation of the usage of Kolmogorov-Arnold Networks (KANs) for improving IMU-based Human Activity Recognition",
+      "date": "Wed, 20 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.19031v1 Announce Type: new Abstract: Kolmogorov-Arnold Networks (KANs) have demonstrated an exceptional ability to learn complex functions on clean, low-dimensional data but struggle to maintain performance on noisy and imperfect real-world datasets. In contrast, conventional multi-layer perceptrons (MLPs) are far more tolerant to noise and computationally efficient. Replacing all MLP components with KANs in HAR models often degrades accuracy and computation efficiency, highlighting a",
+      "url": "https://arxiv.org/abs/2605.19031",
+      "category": [
+        "cs.AI",
+        "eess.SP"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "半日主力资金加仓电子股，抛售公用事业、传媒股",
+      "date": "Wed, 20 May 2026 03:53:06 GMT",
+      "summary": "主力资金早间净流入电子、电力设备、基础化工、有色金属、机械设备等板块，净流出公用事业、传媒、汽车、医药生物、计算机等板块。具体到个股来看，中芯国际、长电科技、兆易创新获净流入54.48亿元、47.39亿元、22.37亿元。净流出方面，巨力索具、天孚通信、工业富联遭抛售21.74亿元、11.04亿元、9.73亿元。（新浪财经）",
+      "url": "https://36kr.com/newsflashes/3817088492831617?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "美股大型科技股盘前多数下跌，英特尔跌超1%",
-      "date": "Tue, 19 May 2026 12:49:57 GMT",
-      "summary": "36氪获悉，美股大型科技股盘前多数下跌，截至发稿，英特尔跌超1%，特斯拉跌0.94%，苹果跌0.7%，亚马逊跌0.69%，英伟达跌0.66%，Meta跌0.3%；谷歌涨超1%，微软涨0.95%，奈飞涨0.46%。",
-      "url": "https://36kr.com/newsflashes/3816210396250497?f=rss",
+      "title": "“贝塔无限”连续完成种子轮、种子+轮数亿元融资",
+      "date": "Wed, 20 May 2026 03:45:46 GMT",
+      "summary": "36氪获悉，近日，聚焦消费级通用具身智能的企业“贝塔无限 Beta Infinity”宣布，公司已先后完成种子轮、种子+轮数亿元融资。种子轮由洪泰基金、正景基金、银杏谷资本、水木清华校友种子基金、粤科金融等投资机构联合投资，种子+轮由世纪华通参与的盛趣泰和基金与和利资本联合领投，毅达资本、南山战新投等机构跟投，义柏资本担任财务顾问。两轮资金将主要用于核心技术研发、产品试制等。",
+      "url": "https://36kr.com/newsflashes/3817084193866889?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "隆扬电子：控股股东及其一致行动人拟减持不超2%公司股份",
-      "date": "Tue, 19 May 2026 12:45:27 GMT",
-      "summary": "36氪获悉，隆扬电子公告，公司控股股东隆扬国际计划通过大宗交易的方式减持本公司股份不超过53万股（即不超过公司总股本的0.19%）；控股股东的一致行动人群展咨询计划通过集中竞价或/和大宗交易的方式减持本公司股份不超过512.45万股（即不超过公司总股本的1.81%）。",
-      "url": "https://36kr.com/newsflashes/3816205974552962?f=rss",
+      "title": "平头哥AI芯片真武M890首次亮相，性能提升至3倍",
+      "date": "Wed, 20 May 2026 03:34:52 GMT",
+      "summary": "36氪获悉，5月20日，在2026阿里云峰会上，平头哥新一代训推一体AI芯片真武M890首次亮相，该芯片内置144GB显存，片间互联带宽达到800GB/s，性能是真武810E的3倍，原生支持FP32到FP4等多种数据精度，可应用于高精度训练、低精度和超低精度推理的全场景。配合自研ICN Switch1.0芯片，可实现64卡全带宽互联，显著提升大规模智算集群计算的效率与稳定性。这是面向Agentic时代全面升级的重要部分，当天阿里云推出了全新“芯-云-模型-推理”技术体系。",
+      "url": "https://36kr.com/newsflashes/3817080294999168?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "富祥股份：股东拟减持不超2.45%股份",
-      "date": "Tue, 19 May 2026 12:37:15 GMT",
-      "summary": "36氪获悉，富祥股份公告，持有公司1321.6446万股的股东喻文军，计划以集中竞价、大宗交易等方式减持公司股份合计不超过1321.6446万股（占公司总股本比例2.45%）。",
-      "url": "https://36kr.com/newsflashes/3816197908726146?f=rss",
+      "title": "A股三大指数午间休盘涨跌不一，半导体产业链走强",
+      "date": "Wed, 20 May 2026 03:33:01 GMT",
+      "summary": "36氪获悉，A股三大指数午间休盘涨跌不一，沪指跌0.45%，深成指跌0.37%，创业板涨0.05%；半导体产业链走强，华虹公司涨超10%，中芯国际、兆易创新涨超8%；贵金属、电力板块跌幅居前，京能电力、大唐发电、晋控电力跌停。",
+      "url": "https://36kr.com/newsflashes/3817078473376649?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "Quantum computing",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/",
-      "date": "2026-05-19T10:54:36.445Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Q1 2026 earnings call: Remarks from our CEO Read Sundar Pichai’s remarks during the Alphabet earnings call for Q1 2026.",
-      "url": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q1-2026/",
-      "date": "2026-05-19T10:54:36.445Z",
-      "summary": "",
-      "category": "Company",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Google Cloud",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/",
-      "date": "2026-05-19T10:54:36.445Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
+      "title": "Introducing OpenAI for Singapore",
+      "date": "Tue, 19 May 2026 20:30:00 GMT",
+      "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+      "url": "https://openai.com/index/introducing-openai-for-singapore",
+      "category": "Global Affairs",
+      "source": "OpenAI News",
+      "source_name": "openai"
     },
     {
       "title": "A smarter, more proactive Android with Gemini Intelligence At the Android Show 2026, we introduced Gemini Intelligence, proactive new AI features on Android.",
       "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence/",
-      "date": "2026-05-19T10:54:36.444Z",
+      "date": "2026-05-19T14:24:51.687Z",
       "summary": "",
       "category": "Google",
       "source": "Google Blog",
@@ -97,7 +148,7 @@
     {
       "title": "Introducing Googlebook, designed for Gemini Intelligence",
       "url": "https://blog.google/products-and-platforms/platforms/android/meet-googlebook/",
-      "date": "2026-05-19T10:54:36.444Z",
+      "date": "2026-05-19T14:24:51.687Z",
       "summary": "",
       "category": "Google",
       "source": "Google Blog",
@@ -106,20 +157,74 @@
     {
       "title": "Bringing the best of Gemini in Chrome to Android",
       "url": "https://blog.google/products-and-platforms/products/chrome/bringing-chrome-ai-to-android/",
-      "date": "2026-05-19T10:54:36.444Z",
+      "date": "2026-05-19T14:24:51.687Z",
       "summary": "",
       "category": "Products",
       "source": "Google Blog",
       "source_name": "google-blog"
     },
     {
+      "title": "Quantum computing",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/",
+      "date": "2026-05-19T14:24:51.687Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Q1 2026 earnings call: Remarks from our CEO Read Sundar Pichai’s remarks during the Alphabet earnings call for Q1 2026.",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q1-2026/",
+      "date": "2026-05-19T14:24:51.687Z",
+      "summary": "",
+      "category": "Company",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Google Cloud",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/",
+      "date": "2026-05-19T14:24:51.687Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
       "title": "The State of AI: A Look at What's Next",
       "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-05-19T10:54:29.894Z",
+      "date": "2026-05-19T14:24:41.848Z",
       "summary": "An in-depth analysis of the current AI landscape and future trends.",
       "category": "AI Analysis",
       "source": "Every.to",
       "source_name": "every"
+    },
+    {
+      "title": "pgBackRest 作者宣布继续维护该项目",
+      "date": "Tue, 19 May 2026 13:55:28 GMT",
+      "summary": "上月底，PostgreSQL 备份恢复项目 pgBackRest 的维护者 David Steele 宣布项目存档停止维护。pgBackRest 被广泛视为是 PostgreSQL 生态系统最流行的运维工具之一。Steele 解释说，过去 13 年 pgBackRest 是他倾注热情的项目，幸运的是大部分时间里他都有企业资助，他的长期赞助商是 Crunchy Data 公司，但这家公司被 Snowflake 收购了，而新东家无意资助他继续从事相关工作，因此他过去几个月一直在寻找继续这项工作的职位但没有成功，获得的赞助也远远未能达到维持项目运营所需的金额，因此只能宣布停止维护。在这一声明公布数周之后，他更新了消息，宣布将继续开发 pgBackRes：因为一个赞助商联盟同意为项目持续提供资金，给予了 pgBackRes 开发所需的长期稳定性，他对此表示了感谢。",
+      "url": "https://www.solidot.org/story?sid=84343",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "索尼取消将 PS 独占单人游戏移植到 PC 的计划",
+      "date": "Tue, 19 May 2026 13:43:32 GMT",
+      "summary": "负责索尼 PS 工作室业务的高管 Hermen Hulst 周一证实了此前的流言：取消将 PS 独占单人游戏移植到 PC 的计划。索尼过去几年将此前的独占 PS 单人游戏如 God of War 系列、Spider-Man 系列、Ghost of Tsushima、The Last of Us 系列和 Horizon Zero Dawn 系列移植到了 PC 平台，但最近一段时间移植频率下降，引发了索尼改变移植战略的流言。Hermen Hulst 周一在员工大会上宣布了公司的战略调整计划。索尼据称是担心稀释 PlayStation 品牌影响力。此举意味着索尼最近推出的单人游戏 Ghost of Yotei 和 Saros 将会无缘登陆 PC。索尼的战略调整针对的是第一方工作室的单人游戏，多人游戏以及第三方工作室的单人游戏仍然会登陆 PC。",
+      "url": "https://www.solidot.org/story?sid=84342",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+      "date": "Tue, 19 May 2026 10:45:00 GMT",
+      "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
+      "url": "https://openai.com/index/advancing-content-provenance",
+      "category": "Safety",
+      "source": "OpenAI News",
+      "source_name": "openai"
     },
     {
       "title": "人类为什么惯用右手",
@@ -158,94 +263,9 @@
       "source_name": "solidot"
     },
     {
-      "title": "Meta 重分配七千员工专注于 AI",
-      "date": "Tue, 19 May 2026 06:38:37 GMT",
-      "summary": "Meta 周一通知员工，将重分配七千员工专注于 AI。Meta HR 负责人 Janelle Gale 在一份内部备忘录中称，员工将被调往四个专注构建新 AI 工具和应用的新部门，新部门采用“AI 原生设计架构”，每位员工的经理人数将少于其他部门。截至 2025 年底，Meta 员工总数逾 78,000 人。它最近宣布将裁员八千人。Meta CEO 扎克伯格(Mark Zuckerberg)正将公司的未来押注在 AI 上，他今年初表示计划年内投入 1150 亿至 1350 亿美元，大部分将用于开发新 AI 技术。",
-      "url": "https://www.solidot.org/story?sid=84337",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "陪审团以诉讼时效为由判马斯克败诉",
-      "date": "Tue, 19 May 2026 05:56:33 GMT",
-      "summary": "引发广泛关注的马斯克（Elon Musk）诉 OpenAI 一案经历三周的庭审之后，陪审团周一以超出三年诉讼时效为由判马斯克败诉。OpenAI 由 Sam Altman、Greg Brockman 和马斯克等人在 2015 年创建，最初是非营利组织，马斯克在 2018 年离开董事会，次年 OpenAI 成立了营利性公司，当年获得了微软的 10 亿美元投资。马斯克是在 2024 年向旧金山高等法院起诉 OpenAI 及其联合创始人 Altman 和 Brockman 违反公司的创始原则，将商业利益置于公共利益之上。陪审团认定他提起诉讼的时间过长，未能及时提出 OpenAI 背离其非营利使命的指控。",
-      "url": "https://www.solidot.org/story?sid=84336",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "AgentWall: A Runtime Safety Layer for Local AI Agents",
-      "date": "Tue, 19 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.16265v1 Announce Type: new Abstract: The safety of autonomous AI agents is increasingly recognized as a critical open problem. As agents transition from passive text generators to active actors capable of executing shell commands, modifying files, calling APIs, and browsing the web, the consequences of unsafe or adversarially manipulated behavior become immediate and tangible. Existing AI safety work has focused primarily on model alignment and input filtering, but these approaches do",
-      "url": "https://arxiv.org/abs/2605.16265",
-      "category": [
-        "cs.AI",
-        "cs.CR"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "ANNEAL: Adapting LLM Agents via Governed Symbolic Patch Learning",
-      "date": "Tue, 19 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.16309v1 Announce Type: new Abstract: LLM-based agents can recover from individual execution errors, yet they repeatedly fail on the same fault when the underlying process knowledge--operator schemas, preconditions, and constraints--remains unrepaired. Existing self-evolving approaches address this gap by updating prompts, memory, or model weights, but none directly repair the symbolic structures that encode how tasks are executed, and few provide the governance guarantees required for",
-      "url": "https://arxiv.org/abs/2605.16309",
-      "category": [
-        "cs.AI",
-        "cs.LG",
-        "cs.MA"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "From Prompts to Protocols: An AI Agent for Laboratory Automation",
-      "date": "Tue, 19 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.16552v1 Announce Type: new Abstract: Automating science laboratories enables faster, safer, more accurate, and more reproducible execution of protocols, accelerating the discovery and testing of new materials, drugs, and more. However, setting up and running autonomous labs requires coordinating numerous instruments and robots, forcing scientists to write code, manage configuration files, and navigate complex software infrastructure. We present an AI agent architecture that integrates",
-      "url": "https://arxiv.org/abs/2605.16552",
-      "category": [
-        "cs.AI",
-        "cs.RO"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Skim: Speculative Execution for Fast and Efficient Web Agents",
-      "date": "Tue, 19 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.16565v1 Announce Type: new Abstract: Skim is a speculative execution framework for web agents that exploits the predictable structure of purpose-built websites. Today's web-agent expense is not intrinsic to the tasks but a property of how agents are composed: frontier-model inference, browser rendering, and ReAct-style planning are applied to every step of every task regardless of complexity. Skim's key observation is that websites enforce stable URL patterns, answer formats, and task",
-      "url": "https://arxiv.org/abs/2605.16565",
-      "category": [
-        "cs.AI",
-        "cs.OS"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Scalable Uncertainty Reasoning in Knowledge Graphs",
-      "date": "Tue, 19 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.16568v1 Announce Type: new Abstract: Knowledge Graphs are pivotal for semantic data integration. The real-world data they model is often inherently uncertain. Within knowledge graphs, uncertainty manifests in three distinct levels: imprecise attribute values, probabilistic triple existence, and incomplete schema knowledge. However, current Semantic Web standards lack native support for reasoning over such uncertainty, and na\\\"ive extensions often incur computational intractability. In",
-      "url": "https://arxiv.org/abs/2605.16568",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Counterparty Modeling is Not Strategy: The Limits of LLM Negotiators",
-      "date": "Tue, 19 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.16575v1 Announce Type: new Abstract: Negotiation requires more than inferring what the other side wants: it requires using that information to make advantageous offers and counteroffers over multiple turns. We study whether large language model (LLM) agents do this in a controlled multi-attribute bargaining environment. We find that current LLM agents can model a counterparty's preferences, but do not reliably turn that knowledge into strategic bargaining. When given negotiating partn",
-      "url": "https://arxiv.org/abs/2605.16575",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
       "title": "How Startups Are Using AI to Disrupt Industries",
       "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-05-18T10:54:29.894Z",
+      "date": "2026-05-18T14:24:41.848Z",
       "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
       "category": "Source Code",
       "source": "Every.to",
@@ -263,7 +283,7 @@
     {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-05-17T10:54:29.894Z",
+      "date": "2026-05-17T14:24:41.848Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
@@ -272,7 +292,7 @@
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-05-16T10:54:29.894Z",
+      "date": "2026-05-16T14:24:41.848Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
@@ -290,27 +310,18 @@
     {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-05-15T10:54:29.894Z",
+      "date": "2026-05-15T14:24:41.848Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
       "source_name": "every"
     },
     {
-      "title": "A new personal finance experience in ChatGPT",
+      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
       "date": "Fri, 15 May 2026 00:00:00 GMT",
-      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
-      "category": "Product",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
-      "title": "How sales teams use Codex",
-      "date": "Fri, 15 May 2026 00:00:00 GMT",
-      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "category": "OpenAI Academy",
+      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+      "url": "https://openai.com/index/databricks",
+      "category": "",
       "source": "OpenAI News",
       "source_name": "openai"
     },
@@ -324,18 +335,9 @@
       "source_name": "openai"
     },
     {
-      "title": "How data science teams use Codex",
-      "date": "Fri, 15 May 2026 00:00:00 GMT",
-      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "category": "OpenAI Academy",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-05-14T10:54:29.894Z",
+      "date": "2026-05-14T14:24:41.848Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",

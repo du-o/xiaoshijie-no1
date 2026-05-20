@@ -1,8 +1,28 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-05-19T14:25:04.860Z",
+  "fetch_time": "2026-05-20T04:07:35.006Z",
   "articles": [
+    {
+      "title": "openclaw 2026.5.19-beta.2",
+      "date": "2026-05-19T21:12:37Z",
+      "summary": "## 2026.5.19\n### Changes\n\n- Agents: clarify that fixes should default to clean bounded refactors, lean internals, and explicit plugin SDK/API deprecation paths.\n- Dependencies: update `@openclaw/proxy...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.19-beta.2",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.5.19-beta.2",
+      "downloadCount": 0
+    },
+    {
+      "title": "openclaw 2026.5.19-alpha.1",
+      "date": "2026-05-20T00:50:52Z",
+      "summary": "\n### Changes\n\n- Agents: clarify that fixes should default to clean bounded refactors, lean internals, and explicit plugin SDK/API deprecation paths.\n- Dependencies: update `@openclaw/proxyline` to 0.3...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.19-alpha.1",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.5.19-alpha.1",
+      "downloadCount": 5
+    },
     {
       "title": "openclaw 2026.5.19-beta.1",
       "date": "2026-05-18T22:58:13Z",
@@ -21,7 +41,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.5.18",
-      "downloadCount": 4840
+      "downloadCount": 8147
     },
     {
       "title": "openclaw 2026.5.18-beta.1",
@@ -31,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.5.18-beta.1",
-      "downloadCount": 11
+      "downloadCount": 12
     },
     {
       "title": "openclaw 2026.5.16-beta.7",
@@ -42,26 +62,6 @@
       "author": "github-actions[bot]",
       "tagName": "v2026.5.16-beta.7",
       "downloadCount": 45
-    },
-    {
-      "title": "openclaw 2026.5.16-beta.6",
-      "date": "2026-05-18T01:09:36Z",
-      "summary": "\n### Changes\n\n- Mac app: redesign Settings pages with consistent card layouts, cached navigation, cleaner permissions/voice/skills/cron/exec/debug panes, and steadier spacing around the native sidebar...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.16-beta.6",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.5.16-beta.6",
-      "downloadCount": 64
-    },
-    {
-      "title": "openclaw 2026.5.16-beta.5",
-      "date": "2026-05-17T17:59:02Z",
-      "summary": "\n### Changes\n\n- Mac app: redesign Settings pages with consistent card layouts, cached navigation, cleaner permissions/voice/skills/cron/exec/debug panes, and steadier spacing around the native sidebar...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.16-beta.5",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.5.16-beta.5",
-      "downloadCount": 37
     }
   ],
   "status": "success",
