@@ -1,11 +1,11 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-05-20T14:25:12.768Z",
+  "fetch_time": "2026-05-21T04:16:02.347Z",
   "articles": [
     {
       "title": "Position: Let's Develop Data Probes to Fundamentally Understand How Data Affects LLM Performance",
-      "date": "Wed, 20 May 2026 04:00:00 GMT",
+      "date": "Thu, 21 May 2026 04:00:00 GMT",
       "summary": "arXiv:2605.18801v1 Announce Type: new Abstract: Data is fundamental to large language models (LLMs). However, understanding of what makes certain data useful for different stages of an LLM workflow, including training, tuning, alignment, in-context learning, etc., and why, remains an open question. Current approaches rely heavily on extensive experimentation with large public datasets to obtain empirical heuristics for data filtering and dataset construction. These approaches are compute intensi",
       "url": "https://arxiv.org/abs/2605.18801",
       "category": [
@@ -16,7 +16,7 @@
     },
     {
       "title": "Operationalizing Document AI: A Microservice Architecture for OCR and LLM Pipelines in Production",
-      "date": "Wed, 20 May 2026 04:00:00 GMT",
+      "date": "Thu, 21 May 2026 04:00:00 GMT",
       "summary": "arXiv:2605.18818v1 Announce Type: new Abstract: Academic research tends to focus on new models for document understanding creating a wide gap in the literature between model definition and running models at production scale. To close that gap, we present a microservice architecture that encapsulates pipelines of multiple models for classification, optical character recognition (OCR), and large language model structured field extraction as well as our experience running this pipeline on thousands",
       "url": "https://arxiv.org/abs/2605.18818",
       "category": [
@@ -27,14 +27,14 @@
     },
     {
       "title": "Evaluating the Utility of Personal Health Records in Personalized Health AI",
-      "date": "Wed, 20 May 2026 04:00:00 GMT",
+      "date": "Thu, 21 May 2026 04:00:00 GMT",
       "summary": "arXiv:2605.18937v1 Announce Type: new Abstract: Patient-managed Personal Health Records (PHRs) promises to empower patients to better understand their health; but information in the record is complex, potentially hindering insights. In this study, we assess the potential of large language models (LLMs, Gemini 3.0 Flash) to provide helpful answers to user health queries, when provided clinical data from PHRs as context. A total of 2,257 user queries were drawn from 3 different distributions to re",
       "url": "https://arxiv.org/abs/2605.18937",
       "category": "cs.AI"
     },
     {
       "title": "Learn-by-Wire Training Control Governance: Bounded Autonomous Training Under Stress for Stability and Efficiency",
-      "date": "Wed, 20 May 2026 04:00:00 GMT",
+      "date": "Thu, 21 May 2026 04:00:00 GMT",
       "summary": "arXiv:2605.19008v1 Announce Type: new Abstract: Modern language-model training is increasingly exposed to instability, degraded runs, and wasted compute, especially under aggressive learning-rate, scale, and runtime-stress conditions. This paper introduces Learn-by-Wire Guard (LBW-Guard), a bounded autonomous training-control governance layer that operates above AdamW. Rather than replacing the optimizer update rule, LBW-Guard observes training telemetry, interprets instability-sensitive regimes",
       "url": "https://arxiv.org/abs/2605.19008",
       "category": [
@@ -45,14 +45,14 @@
     },
     {
       "title": "AgentNLQ: A General-Purpose Agent for Natural Language to SQL",
-      "date": "Wed, 20 May 2026 04:00:00 GMT",
+      "date": "Thu, 21 May 2026 04:00:00 GMT",
       "summary": "arXiv:2605.19010v1 Announce Type: new Abstract: Natural language to SQL (NL2SQL) conversion is an important problem for researchers and enterprises due to the ubiquitous importance of relational databases in broad-ranging practical problems. Despite the rapid advancements in the capabilities of LLMs, NL2SQL has not reached parity in accuracy with human expert SQL writers, hence needing additional improvements in NL2SQL algorithms. This study presents a new multi-agent method for NL2SQL that achi",
       "url": "https://arxiv.org/abs/2605.19010",
       "category": "cs.AI"
     },
     {
       "title": "KAN-MLP-Mixer: A comprehensive investigation of the usage of Kolmogorov-Arnold Networks (KANs) for improving IMU-based Human Activity Recognition",
-      "date": "Wed, 20 May 2026 04:00:00 GMT",
+      "date": "Thu, 21 May 2026 04:00:00 GMT",
       "summary": "arXiv:2605.19031v1 Announce Type: new Abstract: Kolmogorov-Arnold Networks (KANs) have demonstrated an exceptional ability to learn complex functions on clean, low-dimensional data but struggle to maintain performance on noisy and imperfect real-world datasets. In contrast, conventional multi-layer perceptrons (MLPs) are far more tolerant to noise and computationally efficient. Replacing all MLP components with KANs in HAR models often degrades accuracy and computation efficiency, highlighting a",
       "url": "https://arxiv.org/abs/2605.19031",
       "category": [

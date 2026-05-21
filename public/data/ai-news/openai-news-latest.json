@@ -1,14 +1,28 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-05-20T14:25:12.636Z",
+  "fetch_time": "2026-05-21T04:16:02.201Z",
   "articles": [
+    {
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "date": "Wed, 20 May 2026 00:00:00 GMT",
+      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "category": "Research"
+    },
     {
       "title": "The next phase of OpenAI’s Education for Countries",
       "date": "Wed, 20 May 2026 00:00:00 GMT",
       "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
       "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
       "category": "Global Affairs"
+    },
+    {
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "date": "Wed, 20 May 2026 00:00:00 GMT",
+      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+      "url": "https://openai.com/index/ramp",
+      "category": ""
     },
     {
       "title": "Introducing OpenAI for Singapore",
@@ -30,20 +44,6 @@
       "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
       "url": "https://openai.com/index/dell-codex-enterprise-partnership",
       "category": "Company"
-    },
-    {
-      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-      "date": "Sat, 16 May 2026 00:00:00 GMT",
-      "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
-      "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
-      "category": "Global Affairs"
-    },
-    {
-      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-      "date": "Fri, 15 May 2026 00:00:00 GMT",
-      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
-      "url": "https://openai.com/index/databricks",
-      "category": ""
     }
   ],
   "status": "success",

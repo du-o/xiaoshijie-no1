@@ -1,8 +1,28 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-05-20T14:25:24.818Z",
+  "fetch_time": "2026-05-21T04:16:15.711Z",
   "articles": [
+    {
+      "title": "openclaw 2026.5.20-beta.1",
+      "date": "2026-05-21T00:11:21Z",
+      "summary": "\n### Changes\n\n- Discord: let voice sessions follow configured Discord users into voice channels, with allowed-channel checks, multi-user handoff, bounded reconciliation, and DAVE recovery preservation...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.20-beta.1",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.5.20-beta.1",
+      "downloadCount": 11
+    },
+    {
+      "title": "openclaw 2026.5.19",
+      "date": "2026-05-20T20:20:53Z",
+      "summary": "## 2026.5.19\n\n### Changes\n\n- Agents: clarify that fixes should default to clean bounded refactors, lean internals, and explicit plugin SDK/API deprecation paths.\n- Dependencies: update `@openclaw/prox...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.19",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.5.19",
+      "downloadCount": 1415
+    },
     {
       "title": "openclaw 2026.5.19-beta.2",
       "date": "2026-05-19T21:12:37Z",
@@ -11,7 +31,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.5.19-beta.2",
-      "downloadCount": 32
+      "downloadCount": 53
     },
     {
       "title": "openclaw 2026.5.19-alpha.1",
@@ -21,7 +41,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.5.19-alpha.1",
-      "downloadCount": 12
+      "downloadCount": 16
     },
     {
       "title": "openclaw 2026.5.19-beta.1",
@@ -41,27 +61,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.5.18",
-      "downloadCount": 10599
-    },
-    {
-      "title": "openclaw 2026.5.18-beta.1",
-      "date": "2026-05-18T16:13:00Z",
-      "summary": "\n### Changes\n\n- Agents: clarify that fixes should default to clean bounded refactors, lean internals, and explicit plugin SDK/API deprecation paths.\n- Dependencies: update `@openclaw/proxyline` to 0.3...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.18-beta.1",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.5.18-beta.1",
-      "downloadCount": 13
-    },
-    {
-      "title": "openclaw 2026.5.16-beta.7",
-      "date": "2026-05-18T08:47:11Z",
-      "summary": "\n### Changes\n\n- Dependencies: update `@openclaw/proxyline` to 0.3.3.\n- Dependencies: update Pi packages to 0.75.1 and raise the minimum supported Node.js 22 line to 22.19.\n- Docker/Podman: add `OPENCL...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.16-beta.7",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.5.16-beta.7",
-      "downloadCount": 45
+      "downloadCount": 12272
     }
   ],
   "status": "success",
