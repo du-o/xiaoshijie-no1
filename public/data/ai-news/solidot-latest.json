@@ -1,8 +1,22 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-05-21T04:16:05.984Z",
+  "fetch_time": "2026-05-21T07:50:58.536Z",
   "articles": [
+    {
+      "title": "三星电子劳资谈判达成初步协议，罢工终止",
+      "date": "Thu, 21 May 2026 02:58:44 GMT",
+      "summary": "三星电子工会在 20 日 23 时总罢工启动仅剩最后 1 个小时之际，与三星电子公司戏剧性地达成了协议，罢工终止。根据双方达成的就绩效奖金方案初步协议，负责半导体业务的设备解决方案（DS）部门员工今年有望获得最高约 6 亿韩元（约合人民币 272.3 万元）的绩效奖金。劳资商定维持既有的年终绩效奖金（OPI）制度的同时，为 DS 部门新设半导体特别绩效奖金。公司将拿出业绩的 10.5% 作为特别绩效奖金资金来源，不设上限。资金来源中的 40% 将分配给 DS 部门，其余 60% 分配给子部门，向行政部门统一发放的绩效奖金为 DS 子部门存储芯片事业部的 70% 水平。人均绩效奖金规模有望达 6 亿韩元。",
+      "url": "https://www.solidot.org/story?sid=84358",
+      "category": ""
+    },
+    {
+      "title": "安娜档案馆被判向图书出版商赔偿 1950 万美元",
+      "date": "Wed, 20 May 2026 15:52:44 GMT",
+      "summary": "Penguin Random House、Elsevier 和 HarperCollins 等 13 家大型图书出版商今年 3 月联合起诉安娜的档案（Anna’s Archive），指控该影子图书馆助长图书盗版。出版商此举旨在获得法庭禁令，对安娜的档案的域名注册商施压。安娜的档案已经深陷了多起诉讼，去年底流媒体巨头 Spotify 和唱片公司起诉安娜的档案导致其失去了 .org 主域名。本周美国地区法官 Jed S. Rakoff 签署了一项缺席判决书，完全满足了出版商的要求，安娜档案馆被判向出版商赔偿 1950 万美元。法官还发布了一项范围广泛的永久禁令，要求二十多家全球域名注册商、托管商和服务提供商立即关闭安娜的档案的其余域名。鉴于网站运营者身份匿名，赔偿金基本不可能兑现，因此它面临的影响主要是禁令，如美国公司 Cloudflare 和 OwnRegistrar 将需要遵守禁令。",
+      "url": "https://www.solidot.org/story?sid=84357",
+      "category": ""
+    },
     {
       "title": "Firefox 将移除 asm.js 相关代码",
       "date": "Wed, 20 May 2026 15:39:42 GMT",
@@ -29,20 +43,6 @@
       "date": "Wed, 20 May 2026 10:43:22 GMT",
       "summary": "在 openSUSE 之后，Fedora 发行版移除了深度桌面环境包（Deepin Desktop）。2025 年初 SUSE 安全团队在一次例行审查中发现深度桌面环境有名叫 deepin-feature-enable 的软件包，该软件包是在 2021 年 4 月加入的，并没有咨询或通知 SUSE，它包含了一个“许可协议对话框（license agreement dialog）”，基本上说讲因为 openSUSE 的安全规定，它禁用了 deepin-api 和 deepin-daemon 需要的所有 dbus 和 polkit 功能，这可能导致 Deepin Desktop 不能正常工作，部分功能无效。如果用户不在意这些安全问题，可选择点击确认，之后会自动安装缺少的 dbus 和 polkit。安全团队的调查发现，deepin-daemon 中的核心组件从未递交进行安全审查，它们被悄悄的引入到了 openSUSE 中。鉴于 Deepin 社区过去几年多次违规，openSUSE 决定移除 Deepin Desktop。Fedora 项目随后也对深度桌面环境包展开安全审查，期间开发者发现难",
       "url": "https://www.solidot.org/story?sid=84353",
-      "category": ""
-    },
-    {
-      "title": "OpenAI 和英伟达等在模型中加入了对 SynthID 水印的支持",
-      "date": "Wed, 20 May 2026 10:31:32 GMT",
-      "summary": "Google 在三年前推出了用于标记 AI 图像的数字水印技术 SynthID，它称 SynthID 至今被用于标记了 1000 亿张图像和视频。Google 去年在 Gemini 应用中添加了 SynthID 检测功能。用户上传可疑内容，询问聊天机器人是否是 AI 生成的。Google 称至今还没有人成功破解 SynthID，宣布与多家 AI 公司合作加入对该水印技术的支持。英伟达的 Cosmos、OpenAI 的 GPT 2 图像、Kakao 和 ElevenLabs 都将在其 AI 生成内容中加入对 SynthID 的支持。",
-      "url": "https://www.solidot.org/story?sid=84352",
-      "category": ""
-    },
-    {
-      "title": "全球疫苗接种率下滑",
-      "date": "Wed, 20 May 2026 09:25:49 GMT",
-      "summary": "全球疫苗接种率下滑。在医疗体系陷入混乱的新冠疫情过去后，疫苗接种率今未能恢复至以前的水平。2024 年麻疹疫情已蔓延至 59 个国家。麻疹病毒传染性极强，如果同一空间中有感染者，没有相关免疫的人群几乎 100% 会被感染。该病的并发症有肺炎、中耳炎等，甚至可能导致脑炎，变成重症。预防麻疹必须要靠疫苗。想要维持群体免疫、防止疫情扩散，疫苗接种率需达到 95% 以上。新冠疫情期间，由于出行限制，民众普遍推迟了其他疫苗的接种。医疗机构方面，接种人员和治疗人员也侧重于应对新冠疫情。加上其他传染病的流行得到抑制，认为无需接种疫苗的人越来越多，导致全球疫苗接种率持续走低。除麻疹以外，其他传染病也呈现出类似趋势。2024 年白喉、百日咳、破伤风三联疫苗的接种率全球所有地区都低于 2010 年以后的峰值水平。",
-      "url": "https://www.solidot.org/story?sid=84351",
       "category": ""
     }
   ],
