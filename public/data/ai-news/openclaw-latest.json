@@ -1,8 +1,28 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-05-21T14:32:02.383Z",
+  "fetch_time": "2026-05-22T04:11:35.717Z",
   "articles": [
+    {
+      "title": "openclaw 2026.5.20",
+      "date": "2026-05-21T20:44:50Z",
+      "summary": "\n### Changes\n\n- Exec approvals: remove the old `cat SKILL.md && printf ... && <skill-wrapper>` allowlist compatibility path so skill files must be loaded with the read tool and only the real skill exe...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.20",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.5.20",
+      "downloadCount": 1792
+    },
+    {
+      "title": "openclaw 2026.5.20-beta.2",
+      "date": "2026-05-21T15:57:15Z",
+      "summary": "\n### Changes\n\n- Exec approvals: remove the old `cat SKILL.md && printf ... && <skill-wrapper>` allowlist compatibility path so skill files must be loaded with the read tool and only the real skill exe...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.20-beta.2",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.5.20-beta.2",
+      "downloadCount": 14
+    },
     {
       "title": "openclaw 2026.5.20-beta.1",
       "date": "2026-05-21T00:11:21Z",
@@ -11,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.5.20-beta.1",
-      "downloadCount": 50
+      "downloadCount": 56
     },
     {
       "title": "openclaw 2026.5.19",
@@ -21,7 +41,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.5.19",
-      "downloadCount": 4448
+      "downloadCount": 6252
     },
     {
       "title": "openclaw 2026.5.19-beta.2",
@@ -31,7 +51,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.5.19-beta.2",
-      "downloadCount": 53
+      "downloadCount": 55
     },
     {
       "title": "openclaw 2026.5.19-alpha.1",
@@ -41,27 +61,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.5.19-alpha.1",
-      "downloadCount": 16
-    },
-    {
-      "title": "openclaw 2026.5.19-beta.1",
-      "date": "2026-05-18T22:58:13Z",
-      "summary": "## 2026.5.19\n\n### Changes\n\n- Agents: clarify that fixes should default to clean bounded refactors, lean internals, and explicit plugin SDK/API deprecation paths.\n- Dependencies: update `@openclaw/prox...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.19-beta.1",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.5.19-beta.1",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.5.18",
-      "date": "2026-05-18T18:54:22Z",
-      "summary": "## 2026.5.18\n\nOpenClaw 2026.5.18 is the stable rollup after 2026.5.12. It includes the 2026.5.14 and 2026.5.17 beta trains plus the final 2026.5.18 fixes below.\n\n### Consolidated Since 2026.5.12\n\n- Co...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.18",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.5.18",
-      "downloadCount": 12330
+      "downloadCount": 17
     }
   ],
   "status": "success",

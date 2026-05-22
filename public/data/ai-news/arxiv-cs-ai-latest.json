@@ -1,63 +1,57 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-05-21T14:31:46.731Z",
+  "fetch_time": "2026-05-22T04:11:17.746Z",
   "articles": [
     {
-      "title": "Position: Let's Develop Data Probes to Fundamentally Understand How Data Affects LLM Performance",
-      "date": "Thu, 21 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.18801v1 Announce Type: new Abstract: Data is fundamental to large language models (LLMs). However, understanding of what makes certain data useful for different stages of an LLM workflow, including training, tuning, alignment, in-context learning, etc., and why, remains an open question. Current approaches rely heavily on extensive experimentation with large public datasets to obtain empirical heuristics for data filtering and dataset construction. These approaches are compute intensi",
-      "url": "https://arxiv.org/abs/2605.18801",
+      "title": "SOLAR: A Self-Optimizing Open-Ended Autonomous Agent for Lifelong Learning and Continual Adaptation",
+      "date": "Fri, 22 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.20189v1 Announce Type: new Abstract: Despite the remarkable success of large language models (LLMs), they still face bottlenecks while deploying in dynamic, real-world settings with primary challenges being concept drift and the high cost of gradient-based adaptation. Traditional fine-tuning (FT) struggles to adapt to non-stationary data streams without resulting in catastrophic for getting or requiring extensive manual data curation. To address these limitations within the streaming ",
+      "url": "https://arxiv.org/abs/2605.20189",
       "category": [
         "cs.AI",
-        "cs.IR",
         "cs.LG"
       ]
     },
     {
-      "title": "Operationalizing Document AI: A Microservice Architecture for OCR and LLM Pipelines in Production",
-      "date": "Thu, 21 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.18818v1 Announce Type: new Abstract: Academic research tends to focus on new models for document understanding creating a wide gap in the literature between model definition and running models at production scale. To close that gap, we present a microservice architecture that encapsulates pipelines of multiple models for classification, optical character recognition (OCR), and large language model structured field extraction as well as our experience running this pipeline on thousands",
-      "url": "https://arxiv.org/abs/2605.18818",
+      "title": "Tool-Augmented Agent for Closed-loop Optimization,Simulation,and Modeling Orchestration",
+      "date": "Fri, 22 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.20190v1 Announce Type: new Abstract: Iterative industrial design-simulation optimization is bottlenecked by the CAD-CAE semantic gap: translating simulation feedback into valid geometric edits under diverse, coupled constraints. To fill this gap, we propose COSMO-Agent (Closed-loop Optimization, Simulation, and Modeling Orchestration), a tool-augmented reinforcement learning (RL) framework that teaches LLMs to complete the closed-loop CAD-CAE process. Specifically, we cast CAD generat",
+      "url": "https://arxiv.org/abs/2605.20190",
       "category": [
         "cs.AI",
-        "cs.LG",
-        "cs.SE"
+        "cs.GR"
       ]
     },
     {
-      "title": "Evaluating the Utility of Personal Health Records in Personalized Health AI",
-      "date": "Thu, 21 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.18937v1 Announce Type: new Abstract: Patient-managed Personal Health Records (PHRs) promises to empower patients to better understand their health; but information in the record is complex, potentially hindering insights. In this study, we assess the potential of large language models (LLMs, Gemini 3.0 Flash) to provide helpful answers to user health queries, when provided clinical data from PHRs as context. A total of 2,257 user queries were drawn from 3 different distributions to re",
-      "url": "https://arxiv.org/abs/2605.18937",
+      "title": "OSCToM: RL-Guided Adversarial Generation for High-Order Theory of Mind",
+      "date": "Fri, 22 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.20423v1 Announce Type: new Abstract: Large Language Models (LLMs) perform well on many language tasks, but their Theory of Mind (ToM) reasoning is still uneven in complex social settings. Existing benchmarks, including ExploreToM, do not always test the recursive beliefs and information asymmetries that make these settings difficult. This paper presents OSCToM (Observer-Self Conflict Theory of Mind), an approach for modeling nested belief conflicts in LLM-based ToM tasks. The key case",
+      "url": "https://arxiv.org/abs/2605.20423",
       "category": "cs.AI"
     },
     {
-      "title": "Learn-by-Wire Training Control Governance: Bounded Autonomous Training Under Stress for Stability and Efficiency",
-      "date": "Thu, 21 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.19008v1 Announce Type: new Abstract: Modern language-model training is increasingly exposed to instability, degraded runs, and wasted compute, especially under aggressive learning-rate, scale, and runtime-stress conditions. This paper introduces Learn-by-Wire Guard (LBW-Guard), a bounded autonomous training-control governance layer that operates above AdamW. Rather than replacing the optimizer update rule, LBW-Guard observes training telemetry, interprets instability-sensitive regimes",
-      "url": "https://arxiv.org/abs/2605.19008",
+      "title": "AgentCo-op: Retrieval-Based Synthesis of Interoperable Multi-Agent Workflows",
+      "date": "Fri, 22 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.20425v1 Announce Type: new Abstract: Designing multi-agent workflows is especially difficult in open-ended scientific settings where tasks lack curated training sets, reliable scalar evaluation metrics, and standardized interfaces between existing tools and agents. We propose AgentCo-op, a retrieval-based synthesis framework that composes reusable skills, tools, and external agents into executable workflows through typed artifact handoffs, then applies bounded self-guided local repair",
+      "url": "https://arxiv.org/abs/2605.20425",
+      "category": "cs.AI"
+    },
+    {
+      "title": "High Quality Embeddings for Horn Logic Reasoning",
+      "date": "Fri, 22 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.20467v1 Announce Type: new Abstract: Neural networks can be trained to rank the choices made by logical reasoners, resulting in more efficient searches for answers. A key step in this process is creating useful embeddings, i.e., numeric representations of logical statements. This paper introduces and evaluates several approaches to creating embeddings that result in better downstream results. We train embeddings using triplet loss, which requires examples consisting of an anchor, a po",
+      "url": "https://arxiv.org/abs/2605.20467",
+      "category": "cs.AI"
+    },
+    {
+      "title": "$ECUAS_n$: A family of metrics for principled evaluation of uncertainty-augmented systems",
+      "date": "Fri, 22 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.20490v2 Announce Type: new Abstract: In high-stakes automated decision-making, access to predictive uncertainty is essential for enabling users -- human or downstream systems -- to accept or reject predictions based on application-specific cost trade-offs. Such uncertainty-augmented (UA) systems -- i.e., systems that output both predictions and uncertainty scores -- are currently being assessed in the literature in a variety of ways, using separate metrics to evaluate the predictions ",
+      "url": "https://arxiv.org/abs/2605.20490",
       "category": [
         "cs.AI",
-        "cs.CL",
         "cs.LG"
-      ]
-    },
-    {
-      "title": "AgentNLQ: A General-Purpose Agent for Natural Language to SQL",
-      "date": "Thu, 21 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.19010v1 Announce Type: new Abstract: Natural language to SQL (NL2SQL) conversion is an important problem for researchers and enterprises due to the ubiquitous importance of relational databases in broad-ranging practical problems. Despite the rapid advancements in the capabilities of LLMs, NL2SQL has not reached parity in accuracy with human expert SQL writers, hence needing additional improvements in NL2SQL algorithms. This study presents a new multi-agent method for NL2SQL that achi",
-      "url": "https://arxiv.org/abs/2605.19010",
-      "category": "cs.AI"
-    },
-    {
-      "title": "KAN-MLP-Mixer: A comprehensive investigation of the usage of Kolmogorov-Arnold Networks (KANs) for improving IMU-based Human Activity Recognition",
-      "date": "Thu, 21 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.19031v1 Announce Type: new Abstract: Kolmogorov-Arnold Networks (KANs) have demonstrated an exceptional ability to learn complex functions on clean, low-dimensional data but struggle to maintain performance on noisy and imperfect real-world datasets. In contrast, conventional multi-layer perceptrons (MLPs) are far more tolerant to noise and computationally efficient. Replacing all MLP components with KANs in HAR models often degrades accuracy and computation efficiency, highlighting a",
-      "url": "https://arxiv.org/abs/2605.19031",
-      "category": [
-        "cs.AI",
-        "eess.SP"
       ]
     }
   ],

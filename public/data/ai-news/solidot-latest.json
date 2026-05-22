@@ -1,8 +1,29 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-05-21T14:31:51.422Z",
+  "fetch_time": "2026-05-22T04:11:21.312Z",
   "articles": [
+    {
+      "title": "Google 宣布在 AI 模式下加入更多广告",
+      "date": "Thu, 21 May 2026 13:28:12 GMT",
+      "summary": "Google 本周二宣布搜索框将变成 AI 聊天机器人的对话框，那么它久经时间考虑的商业模式——搜索广告——自然也会跟着进入 AI 模式。Google 周三宣布将在 AI 模式中引入更多“富有帮助的广告（helpful ads）”。搜索巨人表示在测试两类新广告，提供相关产品的细节和有用的指导。作为广告的一部分，它们都会包含一个独立的 AI 解释器。广告也都会标明“赞助”字样。两类新广告其一称之为“对话式发现广告”——广告即答案；其二称之为“高亮答案”（Highlighted Answers）——将高度相关的广告作为推荐列表的一部分提供给用户。",
+      "url": "https://www.solidot.org/story?sid=84365",
+      "category": ""
+    },
+    {
+      "title": "NASA 预计中国将在 2027 年执行载人绕月飞行任务",
+      "date": "Thu, 21 May 2026 10:36:12 GMT",
+      "summary": "NASA 局长 Jared Isaacman 表示他预计中国将在 2027 年执行载人绕月飞行任务，他正以此为由要求修改阿尔忒弥斯计划，加快美国重返月球的步伐。Isaacman 称，下次全世界观看宇航员绕月飞行时——很可能是 2027 年的某个时候——他们将是中国宇航员，美国将不再是唯一能将人类送入月球环境的国家。中国尚未公布月球载人飞行的时间表。迄今所有载人绕月飞行、轨道飞行或登月任务均由 NASA 执行：包括 1968-1972 年间的九次阿波罗计划以及今年四月的阿尔忒弥斯 2 号任务。",
+      "url": "https://www.solidot.org/story?sid=84364",
+      "category": ""
+    },
+    {
+      "title": "Vivaldi 8.0 释出",
+      "date": "Thu, 21 May 2026 09:40:05 GMT",
+      "summary": "基于 Chromium 的浏览器 Vivaldi 释出了 8.0 版本。Vivaldi 由 Opera 联合创始人谭咏文（Jon von Tetzchner）创办。Vivaldi 8.0 的新特性包括：被称为 Unified 的新外观，所有元素都统一在一个视觉平面上；提供了六种预设布局，其中之一是垂直标签，用户可选择垂直左侧、垂直右侧两种垂直标签布局，其它还有经典、简洁、自动隐藏以及底部四种布局。",
+      "url": "https://www.solidot.org/story?sid=84363",
+      "category": ""
+    },
     {
       "title": "SpaceX 最大的收入来源是与 Anthropic 达成的数据中心交易",
       "date": "Thu, 21 May 2026 08:22:11 GMT",
@@ -22,27 +43,6 @@
       "date": "Thu, 21 May 2026 06:45:55 GMT",
       "summary": "上周五，中国海关将去年 8 月英伟达为通过美国出口管制规定而推出的 RTX 5090DV2 显卡列入封禁清单。该清单最初包括 H200 和 H20。H20 是英伟达此前在中国市场销售的另一款中国特供芯片。在京东和淘宝等主要电商平台，RTX 5090DV2 仍在销售，价格在 1.8 万-2.2 万元之间，意味着现有库存仍然能正常销售，但随着进口的消失，其数量将会越来越少。",
       "url": "https://www.solidot.org/story?sid=84360",
-      "category": ""
-    },
-    {
-      "title": "Google 意外公开了未修复 Chromium 漏洞的利用代码",
-      "date": "Thu, 21 May 2026 06:02:18 GMT",
-      "summary": "Google 周三公开了一个未修复 Chromium 漏洞的利用代码。该漏洞影响所有使用基于 Chromium 浏览器的用户。独立安全研究员 Lyra Rebane 在 2022 年底向 Google 报告了漏洞，但 29 个月后它仍然没有修复。本周三上午 Google 向 Chromium 的 bug 跟踪系统披露了漏洞，Rebane 一开始以为漏洞已经修复了，结果发现根本没有。Google 虽然之后删除了帖子，但其内容已被其它网站存档。该漏洞滥用了 Chromium 的 Browser Fetch API 打开一个持续活动的 Service Worker，恶意网站可通过 JavaScript 触发该 Service Worker 创建连接，监视用户的部分活动，它还可作为代理访问网站和发起 DDoS 攻击。安全研究人员认为这是一个严重的漏洞，它实际上相当于一个受限的后门，将浏览器变成僵尸网络的一部分。",
-      "url": "https://www.solidot.org/story?sid=84359",
-      "category": ""
-    },
-    {
-      "title": "三星电子劳资谈判达成初步协议，罢工终止",
-      "date": "Thu, 21 May 2026 02:58:44 GMT",
-      "summary": "三星电子工会在 20 日 23 时总罢工启动仅剩最后 1 个小时之际，与三星电子公司戏剧性地达成了协议，罢工终止。根据双方达成的就绩效奖金方案初步协议，负责半导体业务的设备解决方案（DS）部门员工今年有望获得最高约 6 亿韩元（约合人民币 272.3 万元）的绩效奖金。劳资商定维持既有的年终绩效奖金（OPI）制度的同时，为 DS 部门新设半导体特别绩效奖金。公司将拿出业绩的 10.5% 作为特别绩效奖金资金来源，不设上限。资金来源中的 40% 将分配给 DS 部门，其余 60% 分配给子部门，向行政部门统一发放的绩效奖金为 DS 子部门存储芯片事业部的 70% 水平。人均绩效奖金规模有望达 6 亿韩元。",
-      "url": "https://www.solidot.org/story?sid=84358",
-      "category": ""
-    },
-    {
-      "title": "安娜档案馆被判向图书出版商赔偿 1950 万美元",
-      "date": "Wed, 20 May 2026 15:52:44 GMT",
-      "summary": "Penguin Random House、Elsevier 和 HarperCollins 等 13 家大型图书出版商今年 3 月联合起诉安娜的档案（Anna’s Archive），指控该影子图书馆助长图书盗版。出版商此举旨在获得法庭禁令，对安娜的档案的域名注册商施压。安娜的档案已经深陷了多起诉讼，去年底流媒体巨头 Spotify 和唱片公司起诉安娜的档案导致其失去了 .org 主域名。本周美国地区法官 Jed S. Rakoff 签署了一项缺席判决书，完全满足了出版商的要求，安娜档案馆被判向出版商赔偿 1950 万美元。法官还发布了一项范围广泛的永久禁令，要求二十多家全球域名注册商、托管商和服务提供商立即关闭安娜的档案的其余域名。鉴于网站运营者身份匿名，赔偿金基本不可能兑现，因此它面临的影响主要是禁令，如美国公司 Cloudflare 和 OwnRegistrar 将需要遵守禁令。",
-      "url": "https://www.solidot.org/story?sid=84357",
       "category": ""
     }
   ],
