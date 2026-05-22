@@ -1,20 +1,13 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-05-22T10:42:49.090Z",
+  "fetch_time": "2026-05-22T14:06:47.036Z",
   "articles": [
     {
       "title": "AdventHealth advances whole-person care with OpenAI",
       "date": "Thu, 21 May 2026 12:00:00 GMT",
       "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
       "url": "https://openai.com/index/adventhealth",
-      "category": ""
-    },
-    {
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "date": "Wed, 20 May 2026 00:00:00 GMT",
-      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
-      "url": "https://openai.com/index/ramp",
       "category": ""
     },
     {
@@ -30,6 +23,13 @@
       "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
       "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
       "category": "Research"
+    },
+    {
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "date": "Wed, 20 May 2026 00:00:00 GMT",
+      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+      "url": "https://openai.com/index/ramp",
+      "category": ""
     },
     {
       "title": "Introducing OpenAI for Singapore",
