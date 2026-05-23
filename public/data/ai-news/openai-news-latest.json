@@ -1,21 +1,28 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-05-22T14:06:47.036Z",
+  "fetch_time": "2026-05-23T03:50:25.416Z",
   "articles": [
+    {
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "date": "Fri, 22 May 2026 00:00:00 GMT",
+      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "category": "AI Adoption"
+    },
+    {
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "date": "Fri, 22 May 2026 00:00:00 GMT",
+      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "url": "https://openai.com/index/virgin-atlantic",
+      "category": ""
+    },
     {
       "title": "AdventHealth advances whole-person care with OpenAI",
       "date": "Thu, 21 May 2026 12:00:00 GMT",
       "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
       "url": "https://openai.com/index/adventhealth",
       "category": ""
-    },
-    {
-      "title": "The next phase of OpenAI’s Education for Countries",
-      "date": "Wed, 20 May 2026 00:00:00 GMT",
-      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
-      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-      "category": "Global Affairs"
     },
     {
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
@@ -25,25 +32,18 @@
       "category": "Research"
     },
     {
+      "title": "The next phase of OpenAI’s Education for Countries",
+      "date": "Wed, 20 May 2026 00:00:00 GMT",
+      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "category": "Global Affairs"
+    },
+    {
       "title": "How Ramp engineers accelerate code review with Codex",
       "date": "Wed, 20 May 2026 00:00:00 GMT",
       "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
       "url": "https://openai.com/index/ramp",
       "category": ""
-    },
-    {
-      "title": "Introducing OpenAI for Singapore",
-      "date": "Tue, 19 May 2026 20:30:00 GMT",
-      "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
-      "url": "https://openai.com/index/introducing-openai-for-singapore",
-      "category": "Global Affairs"
-    },
-    {
-      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
-      "date": "Tue, 19 May 2026 10:45:00 GMT",
-      "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
-      "url": "https://openai.com/index/advancing-content-provenance",
-      "category": "Safety"
     }
   ],
   "status": "success",
