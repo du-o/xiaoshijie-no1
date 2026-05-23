@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-05-23T09:45:03.698Z",
+  "fetch_time": "2026-05-23T12:51:41.818Z",
   "articles": [
+    {
+      "title": "openclaw 2026.5.22-beta.1",
+      "date": "2026-05-23T09:59:56Z",
+      "summary": "## 2026.5.22\n\n### Changes\n\n- Docs: clarify README onboarding and Gateway startup paths, WhatsApp QR/408 recovery, cron output language prompts, skill advanced features, gateway upstream 403 troublesho...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.22-beta.1",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.5.22-beta.1",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.5.20",
       "date": "2026-05-21T20:44:50Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.5.20",
-      "downloadCount": 8749
+      "downloadCount": 9369
     },
     {
       "title": "openclaw 2026.5.20-beta.2",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.5.19",
-      "downloadCount": 6766
+      "downloadCount": 6770
     },
     {
       "title": "openclaw 2026.5.19-beta.2",
@@ -52,16 +62,6 @@
       "author": "steipete",
       "tagName": "v2026.5.19-beta.2",
       "downloadCount": 56
-    },
-    {
-      "title": "openclaw 2026.5.19-alpha.1",
-      "date": "2026-05-20T00:50:52Z",
-      "summary": "\n### Changes\n\n- Agents: clarify that fixes should default to clean bounded refactors, lean internals, and explicit plugin SDK/API deprecation paths.\n- Dependencies: update `@openclaw/proxyline` to 0.3...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.19-alpha.1",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.5.19-alpha.1",
-      "downloadCount": 17
     }
   ],
   "status": "success",
