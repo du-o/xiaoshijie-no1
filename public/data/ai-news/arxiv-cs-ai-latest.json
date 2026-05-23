@@ -1,60 +1,8 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-05-23T03:50:25.667Z",
-  "articles": [
-    {
-      "title": "SOLAR: A Self-Optimizing Open-Ended Autonomous Agent for Lifelong Learning and Continual Adaptation",
-      "date": "Fri, 22 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.20189v1 Announce Type: new Abstract: Despite the remarkable success of large language models (LLMs), they still face bottlenecks while deploying in dynamic, real-world settings with primary challenges being concept drift and the high cost of gradient-based adaptation. Traditional fine-tuning (FT) struggles to adapt to non-stationary data streams without resulting in catastrophic for getting or requiring extensive manual data curation. To address these limitations within the streaming ",
-      "url": "https://arxiv.org/abs/2605.20189",
-      "category": [
-        "cs.AI",
-        "cs.LG"
-      ]
-    },
-    {
-      "title": "Tool-Augmented Agent for Closed-loop Optimization,Simulation,and Modeling Orchestration",
-      "date": "Fri, 22 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.20190v1 Announce Type: new Abstract: Iterative industrial design-simulation optimization is bottlenecked by the CAD-CAE semantic gap: translating simulation feedback into valid geometric edits under diverse, coupled constraints. To fill this gap, we propose COSMO-Agent (Closed-loop Optimization, Simulation, and Modeling Orchestration), a tool-augmented reinforcement learning (RL) framework that teaches LLMs to complete the closed-loop CAD-CAE process. Specifically, we cast CAD generat",
-      "url": "https://arxiv.org/abs/2605.20190",
-      "category": [
-        "cs.AI",
-        "cs.GR"
-      ]
-    },
-    {
-      "title": "OSCToM: RL-Guided Adversarial Generation for High-Order Theory of Mind",
-      "date": "Fri, 22 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.20423v1 Announce Type: new Abstract: Large Language Models (LLMs) perform well on many language tasks, but their Theory of Mind (ToM) reasoning is still uneven in complex social settings. Existing benchmarks, including ExploreToM, do not always test the recursive beliefs and information asymmetries that make these settings difficult. This paper presents OSCToM (Observer-Self Conflict Theory of Mind), an approach for modeling nested belief conflicts in LLM-based ToM tasks. The key case",
-      "url": "https://arxiv.org/abs/2605.20423",
-      "category": "cs.AI"
-    },
-    {
-      "title": "AgentCo-op: Retrieval-Based Synthesis of Interoperable Multi-Agent Workflows",
-      "date": "Fri, 22 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.20425v1 Announce Type: new Abstract: Designing multi-agent workflows is especially difficult in open-ended scientific settings where tasks lack curated training sets, reliable scalar evaluation metrics, and standardized interfaces between existing tools and agents. We propose AgentCo-op, a retrieval-based synthesis framework that composes reusable skills, tools, and external agents into executable workflows through typed artifact handoffs, then applies bounded self-guided local repair",
-      "url": "https://arxiv.org/abs/2605.20425",
-      "category": "cs.AI"
-    },
-    {
-      "title": "High Quality Embeddings for Horn Logic Reasoning",
-      "date": "Fri, 22 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.20467v1 Announce Type: new Abstract: Neural networks can be trained to rank the choices made by logical reasoners, resulting in more efficient searches for answers. A key step in this process is creating useful embeddings, i.e., numeric representations of logical statements. This paper introduces and evaluates several approaches to creating embeddings that result in better downstream results. We train embeddings using triplet loss, which requires examples consisting of an anchor, a po",
-      "url": "https://arxiv.org/abs/2605.20467",
-      "category": "cs.AI"
-    },
-    {
-      "title": "$ECUAS_n$: A family of metrics for principled evaluation of uncertainty-augmented systems",
-      "date": "Fri, 22 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.20490v2 Announce Type: new Abstract: In high-stakes automated decision-making, access to predictive uncertainty is essential for enabling users -- human or downstream systems -- to accept or reject predictions based on application-specific cost trade-offs. Such uncertainty-augmented (UA) systems -- i.e., systems that output both predictions and uncertainty scores -- are currently being assessed in the literature in a variety of ways, using separate metrics to evaluate the predictions ",
-      "url": "https://arxiv.org/abs/2605.20490",
-      "category": [
-        "cs.AI",
-        "cs.LG"
-      ]
-    }
-  ],
+  "fetch_time": "2026-05-23T06:32:43.558Z",
+  "articles": [],
   "status": "success",
   "error": null
 }
