@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-05-23T12:51:41.818Z",
+  "fetch_time": "2026-05-24T04:10:22.313Z",
   "articles": [
+    {
+      "title": "openclaw 2026.5.22",
+      "date": "2026-05-24T01:12:56Z",
+      "summary": "## 2026.5.22\n\n### Changes\n\n- Gateway/perf: reuse process-stable channel catalog reads, avoid repeated bundled-channel boundary checks, and rotate gateway watch CPU profiles so benchmark runs do not ac...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.22",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.5.22",
+      "downloadCount": 537
+    },
     {
       "title": "openclaw 2026.5.22-beta.1",
       "date": "2026-05-23T09:59:56Z",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.5.20",
-      "downloadCount": 9369
+      "downloadCount": 11635
     },
     {
       "title": "openclaw 2026.5.20-beta.2",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.5.20-beta.2",
-      "downloadCount": 19
+      "downloadCount": 22
     },
     {
       "title": "openclaw 2026.5.20-beta.1",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.5.20-beta.1",
-      "downloadCount": 57
+      "downloadCount": 58
     },
     {
       "title": "openclaw 2026.5.19",
@@ -51,17 +61,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.5.19",
-      "downloadCount": 6770
-    },
-    {
-      "title": "openclaw 2026.5.19-beta.2",
-      "date": "2026-05-19T21:12:37Z",
-      "summary": "\n### Changes\n\n- Agents: clarify that fixes should default to clean bounded refactors, lean internals, and explicit plugin SDK/API deprecation paths.\n- Dependencies: update `@openclaw/proxyline` to 0.3...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.19-beta.2",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.5.19-beta.2",
-      "downloadCount": 56
+      "downloadCount": 6788
     }
   ],
   "status": "success",
