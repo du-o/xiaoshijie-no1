@@ -1,8 +1,28 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-05-24T12:52:48.153Z",
+  "fetch_time": "2026-05-25T04:21:43.950Z",
   "articles": [
+    {
+      "title": "openclaw 2026.5.24-beta.2",
+      "date": "2026-05-24T23:49:30Z",
+      "summary": "\n### Changes\n\n- iMessage: support thumb-approval reactions — `👍` (Like tapback) resolves an approval as `allow-once` and `👎` resolves as `deny`, with the explicit-approver allowlist read from `chann...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.24-beta.2",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.5.24-beta.2",
+      "downloadCount": 11
+    },
+    {
+      "title": "openclaw 2026.5.24-beta.1",
+      "date": "2026-05-24T14:42:58Z",
+      "summary": "\n### Changes\n\n- Gateway/perf: reuse process-stable channel catalog reads, avoid repeated bundled-channel boundary checks, and rotate gateway watch CPU profiles so benchmark runs do not accumulate unbo...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.24-beta.1",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.5.24-beta.1",
+      "downloadCount": 30
+    },
     {
       "title": "openclaw 2026.5.22",
       "date": "2026-05-24T01:12:56Z",
@@ -11,7 +31,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.5.22",
-      "downloadCount": 3016
+      "downloadCount": 6422
     },
     {
       "title": "openclaw 2026.5.22-beta.1",
@@ -31,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.5.20",
-      "downloadCount": 11716
+      "downloadCount": 11770
     },
     {
       "title": "openclaw 2026.5.20-beta.2",
@@ -41,27 +61,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.5.20-beta.2",
-      "downloadCount": 23
-    },
-    {
-      "title": "openclaw 2026.5.20-beta.1",
-      "date": "2026-05-21T00:11:21Z",
-      "summary": "\n### Changes\n\n- Discord: let voice sessions follow configured Discord users into voice channels, with allowed-channel checks, multi-user handoff, bounded reconciliation, and DAVE recovery preservation...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.20-beta.1",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.5.20-beta.1",
-      "downloadCount": 58
-    },
-    {
-      "title": "openclaw 2026.5.19",
-      "date": "2026-05-20T20:20:53Z",
-      "summary": "## 2026.5.19\n\n### Changes\n\n- Agents: clarify that fixes should default to clean bounded refactors, lean internals, and explicit plugin SDK/API deprecation paths.\n- Dependencies: update `@openclaw/prox...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.19",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.5.19",
-      "downloadCount": 6796
+      "downloadCount": 26
     }
   ],
   "status": "success",
