@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-05-26T07:43:33.796Z",
+  "fetch_time": "2026-05-26T14:29:15.251Z",
   "articles": [
+    {
+      "title": "openclaw 2026.5.25-beta.1",
+      "date": "2026-05-26T09:41:10Z",
+      "summary": "## 2026.5.25-beta.1\n\n### Beta 1 late fixes\n\n- iMessage: thread current channel/account inbound attachment roots into the image tool so iMessage-saved attachments under `~/Library/Messages/Attachments`...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.25-beta.1",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.5.25-beta.1",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.5.24-beta.2",
       "date": "2026-05-24T23:49:30Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.5.24-beta.2",
-      "downloadCount": 92
+      "downloadCount": 102
     },
     {
       "title": "openclaw 2026.5.24-beta.1",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.5.24-beta.1",
-      "downloadCount": 37
+      "downloadCount": 41
     },
     {
       "title": "openclaw 2026.5.22",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.5.22",
-      "downloadCount": 11697
+      "downloadCount": 13094
     },
     {
       "title": "openclaw 2026.5.22-beta.1",
@@ -51,17 +61,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.5.20",
-      "downloadCount": 11857
-    },
-    {
-      "title": "openclaw 2026.5.20-beta.2",
-      "date": "2026-05-21T15:57:15Z",
-      "summary": "\n### Changes\n\n- Exec approvals: remove the old `cat SKILL.md && printf ... && <skill-wrapper>` allowlist compatibility path so skill files must be loaded with the read tool and only the real skill exe...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.20-beta.2",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.5.20-beta.2",
-      "downloadCount": 28
+      "downloadCount": 11875
     }
   ],
   "status": "success",
