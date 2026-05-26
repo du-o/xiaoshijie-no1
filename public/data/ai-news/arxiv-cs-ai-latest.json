@@ -1,71 +1,73 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-05-25T14:26:06.990Z",
+  "fetch_time": "2026-05-26T04:06:51.473Z",
   "articles": [
     {
-      "title": "BOHM: Zero-Cost Hierarchical Attribution for Compound AI Systems",
-      "date": "Mon, 25 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.22866v1 Announce Type: new Abstract: Compound AI systems route tasks through hierarchies of specialised components. Attribution is dominated by Shapley-based methods (SHAP), which decompose a coalition value function into per-component marginal contributions and require evaluation of the system on arbitrary component subsets. That requirement fails for third-party APIs, opaque endpoints, and agentic orchestrators that concentrate routing on a few tools, leaving most coalitions un-eval",
-      "url": "https://arxiv.org/abs/2605.22866",
-      "category": [
-        "cs.AI",
-        "cs.LG"
-      ]
-    },
-    {
-      "title": "NeuroNL2LTL: A Neurosymbolic Framework for Natural Language Translation of Linear Temporal Logic",
-      "date": "Mon, 25 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.22874v1 Announce Type: new Abstract: Effectively translating between natural language (NL) and formal logics like Linear Temporal Logic (LTL) requires expertise that limits formal verification's reach in safety-critical development. Template-based approaches sacrifice expressiveness for reliability; neural methods achieve fluency but provide no correctness guarantees. We present NeuroNL2LTL, a neurosymbolic architecture unifying learned translation with formal verification. NeuroNL2LT",
-      "url": "https://arxiv.org/abs/2605.22874",
-      "category": [
-        "cs.AI",
-        "cs.LO"
-      ]
-    },
-    {
-      "title": "RMA: an Agentic System for Research-Level Mathematical Problems",
-      "date": "Mon, 25 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.22875v1 Announce Type: new Abstract: We present $\\textbf{Research Math Agents (RMA)}$, an agentic framework for automated reasoning on research-level mathematical problems. Unlike prior studies centered on competition mathematics or formal theorem proving, RMA targets research-level mathematical problems that require long-horizon reasoning, literature grounding, and iterative proof refinement. RMA decomposes research-level proof solving into specialized modules for problem analysis, l",
-      "url": "https://arxiv.org/abs/2605.22875",
-      "category": [
-        "cs.AI",
-        "cs.LG"
-      ]
-    },
-    {
-      "title": "SciAtlas: A Large-Scale Knowledge Graph for Automated Scientific Research",
-      "date": "Mon, 25 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.22878v1 Announce Type: new Abstract: The exponential growth of global academic output has confronted researchers and AI agents with an unprecedented ``information explosion,'' where fragmented and unstructured knowledge organization impedes deep interdisciplinary integration. Current academic retrieval tools predominantly rely on superficial keyword matching or vector-space semantic retrieval, which lack the topological reasoning capabilities required to navigate complex logical conne",
-      "url": "https://arxiv.org/abs/2605.22878",
+      "title": "In Search of the Ingredients of Open-Endedness: Replicating Picbreeder with Large Vision-Language Models",
+      "date": "Tue, 26 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.23908v1 Announce Type: new Abstract: We are in the midst of large-scale industrial and academic efforts to automate the processes of scientific, technological and creative production through AI-driven assistants. Historically, a fundamental property of these processes in their human form has been their open-endedness: their capacity for generating a seemingly endless supply of novel and meaningful new forms. Do artificial agents have any capacity for such fruitful unguided discovery? ",
+      "url": "https://arxiv.org/abs/2605.23908",
       "category": [
         "cs.AI",
         "cs.CL",
-        "cs.IR",
+        "cs.CV",
+        "cs.NE"
+      ]
+    },
+    {
+      "title": "Confidence Calibration in Large Language Models",
+      "date": "Tue, 26 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.23909v1 Announce Type: new Abstract: We investigate the calibration of large language models' (LLMs') confidence across diverse tasks. The results of our preregistered study show that the current crop of LLMs are, like people, too sure they are right: confidence exceeds accuracy, on average. Importantly, however, this tendency is moderated by a powerful hard-easy effect, wherein overconfidence is greatest on difficult tests; by contrast, easy tests actually show substantial underconfi",
+      "url": "https://arxiv.org/abs/2605.23909",
+      "category": [
+        "cs.AI",
         "cs.LG"
       ]
     },
     {
-      "title": "Energy per Successful Goal: Goal-Level Energy Accounting for Agentic AI Systems",
-      "date": "Mon, 25 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.22883v1 Announce Type: new Abstract: Current AI energy benchmarks measure consumption at the granularity of a single model invocation or training run. For classical single-turn workloads this unit remains coherent. For agentic systems - where a single user goal may trigger multi-step orchestration, tool calls, retries, and failure-recovery cycles - the invocation count is an implementation artifact rather than a task property, and inference-level normalization misrepresents the energy",
-      "url": "https://arxiv.org/abs/2605.22883",
+      "title": "How Much Thinking is Enough? Quantifying and Understanding Redundancy in LLM Reasoning",
+      "date": "Tue, 26 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.23926v1 Announce Type: new Abstract: Reasoning-capable large language models solve hard problems by emitting long chains of thought, paying heavily in latency, GPU time, and energy. Casual inspection of their traces reveals extensive reformulation, verification, and circular self-reflection, yet how much of this deliberation is actually necessary has never been measured at scale or explained from first principles. This paper closes both gaps. We formalise reasoning redundancy directly",
+      "url": "https://arxiv.org/abs/2605.23926",
       "category": [
         "cs.AI",
-        "cs.LG",
-        "cs.PF"
+        "cs.LG"
       ]
     },
     {
-      "title": "ImProver 2: Iteratively Self-Improving LMs for Neurosymbolic Proof Optimization",
-      "date": "Mon, 25 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.22885v1 Announce Type: new Abstract: Formal mathematics libraries are rapidly expanding, creating a growing need to refactor verified proofs for maintainability and to improve training data quality for neural provers. However, scalable proof optimization is hindered by heterogeneous and heuristically specified objectives, scarce data, and high training and inference costs. To overcome these challenges, we introduce ImProver 2, a neurosymbolic framework for automated proof optimization",
-      "url": "https://arxiv.org/abs/2605.22885",
+      "title": "Context: Proactive Goal-Directed Intelligence via Composable Sandboxed Programs, Declarative Wiring, and Structured Interaction",
+      "date": "Tue, 26 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.23928v1 Announce Type: new Abstract: We present Context, the intelligence layer of the Magarshak Architecture, which replaces reactive query-response chatbots with proactive goal-directed agents that advance shared tasks without waiting for user prompts. The architecture rests on three mutually reinforcing mechanisms. Write-time context assembly precomputes enriched typed attributes via Groker agents, assembling interaction context as a deterministic pure function of graph state; cont",
+      "url": "https://arxiv.org/abs/2605.23928",
       "category": [
         "cs.AI",
         "cs.CL",
+        "cs.DC",
+        "cs.MA",
+        "cs.PL",
+        "cs.SE"
+      ]
+    },
+    {
+      "title": "Toward Reliable Design of LLM-Enabled Agentic Workflows: Optimizing Latency-Reliability-Cost Tradeoffs",
+      "date": "Tue, 26 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.23929v1 Announce Type: new Abstract: Modern AI systems increasingly rely on workflows composed of multiple interacting agents, some powered by large language models (LLMs) and others by conventional computational modules. This paper analyzes the fundamental tradeoffs between latency, reliability, and cost in LLM-enabled agentic workflows. We introduce performance models for both LLM and non-LLM agents that capture the relationship between computational effort and output quality, incor",
+      "url": "https://arxiv.org/abs/2605.23929",
+      "category": [
+        "cs.AI",
+        "cs.SE"
+      ]
+    },
+    {
+      "title": "Quantum Frog: Emergent Cooperation and Difficulty Scaling in a Quantized-Time Cooperative Game",
+      "date": "Tue, 26 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.23930v1 Announce Type: new Abstract: We introduce \\emph{Quantum Frog}, a two-player cooperative game built on a novel \\emph{quantized-time} mechanic in which the environment advances only when a player acts. Inspired by the classic arcade game Frogger, Quantum Frog requires two frogs to cross an 8$\\times$8 grid of traffic and reach the far side together. We use reinforcement learning (RL) as an analytical lens to answer four design questions: (1) how does game difficulty scale with tr",
+      "url": "https://arxiv.org/abs/2605.23930",
+      "category": [
+        "cs.AI",
         "cs.LG",
-        "cs.LO"
+        "cs.MA"
       ]
     }
   ],
