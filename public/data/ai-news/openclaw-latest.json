@@ -1,8 +1,69 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-05-26T04:07:08.938Z",
-  "articles": [],
-  "status": "error",
-  "error": "GitHub API 请求失败: 403"
+  "fetch_time": "2026-05-26T07:43:33.796Z",
+  "articles": [
+    {
+      "title": "openclaw 2026.5.24-beta.2",
+      "date": "2026-05-24T23:49:30Z",
+      "summary": "\n### Changes\n\n- iMessage: support thumb-approval reactions — `👍` (Like tapback) resolves an approval as `allow-once` and `👎` resolves as `deny`, with the explicit-approver allowlist read from `chann...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.24-beta.2",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.5.24-beta.2",
+      "downloadCount": 92
+    },
+    {
+      "title": "openclaw 2026.5.24-beta.1",
+      "date": "2026-05-24T14:42:58Z",
+      "summary": "\n### Changes\n\n- Gateway/perf: reuse process-stable channel catalog reads, avoid repeated bundled-channel boundary checks, and rotate gateway watch CPU profiles so benchmark runs do not accumulate unbo...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.24-beta.1",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.5.24-beta.1",
+      "downloadCount": 37
+    },
+    {
+      "title": "openclaw 2026.5.22",
+      "date": "2026-05-24T01:12:56Z",
+      "summary": "## 2026.5.22\n\n### Changes\n\n- Gateway/perf: reuse process-stable channel catalog reads, avoid repeated bundled-channel boundary checks, and rotate gateway watch CPU profiles so benchmark runs do not ac...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.22",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.5.22",
+      "downloadCount": 11697
+    },
+    {
+      "title": "openclaw 2026.5.22-beta.1",
+      "date": "2026-05-23T09:59:56Z",
+      "summary": "## 2026.5.22\n\n### Changes\n\n- Docs: clarify README onboarding and Gateway startup paths, WhatsApp QR/408 recovery, cron output language prompts, skill advanced features, gateway upstream 403 troublesho...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.22-beta.1",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.5.22-beta.1",
+      "downloadCount": 0
+    },
+    {
+      "title": "openclaw 2026.5.20",
+      "date": "2026-05-21T20:44:50Z",
+      "summary": "\n### Changes\n\n- Exec approvals: remove the old `cat SKILL.md && printf ... && <skill-wrapper>` allowlist compatibility path so skill files must be loaded with the read tool and only the real skill exe...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.20",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.5.20",
+      "downloadCount": 11857
+    },
+    {
+      "title": "openclaw 2026.5.20-beta.2",
+      "date": "2026-05-21T15:57:15Z",
+      "summary": "\n### Changes\n\n- Exec approvals: remove the old `cat SKILL.md && printf ... && <skill-wrapper>` allowlist compatibility path so skill files must be loaded with the read tool and only the real skill exe...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.20-beta.2",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.5.20-beta.2",
+      "downloadCount": 28
+    }
+  ],
+  "status": "success",
+  "error": null
 }
