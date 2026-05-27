@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-05-27T08:03:11.708Z",
+  "fetch_time": "2026-05-27T11:30:38.531Z",
   "articles": [
+    {
+      "title": "OpenClaw 2026.5.26",
+      "date": "2026-05-27T11:27:24Z",
+      "summary": "## 2026.5.26\n\n### Highlights\n\n- Faster Gateway and replies: startup avoids repeated plugin, channel, session, usage-cost, warning, scheduled-service, and filesystem scans; visible replies separate use...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.26",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.5.26",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.5.26-beta.2",
       "date": "2026-05-27T05:46:50Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.5.26-beta.2",
-      "downloadCount": 0
+      "downloadCount": 22
     },
     {
       "title": "openclaw 2026.5.26-beta.1",
@@ -52,16 +62,6 @@
       "author": "github-actions[bot]",
       "tagName": "v2026.5.24-beta.1",
       "downloadCount": 43
-    },
-    {
-      "title": "openclaw 2026.5.22",
-      "date": "2026-05-24T01:12:56Z",
-      "summary": "## 2026.5.22\n\n### Changes\n\n- Gateway/perf: reuse process-stable channel catalog reads, avoid repeated bundled-channel boundary checks, and rotate gateway watch CPU profiles so benchmark runs do not ac...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.22",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.5.22",
-      "downloadCount": 15707
     }
   ],
   "status": "success",
