@@ -1,72 +1,60 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-05-26T14:28:57.388Z",
+  "fetch_time": "2026-05-27T04:20:26.991Z",
   "articles": [
     {
-      "title": "In Search of the Ingredients of Open-Endedness: Replicating Picbreeder with Large Vision-Language Models",
-      "date": "Tue, 26 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.23908v1 Announce Type: new Abstract: We are in the midst of large-scale industrial and academic efforts to automate the processes of scientific, technological and creative production through AI-driven assistants. Historically, a fundamental property of these processes in their human form has been their open-endedness: their capacity for generating a seemingly endless supply of novel and meaningful new forms. Do artificial agents have any capacity for such fruitful unguided discovery? ",
-      "url": "https://arxiv.org/abs/2605.23908",
+      "title": "BrickAnything: Geometry-Conditioned Buildable Brick Generation with Structure-Aware Tokenization",
+      "date": "Wed, 27 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.26182v1 Announce Type: new Abstract: Generating physically buildable brick structures from 3D shapes requires more than geometric reconstruction: the output must also satisfy discrete part constraints and structural stability. Existing brick generation methods either rely on heuristic optimization, which can break down when the target 3D shape does not admit a feasible structure under predefined constraints, or generate brick sequences without explicitly modeling the underlying 3D geo",
+      "url": "https://arxiv.org/abs/2605.26182",
+      "category": [
+        "cs.AI",
+        "cs.GR"
+      ]
+    },
+    {
+      "title": "Can LLMs Introspect? A Reality Check",
+      "date": "Wed, 27 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.26242v1 Announce Type: new Abstract: Can large language models detect and report their own internal states? A number of studies have argued that the answer to this question is yes. We argue, based on lessons from human metacognition research, that this conclusion may be premature: to be convinced of this conclusion we need to distinguish genuine introspection from pattern matching based on surface-level cues. Furthermore, we argue that behavioral evidence alone is inherently insuffici",
+      "url": "https://arxiv.org/abs/2605.26242",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Is Agent Memory a Database? Rethinking Data Foundations for Long-Term AI Agent Memory",
+      "date": "Wed, 27 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.26252v1 Announce Type: new Abstract: Long-running AI agents need persistent memory. Memory supports learning across sessions, reduces repeated context injection, and enables auditing of past decisions. Current agent memory systems and database paradigms treat memory as storage. They localize correctness at records, embeddings, or edges. Each supplies only some of the capabilities that long-term memory requires. The result is four recurring failure modes: unregulated growth, missing se",
+      "url": "https://arxiv.org/abs/2605.26252",
+      "category": [
+        "cs.AI",
+        "cs.DB"
+      ]
+    },
+    {
+      "title": "Personalizing Embodied Multimodal Large Language Model Agents over Long-term User Interactions",
+      "date": "Wed, 27 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.26256v1 Announce Type: new Abstract: Multimodal large language model (MLLM)-based embodied agents have shown strong potential for solving complex tasks in physical environments. However, personalized assistance requires more than following generic instruction or recognizing object categories. In real-world scenarios, the intended target is often specified only implicitly through prior interactions, requiring agents to leverage personalized context accumulated over time. In this work, ",
+      "url": "https://arxiv.org/abs/2605.26256",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Constraint acquisition needs better benchmarks",
+      "date": "Wed, 27 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.26279v1 Announce Type: new Abstract: Constraint Acquisition (CA) and related research on the validation and enhancement of Mathematical Programming (MP) models from domain knowledge artifacts are currently limited by inadequate benchmarks. This deficiency impedes reproducibility and cross-study comparability, slowing the maturation of CA methods. Existing benchmarks were designed for solver evaluation rather than for assessing CA algorithms. They are loosely organized, treat individua",
+      "url": "https://arxiv.org/abs/2605.26279",
+      "category": [
+        "cs.AI",
+        "cs.CE"
+      ]
+    },
+    {
+      "title": "Your Agents Are Aging Too: Agent Lifespan Engineering for Deployed Systems",
+      "date": "Wed, 27 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.26302v1 Announce Type: new Abstract: Long-lived AI agents are increasingly deployed as persistent operational systems, yet they are still evaluated like freshly initialized models. Day-one benchmarks miss a basic systems question: how long does an agent remain reliable after deployment? Even when model weights are frozen, an agent's effective state keeps changing as it compresses interaction history, retrieves from a growing memory store, revises facts after updates, and undergoes rou",
+      "url": "https://arxiv.org/abs/2605.26302",
       "category": [
         "cs.AI",
         "cs.CL",
-        "cs.CV",
-        "cs.NE"
-      ]
-    },
-    {
-      "title": "Confidence Calibration in Large Language Models",
-      "date": "Tue, 26 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.23909v1 Announce Type: new Abstract: We investigate the calibration of large language models' (LLMs') confidence across diverse tasks. The results of our preregistered study show that the current crop of LLMs are, like people, too sure they are right: confidence exceeds accuracy, on average. Importantly, however, this tendency is moderated by a powerful hard-easy effect, wherein overconfidence is greatest on difficult tests; by contrast, easy tests actually show substantial underconfi",
-      "url": "https://arxiv.org/abs/2605.23909",
-      "category": [
-        "cs.AI",
-        "cs.LG"
-      ]
-    },
-    {
-      "title": "How Much Thinking is Enough? Quantifying and Understanding Redundancy in LLM Reasoning",
-      "date": "Tue, 26 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.23926v1 Announce Type: new Abstract: Reasoning-capable large language models solve hard problems by emitting long chains of thought, paying heavily in latency, GPU time, and energy. Casual inspection of their traces reveals extensive reformulation, verification, and circular self-reflection, yet how much of this deliberation is actually necessary has never been measured at scale or explained from first principles. This paper closes both gaps. We formalise reasoning redundancy directly",
-      "url": "https://arxiv.org/abs/2605.23926",
-      "category": [
-        "cs.AI",
-        "cs.LG"
-      ]
-    },
-    {
-      "title": "Context: Proactive Goal-Directed Intelligence via Composable Sandboxed Programs, Declarative Wiring, and Structured Interaction",
-      "date": "Tue, 26 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.23928v1 Announce Type: new Abstract: We present Context, the intelligence layer of the Magarshak Architecture, which replaces reactive query-response chatbots with proactive goal-directed agents that advance shared tasks without waiting for user prompts. The architecture rests on three mutually reinforcing mechanisms. Write-time context assembly precomputes enriched typed attributes via Groker agents, assembling interaction context as a deterministic pure function of graph state; cont",
-      "url": "https://arxiv.org/abs/2605.23928",
-      "category": [
-        "cs.AI",
-        "cs.CL",
-        "cs.DC",
-        "cs.MA",
-        "cs.PL",
-        "cs.SE"
-      ]
-    },
-    {
-      "title": "Toward Reliable Design of LLM-Enabled Agentic Workflows: Optimizing Latency-Reliability-Cost Tradeoffs",
-      "date": "Tue, 26 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.23929v1 Announce Type: new Abstract: Modern AI systems increasingly rely on workflows composed of multiple interacting agents, some powered by large language models (LLMs) and others by conventional computational modules. This paper analyzes the fundamental tradeoffs between latency, reliability, and cost in LLM-enabled agentic workflows. We introduce performance models for both LLM and non-LLM agents that capture the relationship between computational effort and output quality, incor",
-      "url": "https://arxiv.org/abs/2605.23929",
-      "category": [
-        "cs.AI",
-        "cs.SE"
-      ]
-    },
-    {
-      "title": "Quantum Frog: Emergent Cooperation and Difficulty Scaling in a Quantized-Time Cooperative Game",
-      "date": "Tue, 26 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.23930v1 Announce Type: new Abstract: We introduce \\emph{Quantum Frog}, a two-player cooperative game built on a novel \\emph{quantized-time} mechanic in which the environment advances only when a player acts. Inspired by the classic arcade game Frogger, Quantum Frog requires two frogs to cross an 8$\\times$8 grid of traffic and reach the far side together. We use reinforcement learning (RL) as an analytical lens to answer four design questions: (1) how does game difficulty scale with tr",
-      "url": "https://arxiv.org/abs/2605.23930",
-      "category": [
-        "cs.AI",
-        "cs.LG",
         "cs.MA"
       ]
     }

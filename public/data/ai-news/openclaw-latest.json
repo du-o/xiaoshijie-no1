@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-05-26T14:29:15.251Z",
+  "fetch_time": "2026-05-27T04:20:47.105Z",
   "articles": [
+    {
+      "title": "openclaw 2026.5.26-beta.1",
+      "date": "2026-05-26T21:10:33Z",
+      "summary": "## 2026.5.26\n\n### Highlights\n\n- Faster replies and startup: visible reply delivery now separates user-facing sends from slower follow-up work, command/model/plugin metadata is reused on hot paths, and...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.26-beta.1",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.5.26-beta.1",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.5.25-beta.1",
       "date": "2026-05-26T09:41:10Z",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.5.24-beta.2",
-      "downloadCount": 102
+      "downloadCount": 106
     },
     {
       "title": "openclaw 2026.5.24-beta.1",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.5.24-beta.1",
-      "downloadCount": 41
+      "downloadCount": 43
     },
     {
       "title": "openclaw 2026.5.22",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.5.22",
-      "downloadCount": 13094
+      "downloadCount": 15068
     },
     {
       "title": "openclaw 2026.5.22-beta.1",
@@ -52,16 +62,6 @@
       "author": "steipete",
       "tagName": "v2026.5.22-beta.1",
       "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.5.20",
-      "date": "2026-05-21T20:44:50Z",
-      "summary": "\n### Changes\n\n- Exec approvals: remove the old `cat SKILL.md && printf ... && <skill-wrapper>` allowlist compatibility path so skill files must be loaded with the read tool and only the real skill exe...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.20",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.5.20",
-      "downloadCount": 11875
     }
   ],
   "status": "success",
