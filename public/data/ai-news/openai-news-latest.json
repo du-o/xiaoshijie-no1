@@ -1,14 +1,35 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-05-27T14:47:24.308Z",
+  "fetch_time": "2026-05-28T04:09:43.621Z",
   "articles": [
+    {
+      "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+      "date": "Wed, 27 May 2026 11:00:00 GMT",
+      "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
+      "url": "https://openai.com/index/cisco",
+      "category": ""
+    },
     {
       "title": "Building self-improving tax agents with Codex",
       "date": "Wed, 27 May 2026 07:00:00 GMT",
       "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
       "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
       "category": "Engineering"
+    },
+    {
+      "title": "Election information and safeguards in 2026",
+      "date": "Wed, 27 May 2026 00:00:00 GMT",
+      "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+      "url": "https://openai.com/index/election-safeguards-2026",
+      "category": "Global Affairs"
+    },
+    {
+      "title": "Warp’s big bet on building open source with GPT-5.5",
+      "date": "Wed, 27 May 2026 00:00:00 GMT",
+      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "url": "https://openai.com/index/warp",
+      "category": "Startup"
     },
     {
       "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
@@ -23,27 +44,6 @@
       "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
       "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
       "category": "AI Adoption"
-    },
-    {
-      "title": "How Virgin Atlantic ships faster with Codex",
-      "date": "Fri, 22 May 2026 00:00:00 GMT",
-      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
-      "url": "https://openai.com/index/virgin-atlantic",
-      "category": ""
-    },
-    {
-      "title": "AdventHealth advances whole-person care with OpenAI",
-      "date": "Thu, 21 May 2026 12:00:00 GMT",
-      "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
-      "url": "https://openai.com/index/adventhealth",
-      "category": ""
-    },
-    {
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "date": "Wed, 20 May 2026 00:00:00 GMT",
-      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
-      "url": "https://openai.com/index/ramp",
-      "category": ""
     }
   ],
   "status": "success",

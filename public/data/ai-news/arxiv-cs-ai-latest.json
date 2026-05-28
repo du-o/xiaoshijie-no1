@@ -1,62 +1,64 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-05-27T14:47:24.596Z",
+  "fetch_time": "2026-05-28T04:09:43.916Z",
   "articles": [
     {
-      "title": "BrickAnything: Geometry-Conditioned Buildable Brick Generation with Structure-Aware Tokenization",
-      "date": "Wed, 27 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.26182v1 Announce Type: new Abstract: Generating physically buildable brick structures from 3D shapes requires more than geometric reconstruction: the output must also satisfy discrete part constraints and structural stability. Existing brick generation methods either rely on heuristic optimization, which can break down when the target 3D shape does not admit a feasible structure under predefined constraints, or generate brick sequences without explicitly modeling the underlying 3D geo",
-      "url": "https://arxiv.org/abs/2605.26182",
-      "category": [
-        "cs.AI",
-        "cs.GR"
-      ]
-    },
-    {
-      "title": "Can LLMs Introspect? A Reality Check",
-      "date": "Wed, 27 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.26242v1 Announce Type: new Abstract: Can large language models detect and report their own internal states? A number of studies have argued that the answer to this question is yes. We argue, based on lessons from human metacognition research, that this conclusion may be premature: to be convinced of this conclusion we need to distinguish genuine introspection from pattern matching based on surface-level cues. Furthermore, we argue that behavioral evidence alone is inherently insuffici",
-      "url": "https://arxiv.org/abs/2605.26242",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Is Agent Memory a Database? Rethinking Data Foundations for Long-Term AI Agent Memory",
-      "date": "Wed, 27 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.26252v1 Announce Type: new Abstract: Long-running AI agents need persistent memory. Memory supports learning across sessions, reduces repeated context injection, and enables auditing of past decisions. Current agent memory systems and database paradigms treat memory as storage. They localize correctness at records, embeddings, or edges. Each supplies only some of the capabilities that long-term memory requires. The result is four recurring failure modes: unregulated growth, missing se",
-      "url": "https://arxiv.org/abs/2605.26252",
-      "category": [
-        "cs.AI",
-        "cs.DB"
-      ]
-    },
-    {
-      "title": "Personalizing Embodied Multimodal Large Language Model Agents over Long-term User Interactions",
-      "date": "Wed, 27 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.26256v1 Announce Type: new Abstract: Multimodal large language model (MLLM)-based embodied agents have shown strong potential for solving complex tasks in physical environments. However, personalized assistance requires more than following generic instruction or recognizing object categories. In real-world scenarios, the intended target is often specified only implicitly through prior interactions, requiring agents to leverage personalized context accumulated over time. In this work, ",
-      "url": "https://arxiv.org/abs/2605.26256",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Constraint acquisition needs better benchmarks",
-      "date": "Wed, 27 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.26279v1 Announce Type: new Abstract: Constraint Acquisition (CA) and related research on the validation and enhancement of Mathematical Programming (MP) models from domain knowledge artifacts are currently limited by inadequate benchmarks. This deficiency impedes reproducibility and cross-study comparability, slowing the maturation of CA methods. Existing benchmarks were designed for solver evaluation rather than for assessing CA algorithms. They are loosely organized, treat individua",
-      "url": "https://arxiv.org/abs/2605.26279",
-      "category": [
-        "cs.AI",
-        "cs.CE"
-      ]
-    },
-    {
-      "title": "Your Agents Are Aging Too: Agent Lifespan Engineering for Deployed Systems",
-      "date": "Wed, 27 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.26302v1 Announce Type: new Abstract: Long-lived AI agents are increasingly deployed as persistent operational systems, yet they are still evaluated like freshly initialized models. Day-one benchmarks miss a basic systems question: how long does an agent remain reliable after deployment? Even when model weights are frozen, an agent's effective state keeps changing as it compresses interaction history, retrieves from a growing memory store, revises facts after updates, and undergoes rou",
-      "url": "https://arxiv.org/abs/2605.26302",
+      "title": "Identifying and Understanding Human Values in Text: A Tailorable LLM-based Architecture",
+      "date": "Thu, 28 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.27373v1 Announce Type: new Abstract: As intelligent systems become more autonomous, the scientific community focuses on creating decision-making mechanisms that include ethical and moral considerations, unlike traditional utility-maximisation models. To achieve this, a key aspect is assessing how well these decisions align with human values. To this end, a promising line of research is centred on developing approaches based on Large Language Models (LLMs) to identify human values from",
+      "url": "https://arxiv.org/abs/2605.27373",
       "category": [
         "cs.AI",
         "cs.CL",
-        "cs.MA"
+        "cs.CY"
       ]
+    },
+    {
+      "title": "Soro: A Lightweight Foundation Model and Chatbot for Tajik",
+      "date": "Thu, 28 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.27379v1 Announce Type: new Abstract: We present Soro, a family of Tajik-specialized conversational large language models (LLMs) designed for real-world deployment under tight compute and connectivity constraints in Tajikistan. Starting from open-weight Gemma 3 checkpoints, we perform Tajik-only continual pretraining on a curated 1.9-billion-token corpus spanning filtered web text, PDF documents, and curriculum-aligned educational materials, followed by supervised instruction tuning on",
+      "url": "https://arxiv.org/abs/2605.27379",
+      "category": [
+        "cs.AI",
+        "cs.CL"
+      ]
+    },
+    {
+      "title": "On the Origin of Synthetic Information by Means of Steganographic Inheritance",
+      "date": "Thu, 28 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.27551v1 Announce Type: new Abstract: The origin of species has been the mystery of mysteries in natural science. By analogy, the origin of synthetic information, we suggest, is the mystery of mysteries in information science. The question carries a moral weight that a technical account can neither fully resolve nor responsibly ignore, as its impact on truth, trust, and human intellect extends deep into the broader economy and society. The very power of artificial intelligence makes th",
+      "url": "https://arxiv.org/abs/2605.27551",
+      "category": [
+        "cs.AI",
+        "cs.CR",
+        "cs.IR",
+        "cs.MM"
+      ]
+    },
+    {
+      "title": "DynaSchedBench: Calibrated Dynamic Scheduling Benchmarks and Observability Paradox in LLM-based Scheduling Agents",
+      "date": "Thu, 28 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.27566v1 Announce Type: new Abstract: Progress in neural combinatorial optimization for Dynamic Flexible Job Shop Scheduling Problem (DFJSP) is currently hindered by a methodological tension: static benchmarks encourage benchmark overfitting, while uncalibrated generators obscure algorithmic capability with stochastic noise. To resolve this, we introduce \\textbf{DynaSchedBench}, a diagnostic framework for DFJSP that rigorously controls the instance-generation process. Instead of relyin",
+      "url": "https://arxiv.org/abs/2605.27566",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Why LLMs Fail at Causal Discovery and How Interventional Agents Escape",
+      "date": "Thu, 28 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.27567v1 Announce Type: new Abstract: Causal discovery is a cornerstone of scientific reasoning, yet whether large language models can perform it reliably remains an open question. Recent benchmarks show that even fine-tuned models plateau on simple causal graphs and degrade as complexity grows, but why they fail has not been established. We prove the failure is fundamental: supervised fine-tuning, direct preference optimization, and in-context learning all produce predictors that cann",
+      "url": "https://arxiv.org/abs/2605.27567",
+      "category": [
+        "cs.AI",
+        "cs.CL"
+      ]
+    },
+    {
+      "title": "RULER: Representation-Level Verification of Machine Unlearning",
+      "date": "Thu, 28 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.27569v1 Announce Type: new Abstract: Machine unlearning aims to remove the influence of specific training records from a deployed model without retraining from scratch. Current protocols verify this at the output level through membership inference, retain accuracy, and forget-set accuracy, but a model can satisfy all three whilst still encoding forgotten records in its intermediate representations. We introduce RULER, a set of representation-level verification metrics. The oracle-comp",
+      "url": "https://arxiv.org/abs/2605.27569",
+      "category": "cs.AI"
     }
   ],
   "status": "success",
