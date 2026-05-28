@@ -1,8 +1,29 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-05-28T11:29:57.503Z",
+  "fetch_time": "2026-05-28T14:58:15.493Z",
   "articles": [
+    {
+      "title": "Temu 因违反 DSA 被欧盟罚款 2 亿欧元",
+      "date": "Thu, 28 May 2026 12:59:59 GMT",
+      "summary": "欧盟委员会根据 Digital Services Act (DSA)对 Temu 因处以 2 亿欧元罚款。原因是 Temu 对其平台上假冒伪劣商品所带来的系统性风险没有尽职尽责的识别、分析和评估，从而给欧盟消费者造成了伤害。欧盟委员会举例说：它调查的充电器有相当高比例的产品未能通过基本的安全测试；在测试的婴儿玩具中，有相当比例的产品存在中度至高度的安全风险，这些玩具含有超过法定安全限值的化学物质，或者由于可拆卸部件而存在窒息危险。欧盟委员会是在 2024 年 10 月 31 日启动调查，2025 年 7 月通过了初步调查结果，5 月 28 日公布处罚。",
+      "url": "https://www.solidot.org/story?sid=84428",
+      "category": ""
+    },
+    {
+      "title": "网站能通过分析 SSD 活动监视用户",
+      "date": "Thu, 28 May 2026 12:43:59 GMT",
+      "summary": "浏览器已经演变成类似操作系统的复杂平台，但不断加入的新特性也增加了浏览器的攻击面，引入新的漏洞。最新的攻击被称为 FROST(fingerprinting remotely using OPFS-based SSD timing)，通过测量用户使用的 SSD 的部分 I/O（输入/输出）操作时序，攻击者能识别用户在浏览器标签页打开的网站以及正在运行的应用程序。FROST 攻击无需任何交互，只需打开执行攻击的网站。FROST 攻击完全在浏览器中运行。它使用 JavaScript 与 OPFS（origin private file system）交互。OPFS 是 Web API 的一部分，是一个为特定网站预留的专属存储空间，用于运行完成特定任务所需的目标代码。网站无需任何交互就可以直接创建该空间。该攻击的一大缺陷是需要的 OPFS 文件比较大，可能需要 1GB 左右，因此会容易检测出来。",
+      "url": "https://www.solidot.org/story?sid=84427",
+      "category": ""
+    },
+    {
+      "title": "Last.fm 独立运营",
+      "date": "Thu, 28 May 2026 10:30:33 GMT",
+      "summary": "音乐平台 Last.fm 宣布再次独立运营，声明所有权更改了，但用户每天使用的产品没有变。用户的账号以及音乐品味数据等都没有变。Last.fm 创办于 2002 年，利用 Audioscrobbler 音乐推荐系统根据收听数据为每位用户创建品味档案。CBS Interactive 在 2007 年以 2.8 亿美元将其收购，CBS Interactive 如今是 Paramount Skydance 的一部分。",
+      "url": "https://www.solidot.org/story?sid=84426",
+      "category": ""
+    },
     {
       "title": "黄仁勋将成为最新一位加入清华经管顾问委员会的美国企业高管",
       "date": "Thu, 28 May 2026 08:47:30 GMT",
@@ -22,27 +43,6 @@
       "date": "Thu, 28 May 2026 08:04:46 GMT",
       "summary": "Google 安全工程师 Michele Spagnuolo 利用内部消息在预测市场 Polymarket 押注歌手 d4vd 成为 2025 年 Google 搜索量最高的人物而获利 120 万美元，他被控犯有欺诈罪，于周三上午被捕，后以 225 万美元保释金获释。Spagnuolo 能访问内部数据系统，包括一个能访问未公开年度搜索数据的工具。Polymarket 平台观察者在去年 12 月注意到账号 AlphaRaccoon 在年度搜索量最高的人物上进行可疑交易，Spagnuolo 就是该账号的所有者，他从相关投注上获利 120 万美元。Google 表示正配合调查，称 Spagnuolo 的行为违反了公司政策。&nbsp;&nbsp;",
       "url": "https://www.solidot.org/story?sid=84423",
-      "category": ""
-    },
-    {
-      "title": "袭击石油设施释放的污染相当于一次火山喷发",
-      "date": "Thu, 28 May 2026 07:43:55 GMT",
-      "summary": "武汉大学和中国气象局研究团队利用风云卫星和欧洲哨兵卫星量化了今年三月伊朗石油设施遭袭击后释放的二氧化硫。3 月 7 日的空袭中伊朗 Fardis、Shahran 和 Aghdasieh 油库以及德黑兰炼油厂遭到严重破坏，其中 Shahran 油库破坏最为严重，燃烧的石油流入城市下水道系统，引燃城市绿地，造成大量有毒烟雾。当地居民报告他们立即出现了呼吸困难、皮肤刺激和口中有苦味等健康问题。科学家特别关注了油库燃烧释放的具有强刺激性和腐蚀性的二氧化硫污染。利用风云-3(FY-3F 和 FY-3E)和哨兵-5P，科学家发现当地的二氧化硫浓度从 0.8 DU 上升到 2.0 DU（DU 指 Dobson unit），总排放量估计为 2.98×10⁴ 吨。这次事件的影响范围为 3.0×10⁵ 平方公里。",
-      "url": "https://www.solidot.org/story?sid=84422",
-      "category": ""
-    },
-    {
-      "title": "一亿年前的鸟就用华丽羽毛吸引配偶",
-      "date": "Thu, 28 May 2026 06:05:01 GMT",
-      "summary": "根据发表在 PLOS One 期刊上的一项研究，生活在一亿多年前的鸟 Plumadraco bankoorum 就利用华丽羽毛去吸引配偶。这种鸟的化石在辽宁出土，生活在 1.21 亿年。该鸟从喙到尾羽根部仅长 15 厘米，但其双尾羽却长达近 30 厘米。这对羽毛不具备空气动力学功能，更可能是用于展示。在现代鸟类中，如孔雀和天堂鸟，长尾羽通常出现在雄性个体身上，用于华丽的求偶展示；而雌性则羽色低调，以便在筑巢育雏时避免被捕食者发现。研究人员据此推测，这件羽龙化石很可能代表一只雄性个体，其异常修长的尾羽可能具有类似功能。但研究也指出，这一推测还需更多关于此类远古鸟类尾部肌肉结构和筑巢策略的证据来证实。",
-      "url": "https://www.solidot.org/story?sid=84421",
-      "category": ""
-    },
-    {
-      "title": "YouTube 将自动标记 AI 生成视频",
-      "date": "Thu, 28 May 2026 05:29:00 GMT",
-      "summary": "对于人眼愈来愈难以分辨、几乎以假乱真的 AI 视频，YouTube 宣布将自动标记 AI 生成视频，并以最显眼的方式展示给用户，此举旨在改进内容透明度。对于长视频：AI 标签将显示在视频播放器下方和描述上方。对于短视频：标签将以叠加层的形式显示在视频上。",
-      "url": "https://www.solidot.org/story?sid=84420",
       "category": ""
     }
   ],

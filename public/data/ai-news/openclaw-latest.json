@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-05-28T11:30:12.653Z",
+  "fetch_time": "2026-05-28T14:58:32.423Z",
   "articles": [
+    {
+      "title": "openclaw 2026.5.27",
+      "date": "2026-05-28T11:41:42Z",
+      "summary": "\n### Highlights\n\n- Stronger security and content boundaries: group prompt text is kept out of the system prompt, repeated-dot hostnames are normalized, side-effecting command wrappers and unsafe Node ...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.27",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.5.27",
+      "downloadCount": 750
+    },
     {
       "title": "openclaw 2026.5.27-beta.1",
       "date": "2026-05-28T05:54:37Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.5.27-beta.1",
-      "downloadCount": 20
+      "downloadCount": 21
     },
     {
       "title": "openclaw 2026.5.26",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.5.26",
-      "downloadCount": 5795
+      "downloadCount": 6153
     },
     {
       "title": "openclaw 2026.5.26-beta.2",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.5.26-beta.2",
-      "downloadCount": 29
+      "downloadCount": 30
     },
     {
       "title": "openclaw 2026.5.26-beta.1",
@@ -52,16 +62,6 @@
       "author": "steipete",
       "tagName": "v2026.5.25-beta.1",
       "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.5.24-beta.2",
-      "date": "2026-05-24T23:49:30Z",
-      "summary": "\n### Changes\n\n- iMessage: support thumb-approval reactions — `👍` (Like tapback) resolves an approval as `allow-once` and `👎` resolves as `deny`, with the explicit-approver allowlist read from `chann...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.24-beta.2",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.5.24-beta.2",
-      "downloadCount": 109
     }
   ],
   "status": "success",
