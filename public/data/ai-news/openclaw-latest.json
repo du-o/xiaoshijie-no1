@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-05-29T04:12:13.275Z",
+  "fetch_time": "2026-05-29T07:54:42.288Z",
   "articles": [
+    {
+      "title": "openclaw 2026.5.28-beta.1",
+      "date": "2026-05-29T04:46:20Z",
+      "summary": "## 2026.5.28\n\n### Highlights\n\n- Agent and Codex runtime recovery is steadier: subagents keep cwd/workspace separation, hook context stays prompt-local, session locks release on timeout abort, stale re...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.28-beta.1",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.5.28-beta.1",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.5.27",
       "date": "2026-05-28T11:41:42Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.5.27",
-      "downloadCount": 3621
+      "downloadCount": 4512
     },
     {
       "title": "openclaw 2026.5.27-beta.1",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.5.27-beta.1",
-      "downloadCount": 26
+      "downloadCount": 27
     },
     {
       "title": "openclaw 2026.5.26",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.5.26",
-      "downloadCount": 6227
+      "downloadCount": 6236
     },
     {
       "title": "openclaw 2026.5.26-beta.2",
@@ -51,16 +61,6 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.5.26-beta.1",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.5.25-beta.1",
-      "date": "2026-05-26T09:41:10Z",
-      "summary": "## 2026.5.25-beta.1\n\n### Beta 1 late fixes\n\n- iMessage: thread current channel/account inbound attachment roots into the image tool so iMessage-saved attachments under `~/Library/Messages/Attachments`...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.25-beta.1",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.5.25-beta.1",
       "downloadCount": 0
     }
   ],

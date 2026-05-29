@@ -1,13 +1,20 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-05-29T04:11:59.682Z",
+  "fetch_time": "2026-05-29T07:54:27.235Z",
   "articles": [
     {
       "title": "How Endava builds an agentic organization with Codex",
       "date": "Thu, 28 May 2026 12:00:00 GMT",
       "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
       "url": "https://openai.com/index/endava",
+      "category": ""
+    },
+    {
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "date": "Thu, 28 May 2026 00:00:00 GMT",
+      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "url": "https://openai.com/index/mufg",
       "category": ""
     },
     {
@@ -37,13 +44,6 @@
       "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
       "url": "https://openai.com/index/election-safeguards-2026",
       "category": "Global Affairs"
-    },
-    {
-      "title": "Warp’s big bet on building open source with GPT-5.5",
-      "date": "Wed, 27 May 2026 00:00:00 GMT",
-      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
-      "url": "https://openai.com/index/warp",
-      "category": "Startup"
     }
   ],
   "status": "success",
