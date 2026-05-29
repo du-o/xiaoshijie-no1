@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-05-29T07:54:27.235Z",
+  "fetch_time": "2026-05-29T11:20:03.860Z",
   "articles": [
+    {
+      "title": "Strengthening societal resilience with Rosalind Biodefense",
+      "date": "Fri, 29 May 2026 03:00:00 GMT",
+      "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
+      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+      "category": "Product"
+    },
     {
       "title": "How Endava builds an agentic organization with Codex",
       "date": "Thu, 28 May 2026 12:00:00 GMT",
@@ -11,18 +18,18 @@
       "category": ""
     },
     {
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "date": "Thu, 28 May 2026 00:00:00 GMT",
-      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "url": "https://openai.com/index/mufg",
-      "category": ""
-    },
-    {
       "title": "OpenAI’s Frontier Governance Framework",
       "date": "Thu, 28 May 2026 00:00:00 GMT",
       "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
       "url": "https://openai.com/index/openai-frontier-governance-framework",
       "category": "Safety"
+    },
+    {
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "date": "Thu, 28 May 2026 00:00:00 GMT",
+      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "url": "https://openai.com/index/mufg",
+      "category": ""
     },
     {
       "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
@@ -37,13 +44,6 @@
       "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
       "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
       "category": "Engineering"
-    },
-    {
-      "title": "Election information and safeguards in 2026",
-      "date": "Wed, 27 May 2026 00:00:00 GMT",
-      "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
-      "url": "https://openai.com/index/election-safeguards-2026",
-      "category": "Global Affairs"
     }
   ],
   "status": "success",
