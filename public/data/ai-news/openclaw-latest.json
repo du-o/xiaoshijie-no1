@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-05-29T11:20:19.697Z",
+  "fetch_time": "2026-05-29T14:31:12.792Z",
   "articles": [
+    {
+      "title": "openclaw 2026.5.28-beta.2",
+      "date": "2026-05-29T12:19:13Z",
+      "summary": "## 2026.5.28\n\n### Highlights\n\n- Agent and Codex runtime recovery is steadier: subagents keep cwd/workspace separation, hook context stays prompt-local, session locks release on timeout abort, stale re...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.28-beta.2",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.5.28-beta.2",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.5.28-beta.1",
       "date": "2026-05-29T04:46:20Z",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.5.27",
-      "downloadCount": 5367
+      "downloadCount": 6151
     },
     {
       "title": "openclaw 2026.5.27-beta.1",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.5.27-beta.1",
-      "downloadCount": 27
+      "downloadCount": 28
     },
     {
       "title": "openclaw 2026.5.26",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.5.26",
-      "downloadCount": 6239
+      "downloadCount": 6246
     },
     {
       "title": "openclaw 2026.5.26-beta.2",
@@ -52,16 +62,6 @@
       "author": "steipete",
       "tagName": "v2026.5.26-beta.2",
       "downloadCount": 31
-    },
-    {
-      "title": "openclaw 2026.5.26-beta.1",
-      "date": "2026-05-26T21:10:33Z",
-      "summary": "## 2026.5.26\n\n### Highlights\n\n- Faster replies and startup: visible reply delivery now separates user-facing sends from slower follow-up work, command/model/plugin metadata is reused on hot paths, and...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.26-beta.1",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.5.26-beta.1",
-      "downloadCount": 0
     }
   ],
   "status": "success",
