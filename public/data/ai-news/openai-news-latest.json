@@ -1,8 +1,22 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-05-28T14:58:09.553Z",
+  "fetch_time": "2026-05-29T04:11:59.682Z",
   "articles": [
+    {
+      "title": "How Endava builds an agentic organization with Codex",
+      "date": "Thu, 28 May 2026 12:00:00 GMT",
+      "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
+      "url": "https://openai.com/index/endava",
+      "category": ""
+    },
+    {
+      "title": "OpenAI’s Frontier Governance Framework",
+      "date": "Thu, 28 May 2026 00:00:00 GMT",
+      "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
+      "url": "https://openai.com/index/openai-frontier-governance-framework",
+      "category": "Safety"
+    },
     {
       "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
       "date": "Wed, 27 May 2026 11:00:00 GMT",
@@ -18,13 +32,6 @@
       "category": "Engineering"
     },
     {
-      "title": "Warp’s big bet on building open source with GPT-5.5",
-      "date": "Wed, 27 May 2026 00:00:00 GMT",
-      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
-      "url": "https://openai.com/index/warp",
-      "category": "Startup"
-    },
-    {
       "title": "Election information and safeguards in 2026",
       "date": "Wed, 27 May 2026 00:00:00 GMT",
       "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
@@ -32,18 +39,11 @@
       "category": "Global Affairs"
     },
     {
-      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
-      "date": "Mon, 25 May 2026 00:00:00 GMT",
-      "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
-      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
-      "category": "Global Affairs"
-    },
-    {
-      "title": "How Virgin Atlantic ships faster with Codex",
-      "date": "Fri, 22 May 2026 00:00:00 GMT",
-      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
-      "url": "https://openai.com/index/virgin-atlantic",
-      "category": ""
+      "title": "Warp’s big bet on building open source with GPT-5.5",
+      "date": "Wed, 27 May 2026 00:00:00 GMT",
+      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "url": "https://openai.com/index/warp",
+      "category": "Startup"
     }
   ],
   "status": "success",

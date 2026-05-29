@@ -1,9 +1,189 @@
 {
-  "fetch_time": "2026-05-28T14:58:15.494Z",
+  "fetch_time": "2026-05-29T04:12:02.358Z",
   "total_count": 36,
   "sources_count": 6,
   "errors": null,
   "articles": [
+    {
+      "title": "港交所行政总裁陈翊庭：截至今年4月底深股通累计成交额已达118万亿元",
+      "date": "Fri, 29 May 2026 04:09:27 GMT",
+      "summary": "5月29日，在深交所2026全球投资者大会上，香港交易所集团行政总裁陈翊庭表示，今年将迎来深港通十周年重大里程碑。北向深股通的日均成交额近年来屡创新高，截至今年4月底，深股通的累计成交额已经达到118万亿元人民币。（证券时报）",
+      "url": "https://36kr.com/newsflashes/3829841867957892?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "恒指午间休盘涨1.11%，恒生科技指数涨1.66%",
+      "date": "Fri, 29 May 2026 04:02:20 GMT",
+      "summary": "36氪获悉，恒指午间休盘涨1.11%，恒生科技指数涨1.66%；GEO、光模块概念领涨，智谱、长飞光纤光缆涨超11%，MINIMAX-WP涨超4%；消费股走强，泡泡玛特涨超9%，东方甄选张超7%，蜜雪集团涨超5%；半导体板块集体调整，澜起科技跌超9%，兆易创新跌超5%；南向资金净买入70.02亿港元。",
+      "url": "https://36kr.com/newsflashes/3829847496927113?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "Behavior-Induced Mirror-Prox Temporal-Difference Learning for Faster Off-Policy Prediction",
+      "date": "Fri, 29 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.28849v1 Announce Type: new Abstract: Gradient temporal-difference methods provide stable off-policy prediction with linear function approximation, but their practical performance is strongly affected by the geometry induced by the auxiliary-variable metric. Existing Mirror-Prox TD methods typically use the feature covariance metric, whereas hybrid TD methods suggest that behavior-policy transition information can provide a more informative update geometry. This paper proposes a behavi",
+      "url": "https://arxiv.org/abs/2605.28849",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Behavior-Aware Auxiliary Corrections for Off-Policy Temporal-Difference Prediction",
+      "date": "Fri, 29 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.28855v1 Announce Type: new Abstract: Temporal-difference learning with function approximation can be unstable under off-policy sampling. TDC stabilizes off-policy TD through an auxiliary covariance correction, and TDRC further regularizes this correction in a single-timescale recursion. This paper studies a behavior-aware replacement of the auxiliary covariance geometry in the linear prediction setting, which is the standard local model for understanding the feature-space dynamics of ",
+      "url": "https://arxiv.org/abs/2605.28855",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "The Cognitive Categorical Transformer: Category-Theoretic Inductive Biases for Language Modeling",
+      "date": "Fri, 29 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.28864v1 Announce Type: new Abstract: The Cognitive Categorical Transformer (CCT) is a 306M-parameter architecture that augments a pretrained GPT-2 Small backbone with cognitively grounded components derived from category theory and several inspirations from cognitive science. Under a matched-step protocol (215,000 optimizer steps, matched data, matched optimizer and schedule) on WikiText-103, CCT reaches 21.27 validation perplexity, compared with 24.19 for an identically fine-tuned GP",
+      "url": "https://arxiv.org/abs/2605.28864",
+      "category": [
+        "cs.AI",
+        "cs.CL"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Ultra-Reduced-Impact-Encased-Logging (URIEL): propose a new method for selective sustainable logging and post-harvest silvicultural treatment in tropical forest using airborne robotics systems",
+      "date": "Fri, 29 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.28883v1 Announce Type: new Abstract: Tropical forests worldwide are under intense deforestation pressure driven by economic and political interests, and scientific evidence suggests this deforestation contributes to climate change. This paper proposes a novel logging method for tropical forests, Ultra-Reduced-Impact-Encased-Logging (URIEL). This new method is based on heli-logging techniques combined with intensive use of robotics and AI integrated with post-harvest silvicultural trea",
+      "url": "https://arxiv.org/abs/2605.28883",
+      "category": [
+        "cs.AI",
+        "cs.RO"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Review Arcade: On the Human Alignment and Gameability of LLM Reviews",
+      "date": "Fri, 29 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.28897v1 Announce Type: new Abstract: LLM-generated reviews for scientific papers are gaining considerable traction and are even being officially piloted by major conferences. We have to assume that not only reviewers are using LLM-assistance, but also that authors use LLMs to revise their papers before submitting. In this work, we perform empirical experiments on papers from the 2025 ACL Rolling Review (ARR) to evaluate LLM reviews from both the author and the reviewer perspective. Fi",
+      "url": "https://arxiv.org/abs/2605.28897",
+      "category": [
+        "cs.AI",
+        "cs.MA"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Orthogonal Concept Erasure for Diffusion Models",
+      "date": "Fri, 29 May 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.28902v1 Announce Type: new Abstract: Concept erasure has emerged as a promising approach to mitigate undesired or unsafe content in diffusion models, yet existing methods still face significant limitations. While training-based methods are effective, their high computational cost limits scalability. Editing-based methods are more efficient and deployment-friendly, yet they struggle to simultaneously achieve precise concept erasure and preserve overall generative capacity. We identify ",
+      "url": "https://arxiv.org/abs/2605.28902",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "OpenAI：正在调查影响用户登录和使用ChatGPT的故障",
+      "date": "Fri, 29 May 2026 03:55:15 GMT",
+      "summary": "OpenAI在网站上表示，公司正在调查可能导致用户无法与ChatGPT对话、登录或创建帐户的问题。 根据网络状况监控网站Downdetector的数据，截至美东时间晚上11:04，已有约5000起相关故障的报告。（财联社）",
+      "url": "https://36kr.com/newsflashes/3829840530007941?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "半日主力资金加仓公用事业股，抛售电子股",
+      "date": "Fri, 29 May 2026 03:51:16 GMT",
+      "summary": "主力资金早间净流入公用事业、食品饮料、商贸零售、非银金融等板块，净流出电子、计算机、机械设备、有色金属等板块。具体到个股来看，亨通光电、中国中免、宁德时代获净流入24.45亿元、18.13亿元、12.14亿元。净流出方面，信维通信、中芯国际、华工科技遭抛售20.74亿元、20.61亿元、18.76亿元。（第一财经）",
+      "url": "https://36kr.com/newsflashes/3829836625454722?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "闻泰科技董事长杨沐：安世中国独立运营体系已基本完成搭建",
+      "date": "Fri, 29 May 2026 03:40:39 GMT",
+      "summary": "闻泰科技董事长杨沐今日在2026集微大会上宣布，安世中国独立运营体系已基本完成搭建，安世中国核心管理研发市场团队扎根中国，拥有完整经营决策权，能够精准匹配中国高端制造的需求，并快速响应全球市场。“目前公司产能与交付能力稳步恢复，前道环节已与多家中国合作伙伴开展多平台、多产品的深度合作，每家供应商互为补充，以最大产能补足公司全产业链，多节点、多来源的稳定供应模式已正式落地。”（财联社）",
+      "url": "https://36kr.com/newsflashes/3829820305155969?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "A股三大指数午间休盘集体下跌，半导体板块领跌",
+      "date": "Fri, 29 May 2026 03:33:21 GMT",
+      "summary": "36氪获悉，A股三大指数午间休盘集体下跌，沪指跌0.37%，深成指跌1%，创业板指跌1.14%；半导体板块领跌，华大九天跌超10%，中芯国际、卓胜微跌超6%；航天军工板块走弱，航天环宇跌超9%，广联航空跌超8%；消费股集体大涨，白酒、免税概念领涨，中国中免、东百集团、酒鬼酒涨停，贵州茅台涨超4%；个股跌多涨少，全市场近3500股下跌。",
+      "url": "https://36kr.com/newsflashes/3829819003742083?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "100 things we announced at I/O 2026 We've been busy! Here’s a rundown of the top announcements, launches and demos at I/O 2026.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+      "date": "2026-05-28T14:58:22.515Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "View the collection",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
+      "date": "2026-05-28T14:58:22.515Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Gemini models",
+      "url": "https://blog.google/products-and-platforms/products/gemini/",
+      "date": "2026-05-28T14:58:22.515Z",
+      "summary": "",
+      "category": "Products",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Developer tools",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/",
+      "date": "2026-05-28T14:58:22.515Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Google Research",
+      "url": "https://blog.google/innovation-and-ai/technology/research/",
+      "date": "2026-05-28T14:58:22.515Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "A new generation of ads for the AI era of Search",
+      "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads",
+      "date": "2026-05-28T14:58:22.515Z",
+      "summary": "",
+      "category": "Products",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "The State of AI: A Look at What's Next",
+      "url": "https://every.to/p/the-state-of-ai",
+      "date": "2026-05-28T14:58:08.932Z",
+      "summary": "An in-depth analysis of the current AI landscape and future trends.",
+      "category": "AI Analysis",
+      "source": "Every.to",
+      "source_name": "every"
+    },
     {
       "title": "Temu 因违反 DSA 被欧盟罚款 2 亿欧元",
       "date": "Thu, 28 May 2026 12:59:59 GMT",
@@ -12,33 +192,6 @@
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
-    },
-    {
-      "title": "北京科锐澄清：与特斯拉采购协议仅为意向性约定 存在重大不确定性",
-      "date": "Thu, 28 May 2026 12:52:47 GMT",
-      "summary": "36氪获悉，北京科锐公告，公司针对网络传闻澄清，与特斯拉（上海）有限公司签署的《合作协议》与《系统买卖协议》仅为采购协议，公司拟在2026年至2028年向特斯拉采购储能系统，但该协议仅为意向性约定，无法律约束力，后续履行存在重大不确定性。公司2026年一季度净利润亏损2388.98万元，同比下降326.21%，基本面未变，当前股价涨幅与业绩偏离较大，市盈率处于高位，请投资者注意风险。",
-      "url": "https://36kr.com/newsflashes/3828953371600257?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "热门中概股美股盘前多数下跌，理想汽车跌超3%",
-      "date": "Thu, 28 May 2026 12:47:26 GMT",
-      "summary": "36氪获悉，热门中概股美股盘前多数下跌，截至发稿，理想汽车、B站跌超3%，腾讯音乐、阿里巴巴、京东、拼多多跌超2%，百度、网易、微博跌超1%；小鹏汽车涨超1%。",
-      "url": "https://36kr.com/newsflashes/3828948117038470?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "美股大型科技股盘前涨跌不一，Meta涨近1%",
-      "date": "Thu, 28 May 2026 12:46:27 GMT",
-      "summary": "36氪获悉，美股大型科技股盘前涨跌不一，截至发稿，特斯拉跌0.73%，英伟达跌0.58%，谷歌跌0.27%，苹果跌0.18；Meta涨近1%，Arm涨0.73%，微软涨0.55%，亚马逊涨0.27%，奈飞涨0.07%。",
-      "url": "https://36kr.com/newsflashes/3828947146073222?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
     },
     {
       "title": "网站能通过分析 SSD 活动监视用户",
@@ -50,94 +203,13 @@
       "source_name": "solidot"
     },
     {
-      "title": "美国4月核心PCE环比增长0.2%",
-      "date": "Thu, 28 May 2026 12:42:55 GMT",
-      "summary": "美国4月个人消费支出核心价格指数（核心PCE）环比增长0.2%，预估为0.3%，前值为0.3%。美国4月PCE价格指数环比上升0.4%，预期上升0.5%。美国4月PCE价格指数同比上升3.8%，预期上升3.8%。（界面）",
-      "url": "https://36kr.com/newsflashes/3828943667520897?f=rss",
+      "title": "How Endava builds an agentic organization with Codex",
+      "date": "Thu, 28 May 2026 12:00:00 GMT",
+      "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
+      "url": "https://openai.com/index/endava",
       "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "日本数百种面粉类产品将于8月涨价",
-      "date": "Thu, 28 May 2026 12:33:44 GMT",
-      "summary": "日本媒体5月28日报道，受中东局势影响，日本多家制粉企业将自8月起上调小麦粉、蛋糕预拌粉、意大利面等数百种产品售价，部分产品最高涨幅达24%。（新华社）",
-      "url": "https://36kr.com/newsflashes/3828934641034630?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "美国上周首次申领失业救济人数21.5万",
-      "date": "Thu, 28 May 2026 12:33:06 GMT",
-      "summary": "美国上周首次申领失业救济人数21.5万，预估为21.1万，前值为20.9万。（界面）",
-      "url": "https://36kr.com/newsflashes/3828934020555913?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "100 things we announced at I/O 2026 We've been busy! Here’s a rundown of the top announcements, launches and demos at I/O 2026.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
-      "date": "2026-05-28T11:30:00.307Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "View the collection",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
-      "date": "2026-05-28T11:30:00.307Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Gemini models",
-      "url": "https://blog.google/products-and-platforms/products/gemini/",
-      "date": "2026-05-28T11:30:00.307Z",
-      "summary": "",
-      "category": "Products",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Developer tools",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/",
-      "date": "2026-05-28T11:30:00.307Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Google Research",
-      "url": "https://blog.google/innovation-and-ai/technology/research/",
-      "date": "2026-05-28T11:30:00.307Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "A new generation of ads for the AI era of Search",
-      "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads",
-      "date": "2026-05-28T11:30:00.307Z",
-      "summary": "",
-      "category": "Products",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "The State of AI: A Look at What's Next",
-      "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-05-28T11:29:54.001Z",
-      "summary": "An in-depth analysis of the current AI landscape and future trends.",
-      "category": "AI Analysis",
-      "source": "Every.to",
-      "source_name": "every"
+      "source": "OpenAI News",
+      "source_name": "openai"
     },
     {
       "title": "Last.fm 独立运营",
@@ -176,78 +248,18 @@
       "source_name": "solidot"
     },
     {
-      "title": "Identifying and Understanding Human Values in Text: A Tailorable LLM-based Architecture",
-      "date": "Thu, 28 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.27373v1 Announce Type: new Abstract: As intelligent systems become more autonomous, the scientific community focuses on creating decision-making mechanisms that include ethical and moral considerations, unlike traditional utility-maximisation models. To achieve this, a key aspect is assessing how well these decisions align with human values. To this end, a promising line of research is centred on developing approaches based on Large Language Models (LLMs) to identify human values from",
-      "url": "https://arxiv.org/abs/2605.27373",
-      "category": [
-        "cs.AI",
-        "cs.CL",
-        "cs.CY"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Soro: A Lightweight Foundation Model and Chatbot for Tajik",
-      "date": "Thu, 28 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.27379v1 Announce Type: new Abstract: We present Soro, a family of Tajik-specialized conversational large language models (LLMs) designed for real-world deployment under tight compute and connectivity constraints in Tajikistan. Starting from open-weight Gemma 3 checkpoints, we perform Tajik-only continual pretraining on a curated 1.9-billion-token corpus spanning filtered web text, PDF documents, and curriculum-aligned educational materials, followed by supervised instruction tuning on",
-      "url": "https://arxiv.org/abs/2605.27379",
-      "category": [
-        "cs.AI",
-        "cs.CL"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "On the Origin of Synthetic Information by Means of Steganographic Inheritance",
-      "date": "Thu, 28 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.27551v1 Announce Type: new Abstract: The origin of species has been the mystery of mysteries in natural science. By analogy, the origin of synthetic information, we suggest, is the mystery of mysteries in information science. The question carries a moral weight that a technical account can neither fully resolve nor responsibly ignore, as its impact on truth, trust, and human intellect extends deep into the broader economy and society. The very power of artificial intelligence makes th",
-      "url": "https://arxiv.org/abs/2605.27551",
-      "category": [
-        "cs.AI",
-        "cs.CR",
-        "cs.IR",
-        "cs.MM"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "DynaSchedBench: Calibrated Dynamic Scheduling Benchmarks and Observability Paradox in LLM-based Scheduling Agents",
-      "date": "Thu, 28 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.27566v1 Announce Type: new Abstract: Progress in neural combinatorial optimization for Dynamic Flexible Job Shop Scheduling Problem (DFJSP) is currently hindered by a methodological tension: static benchmarks encourage benchmark overfitting, while uncalibrated generators obscure algorithmic capability with stochastic noise. To resolve this, we introduce \\textbf{DynaSchedBench}, a diagnostic framework for DFJSP that rigorously controls the instance-generation process. Instead of relyin",
-      "url": "https://arxiv.org/abs/2605.27566",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Why LLMs Fail at Causal Discovery and How Interventional Agents Escape",
-      "date": "Thu, 28 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.27567v1 Announce Type: new Abstract: Causal discovery is a cornerstone of scientific reasoning, yet whether large language models can perform it reliably remains an open question. Recent benchmarks show that even fine-tuned models plateau on simple causal graphs and degrade as complexity grows, but why they fail has not been established. We prove the failure is fundamental: supervised fine-tuning, direct preference optimization, and in-context learning all produce predictors that cann",
-      "url": "https://arxiv.org/abs/2605.27567",
-      "category": [
-        "cs.AI",
-        "cs.CL"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "RULER: Representation-Level Verification of Machine Unlearning",
-      "date": "Thu, 28 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.27569v1 Announce Type: new Abstract: Machine unlearning aims to remove the influence of specific training records from a deployed model without retraining from scratch. Current protocols verify this at the output level through membership inference, retain accuracy, and forget-set accuracy, but a model can satisfy all three whilst still encoding forgotten records in its intermediate representations. We introduce RULER, a set of representation-level verification metrics. The oracle-comp",
-      "url": "https://arxiv.org/abs/2605.27569",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
+      "title": "OpenAI’s Frontier Governance Framework",
+      "date": "Thu, 28 May 2026 00:00:00 GMT",
+      "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
+      "url": "https://openai.com/index/openai-frontier-governance-framework",
+      "category": "Safety",
+      "source": "OpenAI News",
+      "source_name": "openai"
     },
     {
       "title": "How Startups Are Using AI to Disrupt Industries",
       "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-05-27T11:29:54.001Z",
+      "date": "2026-05-27T14:58:08.932Z",
       "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
       "category": "Source Code",
       "source": "Every.to",
@@ -272,15 +284,6 @@
       "source_name": "openai"
     },
     {
-      "title": "Warp’s big bet on building open source with GPT-5.5",
-      "date": "Wed, 27 May 2026 00:00:00 GMT",
-      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
-      "url": "https://openai.com/index/warp",
-      "category": "Startup",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
       "title": "Election information and safeguards in 2026",
       "date": "Wed, 27 May 2026 00:00:00 GMT",
       "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
@@ -290,9 +293,18 @@
       "source_name": "openai"
     },
     {
+      "title": "Warp’s big bet on building open source with GPT-5.5",
+      "date": "Wed, 27 May 2026 00:00:00 GMT",
+      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "url": "https://openai.com/index/warp",
+      "category": "Startup",
+      "source": "OpenAI News",
+      "source_name": "openai"
+    },
+    {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-05-26T11:29:54.001Z",
+      "date": "2026-05-26T14:58:08.932Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
@@ -301,25 +313,16 @@
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-05-25T11:29:54.001Z",
+      "date": "2026-05-25T14:58:08.932Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
       "source_name": "every"
     },
     {
-      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
-      "date": "Mon, 25 May 2026 00:00:00 GMT",
-      "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
-      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
-      "category": "Global Affairs",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-05-24T11:29:54.001Z",
+      "date": "2026-05-24T14:58:08.932Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -328,20 +331,11 @@
     {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-05-23T11:29:54.001Z",
+      "date": "2026-05-23T14:58:08.932Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
       "source_name": "every"
-    },
-    {
-      "title": "How Virgin Atlantic ships faster with Codex",
-      "date": "Fri, 22 May 2026 00:00:00 GMT",
-      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
-      "url": "https://openai.com/index/virgin-atlantic",
-      "category": "",
-      "source": "OpenAI News",
-      "source_name": "openai"
     }
   ]
 }
