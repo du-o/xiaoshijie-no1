@@ -1,60 +1,8 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-05-30T03:57:37.443Z",
-  "articles": [
-    {
-      "title": "Behavior-Induced Mirror-Prox Temporal-Difference Learning for Faster Off-Policy Prediction",
-      "date": "Fri, 29 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.28849v1 Announce Type: new Abstract: Gradient temporal-difference methods provide stable off-policy prediction with linear function approximation, but their practical performance is strongly affected by the geometry induced by the auxiliary-variable metric. Existing Mirror-Prox TD methods typically use the feature covariance metric, whereas hybrid TD methods suggest that behavior-policy transition information can provide a more informative update geometry. This paper proposes a behavi",
-      "url": "https://arxiv.org/abs/2605.28849",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Behavior-Aware Auxiliary Corrections for Off-Policy Temporal-Difference Prediction",
-      "date": "Fri, 29 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.28855v1 Announce Type: new Abstract: Temporal-difference learning with function approximation can be unstable under off-policy sampling. TDC stabilizes off-policy TD through an auxiliary covariance correction, and TDRC further regularizes this correction in a single-timescale recursion. This paper studies a behavior-aware replacement of the auxiliary covariance geometry in the linear prediction setting, which is the standard local model for understanding the feature-space dynamics of ",
-      "url": "https://arxiv.org/abs/2605.28855",
-      "category": "cs.AI"
-    },
-    {
-      "title": "The Cognitive Categorical Transformer: Category-Theoretic Inductive Biases for Language Modeling",
-      "date": "Fri, 29 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.28864v1 Announce Type: new Abstract: The Cognitive Categorical Transformer (CCT) is a 306M-parameter architecture that augments a pretrained GPT-2 Small backbone with cognitively grounded components derived from category theory and several inspirations from cognitive science. Under a matched-step protocol (215,000 optimizer steps, matched data, matched optimizer and schedule) on WikiText-103, CCT reaches 21.27 validation perplexity, compared with 24.19 for an identically fine-tuned GP",
-      "url": "https://arxiv.org/abs/2605.28864",
-      "category": [
-        "cs.AI",
-        "cs.CL"
-      ]
-    },
-    {
-      "title": "Ultra-Reduced-Impact-Encased-Logging (URIEL): propose a new method for selective sustainable logging and post-harvest silvicultural treatment in tropical forest using airborne robotics systems",
-      "date": "Fri, 29 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.28883v1 Announce Type: new Abstract: Tropical forests worldwide are under intense deforestation pressure driven by economic and political interests, and scientific evidence suggests this deforestation contributes to climate change. This paper proposes a novel logging method for tropical forests, Ultra-Reduced-Impact-Encased-Logging (URIEL). This new method is based on heli-logging techniques combined with intensive use of robotics and AI integrated with post-harvest silvicultural trea",
-      "url": "https://arxiv.org/abs/2605.28883",
-      "category": [
-        "cs.AI",
-        "cs.RO"
-      ]
-    },
-    {
-      "title": "Review Arcade: On the Human Alignment and Gameability of LLM Reviews",
-      "date": "Fri, 29 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.28897v1 Announce Type: new Abstract: LLM-generated reviews for scientific papers are gaining considerable traction and are even being officially piloted by major conferences. We have to assume that not only reviewers are using LLM-assistance, but also that authors use LLMs to revise their papers before submitting. In this work, we perform empirical experiments on papers from the 2025 ACL Rolling Review (ARR) to evaluate LLM reviews from both the author and the reviewer perspective. Fi",
-      "url": "https://arxiv.org/abs/2605.28897",
-      "category": [
-        "cs.AI",
-        "cs.MA"
-      ]
-    },
-    {
-      "title": "Orthogonal Concept Erasure for Diffusion Models",
-      "date": "Fri, 29 May 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.28902v1 Announce Type: new Abstract: Concept erasure has emerged as a promising approach to mitigate undesired or unsafe content in diffusion models, yet existing methods still face significant limitations. While training-based methods are effective, their high computational cost limits scalability. Editing-based methods are more efficient and deployment-friendly, yet they struggle to simultaneously achieve precise concept erasure and preserve overall generative capacity. We identify ",
-      "url": "https://arxiv.org/abs/2605.28902",
-      "category": "cs.AI"
-    }
-  ],
+  "fetch_time": "2026-05-30T06:44:21.020Z",
+  "articles": [],
   "status": "success",
   "error": null
 }
