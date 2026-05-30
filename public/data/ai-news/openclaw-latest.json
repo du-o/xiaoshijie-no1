@@ -1,8 +1,28 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-05-29T14:31:12.792Z",
+  "fetch_time": "2026-05-30T03:57:59.909Z",
   "articles": [
+    {
+      "title": "openclaw 2026.5.28-beta.4",
+      "date": "2026-05-29T22:48:42Z",
+      "summary": "\n### Highlights\n\n- Agent and Codex runtime recovery is steadier: subagents keep cwd/workspace separation, hook context stays prompt-local, session locks release on timeout abort, stale restart continu...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.28-beta.4",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.5.28-beta.4",
+      "downloadCount": 0
+    },
+    {
+      "title": "openclaw 2026.5.28-beta.3",
+      "date": "2026-05-29T17:19:33Z",
+      "summary": "\n### Highlights\n\n- Agent and Codex runtime recovery is steadier: subagents keep cwd/workspace separation, hook context stays prompt-local, session locks release on timeout abort, stale restart continu...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.28-beta.3",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.5.28-beta.3",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.5.28-beta.2",
       "date": "2026-05-29T12:19:13Z",
@@ -31,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.5.27",
-      "downloadCount": 6151
+      "downloadCount": 8255
     },
     {
       "title": "openclaw 2026.5.27-beta.1",
@@ -41,27 +61,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.5.27-beta.1",
-      "downloadCount": 28
-    },
-    {
-      "title": "openclaw 2026.5.26",
-      "date": "2026-05-27T11:27:24Z",
-      "summary": "\n### Highlights\n\n- Faster Gateway and replies: startup avoids repeated plugin, channel, session, usage-cost, warning, scheduled-service, and filesystem scans; visible replies separate user-facing send...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.26",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.5.26",
-      "downloadCount": 6246
-    },
-    {
-      "title": "openclaw 2026.5.26-beta.2",
-      "date": "2026-05-27T05:46:50Z",
-      "summary": "\n### Highlights\n\n- Faster Gateway and replies: startup avoids repeated plugin, channel, session, usage-cost, warning, scheduled-service, and filesystem scans; visible replies separate user-facing send...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.26-beta.2",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.5.26-beta.2",
-      "downloadCount": 31
+      "downloadCount": 29
     }
   ],
   "status": "success",

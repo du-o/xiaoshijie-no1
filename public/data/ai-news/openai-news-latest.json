@@ -1,14 +1,35 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-05-29T14:30:59.217Z",
+  "fetch_time": "2026-05-30T03:57:37.288Z",
   "articles": [
+    {
+      "title": "Boston Children’s uses AI to unlock new diagnoses",
+      "date": "Fri, 29 May 2026 12:00:00 GMT",
+      "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
+      "url": "https://openai.com/index/boston-childrens-hospital",
+      "category": ""
+    },
+    {
+      "title": "How Braintrust turns customer requests into code with Codex",
+      "date": "Fri, 29 May 2026 12:00:00 GMT",
+      "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
+      "url": "https://openai.com/index/braintrust",
+      "category": ""
+    },
     {
       "title": "Strengthening societal resilience with Rosalind Biodefense",
       "date": "Fri, 29 May 2026 03:00:00 GMT",
       "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
       "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
       "category": "Product"
+    },
+    {
+      "title": "A shared playbook for trustworthy third party evaluations",
+      "date": "Fri, 29 May 2026 00:00:00 GMT",
+      "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
+      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+      "category": "Safety"
     },
     {
       "title": "How Endava builds an agentic organization with Codex",
@@ -18,32 +39,11 @@
       "category": ""
     },
     {
-      "title": "OpenAI’s Frontier Governance Framework",
-      "date": "Thu, 28 May 2026 00:00:00 GMT",
-      "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
-      "url": "https://openai.com/index/openai-frontier-governance-framework",
-      "category": "Safety"
-    },
-    {
       "title": "MUFG aims to become AI-native with OpenAI",
       "date": "Thu, 28 May 2026 00:00:00 GMT",
       "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
       "url": "https://openai.com/index/mufg",
       "category": ""
-    },
-    {
-      "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
-      "date": "Wed, 27 May 2026 11:00:00 GMT",
-      "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
-      "url": "https://openai.com/index/cisco",
-      "category": ""
-    },
-    {
-      "title": "Building self-improving tax agents with Codex",
-      "date": "Wed, 27 May 2026 07:00:00 GMT",
-      "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
-      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
-      "category": "Engineering"
     }
   ],
   "status": "success",
