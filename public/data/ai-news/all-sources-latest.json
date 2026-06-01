@@ -1,13 +1,151 @@
 {
-  "fetch_time": "2026-05-31T13:05:06.093Z",
-  "total_count": 30,
+  "fetch_time": "2026-06-01T04:52:11.744Z",
+  "total_count": 36,
   "sources_count": 6,
   "errors": null,
   "articles": [
     {
+      "title": "英伟达将NVIDIA DRIVE Hyperion定位为支持自动驾驶出租车出行服务的全球性平台",
+      "date": "Mon, 01 Jun 2026 04:51:59 GMT",
+      "summary": "英伟达将NVIDIA DRIVE Hyperion定位为支持自动驾驶出租车出行服务的全球性平台。（财联社）",
+      "url": "https://36kr.com/newsflashes/3834143035205509?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "英伟达新一代平台Vera Rubin已全面投产",
+      "date": "Mon, 01 Jun 2026 04:33:23 GMT",
+      "summary": "据报道，英伟达CEO黄仁勋6月1日宣布，英伟达新一代平台Vera Rubin已全面投产。Vera Rubin采用美光、SK海力士和三星的HBM（高带宽内存），提供机柜级（POD）一体化AI工厂底座。英伟达为Rubin搭建的供应链是上一代Blackwell的“两倍大”，以往需要花两个小时组装一个巨大的Blackwell机架，现在（Vera Rubin）只需要5分钟。此外，英伟达CEO黄仁勋发布新AI模型Nemotron 3 Ultra。",
+      "url": "https://36kr.com/newsflashes/3834124762589061?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "半日主力资金加仓计算机股，抛售电子股",
+      "date": "Mon, 01 Jun 2026 04:20:39 GMT",
+      "summary": "主力资金早间净流入计算机、基础化工、电力设备等板块，净流出电子、通信、公用事业等板块。具体到个股来看，京东方A、晋控电力、中京电子获净流入18.49亿元、12.01亿元、10.39亿元。净流出方面，东山精密、工业富联、云南锗业遭抛售58.09亿元、24.48亿元、20.03亿元。（第一财经）",
+      "url": "https://36kr.com/newsflashes/3834112233285508?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "英伟达：Anthropic、OpenAI等企业将率先采用新款Vera芯片",
+      "date": "Mon, 01 Jun 2026 04:20:07 GMT",
+      "summary": "据报道，英伟达表示，Anthropic、OpenAI以及SpaceX将成为其新款Vera处理器的首批主要客户。黄仁勋在6月1日演讲中点名提及上述几家企业。他称，这些企业将率先在自有数据中心部署英伟达Vera系列中央处理器。该新品将于今年第三季度全面投产。（界面）",
+      "url": "https://36kr.com/newsflashes/3834111706834560?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "小鹏集团：5月共交付新车32158辆，较上月增长4%",
+      "date": "Mon, 01 Jun 2026 04:16:43 GMT",
+      "summary": "36氪获悉，小鹏集团公告，2026年5月，小鹏集团共交付新车32158辆，较上月增长4%。",
+      "url": "https://36kr.com/newsflashes/3834108371527301?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "微软以证书过期为借口让 Mac 版 Office 2019 进入只读模式",
+      "date": "Mon, 01 Jun 2026 04:13:11 GMT",
+      "summary": "微软于 2018 年 9 月 24 日宣布推出 Windows 和 Mac 的 Office 2019，售价 149.99 美元，可永久使用，但不会引入新功能。但到了 2026 年 5 月 15 日微软更新了支持文档，不再保证 Office 2019 能正常运行。Mac 版本的 Office 2019 的支持于 2023 年 10 月 10 日结束，微软使用数字证书去验证 Mac 版本的许可，该证书将于 2026 年 7 月 13 日到期。微软不打算更新证书，而是就让证书过期，而证书过期之后软件将无法正常使用，进入只读模式。微软向受影响用户提供了三种选择：继续以只读模式使用 Mac 版 Office 2019、切换到免费的 Microsoft 365 Web 应用，或者付费订阅 Microsoft 365 或购买新的 Office 家庭版 2024 永久许可证。微软此举招致了广泛批评，认为其做法涉嫌违法。Windows 版本未受影响。",
+      "url": "https://www.solidot.org/story?sid=84445",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "蔚来：2026年5月共交付37705辆汽车，同比增长62.3%",
+      "date": "Mon, 01 Jun 2026 04:04:26 GMT",
+      "summary": "36氪获悉，蔚来公告，2026年5月共交付37705辆汽车，同比增长62.3%。今年前五个月，蔚来公司共交付新车150,526台，同比增长68.7%。截至目前，蔚来公司已累计交付新车1,148,118台。",
+      "url": "https://36kr.com/newsflashes/3834096288917382?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "PhyDrawGen: Physically Grounded Diagram Generation from Natural Language",
+      "date": "Mon, 01 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.30512v1 Announce Type: new Abstract: Generating physics diagrams from text requires strict adherence to physical laws. While current generative models produce visually plausible outputs, they systematically hallucinate force vectors, ignore conservation laws, and violate geometric constraints. We present PhyDrawGen, a neuro-symbolic pipeline that decouples semantic scene understanding from physical constraint satisfaction. First, a large language model extracts a typed scene graph fro",
+      "url": "https://arxiv.org/abs/2605.30512",
+      "category": [
+        "cs.AI",
+        "cs.CV"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Physically Viable World Models: A Case for Query-Conditioned Embodied AI",
+      "date": "Mon, 01 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.30542v1 Announce Type: new Abstract: World models for embodied AI must be physically viable: constructed to answer intervention queries by representing the physical structure governing action outcomes, rather than merely predicting future observations. Existing observation-predictive world models can produce visually plausible but physically wrong rollouts. This failure is structural; distinct physical systems can look identical yet diverge under intervention. We expose this problem w",
+      "url": "https://arxiv.org/abs/2605.30542",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Transforming and Encoding FTS for SAT Solving: What Helps, What Hurts (Extended Version)",
+      "date": "Mon, 01 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.30563v1 Announce Type: new Abstract: Factored tasks are a classical planning representation that extends SAS+ with limited forms of disjunctive preconditions, conditional effects, and angelic nondeterminism. This allows for a more compact representation of tasks than traditional formalisms such as STRIPS or SAS+, and supports a wide range of task transformations. However, existing planning approaches for factored tasks have been limited to heuristic search methods. In this work, we in",
+      "url": "https://arxiv.org/abs/2605.30563",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Procedural Generation of First Person Shooter Maps using Map-Elites",
+      "date": "Mon, 01 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.30570v1 Announce Type: new Abstract: We investigate the application of MAP-Elites (a well-known quality diversity algorithm) to design levels for First-Person Shooter (FPS) games. We consider two well-known map representations (All-Black and Grid-Graph) and introduce two novel representations (Point-Line and Spatial-Layout) that improve the characterization of FPS maps. We define a series of metrics to describe maps' topological properties (which solely depend on maps' layout), and em",
+      "url": "https://arxiv.org/abs/2605.30570",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Uncertainty-Aware and Temporally Regulated Expert Advice in Reinforcement Learning for Autonomous Driving",
+      "date": "Mon, 01 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.30576v1 Announce Type: new Abstract: Exploration in reinforcement learning for autonomous driving is inherently unsafe: agents must experience novel behaviors to learn, yet exploration can lead to collisions or off-road driving. We propose an uncertainty-aware framework that leverages expert advice to guide exploration while avoiding long-term dependence. Advice is triggered when epistemic or aleatoric uncertainty exceeds adaptive thresholds derived from rolling buffers, ensuring advi",
+      "url": "https://arxiv.org/abs/2605.30576",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents",
+      "date": "Mon, 01 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2605.30621v1 Announce Type: new Abstract: LLM agents are increasingly deployed as systems built around editable external harnesses, including prompts, skills, memories and tools, that shape task execution without changing model parameters. Harness self-evolution adapts such agents by updating these harnesses from execution evidence. Yet it remains unclear whether a model's base capability in task-solving predicts its capabilities in harness self-evolution: which models produce useful harne",
+      "url": "https://arxiv.org/abs/2605.30621",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "高温会扰乱动物大脑",
+      "date": "Sun, 31 May 2026 14:45:40 GMT",
+      "summary": "大量证据表明，动物大脑会受到高温的影响。天气炎热时，鸟类学习能力下降，狗咬人的次数增多，羚羊等体型较大的动物更容易挑衅打架。西澳大利亚大学的行为生态学家 Amanda Ridley 说，如果动物无法保持足够的警觉去寻找食物或躲避天敌，它们的生存几率会急剧下降。随着气候变化导致热浪日益频繁，动物王国的认知障碍可能会波及整个生态系统，本已脆弱的物种会面临更大的风险。如果授粉昆虫忘记该拜访哪些花朵，农作物和野生植物可能会歉收。如果鸟类难以觅食，其幼鸟可能无法存活。在一个气候暖化的行星上，敏锐的思维尤为重要。Ridley 指出气候变化意味着适应能力变得更重要。高温影响人类的大脑，有研究发现，对于在无空调学校学习的学生，学年气温每升高华氏 1 度，考试成绩会下降 1 %。对美国近 7 万起狗咬人报告的分析发现，32 摄氏度的天气狗咬人的风险比 16 摄氏度的天气高 10%，但研究人员并不确定是天热的条件下狗变得更具有攻击性，还是人类更暴躁而容易引发攻击，很可能是两个因素的组合。中国的一项研究发现，蛇和猫在天气变热时也更可能咬人。",
+      "url": "https://www.solidot.org/story?sid=84444",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "GLP-1 减肥药可能会重塑大脑",
+      "date": "Sun, 31 May 2026 14:26:33 GMT",
+      "summary": "全世界有数千万人服用 GLP-1 减肥药如 Ozempic。一个研究团队对 13 名服用 GLP-1 药物的年轻女性进行脑部扫描，发现她们的大脑发生了深远的变化。与注意力相关的突显网络(salience network)脑连接数量成倍增加。研究人员对此感到意外，他们表示不知道这意味着什么。GLP-1 药物的作用机制类似控制饥饿感、血糖和体重的激素。研究人员对药物作用机制深入研究后发现，它还会重塑部分大脑。致力于将 GLP-1 药物用于治疗成瘾的科学家 Lorenzo Leggio 表示其作用机制尚未完全被理解。这就引发了一个疑问：如果 GLP-1 药物能改变大脑中与奖赏、渴望和动机相关的系统，那么抑制一个人的破坏性冲动和重塑其人格之间存在怎样的界限？",
+      "url": "https://www.solidot.org/story?sid=84443",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
       "title": "100 things we announced at I/O 2026 We've been busy! Here’s a rundown of the top announcements, launches and demos at I/O 2026.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
-      "date": "2026-05-31T10:08:11.981Z",
+      "date": "2026-05-31T13:05:12.058Z",
       "summary": "",
       "category": "Innovation & AI",
       "source": "Google Blog",
@@ -16,7 +154,7 @@
     {
       "title": "View the collection",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
-      "date": "2026-05-31T10:08:11.981Z",
+      "date": "2026-05-31T13:05:12.058Z",
       "summary": "",
       "category": "Innovation & AI",
       "source": "Google Blog",
@@ -25,7 +163,7 @@
     {
       "title": "Gemini models",
       "url": "https://blog.google/products-and-platforms/products/gemini/",
-      "date": "2026-05-31T10:08:11.981Z",
+      "date": "2026-05-31T13:05:12.058Z",
       "summary": "",
       "category": "Products",
       "source": "Google Blog",
@@ -34,7 +172,7 @@
     {
       "title": "Developer tools",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/",
-      "date": "2026-05-31T10:08:11.981Z",
+      "date": "2026-05-31T13:05:12.058Z",
       "summary": "",
       "category": "Innovation & AI",
       "source": "Google Blog",
@@ -43,7 +181,7 @@
     {
       "title": "A new generation of ads for the AI era of Search",
       "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads",
-      "date": "2026-05-31T10:08:11.981Z",
+      "date": "2026-05-31T13:05:12.058Z",
       "summary": "",
       "category": "Products",
       "source": "Google Blog",
@@ -52,7 +190,7 @@
     {
       "title": "Meet Ask Advisor, your new AI-powered collaborator",
       "url": "https://blog.google/products/ads-commerce/ask-advisor",
-      "date": "2026-05-31T10:08:11.981Z",
+      "date": "2026-05-31T13:05:12.058Z",
       "summary": "",
       "category": "Products",
       "source": "Google Blog",
@@ -61,65 +199,11 @@
     {
       "title": "The State of AI: A Look at What's Next",
       "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-05-31T10:08:03.357Z",
+      "date": "2026-05-31T13:05:01.516Z",
       "summary": "An in-depth analysis of the current AI landscape and future trends.",
       "category": "AI Analysis",
       "source": "Every.to",
       "source_name": "every"
-    },
-    {
-      "title": "思林杰：股东拟合计减持不超6%股份",
-      "date": "Sun, 31 May 2026 09:47:29 GMT",
-      "summary": "36氪获悉，思林杰公告，股东启创天瑞和鸿盛泰壹号因自身资金需求，计划通过集中竞价、大宗交易方式合计减持不超过4,000,200股，占公司总股本的6.00%。减持期间为2026年6月24日至2026年9月23日。",
-      "url": "https://36kr.com/newsflashes/3832895152187009?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "艾德生物：筹划控制权变更事项，股票停牌",
-      "date": "Sun, 31 May 2026 09:33:36 GMT",
-      "summary": "36氪获悉，艾德生物公告，公司控股股东前瞻投资(香港)有限公司正在筹划公司控制权变更相关事宜，该事项可能导致公司控股股东、实际控制人发生变更。为维护投资者利益，避免对公司股价造成重大影响，公司股票自2026年6月1日开市起停牌，预计停牌时间不超过2个交易日。目前，各方主体正在就相关事项进行论证和磋商，具体情况以各方签订的相关协议为准。",
-      "url": "https://36kr.com/newsflashes/3832893336888968?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "风华高科：不涉及英伟达认证及暂停接单传闻不实",
-      "date": "Sun, 31 May 2026 09:01:50 GMT",
-      "summary": "36氪获悉，风华高公告，经核查，公司关注到近期有媒体提及公司“针对代理商0402、0603芯片电阻、MLCC全线��停接单”，经核查，以上信息不属实，为做好部分数字系统升级及产品结构调整，公司执行部分产品暂缓接单，截至公告日，公司已恢复接单。公司关注到近期有媒体提及公司为“国内唯一通过英伟达全系列MLCC认证的企业”，经核查，以上信息不属实，截至公告日，英伟达未对公司开展任何产品认证。",
-      "url": "https://36kr.com/newsflashes/3832892582553221?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "华金证券：6月A股继续震荡偏强，科技主线不变",
-      "date": "Sun, 31 May 2026 08:53:45 GMT",
-      "summary": "36氪获悉，华金证券发布研报称，复盘历史，影响6月A股市场走势的核心因素是政策和外部事件、基本面和流动性。今年6月A股可能延续震荡偏强趋势，受世界杯等因素影响有限。行业配置上，6月科技主线可能不变，建议继续逢低配置：一是政策和产业趋势向上的电子（半导体、AI硬件）、通信（AI硬件）、电新（AI电力、锂电）、军工（商业航天）、传媒（AI应用、游戏）、计算机（AI应用）、有色金属、化工、创新药等；二是券商、消费等基本面可能改善和补涨的行业。",
-      "url": "https://36kr.com/newsflashes/3832869930952327?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "浙大网新：ZH12数据中心第3个模块签署服务合同，预计总收入4.48亿元",
-      "date": "Sun, 31 May 2026 08:47:05 GMT",
-      "summary": "36氪获悉，浙大网新公告，公司全资子公司与阿里巴巴合作建设的ZH12数据中心项目已全部完工并投入运营。近日，浙江天猫技术与项目公司签署第3个模块服务合同，合同期限10年，预计该模块在服务期内总收入为4.48亿元(含税，不含电费)，将分10年分期确认。至此，ZH12项目3个模块的商务合同已全部签署完毕。",
-      "url": "https://36kr.com/newsflashes/3832894774011777?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "印度储备银行4月美元净空头头寸降至953亿美元",
-      "date": "Sun, 31 May 2026 08:16:43 GMT",
-      "summary": "印度储备银行4月美元净空头头寸较上月历史高点有所回落。机构根据印度储备银行数据测算，4月美元净空头头寸为953亿美元，上月为1031亿美元。其中，1个月期以内美元净空头头寸从3月的145亿美元降至135亿美元；1个月至3个月期头寸为109亿美元。3个月至1年期美元净空头头寸达202亿美元，1年期以上头寸为507亿美元。（新浪财经）",
-      "url": "https://36kr.com/newsflashes/3832868888962947?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
     },
     {
       "title": "丹麦养老基金将 SpaceX 列入投资黑名单",
@@ -149,40 +233,22 @@
       "source_name": "solidot"
     },
     {
-      "title": "气候变化扰乱北冰洋食物链",
-      "date": "Sat, 30 May 2026 11:41:05 GMT",
-      "summary": "研究人员发现，北极海冰的加速消融导致了关键营养物质硝酸盐含量急剧下降，扰乱了食物链，影响了浮游生物、鱼类、海鸟和海洋哺乳动物的种群数量。分析显示，曾被冰层覆盖的大片浅海区域暴露在阳光下，加速了硝酸盐的分解。硝酸盐对食物链底层的浮游生物的生长至关重要，其含量下降限制了生态系统能维持的生物数量。对北极冰水流入大西洋的主要通道 Fram 海峡逾二十年采样数据的分析发现，从 2009 年起北极水域的硝酸盐含量持续下降。硝酸盐含量的下降与北极海冰的急剧减少几乎同时发生。研究人员表示，由于营养状况的变化是由持续的海冰消融造成的，北冰洋几乎不可能恢复到之前的状态。",
-      "url": "https://www.solidot.org/story?sid=84439",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
       "title": "How Startups Are Using AI to Disrupt Industries",
       "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-05-30T10:08:03.357Z",
+      "date": "2026-05-30T13:05:01.516Z",
       "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
       "category": "Source Code",
       "source": "Every.to",
       "source_name": "every"
     },
     {
-      "title": "英伟达税",
-      "date": "Fri, 29 May 2026 16:23:13 GMT",
-      "summary": "生活在美国数据中心周围的居民都有电费大幅上涨的经历。他们可能并不知道，部分电费账单其实是支付给英伟达的税。英伟达控制着 81% 的数据中心 AI 芯片市场，上个财年其数据中心业务收入 1937 亿美元，毛利率为 75%。对英伟达顶尖 GPU 芯片的拆解报告显示，其制造成本约 3300 美元，但售价高达 2.8 万美元，利润率高达 88%。如此高的利润其实是一种税，总要有人来承担。数据中心周围的居民就处于这条支付链条的末端。为了少给英伟达缴税，科技巨头都在竞相开发更便宜的 AI 加速芯片，如 Google 的 TPU、亚马逊的 Trainium、微软的 Maia 以及 Meta 的 MTIA，OpenAI 也在与博通合作设计 AI 芯片。但我们为什么要给英伟达缴税？",
-      "url": "https://www.solidot.org/story?sid=84438",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "Flathub 禁止 AI 生成的应用",
-      "date": "Fri, 29 May 2026 15:54:12 GMT",
-      "summary": "提供 Flatpak 打包应用的 Linux 应用商店 Flathub 更新了其生成式 AI 政策，事实上禁止 AI 生成应用。Flathub 声明：不允许提交包含 AI 生成或 AI 辅助代码、文档或其它内容的应用。提交 AI 应用会直接被拒绝而无需进一步审查。屡次违反政策会导致被永久禁止提交应用。开发者表示他们受够了此类应用，但以前递交和批准的 AI 辅助编程应用不会被追溯，仍然可以正常使用。",
-      "url": "https://www.solidot.org/story?sid=84437",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
+      "title": "The Future of Work in an AI-Driven World",
+      "url": "https://every.to/context-window/future-of-work",
+      "date": "2026-05-29T13:05:01.516Z",
+      "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
     },
     {
       "title": "Boston Children’s uses AI to unlock new diagnoses",
@@ -203,15 +269,6 @@
       "source_name": "openai"
     },
     {
-      "title": "The Future of Work in an AI-Driven World",
-      "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-05-29T10:08:03.357Z",
-      "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
       "title": "Strengthening societal resilience with Rosalind Biodefense",
       "date": "Fri, 29 May 2026 03:00:00 GMT",
       "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
@@ -230,6 +287,15 @@
       "source_name": "openai"
     },
     {
+      "title": "Building AI Products: Lessons from the Trenches",
+      "url": "https://every.to/p/building-ai-products",
+      "date": "2026-05-28T13:05:01.516Z",
+      "summary": "Practical insights from builders creating AI-powered products.",
+      "category": "Product",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
       "title": "How Endava builds an agentic organization with Codex",
       "date": "Thu, 28 May 2026 12:00:00 GMT",
       "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
@@ -237,15 +303,6 @@
       "category": "",
       "source": "OpenAI News",
       "source_name": "openai"
-    },
-    {
-      "title": "Building AI Products: Lessons from the Trenches",
-      "url": "https://every.to/p/building-ai-products",
-      "date": "2026-05-28T10:08:03.357Z",
-      "summary": "Practical insights from builders creating AI-powered products.",
-      "category": "Product",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "OpenAI’s Frontier Governance Framework",
@@ -259,7 +316,7 @@
     {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-05-27T10:08:03.357Z",
+      "date": "2026-05-27T13:05:01.516Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -268,7 +325,7 @@
     {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-05-26T10:08:03.357Z",
+      "date": "2026-05-26T13:05:01.516Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
