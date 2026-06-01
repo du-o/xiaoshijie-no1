@@ -1,69 +1,8 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-06-01T09:25:53.167Z",
-  "articles": [
-    {
-      "title": "openclaw 2026.5.31-beta.4",
-      "date": "2026-06-01T02:04:59Z",
-      "summary": "## 2026.5.31\n\n### Highlights\n\n- Agents and CLI-backed runtimes recover more cleanly from interrupted tool calls, stale session bindings, compaction handoffs, and media delivery retries. (#88129, #8813...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.31-beta.4",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.5.31-beta.4",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.5.31-beta.3",
-      "date": "2026-05-31T19:19:39Z",
-      "summary": "## 2026.5.31\n\n### Highlights\n\n- Agents and CLI-backed runtimes recover more cleanly from interrupted tool calls, stale session bindings, compaction handoffs, and media delivery retries. (#88129, #8813...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.31-beta.3",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.5.31-beta.3",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.5.31-beta.2",
-      "date": "2026-05-31T18:17:21Z",
-      "summary": "## 2026.5.31\n\n### Highlights\n\n- Agents and CLI-backed runtimes recover more cleanly from interrupted tool calls, stale session bindings, compaction handoffs, and media delivery retries. (#88129, #8813...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.31-beta.2",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.5.31-beta.2",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.5.31-beta.1",
-      "date": "2026-05-31T17:44:50Z",
-      "summary": "## 2026.5.31\n\n### Highlights\n\n- Agents and CLI-backed runtimes recover more cleanly from interrupted tool calls, stale session bindings, compaction handoffs, and media delivery retries. (#88129, #8813...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.31-beta.1",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.5.31-beta.1",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.5.30-beta.1",
-      "date": "2026-05-31T02:39:53Z",
-      "summary": "\n### Highlights\n\n- Agents and CLI-backed runtimes recover more cleanly from interrupted tool calls, stale session bindings, compaction handoffs, and media delivery retries. (#88129, #88136, #88141, #8...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.30-beta.1",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.5.30-beta.1",
-      "downloadCount": 38
-    },
-    {
-      "title": "openclaw 2026.5.28",
-      "date": "2026-05-30T20:06:10Z",
-      "summary": "### Highlights\n\n- Agent and Codex runtime recovery is steadier: subagents keep cwd/workspace separation, hook context stays prompt-local, session locks release on timeout abort while live OpenClaw loc...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.28",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.5.28",
-      "downloadCount": 7882
-    }
-  ],
-  "status": "success",
-  "error": null
+  "fetch_time": "2026-06-01T13:28:19.618Z",
+  "articles": [],
+  "status": "error",
+  "error": "GitHub API 请求失败: 403"
 }
