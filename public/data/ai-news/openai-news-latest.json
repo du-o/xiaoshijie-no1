@@ -1,8 +1,29 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-06-01T17:07:41.991Z",
+  "fetch_time": "2026-06-02T04:40:55.094Z",
   "articles": [
+    {
+      "title": "Our views on AI policy and political advocacy",
+      "date": "Mon, 01 Jun 2026 17:00:00 GMT",
+      "summary": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.",
+      "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+      "category": "Global Affairs"
+    },
+    {
+      "title": "Building the infrastructure for the Intelligence Age in Michigan",
+      "date": "Mon, 01 Jun 2026 12:00:00 GMT",
+      "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
+      "url": "https://openai.com/index/stargate-michigan-data-center",
+      "category": "Global Affairs"
+    },
+    {
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "date": "Mon, 01 Jun 2026 10:00:00 GMT",
+      "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+      "category": "Product"
+    },
     {
       "title": "Boston Children’s uses AI to unlock new diagnoses",
       "date": "Fri, 29 May 2026 12:00:00 GMT",
@@ -23,27 +44,6 @@
       "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
       "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
       "category": "Product"
-    },
-    {
-      "title": "A shared playbook for trustworthy third party evaluations",
-      "date": "Fri, 29 May 2026 00:00:00 GMT",
-      "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
-      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
-      "category": "Safety"
-    },
-    {
-      "title": "How Endava builds an agentic organization with Codex",
-      "date": "Thu, 28 May 2026 12:00:00 GMT",
-      "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
-      "url": "https://openai.com/index/endava",
-      "category": ""
-    },
-    {
-      "title": "OpenAI’s Frontier Governance Framework",
-      "date": "Thu, 28 May 2026 00:00:00 GMT",
-      "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
-      "url": "https://openai.com/index/openai-frontier-governance-framework",
-      "category": "Safety"
     }
   ],
   "status": "success",

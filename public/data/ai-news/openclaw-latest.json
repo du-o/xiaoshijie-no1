@@ -1,17 +1,27 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-06-01T17:08:00.528Z",
+  "fetch_time": "2026-06-02T04:41:09.637Z",
   "articles": [
+    {
+      "title": "openclaw 2026.6.1-beta.2",
+      "date": "2026-06-01T21:56:19Z",
+      "summary": "## 2026.6.1\n\n### Highlights\n\n- Agents and CLI-backed runtimes recover more cleanly from interrupted tool calls, stale session bindings, compaction handoffs, and media delivery retries. (#88129, #88136...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.1-beta.2",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.6.1-beta.2",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.6.1-beta.1",
       "date": "2026-06-01T09:45:05Z",
-      "summary": "## 2026.6.1\n\n### Highlights\n\n- Agents and CLI-backed runtimes recover more cleanly from interrupted tool calls, stale session bindings, compaction handoffs, and media delivery retries. (#88129, #88136...",
+      "summary": "\n### Highlights\n\n- Agents and CLI-backed runtimes recover more cleanly from interrupted tool calls, stale session bindings, compaction handoffs, and media delivery retries. (#88129, #88136, #88141, #8...",
       "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.1-beta.1",
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.6.1-beta.1",
-      "downloadCount": 0
+      "downloadCount": 7
     },
     {
       "title": "openclaw 2026.5.31-beta.4",
@@ -52,16 +62,6 @@
       "author": "steipete",
       "tagName": "v2026.5.31-beta.1",
       "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.5.30-beta.1",
-      "date": "2026-05-31T02:39:53Z",
-      "summary": "\n### Highlights\n\n- Agents and CLI-backed runtimes recover more cleanly from interrupted tool calls, stale session bindings, compaction handoffs, and media delivery retries. (#88129, #88136, #88141, #8...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.30-beta.1",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.5.30-beta.1",
-      "downloadCount": 39
     }
   ],
   "status": "success",

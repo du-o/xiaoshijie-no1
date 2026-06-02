@@ -1,52 +1,53 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-06-01T17:07:42.227Z",
+  "fetch_time": "2026-06-02T04:40:55.386Z",
   "articles": [
     {
-      "title": "PhyDrawGen: Physically Grounded Diagram Generation from Natural Language",
-      "date": "Mon, 01 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.30512v1 Announce Type: new Abstract: Generating physics diagrams from text requires strict adherence to physical laws. While current generative models produce visually plausible outputs, they systematically hallucinate force vectors, ignore conservation laws, and violate geometric constraints. We present PhyDrawGen, a neuro-symbolic pipeline that decouples semantic scene understanding from physical constraint satisfaction. First, a large language model extracts a typed scene graph fro",
-      "url": "https://arxiv.org/abs/2605.30512",
+      "title": "Position Paper: Post-Solve Robustness in Decision Engines: Feasible Regions and Smoothness Under Perturbations",
+      "date": "Tue, 02 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.00002v1 Announce Type: new Abstract: Mixed-Integer Linear Programming (MILP) decision engines routinely output nominally optimal plans for high-stakes industrial systems. Yet deployment rarely matches solve-time assumptions: small perturbations in costs, demands, or resource availability can invalidate feasibility or trigger discontinuous shifts to qualitatively different solutions. We argue that this post-solve robustness gap is a missing layer in today's optimization pipelines and a",
+      "url": "https://arxiv.org/abs/2606.00002",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Emergent Collaborative Deliberation in Multi-Model AI Systems: A BFT-Derived Protocol for Epistemic Synthesis",
+      "date": "Tue, 02 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.00005v1 Announce Type: new Abstract: We present the Consilium Protocol, a Byzantine Fault Tolerance-derived architecture for structured multi-model AI deliberation that treats inter-model disagreement as epistemic signal rather than error. The protocol assigns engineered cognitive personas to language models -- separating what a model is from how it reasons -- and introduces an In-Sample/Out-of-Sample validation framework adapted from quantitative finance to distinguish training-data ",
+      "url": "https://arxiv.org/abs/2606.00005",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Deliberative Curation: A Protocol for Multi-Agent Knowledge Bases",
+      "date": "Tue, 02 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.00007v1 Announce Type: new Abstract: As AI agents transition from isolated tools to collaborative participants in shared knowledge ecosystems, governing collective knowledge curation becomes a critical challenge. Human platform governance mechanisms do not transfer directly: agent statelessness undermines deterrence-based sanctions, model homogeneity violates independence assumptions underlying crowd wisdom, and sycophancy collapses deliberative consensus. We propose a deliberative cu",
+      "url": "https://arxiv.org/abs/2606.00007",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Agents on a Tree: Pathwise Coordination for Multi-Objective Molecular Optimization",
+      "date": "Tue, 02 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.00008v1 Announce Type: new Abstract: Multi-objective molecular optimization requires searching vast chemical spaces under conflicting objectives, where early design decisions strongly constrain downstream outcomes. Existing methods typically rely on a single policy or fixed scalarization, which limits their ability to represent diverse trade-offs and to explore multiple promising design trajectories. We propose ATOM, a multi-agent framework that formulates molecular optimization as a ",
+      "url": "https://arxiv.org/abs/2606.00008",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Optimal Transport-based Permutation-Invariant Bayesian Optimization of Offshore Wind Farm Layouts",
+      "date": "Tue, 02 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.00009v1 Announce Type: new Abstract: Bayesian Optimization (BO) is widely and successfully adopted for solving optimization problems having an expensive-to-evaluate, black-box, and non-convex objective function. However, the vanilla BO algorithm is not able to exploit possible symmetries characterizing the target problem. An intuitive case is given by optimal location problems, whose decision variables refer to a finite set of points within a continuous space, with the order of points",
+      "url": "https://arxiv.org/abs/2606.00009",
+      "category": "cs.AI"
+    },
+    {
+      "title": "MindGames Arena Generalization Track: In2AI Solution with Delayed Per-Step Reward Attribution",
+      "date": "Tue, 02 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.00017v1 Announce Type: new Abstract: Training language model agents for multi-agent strategic interaction presents a core difficulty: the quality of any action may depend on future events that never materialize, on moves that violate game rules, or on decisions made by other players. Standard reinforcement learning assumes that rewards can be assigned at each step, but this assumption fails in settings where outcomes are entangled across time and agents. We introduce delayed per-step ",
+      "url": "https://arxiv.org/abs/2606.00017",
       "category": [
         "cs.AI",
-        "cs.CV"
+        "cs.CL",
+        "cs.MA"
       ]
-    },
-    {
-      "title": "Physically Viable World Models: A Case for Query-Conditioned Embodied AI",
-      "date": "Mon, 01 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.30542v1 Announce Type: new Abstract: World models for embodied AI must be physically viable: constructed to answer intervention queries by representing the physical structure governing action outcomes, rather than merely predicting future observations. Existing observation-predictive world models can produce visually plausible but physically wrong rollouts. This failure is structural; distinct physical systems can look identical yet diverge under intervention. We expose this problem w",
-      "url": "https://arxiv.org/abs/2605.30542",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Transforming and Encoding FTS for SAT Solving: What Helps, What Hurts (Extended Version)",
-      "date": "Mon, 01 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.30563v1 Announce Type: new Abstract: Factored tasks are a classical planning representation that extends SAS+ with limited forms of disjunctive preconditions, conditional effects, and angelic nondeterminism. This allows for a more compact representation of tasks than traditional formalisms such as STRIPS or SAS+, and supports a wide range of task transformations. However, existing planning approaches for factored tasks have been limited to heuristic search methods. In this work, we in",
-      "url": "https://arxiv.org/abs/2605.30563",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Procedural Generation of First Person Shooter Maps using Map-Elites",
-      "date": "Mon, 01 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.30570v1 Announce Type: new Abstract: We investigate the application of MAP-Elites (a well-known quality diversity algorithm) to design levels for First-Person Shooter (FPS) games. We consider two well-known map representations (All-Black and Grid-Graph) and introduce two novel representations (Point-Line and Spatial-Layout) that improve the characterization of FPS maps. We define a series of metrics to describe maps' topological properties (which solely depend on maps' layout), and em",
-      "url": "https://arxiv.org/abs/2605.30570",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Uncertainty-Aware and Temporally Regulated Expert Advice in Reinforcement Learning for Autonomous Driving",
-      "date": "Mon, 01 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.30576v1 Announce Type: new Abstract: Exploration in reinforcement learning for autonomous driving is inherently unsafe: agents must experience novel behaviors to learn, yet exploration can lead to collisions or off-road driving. We propose an uncertainty-aware framework that leverages expert advice to guide exploration while avoiding long-term dependence. Advice is triggered when epistemic or aleatoric uncertainty exceeds adaptive thresholds derived from rolling buffers, ensuring advi",
-      "url": "https://arxiv.org/abs/2605.30576",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents",
-      "date": "Mon, 01 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2605.30621v1 Announce Type: new Abstract: LLM agents are increasingly deployed as systems built around editable external harnesses, including prompts, skills, memories and tools, that shape task execution without changing model parameters. Harness self-evolution adapts such agents by updating these harnesses from execution evidence. Yet it remains unclear whether a model's base capability in task-solving predicts its capabilities in harness self-evolution: which models produce useful harne",
-      "url": "https://arxiv.org/abs/2605.30621",
-      "category": "cs.AI"
     }
   ],
   "status": "success",
