@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-06-02T08:28:38.825Z",
+  "fetch_time": "2026-06-02T11:57:55.061Z",
   "articles": [
+    {
+      "title": "Codex is becoming a productivity tool for everyone",
+      "date": "Tue, 02 Jun 2026 02:00:00 GMT",
+      "summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
+      "url": "https://openai.com/index/codex-for-knowledge-work",
+      "category": "Global Affairs"
+    },
     {
       "title": "Our views on AI policy and political advocacy",
       "date": "Mon, 01 Jun 2026 17:00:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
       "url": "https://openai.com/index/braintrust",
       "category": ""
-    },
-    {
-      "title": "Strengthening societal resilience with Rosalind Biodefense",
-      "date": "Fri, 29 May 2026 03:00:00 GMT",
-      "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
-      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
-      "category": "Product"
     }
   ],
   "status": "success",
