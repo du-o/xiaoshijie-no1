@@ -1,8 +1,29 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-06-02T04:40:58.266Z",
+  "fetch_time": "2026-06-02T08:28:43.574Z",
   "articles": [
+    {
+      "title": "Red Hat 官方 NPM 账号被入侵，软件包被植入恶意程序",
+      "date": "Tue, 02 Jun 2026 07:09:18 GMT",
+      "summary": "Red Hat 官方 NPM 账号 @redhat-c​​loud-services 被入侵，该账号相关联的多个软件包植入了窃取凭证的恶意程序。恶意程序旨在窃取 GitHub Action Secret、以及 AWS、GCP、Azure、Kubernetes、HashiCorp Vault、npm 和 CircleCI 等的凭证，它还是一种能自我传播的蠕虫，会利用窃取的 npm 令牌和 npm 的 bypass_2fa 参数，自动重新发布其它软件包的后门版本。Red Hat 在一份声明中表示，恶意软件包已经移除，它仍然在进行调查，初步分析未发现对客户或合作伙伴环境或 Red Hat 生产系统造成任何影响。",
+      "url": "https://www.solidot.org/story?sid=84459",
+      "category": ""
+    },
+    {
+      "title": "Anthropic 申请 IPO",
+      "date": "Tue, 02 Jun 2026 05:57:08 GMT",
+      "summary": "Anthropic 已向美国证券交易委员会（SEC）秘密提交了 IPO 招股说明书。该公司表示在 SEC 完成审查之后，将根据市场状况等因素选择上市。Anthropic 的估值今年以来出现了爆炸式增长，在上周的最新一轮融资中估值达到了 9650 亿美元，超过了 OpenAI 在 3 月下旬的 8520 亿美元估值。美国股市即将迎来三家万亿市值公司的上市，SpaceX 预计本月上市，Anthropic 竞争对手 OpenAI 预计会很快递交上市申请，三家公司的市值预计将达到 4 万亿美元。",
+      "url": "https://www.solidot.org/story?sid=84458",
+      "category": ""
+    },
+    {
+      "title": "黑客利用 Meta AI 机器人接管 Instagram 名人账号",
+      "date": "Tue, 02 Jun 2026 04:19:07 GMT",
+      "summary": "亲伊朗黑客诱骗 Meta AI 机器人短时间内接管了多个 Instagram 名人账号，其中包括奥巴马和美国太空军总军士长（Chief Master Sergeant），之后在账号上发表了亲伊朗的图片和信息。攻击方法非常简单：首先使用 VPN 连接到目标用户常住地附近，然后请求重置账号密码，要求与 Meta AI 客服对话，指示 AI 将目标账户关联到一个新邮箱地址，AI 按指示向该邮箱地址发送一次性验证码后，攻击者就可以重置密码接管账号。目前 Telegram 上已经出现了大量交易被接管账号的频道。Meta 的 Andy Stone 声称该公司已经采取行动解决了问题。",
+      "url": "https://www.solidot.org/story?sid=84457",
+      "category": ""
+    },
     {
       "title": "三种埃博拉疫苗在研发中",
       "date": "Mon, 01 Jun 2026 16:27:06 GMT",
@@ -22,27 +43,6 @@
       "date": "Mon, 01 Jun 2026 15:49:10 GMT",
       "summary": "去年 10 月的一天，Dong Hui 突然决定试试能不能握笔写字。6 年前他因为车祸导致的脊髓损伤而颈部以下瘫痪。他缓慢而坚定的写下了自己的名字、谢谢和日期。他能做到这一切来自他参加的脑机接口芯片试验。2024 年 11 月 Dong Hui 成为中国首批接受脑部手术植入侵入式脑机接口芯片的患者之一。今年三月他使用的植入式脑机接口产品获得了商业使用批准。他植入的脑机接口设备被称为 NEO，由上海初创公司 Neuracle Technology 和清华大学合作研发。手术历时约 1.5 小时，收集脑电信号的传感器植入放置在他的硬脑膜上。植入物会将信号传输到计算机。计算机将信号翻译成指令，控制他每天 2.5 小时训练期间佩戴的软体机器人手套，帮助他学习抓握。手术后大约一周他开始康复训练，“训练的第九天，我的右手成功不用手套抓住了一个球，那真是个奇迹。”悉尼科技大学的脑机接口研究员 Avinash Singh 表示，NEO 迅速获得批准的原因之一是其侵入性相对较小，它的 8 个传感器放置在大脑保护膜之上，相比下马斯克（Elon Musk）所创办的 Neuralink 公司开发的 N1 脑机芯",
       "url": "https://www.solidot.org/story?sid=84454",
-      "category": ""
-    },
-    {
-      "title": "实验性药物显著延长了最致命癌症患者的生存期",
-      "date": "Mon, 01 Jun 2026 14:39:41 GMT",
-      "summary": "胰腺癌是最致命的癌症，大部分现有疗法的效果甚微。现在名为 daraxonrasib 的药物公布了 III 期临床试验结果，有 500 名胰腺癌已扩散的患者参与了试验，其中 248 名患者每日服用 daraxonrasib，其余 252 名接受化疗。结果显示，服药组的中位生存期为 13.2 个月，化疗组为 6.6 个月，也就是药物将患者的生存期延长了一倍，而且副作用更少。研究报告公布在芝加哥举行的美国临床肿瘤学会年会上，专家认为这种药物有望引领一场治疗革命。Daraxonrasib 的作用机制是靶向名为 Kras 的蛋白质，这种蛋白质驱动了几乎所有胰腺癌。药物通过粘合分子去捕获并抑制 Kras 蛋白，从而阻止肿瘤的生长。",
-      "url": "https://www.solidot.org/story?sid=84453",
-      "category": ""
-    },
-    {
-      "title": "AOMedia 发布 AV2 规范",
-      "date": "Mon, 01 Jun 2026 10:08:26 GMT",
-      "summary": "由 Amazon、Cisco, Google、Intel、Microsoft、Mozilla 和 Netflix 等联合组建的开放媒体联盟 AOMedia 正式发布了 AV1 的后继者 AV2 编解码器。AV2 在 AV1 继续上提高了压缩效率，以更低的比特率实现高质量视频传输，为流媒体、广播和实时视频会议不断变化的需求进行了优化。AV2 增强了对 AR/VR 应用的支持，支持多节目分屏播放，改进屏幕内容处理，能在更宽的视觉质量范围内运行。",
-      "url": "https://www.solidot.org/story?sid=84452",
-      "category": ""
-    },
-    {
-      "title": "马来西亚禁止未满 16 岁青少年使用社媒禁令生效",
-      "date": "Mon, 01 Jun 2026 09:03:42 GMT",
-      "summary": "马来西亚新网络安全法规星期一（6 月 1 日）生效，要求各大社交媒体平台验证用户年龄，并禁止 16 岁以下儿童注册账户。这项新法规适用于在马来西亚拥有至少 800 万用户的社媒供应商，包括 Facebook、Instagram、TikTok、YouTube 等。该国通信监管机构表示将给予社媒平台一段宽限期实施这些措施，但未说明宽限期的截止日期。新《网络安全法》的相关规定包括新的《儿童保护法》和《风险缓解法》，并要求社媒平台“加强内容管理”。通信与多媒体委员会说，未能遵守这两项守则的公司可面临最高 1000 万令吉的罚款。",
-      "url": "https://www.solidot.org/story?sid=84451",
       "category": ""
     }
   ],
