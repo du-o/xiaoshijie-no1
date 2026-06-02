@@ -1,8 +1,22 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-06-02T11:57:55.061Z",
+  "fetch_time": "2026-06-02T15:49:08.974Z",
   "articles": [
+    {
+      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+      "date": "Tue, 02 Jun 2026 12:00:00 GMT",
+      "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
+      "url": "https://openai.com/index/travelers",
+      "category": ""
+    },
+    {
+      "title": "Advancing youth safety and opportunity through global leadership",
+      "date": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
+      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+      "category": "Global Affairs"
+    },
     {
       "title": "Codex is becoming a productivity tool for everyone",
       "date": "Tue, 02 Jun 2026 02:00:00 GMT",
@@ -30,20 +44,6 @@
       "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.",
       "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
       "category": "Product"
-    },
-    {
-      "title": "Boston Children’s uses AI to unlock new diagnoses",
-      "date": "Fri, 29 May 2026 12:00:00 GMT",
-      "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
-      "url": "https://openai.com/index/boston-childrens-hospital",
-      "category": ""
-    },
-    {
-      "title": "How Braintrust turns customer requests into code with Codex",
-      "date": "Fri, 29 May 2026 12:00:00 GMT",
-      "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
-      "url": "https://openai.com/index/braintrust",
-      "category": ""
     }
   ],
   "status": "success",
