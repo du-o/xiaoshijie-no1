@@ -1,9 +1,210 @@
 {
-  "fetch_time": "2026-06-02T15:49:12.602Z",
+  "fetch_time": "2026-06-03T04:49:47.829Z",
   "total_count": 36,
   "sources_count": 6,
   "errors": null,
   "articles": [
+    {
+      "title": "普渡机器人CEO称公司正在为香港上市做准备",
+      "date": "Wed, 03 Jun 2026 04:37:20 GMT",
+      "summary": "日经新闻报道称，普渡机器人创始人和首席执行官张涛接受采访时表示，公司正在为香港上市做准备。（新浪财经）",
+      "url": "https://36kr.com/newsflashes/3836959792018567?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "DeepSeek计划在首轮融资中募资约70亿美元",
+      "date": "Wed, 03 Jun 2026 04:21:18 GMT",
+      "summary": "知情人士透露，DeepSeek计划在首轮融资中募资约70亿美元，这家人工智能初创企业估值将达到最高590亿美元。腾讯和宁德时代将成为DeepSeek最大的外部投资者；网易和京东也计划参与投资。（新浪财经）",
+      "url": "https://36kr.com/newsflashes/3836944039228549?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "汤臣倍健等在天津成立新合伙企业，出资额6.8亿",
+      "date": "Wed, 03 Jun 2026 04:20:39 GMT",
+      "summary": "36氪获悉，天眼查App显示，近日，天津砺思星灵创业投资合伙企业（有限合伙）成立，执行事务合伙人为天津砺思明棠企业管理咨询合伙企业（有限合伙），出资额6.8亿人民币，经营范围为创业投资、以自有资金从事投资活动。合伙人信息显示，该合伙企业由汤臣倍健、宁波浦润投资合伙企业（有限合伙）、上海众源二期私募投资基金（有限合伙）、南京华泰洋河股权投资母基金（有限合伙）等共同出资。",
+      "url": "https://36kr.com/newsflashes/3836933583189384?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "杭州4宗涉宅用地46.23亿元成交 最高溢价率超61%",
+      "date": "Wed, 03 Jun 2026 04:10:49 GMT",
+      "summary": "杭州4宗涉宅用地出让，总土地出让面积106196平方米，总规划建筑面积249801.70平方米，总起始价32.58亿元。最终4宗地块中，2宗溢价近25%成交，1宗溢价近36%成交，1宗溢价超61%成交，总成交金额46.23亿元。（证券时报）",
+      "url": "https://36kr.com/newsflashes/3836926842467463?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "机器人公司帕西尼据悉正考虑在香港上市",
+      "date": "Wed, 03 Jun 2026 04:02:53 GMT",
+      "summary": "机器人公司帕西尼据悉正考虑在香港上市。（新浪财经）",
+      "url": "https://36kr.com/newsflashes/3836925919425928?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "恒指午间休盘跌1.69%，恒生科技指数跌2.35%",
+      "date": "Wed, 03 Jun 2026 04:01:58 GMT",
+      "summary": "36氪获悉，恒指午间休盘跌1.69%，恒生科技指数跌2.35%；半导体、硬件设备、电气设备板块领涨，剑桥科技涨超14%，英诺赛科涨超11%，亿华通涨超2%；零售、传媒、医药生物板块跌幅居前，东阳光药跌超7%，美团跌超6%，快手跌超5%；南向资金净买入68.8亿港元。",
+      "url": "https://36kr.com/newsflashes/3836925025695107?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "Visual Graph Scaffolds for Structural Reasoning in Large Language Models",
+      "date": "Wed, 03 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.02673v1 Announce Type: new Abstract: Graphs have been used to enhance large language models (LLMs) for structured reasoning, mostly as external knowledge sources are provided to models at test time. In this paper, we take a different view: the value of graphs for LLMs lie not only in supplying information, but also in organizing reasoning. Inspired by how humans use graph-structured mind maps to organize branching and converging thoughts, we ask whether graphs can serve as an internal",
+      "url": "https://arxiv.org/abs/2606.02673",
+      "category": [
+        "cs.AI",
+        "cs.LG"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "AURA: Action-Gated Memory for Robot Policies at Constant VRAM",
+      "date": "Wed, 03 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.02775v1 Announce Type: new Abstract: The KV-cache is the right memory for datacenters but the wrong memory for robots. Datacenter inference batches many short requests and resets them, amortizing an attention cache across a crowd. Embodied agents instead run one long, non-resetting episode on bandwidth-limited edge hardware, where high-bandwidth memory and flash are scarce, flash has finite write endurance, and memory writes rather than compute can become the binding constraint. AURA-",
+      "url": "https://arxiv.org/abs/2606.02775",
+      "category": [
+        "cs.AI",
+        "cs.AR",
+        "cs.DC",
+        "cs.PF",
+        "cs.RO"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Evaluating Transformer and LSTM Frameworks for Prediction in Ungauged Basins",
+      "date": "Wed, 03 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.02791v1 Announce Type: new Abstract: Watershed networks exhibit convergent topologies in which multiple tributaries merge into downstream channels,integrating diverse upstream hydrological processes. In ungauged basins, the absence of direct observations increases uncertainty and limits the ability to anticipate extreme events. This study evaluates whether an encoder-only Transformer provides an advantage over an LSTM for upstream streamflow inference under limited hydrologic informat",
+      "url": "https://arxiv.org/abs/2606.02791",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "BehaviorBench: Modeling Real-World User Decisions from Behavioral Traces",
+      "date": "Wed, 03 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.02798v1 Announce Type: new Abstract: Many decision-support settings require systems that adapt to individual users, but evaluation data for this problem remain limited. Existing benchmarks for user understanding often rely on simulated users or model-generated behavior, even though recent work cautions that model-based simulations can diverge systematically from human behavior. We introduce \\textsc{BehaviorBench}, a benchmark for evaluating personalized decision modeling from real-wor",
+      "url": "https://arxiv.org/abs/2606.02798",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "ChatHealthAI: Aligning Electronic Health Record Representations with Large Language Models for Grounded Clinical Reasoning",
+      "date": "Wed, 03 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.02802v1 Announce Type: new Abstract: Large language models (LLMs) exhibit strong natural-language reasoning abilities for clinical decision support, but struggle to effectively model structured longitudinal electronic health records (EHRs). In contrast, EHR foundation models can learn predictive patient representations, yet lack interpretable language-based reasoning. To bridge this gap, we propose ChatHealthAI, a multimodal reasoning framework that aligns structured EHR representatio",
+      "url": "https://arxiv.org/abs/2606.02802",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Traj-Evolve: A Self-Evolving Multi-Agent System for Patient Trajectory Modeling in Lung Cancer Early Detection",
+      "date": "Wed, 03 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.02812v1 Announce Type: new Abstract: Modeling patient trajectories from longitudinal electronic health records (EHRs) requires reasoning over sparse, noisy, and long-context multimodal sequences. Existing LLM-based multi-agent systems address context length but process patients in isolation, failing to mirror how clinicians leverage accumulated experience from similar prior cases. We present Traj-Evolve, a self-evolving multi-agent system with two complementary evolving mechanisms. Fi",
+      "url": "https://arxiv.org/abs/2606.02812",
+      "category": [
+        "cs.AI",
+        "cs.CL"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "拒绝停止呼吸的土壤",
+      "date": "Tue, 02 Jun 2026 16:13:23 GMT",
+      "summary": "法国生化学家 Sébastien Fontaine 15 年来一直试图杀死土壤，他想要了解没有任何生命的土壤能释放多少碳。 他的团队将土壤密封在罐子内，用伽马射线进行灭菌照射。然后等待土壤释放的二氧化碳——这是微生物呼吸持续进行的标志——下降。他们等待了几周，几个月。在显微镜下，经辐射处理的土壤没有显示任何生命迹象，但它仍在继续释放二氧化碳。土壤拒绝停止呼吸。Fontaine 的实验室重复了实验得到了相同的结果。研究人员开始寻找无生命土壤中的呼吸来源。Fontaine 的团队如今报告，他们的土壤样本在六年内持续消耗氧气并释放二氧化碳。他们提出，为生命提供能量的代谢过程也可能发生在活细胞之外。他们的实验表明，即使没有通常组织土壤的生物蛋白质，这种代谢过程也能在土壤中发挥作用。如果他们的假设正确，那么部分生化反应如释放富碳糖分子能量的反应，可能并非生物所独有。此类反应甚至可能在地球生命出现前就已经存在。",
+      "url": "https://www.solidot.org/story?sid=84467",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "How we used Gemini to build Google I/O 2026 Learn how Googlers used AI to produce Google I/O 2026.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+      "date": "2026-06-02T15:49:15.031Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "100 things we announced at I/O 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+      "date": "2026-06-02T15:49:15.031Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+      "date": "2026-06-02T15:49:15.031Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "View the collection",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
+      "date": "2026-06-02T15:49:15.031Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Gemini models",
+      "url": "https://blog.google/products-and-platforms/products/gemini/",
+      "date": "2026-06-02T15:49:15.031Z",
+      "summary": "",
+      "category": "Products",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Developer tools",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/",
+      "date": "2026-06-02T15:49:15.031Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "The State of AI: A Look at What's Next",
+      "url": "https://every.to/p/the-state-of-ai",
+      "date": "2026-06-02T15:49:08.425Z",
+      "summary": "An in-depth analysis of the current AI landscape and future trends.",
+      "category": "AI Analysis",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "蓝色章鱼是全新物种",
+      "date": "Tue, 02 Jun 2026 15:05:53 GMT",
+      "summary": "2015 年在加拉帕戈斯群岛进行深海考察的科学家在查看遥控潜水器拍摄的影像时，发现了一只体型娇小、通体呈蓝色的章鱼，它位于水下约 1773 米处。科学家捕捉了这只章鱼以进行进一步分析。研究人员如今得出结论：这只体型小到可以放在手掌的可爱小生物属于一个全新物种。研究报告发表在《Zootaxis》期刊上。小章鱼被保存在储藏室中。由于它的独一无二，且极不可能采集到另一只，科学家不愿意对其解剖进行彻底的物种鉴定分析。因此研究团队选择了 mini-CT 扫描，研究表明这种生物手臂很短，臂上的吸盘很少，没有墨囊，皮肤光滑，且有一颗巨大的脊齿。他们将该物种命名为 Microeledone galapagensis。",
+      "url": "https://www.solidot.org/story?sid=84466",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
     {
       "title": "富铁免疫细胞帮助信鸽导航",
       "date": "Tue, 02 Jun 2026 14:43:26 GMT",
@@ -23,60 +224,6 @@
       "source_name": "solidot"
     },
     {
-      "title": "热门中概股美股盘前普涨，理想汽车涨超7%",
-      "date": "Tue, 02 Jun 2026 12:56:27 GMT",
-      "summary": "36氪获悉，热门中概股美股盘前普涨，截至发稿，理想汽车涨超7%，阿里巴巴、小鹏汽车涨超5%，京东涨超4%，百度涨、哔哩哔哩、蔚来超3%，拼多多、网易涨超2%。",
-      "url": "https://36kr.com/newsflashes/3836034865411207?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "国家发展改革委主任郑栅洁主持召开国有企业座谈会",
-      "date": "Tue, 02 Jun 2026 12:54:12 GMT",
-      "summary": "36氪获悉，6月2日，国家发展改革委主任郑栅洁主持召开国有企业座谈会，与中国远洋海运集团、中国煤炭科工集团、中国资源循环集团、中国物流集团、中国数联物流信息公司、中国国际货运航空公司、中国神华煤制油化工公司等7家国有企业座谈交流，围绕深化国资国企改革、纵深推进全国统一大市场建设、促进绿色低碳发展、保障能源安全等国家重大战略，听取企业情况介绍和意见建议。郑栅洁认真倾听每位企业负责人的发言，与大家深入互动交流，逐一回应关切。他表示，要坚持目标导向和问题导向，推进国有经济布局优化和结构调整，提升国有企业科技创新、产业控制、安全支撑功能，激发国有企业内生动力活力；要主动服务全国统一大市场建设，带头维护统一市场基础制度、助力形成统一市场基础设施，服务构建现代流通网络；要认真落实“双碳”战略，推动绿色低碳发展，促进煤炭清洁高效利用，促进行业绿色低碳转型，有力保障能源安全；要在支持和带动民营企业、中小微企业发展上做好表率，促进各种所有制经济优势互补、共同发展。",
-      "url": "https://36kr.com/newsflashes/3836032649819272?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "何时启动内地存量业务整治？富途最新回应",
-      "date": "Tue, 02 Jun 2026 12:52:04 GMT",
-      "summary": "6月2日晚间，老虎国际发布通知，明确将自6月12日起暂停对存量投资者账户在中国境内的入金及买入交易服务。目前来看，各家券商行动节奏存在差异。对于存量业务2年集中整治行动何时开启，6月2日晚间，富途客服最新回应称：“本次为中国内地监管部门针对境外金融机构发布的行业性指引，富途也在积极跟进落实相关要求。我们会在确认最终安排后，第一时间通过官方渠道通知您，请留意APP公告。”（一财）",
-      "url": "https://36kr.com/newsflashes/3836030560761216?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "美股大型科技股盘前涨跌不一，迈威尔科技涨超18%",
-      "date": "Tue, 02 Jun 2026 12:51:13 GMT",
-      "summary": "36氪获悉，美股大型科技股盘前涨跌不一，截至发稿，迈威尔科技涨超18%，英伟达涨超1%，Meta涨0.47%，特斯拉涨0.43%；微软跌超3%，谷歌跌超2%，亚马逊跌超1%，苹果跌0.06%。",
-      "url": "https://36kr.com/newsflashes/3836029722064007?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "SpaceX正在向银行施压，要求获得有史以来最低的IPO费用率",
-      "date": "Tue, 02 Jun 2026 12:47:43 GMT",
-      "summary": "据报道，SpaceX正在向银行施压，要求获得有史以来最低的首次公开募股（IPO）费用率，希望以不到0.75%的利率筹集750亿美元资金。即使佣金如此之低对于华尔街的IP0承销商而言，这笔费用也可能成为有史以来金额最高的交易之一。牵头银行一高盛集团和摩根士丹利——这些经纪商有望比其他21家经纪商获得更大的佣金份额。知情人士称，这些数字代表SpaceX支付的基本费用，并未计入其他酌情奖励。（财联社）",
-      "url": "https://36kr.com/newsflashes/3836020590425216?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "金螳螂：孙公司中标越南四项目，合计约2.53亿元",
-      "date": "Tue, 02 Jun 2026 12:40:06 GMT",
-      "summary": "36氪获悉，金螳螂公告，近日，其孙公司金螳螂（越南）建筑有限公司收到中标函，被指定为“VOCO酒店室内装修工程”等四个项目的施工承包商，合计中标总金额约2.53亿元。上述中标总金额占公司2025年度经审计营业收入的1.46%。截至公告披露日，公司暂未签正式合同，且项目存在无法全面实施及海外经营特有风险。",
-      "url": "https://36kr.com/newsflashes/3835997915084163?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
       "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
       "date": "Tue, 02 Jun 2026 12:00:00 GMT",
       "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
@@ -84,69 +231,6 @@
       "category": "",
       "source": "OpenAI News",
       "source_name": "openai"
-    },
-    {
-      "title": "How we used Gemini to build Google I/O 2026 Learn how Googlers used AI to produce Google I/O 2026.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
-      "date": "2026-06-02T11:58:24.298Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "100 things we announced at I/O 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
-      "date": "2026-06-02T11:58:24.298Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
-      "date": "2026-06-02T11:58:24.298Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "View the collection",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
-      "date": "2026-06-02T11:58:24.298Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Gemini models",
-      "url": "https://blog.google/products-and-platforms/products/gemini/",
-      "date": "2026-06-02T11:58:24.298Z",
-      "summary": "",
-      "category": "Products",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Developer tools",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/",
-      "date": "2026-06-02T11:58:24.298Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "The State of AI: A Look at What's Next",
-      "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-06-02T11:57:54.418Z",
-      "summary": "An in-depth analysis of the current AI landscape and future trends.",
-      "category": "AI Analysis",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "中国打击快餐行业的幽灵外卖",
@@ -158,28 +242,19 @@
       "source_name": "solidot"
     },
     {
+      "title": "Codex for every role, tool, and workflow",
+      "date": "Tue, 02 Jun 2026 09:00:00 GMT",
+      "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
+      "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+      "category": "Product",
+      "source": "OpenAI News",
+      "source_name": "openai"
+    },
+    {
       "title": "中国将数据和算法纳入商业秘密保护",
       "date": "Tue, 02 Jun 2026 08:37:19 GMT",
       "summary": "中国扩大商业秘密保护范围，将数据和算法纳入其中，以加强防范技术外流。中国国家市场监督管理总局修订的《商业秘密保护规定》在星期一（6月1日）正式施行。这是中国法律首次明确将数据、算法等数字资产纳入商业秘密保护范围。新规也对远程办公和跨境企业合作提出更严格的安全要求。企业必须采取保护措施，包括按照员工职级限制文件访问权限、隐藏敏感信息，以及记录用户操作行为等。规定还将境外实施的侵犯商业秘密行为纳入规制范围，但未明确具体执法机制。配合新规实施，中国国家市场监管总局星期一启动为期一个月的专项执法行动，重点针对生物医药、半导体和人工智能等关键领域，严厉打击“恶意挖角”以及员工跳槽时携带商业秘密等行为。",
       "url": "https://www.solidot.org/story?sid=84462",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "能源危机推动 37 个国家的电动汽车销量创新高",
-      "date": "Tue, 02 Jun 2026 08:18:49 GMT",
-      "summary": "受中东危机导致燃料价格上涨的影响，全球电动汽车销量快速增长。根据标普全球汽车数据统计，在可获取数据的 150 个国家中，3 月有包括澳大利亚和英国在内的 28 个国家刷新了电动汽车单月销量历史纪录。4 月则有包括巴西和菲律宾在内的 9 个国家创下新高。3 月和 4 月期间，91% 的国家电动汽车销量实现增长。在原油进口高度依赖中东的韩国，3～4 月的电动汽车销量同比增长至 2.4 倍。电动汽车在新车销售中的占比提高14个百分点达到 26%。东南亚地区电动汽车销量增长 4 成，市场占比升至 16%。欧盟市场也摆脱了一度停滞的局面，销量同比增长 4 成。中国市场虽然电动汽车销量下降 8%，但由于整体新车需求同步下滑，电动汽车在新车销售中的占比反而提高5个百分点达到 42%。国际能源署在 5 月发布的报告中指出，此次能源危机的应对方式“将在未来几年塑造全球汽车市场”。",
-      "url": "https://www.solidot.org/story?sid=84461",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "海盗湾在被警方搜查 20 年后",
-      "date": "Tue, 02 Jun 2026 08:05:30 GMT",
-      "summary": "2006 年 5 月 31 日，海盗湾成立不到三年，65 名瑞典警察进入了斯德哥尔摩的一个数据中心。在美国政府的压力下，作为刑事调查的一部分，他们奉命下线海盗湾的服务器。在警察进入数据中心前，海盗湾联合创始人Gottfrid Svartholm 和 Fredrik Neij 就感觉到情况不妙。他们注意到有密探跟踪他们。不过这一次警方的目标是他们的服务器。上午 10 点左右，Gottfrid 告诉 Fredrik 办公室来了警察。他让同事去托管机房销毁“罪证”。Fredrik 离开时，他意识到问题可能与他们的 torrent tracker 相关。为以防万一他决定对网站进行完整备份。当他到达托管机房时，他的担忧得到了证实。数十名警察带走了数十台服务器，其中大部分属于与海盗湾无关的客户。接下来几天，Fredrik 备份网站的决定显然是海盗湾历史上最关键的时刻。正因为有了备份，海盗湾团队才得以在三天内恢复网站。事件的处理方式也延续了海盗湾一贯的恶搞。他们将网站更名为“警察湾”（The Police Bay），设计了一个向好莱坞发射炮弹的新标志。几天后网站的标志被凤凰图案取代，象征着它从数字灰",
-      "url": "https://www.solidot.org/story?sid=84460",
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
@@ -192,64 +267,6 @@
       "category": "Global Affairs",
       "source": "OpenAI News",
       "source_name": "openai"
-    },
-    {
-      "title": "Position Paper: Post-Solve Robustness in Decision Engines: Feasible Regions and Smoothness Under Perturbations",
-      "date": "Tue, 02 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.00002v1 Announce Type: new Abstract: Mixed-Integer Linear Programming (MILP) decision engines routinely output nominally optimal plans for high-stakes industrial systems. Yet deployment rarely matches solve-time assumptions: small perturbations in costs, demands, or resource availability can invalidate feasibility or trigger discontinuous shifts to qualitatively different solutions. We argue that this post-solve robustness gap is a missing layer in today's optimization pipelines and a",
-      "url": "https://arxiv.org/abs/2606.00002",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Emergent Collaborative Deliberation in Multi-Model AI Systems: A BFT-Derived Protocol for Epistemic Synthesis",
-      "date": "Tue, 02 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.00005v1 Announce Type: new Abstract: We present the Consilium Protocol, a Byzantine Fault Tolerance-derived architecture for structured multi-model AI deliberation that treats inter-model disagreement as epistemic signal rather than error. The protocol assigns engineered cognitive personas to language models -- separating what a model is from how it reasons -- and introduces an In-Sample/Out-of-Sample validation framework adapted from quantitative finance to distinguish training-data ",
-      "url": "https://arxiv.org/abs/2606.00005",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Deliberative Curation: A Protocol for Multi-Agent Knowledge Bases",
-      "date": "Tue, 02 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.00007v1 Announce Type: new Abstract: As AI agents transition from isolated tools to collaborative participants in shared knowledge ecosystems, governing collective knowledge curation becomes a critical challenge. Human platform governance mechanisms do not transfer directly: agent statelessness undermines deterrence-based sanctions, model homogeneity violates independence assumptions underlying crowd wisdom, and sycophancy collapses deliberative consensus. We propose a deliberative cu",
-      "url": "https://arxiv.org/abs/2606.00007",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Agents on a Tree: Pathwise Coordination for Multi-Objective Molecular Optimization",
-      "date": "Tue, 02 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.00008v1 Announce Type: new Abstract: Multi-objective molecular optimization requires searching vast chemical spaces under conflicting objectives, where early design decisions strongly constrain downstream outcomes. Existing methods typically rely on a single policy or fixed scalarization, which limits their ability to represent diverse trade-offs and to explore multiple promising design trajectories. We propose ATOM, a multi-agent framework that formulates molecular optimization as a ",
-      "url": "https://arxiv.org/abs/2606.00008",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Optimal Transport-based Permutation-Invariant Bayesian Optimization of Offshore Wind Farm Layouts",
-      "date": "Tue, 02 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.00009v1 Announce Type: new Abstract: Bayesian Optimization (BO) is widely and successfully adopted for solving optimization problems having an expensive-to-evaluate, black-box, and non-convex objective function. However, the vanilla BO algorithm is not able to exploit possible symmetries characterizing the target problem. An intuitive case is given by optimal location problems, whose decision variables refer to a finite set of points within a continuous space, with the order of points",
-      "url": "https://arxiv.org/abs/2606.00009",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "MindGames Arena Generalization Track: In2AI Solution with Delayed Per-Step Reward Attribution",
-      "date": "Tue, 02 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.00017v1 Announce Type: new Abstract: Training language model agents for multi-agent strategic interaction presents a core difficulty: the quality of any action may depend on future events that never materialize, on moves that violate game rules, or on decisions made by other players. Standard reinforcement learning assumes that rewards can be assigned at each step, but this assumption fails in settings where outcomes are entangled across time and agents. We introduce delayed per-step ",
-      "url": "https://arxiv.org/abs/2606.00017",
-      "category": [
-        "cs.AI",
-        "cs.CL",
-        "cs.MA"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
     },
     {
       "title": "Codex is becoming a productivity tool for everyone",
@@ -270,6 +287,15 @@
       "source_name": "openai"
     },
     {
+      "title": "How Startups Are Using AI to Disrupt Industries",
+      "url": "https://every.to/source-code/ai-startups",
+      "date": "2026-06-01T15:49:08.425Z",
+      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
+      "category": "Source Code",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
       "title": "Building the infrastructure for the Intelligence Age in Michigan",
       "date": "Mon, 01 Jun 2026 12:00:00 GMT",
       "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
@@ -279,27 +305,9 @@
       "source_name": "openai"
     },
     {
-      "title": "How Startups Are Using AI to Disrupt Industries",
-      "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-06-01T11:57:54.418Z",
-      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
-      "category": "Source Code",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "OpenAI frontier models and Codex are now available on AWS",
-      "date": "Mon, 01 Jun 2026 10:00:00 GMT",
-      "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.",
-      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
-      "category": "Product",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-05-31T11:57:54.418Z",
+      "date": "2026-05-31T15:49:08.425Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
@@ -308,7 +316,7 @@
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-05-30T11:57:54.418Z",
+      "date": "2026-05-30T15:49:08.425Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
@@ -317,7 +325,7 @@
     {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-05-29T11:57:54.418Z",
+      "date": "2026-05-29T15:49:08.425Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -326,7 +334,7 @@
     {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-05-28T11:57:54.418Z",
+      "date": "2026-05-28T15:49:08.425Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
