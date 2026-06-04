@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-06-04T08:20:24.531Z",
+  "fetch_time": "2026-06-04T10:55:26.928Z",
   "articles": [
+    {
+      "title": "How Endava is redesigning software delivery around AI agents",
+      "date": "Thu, 04 Jun 2026 12:00:00 GMT",
+      "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+      "url": "https://openai.com/index/endava-frontiers",
+      "category": ""
+    },
     {
       "title": "Introducing new capabilities to GPT-Rosalind",
       "date": "Wed, 03 Jun 2026 13:15:00 GMT",
@@ -18,17 +25,17 @@
       "category": ""
     },
     {
-      "title": "A blueprint for democratic governance of frontier AI",
-      "date": "Wed, 03 Jun 2026 10:00:00 GMT",
-      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
-      "url": "https://openai.com/index/frontier-safety-blueprint",
-      "category": "Global Affairs"
-    },
-    {
       "title": "OpenAI public policy agenda",
       "date": "Wed, 03 Jun 2026 10:00:00 GMT",
       "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
       "url": "https://openai.com/index/public-policy-agenda",
+      "category": "Global Affairs"
+    },
+    {
+      "title": "A blueprint for democratic governance of frontier AI",
+      "date": "Wed, 03 Jun 2026 10:00:00 GMT",
+      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
       "category": "Global Affairs"
     },
     {
@@ -37,13 +44,6 @@
       "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
       "url": "https://openai.com/index/travelers",
       "category": ""
-    },
-    {
-      "title": "Codex for every role, tool, and workflow",
-      "date": "Tue, 02 Jun 2026 09:00:00 GMT",
-      "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
-      "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
-      "category": "Product"
     }
   ],
   "status": "success",
