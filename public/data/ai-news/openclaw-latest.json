@@ -1,8 +1,28 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-06-03T16:08:13.864Z",
+  "fetch_time": "2026-06-04T04:44:16.413Z",
   "articles": [
+    {
+      "title": "openclaw 2026.6.2-beta.1",
+      "date": "2026-06-03T23:46:41Z",
+      "summary": "## 2026.6.2\n\n### Highlights\n\n- Plugin and skill installs now use an operator install policy instead of the old dangerous-code scanner path, with clearer doctor, CLI, ClawHub, and troubleshooting surfa...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.2-beta.1",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.6.2-beta.1",
+      "downloadCount": 0
+    },
+    {
+      "title": "openclaw 2026.6.1",
+      "date": "2026-06-03T19:35:12Z",
+      "summary": "\n### Highlights\n\n- Agents and CLI-backed runtimes recover more cleanly from interrupted tool calls, stale session bindings, compaction handoffs, and media delivery retries. (#88129, #88136, #88141, #8...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.1",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.6.1",
+      "downloadCount": 3217
+    },
     {
       "title": "openclaw 2026.6.1-beta.3",
       "date": "2026-06-03T09:16:02Z",
@@ -11,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.6.1-beta.3",
-      "downloadCount": 33
+      "downloadCount": 46
     },
     {
       "title": "openclaw 2026.6.1-beta.2",
@@ -21,7 +41,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.6.1-beta.2",
-      "downloadCount": 62
+      "downloadCount": 64
     },
     {
       "title": "openclaw 2026.6.1-beta.1",
@@ -41,26 +61,6 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.5.31-beta.4",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.5.31-beta.3",
-      "date": "2026-05-31T19:19:39Z",
-      "summary": "## 2026.5.31\n\n### Highlights\n\n- Agents and CLI-backed runtimes recover more cleanly from interrupted tool calls, stale session bindings, compaction handoffs, and media delivery retries. (#88129, #8813...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.31-beta.3",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.5.31-beta.3",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.5.31-beta.2",
-      "date": "2026-05-31T18:17:21Z",
-      "summary": "## 2026.5.31\n\n### Highlights\n\n- Agents and CLI-backed runtimes recover more cleanly from interrupted tool calls, stale session bindings, compaction handoffs, and media delivery retries. (#88129, #8813...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.31-beta.2",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.5.31-beta.2",
       "downloadCount": 0
     }
   ],

@@ -1,8 +1,36 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-06-03T16:07:59.285Z",
+  "fetch_time": "2026-06-04T04:44:02.152Z",
   "articles": [
+    {
+      "title": "Introducing new capabilities to GPT-Rosalind",
+      "date": "Wed, 03 Jun 2026 13:15:00 GMT",
+      "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
+      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+      "category": "Product"
+    },
+    {
+      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+      "date": "Wed, 03 Jun 2026 12:00:00 GMT",
+      "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
+      "url": "https://openai.com/index/wasmer",
+      "category": ""
+    },
+    {
+      "title": "A blueprint for democratic governance of frontier AI",
+      "date": "Wed, 03 Jun 2026 10:00:00 GMT",
+      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "category": "Global Affairs"
+    },
+    {
+      "title": "OpenAI public policy agenda",
+      "date": "Wed, 03 Jun 2026 10:00:00 GMT",
+      "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+      "url": "https://openai.com/index/public-policy-agenda",
+      "category": "Global Affairs"
+    },
     {
       "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
       "date": "Tue, 02 Jun 2026 12:00:00 GMT",
@@ -16,34 +44,6 @@
       "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
       "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
       "category": "Product"
-    },
-    {
-      "title": "Advancing youth safety and opportunity through global leadership",
-      "date": "Tue, 02 Jun 2026 07:00:00 GMT",
-      "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
-      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
-      "category": "Global Affairs"
-    },
-    {
-      "title": "Codex is becoming a productivity tool for everyone",
-      "date": "Tue, 02 Jun 2026 02:00:00 GMT",
-      "summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
-      "url": "https://openai.com/index/codex-for-knowledge-work",
-      "category": "Global Affairs"
-    },
-    {
-      "title": "Our views on AI policy and political advocacy",
-      "date": "Mon, 01 Jun 2026 17:00:00 GMT",
-      "summary": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.",
-      "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
-      "category": "Global Affairs"
-    },
-    {
-      "title": "Building the infrastructure for the Intelligence Age in Michigan",
-      "date": "Mon, 01 Jun 2026 12:00:00 GMT",
-      "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
-      "url": "https://openai.com/index/stargate-michigan-data-center",
-      "category": "Global Affairs"
     }
   ],
   "status": "success",
