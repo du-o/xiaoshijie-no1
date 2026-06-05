@@ -1,7 +1,7 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-06-04T14:24:10.895Z",
+  "fetch_time": "2026-06-05T04:18:36.833Z",
   "articles": [
     {
       "title": "How Endava is redesigning software delivery around AI agents",
@@ -9,6 +9,20 @@
       "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
       "url": "https://openai.com/index/endava-frontiers",
       "category": ""
+    },
+    {
+      "title": "Dreaming: Better memory for a more helpful ChatGPT",
+      "date": "Thu, 04 Jun 2026 09:00:00 GMT",
+      "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
+      "url": "https://openai.com/index/chatgpt-memory-dreaming",
+      "category": "Research"
+    },
+    {
+      "title": "Biodefense in the Intelligence Age",
+      "date": "Thu, 04 Jun 2026 00:00:00 GMT",
+      "summary": "An action plan for AI-powered biological resilience",
+      "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
+      "category": "Global Affairs"
     },
     {
       "title": "Introducing new capabilities to GPT-Rosalind",
@@ -25,25 +39,11 @@
       "category": ""
     },
     {
-      "title": "OpenAI public policy agenda",
-      "date": "Wed, 03 Jun 2026 10:00:00 GMT",
-      "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
-      "url": "https://openai.com/index/public-policy-agenda",
-      "category": "Global Affairs"
-    },
-    {
       "title": "A blueprint for democratic governance of frontier AI",
       "date": "Wed, 03 Jun 2026 10:00:00 GMT",
       "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
       "url": "https://openai.com/index/frontier-safety-blueprint",
       "category": "Global Affairs"
-    },
-    {
-      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
-      "date": "Tue, 02 Jun 2026 12:00:00 GMT",
-      "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
-      "url": "https://openai.com/index/travelers",
-      "category": ""
     }
   ],
   "status": "success",

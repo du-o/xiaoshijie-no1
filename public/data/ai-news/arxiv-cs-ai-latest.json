@@ -1,12 +1,12 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-06-04T14:24:11.038Z",
+  "fetch_time": "2026-06-05T04:18:37.039Z",
   "articles": [
     {
       "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
-      "date": "Thu, 04 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.04037v1 Announce Type: new Abstract: Pre-deployment verification of enterprise artificial intelligence (AI) agents remains a critical gap between large language model (LLM) capability benchmarking and production deployment. Post-deployment monitoring, human-in-the-loop controls, and prompt-level guardrails offer limited assurance once an agent is operating in production. We propose an ontology-grounded verification framework combining three components: an Agent Operational Envelope fo",
+      "date": "Fri, 05 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.04037v2 Announce Type: new Abstract: Pre-deployment verification of enterprise artificial intelligence (AI) agents remains a critical gap between large language model (LLM) capability benchmarking and production deployment. Post-deployment monitoring, human-in-the-loop controls, and prompt-level guardrails offer limited assurance once an agent is operating in production. We present an ontology-grounded verification framework -- to our knowledge the first to combine three components: a",
       "url": "https://arxiv.org/abs/2606.04037",
       "category": [
         "cs.AI",
@@ -16,7 +16,7 @@
     },
     {
       "title": "Stumbling Into AI Emotional Dependence: How Routine AI Interactions Reshape Human Connection",
-      "date": "Thu, 04 Jun 2026 04:00:00 GMT",
+      "date": "Fri, 05 Jun 2026 04:00:00 GMT",
       "summary": "arXiv:2606.04150v1 Announce Type: new Abstract: Public discourse and emerging policy typically assume that AI emotional support is a deliberate act: a lonely user consciously seeking comfort from a dedicated companion chatbot. In this paper, we draw on emerging empirical evidence and argue that this picture is inaccurate on two accounts, both in how AI emotional support arises and how it shapes future behavior. First, AI emotional support commonly emerges incidentally within task-oriented intera",
       "url": "https://arxiv.org/abs/2606.04150",
       "category": [
@@ -26,7 +26,7 @@
     },
     {
       "title": "Thinking Through Signs: PEEL as a Semiotic Scaffolding for Epistemically Accountable AI-Enabled Research",
-      "date": "Thu, 04 Jun 2026 04:00:00 GMT",
+      "date": "Fri, 05 Jun 2026 04:00:00 GMT",
       "summary": "arXiv:2606.04152v1 Announce Type: new Abstract: Large language models are reshaping research practice while quietly eroding researchers epistemic accountability. This commentary introduces PEEL - Protocols for Epistemically Engaged Literacy in AI, a working scaffolding that combines deterministic distant reading via Voyant Tools with LLM interpretation via Claude, grounded in Peircean semiotics and abductive reasoning. Applied to AI-generated condensations of three source texts, PEEL reveals sys",
       "url": "https://arxiv.org/abs/2606.04152",
       "category": [
@@ -36,21 +36,21 @@
     },
     {
       "title": "SMAC-Talk: A Natural Language Extension of the StarCraft Multi-Agent Challenge for Large Language Models",
-      "date": "Thu, 04 Jun 2026 04:00:00 GMT",
+      "date": "Fri, 05 Jun 2026 04:00:00 GMT",
       "summary": "arXiv:2606.04202v1 Announce Type: new Abstract: As LLMs become more widely deployed, they are increasingly expected to work alongside other AI agents rather than operating in isolation. Effective coordination in these settings requires agents to communicate, share information and make decisions under uncertainty. We introduce SMAC-Talk, a natural language extension of the StarCraft Multi-Agent Challenge for evaluating LLM-based agents in cooperative multi-agent environments. The environment has ",
       "url": "https://arxiv.org/abs/2606.04202",
       "category": "cs.AI"
     },
     {
       "title": "Consensus is Strategically Insufficient: Reasoning-Trace Disagreement as a Knowledge-Representation Signal",
-      "date": "Thu, 04 Jun 2026 04:00:00 GMT",
+      "date": "Fri, 05 Jun 2026 04:00:00 GMT",
       "summary": "arXiv:2606.04223v1 Announce Type: new Abstract: Multi-agent systems are commonly designed to reduce disagreement through voting, consensus protocols, debate, or fault-tolerant aggregation. We argue that this objective is insufficient for value-laden tasks, where disagreement may reflect genuine normative uncertainty rather than agent error. Building on prior work on reasoning-trace disagreement in human-AI collaborative moderation, we propose a knowledge-representation layer in which reasoning t",
       "url": "https://arxiv.org/abs/2606.04223",
       "category": "cs.AI"
     },
     {
       "title": "VAMPS: Visual-Assisted Mathematical Problem Solving Benchmark",
-      "date": "Thu, 04 Jun 2026 04:00:00 GMT",
+      "date": "Fri, 05 Jun 2026 04:00:00 GMT",
       "summary": "arXiv:2606.04244v1 Announce Type: new Abstract: Multimodal large language models are increasingly capable of complex reasoning, yet their performance often degrades when they must externalize a problem through a tool and then reason over the tool's output, specifically when they rely on visual aids. This gap is especially important because real engineering and scientific workflows often rely on visualization tools for analysis, validation, and decision-making. To study this discrepancy, we intro",
       "url": "https://arxiv.org/abs/2606.04244",
       "category": [
