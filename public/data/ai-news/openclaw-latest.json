@@ -1,69 +1,8 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-06-06T09:55:28.876Z",
-  "articles": [
-    {
-      "title": "openclaw 2026.6.5-beta.1",
-      "date": "2026-06-06T03:36:51Z",
-      "summary": "## 2026.6.5\n\n### Highlights\n\n- QQBot now strips model reasoning/thinking scaffolding before native delivery, preventing raw `<thinking>` content from leaking into channel replies. (#89913, #90132) Tha...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.5-beta.1",
-      "category": "Release",
-      "author": "vincentkoc",
-      "tagName": "v2026.6.5-beta.1",
-      "downloadCount": 1
-    },
-    {
-      "title": "openclaw 2026.6.2-beta.1",
-      "date": "2026-06-03T23:46:41Z",
-      "summary": "## 2026.6.2\n\n### Highlights\n\n- Plugin and skill installs now use an operator install policy instead of the old dangerous-code scanner path, with clearer doctor, CLI, ClawHub, and troubleshooting surfa...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.2-beta.1",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.6.2-beta.1",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.6.1",
-      "date": "2026-06-03T19:35:12Z",
-      "summary": "\n### Highlights\n\n- Agents and CLI-backed runtimes recover more cleanly from interrupted tool calls, stale session bindings, compaction handoffs, and media delivery retries. (#88129, #88136, #88141, #8...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.1",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.6.1",
-      "downloadCount": 27465
-    },
-    {
-      "title": "openclaw 2026.6.1-beta.3",
-      "date": "2026-06-03T09:16:02Z",
-      "summary": "\n### Highlights\n\n- Agents and CLI-backed runtimes recover more cleanly from interrupted tool calls, stale session bindings, compaction handoffs, and media delivery retries. (#88129, #88136, #88141, #8...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.1-beta.3",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.6.1-beta.3",
-      "downloadCount": 55
-    },
-    {
-      "title": "openclaw 2026.6.1-beta.2",
-      "date": "2026-06-01T21:56:19Z",
-      "summary": "\n### Highlights\n\n- Agents and CLI-backed runtimes recover more cleanly from interrupted tool calls, stale session bindings, compaction handoffs, and media delivery retries. (#88129, #88136, #88141, #8...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.1-beta.2",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.6.1-beta.2",
-      "downloadCount": 67
-    },
-    {
-      "title": "openclaw 2026.6.1-beta.1",
-      "date": "2026-06-01T09:45:05Z",
-      "summary": "\n### Highlights\n\n- Agents and CLI-backed runtimes recover more cleanly from interrupted tool calls, stale session bindings, compaction handoffs, and media delivery retries. (#88129, #88136, #88141, #8...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.1-beta.1",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.6.1-beta.1",
-      "downloadCount": 31
-    }
-  ],
-  "status": "success",
-  "error": null
+  "fetch_time": "2026-06-06T13:00:47.418Z",
+  "articles": [],
+  "status": "error",
+  "error": "GitHub API 请求失败: 403"
 }
