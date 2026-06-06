@@ -1,62 +1,206 @@
 {
-  "fetch_time": "2026-06-05T14:15:05.386Z",
+  "fetch_time": "2026-06-06T04:00:51.871Z",
   "total_count": 36,
   "sources_count": 6,
   "errors": null,
   "articles": [
     {
-      "title": "热门中概股美股盘前多数下跌，百度跌超4%",
-      "date": "Fri, 05 Jun 2026 12:59:05 GMT",
-      "summary": "36氪获悉，热门中概股美股盘前多数下跌，截至发稿，百度跌超4%，拼多多、蔚来、小鹏集团跌超1%，网易跌0.91%，阿里巴巴跌0.74%，京东涨超1%，爱奇艺涨0.93%，哔哩哔哩涨0.56%。",
-      "url": "https://36kr.com/newsflashes/3840284182268417?f=rss",
+      "title": "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment",
+      "date": "Sat, 06 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.05256v1 Announce Type: new Abstract: This study analyzes a publicly released dataset from a discontinued field experiment on Reddit's r/ChangeMyView. The intervention, conducted by unknown, external researchers and halted following ethical backlash, involved undisclosed AI-generated accounts engaging users in live debate. After public disclosure, Reddit authorized moderators to release an archive of the AI-generated comments, creating a rare opportunity to examine how large language m",
+      "url": "https://arxiv.org/abs/2606.05256",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems",
+      "date": "Sat, 06 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.05304v1 Announce Type: new Abstract: Multi-agent systems (MAS) built on large language models are typically organized around roles, pipelines, and turn schedules, while the content that agents pass to one another is often left as unconstrained natural language. However, this free-form communication can rapidly inflate token usage, consume the shared context window, and ultimately affect both system performance and inference cost. We analyze five common inter-agent communication strate",
+      "url": "https://arxiv.org/abs/2606.05304",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "I Know What You Meme, Even If it Emerged Today: Understanding Evolving Memes through Open-World Knowledge Acquisition",
+      "date": "Sat, 06 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.05316v1 Announce Type: new Abstract: Multimodal memes are dynamic and often require up to date background knowledge for interpretation. Existing methods often overlook such knowledge or rely on fixed parametric knowledge of pretrained models that may be incomplete, outdated, or unavailable for emerging memes. We introduce Query Retrieve Conclude, a zero shot framework that identifies missing knowledge, retrieves open web evidence, and synthesizes evidence grounded background knowledge",
+      "url": "https://arxiv.org/abs/2606.05316",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "GITCO: Gated Inference-Time Context Optimization in TSFMs",
+      "date": "Sat, 06 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.05332v1 Announce Type: new Abstract: Patch-based Time Series Foundation Models (TSFMs) suffer from context poisoning: structurally anomalous patches capture disproportionate attention and silently degrade zero-shot forecast quality. We propose improving TSFM accuracy at inference time by optimizing the input context rather than modifying model weights. We present GITCO (Gated Inference-Time Context Optimization), a lightweight three-component framework: Gate, Router, and Critic that s",
+      "url": "https://arxiv.org/abs/2606.05332",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Uncertainty Aware Functional Behavior Prediction and Material Fatigue Assessment for Circular Factory",
+      "date": "Sat, 06 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.05334v1 Announce Type: new Abstract: Returned products in circular factories re-enter production with heterogeneous degradation states, usage histories, and remaining capability. Reuse cannot be decided from the current inspection alone, because future function fulfillment and component integrity may evolve differently under the next service scenario. Existing PHM approaches support degradation prediction, but often target fixed operating conditions or isolated component benchmarks, w",
+      "url": "https://arxiv.org/abs/2606.05334",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "SentinelBench: A Benchmark for Long-Running Monitoring Agents",
+      "date": "Sat, 06 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.05342v1 Announce Type: new Abstract: AI agents are increasingly asked to carry out work that spans minutes, hours, or longer. Yet the default model of agent behavior is continuous action: issuing tool calls, refreshing pages, searching for alternatives, or otherwise trying to force progress. This is the wrong approach for many long-running tasks, which are better served by a strategy of sustained attention. Instead, agents should monitor an environment, notice when an external event m",
+      "url": "https://arxiv.org/abs/2606.05342",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "淘宝闪购“冰冰节”全面开启，联合百万商家共拓即时零售夏日增量市场",
+      "date": "Sat, 06 Jun 2026 03:34:40 GMT",
+      "summary": "淘宝闪购数据显示，品牌商家门店数量较去年同比增长近四成。除了盒马、沃尔玛等大型商超外，平台还吸引了赵一鸣、好想来、丝芙兰等上万家涵盖零食、美妆、个护等领域的头部品牌入驻，并进一步拓展了防晒、宠物消暑等细分场景。此外，美的、海尔等家电品牌也跨界入局，不仅提供产品直供，更配套提供空调上门安装服务，为消费者带来“即买、即送、即装”的一站式清凉消费体验。",
+      "url": "https://36kr.com/newsflashes/3841144920459784?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "欧盟一季度GDP环比下降0.1%",
-      "date": "Fri, 05 Jun 2026 12:55:12 GMT",
-      "summary": "当地时间6月5日，欧盟统计局公布的初步数据显示，经季节调整后，2026年第一季度欧盟国内生产总值（GDP）环比下降0.1%，欧元区GDP环比下降0.2%。而2025年第四季度，欧盟和欧元区经济均实现0.2%的环比增长。数据还显示，按年率计算，今年第一季度欧盟经济同比增长0.7%，欧元区同比增长0.3%，均低于上一季度分别1.4%和1.2%的增速，显示欧洲经济增长势头有所放缓。（央视新闻）",
-      "url": "https://36kr.com/newsflashes/3840280375773698?f=rss",
+      "title": "加息预期升温科技股遭抛售 隔夜美股市值一夜损失近2.3万亿美元",
+      "date": "Sat, 06 Jun 2026 03:16:31 GMT",
+      "summary": "美国劳工部强劲就业报告推高了对美联储下一步利率动作将是加息的押注，科技股抛售以及债券收益率走高冲击美股，纳斯达克100指数创逾一年最大跌幅，标普500指数终结九周连涨。隔夜美股重挫总市值一夜损失近2.3万亿美元，大型科技股集体下跌，其中英伟达跌超6%，市值跌去3000亿美元，博通、Meta、特斯拉市值合计损失3300亿美元。（财联社）",
+      "url": "https://36kr.com/newsflashes/3841127080970503?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "美股大型科技股盘前涨跌不一，英特尔跌超3%",
-      "date": "Fri, 05 Jun 2026 12:52:14 GMT",
-      "summary": "36氪获悉，美股大型科技股盘前涨跌不一，截至发稿，英特尔跌超3%，英伟达跌超1%，英伟达跌0.96%，Meta跌0.6%，亚马逊跌0.59%，特斯拉涨0.63%，苹果涨0.54%，微软涨0.4%。",
-      "url": "https://36kr.com/newsflashes/3840277452654853?f=rss",
+      "title": "网传比亚迪自研人形机器人代号“尧舜禹”、年内自用2万台 比亚迪否认",
+      "date": "Sat, 06 Jun 2026 03:13:40 GMT",
+      "summary": "日前，比亚迪自研人形机器人的消息引发广泛关注。网传其自研人形机器人代号“尧舜禹”，计划于2026年在内部部署2万台。对此，记者向比亚迪方面求证，对方表示：“‘比亚迪人形机器人代号尧舜禹’‘第七代原型机在深圳和长沙工厂实地测试’‘约150台上岗，目标年内自用2万台’等消息均不属实。” (每日经济新闻)",
+      "url": "https://36kr.com/newsflashes/3841124276423176?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "氪星晚报 ｜日本或通过抛售美债，为创纪录规模的日元汇市干预筹资；俞浩内部发文：未来将继续心无旁骛做实业",
-      "date": "Fri, 05 Jun 2026 12:50:46 GMT",
-      "summary": "大公司： 首关15亿元，英诺科创三期基金持续聚焦早期科技投资 36氪获悉，6月5日，英诺基金宣布旗下英诺科创三期基金完成首轮关账，规模15亿元。该基金聚焦早期科技投资，重点布局前沿科技及人工智能领域。 比特币“金库”公司市值蒸发620亿美元 比特币本周下跌约14%，至四个月低点附近。随着加密货6月5日下午，追觅科技创始人俞浩在公司内部大群发文，表示未来将继续心无旁骛做实业，坚持技术创新，去啃全球最难的市场。（界面）币整体滑坡，数字资产“金库型”公司的股票也持续下挫，其中许多的跌幅远远超过它们所持有的加密货币本身。Artemis的数据显示，这些比特币金库公司的完全稀释股票总市值，已从去年10月初的近期顶点近1340亿美元，降至约720亿美元，也就是减少了620亿美元。Tokenize Capital管理合伙人Tokenize Capital表示：“随着价格回落，数字资产金库公司正面临一个严峻选择：是债务违约，还是出售资产。被迫抛售已经粉碎了对它们会持续扮演‘买入并持有’投资者角色的预期。”（财联社） 俞浩内部发文：未来将继续心无旁骛做实业 6月5日下午，追觅科技创始人俞浩在公司内部大群发",
-      "url": "https://36kr.com/p/3840267945969929?f=rss",
+      "title": "英伟达新品被指内存容量“缩水”海内外存储股应声重挫",
+      "date": "Sat, 06 Jun 2026 03:05:30 GMT",
+      "summary": "2026年以来，存储上市公司市值不断创新高，市场正在尝试将存储资产从传统“周期股”转变为“AI时代核心基础设施资产”。在此估值切换窗口，海外调研机构SemiAnalysis一则关于英伟达新一代Vera Rubin AI服务器平台的内存降配、成本下降的研报，引发海内外存储概念股集体回调。据业内分析，本次报告中所指降配仅限于CPU侧系统内存，与GPU算力核心并无关系，这是基于英伟达兼顾供应链、功耗、成本的多重战略选择。 (证券时报)",
+      "url": "https://36kr.com/newsflashes/3841116245854468?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "交易员预计美联储将到明年1月底前加息",
-      "date": "Fri, 05 Jun 2026 12:44:33 GMT",
-      "summary": "交易员预计美联储将到明年1月底前加息，此前预期到明年3月底前。（财联社）",
-      "url": "https://36kr.com/newsflashes/3840269897075208?f=rss",
+      "title": "误发世界杯“0元票”　国际足联催球迷补票款",
+      "date": "Sat, 06 Jun 2026 03:03:28 GMT",
+      "summary": "据新华社，国际足联5日证实，因购票网站出现技术故障，数十人免费获得了世界杯门票。国际足联正要求这些人补缴门票费用，否则将取消预订座位。（新华社）",
+      "url": "https://36kr.com/newsflashes/3841114245892355?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "住建部就《住房公积金管理条例（修订征求意见稿）》公开征求意见",
-      "date": "Fri, 05 Jun 2026 12:37:47 GMT",
-      "summary": "36氪获悉，住房城乡建设部发布关于《住房公积金管理条例（修订征求意见稿）》公开征求意见的通知。职工有下列情形之一的，可以提取职工住房公积金账户内的存储余额：（一）支付房租的；（二）购买、建造、翻建、大修自住住房的；（三）偿还购房贷款本息的；（四）装修自住住房不超过一定额度的；（五）支付自住住房物业费的；（六）离休、退休的；（七）完全丧失劳动能力，并与单位终止劳动（人事）关系的；（八）出境定居的；（九）经国务院批准的其他住房消费情形。",
-      "url": "https://36kr.com/newsflashes/3840263251364100?f=rss",
+      "title": "境外发行人前5个月发行规模超去年全年 外资积极入场助点心债热度高企",
+      "date": "Sat, 06 Jun 2026 03:01:07 GMT",
+      "summary": "据上海证券报，在美元融资成本高企、全球资本寻觅资金“避风港”之际，香港点心债市场正焕发新活力。点心债是指在香港发行的人民币计价债券，因发行初期单笔规模较小且年期较短，如港式点心“小巧精致”而得名。记者统计自彭博的数据显示，今年前5个月，点心债发行量（去除同业存单）达4300亿元，同比增长23.6%。点心债市场存量规模达1.87万亿元。其中，外资机构参与度显著提升，境外发行人前5个月发行规模已达1630亿元，超过去年全年发行总量。业内预计，外资发行人数量和发行规模将继续扩容，点心债有望从“离岸融资补充工具”逐步演变为全球人民币资产配置的核心载体，为人民币国际化和中国金融市场双向开放提供鲜活注脚。（上海证券报）",
+      "url": "https://36kr.com/newsflashes/3841111938877958?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
+    },
+    {
+      "title": "因空气泄露国际空间站宇航员被告知准备紧急撤离",
+      "date": "Fri, 05 Jun 2026 16:20:20 GMT",
+      "summary": "由于国际空间站俄罗斯舱段的漏气过去几天从每天一磅空气增加到两磅（0.9 公斤），NASA 命令国际空间站上的宇航员待在飞船内，做好紧急撤离的准备。NASA Crew-12 任务的四名宇航员——两名美国宇航员、一名法国宇航员和一名俄罗斯宇航员——于美国东部时间周五 9.04am 接到 NASA 任务控制中心的命令，进入与空间站对接的 Crew Dragon 飞船，穿上宇航服，以防漏气情况需要紧急撤离。漏气的舱段位于 Progress（进步号）气闸舱和 Zvezda（星辰号）服务舱之间的 PrK 模块，漏气原因是微小的结构裂缝。最近几个月 NASA 和俄罗斯航天局一直在讨论漏气的原因和可能的修复方案。",
+      "url": "https://www.solidot.org/story?sid=84501",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "Brave 以 60 美元出售精简版本 ",
+      "date": "Fri, 05 Jun 2026 15:26:58 GMT",
+      "summary": "Brave 浏览器过去几年积累了加密货币钱包、AI 助手、新闻流和奖励计划等不太欢迎的功能。为了回应用户对臃肿功能的不满，Brave 推出了精简版 Brave Origin 浏览器。Linux 平台免费，但其它平台则要付费，且价格不菲。Brave Origin 移除了 Brave Rewards、钱包、Leo AI、新闻流、Talk、VPN、Tor 等功能，保留了内置的广告和跟踪器屏蔽功能 Brave Shields，它的一次性授权费用为 59.99 美元，最多可用于 10 台设备。60 美元是否物有所值则取决于用户了。",
+      "url": "https://www.solidot.org/story?sid=84500",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "超加工食品的加工过程可能与健康风险相关",
+      "date": "Fri, 05 Jun 2026 15:12:36 GMT",
+      "summary": "越来越多的研究将超加工食品与心脏病、糖尿病、过早死亡等关联起来。但科学家仍在争论究竟是什么导致了健康风险：是食品本身的营养质量，还是生产过程中使用的工业加工和添加剂。根据《American Journal of Public Health》期刊上的一项研究，加工过程本身可能在其中发挥着重要作用。超加工食品的加工过程会改变食物细胞结构、流失有益化合物，引入添加剂以及包装的化合物。对美国长达 20 年的健康营养数据分析显示，超加工食品的热量每增加 10%，健康指标就会恶化。食用超加工食品的人体重更高、血糖控制更差、血压更高、胆固醇水平较差。他们更容易患上糖尿病、代谢综合征和癌症，在研究期间有更高的死亡风险。在考虑了超加工食品的营养质量，以及饱和脂肪、添加糖或钠的含量之后，这种关联仍然存在。",
+      "url": "https://www.solidot.org/story?sid=84499",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "View the collection",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
+      "date": "2026-06-05T14:15:11.065Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Gemini models",
+      "url": "https://blog.google/products-and-platforms/products/gemini/",
+      "date": "2026-06-05T14:15:11.065Z",
+      "summary": "",
+      "category": "Products",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Developer tools",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/",
+      "date": "2026-06-05T14:15:11.065Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Global Network",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/",
+      "date": "2026-06-05T14:15:11.065Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "June Android Drop: New personalization and safety features are here Plan outfits in Google Photos, get alerts for fake calls, and share pics with iPhone devices and more.",
+      "url": "https://blog.google/products-and-platforms/platforms/android/android-drop-june-2026/",
+      "date": "2026-06-05T14:15:11.065Z",
+      "summary": "",
+      "category": "Google",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Google Pay",
+      "url": "https://blog.google/products-and-platforms/platforms/google-pay/",
+      "date": "2026-06-05T14:15:11.065Z",
+      "summary": "",
+      "category": "Google",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "The State of AI: A Look at What's Next",
+      "url": "https://every.to/p/the-state-of-ai",
+      "date": "2026-06-05T14:15:01.275Z",
+      "summary": "An in-depth analysis of the current AI landscape and future trends.",
+      "category": "AI Analysis",
+      "source": "Every.to",
+      "source_name": "every"
     },
     {
       "title": "大黄蜂能利用工具解决问题",
@@ -66,69 +210,6 @@
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
-    },
-    {
-      "title": "View the collection",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
-      "date": "2026-06-05T11:18:54.550Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Gemini models",
-      "url": "https://blog.google/products-and-platforms/products/gemini/",
-      "date": "2026-06-05T11:18:54.550Z",
-      "summary": "",
-      "category": "Products",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Developer tools",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/",
-      "date": "2026-06-05T11:18:54.550Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Global Network",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/",
-      "date": "2026-06-05T11:18:54.550Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "June Android Drop: New personalization and safety features are here Plan outfits in Google Photos, get alerts for fake calls, and share pics with iPhone devices and more.",
-      "url": "https://blog.google/products-and-platforms/platforms/android/android-drop-june-2026/",
-      "date": "2026-06-05T11:18:54.550Z",
-      "summary": "",
-      "category": "Google",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Google Pay",
-      "url": "https://blog.google/products-and-platforms/platforms/google-pay/",
-      "date": "2026-06-05T11:18:54.550Z",
-      "summary": "",
-      "category": "Google",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "The State of AI: A Look at What's Next",
-      "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-06-05T11:18:47.753Z",
-      "summary": "An in-depth analysis of the current AI landscape and future trends.",
-      "category": "AI Analysis",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "机器人的 HTTP 请求超过人类",
@@ -149,100 +230,13 @@
       "source_name": "solidot"
     },
     {
-      "title": "Google 寻求在加州和佛州释放数千万只无生育能力的雄蚊",
-      "date": "Fri, 05 Jun 2026 08:30:38 GMT",
-      "summary": "Google 旗下企业 Debug 正寻求政府许可在加利福尼亚州和佛罗里达州释放 3200 万只雄蚊。这些雄蚊携带了沃尔巴克氏体细菌（Wolbachia），会导致细胞质不亲和性，意思是雄蚊的精子无法让野雌蚊的卵子受精。理论上这会导致蚊群数量逐代减少。雄蚊不会叮咬人，只有雌蚊才会，因此 Debug 并没有释放大量吸血昆虫。Debug 正在等待美国环保署的批准，公众意见征询截止日期 6 月 5 日。目前的公众意见显示很多人持有阴谋论观点，声称“人不是实验鼠”。",
-      "url": "https://www.solidot.org/story?sid=84495",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "日本计划 2049 年前重建 2-5 个核电机组",
-      "date": "Fri, 05 Jun 2026 07:42:33 GMT",
-      "summary": "日本政府计划 2049 年之前重建 2-5 个已决定报废的核电机组，2059 年之前增至 11-14 个。其背景是 AI 的普及预计将带动电力需求增长。日本的国家核能政策方针已从 2011 年东京电力福岛第一核电站事故后提出的降低依赖转向最大限度利用。2025 年修改的《能源基本计划》提出了 204 0年度核能占到国内电源构成 2 成的目标。核电站运转期限最长为 60 年，日本部分机组已运行 50 年以上。靠重启现有核电机组已无法实现这一目标，需要进行重建或新建。目前日本国内有 11 座核电站共 24 个机组正在开展报废作业。其中关西电力美滨核电站（福井县）和九州电力川内核电站（鹿儿岛县）被视为重建的热门选项。",
-      "url": "https://www.solidot.org/story?sid=84494",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "rsync 项目争议 AI 辅助编程",
-      "date": "Fri, 05 Jun 2026 07:32:56 GMT",
-      "summary": "广泛使用的备份项目 rsync 最近释出的一个版本导致部分用户增量备份失败，用户在检查代码时发现 rsync 维护者 Andrew Tridgell 最近大量使用 AI 辅助编程，项目有数十个 commits 的作者是 tridge 和 claude——tridge 是 Andrew Tridgell，而 claude 就是 Anthropic 的 AI 助手 Claude。此事立即引发了 AI 生成代码的争议。Tridgell 随后通过个人博客回应了争议，承认近期大量使用 AI 编程，他反驳了批评，称批评者在不了解 AI 工具实际使用情况就妄下结论。他表示自己设计了框架，对 AI 生成的代码进行人工审查，他只是将繁琐的工作交给 AI，称自己是一名有 40 年经验的软件工程师。Tridgell 表示会继续使用 AI 工具。",
-      "url": "https://www.solidot.org/story?sid=84493",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
-      "date": "Fri, 05 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.04037v2 Announce Type: new Abstract: Pre-deployment verification of enterprise artificial intelligence (AI) agents remains a critical gap between large language model (LLM) capability benchmarking and production deployment. Post-deployment monitoring, human-in-the-loop controls, and prompt-level guardrails offer limited assurance once an agent is operating in production. We present an ontology-grounded verification framework -- to our knowledge the first to combine three components: a",
-      "url": "https://arxiv.org/abs/2606.04037",
-      "category": [
-        "cs.AI",
-        "cs.LG",
-        "cs.SE"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Stumbling Into AI Emotional Dependence: How Routine AI Interactions Reshape Human Connection",
-      "date": "Fri, 05 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.04150v1 Announce Type: new Abstract: Public discourse and emerging policy typically assume that AI emotional support is a deliberate act: a lonely user consciously seeking comfort from a dedicated companion chatbot. In this paper, we draw on emerging empirical evidence and argue that this picture is inaccurate on two accounts, both in how AI emotional support arises and how it shapes future behavior. First, AI emotional support commonly emerges incidentally within task-oriented intera",
-      "url": "https://arxiv.org/abs/2606.04150",
-      "category": [
-        "cs.AI",
-        "cs.HC"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Thinking Through Signs: PEEL as a Semiotic Scaffolding for Epistemically Accountable AI-Enabled Research",
-      "date": "Fri, 05 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.04152v1 Announce Type: new Abstract: Large language models are reshaping research practice while quietly eroding researchers epistemic accountability. This commentary introduces PEEL - Protocols for Epistemically Engaged Literacy in AI, a working scaffolding that combines deterministic distant reading via Voyant Tools with LLM interpretation via Claude, grounded in Peircean semiotics and abductive reasoning. Applied to AI-generated condensations of three source texts, PEEL reveals sys",
-      "url": "https://arxiv.org/abs/2606.04152",
-      "category": [
-        "cs.AI",
-        "cs.CY"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "SMAC-Talk: A Natural Language Extension of the StarCraft Multi-Agent Challenge for Large Language Models",
-      "date": "Fri, 05 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.04202v1 Announce Type: new Abstract: As LLMs become more widely deployed, they are increasingly expected to work alongside other AI agents rather than operating in isolation. Effective coordination in these settings requires agents to communicate, share information and make decisions under uncertainty. We introduce SMAC-Talk, a natural language extension of the StarCraft Multi-Agent Challenge for evaluating LLM-based agents in cooperative multi-agent environments. The environment has ",
-      "url": "https://arxiv.org/abs/2606.04202",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Consensus is Strategically Insufficient: Reasoning-Trace Disagreement as a Knowledge-Representation Signal",
-      "date": "Fri, 05 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.04223v1 Announce Type: new Abstract: Multi-agent systems are commonly designed to reduce disagreement through voting, consensus protocols, debate, or fault-tolerant aggregation. We argue that this objective is insufficient for value-laden tasks, where disagreement may reflect genuine normative uncertainty rather than agent error. Building on prior work on reasoning-trace disagreement in human-AI collaborative moderation, we propose a knowledge-representation layer in which reasoning t",
-      "url": "https://arxiv.org/abs/2606.04223",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "VAMPS: Visual-Assisted Mathematical Problem Solving Benchmark",
-      "date": "Fri, 05 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.04244v1 Announce Type: new Abstract: Multimodal large language models are increasingly capable of complex reasoning, yet their performance often degrades when they must externalize a problem through a tool and then reason over the tool's output, specifically when they rely on visual aids. This gap is especially important because real engineering and scientific workflows often rely on visualization tools for analysis, validation, and decision-making. To study this discrepancy, we intro",
-      "url": "https://arxiv.org/abs/2606.04244",
-      "category": [
-        "cs.AI",
-        "cs.CL",
-        "cs.CV",
-        "cs.LG"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
+      "title": "How Startups Are Using AI to Disrupt Industries",
+      "url": "https://every.to/source-code/ai-startups",
+      "date": "2026-06-04T14:15:01.275Z",
+      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
+      "category": "Source Code",
+      "source": "Every.to",
+      "source_name": "every"
     },
     {
       "title": "How Endava is redesigning software delivery around AI agents",
@@ -252,15 +246,6 @@
       "category": "",
       "source": "OpenAI News",
       "source_name": "openai"
-    },
-    {
-      "title": "How Startups Are Using AI to Disrupt Industries",
-      "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-06-04T11:18:47.753Z",
-      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
-      "category": "Source Code",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "Dreaming: Better memory for a more helpful ChatGPT",
@@ -281,6 +266,15 @@
       "source_name": "openai"
     },
     {
+      "title": "The Future of Work in an AI-Driven World",
+      "url": "https://every.to/context-window/future-of-work",
+      "date": "2026-06-03T14:15:01.275Z",
+      "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
       "title": "Introducing new capabilities to GPT-Rosalind",
       "date": "Wed, 03 Jun 2026 13:15:00 GMT",
       "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
@@ -299,19 +293,10 @@
       "source_name": "openai"
     },
     {
-      "title": "The Future of Work in an AI-Driven World",
-      "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-06-03T11:18:47.753Z",
-      "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "A blueprint for democratic governance of frontier AI",
+      "title": "OpenAI public policy agenda",
       "date": "Wed, 03 Jun 2026 10:00:00 GMT",
-      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
-      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+      "url": "https://openai.com/index/public-policy-agenda",
       "category": "Global Affairs",
       "source": "OpenAI News",
       "source_name": "openai"
@@ -319,7 +304,7 @@
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-06-02T11:18:47.753Z",
+      "date": "2026-06-02T14:15:01.275Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
@@ -328,7 +313,7 @@
     {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-06-01T11:18:47.753Z",
+      "date": "2026-06-01T14:15:01.275Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -337,7 +322,7 @@
     {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-05-31T11:18:47.753Z",
+      "date": "2026-05-31T14:15:01.275Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",

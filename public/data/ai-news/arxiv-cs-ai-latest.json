@@ -1,64 +1,49 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-06-05T14:15:02.132Z",
+  "fetch_time": "2026-06-06T04:00:48.548Z",
   "articles": [
     {
-      "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
-      "date": "Fri, 05 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.04037v2 Announce Type: new Abstract: Pre-deployment verification of enterprise artificial intelligence (AI) agents remains a critical gap between large language model (LLM) capability benchmarking and production deployment. Post-deployment monitoring, human-in-the-loop controls, and prompt-level guardrails offer limited assurance once an agent is operating in production. We present an ontology-grounded verification framework -- to our knowledge the first to combine three components: a",
-      "url": "https://arxiv.org/abs/2606.04037",
-      "category": [
-        "cs.AI",
-        "cs.LG",
-        "cs.SE"
-      ]
-    },
-    {
-      "title": "Stumbling Into AI Emotional Dependence: How Routine AI Interactions Reshape Human Connection",
-      "date": "Fri, 05 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.04150v1 Announce Type: new Abstract: Public discourse and emerging policy typically assume that AI emotional support is a deliberate act: a lonely user consciously seeking comfort from a dedicated companion chatbot. In this paper, we draw on emerging empirical evidence and argue that this picture is inaccurate on two accounts, both in how AI emotional support arises and how it shapes future behavior. First, AI emotional support commonly emerges incidentally within task-oriented intera",
-      "url": "https://arxiv.org/abs/2606.04150",
-      "category": [
-        "cs.AI",
-        "cs.HC"
-      ]
-    },
-    {
-      "title": "Thinking Through Signs: PEEL as a Semiotic Scaffolding for Epistemically Accountable AI-Enabled Research",
-      "date": "Fri, 05 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.04152v1 Announce Type: new Abstract: Large language models are reshaping research practice while quietly eroding researchers epistemic accountability. This commentary introduces PEEL - Protocols for Epistemically Engaged Literacy in AI, a working scaffolding that combines deterministic distant reading via Voyant Tools with LLM interpretation via Claude, grounded in Peircean semiotics and abductive reasoning. Applied to AI-generated condensations of three source texts, PEEL reveals sys",
-      "url": "https://arxiv.org/abs/2606.04152",
-      "category": [
-        "cs.AI",
-        "cs.CY"
-      ]
-    },
-    {
-      "title": "SMAC-Talk: A Natural Language Extension of the StarCraft Multi-Agent Challenge for Large Language Models",
-      "date": "Fri, 05 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.04202v1 Announce Type: new Abstract: As LLMs become more widely deployed, they are increasingly expected to work alongside other AI agents rather than operating in isolation. Effective coordination in these settings requires agents to communicate, share information and make decisions under uncertainty. We introduce SMAC-Talk, a natural language extension of the StarCraft Multi-Agent Challenge for evaluating LLM-based agents in cooperative multi-agent environments. The environment has ",
-      "url": "https://arxiv.org/abs/2606.04202",
+      "title": "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment",
+      "date": "Sat, 06 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.05256v1 Announce Type: new Abstract: This study analyzes a publicly released dataset from a discontinued field experiment on Reddit's r/ChangeMyView. The intervention, conducted by unknown, external researchers and halted following ethical backlash, involved undisclosed AI-generated accounts engaging users in live debate. After public disclosure, Reddit authorized moderators to release an archive of the AI-generated comments, creating a rare opportunity to examine how large language m",
+      "url": "https://arxiv.org/abs/2606.05256",
       "category": "cs.AI"
     },
     {
-      "title": "Consensus is Strategically Insufficient: Reasoning-Trace Disagreement as a Knowledge-Representation Signal",
-      "date": "Fri, 05 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.04223v1 Announce Type: new Abstract: Multi-agent systems are commonly designed to reduce disagreement through voting, consensus protocols, debate, or fault-tolerant aggregation. We argue that this objective is insufficient for value-laden tasks, where disagreement may reflect genuine normative uncertainty rather than agent error. Building on prior work on reasoning-trace disagreement in human-AI collaborative moderation, we propose a knowledge-representation layer in which reasoning t",
-      "url": "https://arxiv.org/abs/2606.04223",
+      "title": "What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems",
+      "date": "Sat, 06 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.05304v1 Announce Type: new Abstract: Multi-agent systems (MAS) built on large language models are typically organized around roles, pipelines, and turn schedules, while the content that agents pass to one another is often left as unconstrained natural language. However, this free-form communication can rapidly inflate token usage, consume the shared context window, and ultimately affect both system performance and inference cost. We analyze five common inter-agent communication strate",
+      "url": "https://arxiv.org/abs/2606.05304",
       "category": "cs.AI"
     },
     {
-      "title": "VAMPS: Visual-Assisted Mathematical Problem Solving Benchmark",
-      "date": "Fri, 05 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.04244v1 Announce Type: new Abstract: Multimodal large language models are increasingly capable of complex reasoning, yet their performance often degrades when they must externalize a problem through a tool and then reason over the tool's output, specifically when they rely on visual aids. This gap is especially important because real engineering and scientific workflows often rely on visualization tools for analysis, validation, and decision-making. To study this discrepancy, we intro",
-      "url": "https://arxiv.org/abs/2606.04244",
-      "category": [
-        "cs.AI",
-        "cs.CL",
-        "cs.CV",
-        "cs.LG"
-      ]
+      "title": "I Know What You Meme, Even If it Emerged Today: Understanding Evolving Memes through Open-World Knowledge Acquisition",
+      "date": "Sat, 06 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.05316v1 Announce Type: new Abstract: Multimodal memes are dynamic and often require up to date background knowledge for interpretation. Existing methods often overlook such knowledge or rely on fixed parametric knowledge of pretrained models that may be incomplete, outdated, or unavailable for emerging memes. We introduce Query Retrieve Conclude, a zero shot framework that identifies missing knowledge, retrieves open web evidence, and synthesizes evidence grounded background knowledge",
+      "url": "https://arxiv.org/abs/2606.05316",
+      "category": "cs.AI"
+    },
+    {
+      "title": "GITCO: Gated Inference-Time Context Optimization in TSFMs",
+      "date": "Sat, 06 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.05332v1 Announce Type: new Abstract: Patch-based Time Series Foundation Models (TSFMs) suffer from context poisoning: structurally anomalous patches capture disproportionate attention and silently degrade zero-shot forecast quality. We propose improving TSFM accuracy at inference time by optimizing the input context rather than modifying model weights. We present GITCO (Gated Inference-Time Context Optimization), a lightweight three-component framework: Gate, Router, and Critic that s",
+      "url": "https://arxiv.org/abs/2606.05332",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Uncertainty Aware Functional Behavior Prediction and Material Fatigue Assessment for Circular Factory",
+      "date": "Sat, 06 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.05334v1 Announce Type: new Abstract: Returned products in circular factories re-enter production with heterogeneous degradation states, usage histories, and remaining capability. Reuse cannot be decided from the current inspection alone, because future function fulfillment and component integrity may evolve differently under the next service scenario. Existing PHM approaches support degradation prediction, but often target fixed operating conditions or isolated component benchmarks, w",
+      "url": "https://arxiv.org/abs/2606.05334",
+      "category": "cs.AI"
+    },
+    {
+      "title": "SentinelBench: A Benchmark for Long-Running Monitoring Agents",
+      "date": "Sat, 06 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.05342v1 Announce Type: new Abstract: AI agents are increasingly asked to carry out work that spans minutes, hours, or longer. Yet the default model of agent behavior is continuous action: issuing tool calls, refreshing pages, searching for alternatives, or otherwise trying to force progress. This is the wrong approach for many long-running tasks, which are better served by a strategy of sustained attention. Instead, agents should monitor an environment, notice when an external event m",
+      "url": "https://arxiv.org/abs/2606.05342",
+      "category": "cs.AI"
     }
   ],
   "status": "success",

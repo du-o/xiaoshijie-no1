@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-06-05T14:15:19.805Z",
+  "fetch_time": "2026-06-06T04:01:07.142Z",
   "articles": [
+    {
+      "title": "openclaw 2026.6.5-beta.1",
+      "date": "2026-06-06T03:36:51Z",
+      "summary": "## 2026.6.5\n\n### Highlights\n\n- QQBot now strips model reasoning/thinking scaffolding before native delivery, preventing raw `<thinking>` content from leaking into channel replies. (#89913, #90132) Tha...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.5-beta.1",
+      "category": "Release",
+      "author": "vincentkoc",
+      "tagName": "v2026.6.5-beta.1",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.6.2-beta.1",
       "date": "2026-06-03T23:46:41Z",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.6.1",
-      "downloadCount": 20426
+      "downloadCount": 25081
     },
     {
       "title": "openclaw 2026.6.1-beta.3",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.6.1-beta.3",
-      "downloadCount": 52
+      "downloadCount": 55
     },
     {
       "title": "openclaw 2026.6.1-beta.2",
@@ -52,16 +62,6 @@
       "author": "steipete",
       "tagName": "v2026.6.1-beta.1",
       "downloadCount": 31
-    },
-    {
-      "title": "openclaw 2026.5.31-beta.4",
-      "date": "2026-06-01T02:04:59Z",
-      "summary": "## 2026.5.31\n\n### Highlights\n\n- Agents and CLI-backed runtimes recover more cleanly from interrupted tool calls, stale session bindings, compaction handoffs, and media delivery retries. (#88129, #8813...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.5.31-beta.4",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.5.31-beta.4",
-      "downloadCount": 0
     }
   ],
   "status": "success",
