@@ -1,51 +1,8 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-06-06T13:00:26.437Z",
-  "articles": [
-    {
-      "title": "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment",
-      "date": "Sat, 06 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.05256v1 Announce Type: new Abstract: This study analyzes a publicly released dataset from a discontinued field experiment on Reddit's r/ChangeMyView. The intervention, conducted by unknown, external researchers and halted following ethical backlash, involved undisclosed AI-generated accounts engaging users in live debate. After public disclosure, Reddit authorized moderators to release an archive of the AI-generated comments, creating a rare opportunity to examine how large language m",
-      "url": "https://arxiv.org/abs/2606.05256",
-      "category": "cs.AI"
-    },
-    {
-      "title": "What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems",
-      "date": "Sat, 06 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.05304v1 Announce Type: new Abstract: Multi-agent systems (MAS) built on large language models are typically organized around roles, pipelines, and turn schedules, while the content that agents pass to one another is often left as unconstrained natural language. However, this free-form communication can rapidly inflate token usage, consume the shared context window, and ultimately affect both system performance and inference cost. We analyze five common inter-agent communication strate",
-      "url": "https://arxiv.org/abs/2606.05304",
-      "category": "cs.AI"
-    },
-    {
-      "title": "I Know What You Meme, Even If it Emerged Today: Understanding Evolving Memes through Open-World Knowledge Acquisition",
-      "date": "Sat, 06 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.05316v1 Announce Type: new Abstract: Multimodal memes are dynamic and often require up to date background knowledge for interpretation. Existing methods often overlook such knowledge or rely on fixed parametric knowledge of pretrained models that may be incomplete, outdated, or unavailable for emerging memes. We introduce Query Retrieve Conclude, a zero shot framework that identifies missing knowledge, retrieves open web evidence, and synthesizes evidence grounded background knowledge",
-      "url": "https://arxiv.org/abs/2606.05316",
-      "category": "cs.AI"
-    },
-    {
-      "title": "GITCO: Gated Inference-Time Context Optimization in TSFMs",
-      "date": "Sat, 06 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.05332v1 Announce Type: new Abstract: Patch-based Time Series Foundation Models (TSFMs) suffer from context poisoning: structurally anomalous patches capture disproportionate attention and silently degrade zero-shot forecast quality. We propose improving TSFM accuracy at inference time by optimizing the input context rather than modifying model weights. We present GITCO (Gated Inference-Time Context Optimization), a lightweight three-component framework: Gate, Router, and Critic that s",
-      "url": "https://arxiv.org/abs/2606.05332",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Uncertainty Aware Functional Behavior Prediction and Material Fatigue Assessment for Circular Factory",
-      "date": "Sat, 06 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.05334v1 Announce Type: new Abstract: Returned products in circular factories re-enter production with heterogeneous degradation states, usage histories, and remaining capability. Reuse cannot be decided from the current inspection alone, because future function fulfillment and component integrity may evolve differently under the next service scenario. Existing PHM approaches support degradation prediction, but often target fixed operating conditions or isolated component benchmarks, w",
-      "url": "https://arxiv.org/abs/2606.05334",
-      "category": "cs.AI"
-    },
-    {
-      "title": "SentinelBench: A Benchmark for Long-Running Monitoring Agents",
-      "date": "Sat, 06 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.05342v1 Announce Type: new Abstract: AI agents are increasingly asked to carry out work that spans minutes, hours, or longer. Yet the default model of agent behavior is continuous action: issuing tool calls, refreshing pages, searching for alternatives, or otherwise trying to force progress. This is the wrong approach for many long-running tasks, which are better served by a strategy of sustained attention. Instead, agents should monitor an environment, notice when an external event m",
-      "url": "https://arxiv.org/abs/2606.05342",
-      "category": "cs.AI"
-    }
-  ],
+  "fetch_time": "2026-06-07T04:27:15.471Z",
+  "articles": [],
   "status": "success",
   "error": null
 }
