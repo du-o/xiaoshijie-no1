@@ -1,8 +1,71 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-06-07T13:12:33.113Z",
-  "articles": [],
+  "fetch_time": "2026-06-08T04:43:02.569Z",
+  "articles": [
+    {
+      "title": "Detecting and Mitigating Bias by Treating Fairness as a Symmetry Operation",
+      "date": "Mon, 08 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.06514v1 Announce Type: new Abstract: Machine learning systems deployed in high stakes socioeconomic settings routinely display bias. We formalize bias as a symmetry breaking operation: a classifier is fair if its outputs remain invariant under the counterfactual operation of switching a sensitive attribute, with merit features held fixed. We implement loss based regularization as a symmetry restoring mechanism and evaluate the framework on four synthetic datasets with varying levels o",
+      "url": "https://arxiv.org/abs/2606.06514",
+      "category": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "DiBS: Diffusion-Informed Branch Selection",
+      "date": "Mon, 08 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.06518v1 Announce Type: new Abstract: Sudoku is a representative constraint satisfaction problem that requires global structural reasoning under strict discrete constraints. The existing works of solving Sudoku mainly focus on two dominant approaches, i.e., traditional heuristic and deep learning solver. However, they suffer from two complementary limitations: learning-based solvers lack hard correctness guarantees, while complete symbolic solvers are still prone to long-tail search. T",
+      "url": "https://arxiv.org/abs/2606.06518",
+      "category": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "SafeGene: Reusable Adapters for Transferable Safety Alignment",
+      "date": "Mon, 08 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.06519v1 Announce Type: new Abstract: Open-weight LLMs are increasingly fine-tuned into customized assistants, but downstream fine-tuning can weaken safety alignment and make models more vulnerable to malicious prompts, even when the training data is not intentionally harmful. This creates a recurring safety recovery problem as target models are repeatedly updated with new task data or user interactions. We propose SafeGene, a reusable safety-adapter module designed for cross-task reus",
+      "url": "https://arxiv.org/abs/2606.06519",
+      "category": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory",
+      "date": "Mon, 08 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.06523v1 Announce Type: new Abstract: Equipping Large Language Models (LLMs) to execute reliable multi-step workflows has become a central challenge in artificial intelligence. Despite recent advances in LLMs' agentic capabilities, most agent systems still lack formal methods for specifying, verifying, and debugging their workflow and execution trajectories. This challenge mirrors a long-standing problem in mathematics, where the ambiguity of natural languages (NLs) motivates the devel",
+      "url": "https://arxiv.org/abs/2606.06523",
+      "category": [
+        "cs.AI",
+        "cs.LG",
+        "cs.LO",
+        "cs.SE"
+      ]
+    },
+    {
+      "title": "CrowdMath: A Dataset of Crowdsourced Mathematical Research Discussions",
+      "date": "Mon, 08 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.06526v1 Announce Type: new Abstract: Large language models have made substantial progress on mathematical reasoning, but existing benchmarks typically evaluate well-specified problems with final answers, step-by-step solutions, or complete proofs. They do not capture collaborative open-problem solving: a setting in which participants propose partial arguments, identify gaps or errors in prior steps, repair flawed reasoning, and gradually synthesize incremental contributions into a pro",
+      "url": "https://arxiv.org/abs/2606.06526",
+      "category": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "Attack Selection in Agentic AI Control Evaluations Meaningfully Decreases Safety",
+      "date": "Mon, 08 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.06529v1 Announce Type: new Abstract: An attacker that strategically chooses when to attack is much harder to catch than one that attacks indiscriminately. AI control is a safety framework for deploying capable but untrusted AI agents under the oversight of a weaker, trusted monitor and a limited human audit budget. Control evaluations stress-test these protocols by pitting a red-team attack policy against the blue-team monitor, but current evaluations typically assume attackers that d",
+      "url": "https://arxiv.org/abs/2606.06529",
+      "category": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    }
+  ],
   "status": "success",
   "error": null
 }
