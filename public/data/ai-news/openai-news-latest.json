@@ -1,8 +1,29 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-06-08T15:19:39.538Z",
+  "fetch_time": "2026-06-09T04:04:22.701Z",
   "articles": [
+    {
+      "title": "Confidential submission of draft S-1 to the SEC",
+      "date": "Mon, 08 Jun 2026 14:00:00 GMT",
+      "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1",
+      "category": "Company"
+    },
+    {
+      "title": "Built to benefit everyone: our plan",
+      "date": "Mon, 08 Jun 2026 01:30:00 GMT",
+      "summary": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
+      "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+      "category": "Company"
+    },
+    {
+      "title": "Introducing the OpenAI Economic Research Exchange",
+      "date": "Mon, 08 Jun 2026 00:00:00 GMT",
+      "summary": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
+      "url": "https://openai.com/index/economic-research-exchange",
+      "category": "Company"
+    },
     {
       "title": "How Endava is redesigning software delivery around AI agents",
       "date": "Thu, 04 Jun 2026 12:00:00 GMT",
@@ -22,27 +43,6 @@
       "date": "Thu, 04 Jun 2026 00:00:00 GMT",
       "summary": "An action plan for AI-powered biological resilience",
       "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
-      "category": "Global Affairs"
-    },
-    {
-      "title": "Introducing new capabilities to GPT-Rosalind",
-      "date": "Wed, 03 Jun 2026 13:15:00 GMT",
-      "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
-      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-      "category": "Product"
-    },
-    {
-      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
-      "date": "Wed, 03 Jun 2026 12:00:00 GMT",
-      "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
-      "url": "https://openai.com/index/wasmer",
-      "category": ""
-    },
-    {
-      "title": "OpenAI public policy agenda",
-      "date": "Wed, 03 Jun 2026 10:00:00 GMT",
-      "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
-      "url": "https://openai.com/index/public-policy-agenda",
       "category": "Global Affairs"
     }
   ],
