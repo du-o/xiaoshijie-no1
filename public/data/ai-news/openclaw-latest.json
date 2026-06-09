@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-06-09T07:45:50.653Z",
+  "fetch_time": "2026-06-09T10:53:05.230Z",
   "articles": [
+    {
+      "title": "openclaw 2026.6.5-beta.6",
+      "date": "2026-06-09T08:43:04Z",
+      "summary": "\n### Highlights\n\n- QQBot now strips model reasoning/thinking scaffolding before native delivery, preventing raw `<thinking>` content from leaking into channel replies. (#89913, #90132) Thanks @openper...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.5-beta.6",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.6.5-beta.6",
+      "downloadCount": 12
+    },
     {
       "title": "openclaw 2026.6.5-beta.5",
       "date": "2026-06-08T22:49:14Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.6.5-beta.5",
-      "downloadCount": 29
+      "downloadCount": 34
     },
     {
       "title": "OpenClaw 2026.6.5-beta.3",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "vincentkoc",
       "tagName": "v2026.6.5-beta.3",
-      "downloadCount": 12
+      "downloadCount": 14
     },
     {
       "title": "openclaw 2026.6.5-beta.2",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.6.5-beta.2",
-      "downloadCount": 404
+      "downloadCount": 413
     },
     {
       "title": "openclaw 2026.6.5-beta.1",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "vincentkoc",
       "tagName": "v2026.6.5-beta.1",
-      "downloadCount": 232
+      "downloadCount": 233
     },
     {
       "title": "openclaw 2026.6.2-beta.1",
@@ -52,16 +62,6 @@
       "author": "steipete",
       "tagName": "v2026.6.2-beta.1",
       "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.6.1",
-      "date": "2026-06-03T19:35:12Z",
-      "summary": "\n### Highlights\n\n- Agents and CLI-backed runtimes recover more cleanly from interrupted tool calls, stale session bindings, compaction handoffs, and media delivery retries. (#88129, #88136, #88141, #8...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.1",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.6.1",
-      "downloadCount": 30619
     }
   ],
   "status": "success",
