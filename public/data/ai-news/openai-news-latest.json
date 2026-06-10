@@ -1,8 +1,29 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-06-09T14:11:55.948Z",
+  "fetch_time": "2026-06-10T04:15:32.773Z",
   "articles": [
+    {
+      "title": "How engineers at Nextdoor use Codex to build without limits",
+      "date": "Tue, 09 Jun 2026 12:00:00 GMT",
+      "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
+      "url": "https://openai.com/index/nextdoor",
+      "category": ""
+    },
+    {
+      "title": "What Codex unlocks for Notion",
+      "date": "Tue, 09 Jun 2026 10:00:00 GMT",
+      "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
+      "url": "https://openai.com/index/notion",
+      "category": ""
+    },
+    {
+      "title": "Industrial policy for the Intelligence Age",
+      "date": "Tue, 09 Jun 2026 00:00:00 GMT",
+      "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
+      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+      "category": "Global Affairs"
+    },
     {
       "title": "Confidential submission of draft S-1 to the SEC",
       "date": "Mon, 08 Jun 2026 14:00:00 GMT",
@@ -23,27 +44,6 @@
       "summary": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
       "url": "https://openai.com/index/economic-research-exchange",
       "category": "Company"
-    },
-    {
-      "title": "How Endava is redesigning software delivery around AI agents",
-      "date": "Thu, 04 Jun 2026 12:00:00 GMT",
-      "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
-      "url": "https://openai.com/index/endava-frontiers",
-      "category": ""
-    },
-    {
-      "title": "Dreaming: Better memory for a more helpful ChatGPT",
-      "date": "Thu, 04 Jun 2026 09:00:00 GMT",
-      "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
-      "url": "https://openai.com/index/chatgpt-memory-dreaming",
-      "category": "Research"
-    },
-    {
-      "title": "Biodefense in the Intelligence Age",
-      "date": "Thu, 04 Jun 2026 00:00:00 GMT",
-      "summary": "An action plan for AI-powered biological resilience",
-      "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
-      "category": "Global Affairs"
     }
   ],
   "status": "success",

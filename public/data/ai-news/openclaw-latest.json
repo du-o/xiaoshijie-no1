@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-06-09T14:12:20.355Z",
+  "fetch_time": "2026-06-10T04:15:54.777Z",
   "articles": [
+    {
+      "title": "openclaw 2026.6.5",
+      "date": "2026-06-09T18:13:20Z",
+      "summary": "\n### Highlights\n\n- QQBot now strips model reasoning/thinking scaffolding before native delivery, preventing raw `<thinking>` content from leaking into channel replies. (#89913, #90132) Thanks @openper...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.5",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.6.5",
+      "downloadCount": 3596
+    },
     {
       "title": "openclaw 2026.6.5-beta.6",
       "date": "2026-06-09T08:43:04Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.6.5-beta.6",
-      "downloadCount": 30
+      "downloadCount": 38
     },
     {
       "title": "openclaw 2026.6.5-beta.5",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.6.5-beta.5",
-      "downloadCount": 36
+      "downloadCount": 37
     },
     {
       "title": "OpenClaw 2026.6.5-beta.3",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "vincentkoc",
       "tagName": "v2026.6.5-beta.3",
-      "downloadCount": 14
+      "downloadCount": 16
     },
     {
       "title": "openclaw 2026.6.5-beta.2",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.6.5-beta.2",
-      "downloadCount": 413
+      "downloadCount": 417
     },
     {
       "title": "openclaw 2026.6.5-beta.1",
@@ -51,17 +61,7 @@
       "category": "Release",
       "author": "vincentkoc",
       "tagName": "v2026.6.5-beta.1",
-      "downloadCount": 233
-    },
-    {
-      "title": "openclaw 2026.6.2-beta.1",
-      "date": "2026-06-03T23:46:41Z",
-      "summary": "## 2026.6.2\n\n### Highlights\n\n- Plugin and skill installs now use an operator install policy instead of the old dangerous-code scanner path, with clearer doctor, CLI, ClawHub, and troubleshooting surfa...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.2-beta.1",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.6.2-beta.1",
-      "downloadCount": 0
+      "downloadCount": 234
     }
   ],
   "status": "success",
