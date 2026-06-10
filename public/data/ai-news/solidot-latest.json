@@ -1,8 +1,22 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-06-10T04:15:38.772Z",
+  "fetch_time": "2026-06-10T08:06:32.583Z",
   "articles": [
+    {
+      "title": "Google Chrome 准备移除对 Manifest V2 的支持，杀死 uBlock Origin ",
+      "date": "Wed, 10 Jun 2026 07:39:31 GMT",
+      "summary": "Google Chrome 准备完全移除对 Manifest V2 的支持，彻底杀死 uBlock Origin。Chrome 将只支持 Manifest v3 扩展，开发者声称 Chrome 默认禁用 Manifest V2 扩展已有一年多时间，继续支持相关功能存在技术上的挑战，Chrome 未来发布的版本将逐步移除 Manifest V2 相关功能，最终彻底将其移除：Chromium 150 移除 ExtensionManifestV2Disabled 选项，Chromium 151 将移除 ExtensionManifestV2Unsupported 选项，Chromium 151 将移除 ExtensionManifestV2Availability 选项，Chromium 151 预计将移除 AllowLegacyMV2Extensions 选项。基于 Chromium 的浏览器预计将会跟随，主要浏览器开发商中 Mozilla 公开声明会继续支持 Manifest v2 扩展。流行的广告屏蔽扩展 uBlock Origin 基于 Manifest V2，想要继续使用该扩展的用",
+      "url": "https://www.solidot.org/story?sid=84536",
+      "category": ""
+    },
+    {
+      "title": "NASA 公布了 Artemis III 任务宇航员名单",
+      "date": "Wed, 10 Jun 2026 07:03:26 GMT",
+      "summary": "NASA 公布了 Artemis III 任务的四名宇航员名单，他们都是男性且都有军事背景：NASA 宇航员 Randy Bresnik（担任指令长），Andre Douglas 和 Frank Rubio（任务专家），以及 ESA 宇航员 Luca Parmitano（飞行员）。Artemis 登月任务目前共执行了两次，第一次是无人绕月飞行，第二次是载人绕月飞行，第三次也就是 Artemis III 计划最早于 2027 年夏季执行，仍然是一次载人绕月飞行，第四次任务计划在 2028 年进行，这将是阿波罗登月任务以来的首次载人登月。",
+      "url": "https://www.solidot.org/story?sid=84535",
+      "category": ""
+    },
     {
       "title": "Donut Lab 的全固态电池被认为就是普通锂离子电池",
       "date": "Tue, 09 Jun 2026 15:43:23 GMT",
@@ -29,20 +43,6 @@
       "date": "Tue, 09 Jun 2026 10:25:29 GMT",
       "summary": "最新发布的《世界海洋评估》报告警告，气候变化、污染、过度开发等多重压力正在持续削弱海洋健康，而海洋的未来与人类的未来紧密相连。报告指出，即便远离海岸，海洋依然深刻影响着每个人的生活。海洋吸收了地球大部分额外热量和温室气体，在减缓气候变化方面发挥关键作用。海洋还为全球数十亿人口提供食物、氧气和药物资源，并支撑着全球贸易、旅游业和大量就业岗位。报告强调，海洋环境恶化不仅会影响沿海地区，还将波及粮食安全、供应链稳定以及全球经济发展。评估显示，海洋变暖和海平面上升正在加速。由于冰盖融化和海水热膨胀，全球海平面上升速度已从 2015 年前每年最高 1.9 毫米增加到 2023 年的 4.3 毫米。北极升温速度达到全球平均水平的四倍。与此同时，海洋缺氧区面积已扩大至约 450 万平方公里，大量海洋生物生存空间受到挤压。自 1970 年代以来，加勒比地区约 80% 的珊瑚礁已经消失。如果全球升温超过工业化前水平 1.5 摄氏度，全球 90% 的珊瑚礁可能面临消失风险。报告显示，每年约有 5200 万吨塑料垃圾进入海洋，形成约 24 万亿个微塑料颗粒，已影响 4000 多种海洋生物。",
       "url": "https://www.solidot.org/story?sid=84531",
-      "category": ""
-    },
-    {
-      "title": "微软开源工具被植入窃取凭证的恶意代码",
-      "date": "Tue, 09 Jun 2026 09:51:25 GMT",
-      "summary": "微软下线了数十个托管在 GitHub 上的开源项目，原因是安全公司发现这些项目被入侵植入了窃取密码等敏感凭证的恶意代码。微软在一份声明中表示，它正对此展开调查，部分下线的项目在审核之后已恢复上线，作为调查的一部分，它通知了下载受影响项目的一小部分用户。调查显示，至少 73 个项目受到影响。这是过去一个月微软第二次开源项目库遭到入侵。",
-      "url": "https://www.solidot.org/story?sid=84530",
-      "category": ""
-    },
-    {
-      "title": "世界杯可能有 97 场比赛受高温影响",
-      "date": "Tue, 09 Jun 2026 08:35:23 GMT",
-      "summary": "气候中心（Climate Central）发布分析结果称，美加墨世界杯比赛将遭遇全球变暖带来的高温天气，球员表现受到负面影响的可能性升高。此次世界杯将在 16 个场馆共举行 104 场比赛，其中 97 场比赛可能出现导致恢复能力等下降的炎热天气。不仅球员的健康风险上升，比赛的质量也可能受到影响。本届世界杯由美国、墨西哥、加拿大共同主办，赛程为当地时间 6 月 11 日至 7 月 19 日。基于以往数据对赛事期间气温的预测显示，有较高概率在 97 场比赛中出现超过 28 度的气温。此前研究指出，超过 28 度会对球员的跑动速度、距离与恢复时间产生影响，也会影响到战术和比赛风格。",
-      "url": "https://www.solidot.org/story?sid=84529",
       "category": ""
     }
   ],
