@@ -1,7 +1,7 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-06-11T04:28:29.917Z",
+  "fetch_time": "2026-06-11T08:46:01.433Z",
   "articles": [
     {
       "title": "How an astrophysicist uses Codex to help simulate black holes",
@@ -9,6 +9,13 @@
       "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
       "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
       "category": "Applied AI"
+    },
+    {
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem ",
+      "date": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "category": "Global Affairs"
     },
     {
       "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
@@ -36,13 +43,6 @@
       "date": "Tue, 09 Jun 2026 12:00:00 GMT",
       "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
       "url": "https://openai.com/index/nextdoor",
-      "category": ""
-    },
-    {
-      "title": "What Codex unlocks for Notion",
-      "date": "Tue, 09 Jun 2026 10:00:00 GMT",
-      "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
-      "url": "https://openai.com/index/notion",
       "category": ""
     }
   ],
