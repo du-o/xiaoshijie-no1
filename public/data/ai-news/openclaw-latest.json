@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-06-10T14:44:05.334Z",
+  "fetch_time": "2026-06-11T04:28:54.736Z",
   "articles": [
+    {
+      "title": "OpenClaw 2026.6.6-beta.1",
+      "date": "2026-06-10T19:33:39Z",
+      "summary": "## 2026.6.6\n\n### Highlights\n\n- Security boundaries are substantially tighter across transcripts, sandbox binds, host environment inheritance, MCP stdio, Codex HTTP access, native search policy, elevat...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.6-beta.1",
+      "category": "Release",
+      "author": "vincentkoc",
+      "tagName": "v2026.6.6-beta.1",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.6.5",
       "date": "2026-06-09T18:13:20Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.6.5",
-      "downloadCount": 9233
+      "downloadCount": 13618
     },
     {
       "title": "openclaw 2026.6.5-beta.6",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.6.5-beta.6",
-      "downloadCount": 43
+      "downloadCount": 44
     },
     {
       "title": "openclaw 2026.6.5-beta.5",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "vincentkoc",
       "tagName": "v2026.6.5-beta.3",
-      "downloadCount": 16
+      "downloadCount": 17
     },
     {
       "title": "openclaw 2026.6.5-beta.2",
@@ -52,16 +62,6 @@
       "author": "github-actions[bot]",
       "tagName": "v2026.6.5-beta.2",
       "downloadCount": 418
-    },
-    {
-      "title": "openclaw 2026.6.5-beta.1",
-      "date": "2026-06-06T03:36:51Z",
-      "summary": "## 2026.6.5\n\n### Highlights\n\n- QQBot now strips model reasoning/thinking scaffolding before native delivery, preventing raw `<thinking>` content from leaking into channel replies. (#89913, #90132) Tha...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.5-beta.1",
-      "category": "Release",
-      "author": "vincentkoc",
-      "tagName": "v2026.6.5-beta.1",
-      "downloadCount": 241
     }
   ],
   "status": "success",
