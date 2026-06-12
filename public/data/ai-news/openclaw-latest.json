@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-06-11T15:25:23.656Z",
+  "fetch_time": "2026-06-12T04:41:04.680Z",
   "articles": [
+    {
+      "title": "openclaw 2026.6.6-beta.2",
+      "date": "2026-06-12T03:32:42Z",
+      "summary": "\n### Highlights\n\n- Security boundaries are substantially tighter across transcripts, sandbox binds, host environment inheritance, MCP stdio, Codex HTTP access, native search policy, elevated sender ch...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.6-beta.2",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.6.6-beta.2",
+      "downloadCount": 4
+    },
     {
       "title": "OpenClaw 2026.6.6-beta.1",
       "date": "2026-06-10T19:33:39Z",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.6.5",
-      "downloadCount": 18102
+      "downloadCount": 21657
     },
     {
       "title": "openclaw 2026.6.5-beta.6",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.6.5-beta.6",
-      "downloadCount": 44
+      "downloadCount": 45
     },
     {
       "title": "openclaw 2026.6.5-beta.5",
@@ -52,16 +62,6 @@
       "author": "vincentkoc",
       "tagName": "v2026.6.5-beta.3",
       "downloadCount": 17
-    },
-    {
-      "title": "openclaw 2026.6.5-beta.2",
-      "date": "2026-06-07T00:26:39Z",
-      "summary": "\n### Highlights\n\n- QQBot now strips model reasoning/thinking scaffolding before native delivery, preventing raw `<thinking>` content from leaking into channel replies. (#89913, #90132) Thanks @openper...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.5-beta.2",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.6.5-beta.2",
-      "downloadCount": 418
     }
   ],
   "status": "success",

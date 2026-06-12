@@ -1,8 +1,22 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-06-11T15:25:08.648Z",
+  "fetch_time": "2026-06-12T04:40:48.535Z",
   "articles": [
+    {
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "date": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "category": "Applied AI"
+    },
+    {
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "date": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "url": "https://openai.com/index/bbva",
+      "category": ""
+    },
     {
       "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem ",
       "date": "Thu, 11 Jun 2026 00:00:00 GMT",
@@ -11,11 +25,11 @@
       "category": "Global Affairs"
     },
     {
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "title": "OpenAI to acquire Ona",
       "date": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "category": "Applied AI"
+      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "category": "Company"
     },
     {
       "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
@@ -30,20 +44,6 @@
       "summary": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about ChatGPT.",
       "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
       "category": "Global Affairs"
-    },
-    {
-      "title": "From data to decisions: how LSEG is scaling trusted AI",
-      "date": "Wed, 10 Jun 2026 00:00:00 GMT",
-      "summary": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
-      "url": "https://openai.com/index/lseg",
-      "category": ""
-    },
-    {
-      "title": "How engineers at Nextdoor use Codex to build without limits",
-      "date": "Tue, 09 Jun 2026 12:00:00 GMT",
-      "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
-      "url": "https://openai.com/index/nextdoor",
-      "category": ""
     }
   ],
   "status": "success",
