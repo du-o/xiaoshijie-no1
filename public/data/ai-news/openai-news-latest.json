@@ -1,28 +1,14 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-06-12T08:24:19.829Z",
+  "fetch_time": "2026-06-12T11:36:31.227Z",
   "articles": [
     {
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "date": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-      "url": "https://openai.com/index/bbva",
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "date": "Fri, 12 Jun 2026 00:00:00 GMT",
+      "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+      "url": "https://openai.com/index/preply",
       "category": ""
-    },
-    {
-      "title": "OpenAI to acquire Ona",
-      "date": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-      "url": "https://openai.com/index/openai-to-acquire-ona",
-      "category": "Company"
-    },
-    {
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "date": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "category": "Applied AI"
     },
     {
       "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem ",
@@ -32,18 +18,32 @@
       "category": "Global Affairs"
     },
     {
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "date": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "category": "Applied AI"
+    },
+    {
+      "title": "OpenAI to acquire Ona",
+      "date": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "category": "Company"
+    },
+    {
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "date": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "url": "https://openai.com/index/bbva",
+      "category": ""
+    },
+    {
       "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
       "date": "Wed, 10 Jun 2026 20:00:00 GMT",
       "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
       "url": "https://openai.com/index/openai-on-oracle-cloud",
       "category": "Company"
-    },
-    {
-      "title": "PRC-linked influence operations are targeting AI debates in the US",
-      "date": "Wed, 10 Jun 2026 12:00:00 GMT",
-      "summary": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about ChatGPT.",
-      "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
-      "category": "Global Affairs"
     }
   ],
   "status": "success",
