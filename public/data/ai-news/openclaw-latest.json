@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-06-13T07:45:28.662Z",
+  "fetch_time": "2026-06-13T10:22:15.775Z",
   "articles": [
+    {
+      "title": "openclaw 2026.6.7-beta.1",
+      "date": "2026-06-13T09:42:35Z",
+      "summary": "## 2026.6.7\n\n### Highlights\n\n- Channel delivery is tighter across Slack, Telegram, outbound media, silent replies, progress drafts, and paged action results: same-channel Slack finals persist in trans...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.7-beta.1",
+      "category": "Release",
+      "author": "vincentkoc",
+      "tagName": "v2026.6.7-beta.1",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.6.6",
       "date": "2026-06-12T11:04:42Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.6.6",
-      "downloadCount": 478
+      "downloadCount": 548
     },
     {
       "title": "openclaw 2026.6.6-beta.2",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.6.6-beta.2",
-      "downloadCount": 25
+      "downloadCount": 27
     },
     {
       "title": "OpenClaw 2026.6.6-beta.1",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.6.5",
-      "downloadCount": 26375
+      "downloadCount": 26791
     },
     {
       "title": "openclaw 2026.6.5-beta.6",
@@ -52,16 +62,6 @@
       "author": "github-actions[bot]",
       "tagName": "v2026.6.5-beta.6",
       "downloadCount": 46
-    },
-    {
-      "title": "openclaw 2026.6.5-beta.5",
-      "date": "2026-06-08T22:49:14Z",
-      "summary": "\n### Highlights\n\n- QQBot now strips model reasoning/thinking scaffolding before native delivery, preventing raw `<thinking>` content from leaking into channel replies. (#89913, #90132) Thanks @openper...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.5-beta.5",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.6.5-beta.5",
-      "downloadCount": 39
     }
   ],
   "status": "success",
