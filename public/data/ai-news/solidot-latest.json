@@ -1,8 +1,29 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-06-12T14:29:16.467Z",
+  "fetch_time": "2026-06-13T04:19:47.137Z",
   "articles": [
+    {
+      "title": "/e/OS 4.0 释出",
+      "date": "Fri, 12 Jun 2026 16:42:17 GMT",
+      "summary": "注重隐私的开源移动操作系统 /e/OS 释出了 4.0 版本。/e/OS 是移除了 Google 应用的 LineageOS 分支，由法国非营利组织 e Foundation 开发。/e/OS 4.0 的变化包括：全新设计的启动器 Blisslauncher；个性化壁纸；将存储在 Google 中的所有数据迁移到欧洲云服务 Murena Workspace，彻底告别 Google；电子签名系统 Murena Sign，支持 PDF、Word 和 ODT 文件；欧洲的在线会议 Murena Meet；预装 /e/OS 的手机 Murena GS6 和 GS6 PRO，起售价分别为 339 欧元和 449 欧元。",
+      "url": "https://www.solidot.org/story?sid=84567",
+      "category": ""
+    },
+    {
+      "title": "Arch Linux 逾四百 AUR 包被植入恶意程序",
+      "date": "Fri, 12 Jun 2026 16:26:43 GMT",
+      "summary": "Arch Linux 项目的用户软件仓库 Arch User Repository(AUR)遭遇了大规模恶意攻击，逾四百 AUR 包被植入恶意程序。Arch Linux 维护者从昨天开始一直在重置/删除所有恶意内容，封禁受影响账号。此次攻击只影响用户软件仓库——由用户贡献的软件包，而不是官方 Arch Linux 软件包。",
+      "url": "https://www.solidot.org/story?sid=84566",
+      "category": ""
+    },
+    {
+      "title": "AI 智能体试图扫描 DN42 时把主人搞破产",
+      "date": "Fri, 12 Jun 2026 16:12:48 GMT",
+      "summary": "一个 AI Agent 试图加入 DN42 爱好者网络执行网络扫描。DN42 是一个去中心化网络，使用了运行在现代互联网骨干网上的技术如 BGP 和递归 DNS。其参与者都是对互联网骨干网技术感兴趣的人，甚至是打算在真正注册 ASN 之前先进行练习的人。该 AI Agent 在参与社区的互动时透露其主人的动机主要是扫描端口而不是学习任何网络相关技术。它组建了五个 20 Gbps 的 AWS 实例，这对于大多数 DN42 社区用户而言是一个庞然大物，大部分用户的带宽都很小，一旦扫描开始，这些 AWS 实例事实上将对任何不幸与它们直连的参与者发起 DoS 拒绝服务攻击。在这个 AI Agent 表明其恶意意图后，DN42 社区就决定消耗其 Token 及其 AWS 资源。不到 24 小时，它的主人通过账单知道了发生了什么事情，因此关闭了 AI Agent，称收到了 6531.30 美元的 AWS 账单，请求 DN42 社区捐赠。当然没人会去捐赠。",
+      "url": "https://www.solidot.org/story?sid=84565",
+      "category": ""
+    },
     {
       "title": "中国的癌症医疗旅游业",
       "date": "Fri, 12 Jun 2026 10:11:59 GMT",
@@ -22,27 +43,6 @@
       "date": "Fri, 12 Jun 2026 07:59:45 GMT",
       "summary": "拜 AI 热所赐，6 月 12 日日本铠侠控股(Kioxia Holdings)的总市值超过丰田，在日本国内上市企业中首次跃居榜首。铠侠的总市值达到 44 万亿日元，超过丰田约 43 万亿日元的市值。支撑股价上涨的是盈利能力扩大。以美国科技巨头对 AI 数据中心的投资为背景，NAND 闪存的销售大幅增长。软银集团（SBG）股价同样受 AI 投资相关预期推动走高，曾在 6 月 1 日市值一度超越丰田登顶榜首。作为投资公司的软银集团的收益主要来源于两大板块，一是对美国 OpenAI 的大额投资估值上涨，二是旗下英国半导体设计公司 ARM 控股的价值提升。",
       "url": "https://www.solidot.org/story?sid=84562",
-      "category": ""
-    },
-    {
-      "title": "小米开源了其 AI 编程助手 MiMo Code",
-      "date": "Fri, 12 Jun 2026 07:49:42 GMT",
-      "summary": "小米开源了其 AI 编程助手 MiMo Code，源代码采用 MIT License 托管在 GitHub 上。小米博客称，“MiMo Code 是小米 MiMo 团队基于 OpenCode 构建的终端编程 Agent，MIT 协议开源。它针对长程自动化编程任务设计，核心关注点是：如何在几十甚至上百步的持续执行中保持决策质量和状态连续性。”",
-      "url": "https://www.solidot.org/story?sid=84561",
-      "category": ""
-    },
-    {
-      "title": "波兰将直播虐待动物等行为定为犯罪，最高判处五年监禁",
-      "date": "Fri, 12 Jun 2026 07:30:51 GMT",
-      "summary": "波兰议员投票通过一项法案，对强奸、谋杀、虐待动物、侮辱性暴力、赌博宣传等严重犯罪行为的直播定为犯罪行为，最高判处五年监禁，强奸或谋杀本身则作为单独的罪行处理。这一法案也适用于模仿或虚假描述此类犯罪行为的个人。此举是波兰加强网络内容监管的举措的一部分。该国最近实施的政策包括禁止 16 岁以下儿童在学校使用手机，以及对访问色情内容引入更严格的年龄验证规则。欧盟的 Digital Services Act(DSA)要求平台迅速删除宣扬暴力或严重伤害的内容，但追究此类内容创作者的责任则由各国自行规定。",
-      "url": "https://www.solidot.org/story?sid=84560",
-      "category": ""
-    },
-    {
-      "title": "新 CRISPR 技术选择性杀死癌细胞",
-      "date": "Fri, 12 Jun 2026 06:58:59 GMT",
-      "summary": "2020 年诺贝尔化学奖得主 Jennifer Doudna 领导的团队利用名为 CRISPR-Cas12a2 的酶，将其转化为精准杀伤癌细胞的“武器”。当该酶检测到癌细胞特有的基因突变特征时，会直接粉碎细胞内的染色质，从而诱导癌细胞死亡。在癌症的发展中，驱动基因的变异通常分为两类：一类是原癌基因的过度激活，另一类是抑癌基因的突变失活。目前的靶向药物大多针对前者，通过抑制剂来阻断过度活跃的蛋白功能。对于抑癌基因的功能缺失性突变，传统药物往往束手无策。以人类癌症中最常见的突变基因 TP53（编码p53蛋白）为例，该突变在卵巢癌和胰腺癌等肿瘤中的出现频率高达 90%。自被发现以来的 40 多年里，科学界始终未能开发出针对突变 p53 蛋白的有效靶向药物。CRISPR-Cas12a2 是一种核酸酶，原本是细菌用来抵御病毒入侵的免疫工具。当这种酶识别到入侵病毒的 RNA 后，会开始无差别地切割周围的 RNA 和 DNA，导致染色质（细胞核内由 DNA 和蛋白质组成的复合体）被彻底粉碎，从而杀死被感染的细胞。研究团队为 Cas12a2 设计了特定的向导RNA（gRNA），使其专门识别包括 TP5",
-      "url": "https://www.solidot.org/story?sid=84559",
       "category": ""
     }
   ],

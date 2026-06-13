@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-06-12T14:29:13.295Z",
+  "fetch_time": "2026-06-13T04:19:44.130Z",
   "articles": [
+    {
+      "title": "New OpenAI Academy courses for the next era of work",
+      "date": "Fri, 12 Jun 2026 10:00:00 GMT",
+      "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "category": "AI Adoption"
+    },
     {
       "title": "How Preply combines AI and human tutors to personalize learning",
       "date": "Fri, 12 Jun 2026 00:00:00 GMT",
@@ -18,6 +25,13 @@
       "category": "Global Affairs"
     },
     {
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "date": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "url": "https://openai.com/index/bbva",
+      "category": ""
+    },
+    {
       "title": "OpenAI to acquire Ona",
       "date": "Thu, 11 Jun 2026 00:00:00 GMT",
       "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
@@ -30,20 +44,6 @@
       "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
       "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
       "category": "Applied AI"
-    },
-    {
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "date": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-      "url": "https://openai.com/index/bbva",
-      "category": ""
-    },
-    {
-      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-      "date": "Wed, 10 Jun 2026 20:00:00 GMT",
-      "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
-      "url": "https://openai.com/index/openai-on-oracle-cloud",
-      "category": "Company"
     }
   ],
   "status": "success",
