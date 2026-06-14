@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-06-13T13:16:26.113Z",
+  "fetch_time": "2026-06-14T04:47:35.831Z",
   "articles": [
+    {
+      "title": "openclaw 2026.6.8-beta.1",
+      "date": "2026-06-13T21:49:06Z",
+      "summary": "## 2026.6.8\n\n### Highlights\n\n- Telegram and WhatsApp channel delivery are richer and less brittle: Telegram can send structured rich text with tables, lists, expandable blockquotes, prompt-preserving ...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.8-beta.1",
+      "category": "Release",
+      "author": "vincentkoc",
+      "tagName": "v2026.6.8-beta.1",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.6.7-beta.1",
       "date": "2026-06-13T09:42:35Z",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.6.6",
-      "downloadCount": 623
+      "downloadCount": 886
     },
     {
       "title": "openclaw 2026.6.6-beta.2",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.6.6-beta.2",
-      "downloadCount": 27
+      "downloadCount": 28
     },
     {
       "title": "OpenClaw 2026.6.6-beta.1",
@@ -51,17 +61,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.6.5",
-      "downloadCount": 27299
-    },
-    {
-      "title": "openclaw 2026.6.5-beta.6",
-      "date": "2026-06-09T08:43:04Z",
-      "summary": "\n### Highlights\n\n- QQBot now strips model reasoning/thinking scaffolding before native delivery, preventing raw `<thinking>` content from leaking into channel replies. (#89913, #90132) Thanks @openper...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.5-beta.6",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.6.5-beta.6",
-      "downloadCount": 46
+      "downloadCount": 29540
     }
   ],
   "status": "success",
