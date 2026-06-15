@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-06-14T13:21:33.114Z",
+  "fetch_time": "2026-06-15T05:02:48.009Z",
   "articles": [
+    {
+      "title": "Introducing the OpenAI Partner Network",
+      "date": "Sun, 14 Jun 2026 17:00:00 GMT",
+      "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+      "url": "https://openai.com/index/introducing-openai-partner-network",
+      "category": "Product"
+    },
     {
       "title": "New OpenAI Academy courses for the next era of work",
       "date": "Fri, 12 Jun 2026 10:00:00 GMT",
@@ -30,13 +37,6 @@
       "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
       "url": "https://openai.com/index/bbva",
       "category": ""
-    },
-    {
-      "title": "OpenAI to acquire Ona",
-      "date": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-      "url": "https://openai.com/index/openai-to-acquire-ona",
-      "category": "Company"
     },
     {
       "title": "How an astrophysicist uses Codex to help simulate black holes",

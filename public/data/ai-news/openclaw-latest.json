@@ -1,17 +1,17 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-06-14T13:21:46.674Z",
+  "fetch_time": "2026-06-15T05:03:01.199Z",
   "articles": [
     {
       "title": "openclaw 2026.6.8-beta.1",
-      "date": "2026-06-13T21:49:06Z",
+      "date": "2026-06-14T22:45:33Z",
       "summary": "## 2026.6.8\n\n### Highlights\n\n- Telegram and WhatsApp channel delivery are richer and less brittle: Telegram can send structured rich text with tables, lists, expandable blockquotes, prompt-preserving ...",
       "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.8-beta.1",
       "category": "Release",
       "author": "vincentkoc",
       "tagName": "v2026.6.8-beta.1",
-      "downloadCount": 0
+      "downloadCount": 20
     },
     {
       "title": "openclaw 2026.6.7-beta.1",
@@ -31,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.6.6",
-      "downloadCount": 1089
+      "downloadCount": 1404
     },
     {
       "title": "openclaw 2026.6.6-beta.2",
@@ -41,7 +41,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.6.6-beta.2",
-      "downloadCount": 29
+      "downloadCount": 34
     },
     {
       "title": "OpenClaw 2026.6.6-beta.1",
@@ -61,7 +61,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.6.5",
-      "downloadCount": 30829
+      "downloadCount": 33023
     }
   ],
   "status": "success",
