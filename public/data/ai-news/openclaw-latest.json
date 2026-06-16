@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-06-15T16:47:32.747Z",
+  "fetch_time": "2026-06-16T05:05:29.632Z",
   "articles": [
+    {
+      "title": "openclaw 2026.6.8-beta.2",
+      "date": "2026-06-16T01:50:19Z",
+      "summary": "\n### Highlights\n\n- Telegram and WhatsApp channel delivery are richer and less brittle: Telegram can send structured rich text with tables, lists, expandable blockquotes, preserved intentional line bre...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.8-beta.2",
+      "category": "Release",
+      "author": "vincentkoc",
+      "tagName": "v2026.6.8-beta.2",
+      "downloadCount": 13
+    },
     {
       "title": "openclaw 2026.6.8-beta.1",
       "date": "2026-06-14T22:45:33Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "vincentkoc",
       "tagName": "v2026.6.8-beta.1",
-      "downloadCount": 87
+      "downloadCount": 110
     },
     {
       "title": "openclaw 2026.6.7-beta.1",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.6.6",
-      "downloadCount": 1713
+      "downloadCount": 1912
     },
     {
       "title": "openclaw 2026.6.6-beta.2",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.6.6-beta.2",
-      "downloadCount": 34
+      "downloadCount": 35
     },
     {
       "title": "OpenClaw 2026.6.6-beta.1",
@@ -52,16 +62,6 @@
       "author": "vincentkoc",
       "tagName": "v2026.6.6-beta.1",
       "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.6.5",
-      "date": "2026-06-09T18:13:20Z",
-      "summary": "\n### Highlights\n\n- QQBot now strips model reasoning/thinking scaffolding before native delivery, preventing raw `<thinking>` content from leaking into channel replies. (#89913, #90132) Thanks @openper...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.5",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.6.5",
-      "downloadCount": 35167
     }
   ],
   "status": "success",

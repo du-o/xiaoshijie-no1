@@ -1,70 +1,61 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-06-15T16:47:14.500Z",
+  "fetch_time": "2026-06-16T05:05:14.145Z",
   "articles": [
     {
-      "title": "A Deep Reinforcement Learning (DRL)-Based Transformer Method for Solving the Open Shop Scheduling Problem",
-      "date": "Mon, 15 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.13682v1 Announce Type: new Abstract: The open shop scheduling problem (OSSP) arises in many industrial and service settings but remains computationally challenging as the number of jobs and machines increases. While exact methods quickly become intractable, classical dispatching rules and metaheuristics may require substantial tuning to maintain solution quality at large scales. This study develops a Transformer-based scheduling policy for OSSP using an encoder-decoder architecture wi",
-      "url": "https://arxiv.org/abs/2606.13682",
-      "category": [
-        "cs.AI",
-        "cs.LG"
-      ]
+      "title": "A Definition of Good Explanations and the Challenges Explaining LLM Outputs",
+      "date": "Tue, 16 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.14838v1 Announce Type: new Abstract: How to define a good explanation is a long-standing philosophical debate which has found recent renewed interest in the context of AI outputs. Explainability is crucial for AI adoption in many contexts, but in order to produce good explanations of AI systems, we must first have an understanding of what good explanations are. In this paper we propose a definition inspired by the notion of counterfactual explanations, however we argue that one must a",
+      "url": "https://arxiv.org/abs/2606.14838",
+      "category": "cs.AI"
     },
     {
-      "title": "UP-NRPA: User Portrait based Nested Rollout Policy Adaptation for Planning with Large Language Models in Goal-oriented Dialogue Systems",
-      "date": "Mon, 15 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.13683v1 Announce Type: new Abstract: To address the challenge that current dialogue policy planning methods struggle to dynamically adapt to diverse user characteristics, this paper proposes a User Portrait based Nested Rollout Policy Adaptation (UP-NRPA) online framework with Large Language Models. In contrast to conventional approaches dependent on model training and require offline reinforcement learning policy models for user groups, UP-NRPA enables dynamic customization of dialog",
-      "url": "https://arxiv.org/abs/2606.13683",
+      "title": "Dr-DCI: Scaling Direct Corpus Interaction via Dynamic Workspace Expansion",
+      "date": "Tue, 16 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.14885v1 Announce Type: new Abstract: Agentic search over large corpora relies on retriever-mediated interfaces (e.g., BM25 or ColBERT) for scalable candidate discovery. While effective at ranking relevant documents, these interfaces expose evidence only as ranked results or bounded document views, limiting agents' ability to reorganize material and verify constraints across documents. Direct Corpus Interaction (DCI) addresses this limitation by exposing shell-executable corpus operati",
+      "url": "https://arxiv.org/abs/2606.14885",
       "category": [
         "cs.AI",
         "cs.CL"
       ]
     },
     {
-      "title": "History of the Muddy Children Puzzle",
-      "date": "Mon, 15 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.13703v1 Announce Type: new Abstract: The Muddy Children Puzzle is a puzzle about knowledge and ignorance that has been inspiring for the development of epistemic logic. Who came up with it first? This is unclear. We trace the origin of the Muddy Children Puzzle through logical and literary publications over the past two centuries. The puzzle inspired a numerous variations such as involving numbers or coloured hats. We also present a novel hats puzzle involving self-reference.",
-      "url": "https://arxiv.org/abs/2606.13703",
+      "title": "Relational Structural Causal Models",
+      "date": "Tue, 16 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.14892v1 Announce Type: new Abstract: An artificial intelligence must have a model of its environment that is causal, supporting reasoning about interventions and counterfactuals, and also combinatorial, supporting generalization to unseen combinations of objects. In this work, we formally study when and how such a model can be learned. We develop relational structural causal models, extending structural causal models (Pearl 2009) to settings where objects and their relations vary. Fir",
+      "url": "https://arxiv.org/abs/2606.14892",
       "category": [
         "cs.AI",
-        "cs.GL",
-        "cs.LO"
+        "cs.LG",
+        "cs.SI",
+        "stat.ML"
       ]
     },
     {
-      "title": "Orchestra-o1: Omnimodal Agent Orchestration",
-      "date": "Mon, 15 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.13707v1 Announce Type: new Abstract: The recent success of agent swarms has shifted the paradigm of large language model (LLM)-based agents from single-agent workflows to multi-agent systems, highlighting the importance of agent orchestration for task decomposition and collaboration. However, existing orchestration frameworks are limited to a narrow set of modalities and struggle to generalize to more complex settings where heterogeneous modalities coexist and interact. This limitatio",
-      "url": "https://arxiv.org/abs/2606.13707",
+      "title": "Trust Between AI Agents: Measuring Formation, Breakage, and Recovery, with Implications for Governing Multi-Agent Systems",
+      "date": "Tue, 16 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.14923v1 Announce Type: new Abstract: As language-model agents increasingly work in teams, each agent must decide how much to trust its teammates. Yet we lack a standard way to measure trust between AI agents. We propose a behavioral measure based on costly verification. In a cooperative survival game, checking a teammate's work consumes resources, while trusting a wrong answer can be fatal. Relative to a memoryless version of the same model, reduced verification provides an observable",
+      "url": "https://arxiv.org/abs/2606.14923",
       "category": [
         "cs.AI",
-        "cs.CL",
-        "cs.CV"
-      ]
-    },
-    {
-      "title": "Hybrid Open-Ended Tri-Evolution Makes Better Deep Researcher",
-      "date": "Mon, 15 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.13710v1 Announce Type: new Abstract: Deep research and agent evolution serve as de-facto tasks for AI agents in real-world applications toward artificial general intelligence. The former enables autonomous retrieval and integration of information in open-ended environments to tackle open-ended research tasks, yet it is constrained by the static parametric deep research capabilities of agent systems. The latter allows agents to autonomously interact with the environment to gain experie",
-      "url": "https://arxiv.org/abs/2606.13710",
-      "category": [
-        "cs.AI",
-        "cs.LG"
-      ]
-    },
-    {
-      "title": "WorkBench Revisited: Workplace Agents Two Years On",
-      "date": "Mon, 15 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.13715v1 Announce Type: new Abstract: The best agent on WorkBench in March 2024, GPT-4, completed 43% of tasks and took an unintended harmful action, such as emailing the wrong person, on 26% of them. We re-visit the benchmark in June 2026 and find that the best agent to date, Claude Opus 4.8, completes 89% and takes an unintended harmful action on 2.5%. Aside from this considerable progress in frontier agent performance, three things stand out. First, capability and safety go together",
-      "url": "https://arxiv.org/abs/2606.13715",
-      "category": [
-        "cs.AI",
-        "cs.CL",
+        "cs.CY",
         "cs.MA"
       ]
+    },
+    {
+      "title": "PrologMCP: A Standardized Prolog Tool Interface for LLM Agents",
+      "date": "Tue, 16 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.14935v1 Announce Type: new Abstract: Frontier reasoning-tuned language models still fail on deductive tasks at depth, and the cost of improved performance through extended internal reasoning scales poorly. Symbolic delegation offers a complementary route: a language model translates the problem, while a solver performs the inference. However, current autoformalization pipelines for logic programming are typically bespoke integrations tied to particular tasks or agents. We introduce Pr",
+      "url": "https://arxiv.org/abs/2606.14935",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Semantics-Enhanced Retrieval-Augmented Time Series Forecasting",
+      "date": "Tue, 16 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.14941v1 Announce Type: new Abstract: Time series forecasting models often benefit from historical patterns. Inspired by Retrieval-Augmented Generation (RAG), recent research explored retrieving relevant historical time series segments to enhance forecasting. However, relying solely on time series similarity is often insufficient for retrieval under non-stationarity. To address this, we propose a multimodal approach: a \\textbf{S}emantics-\\textbf{E}nhanced \\textbf{R}etrieval-\\textbf{A}u",
+      "url": "https://arxiv.org/abs/2606.14941",
+      "category": "cs.AI"
     }
   ],
   "status": "success",
