@@ -1,60 +1,62 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-06-16T16:16:02.030Z",
+  "fetch_time": "2026-06-17T04:47:22.464Z",
   "articles": [
     {
-      "title": "A Definition of Good Explanations and the Challenges Explaining LLM Outputs",
-      "date": "Tue, 16 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.14838v1 Announce Type: new Abstract: How to define a good explanation is a long-standing philosophical debate which has found recent renewed interest in the context of AI outputs. Explainability is crucial for AI adoption in many contexts, but in order to produce good explanations of AI systems, we must first have an understanding of what good explanations are. In this paper we propose a definition inspired by the notion of counterfactual explanations, however we argue that one must a",
-      "url": "https://arxiv.org/abs/2606.14838",
+      "title": "Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search",
+      "date": "Wed, 17 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.17209v1 Announce Type: new Abstract: Test-time scaling for agentic search typically increases depth (i.e., more turns and tokens per trajectory) or breadth (i.e., more parallel rollouts). Here we focus on breadth scaling, showing that standard parallel sampling yields diminishing returns, tracing this to query redundancy at the first turn. When models issue similar first queries across rollouts, the threads retrieve overlapping evidence, and subsequent turns are conditioned on this sh",
+      "url": "https://arxiv.org/abs/2606.17209",
+      "category": [
+        "cs.AI",
+        "cs.IR"
+      ]
+    },
+    {
+      "title": "When Rules Learn: A Self-Evolving Agent for Legal Case Retrieval",
+      "date": "Wed, 17 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.17220v1 Announce Type: new Abstract: Legal case retrieval remains challenging due to the complexity of legal language and the need for precise lexical alignment between queries and relevant cases. Although dense retrieval models have achieved notable progress, empirical studies show that BM25 continues to serve as a strong baseline in this domain. It motivates us to propose a self-evolving framework for rule-driven query rewriting that enhances BM25 without any parameter training. The",
+      "url": "https://arxiv.org/abs/2606.17220",
       "category": "cs.AI"
     },
     {
-      "title": "Dr-DCI: Scaling Direct Corpus Interaction via Dynamic Workspace Expansion",
-      "date": "Tue, 16 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.14885v1 Announce Type: new Abstract: Agentic search over large corpora relies on retriever-mediated interfaces (e.g., BM25 or ColBERT) for scalable candidate discovery. While effective at ranking relevant documents, these interfaces expose evidence only as ranked results or bounded document views, limiting agents' ability to reorganize material and verify constraints across documents. Direct Corpus Interaction (DCI) addresses this limitation by exposing shell-executable corpus operati",
-      "url": "https://arxiv.org/abs/2606.14885",
+      "title": "SkillChain-Gym: A Benchmark for Reskilling-Aware Production-Inventory Control under Disruptions",
+      "date": "Wed, 17 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.17266v1 Announce Type: new Abstract: Production planning increasingly has to treat workforce capability as a decision variable: certifications lapse when skills are not maintained, new products require skills the current workforce does not hold, and reskilling competes for the same worker hours needed for production. Existing operations benchmarks usually treat labor as exogenous, while workforce-planning models with skills and learning are rarely released as reusable testbeds. We int",
+      "url": "https://arxiv.org/abs/2606.17266",
+      "category": [
+        "cs.AI",
+        "cs.SY",
+        "eess.SY"
+      ]
+    },
+    {
+      "title": "Skill-Constrained Model Predictive Control for Resilient Manufacturing Supply Chains",
+      "date": "Wed, 17 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.17269v1 Announce Type: new Abstract: In skill-constrained production-inventory systems, the qualified human capacity available tomorrow depends on training decisions made today: production requires certified workers, certifications decay unless maintained, and training consumes the same scarce worker hours that production needs now. We study a closed-loop skill-constrained model predictive controller that, at every shift, solves a finite-horizon mixed-integer program over production, ",
+      "url": "https://arxiv.org/abs/2606.17269",
+      "category": [
+        "cs.AI",
+        "cs.SY",
+        "eess.SY"
+      ]
+    },
+    {
+      "title": "Nothing from Something: Can a Language Model Discover 0?",
+      "date": "Wed, 17 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.17289v1 Announce Type: new Abstract: AI systems based on artificial neural networks are being developed with aspirations of pushing the boundary of human mathematical knowledge. A key question for these systems is how much they can reach beyond their training data. Mathematical discovery requires a strong form of out of distribution generalization; the ability to hypothesize genuinely new - and potentially logically more powerful - mathematical structures. It has been hypothesized tha",
+      "url": "https://arxiv.org/abs/2606.17289",
       "category": [
         "cs.AI",
         "cs.CL"
       ]
     },
     {
-      "title": "Relational Structural Causal Models",
-      "date": "Tue, 16 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.14892v1 Announce Type: new Abstract: An artificial intelligence must have a model of its environment that is causal, supporting reasoning about interventions and counterfactuals, and also combinatorial, supporting generalization to unseen combinations of objects. In this work, we formally study when and how such a model can be learned. We develop relational structural causal models, extending structural causal models (Pearl 2009) to settings where objects and their relations vary. Fir",
-      "url": "https://arxiv.org/abs/2606.14892",
-      "category": [
-        "cs.AI",
-        "cs.LG",
-        "cs.SI",
-        "stat.ML"
-      ]
-    },
-    {
-      "title": "Trust Between AI Agents: Measuring Formation, Breakage, and Recovery, with Implications for Governing Multi-Agent Systems",
-      "date": "Tue, 16 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.14923v1 Announce Type: new Abstract: As language-model agents increasingly work in teams, each agent must decide how much to trust its teammates. Yet we lack a standard way to measure trust between AI agents. We propose a behavioral measure based on costly verification. In a cooperative survival game, checking a teammate's work consumes resources, while trusting a wrong answer can be fatal. Relative to a memoryless version of the same model, reduced verification provides an observable",
-      "url": "https://arxiv.org/abs/2606.14923",
-      "category": [
-        "cs.AI",
-        "cs.CY",
-        "cs.MA"
-      ]
-    },
-    {
-      "title": "PrologMCP: A Standardized Prolog Tool Interface for LLM Agents",
-      "date": "Tue, 16 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.14935v1 Announce Type: new Abstract: Frontier reasoning-tuned language models still fail on deductive tasks at depth, and the cost of improved performance through extended internal reasoning scales poorly. Symbolic delegation offers a complementary route: a language model translates the problem, while a solver performs the inference. However, current autoformalization pipelines for logic programming are typically bespoke integrations tied to particular tasks or agents. We introduce Pr",
-      "url": "https://arxiv.org/abs/2606.14935",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Semantics-Enhanced Retrieval-Augmented Time Series Forecasting",
-      "date": "Tue, 16 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.14941v1 Announce Type: new Abstract: Time series forecasting models often benefit from historical patterns. Inspired by Retrieval-Augmented Generation (RAG), recent research explored retrieving relevant historical time series segments to enhance forecasting. However, relying solely on time series similarity is often insufficient for retrieval under non-stationarity. To address this, we propose a multimodal approach: a \\textbf{S}emantics-\\textbf{E}nhanced \\textbf{R}etrieval-\\textbf{A}u",
-      "url": "https://arxiv.org/abs/2606.14941",
+      "title": "Quantifying Consistency in LLM Logical Reasoning via Structural Uncertainty",
+      "date": "Wed, 17 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.17312v1 Announce Type: new Abstract: Large language models can arrive at the same answer through reasoning paths that are unstable, contradictory, or difficult to rank consistently -- a failure mode especially prevalent in multi-step deductive reasoning. Existing methods assess reliability primarily through output dispersion -- measuring how much sampled answers differ -- but this discards a complementary signal: whether the model can consistently rank competing reasoning candidates. ",
+      "url": "https://arxiv.org/abs/2606.17312",
       "category": "cs.AI"
     }
   ],

@@ -1,22 +1,32 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-06-16T16:16:24.478Z",
+  "fetch_time": "2026-06-17T04:47:36.540Z",
   "articles": [
+    {
+      "title": "openclaw 2026.6.8",
+      "date": "2026-06-16T16:32:26Z",
+      "summary": "## 2026.6.8\n\n### Highlights\n\n- **Richer channel delivery:** Telegram and WhatsApp are less brittle: Telegram renders structured text with tables, lists, expandable blockquotes, preserved intentional l...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.8",
+      "category": "Release",
+      "author": "vincentkoc",
+      "tagName": "v2026.6.8",
+      "downloadCount": 3967
+    },
     {
       "title": "openclaw 2026.6.8-beta.2",
       "date": "2026-06-16T01:50:19Z",
-      "summary": "\n### Highlights\n\n- Telegram and WhatsApp channel delivery are richer and less brittle: Telegram can send structured rich text with tables, lists, expandable blockquotes, preserved intentional line bre...",
+      "summary": "## 2026.6.8\n\n### Highlights\n\n- **Richer channel delivery:** Telegram and WhatsApp are less brittle: Telegram renders structured text with tables, lists, expandable blockquotes, preserved intentional l...",
       "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.8-beta.2",
       "category": "Release",
       "author": "vincentkoc",
       "tagName": "v2026.6.8-beta.2",
-      "downloadCount": 77
+      "downloadCount": 82
     },
     {
       "title": "openclaw 2026.6.8-beta.1",
       "date": "2026-06-14T22:45:33Z",
-      "summary": "## 2026.6.8\n\n### Highlights\n\n- Telegram and WhatsApp channel delivery are richer and less brittle: Telegram can send structured rich text with tables, lists, expandable blockquotes, prompt-preserving ...",
+      "summary": "## 2026.6.8\n\n### Highlights\n\n- **Richer channel delivery:** Telegram and WhatsApp are less brittle: Telegram renders structured text with tables, lists, expandable blockquotes, preserved intentional l...",
       "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.8-beta.1",
       "category": "Release",
       "author": "vincentkoc",
@@ -26,7 +36,7 @@
     {
       "title": "openclaw 2026.6.7-beta.1",
       "date": "2026-06-13T09:42:35Z",
-      "summary": "## 2026.6.7\n\n### Highlights\n\n- Channel delivery is tighter across Slack, Telegram, outbound media, silent replies, progress drafts, and paged action results: same-channel Slack finals persist in trans...",
+      "summary": "## 2026.6.7\n\n### Highlights\n\n- **Durable channel replies:** Telegram polling and preview failures recover instead of ending a stream, Slack keeps delivered replies in the transcript, and top-level ima...",
       "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.7-beta.1",
       "category": "Release",
       "author": "vincentkoc",
@@ -36,32 +46,22 @@
     {
       "title": "openclaw 2026.6.6",
       "date": "2026-06-12T11:04:42Z",
-      "summary": "\n### Highlights\n\n- Security boundaries are substantially tighter across transcripts, sandbox binds, host environment inheritance, MCP stdio, Codex HTTP access, native search policy, elevated sender ch...",
+      "summary": "## 2026.6.6\n\n### Highlights\n\n- **Tighter security boundaries:** transcript, sandbox, MCP, browser, channel, and exec-approval paths now fail closed around unsafe access, timed-out approvals, and malfo...",
       "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.6",
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.6.6",
-      "downloadCount": 2216
+      "downloadCount": 2227
     },
     {
       "title": "openclaw 2026.6.6-beta.2",
       "date": "2026-06-12T03:32:42Z",
-      "summary": "\n### Highlights\n\n- Security boundaries are substantially tighter across transcripts, sandbox binds, host environment inheritance, MCP stdio, Codex HTTP access, native search policy, elevated sender ch...",
+      "summary": "## 2026.6.6\n\n### Highlights\n\n- **Tighter security boundaries:** transcript, sandbox, MCP, browser, channel, and exec-approval paths now fail closed around unsafe access, timed-out approvals, and malfo...",
       "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.6-beta.2",
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.6.6-beta.2",
       "downloadCount": 35
-    },
-    {
-      "title": "OpenClaw 2026.6.6-beta.1",
-      "date": "2026-06-10T19:33:39Z",
-      "summary": "## 2026.6.6\n\n### Highlights\n\n- Security boundaries are substantially tighter across transcripts, sandbox binds, host environment inheritance, MCP stdio, Codex HTTP access, native search policy, elevat...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.6-beta.1",
-      "category": "Release",
-      "author": "vincentkoc",
-      "tagName": "v2026.6.6-beta.1",
-      "downloadCount": 0
     }
   ],
   "status": "success",

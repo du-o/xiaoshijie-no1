@@ -1,9 +1,221 @@
 {
-  "fetch_time": "2026-06-16T16:16:09.030Z",
+  "fetch_time": "2026-06-17T04:47:26.526Z",
   "total_count": 36,
   "sources_count": 6,
   "errors": null,
   "articles": [
+    {
+      "title": "大众汽车要求各方提交发动机业务密封最终报价",
+      "date": "Wed, 17 Jun 2026 04:45:53 GMT",
+      "summary": "英国金融时报援引不愿具名知情人士消息称，大众汽车已通知三家收购财团，于下周提交密封最终报价，竞购其估值100亿美元的发动机业务板块。上述收购财团背后投资方包括欧洲富豪家族，以及卡塔尔、加拿大资本。此前EQT联合保时捷控股、卡塔尔投资局参与竞标，市场担忧EQT具备不公平竞争优势，大众此举意在化解相关顾虑。大众汽车、保时捷控股及EQT均不予置评。（新浪财经）",
+      "url": "https://36kr.com/newsflashes/3856779469263880?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "步步高在湘潭成立新公司，注册资本1000万",
+      "date": "Wed, 17 Jun 2026 04:38:45 GMT",
+      "summary": "36氪获悉，天眼查App显示，近日，湘潭大信京迪科技发展有限公司成立，法定代表人为刘军，注册资本1000万人民币，经营范围包括房地产开发经营、建设工程施工、建设工程设计等，由步步高全资持股。",
+      "url": "https://36kr.com/newsflashes/3856764609451015?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "谷歌前CEO支持的创企Genesis推出AI工业机器人",
+      "date": "Wed, 17 Jun 2026 04:30:56 GMT",
+      "summary": "当地时间6月16日，谷歌前CEO埃里克·施密特支持的初创公司Genesis AI宣布推出AI驱动的工业机器人Eno，这款通用机器人将能够推理、适应环境并承担超出预设任务范围的工作。Genesis计划今年年底开始生产Eno并向目标客户部署。（界面）",
+      "url": "https://36kr.com/newsflashes/3856762798003202?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "四维图新：目前和特斯拉没有合作",
+      "date": "Wed, 17 Jun 2026 04:26:07 GMT",
+      "summary": "36氪获悉，四维图新在互动平台表示，公司目前和特斯拉没有合作。",
+      "url": "https://36kr.com/newsflashes/3856766858499337?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "小米携手金山办公正式发布MiMo Claw",
+      "date": "Wed, 17 Jun 2026 04:23:24 GMT",
+      "summary": "36氪获悉，6月16日晚，Xiaomi MiMo开放平台宣布，智能体产品MiMo Claw正式版全面上线。此次迭代更新联动金山办公，打造全链路文档办公闭环提效方案；新增多项 OpenClaw核心便捷能力；同时升级免费用户权益，并面向高频、专业用户上线 TokenPlan分层订阅，满足不同使用需求。",
+      "url": "https://36kr.com/newsflashes/3856752470529284?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "英力股份：未与英伟达进行洽谈，目前不存在业务合作相关规划",
+      "date": "Wed, 17 Jun 2026 04:18:00 GMT",
+      "summary": "36氪获悉，英力股份在互动平台表示，公司未与英伟达进行洽谈，目前不存在业务合作相关规划。",
+      "url": "https://36kr.com/newsflashes/3856751109805319?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search",
+      "date": "Wed, 17 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.17209v1 Announce Type: new Abstract: Test-time scaling for agentic search typically increases depth (i.e., more turns and tokens per trajectory) or breadth (i.e., more parallel rollouts). Here we focus on breadth scaling, showing that standard parallel sampling yields diminishing returns, tracing this to query redundancy at the first turn. When models issue similar first queries across rollouts, the threads retrieve overlapping evidence, and subsequent turns are conditioned on this sh",
+      "url": "https://arxiv.org/abs/2606.17209",
+      "category": [
+        "cs.AI",
+        "cs.IR"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "When Rules Learn: A Self-Evolving Agent for Legal Case Retrieval",
+      "date": "Wed, 17 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.17220v1 Announce Type: new Abstract: Legal case retrieval remains challenging due to the complexity of legal language and the need for precise lexical alignment between queries and relevant cases. Although dense retrieval models have achieved notable progress, empirical studies show that BM25 continues to serve as a strong baseline in this domain. It motivates us to propose a self-evolving framework for rule-driven query rewriting that enhances BM25 without any parameter training. The",
+      "url": "https://arxiv.org/abs/2606.17220",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "SkillChain-Gym: A Benchmark for Reskilling-Aware Production-Inventory Control under Disruptions",
+      "date": "Wed, 17 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.17266v1 Announce Type: new Abstract: Production planning increasingly has to treat workforce capability as a decision variable: certifications lapse when skills are not maintained, new products require skills the current workforce does not hold, and reskilling competes for the same worker hours needed for production. Existing operations benchmarks usually treat labor as exogenous, while workforce-planning models with skills and learning are rarely released as reusable testbeds. We int",
+      "url": "https://arxiv.org/abs/2606.17266",
+      "category": [
+        "cs.AI",
+        "cs.SY",
+        "eess.SY"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Skill-Constrained Model Predictive Control for Resilient Manufacturing Supply Chains",
+      "date": "Wed, 17 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.17269v1 Announce Type: new Abstract: In skill-constrained production-inventory systems, the qualified human capacity available tomorrow depends on training decisions made today: production requires certified workers, certifications decay unless maintained, and training consumes the same scarce worker hours that production needs now. We study a closed-loop skill-constrained model predictive controller that, at every shift, solves a finite-horizon mixed-integer program over production, ",
+      "url": "https://arxiv.org/abs/2606.17269",
+      "category": [
+        "cs.AI",
+        "cs.SY",
+        "eess.SY"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Nothing from Something: Can a Language Model Discover 0?",
+      "date": "Wed, 17 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.17289v1 Announce Type: new Abstract: AI systems based on artificial neural networks are being developed with aspirations of pushing the boundary of human mathematical knowledge. A key question for these systems is how much they can reach beyond their training data. Mathematical discovery requires a strong form of out of distribution generalization; the ability to hypothesize genuinely new - and potentially logically more powerful - mathematical structures. It has been hypothesized tha",
+      "url": "https://arxiv.org/abs/2606.17289",
+      "category": [
+        "cs.AI",
+        "cs.CL"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Quantifying Consistency in LLM Logical Reasoning via Structural Uncertainty",
+      "date": "Wed, 17 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.17312v1 Announce Type: new Abstract: Large language models can arrive at the same answer through reasoning paths that are unstable, contradictory, or difficult to rank consistently -- a failure mode especially prevalent in multi-step deductive reasoning. Existing methods assess reliability primarily through output dispersion -- measuring how much sampled answers differ -- but this discards a complementary signal: whether the model can consistently rank competing reasoning candidates. ",
+      "url": "https://arxiv.org/abs/2606.17312",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "微软考虑使用 DeepSeek 的开源模型降低成本",
+      "date": "Wed, 17 Jun 2026 02:25:26 GMT",
+      "summary": "最大化词元使用（tokenmaxxing）对微软的 AI 工具 Copilot 产生了不利影响，软件巨人正在考虑使用 DeepSeek 的开源模型以降低成本。微软考虑使用的是 DeepSeek-V4 自托管版本的修改版，它将作为一种低成本选项用于驱动微软的 Copilot Cowork。Copilot Cowork 目前运行在 Anthropic 和 OpenAI 的模型上，两家公司不断涨价，Copilot 也从无限量使用切换到了基于使用量的定价模式，此举招致了用户的强烈不满。更便宜的型号有助于降低成本让用户满意，但可能会让特朗普政府不满意。",
+      "url": "https://www.solidot.org/story?sid=84602",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "Peter Thiel 的秘密社交网络曝光",
+      "date": "Wed, 17 Jun 2026 01:56:56 GMT",
+      "summary": "黑客行动主义者曝光了 Peter Thiel 于 2006 年创办的秘密组织 Dialog 的成员信息和内部记录。Dialog 每年都会组织非公开的活动，邀请美国官员、外国政府官员和硅谷高管参加。2026 年活动定于 8 月 12 日至 16 日在爱尔兰都柏林的 Powerscourt Hotel 举行，注册的与会者共 222 人，并标明了他们是活跃会员还是特邀嘉宾（guest），会议讨论的主题包括“金钱能买到幸福吗？”“恢复核能”“应对第三次世界大战”“性生活”“建立邪教（Build-a-Cult）”“建立一个党（Build-a-Party）”等等。2025 年上任的北约欧洲盟军指挥官 Alexus Grynkewich 将军自 2021 年起就参与了 Dialog 活动。名单中的名人还有 Palantir 联合创始人 Joe Lonsdale、美财长 Scott Bessent、参议员 Ted Cruz、陆军部长 Dan Driscoll、参与监管 Pantir 的众议员 Jim Hime，以及 Google 和 DeepMind 高管、经济学诺奖得主 Roger Myerson ",
+      "url": "https://www.solidot.org/story?sid=84601",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "垂直绿化给城市降温",
+      "date": "Tue, 16 Jun 2026 16:21:47 GMT",
+      "summary": "气候变化和城市化加剧了热岛效应，城市地区的温度显著高于农村地区，而更高的温度又推动了制冷需求和加剧了电网压力，形成某种恶性循环。日本大阪府大学 Jihui Yuan 副教授领导的团队调查了垂直绿化等城市降温策略。他们的研究显示，朝南绿墙可将室内热条件改善最多 1.7°C；低反照率外表面能改善室外热舒适度最多 1.5°C；高反照率外表面则有助于降低室内温度。",
+      "url": "https://www.solidot.org/story?sid=84600",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "Gemini App",
+      "url": "https://blog.google/products-and-platforms/products/gemini/",
+      "date": "2026-06-16T16:16:15.178Z",
+      "summary": "",
+      "category": "Products",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "NotebookLM",
+      "url": "https://blog.google/innovation-and-ai/products/notebooklm/",
+      "date": "2026-06-16T16:16:15.178Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "View the collection",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
+      "date": "2026-06-16T16:16:15.178Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Global Network",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/",
+      "date": "2026-06-16T16:16:15.178Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "June Android Drop: New personalization and safety features are here Plan outfits in Google Photos, get alerts for fake calls, and share pics with iPhone devices and more.",
+      "url": "https://blog.google/products-and-platforms/platforms/android/android-drop-june-2026/",
+      "date": "2026-06-16T16:16:15.178Z",
+      "summary": "",
+      "category": "Google",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Growing the next generation of American workers Google is expanding its total skilled trades support to $50 million to help prepare more than 300,000 American workers.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/skilled-trades/",
+      "date": "2026-06-16T16:16:15.178Z",
+      "summary": "",
+      "category": "Company",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "The State of AI: A Look at What's Next",
+      "url": "https://every.to/p/the-state-of-ai",
+      "date": "2026-06-16T16:16:01.187Z",
+      "summary": "An in-depth analysis of the current AI landscape and future trends.",
+      "category": "AI Analysis",
+      "source": "Every.to",
+      "source_name": "every"
+    },
     {
       "title": "GLP-1 减肥药在降低体重的同时也降低了骨折率",
       "date": "Tue, 16 Jun 2026 14:30:42 GMT",
@@ -32,219 +244,18 @@
       "source_name": "solidot"
     },
     {
-      "title": "鸿蒙智行全面引入电池二供，国轩高科将上车问界｜36氪独家",
-      "date": "Tue, 16 Jun 2026 13:24:26 GMT",
-      "summary": "今年以来，市场竞争进一步加剧，内存等供应链成本大幅攀升，寻求供应链降本、使产品定价更具竞争力，成了汽车行业更为迫切的课题。 在这样的背景下，36氪从多位产业人士处了解到，稳居中高端市场的鸿蒙智行也开始全面引入多家动力电池供应商。 “除了尊界短期内规模支撑不了第二家，其他界可能都会引入多元电池供应商。”有知情人士透露。 据36氪了解，其中，长期由宁德时代独供的问界品牌，将引入中创新航、国轩高科两家二线电池供应商，问界M6现已定点了国轩高科的81度电池包，有知情人士透露，去年国轩高科便已收到了鸿蒙智行的定点信，中创新航也将进入问界的供应体系。 而就在2022年8月，赛力斯曾与宁德时代签署了五年长期战略合作协议，双方宣布问界车型，全面搭载宁德时代动力电池。去年6月，宁德时代在问界超级工厂内的产线投产，这是宁德时代首次落地“厂中厂”模式，也是它在重庆的第一条电池产线。宁德时代与问界合作程度之紧密，可见一斑。 36氪还了解到，智界品牌的动力电池，原本由宁德时代与中创新航供应，现即将引入国轩高科与欣旺达。 据接近欣旺达和国轩高科的行业人士透露，智界V9和智界R7两款车，或将搭载欣旺达的53度磷酸铁",
-      "url": "https://36kr.com/p/3855879311823873?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "热门中概股美股盘前普跌，百度跌超3%",
-      "date": "Tue, 16 Jun 2026 12:55:23 GMT",
-      "summary": "36氪获悉，热门中概股美股盘前普跌，截至发稿，百度跌超3%，阿里巴巴、哔哩哔哩、小鹏集团跌超2%，拼多多、微博、蔚来、理想汽车、富途控股跌超1%。",
-      "url": "https://36kr.com/newsflashes/3855851907749127?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "美股大型科技股盘前多数下跌，SpaceX涨超5%",
-      "date": "Tue, 16 Jun 2026 12:53:29 GMT",
-      "summary": "36氪获悉，美股大型科技股盘前多数下跌，截至发稿，英特尔跌超2%，特斯拉跌超1%，英伟达跌0.64%，微软跌0.63%，奈飞跌0.22%，谷歌跌0.18%，苹果跌0.15%，Meta跌0.11%；SpaceX涨超5%，亚马逊涨0.4%。",
-      "url": "https://36kr.com/newsflashes/3855850043446277?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "中粮科技：拟挂牌转让吉林中粮生化包装公司100%股权",
-      "date": "Tue, 16 Jun 2026 12:50:00 GMT",
-      "summary": "36氪获悉，中粮科技公告，公司拟通过北京产权交易所公开挂牌转让所持有的吉林中粮生化包装有限公司100%股权。此次挂牌转让股权，有助于加快核心业务布局的优化调整，优化资源配置，减轻公司负担并回笼资金，为公司未来发展提供资金支持。",
-      "url": "https://36kr.com/newsflashes/3855846613882118?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "Gemini App",
-      "url": "https://blog.google/products-and-platforms/products/gemini/",
-      "date": "2026-06-16T12:46:07.649Z",
-      "summary": "",
-      "category": "Products",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "NotebookLM",
-      "url": "https://blog.google/innovation-and-ai/products/notebooklm/",
-      "date": "2026-06-16T12:46:07.649Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "View the collection",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
-      "date": "2026-06-16T12:46:07.649Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Global Network",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/",
-      "date": "2026-06-16T12:46:07.649Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "June Android Drop: New personalization and safety features are here Plan outfits in Google Photos, get alerts for fake calls, and share pics with iPhone devices and more.",
-      "url": "https://blog.google/products-and-platforms/platforms/android/android-drop-june-2026/",
-      "date": "2026-06-16T12:46:07.649Z",
-      "summary": "",
-      "category": "Google",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Growing the next generation of American workers Google is expanding its total skilled trades support to $50 million to help prepare more than 300,000 American workers.",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/skilled-trades/",
-      "date": "2026-06-16T12:46:07.649Z",
-      "summary": "",
-      "category": "Company",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "The State of AI: A Look at What's Next",
-      "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-06-16T12:45:58.768Z",
-      "summary": "An in-depth analysis of the current AI landscape and future trends.",
-      "category": "AI Analysis",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "尤洛卡：拟定增募资不超10亿元，用于火箭发动机核心零部件项目",
-      "date": "Tue, 16 Jun 2026 12:33:02 GMT",
-      "summary": "36氪获悉，尤洛卡公告，公司拟向特定对象发行股票募资不超过10亿元（含），扣除发行费用后的募集资金净额将投资于火箭发动机核心零部件精密制造及产业化项目（一期）。",
-      "url": "https://36kr.com/newsflashes/3855829942080773?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "赛特新材：拟5000万元至1亿元回购公司股份",
-      "date": "Tue, 16 Jun 2026 12:25:05 GMT",
-      "summary": "36氪获悉，赛特新材公告，公司拟以5000万元—1亿元回购公司股份，用于员工持股计划或者股权激励，回购股份价格不超过47元/股（含）。",
-      "url": "https://36kr.com/newsflashes/3855822124815625?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "禁止使用科技产品提升了学生的阅读能力",
-      "date": "Tue, 16 Jun 2026 11:06:58 GMT",
-      "summary": "在数字化时代，一名教师的低科技实验显示学生的阅读能力有了显著提升。明尼阿波利斯 Washburn 高中的 AP 文学和英语教师 Maureen Mulvaney 在学生抄袭、注意力不集中以及阅读能力下降等问题之后开始了低科技实验，在家长的支持下，她禁止学生使用手机和笔记本电脑，要求所有作业都必须用纸笔完成。尽管学生一开始有抵触，但效果立竿见影：实验前的 2025 年 9 月只有 46% 的学生对阅读能力有信心，到了今年 2 月该比例飙升至 95%。大多数学生能写至少两页部分学生甚至能写五六页英文文章。79% 的学生表示在纸上写作和组织思路比在屏幕上更容易。",
-      "url": "https://www.solidot.org/story?sid=84596",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "开源模型能否战胜 OpenAI？",
-      "date": "Tue, 16 Jun 2026 09:47:07 GMT",
-      "summary": "中美两国的 AI 公司采取了不同的发布策略：中国侧重于开源权重模型，美国公司如 OpenAI 和 Anthropic 则采用闭源策略。Hugging Face 前亚太生态系统高管 Tiezhen Wang 表示，OpenAI 和 Anthropic 指责中国 AI 公司蒸馏其模型，他认为蒸馏是中性的，美国 AI 公司是通过抓取互联网上的信息训练模型，它们并非知识的创造者，却试图阻止其他人重复利用知识，有点讽刺。所有 AI 生成的内容都应该没有版权，否则拥有算力的人能滥用权力，生成各种组合内容然后对所有内容都申请版权。他发现中国公司和美国公司在最大化使用 token 上有明显差异，因为中国有很多开源权重模型，其使用成本没有美国大，因此中国互联网公司都鼓励员工最大化使用 token，鼓励员工成为 AI 原生开发者，甚至禁止他们手动完成撰写文档之类的日常工作。",
-      "url": "https://www.solidot.org/story?sid=84595",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "curl 暂停一个月接受漏洞报告",
-      "date": "Tue, 16 Jun 2026 08:11:03 GMT",
-      "summary": "curl 项目维护者 Daniel Stenberg 宣布，curl 将于 7 月 1 日至 8 月 3 日期间暂停接收漏洞报告，除非提交者拥有付费支持合同。他称之为“curl 的极乐夏日”。Stenberg 称过去四个月一直承受着巨大的压力，他们需要休息一下。GitHub 上的项目 issue 和 pull-request 保持开放，curl 8.22.0 的发布日期推迟两周至 2026 年 9 月 2 日发布。",
-      "url": "https://www.solidot.org/story?sid=84594",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "A Definition of Good Explanations and the Challenges Explaining LLM Outputs",
-      "date": "Tue, 16 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.14838v1 Announce Type: new Abstract: How to define a good explanation is a long-standing philosophical debate which has found recent renewed interest in the context of AI outputs. Explainability is crucial for AI adoption in many contexts, but in order to produce good explanations of AI systems, we must first have an understanding of what good explanations are. In this paper we propose a definition inspired by the notion of counterfactual explanations, however we argue that one must a",
-      "url": "https://arxiv.org/abs/2606.14838",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Dr-DCI: Scaling Direct Corpus Interaction via Dynamic Workspace Expansion",
-      "date": "Tue, 16 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.14885v1 Announce Type: new Abstract: Agentic search over large corpora relies on retriever-mediated interfaces (e.g., BM25 or ColBERT) for scalable candidate discovery. While effective at ranking relevant documents, these interfaces expose evidence only as ranked results or bounded document views, limiting agents' ability to reorganize material and verify constraints across documents. Direct Corpus Interaction (DCI) addresses this limitation by exposing shell-executable corpus operati",
-      "url": "https://arxiv.org/abs/2606.14885",
-      "category": [
-        "cs.AI",
-        "cs.CL"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Relational Structural Causal Models",
-      "date": "Tue, 16 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.14892v1 Announce Type: new Abstract: An artificial intelligence must have a model of its environment that is causal, supporting reasoning about interventions and counterfactuals, and also combinatorial, supporting generalization to unseen combinations of objects. In this work, we formally study when and how such a model can be learned. We develop relational structural causal models, extending structural causal models (Pearl 2009) to settings where objects and their relations vary. Fir",
-      "url": "https://arxiv.org/abs/2606.14892",
-      "category": [
-        "cs.AI",
-        "cs.LG",
-        "cs.SI",
-        "stat.ML"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Trust Between AI Agents: Measuring Formation, Breakage, and Recovery, with Implications for Governing Multi-Agent Systems",
-      "date": "Tue, 16 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.14923v1 Announce Type: new Abstract: As language-model agents increasingly work in teams, each agent must decide how much to trust its teammates. Yet we lack a standard way to measure trust between AI agents. We propose a behavioral measure based on costly verification. In a cooperative survival game, checking a teammate's work consumes resources, while trusting a wrong answer can be fatal. Relative to a memoryless version of the same model, reduced verification provides an observable",
-      "url": "https://arxiv.org/abs/2606.14923",
-      "category": [
-        "cs.AI",
-        "cs.CY",
-        "cs.MA"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "PrologMCP: A Standardized Prolog Tool Interface for LLM Agents",
-      "date": "Tue, 16 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.14935v1 Announce Type: new Abstract: Frontier reasoning-tuned language models still fail on deductive tasks at depth, and the cost of improved performance through extended internal reasoning scales poorly. Symbolic delegation offers a complementary route: a language model translates the problem, while a solver performs the inference. However, current autoformalization pipelines for logic programming are typically bespoke integrations tied to particular tasks or agents. We introduce Pr",
-      "url": "https://arxiv.org/abs/2606.14935",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Semantics-Enhanced Retrieval-Augmented Time Series Forecasting",
-      "date": "Tue, 16 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.14941v1 Announce Type: new Abstract: Time series forecasting models often benefit from historical patterns. Inspired by Retrieval-Augmented Generation (RAG), recent research explored retrieving relevant historical time series segments to enhance forecasting. However, relying solely on time series similarity is often insufficient for retrieval under non-stationarity. To address this, we propose a multimodal approach: a \\textbf{S}emantics-\\textbf{E}nhanced \\textbf{R}etrieval-\\textbf{A}u",
-      "url": "https://arxiv.org/abs/2606.14941",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
+      "title": "Predicting model behavior before release by simulating deployment",
+      "date": "Tue, 16 Jun 2026 00:00:00 GMT",
+      "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+      "url": "https://openai.com/index/deployment-simulation",
+      "category": "Research",
+      "source": "OpenAI News",
+      "source_name": "openai"
     },
     {
       "title": "How Startups Are Using AI to Disrupt Industries",
       "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-06-15T12:45:58.768Z",
+      "date": "2026-06-15T16:16:01.187Z",
       "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
       "category": "Source Code",
       "source": "Every.to",
@@ -262,7 +273,7 @@
     {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-06-14T12:45:58.768Z",
+      "date": "2026-06-14T16:16:01.187Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
@@ -271,7 +282,7 @@
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-06-13T12:45:58.768Z",
+      "date": "2026-06-13T16:16:01.187Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
@@ -280,7 +291,7 @@
     {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-06-12T12:45:58.768Z",
+      "date": "2026-06-12T16:16:01.187Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -307,18 +318,18 @@
     {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-06-11T12:45:58.768Z",
+      "date": "2026-06-11T16:16:01.187Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
       "source_name": "every"
     },
     {
-      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem ",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
       "date": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "category": "Global Affairs",
+      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "category": "Applied AI",
       "source": "OpenAI News",
       "source_name": "openai"
     },
@@ -328,15 +339,6 @@
       "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
       "url": "https://openai.com/index/openai-to-acquire-ona",
       "category": "Company",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "date": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "category": "Applied AI",
       "source": "OpenAI News",
       "source_name": "openai"
     }
