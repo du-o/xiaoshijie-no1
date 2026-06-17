@@ -1,8 +1,22 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-06-17T12:10:42.649Z",
+  "fetch_time": "2026-06-17T14:42:44.727Z",
   "articles": [
+    {
+      "title": "恶意墙纸瞄准中俄 Steam 用户窃取其账号",
+      "date": "Wed, 17 Jun 2026 11:01:13 GMT",
+      "summary": "俄罗斯安全公司卡巴斯基对中俄 Steam 用户发出警告，恶意墙纸正在 Steam 创意工坊快速扩散，其目的是劫持他们的账号。攻击者利用了热门墙纸应用 Wallpaper Engine 创意工坊分享功能的漏洞，恶意程序隐藏在分享的壁纸包中。运行被感染的壁纸会导致 Steam 账号被盗，或者系统被植入后门或加密货币挖矿程序。安全研究人员在创意工坊发现了数十款恶意壁纸，每一款都被下载了数千次，甚至数万次。黑客主要针对中国 Steam 用户，墙纸的艺术风格和标题都专门针对中国玩家量身定制，中国玩家的下载量最多，占到了总下载量的&nbsp; 89.4%，其次是俄罗斯的 5.5%，新加坡 (1.4%)、香港 (0.9%)、德国 (0.9%)、越南 (0.9%)、印度 (0.5%) 和加拿大 (0.5%)。Steam 目前已经移除了包含恶意程序的墙纸。",
+      "url": "https://www.solidot.org/story?sid=84609",
+      "category": ""
+    },
+    {
+      "title": "Firefox 用 Zlib 的 Rust 语言版本替代了 C 语言版本",
+      "date": "Wed, 17 Jun 2026 10:31:10 GMT",
+      "summary": "Firefox 浏览器从 v151 开始，Gzip 压缩/解压缩就依赖于 zlib-rs 库，用 Rust 语言开发的版本替代了 C 语言版本改进了性能，提供了更好的内存安全性，以及带来了英特尔第 13 代/第 14 代酷睿 CPU 不稳定导致的崩溃问题。致力于用 Rust 语言重写关键库的非盈利组织 Trifecta Tech Foundation 在 2024 年夏天就与 Mozilla 讨论在浏览器中集成 zlib-rs，但从测试到落地花了两年时间，一个重要原因就是 zlib-rs 触发了臭名昭著的英特尔 CPU bug。测试中 zlib-rs 中的一些代码导致英特尔 Raptor Lake CPU 频繁崩溃，开发者最终发现问题与 Huffman 编码写入内存的一个特定指令相关，识别问题之后解决起来就容易了，开发者通过加入一段“不安全代码”修复了该问题。",
+      "url": "https://www.solidot.org/story?sid=84608",
+      "category": ""
+    },
     {
       "title": "泄漏财务数据显示 2025 年 OpenAI 净亏损约 80 亿美元",
       "date": "Wed, 17 Jun 2026 09:23:05 GMT",
@@ -29,20 +43,6 @@
       "date": "Wed, 17 Jun 2026 06:34:42 GMT",
       "summary": "Mozilla 在宣布 Firefox 152 的同时，公布了将在未来推出的一系列新功能，其中包括：更新 UI 的 Project Nova；自定义快捷键；改进 PDF 编辑功能——支持在浏览器上直接拆分、合并和重组 PDF 文档；Multi-Account Containers 从扩展变成原生功能；移动版本将内置免费 VPN（可能只限于少数国家）；通过语音向浏览器提问获得 AI 生成答案的 Quick Answers；隐私 AI 浏览 Smart Window；省电模式（Power Saving Mode）识别手机上消耗资源最多的标签页，自动降低其资源占用，从而延长电池续航时间，等等。",
       "url": "https://www.solidot.org/story?sid=84604",
-      "category": ""
-    },
-    {
-      "title": "ChatGPT 市场份额首次跌破 50%",
-      "date": "Wed, 17 Jun 2026 04:21:08 GMT",
-      "summary": "根据 Sensor Tower 的《State of AI Report for 2026》报告，在 ChatGPT 发布三年半之后，其市场份额首次跌破 50%，而用户正在 Google Gemini、Anthropic Claude 等不同 AI 助手之间切换。ChatGPT 是最快达到 10 亿月活用户的应用，它的月活用户目前超过 11 亿，之后是 Gemini 的 6.62 亿 和 Claude 的 2.45 亿。ChatGPT 在今年 1 月市场份额还超过 50%，但到了 5 月底降至 46.4%，Gemini 占 27.7% 和 Claude 占 10.3%，Grok、Perplexity、DeepSeek 和 Meta AI 都低于 5%。 Sensor Tower 估计，2026 年上半年，AI 应用下载量预计将接近 23 亿次，用户支出将超过 42 亿美元。相比之下 2025 年上半年的 AI 支出为 18.3 亿美元——这表明 AI 行业正将重心从增长转向盈利。但下载量和支出增长率均已放缓，表明即使绝对数量在继续攀升，市场可能正走向成熟。中国和印度的 AI 应用下载量",
-      "url": "https://www.solidot.org/story?sid=84603",
-      "category": ""
-    },
-    {
-      "title": "微软考虑使用 DeepSeek 的开源模型降低成本",
-      "date": "Wed, 17 Jun 2026 02:25:26 GMT",
-      "summary": "最大化词元使用（tokenmaxxing）对微软的 AI 工具 Copilot 产生了不利影响，软件巨人正在考虑使用 DeepSeek 的开源模型以降低成本。微软考虑使用的是 DeepSeek-V4 自托管版本的修改版，它将作为一种低成本选项用于驱动微软的 Copilot Cowork。Copilot Cowork 目前运行在 Anthropic 和 OpenAI 的模型上，两家公司不断涨价，Copilot 也从无限量使用切换到了基于使用量的定价模式，此举招致了用户的强烈不满。更便宜的型号有助于降低成本让用户满意，但可能会让特朗普政府不满意。",
-      "url": "https://www.solidot.org/story?sid=84602",
       "category": ""
     }
   ],
