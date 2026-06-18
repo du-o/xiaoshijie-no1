@@ -1,63 +1,66 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-06-17T14:42:41.057Z",
+  "fetch_time": "2026-06-18T04:40:58.076Z",
   "articles": [
     {
-      "title": "Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search",
-      "date": "Wed, 17 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.17209v1 Announce Type: new Abstract: Test-time scaling for agentic search typically increases depth (i.e., more turns and tokens per trajectory) or breadth (i.e., more parallel rollouts). Here we focus on breadth scaling, showing that standard parallel sampling yields diminishing returns, tracing this to query redundancy at the first turn. When models issue similar first queries across rollouts, the threads retrieve overlapping evidence, and subsequent turns are conditioned on this sh",
-      "url": "https://arxiv.org/abs/2606.17209",
+      "title": "NAVI-Orbital: First In-Orbit Demonstration of a Zero-Shot Vision-Language Model for Autonomous Earth Observation",
+      "date": "Thu, 18 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.18271v1 Announce Type: new Abstract: As Earth Observation data generation outpaces downlink bandwidth and human-in-the-loop processing, a widening gap has emerged between onboard collection and actionable ground intelligence. This paper presents NAVI-Orbital, a software system deployed on a Low Earth Orbit (LEO) spacecraft. On April 16, 2026, NAVI-Orbital achieved what is, to the authors' knowledge, the first in-orbit demonstration of a vision-language model performing autonomous mult",
+      "url": "https://arxiv.org/abs/2606.18271",
       "category": [
         "cs.AI",
-        "cs.IR"
+        "cs.LG"
       ]
     },
     {
-      "title": "When Rules Learn: A Self-Evolving Agent for Legal Case Retrieval",
-      "date": "Wed, 17 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.17220v1 Announce Type: new Abstract: Legal case retrieval remains challenging due to the complexity of legal language and the need for precise lexical alignment between queries and relevant cases. Although dense retrieval models have achieved notable progress, empirical studies show that BM25 continues to serve as a strong baseline in this domain. It motivates us to propose a self-evolving framework for rule-driven query rewriting that enhances BM25 without any parameter training. The",
-      "url": "https://arxiv.org/abs/2606.17220",
+      "title": "CaVe-VLM-CoT: An Interpretable Vision-Language Model Framework",
+      "date": "Thu, 18 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.18385v1 Announce Type: new Abstract: Vision-Language Models (VLMs) remain prone to hallucinations, producing fluent but visually unfaithful outputs. Existing chain-of-thought and retrieval-augmented methods only partially address this, as they neither enforce step-level citation grounding nor route verification failures back to retrieval for correction. We present CaVe-VLM-CoT, a modular reflection-based agentic-RAG framework that enforces evidence-grounded reasoning through a five-st",
+      "url": "https://arxiv.org/abs/2606.18385",
       "category": "cs.AI"
     },
     {
-      "title": "SkillChain-Gym: A Benchmark for Reskilling-Aware Production-Inventory Control under Disruptions",
-      "date": "Wed, 17 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.17266v1 Announce Type: new Abstract: Production planning increasingly has to treat workforce capability as a decision variable: certifications lapse when skills are not maintained, new products require skills the current workforce does not hold, and reskilling competes for the same worker hours needed for production. Existing operations benchmarks usually treat labor as exogenous, while workforce-planning models with skills and learning are rarely released as reusable testbeds. We int",
-      "url": "https://arxiv.org/abs/2606.17266",
+      "title": "Searching for Synergy in Shared Workspace Human-AI Collaboration",
+      "date": "Thu, 18 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.18413v1 Announce Type: new Abstract: Automated AI agents are increasingly capable, yet many scientific and professional tasks require human judgment and contextual expertise. We study shared-workspace human-AI teams, where AI agents and human collaborators must coordinate responsibilities before submitting a final answer. Using the Collaborative Gym environment with DiscoveryBench tasks, we examine when adding simulated human collaborators improves performance and when process loss tu",
+      "url": "https://arxiv.org/abs/2606.18413",
       "category": [
         "cs.AI",
-        "cs.SY",
-        "eess.SY"
+        "cs.HC"
       ]
     },
     {
-      "title": "Skill-Constrained Model Predictive Control for Resilient Manufacturing Supply Chains",
-      "date": "Wed, 17 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.17269v1 Announce Type: new Abstract: In skill-constrained production-inventory systems, the qualified human capacity available tomorrow depends on training decisions made today: production requires certified workers, certifications decay unless maintained, and training consumes the same scarce worker hours that production needs now. We study a closed-loop skill-constrained model predictive controller that, at every shift, solves a finite-horizon mixed-integer program over production, ",
-      "url": "https://arxiv.org/abs/2606.17269",
+      "title": "CEO-Bench: Can Agents Play the Long Game?",
+      "date": "Thu, 18 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.18543v1 Announce Type: new Abstract: Language model agents are becoming proficient executors at isolated, short-horizon tasks such as software engineering and customer service. Yet real-world challenges require a combination of sophisticated skills that remain largely untested in agents: (1) navigating long horizons amid uncertainty; (2) acquiring information in noisy environments; (3) adapting to a changing world; (4) orchestrating multiple moving parts toward a coherent goal. We int",
+      "url": "https://arxiv.org/abs/2606.18543",
       "category": [
         "cs.AI",
-        "cs.SY",
-        "eess.SY"
+        "cs.CL",
+        "cs.SE"
       ]
     },
     {
-      "title": "Nothing from Something: Can a Language Model Discover 0?",
-      "date": "Wed, 17 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.17289v1 Announce Type: new Abstract: AI systems based on artificial neural networks are being developed with aspirations of pushing the boundary of human mathematical knowledge. A key question for these systems is how much they can reach beyond their training data. Mathematical discovery requires a strong form of out of distribution generalization; the ability to hypothesize genuinely new - and potentially logically more powerful - mathematical structures. It has been hypothesized tha",
-      "url": "https://arxiv.org/abs/2606.17289",
+      "title": "DeFAb: A Verifiable Benchmark for Defeasible Abduction in Foundation Models",
+      "date": "Thu, 18 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.18557v1 Announce Type: new Abstract: A rule-based logic solver resolves every instance in our benchmark in under 50 microseconds with 100% accuracy; the best frontier language model reaches 65% at best and drops to 23.5% under rendering-robust evaluation (worst case over four surface renderings). We introduce DeFAb (Defeasible Abduction Benchmark), a dataset and generation pipeline that converts four decades of publicly funded knowledge bases into formally grounded instances for defea",
+      "url": "https://arxiv.org/abs/2606.18557",
       "category": [
         "cs.AI",
-        "cs.CL"
+        "cs.LG",
+        "cs.LO"
       ]
     },
     {
-      "title": "Quantifying Consistency in LLM Logical Reasoning via Structural Uncertainty",
-      "date": "Wed, 17 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.17312v1 Announce Type: new Abstract: Large language models can arrive at the same answer through reasoning paths that are unstable, contradictory, or difficult to rank consistently -- a failure mode especially prevalent in multi-step deductive reasoning. Existing methods assess reliability primarily through output dispersion -- measuring how much sampled answers differ -- but this discards a complementary signal: whether the model can consistently rank competing reasoning candidates. ",
-      "url": "https://arxiv.org/abs/2606.17312",
-      "category": "cs.AI"
+      "title": "Optimizing Lithium Production Decisions under Geological, Demand, and Pricing Uncertainties: A POMDP Framework for Multi-Objective Decision Making",
+      "date": "Thu, 18 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.18598v1 Announce Type: new Abstract: Decision making in lithium production is challenging, whether from an investor's perspective or a strategic production standpoint. Determining which mines to open and when to open them involves not only geological and price uncertainties, but also complexities around the choice of extraction method, from direct lithium extraction to hard rock mining. Prior work explored models of this problem and different methods to optimize mining decisions; thes",
+      "url": "https://arxiv.org/abs/2606.18598",
+      "category": [
+        "cs.AI",
+        "cs.LG"
+      ]
     }
   ],
   "status": "success",

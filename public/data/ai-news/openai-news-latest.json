@@ -1,8 +1,22 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-06-17T14:42:40.928Z",
+  "fetch_time": "2026-06-18T04:40:57.848Z",
   "articles": [
+    {
+      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "date": "Wed, 17 Jun 2026 10:00:00 GMT",
+      "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+      "url": "https://openai.com/index/ai-chemist-improves-reaction",
+      "category": "Research"
+    },
+    {
+      "title": "Introducing LifeSciBench",
+      "date": "Wed, 17 Jun 2026 00:00:00 GMT",
+      "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+      "url": "https://openai.com/index/introducing-life-sci-bench",
+      "category": "Research"
+    },
     {
       "title": "Predicting model behavior before release by simulating deployment",
       "date": "Tue, 16 Jun 2026 00:00:00 GMT",
@@ -29,20 +43,6 @@
       "date": "Fri, 12 Jun 2026 00:00:00 GMT",
       "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
       "url": "https://openai.com/index/preply",
-      "category": ""
-    },
-    {
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "date": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "category": "Applied AI"
-    },
-    {
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "date": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-      "url": "https://openai.com/index/bbva",
       "category": ""
     }
   ],
