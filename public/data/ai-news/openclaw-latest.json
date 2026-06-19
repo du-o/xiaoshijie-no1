@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-06-19T04:59:26.218Z",
+  "fetch_time": "2026-06-19T09:05:10.329Z",
   "articles": [
+    {
+      "title": "openclaw 2026.6.9-beta.1",
+      "date": "2026-06-19T05:52:39Z",
+      "summary": "## 2026.6.9\n\n### Highlights\n\n- **Richer Telegram delivery:** Telegram now sends rich HTML, preserves rich markdown and sticker paths, renders progress drafts and command output more faithfully, and ke...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.9-beta.1",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.6.9-beta.1",
+      "downloadCount": 17
+    },
     {
       "title": "openclaw 2026.6.8",
       "date": "2026-06-16T16:32:26Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "vincentkoc",
       "tagName": "v2026.6.8",
-      "downloadCount": 18202
+      "downloadCount": 19186
     },
     {
       "title": "openclaw 2026.6.8-beta.2",
@@ -52,16 +62,6 @@
       "author": "github-actions[bot]",
       "tagName": "v2026.6.6",
       "downloadCount": 2230
-    },
-    {
-      "title": "openclaw 2026.6.6-beta.2",
-      "date": "2026-06-12T03:32:42Z",
-      "summary": "## 2026.6.6\n\n### Highlights\n\n- **Tighter security boundaries:** transcript, sandbox, MCP, browser, channel, and exec-approval paths now fail closed around unsafe access, timed-out approvals, and malfo...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.6-beta.2",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.6.6-beta.2",
-      "downloadCount": 37
     }
   ],
   "status": "success",
