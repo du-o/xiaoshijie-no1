@@ -1,66 +1,63 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-06-18T14:36:41.690Z",
+  "fetch_time": "2026-06-19T04:59:14.646Z",
   "articles": [
     {
-      "title": "NAVI-Orbital: First In-Orbit Demonstration of a Zero-Shot Vision-Language Model for Autonomous Earth Observation",
-      "date": "Thu, 18 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.18271v1 Announce Type: new Abstract: As Earth Observation data generation outpaces downlink bandwidth and human-in-the-loop processing, a widening gap has emerged between onboard collection and actionable ground intelligence. This paper presents NAVI-Orbital, a software system deployed on a Low Earth Orbit (LEO) spacecraft. On April 16, 2026, NAVI-Orbital achieved what is, to the authors' knowledge, the first in-orbit demonstration of a vision-language model performing autonomous mult",
-      "url": "https://arxiv.org/abs/2606.18271",
+      "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
+      "date": "Fri, 19 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.19464v1 Announce Type: new Abstract: Autonomous agentic AI systems driven by Large Language Models (LLMs) introduce a new class of security, privacy, and compliance challenges: an agent that can invoke tools, manipulate data, install software, and coordinate with peer agents across organizational boundaries must be constrained not just by authentication and access control, but by the full structure of enterprise governance. This includes specifying what agents are permitted and prohib",
+      "url": "https://arxiv.org/abs/2606.19464",
       "category": [
         "cs.AI",
-        "cs.LG"
+        "cs.MA"
       ]
     },
     {
-      "title": "CaVe-VLM-CoT: An Interpretable Vision-Language Model Framework",
-      "date": "Thu, 18 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.18385v1 Announce Type: new Abstract: Vision-Language Models (VLMs) remain prone to hallucinations, producing fluent but visually unfaithful outputs. Existing chain-of-thought and retrieval-augmented methods only partially address this, as they neither enforce step-level citation grounding nor route verification failures back to retrieval for correction. We present CaVe-VLM-CoT, a modular reflection-based agentic-RAG framework that enforces evidence-grounded reasoning through a five-st",
-      "url": "https://arxiv.org/abs/2606.18385",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Searching for Synergy in Shared Workspace Human-AI Collaboration",
-      "date": "Thu, 18 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.18413v1 Announce Type: new Abstract: Automated AI agents are increasingly capable, yet many scientific and professional tasks require human judgment and contextual expertise. We study shared-workspace human-AI teams, where AI agents and human collaborators must coordinate responsibilities before submitting a final answer. Using the Collaborative Gym environment with DiscoveryBench tasks, we examine when adding simulated human collaborators improves performance and when process loss tu",
-      "url": "https://arxiv.org/abs/2606.18413",
+      "title": "Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitive Depth: A Longitudinal Framework Applied to CS2013 and CS2023",
+      "date": "Fri, 19 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.19469v1 Announce Type: new Abstract: Undergraduate computer science is governed by international curricular guidelines revised about once a decade, yet programs lack a reliable, reproducible way to measure how completely they cover the current guidelines and how that coverage shifts when the guidelines are restructured. We address this with a human-in-the-loop pipeline that measures a program's coverage of an external body of knowledge, applied longitudinally to one accredited BSc in ",
+      "url": "https://arxiv.org/abs/2606.19469",
       "category": [
         "cs.AI",
-        "cs.HC"
-      ]
-    },
-    {
-      "title": "CEO-Bench: Can Agents Play the Long Game?",
-      "date": "Thu, 18 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.18543v1 Announce Type: new Abstract: Language model agents are becoming proficient executors at isolated, short-horizon tasks such as software engineering and customer service. Yet real-world challenges require a combination of sophisticated skills that remain largely untested in agents: (1) navigating long horizons amid uncertainty; (2) acquiring information in noisy environments; (3) adapting to a changing world; (4) orchestrating multiple moving parts toward a coherent goal. We int",
-      "url": "https://arxiv.org/abs/2606.18543",
-      "category": [
-        "cs.AI",
-        "cs.CL",
         "cs.SE"
       ]
     },
     {
-      "title": "DeFAb: A Verifiable Benchmark for Defeasible Abduction in Foundation Models",
-      "date": "Thu, 18 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.18557v1 Announce Type: new Abstract: A rule-based logic solver resolves every instance in our benchmark in under 50 microseconds with 100% accuracy; the best frontier language model reaches 65% at best and drops to 23.5% under rendering-robust evaluation (worst case over four surface renderings). We introduce DeFAb (Defeasible Abduction Benchmark), a dataset and generation pipeline that converts four decades of publicly funded knowledge bases into formally grounded instances for defea",
-      "url": "https://arxiv.org/abs/2606.18557",
+      "title": "Diffusion Language Models: An Experimental Analysis",
+      "date": "Fri, 19 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.19475v1 Announce Type: new Abstract: Large Language Models (LLMs) have revolutionized language modeling through autoregressive generation, enabling strong performance across a wide range of tasks. Recently, Diffusion Language Models (DLMs) have emerged as an alternative paradigm that generates text through iterative denoising rather than next-token prediction, allowing parallel refinement of entire sequences. While numerous diffusion-based architectures have been proposed, differences",
+      "url": "https://arxiv.org/abs/2606.19475",
       "category": [
         "cs.AI",
-        "cs.LG",
-        "cs.LO"
+        "cs.CL"
       ]
     },
     {
-      "title": "Optimizing Lithium Production Decisions under Geological, Demand, and Pricing Uncertainties: A POMDP Framework for Multi-Objective Decision Making",
-      "date": "Thu, 18 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.18598v1 Announce Type: new Abstract: Decision making in lithium production is challenging, whether from an investor's perspective or a strategic production standpoint. Determining which mines to open and when to open them involves not only geological and price uncertainties, but also complexities around the choice of extraction method, from direct lithium extraction to hard rock mining. Prior work explored models of this problem and different methods to optimize mining decisions; thes",
-      "url": "https://arxiv.org/abs/2606.18598",
+      "title": "Hidden Anchors in Multi-Agent LLM Deliberation",
+      "date": "Fri, 19 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.19494v1 Announce Type: new Abstract: Multi-agent LLM deliberation, where agents exchange and revise answers over several rounds, is increasingly used to improve reasoning and accuracy, yet how and why it works is rarely modelled. Such deliberation mirrors how humans reach decisions. As social animals we are pulled both by the group, the herd effect that classical opinion-dynamics models such as DeGroot and Friedkin--Johnsen capture, and by our own internal belief, which they do not. W",
+      "url": "https://arxiv.org/abs/2606.19494",
+      "category": "cs.AI"
+    },
+    {
+      "title": "DeXposure-Claw: An Agentic System for DeFi Risk Supervision",
+      "date": "Fri, 19 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.19501v1 Announce Type: new Abstract: Decentralized finance exposes supervisors to fast-moving, networked credit risks. General-purpose LLM agents fit this setting poorly: they over-read weak evidence and recommend high-stakes interventions, while existing evaluations offer no regulator-aligned way to measure the resulting false alarms. We introduce DeXposure-Claw, a forecast-grounded agentic supervision system that routes LLM decisions through structured evidence: (1) DeXposure-FM, a ",
+      "url": "https://arxiv.org/abs/2606.19501",
       "category": [
         "cs.AI",
-        "cs.LG"
+        "cs.CL",
+        "cs.LG",
+        "q-fin.RM"
       ]
+    },
+    {
+      "title": "LLM Doesn't Know What It Doesn't Know: Detecting Epistemic Blind Spots via Cross-Model Attribution Divergence on Clinical Tabular Data",
+      "date": "Fri, 19 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.19509v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly applied to structured clinical data, yet whether they can recognize the limits of their own knowledge on such tasks remains unexplored. We study this question through the lens of cross-model attribution divergence with the goal of reducing epistemic uncertainty for structured tasks, comparing Qwen 2.5 7B and XGBoost on a prediction task via attribution divergence analysis. We report four findings. First",
+      "url": "https://arxiv.org/abs/2606.19509",
+      "category": "cs.AI"
     }
   ],
   "status": "success",
