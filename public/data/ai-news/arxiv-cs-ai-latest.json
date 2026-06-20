@@ -1,11 +1,11 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-06-19T14:33:59.713Z",
+  "fetch_time": "2026-06-20T04:12:48.958Z",
   "articles": [
     {
       "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
-      "date": "Fri, 19 Jun 2026 04:00:00 GMT",
+      "date": "Sat, 20 Jun 2026 04:00:00 GMT",
       "summary": "arXiv:2606.19464v1 Announce Type: new Abstract: Autonomous agentic AI systems driven by Large Language Models (LLMs) introduce a new class of security, privacy, and compliance challenges: an agent that can invoke tools, manipulate data, install software, and coordinate with peer agents across organizational boundaries must be constrained not just by authentication and access control, but by the full structure of enterprise governance. This includes specifying what agents are permitted and prohib",
       "url": "https://arxiv.org/abs/2606.19464",
       "category": [
@@ -15,7 +15,7 @@
     },
     {
       "title": "Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitive Depth: A Longitudinal Framework Applied to CS2013 and CS2023",
-      "date": "Fri, 19 Jun 2026 04:00:00 GMT",
+      "date": "Sat, 20 Jun 2026 04:00:00 GMT",
       "summary": "arXiv:2606.19469v1 Announce Type: new Abstract: Undergraduate computer science is governed by international curricular guidelines revised about once a decade, yet programs lack a reliable, reproducible way to measure how completely they cover the current guidelines and how that coverage shifts when the guidelines are restructured. We address this with a human-in-the-loop pipeline that measures a program's coverage of an external body of knowledge, applied longitudinally to one accredited BSc in ",
       "url": "https://arxiv.org/abs/2606.19469",
       "category": [
@@ -25,7 +25,7 @@
     },
     {
       "title": "Diffusion Language Models: An Experimental Analysis",
-      "date": "Fri, 19 Jun 2026 04:00:00 GMT",
+      "date": "Sat, 20 Jun 2026 04:00:00 GMT",
       "summary": "arXiv:2606.19475v1 Announce Type: new Abstract: Large Language Models (LLMs) have revolutionized language modeling through autoregressive generation, enabling strong performance across a wide range of tasks. Recently, Diffusion Language Models (DLMs) have emerged as an alternative paradigm that generates text through iterative denoising rather than next-token prediction, allowing parallel refinement of entire sequences. While numerous diffusion-based architectures have been proposed, differences",
       "url": "https://arxiv.org/abs/2606.19475",
       "category": [
@@ -35,14 +35,14 @@
     },
     {
       "title": "Hidden Anchors in Multi-Agent LLM Deliberation",
-      "date": "Fri, 19 Jun 2026 04:00:00 GMT",
+      "date": "Sat, 20 Jun 2026 04:00:00 GMT",
       "summary": "arXiv:2606.19494v1 Announce Type: new Abstract: Multi-agent LLM deliberation, where agents exchange and revise answers over several rounds, is increasingly used to improve reasoning and accuracy, yet how and why it works is rarely modelled. Such deliberation mirrors how humans reach decisions. As social animals we are pulled both by the group, the herd effect that classical opinion-dynamics models such as DeGroot and Friedkin--Johnsen capture, and by our own internal belief, which they do not. W",
       "url": "https://arxiv.org/abs/2606.19494",
       "category": "cs.AI"
     },
     {
       "title": "DeXposure-Claw: An Agentic System for DeFi Risk Supervision",
-      "date": "Fri, 19 Jun 2026 04:00:00 GMT",
+      "date": "Sat, 20 Jun 2026 04:00:00 GMT",
       "summary": "arXiv:2606.19501v1 Announce Type: new Abstract: Decentralized finance exposes supervisors to fast-moving, networked credit risks. General-purpose LLM agents fit this setting poorly: they over-read weak evidence and recommend high-stakes interventions, while existing evaluations offer no regulator-aligned way to measure the resulting false alarms. We introduce DeXposure-Claw, a forecast-grounded agentic supervision system that routes LLM decisions through structured evidence: (1) DeXposure-FM, a ",
       "url": "https://arxiv.org/abs/2606.19501",
       "category": [
@@ -54,7 +54,7 @@
     },
     {
       "title": "LLM Doesn't Know What It Doesn't Know: Detecting Epistemic Blind Spots via Cross-Model Attribution Divergence on Clinical Tabular Data",
-      "date": "Fri, 19 Jun 2026 04:00:00 GMT",
+      "date": "Sat, 20 Jun 2026 04:00:00 GMT",
       "summary": "arXiv:2606.19509v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly applied to structured clinical data, yet whether they can recognize the limits of their own knowledge on such tasks remains unexplored. We study this question through the lens of cross-model attribution divergence with the goal of reducing epistemic uncertainty for structured tasks, comparing Qwen 2.5 7B and XGBoost on a prediction task via attribution divergence analysis. We report four findings. First",
       "url": "https://arxiv.org/abs/2606.19509",
       "category": "cs.AI"

@@ -1,9 +1,212 @@
 {
-  "fetch_time": "2026-06-19T14:34:05.021Z",
+  "fetch_time": "2026-06-20T04:12:52.233Z",
   "total_count": 36,
   "sources_count": 6,
   "errors": null,
   "articles": [
+    {
+      "title": "大连坤达完成数千万元A轮融资",
+      "date": "Sat, 20 Jun 2026 04:10:01 GMT",
+      "summary": "据大桉资本消息，大连坤达自动化有限公司已于2026年5月完成数千万元人民币A轮融资，本轮融资由泰州永鑫融堰创业投资合伙企业投资。大桉资本担任本轮融资独家财务顾问及政府落地顾问。（新浪财经）",
+      "url": "https://36kr.com/newsflashes/3860909169366019?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
+      "date": "Sat, 20 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.19464v1 Announce Type: new Abstract: Autonomous agentic AI systems driven by Large Language Models (LLMs) introduce a new class of security, privacy, and compliance challenges: an agent that can invoke tools, manipulate data, install software, and coordinate with peer agents across organizational boundaries must be constrained not just by authentication and access control, but by the full structure of enterprise governance. This includes specifying what agents are permitted and prohib",
+      "url": "https://arxiv.org/abs/2606.19464",
+      "category": [
+        "cs.AI",
+        "cs.MA"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitive Depth: A Longitudinal Framework Applied to CS2013 and CS2023",
+      "date": "Sat, 20 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.19469v1 Announce Type: new Abstract: Undergraduate computer science is governed by international curricular guidelines revised about once a decade, yet programs lack a reliable, reproducible way to measure how completely they cover the current guidelines and how that coverage shifts when the guidelines are restructured. We address this with a human-in-the-loop pipeline that measures a program's coverage of an external body of knowledge, applied longitudinally to one accredited BSc in ",
+      "url": "https://arxiv.org/abs/2606.19469",
+      "category": [
+        "cs.AI",
+        "cs.SE"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Diffusion Language Models: An Experimental Analysis",
+      "date": "Sat, 20 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.19475v1 Announce Type: new Abstract: Large Language Models (LLMs) have revolutionized language modeling through autoregressive generation, enabling strong performance across a wide range of tasks. Recently, Diffusion Language Models (DLMs) have emerged as an alternative paradigm that generates text through iterative denoising rather than next-token prediction, allowing parallel refinement of entire sequences. While numerous diffusion-based architectures have been proposed, differences",
+      "url": "https://arxiv.org/abs/2606.19475",
+      "category": [
+        "cs.AI",
+        "cs.CL"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Hidden Anchors in Multi-Agent LLM Deliberation",
+      "date": "Sat, 20 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.19494v1 Announce Type: new Abstract: Multi-agent LLM deliberation, where agents exchange and revise answers over several rounds, is increasingly used to improve reasoning and accuracy, yet how and why it works is rarely modelled. Such deliberation mirrors how humans reach decisions. As social animals we are pulled both by the group, the herd effect that classical opinion-dynamics models such as DeGroot and Friedkin--Johnsen capture, and by our own internal belief, which they do not. W",
+      "url": "https://arxiv.org/abs/2606.19494",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "DeXposure-Claw: An Agentic System for DeFi Risk Supervision",
+      "date": "Sat, 20 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.19501v1 Announce Type: new Abstract: Decentralized finance exposes supervisors to fast-moving, networked credit risks. General-purpose LLM agents fit this setting poorly: they over-read weak evidence and recommend high-stakes interventions, while existing evaluations offer no regulator-aligned way to measure the resulting false alarms. We introduce DeXposure-Claw, a forecast-grounded agentic supervision system that routes LLM decisions through structured evidence: (1) DeXposure-FM, a ",
+      "url": "https://arxiv.org/abs/2606.19501",
+      "category": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG",
+        "q-fin.RM"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "LLM Doesn't Know What It Doesn't Know: Detecting Epistemic Blind Spots via Cross-Model Attribution Divergence on Clinical Tabular Data",
+      "date": "Sat, 20 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.19509v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly applied to structured clinical data, yet whether they can recognize the limits of their own knowledge on such tasks remains unexplored. We study this question through the lens of cross-model attribution divergence with the goal of reducing epistemic uncertainty for structured tasks, comparing Qwen 2.5 7B and XGBoost on a prediction task via attribution divergence analysis. We report four findings. First",
+      "url": "https://arxiv.org/abs/2606.19509",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "美联储释放“鹰派”信号 本周金价微涨银价大跌",
+      "date": "Sat, 20 Jun 2026 03:52:39 GMT",
+      "summary": "受美元走强等因素推动，国际金价和银价周五下跌。纽约商品交易所8月交割的黄金期货价格尾盘跌幅超过1.7%；7月交割的白银期货价格下跌超2%。因纽商所提前结束交易，纽约黄金和白银期货当天没有收盘价。本周来看，由于美联储释放强于预期的“鹰派”信号，美元指数显著走强，令无息资产承压，纽约商品交易所黄金期货主力合约价格本周小幅上涨0.17%；纽约商品交易所白银期货主力合约价格本周下跌2.43%。由于白银兼具金融与工业双重属性，在美联储加息预期升温和全球工业需求走弱的双重打击下，银价跌幅更为显著。（央视财经）",
+      "url": "https://36kr.com/newsflashes/3860905883178248?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "锦兴电厂1号机组一次并网成功",
+      "date": "Sat, 20 Jun 2026 03:37:46 GMT",
+      "summary": "华电能源消息，6月18日18时，锦兴电厂1号机组顺利完成首次并网操作，实现一次并网圆满成功。机组炉、机、电、热控各系统运行平稳，各项关键运行参数优良可控。下一步，锦兴电厂将有序开展后续涉网试验及168小时满负荷试运行，同步加快推进2号机组整套启动各项筹备工作，按照已取得的排污许可，按量排污，按需排污，全力保障机组按期投产发电。（财联社）",
+      "url": "https://36kr.com/newsflashes/3860902754555141?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "韩媒：韩国股市总市值首次突破8000万亿韩元",
+      "date": "Sat, 20 Jun 2026 03:09:14 GMT",
+      "summary": "据韩联社报道，随着韩国综合股价指数（KOSPI）延续前一交易日的上涨势头，韩国股市总市值于19日史上首次突破8000万亿韩元（约合人民币35.3万亿元）。（中新经纬）",
+      "url": "https://36kr.com/newsflashes/3860901354148867?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "金饰克价一夜又跌11元",
+      "date": "Sat, 20 Jun 2026 02:50:39 GMT",
+      "summary": "6月20日，国内黄金饰品价格对比显示，多家黄金珠宝品牌公布的境内足金首饰价格较昨日有所下调，老凤祥报价1258元/克，较前一日下降7元；老庙黄金报价1268元/克，较前一日下降11元；周生生报价1263元/克，较前一日下降9元；周大福报价1261元/克，较前一日下降11元。据了解，今年1月29日，国内金饰品牌价格曾达到年内阶段性高点，周生生、老庙黄金、老凤祥当日的金饰克价分别为1708元、1722元、1713元。（界面新闻）",
+      "url": "https://36kr.com/newsflashes/3860900314584321?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "长三角铁路今日预计发送249万人次，增开旅客列车93列",
+      "date": "Sat, 20 Jun 2026 02:36:01 GMT",
+      "summary": "从中国铁路上海局集团有限公司（以下简称“上铁集团”）获悉，刚刚过去的端午节（6月19日），上铁集团发送旅客403.1万人次，创历年端午假期单日旅客发送量新高。今天（6月20日）上铁集团预计发送旅客249万人次，计划增开旅客列车93列。自6月18日铁路端午假期运输启动以来，上铁集团累计发送旅客758.4万人次，日均发送约379.2万人次，假日出行需求旺盛。（澎湃新闻）",
+      "url": "https://36kr.com/newsflashes/3860898405913864?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "加州亿万富翁税提案获得足够签名有资格在 11 月公投",
+      "date": "Fri, 19 Jun 2026 15:58:57 GMT",
+      "summary": "加州亿万富翁税提案获得足够签名达到在 11 月公投的资格。亿万富翁税（California Billionaire Tax Act）将对任何身价逾 10 亿美元的加州居民一次性征收 5% 的税，该税将用于医保和教育等项目。加州是全美亿万富翁人数最多的州，总数超过 200 人，很多人在 AI 热下积累了巨额财富。该税遭到了加州亿万富翁们的强烈反对，Google 联合创始人 Sergey Brin 一人至少投入了 8200 万美元反对该税，并搬到了靠近加州的内华达州居住。Palantir 联合创始人 Peter Thiel、Google 前 CEO Eric Sc​​hmidt、加密货币亿万富翁 Chris Larsen 以及DoorDash CEO Tony Xu 等也捐出了数百万美元反对该税。英伟达 CEO 黄仁勋则对该税没有异议，称会继续居住在加州。尽管提案已获得足够的签名，但相关组织必须在 6 月 25 日之前决定是否继续推进，或者与州政府达成协议。",
+      "url": "https://www.solidot.org/story?sid=84628",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "特朗普政府停止拆除洋流观测系统",
+      "date": "Fri, 19 Jun 2026 14:44:04 GMT",
+      "summary": "在美国国会参议院周三通过一项法案阻止政府拆除 3.68 亿美元的海洋观测计划（Ocean Observatories Initiative）之后，特朗普政府表示将撤销拆除决定。海洋观测计划由逾 900 台深海仪器构成，用于监测洋流、海洋生态系统、碳吸收、热浪、渔业、沿海洪水和气候变化。每个观测站由多个锚定装置组成。这些设备测量从水面到数千英尺深处的洋流以及化学生物状况。仪器经过加固能承受深海的压力、腐蚀性海水以及可能损坏电子设备的海洋动植物。锚定装置周围的遥控机器人和滑翔机负责收集数据并将其传输到研究实验室。它于 2016 年投入运作，原计划运行 25 年，每年的运行成本为 4800 万美元。管理该项目的国家科学基金会已经宣布即日起停止移除设备，将继续运行和维护现有设备。",
+      "url": "https://www.solidot.org/story?sid=84627",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "June Pixel Drop: New features for creators, Gemini upgrades and more",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/june-2026-pixel-drop/",
+      "date": "2026-06-19T14:34:07.528Z",
+      "summary": "",
+      "category": "Google",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Google Research",
+      "url": "https://blog.google/innovation-and-ai/technology/research/",
+      "date": "2026-06-19T14:34:07.528Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Sustainability",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/",
+      "date": "2026-06-19T14:34:07.528Z",
+      "summary": "",
+      "category": "Company",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Check out what's new in Android 17 Explore the latest features in Android 17, including enhanced productivity, gaming and security.",
+      "url": "https://blog.google/products-and-platforms/platforms/android/android-17-features/",
+      "date": "2026-06-19T14:34:07.528Z",
+      "summary": "",
+      "category": "Google",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Wear OS 7 helps your smartwatch keep up with you",
+      "url": "https://blog.google/products-and-platforms/platforms/wear-os/google-io-2026-wear-os/",
+      "date": "2026-06-19T14:34:07.528Z",
+      "summary": "",
+      "category": "Google",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "New expanded Android parental controls to support families around the world",
+      "url": "https://blog.google/products-and-platforms/platforms/android/new-expanded-android-parental-controls/",
+      "date": "2026-06-19T14:34:07.528Z",
+      "summary": "",
+      "category": "Google",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "The State of AI: A Look at What's Next",
+      "url": "https://every.to/p/the-state-of-ai",
+      "date": "2026-06-19T14:33:59.045Z",
+      "summary": "An in-depth analysis of the current AI landscape and future trends.",
+      "category": "AI Analysis",
+      "source": "Every.to",
+      "source_name": "every"
+    },
     {
       "title": "水稻为什么会“午睡”",
       "date": "Fri, 19 Jun 2026 13:56:31 GMT",
@@ -32,96 +235,6 @@
       "source_name": "solidot"
     },
     {
-      "title": "June Pixel Drop: New features for creators, Gemini upgrades and more",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/june-2026-pixel-drop/",
-      "date": "2026-06-19T11:59:33.818Z",
-      "summary": "",
-      "category": "Google",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Google Research",
-      "url": "https://blog.google/innovation-and-ai/technology/research/",
-      "date": "2026-06-19T11:59:33.818Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Sustainability",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/",
-      "date": "2026-06-19T11:59:33.818Z",
-      "summary": "",
-      "category": "Company",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Check out what's new in Android 17 Explore the latest features in Android 17, including enhanced productivity, gaming and security.",
-      "url": "https://blog.google/products-and-platforms/platforms/android/android-17-features/",
-      "date": "2026-06-19T11:59:33.818Z",
-      "summary": "",
-      "category": "Google",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Wear OS 7 helps your smartwatch keep up with you",
-      "url": "https://blog.google/products-and-platforms/platforms/wear-os/google-io-2026-wear-os/",
-      "date": "2026-06-19T11:59:33.818Z",
-      "summary": "",
-      "category": "Google",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "New expanded Android parental controls to support families around the world",
-      "url": "https://blog.google/products-and-platforms/platforms/android/new-expanded-android-parental-controls/",
-      "date": "2026-06-19T11:59:33.818Z",
-      "summary": "",
-      "category": "Google",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "The State of AI: A Look at What's Next",
-      "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-06-19T11:59:28.165Z",
-      "summary": "An in-depth analysis of the current AI landscape and future trends.",
-      "category": "AI Analysis",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "硬氪首发|moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万",
-      "date": "Fri, 19 Jun 2026 10:01:25 GMT",
-      "summary": "硬氪获悉，AI-Native科技潮玩品牌ZuzuZoos查无此园（杭州多蓝艾梦智能科技旗下）近日完成数千万元Pre-A轮融资，锦秋领投、上海复容跟投。此次融资将主要AI大模型迭代、硬件产品扩建、IP生态深化、全球市场拓展、核心团队扩容。 ZuzuZoos成立于2025年，聚焦“AI陪伴机器人+AI潮玩”。创始人董晓楠是前摩根士丹利投资银行分析师，曾任新消费独角兽企业moody事业部总经理，任职期间拉动GMV从2亿元增长至10亿元。硬件负责人是前大疆清扫机器人机械结构负责人，深耕机器人及智能硬件领域15余年，主导多款机器人研发与落地。IP设计团队来自泡泡玛特、迪士尼等IP大厂，AI团队来自智谱等头部大模型公司。 当下，陪伴机器人赛道已经涌入大量玩家，许多公司追求“更聪明”，董晓楠表示，ZuzuZoos更在意如何让AI角色真正为用户提供情绪体验，于是选择了一条差异化路径：不只是把AI机器人做成“会聊天的电子宠物”，而是尝试把AI、潮玩与IP世界观结合，创造一个有“活人感”和持续生命力的硅基伙伴。 “潮玩的底色本就带有反叛精神，消费者第一眼就能体会到它们表达的态度和潮流属性。”因此，Zuzu",
-      "url": "https://36kr.com/p/3859926114161665?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "杰瑞股份：今年以来，公司燃气轮机发电机组销售价格已多次上涨",
-      "date": "Fri, 19 Jun 2026 09:22:16 GMT",
-      "summary": "36氪获悉，杰瑞股份日在互动平台表示，公司燃气轮机发电机组的销售定价遵循市场化原则，综合考虑北美市场需求动态、成本、技术附加值及行业竞争格局等多重因素。今年以来，受益于行业供不应求的态势，公司燃气轮机发电机组销售价格已多次上涨。",
-      "url": "https://36kr.com/newsflashes/3859744863884292?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "商务部：将对澳大利亚进口牛肉加征55%关税",
-      "date": "Fri, 19 Jun 2026 09:08:18 GMT",
-      "summary": "今天，商务部发布关于2026年度牛肉保障措施执行提示信息（五），全文如下：牛肉保障措施项下自澳大利亚进口的牛肉于2026年6月18日已达到商务部公告2025年第87号明确的该国家规定数量的100%。根据商务部公告2025年第87号，在澳大利亚牛肉进口数量达到规定数量100%的第3日起（6月20日零点起），自该国进口牛肉将在现行适用关税税率基础上加征55%关税。（央视新闻）",
-      "url": "https://36kr.com/newsflashes/3859875405042946?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
       "title": "战争改变野生动物活动模式",
       "date": "Fri, 19 Jun 2026 08:55:42 GMT",
       "summary": "根据发表在《科学》期刊上的一项研究，乌克兰研究人员利用相机陷阱调查了武装冲突对野生动物的影响，将 2022 年观察到的情况与 2021 年同期进行了对比。他们发现哺乳动物会通过行为调整应对武装冲突，其中包括减少夜间活动。武装冲突对卷入其中的人类是可怕的；野生动物也同样会被殃及。然而由于研究人员难以进入武装冲突地区且会面临危险，因此要理解此类冲突的影响会充满挑战。研究人员利用已运作中的相机陷阱来了解战争对野生动物的影响。他们发现冲突对该地区的哺乳动物产生了明显影响，其中包括这些动物的活动减少，尤其是在激烈冲突期间。此类影响证实，政治动荡所伤害的不仅是直接卷入其中的人类。",
@@ -129,101 +242,6 @@
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
-    },
-    {
-      "title": "Meta洽谈投资印度金融科技支付初创公司Cred",
-      "date": "Fri, 19 Jun 2026 08:51:46 GMT",
-      "summary": "至少六位知情人士向印度财经媒体透露，脸书母公司Meta近几周一直在洽谈投资印度金融科技支付初创公司Cred，这笔交易对该企业的估值达40亿美元。此次拟定40亿美元（折合3.8万亿印度卢比）的估值，略高于该公司2025年下调后的35亿美元估值，但远低于其2022年上一轮大规模融资时64亿美元的估值。（新浪财经）",
-      "url": "https://36kr.com/newsflashes/3859744295965956?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "浙江首个“子母”变电站项目投运",
-      "date": "Fri, 19 Jun 2026 08:08:34 GMT",
-      "summary": "位于浙江省嘉兴市秀洲区的嘉兴秀北500千伏输变电工程6月19日投运，这标志着由秀北500千伏变电站与相邻布局的嘉塍220千伏变电站组成的浙江首个“500千伏+220千伏”集约建设“子母”变电站项目正式投运。（新华社）",
-      "url": "https://36kr.com/newsflashes/3859743134241799?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "17只绩优潜力硬科技小盘股出炉",
-      "date": "Fri, 19 Jun 2026 07:31:48 GMT",
-      "summary": "在一段时间内，上市公司股价能稳定向上突破的因素主要具备低市值、低股份、成交相对温和、业绩成长性良好，且同时兼备热门题材等。根据上述逻辑，笔者筛选出17只绩优潜力小盘低活跃硬科技标的，条件包括：截至6月18日，最新A股市值不超过150亿元，且最新流通A股股本低于5亿股；近一个月（2026年5月19日至6月18日）日均换手率在1%—3%；2025年实现盈利且机构一致预测2026年、2027年净利润增幅均超过40%。（证券时报）",
-      "url": "https://36kr.com/newsflashes/3859737490887944?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
-      "date": "Fri, 19 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.19464v1 Announce Type: new Abstract: Autonomous agentic AI systems driven by Large Language Models (LLMs) introduce a new class of security, privacy, and compliance challenges: an agent that can invoke tools, manipulate data, install software, and coordinate with peer agents across organizational boundaries must be constrained not just by authentication and access control, but by the full structure of enterprise governance. This includes specifying what agents are permitted and prohib",
-      "url": "https://arxiv.org/abs/2606.19464",
-      "category": [
-        "cs.AI",
-        "cs.MA"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitive Depth: A Longitudinal Framework Applied to CS2013 and CS2023",
-      "date": "Fri, 19 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.19469v1 Announce Type: new Abstract: Undergraduate computer science is governed by international curricular guidelines revised about once a decade, yet programs lack a reliable, reproducible way to measure how completely they cover the current guidelines and how that coverage shifts when the guidelines are restructured. We address this with a human-in-the-loop pipeline that measures a program's coverage of an external body of knowledge, applied longitudinally to one accredited BSc in ",
-      "url": "https://arxiv.org/abs/2606.19469",
-      "category": [
-        "cs.AI",
-        "cs.SE"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Diffusion Language Models: An Experimental Analysis",
-      "date": "Fri, 19 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.19475v1 Announce Type: new Abstract: Large Language Models (LLMs) have revolutionized language modeling through autoregressive generation, enabling strong performance across a wide range of tasks. Recently, Diffusion Language Models (DLMs) have emerged as an alternative paradigm that generates text through iterative denoising rather than next-token prediction, allowing parallel refinement of entire sequences. While numerous diffusion-based architectures have been proposed, differences",
-      "url": "https://arxiv.org/abs/2606.19475",
-      "category": [
-        "cs.AI",
-        "cs.CL"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Hidden Anchors in Multi-Agent LLM Deliberation",
-      "date": "Fri, 19 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.19494v1 Announce Type: new Abstract: Multi-agent LLM deliberation, where agents exchange and revise answers over several rounds, is increasingly used to improve reasoning and accuracy, yet how and why it works is rarely modelled. Such deliberation mirrors how humans reach decisions. As social animals we are pulled both by the group, the herd effect that classical opinion-dynamics models such as DeGroot and Friedkin--Johnsen capture, and by our own internal belief, which they do not. W",
-      "url": "https://arxiv.org/abs/2606.19494",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "DeXposure-Claw: An Agentic System for DeFi Risk Supervision",
-      "date": "Fri, 19 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.19501v1 Announce Type: new Abstract: Decentralized finance exposes supervisors to fast-moving, networked credit risks. General-purpose LLM agents fit this setting poorly: they over-read weak evidence and recommend high-stakes interventions, while existing evaluations offer no regulator-aligned way to measure the resulting false alarms. We introduce DeXposure-Claw, a forecast-grounded agentic supervision system that routes LLM decisions through structured evidence: (1) DeXposure-FM, a ",
-      "url": "https://arxiv.org/abs/2606.19501",
-      "category": [
-        "cs.AI",
-        "cs.CL",
-        "cs.LG",
-        "q-fin.RM"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "LLM Doesn't Know What It Doesn't Know: Detecting Epistemic Blind Spots via Cross-Model Attribution Divergence on Clinical Tabular Data",
-      "date": "Fri, 19 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.19509v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly applied to structured clinical data, yet whether they can recognize the limits of their own knowledge on such tasks remains unexplored. We study this question through the lens of cross-model attribution divergence with the goal of reducing epistemic uncertainty for structured tasks, comparing Qwen 2.5 7B and XGBoost on a prediction task via attribution divergence analysis. We report four findings. First",
-      "url": "https://arxiv.org/abs/2606.19509",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
     },
     {
       "title": "New usage analytics and updated spend controls for enterprises",
@@ -235,31 +253,13 @@
       "source_name": "openai"
     },
     {
-      "title": "地球的海洋来自何处？",
-      "date": "Thu, 18 Jun 2026 14:15:31 GMT",
-      "summary": "地球之水来自何处？科学家其实并不真正了解。水的来源有多种假说，其中最主流的是彗星说——撞击地球的彗星将水带到了地球；此外还有小行星说——撞击地球的小行星将水带到了地球，以及水由地球自身创造说。1986 年 Giotto 探测器对哈雷彗星的观测数据基本上否定了彗星假说，因为地球水的化学特性与彗星水完全不同。后续对 Hale-Bopp 彗星以及 Rosetta 探测器对 Churyumov-Gerasimenko 彗星的观测也都证实彗星之水与地球之水截然不同。那么地球之水是否可能来自小行星？科学家发现小行星上的惰性元素比例与地球也存在差异。那么地球上的海洋是否主要是由它自身形成的？早期地球的岩浆海洋富含氧气，而大气富含氢气，但氢气和氧气并不会自然结合。过去几年科学家做了一系列实验探索早期地球环境氢气和氧气是否能发生反应形成水。实验证实，地球上至少有一部分水能靠自身形成，但是否能形成今天覆盖整个地球的海洋，还无法下定论。",
-      "url": "https://www.solidot.org/story?sid=84622",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
       "title": "How Startups Are Using AI to Disrupt Industries",
       "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-06-18T11:59:28.165Z",
+      "date": "2026-06-18T14:33:59.045Z",
       "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
       "category": "Source Code",
       "source": "Every.to",
       "source_name": "every"
-    },
-    {
-      "title": "三个安全启动证书即将过期",
-      "date": "Thu, 18 Jun 2026 11:30:23 GMT",
-      "summary": "三个微软在 2011 年颁发的安全启动 (Secure Boot) 证书将于 6 月 24 日过期。安全启动检查系统启动期间加载的所有固件的数字签名，确保其来自可信提供商。安全启动旨在设计阻止会纂改 UEFI 的恶意程序 UEFI bootkits，一旦安装此类恶意程序很难检测到，即使重装系统也没用。安全启动使用加密签名确保启动过程中加载的每个固件都受到计算机制造商的信任，它旨在建立信任链，防止攻击者用恶意固件替换预期的启动固件。但在 2023 年研究人员发现了存在于几乎所有 Windows 和 Linux 系统 UEFI 启动过程中的严重漏洞 LogoFail。该漏洞存在于启动时显示硬件制造商徽标的软件中，攻击者能利用其图像解析 bug 绕过安全启动，用恶意固件感染 UEFI。微软因此移除了三个在 2011 年颁发的旧证书，用 2023 年颁发的新证书取代。Windows 用户可通过 Windows 安全设置 &gt; 设备安全性 &gt; 安全启动 去检查证书是否已经更新。Linux 用户可关注名叫 shim 的程序更新。",
-      "url": "https://www.solidot.org/story?sid=84621",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
     },
     {
       "title": "Improving health intelligence in ChatGPT",
@@ -282,7 +282,7 @@
     {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-06-17T11:59:28.165Z",
+      "date": "2026-06-17T14:33:59.045Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
@@ -309,7 +309,7 @@
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-06-16T11:59:28.165Z",
+      "date": "2026-06-16T14:33:59.045Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
@@ -327,7 +327,7 @@
     {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-06-15T11:59:28.165Z",
+      "date": "2026-06-15T14:33:59.045Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -336,7 +336,7 @@
     {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-06-14T11:59:28.165Z",
+      "date": "2026-06-14T14:33:59.045Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
