@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-06-21T13:28:39.631Z",
+  "fetch_time": "2026-06-22T05:03:17.091Z",
   "articles": [
+    {
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "date": "Sun, 21 Jun 2026 23:00:00 GMT",
+      "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "category": "Company"
+    },
     {
       "title": "New usage analytics and updated spend controls for enterprises",
       "date": "Thu, 18 Jun 2026 17:00:00 GMT",
@@ -36,13 +43,6 @@
       "date": "Wed, 17 Jun 2026 00:00:00 GMT",
       "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
       "url": "https://openai.com/index/introducing-life-sci-bench",
-      "category": "Research"
-    },
-    {
-      "title": "Predicting model behavior before release by simulating deployment",
-      "date": "Tue, 16 Jun 2026 00:00:00 GMT",
-      "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
-      "url": "https://openai.com/index/deployment-simulation",
       "category": "Research"
     }
   ],
