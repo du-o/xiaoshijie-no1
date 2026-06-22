@@ -1,9 +1,81 @@
 {
-  "fetch_time": "2026-06-22T13:26:53.742Z",
+  "fetch_time": "2026-06-22T16:21:19.759Z",
   "total_count": 30,
   "sources_count": 6,
   "errors": null,
   "articles": [
+    {
+      "title": "回顾对 AUR 的攻击",
+      "date": "Mon, 22 Jun 2026 14:47:40 GMT",
+      "summary": "由用户递交的软件仓库 Arch User Repository(AUR)最近遭遇了大规模恶意攻击，攻击者创建了一系列新账号，然后通过这些账号接管无人维护的软件包（被称为 orphaned packages），植入恶意代码，推送恶意更新。Arch 项目的维护者现已关闭了新用户注册，正在讨论如何处理这些被恶意滥用的无人维护软件包。AUR 中的软件包由用户递交，其他用户可通过搜索下载 PKGBUILD 文件、解依、编译、安装和更新软件。它不提供软件的二进制版本。目前 AUR 中有逾 107,000 个软件包，其中近 14,000 个无人维护可供认领。任何注册用户都可以认领和修改无人维护的软件包。它提供的软件包未经审核，风险由用户自己承担。其它 Linux 发行版也都有类似的软件仓库，如 Fedora 的 Copr，openSUSE 的 Open Build Service (OBS)，Ubuntu 的 Personal Package Archives (PPA)。但这些服务与 AUR 有显著区别：它们提供了类似官方软件包的构建环境，而且不允许预编译二进制文件或私有软件。AUR 的要求过于宽",
+      "url": "https://www.solidot.org/story?sid=84647",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "June Pixel Drop: New features for creators, Gemini upgrades and more",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/june-2026-pixel-drop/",
+      "date": "2026-06-22T13:26:56.283Z",
+      "summary": "",
+      "category": "Google",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Google Research",
+      "url": "https://blog.google/innovation-and-ai/technology/research/",
+      "date": "2026-06-22T13:26:56.283Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Sustainability",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/",
+      "date": "2026-06-22T13:26:56.283Z",
+      "summary": "",
+      "category": "Company",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Check out what's new in Android 17 Explore the latest features in Android 17, including enhanced productivity, gaming and security.",
+      "url": "https://blog.google/products-and-platforms/platforms/android/android-17-features/",
+      "date": "2026-06-22T13:26:56.283Z",
+      "summary": "",
+      "category": "Google",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Wear OS 7 helps your smartwatch keep up with you",
+      "url": "https://blog.google/products-and-platforms/platforms/wear-os/google-io-2026-wear-os/",
+      "date": "2026-06-22T13:26:56.283Z",
+      "summary": "",
+      "category": "Google",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "New expanded Android parental controls to support families around the world",
+      "url": "https://blog.google/products-and-platforms/platforms/android/new-expanded-android-parental-controls/",
+      "date": "2026-06-22T13:26:56.283Z",
+      "summary": "",
+      "category": "Google",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "The State of AI: A Look at What's Next",
+      "url": "https://every.to/p/the-state-of-ai",
+      "date": "2026-06-22T13:26:49.178Z",
+      "summary": "An in-depth analysis of the current AI landscape and future trends.",
+      "category": "AI Analysis",
+      "source": "Every.to",
+      "source_name": "every"
+    },
     {
       "title": "英特尔CEO陈立武：已投资人造金刚石晶圆公司，看好芯片散热应用前景",
       "date": "Mon, 22 Jun 2026 12:56:44 GMT",
@@ -59,6 +131,15 @@
       "source_name": "36kr"
     },
     {
+      "title": "HPV 疫苗将 30 岁前死于宫颈癌的风险降至几乎为零",
+      "date": "Mon, 22 Jun 2026 12:30:39 GMT",
+      "summary": "根据 WHO 的数据，宫颈癌是女性第四大常见癌症，其 99% 的病例是由高危型人乳头瘤病毒（HPV）引起的。虽然 HPV 疫苗能预防约 90% 的宫颈癌，但疫苗对生存率的影响尚不清楚。根据发表在《柳叶刀》期刊上的新研究，伦敦玛丽皇后学院的研究人员发现，自 2008 年 HPV 疫苗引入以来，疫苗接种者宫颈癌死亡率显著下降。HPV 疫苗对降低死亡率的影响如此之大，以至于研究人员估计，12 或 13 岁接种疫苗的女孩在 30 岁之前死于宫颈癌的可能性几乎为零。对于 30-34 岁的接种过疫苗的女性，死于宫颈癌的相对风险降低了 63%。2020-2024 年间英格兰有记录历史上首次没有 20-24 岁的女性死于宫颈癌。HPV 疫苗除了预防宫颈癌，还能预防肛门癌、阴茎癌、阴道癌、外阴癌、口腔癌和咽喉癌，以及生殖器疣，8 年级的男孩和女孩都会接种该疫苗，部分地区为 9 年级和 10 年级学生提供补种服务。新冠疫情前疫苗接种率接近了 WHO 的目标，但疫情之后接种率大幅下降。",
+      "url": "https://www.solidot.org/story?sid=84646",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
       "title": "Anthropic 对特定功能访问要求身份验证",
       "date": "Mon, 22 Jun 2026 11:02:33 GMT",
       "summary": "Anthropic 更新了其隐私政策，从 2026 年 7 月 8 日起，部分功能将需要身份验证，该验证将由 Persona 公司负责。Persona 是一家第三方身份验证公司，由 Peter Thiel 投资。此前 Discord 因用户强烈反对以及 2026 年 2 月发生的一起数据泄露事件而终止了在年龄验证上与 Persona 的合作。",
@@ -86,91 +167,10 @@
       "source_name": "solidot"
     },
     {
-      "title": "June Pixel Drop: New features for creators, Gemini upgrades and more",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/june-2026-pixel-drop/",
-      "date": "2026-06-22T09:47:32.361Z",
-      "summary": "",
-      "category": "Google",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Google Research",
-      "url": "https://blog.google/innovation-and-ai/technology/research/",
-      "date": "2026-06-22T09:47:32.361Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Sustainability",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/",
-      "date": "2026-06-22T09:47:32.361Z",
-      "summary": "",
-      "category": "Company",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Wear OS 7 helps your smartwatch keep up with you",
-      "url": "https://blog.google/products-and-platforms/platforms/wear-os/google-io-2026-wear-os/",
-      "date": "2026-06-22T09:47:32.361Z",
-      "summary": "",
-      "category": "Google",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "New expanded Android parental controls to support families around the world",
-      "url": "https://blog.google/products-and-platforms/platforms/android/new-expanded-android-parental-controls/",
-      "date": "2026-06-22T09:47:32.361Z",
-      "summary": "",
-      "category": "Google",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Check out what's new in Android 17 Explore the latest features in Android 17, including enhanced productivity, gaming and security.",
-      "url": "https://blog.google/products-and-platforms/platforms/android/android-17-features/",
-      "date": "2026-06-22T09:47:32.360Z",
-      "summary": "",
-      "category": "Google",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "The State of AI: A Look at What's Next",
-      "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-06-22T09:47:26.191Z",
-      "summary": "An in-depth analysis of the current AI landscape and future trends.",
-      "category": "AI Analysis",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
       "title": "日本宣布新超算理究",
       "date": "Mon, 22 Jun 2026 09:18:41 GMT",
       "summary": "日本理化学研究所 19 日宣布，为利用 AI 进行科学研究而建设的新超级计算机命名为“理究”。该名称寓意利用 AI 探“究”自然现象背后的“理”。该超算将设在神户市中央区的理研神户地区，力争 7 月投入使用。理化所还在同一天宣布了另一台量子计算-高性能计算混合平台超算 ROQUO，两台超算都使用了英伟达的 GB200 NVL4 系统。其中 ROQUO 配备了 135 个计算节点，540 (NVIDIA Blackwell)&nbsp; GPU 以及 270 (NVIDIA Grace) CPU，FP64 峰值逾 21 PFLOPS，FP8 峰值 5 EFLOPS 等。",
       "url": "https://www.solidot.org/story?sid=84642",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "美国芯片安全法案将强制性要求位置跟踪 AI 芯片",
-      "date": "Mon, 22 Jun 2026 07:53:11 GMT",
-      "summary": "美国国会正在审议芯片安全法案（Chip Security Act），该法案将为先进 AI 芯片加入更严格的安全验证功能，将要求芯片出口商通过定制的位置验证硬件或软件追踪先进芯片的流向，确保先进芯片不会进入中国等国家。美国众议院外交事务委员会于 3 月下旬以 42 比 0 的投票结果一致通过了芯片安全法案，将其提交到众议院全体会议审议。参议院的配套立法则尚处于审议的第一个阶段。美国芯片行业组织反对这项法案，认为会阻碍芯片出口。最大的 AI 芯片制造商英伟达去年 12 月宣布它已开发出能满足该法案部分要求的技术。",
-      "url": "https://www.solidot.org/story?sid=84641",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "10% 消费最高人群每年造成数万亿美元环境损害",
-      "date": "Mon, 22 Jun 2026 06:55:54 GMT",
-      "summary": "荷兰和英国科学家研究发现，按 2017 年价值计算，全球消费支出排名前 10% 的人每年造成 1.7万亿-5.7 万亿美元的环境损害。过去的研究表明，消费最高的个人（大致对应最富有的个人）对环境破坏所应承担的责任份额不成比例的巨大。但这些责任尚未得到货币形式的量化。研究人员评估了全球和各大洲最富裕国家中消费前10%的人群行为造成的环境成本。他们参考了《环境价格手册》（EnvironmentalPrices Handbook）中的数据，以 2017 年美元（最新可用数据）为不同环境损害赋予货币价值。研究者发现，全球范围内，高消费群体造成的年度环境成本约为每人2300-7500 美元——全球总计相当于 1.7万亿-5.7 万亿美元。在美国，前 10% 消费者的成本明显更高，约为每人 19000-63000 美元，相当于这一群体平均收入的 6%-20%。该研究仅评估了个人消费，而此前研究表明，最富有的 10% 人群通过投资也会产生大量排放。",
-      "url": "https://www.solidot.org/story?sid=84640",
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
@@ -187,7 +187,7 @@
     {
       "title": "How Startups Are Using AI to Disrupt Industries",
       "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-06-21T09:47:26.191Z",
+      "date": "2026-06-21T13:26:49.178Z",
       "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
       "category": "Source Code",
       "source": "Every.to",
@@ -196,7 +196,7 @@
     {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-06-20T09:47:26.191Z",
+      "date": "2026-06-20T13:26:49.178Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
@@ -205,7 +205,7 @@
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-06-19T09:47:26.191Z",
+      "date": "2026-06-19T13:26:49.178Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
@@ -221,6 +221,15 @@
       "source_name": "openai"
     },
     {
+      "title": "AI Agents: The Next Evolution of Automation",
+      "url": "https://every.to/source-code/ai-agents",
+      "date": "2026-06-18T13:26:49.178Z",
+      "summary": "Understanding autonomous AI agents and their potential impact on software.",
+      "category": "Source Code",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
       "title": "Improving health intelligence in ChatGPT",
       "date": "Thu, 18 Jun 2026 11:00:00 GMT",
       "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
@@ -228,15 +237,6 @@
       "category": "Product",
       "source": "OpenAI News",
       "source_name": "openai"
-    },
-    {
-      "title": "AI Agents: The Next Evolution of Automation",
-      "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-06-18T09:47:26.191Z",
-      "summary": "Understanding autonomous AI agents and their potential impact on software.",
-      "category": "Source Code",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
@@ -248,6 +248,15 @@
       "source_name": "openai"
     },
     {
+      "title": "The Economics of AI: Costs, Benefits, and ROI",
+      "url": "https://every.to/context-window/ai-economics",
+      "date": "2026-06-17T13:26:49.178Z",
+      "summary": "A deep dive into the financial aspects of implementing AI solutions.",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
       "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
       "date": "Wed, 17 Jun 2026 10:00:00 GMT",
       "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
@@ -255,15 +264,6 @@
       "category": "Research",
       "source": "OpenAI News",
       "source_name": "openai"
-    },
-    {
-      "title": "The Economics of AI: Costs, Benefits, and ROI",
-      "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-06-17T09:47:26.191Z",
-      "summary": "A deep dive into the financial aspects of implementing AI solutions.",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "Introducing LifeSciBench",
