@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-06-22T05:03:28.946Z",
+  "fetch_time": "2026-06-22T09:47:50.554Z",
   "articles": [
+    {
+      "title": "openclaw 2026.6.10-beta.2",
+      "date": "2026-06-22T09:36:28Z",
+      "summary": "## 2026.6.10\n\n### Highlights\n\n- **Automatic fast mode for talks:** OpenClaw can enable fast mode for short conversational turns, then return to normal mode for longer runs with bounded fallback and de...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.10-beta.2",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.6.10-beta.2",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.6.10-beta.1",
       "date": "2026-06-21T09:12:41Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.6.10-beta.1",
-      "downloadCount": 51
+      "downloadCount": 57
     },
     {
       "title": "openclaw 2026.6.9",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.6.9",
-      "downloadCount": 6222
+      "downloadCount": 7572
     },
     {
       "title": "openclaw 2026.6.9-beta.1",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "vincentkoc",
       "tagName": "v2026.6.8",
-      "downloadCount": 29276
+      "downloadCount": 29491
     },
     {
       "title": "openclaw 2026.6.8-beta.2",
@@ -52,16 +62,6 @@
       "author": "vincentkoc",
       "tagName": "v2026.6.8-beta.2",
       "downloadCount": 88
-    },
-    {
-      "title": "openclaw 2026.6.8-beta.1",
-      "date": "2026-06-14T22:45:33Z",
-      "summary": "## 2026.6.8\n\n### Highlights\n\n- **Richer channel delivery:** Telegram and WhatsApp are less brittle: Telegram renders structured text with tables, lists, expandable blockquotes, preserved intentional l...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.8-beta.1",
-      "category": "Release",
-      "author": "vincentkoc",
-      "tagName": "v2026.6.8-beta.1",
-      "downloadCount": 119
     }
   ],
   "status": "success",
