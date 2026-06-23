@@ -1,8 +1,29 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-06-22T16:21:14.135Z",
+  "fetch_time": "2026-06-23T04:02:52.554Z",
   "articles": [
+    {
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "date": "Mon, 22 Jun 2026 10:00:00 GMT",
+      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "url": "https://openai.com/index/patch-the-planet",
+      "category": "Security"
+    },
+    {
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "date": "Mon, 22 Jun 2026 10:00:00 GMT",
+      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "category": "Security"
+    },
+    {
+      "title": "Codex-maxxing for long-running work",
+      "date": "Mon, 22 Jun 2026 00:00:00 GMT",
+      "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+      "url": "https://openai.com/index/codex-maxxing-long-running-work",
+      "category": "AI Adoption"
+    },
     {
       "title": "Samsung Electronics brings ChatGPT and Codex to employees",
       "date": "Sun, 21 Jun 2026 23:00:00 GMT",
@@ -23,27 +44,6 @@
       "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
       "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
       "category": "Product"
-    },
-    {
-      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-      "date": "Thu, 18 Jun 2026 08:00:00 GMT",
-      "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
-      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
-      "category": "Applied AI"
-    },
-    {
-      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-      "date": "Wed, 17 Jun 2026 10:00:00 GMT",
-      "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
-      "url": "https://openai.com/index/ai-chemist-improves-reaction",
-      "category": "Research"
-    },
-    {
-      "title": "Introducing LifeSciBench",
-      "date": "Wed, 17 Jun 2026 00:00:00 GMT",
-      "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
-      "url": "https://openai.com/index/introducing-life-sci-bench",
-      "category": "Research"
     }
   ],
   "status": "success",

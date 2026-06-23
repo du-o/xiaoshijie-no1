@@ -1,14 +1,68 @@
 {
-  "fetch_time": "2026-06-22T16:21:19.759Z",
+  "fetch_time": "2026-06-23T04:02:56.362Z",
   "total_count": 30,
   "sources_count": 6,
   "errors": null,
   "articles": [
     {
-      "title": "回顾对 AUR 的攻击",
-      "date": "Mon, 22 Jun 2026 14:47:40 GMT",
-      "summary": "由用户递交的软件仓库 Arch User Repository(AUR)最近遭遇了大规模恶意攻击，攻击者创建了一系列新账号，然后通过这些账号接管无人维护的软件包（被称为 orphaned packages），植入恶意代码，推送恶意更新。Arch 项目的维护者现已关闭了新用户注册，正在讨论如何处理这些被恶意滥用的无人维护软件包。AUR 中的软件包由用户递交，其他用户可通过搜索下载 PKGBUILD 文件、解依、编译、安装和更新软件。它不提供软件的二进制版本。目前 AUR 中有逾 107,000 个软件包，其中近 14,000 个无人维护可供认领。任何注册用户都可以认领和修改无人维护的软件包。它提供的软件包未经审核，风险由用户自己承担。其它 Linux 发行版也都有类似的软件仓库，如 Fedora 的 Copr，openSUSE 的 Open Build Service (OBS)，Ubuntu 的 Personal Package Archives (PPA)。但这些服务与 AUR 有显著区别：它们提供了类似官方软件包的构建环境，而且不允许预编译二进制文件或私有软件。AUR 的要求过于宽",
-      "url": "https://www.solidot.org/story?sid=84647",
+      "title": "恒指午间休盘跌1.13%，恒生科技指数跌2.21%",
+      "date": "Tue, 23 Jun 2026 04:01:56 GMT",
+      "summary": "36氪获悉，恒指午间休盘跌1.13%，恒生科技指数跌2.21%；有色金属、软件服务、传媒板块领跌，智谱跌超11%，高鹏矿业跌超6%，腾讯音乐跌超5%，B站、京东集团跌超4%；银行、医药生物、食品板块走强，现代中药集团涨超9%，九江银行涨超2%，德康农牧涨超1%；南向资金净买入74.2亿港元。",
+      "url": "https://36kr.com/newsflashes/3865236553618689?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "首个高考志愿AI测评发布：千问在稳定性、精确性、结构化表达上表现突出",
+      "date": "Tue, 23 Jun 2026 03:59:22 GMT",
+      "summary": "6月23日，国内首个针对高考志愿填报场景的AI能力测评报告《高考志愿AI测评基准》发布。该报告由友松实验室独立完成，以千问高考志愿填报Agent作为测评对象。结果显示，千问多项表现已达到人类志愿咨询师水平，在稳定性、精确性、结构化表达与效率层面更具优势。",
+      "url": "https://36kr.com/newsflashes/3865234019505161?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "WAVES 2026：今年盛夏，在创投浪潮里，做迎风而立的少数人！",
+      "date": "Tue, 23 Jun 2026 03:57:43 GMT",
+      "summary": "盛夏赴约WAVES 2026！一群迎风的少数人，掀起中国新一代创新力量的风口。 2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道”变成“主流共识”，年轻的创业者们正在重新定义中国创新的未来坐标。 每一年，由36氪主办的WAVES大会，都是中国创投圈的年度风向标。 今年的WAVES2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，通过深度圆桌、独立演讲、名册发布等诸多精彩环节，充分拆解AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人”的坚持，如何汇聚成改变行业的浪潮。 大会开场，广州市番禺区政府相关负责人首先登台致欢迎辞，点明番禺作为大湾区地理中心与创新策源地的核心优势，阐述区域集聚全球高端创新要素、构建全链条产业培育体系的战略布局。他表示番禺区委区政府将全力当好企业发展的战略同路人、城市合伙人与发展守护人，以真金白银的政策支持与最优营商环境，诚挚邀请各界创新力量扎根番禺、共创未来。 “今年盛夏，不只是一个季节，更是一种敢于被晒、敢于流汗、敢于在别人避暑时往前冲的心态。",
+      "url": "https://36kr.com/p/3865226824389892?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "晓程科技：加纳炸药厂目前仍在建，暂未投产、未实现销售收入",
+      "date": "Tue, 23 Jun 2026 03:46:39 GMT",
+      "summary": "36氪获悉，晓程科技在互动平台表示，加纳炸药厂目前仍在建，暂未投产、未实现销售收入；雷管芯片现阶段以内部自用为主。",
+      "url": "https://36kr.com/newsflashes/3865221516645640?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "小米旗下瀚星创投等入股破壳时刻",
+      "date": "Tue, 23 Jun 2026 03:39:44 GMT",
+      "summary": "36氪获悉，天眼查App显示，近日，破壳时刻（上海）智能科技有限责任公司发生工商变更，新增小米旗下瀚星创业投资有限公司、星海图（北京）人工智能科技股份有限公司等为股东，同时，注册资本由100万人民币增至约118.7万人民币。",
+      "url": "https://36kr.com/newsflashes/3865214724134145?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "瓷瓷乐玩 ：当传统文化遇上新消费浪潮 | 36氪WAVES2026新浪潮",
+      "date": "Tue, 23 Jun 2026 03:35:03 GMT",
+      "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。 今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。” 曹光洋 | 瓷瓷乐玩创始人 以下为对话内容，经36氪整理编辑： 主持人：感谢朱越给我们带来这么精彩的分享，我相信大家听完之后也一定会有一定的启发，可以从中地去应对Agent时代的新挑战。 接下来的主题，我们稍微换新的主题，换到传统文化，传统文化沉淀千年韵味，是国人心中不变的情怀，而蓬勃兴起的新消费浪潮，为古老文化开辟了全新传播与发展路径。如何让传统美学走出岁月、贴近大众，用创新玩法激活文化价值，成为当下极具探索意义的话题。接下来，就让我们用热烈的掌声，有请深耕文创",
+      "url": "https://36kr.com/p/3865208157738247?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "Steam Machine 起售价 1049 美元",
+      "date": "Tue, 23 Jun 2026 02:32:25 GMT",
+      "summary": "Valve 正式公布了其游戏机 Steam Machine 的售价，在 AI 热导致内存和 SSD 短缺的情况下，Steam Machine 的价格也涨到了对大多数人缺乏吸引力的程度：Steam Machine 512GB 1,049 美元，Steam Machine 512GB + Steam Controller 套装 1,128 美元，Steam Machine 2TB 1,349 美元，Steam Machine 2TB + Steam Controller 套装 1,428 美元。Valve 解释说，硬件的价格直接取决于组件的成本，在 2023 年开始为 Steam Machine 采购组件时，按照以前的趋势组件的价格会随时间而降低。然而过去大概一年的时间里，情况发生了快速而显著的变化，最明显的就是内存及存储组件的变化，这最终导致了当初为 Steam Machine 制定的目标定价不再可行。因此今天公布的价格反映了全球制造业的现状，或者更准确地说，反映了过去 6 个月里确保能获得的组件的价格。为避免有限库存被机器人程序抢先订购，Valve 宣布将对预订进行随机排序，它将于 6",
+      "url": "https://www.solidot.org/story?sid=84648",
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
@@ -16,7 +70,7 @@
     {
       "title": "June Pixel Drop: New features for creators, Gemini upgrades and more",
       "url": "https://blog.google/products-and-platforms/devices/pixel/june-2026-pixel-drop/",
-      "date": "2026-06-22T13:26:56.283Z",
+      "date": "2026-06-22T16:21:22.674Z",
       "summary": "",
       "category": "Google",
       "source": "Google Blog",
@@ -25,25 +79,16 @@
     {
       "title": "Google Research",
       "url": "https://blog.google/innovation-and-ai/technology/research/",
-      "date": "2026-06-22T13:26:56.283Z",
+      "date": "2026-06-22T16:21:22.674Z",
       "summary": "",
       "category": "Innovation & AI",
       "source": "Google Blog",
       "source_name": "google-blog"
     },
     {
-      "title": "Sustainability",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/",
-      "date": "2026-06-22T13:26:56.283Z",
-      "summary": "",
-      "category": "Company",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
       "title": "Check out what's new in Android 17 Explore the latest features in Android 17, including enhanced productivity, gaming and security.",
       "url": "https://blog.google/products-and-platforms/platforms/android/android-17-features/",
-      "date": "2026-06-22T13:26:56.283Z",
+      "date": "2026-06-22T16:21:22.674Z",
       "summary": "",
       "category": "Google",
       "source": "Google Blog",
@@ -52,7 +97,7 @@
     {
       "title": "Wear OS 7 helps your smartwatch keep up with you",
       "url": "https://blog.google/products-and-platforms/platforms/wear-os/google-io-2026-wear-os/",
-      "date": "2026-06-22T13:26:56.283Z",
+      "date": "2026-06-22T16:21:22.674Z",
       "summary": "",
       "category": "Google",
       "source": "Google Blog",
@@ -61,7 +106,16 @@
     {
       "title": "New expanded Android parental controls to support families around the world",
       "url": "https://blog.google/products-and-platforms/platforms/android/new-expanded-android-parental-controls/",
-      "date": "2026-06-22T13:26:56.283Z",
+      "date": "2026-06-22T16:21:22.674Z",
+      "summary": "",
+      "category": "Google",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Google Nest",
+      "url": "https://blog.google/products-and-platforms/devices/google-nest/",
+      "date": "2026-06-22T16:21:22.674Z",
       "summary": "",
       "category": "Google",
       "source": "Google Blog",
@@ -70,65 +124,20 @@
     {
       "title": "The State of AI: A Look at What's Next",
       "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-06-22T13:26:49.178Z",
+      "date": "2026-06-22T16:21:13.733Z",
       "summary": "An in-depth analysis of the current AI landscape and future trends.",
       "category": "AI Analysis",
       "source": "Every.to",
       "source_name": "every"
     },
     {
-      "title": "英特尔CEO陈立武：已投资人造金刚石晶圆公司，看好芯片散热应用前景",
-      "date": "Mon, 22 Jun 2026 12:56:44 GMT",
-      "summary": "英特尔首席执行官陈立武近日表示，公司已投资一家金刚石晶圆企业，并将合成金刚石视为具有优异导热性能的新材料之一。陈立武称，随着先进制程持续逼近物理极限，英特尔正加大对玻璃基板、合成金刚石、氮化镓等新材料的布局，希望通过先进封装和材料创新推动芯片技术进一步发展。（界面）",
-      "url": "https://36kr.com/newsflashes/3864346702271496?f=rss",
+      "title": "回顾对 AUR 的攻击",
+      "date": "Mon, 22 Jun 2026 14:47:40 GMT",
+      "summary": "由用户递交的软件仓库 Arch User Repository(AUR)最近遭遇了大规模恶意攻击，攻击者创建了一系列新账号，然后通过这些账号接管无人维护的软件包（被称为 orphaned packages），植入恶意代码，推送恶意更新。Arch 项目的维护者现已关闭了新用户注册，正在讨论如何处理这些被恶意滥用的无人维护软件包。AUR 中的软件包由用户递交，其他用户可通过搜索下载 PKGBUILD 文件、解依、编译、安装和更新软件。它不提供软件的二进制版本。目前 AUR 中有逾 107,000 个软件包，其中近 14,000 个无人维护可供认领。任何注册用户都可以认领和修改无人维护的软件包。它提供的软件包未经审核，风险由用户自己承担。其它 Linux 发行版也都有类似的软件仓库，如 Fedora 的 Copr，openSUSE 的 Open Build Service (OBS)，Ubuntu 的 Personal Package Archives (PPA)。但这些服务与 AUR 有显著区别：它们提供了类似官方软件包的构建环境，而且不允许预编译二进制文件或私有软件。AUR 的规定过于宽",
+      "url": "https://www.solidot.org/story?sid=84647",
       "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "热门中概股美股盘前普跌，哔哩哔哩跌超1%",
-      "date": "Mon, 22 Jun 2026 12:53:51 GMT",
-      "summary": "36氪获悉，热门中概股美股盘前普跌，截至发稿，理想汽车、名创优品跌超2%，阿里巴巴、哔哩哔哩跌超1%，爱奇艺跌0.96%，蔚来跌0.6%，老虎证券跌0.41%，小鹏集团跌0.08%",
-      "url": "https://36kr.com/newsflashes/3864343855928585?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "美股大型科技股盘前多数下跌，SpaceX跌超3%",
-      "date": "Mon, 22 Jun 2026 12:50:37 GMT",
-      "summary": "36氪获悉，美股大型科技股盘前多数下跌，截至发稿，SpaceX跌超3%，谷歌跌超2%，特斯拉跌超1%，奈飞跌0.94%，Meta跌0.57%，亚马逊跌0.55%，微软跌0.54%，苹果跌0.49%；英特尔涨超2%，英伟达涨0.03%。",
-      "url": "https://36kr.com/newsflashes/3864340692931843?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "香港交易所宣布优化客户按金规定，进一步提升衍生产品市场效率",
-      "date": "Mon, 22 Jun 2026 12:47:38 GMT",
-      "summary": "36氪获悉，香港交易所宣布优化旗下衍生产品结算所的客户按金规定，以提升资本效率、降低市场参与者的融资成本，支持香港衍生产品市场的长远发展。根据修订后的安排，客户按金乘数及客户维持按金规定将分两个阶段调整，以便市场准备充分和顺利过渡。第一阶段计划将于2026年9月21日实施，第二阶段待监管机构批准后，预期于2027年3月推行。",
-      "url": "https://36kr.com/newsflashes/3864337751004423?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "英特尔任命李锡熙为代工执行副总裁",
-      "date": "Mon, 22 Jun 2026 12:46:02 GMT",
-      "summary": "英特尔公司6月22日宣布，任命李锡熙（Seok-Hee Lee）为英特尔代工执行副总裁，直接向英特尔首席执行官陈立武汇报。在这一职位上，李锡熙将领导先进封装、系统集成、后道技术开发及后道制造。加入英特尔前，李锡熙曾任SK On社长兼首席执行官，此前还曾任SK海力士社长兼首席执行官。（界面）",
-      "url": "https://36kr.com/newsflashes/3864336182711561?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "上海悦普数智科技股份有限公司递表港交所",
-      "date": "Mon, 22 Jun 2026 12:45:20 GMT",
-      "summary": "36氪获悉，据港交所披露，上海悦普数智科技股份有限公司向港交所提交上市申请书，独家保荐人为招商证券国际。",
-      "url": "https://36kr.com/newsflashes/3864335492404480?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
+      "source": "Solidot",
+      "source_name": "solidot"
     },
     {
       "title": "HPV 疫苗将 30 岁前死于宫颈癌的风险降至几乎为零",
@@ -167,13 +176,31 @@
       "source_name": "solidot"
     },
     {
-      "title": "日本宣布新超算理究",
-      "date": "Mon, 22 Jun 2026 09:18:41 GMT",
-      "summary": "日本理化学研究所 19 日宣布，为利用 AI 进行科学研究而建设的新超级计算机命名为“理究”。该名称寓意利用 AI 探“究”自然现象背后的“理”。该超算将设在神户市中央区的理研神户地区，力争 7 月投入使用。理化所还在同一天宣布了另一台量子计算-高性能计算混合平台超算 ROQUO，两台超算都使用了英伟达的 GB200 NVL4 系统。其中 ROQUO 配备了 135 个计算节点，540 (NVIDIA Blackwell)&nbsp; GPU 以及 270 (NVIDIA Grace) CPU，FP64 峰值逾 21 PFLOPS，FP8 峰值 5 EFLOPS 等。",
-      "url": "https://www.solidot.org/story?sid=84642",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "date": "Mon, 22 Jun 2026 10:00:00 GMT",
+      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "url": "https://openai.com/index/patch-the-planet",
+      "category": "Security",
+      "source": "OpenAI News",
+      "source_name": "openai"
+    },
+    {
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "date": "Mon, 22 Jun 2026 10:00:00 GMT",
+      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "category": "Security",
+      "source": "OpenAI News",
+      "source_name": "openai"
+    },
+    {
+      "title": "Codex-maxxing for long-running work",
+      "date": "Mon, 22 Jun 2026 00:00:00 GMT",
+      "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+      "url": "https://openai.com/index/codex-maxxing-long-running-work",
+      "category": "AI Adoption",
+      "source": "OpenAI News",
+      "source_name": "openai"
     },
     {
       "title": "Samsung Electronics brings ChatGPT and Codex to employees",
@@ -187,7 +214,7 @@
     {
       "title": "How Startups Are Using AI to Disrupt Industries",
       "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-06-21T13:26:49.178Z",
+      "date": "2026-06-21T16:21:13.733Z",
       "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
       "category": "Source Code",
       "source": "Every.to",
@@ -196,7 +223,7 @@
     {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-06-20T13:26:49.178Z",
+      "date": "2026-06-20T16:21:13.733Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
@@ -205,7 +232,7 @@
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-06-19T13:26:49.178Z",
+      "date": "2026-06-19T16:21:13.733Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
@@ -223,7 +250,7 @@
     {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-06-18T13:26:49.178Z",
+      "date": "2026-06-18T16:21:13.733Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -239,40 +266,13 @@
       "source_name": "openai"
     },
     {
-      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-      "date": "Thu, 18 Jun 2026 08:00:00 GMT",
-      "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
-      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
-      "category": "Applied AI",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-06-17T13:26:49.178Z",
+      "date": "2026-06-17T16:21:13.733Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
       "source_name": "every"
-    },
-    {
-      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-      "date": "Wed, 17 Jun 2026 10:00:00 GMT",
-      "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
-      "url": "https://openai.com/index/ai-chemist-improves-reaction",
-      "category": "Research",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
-      "title": "Introducing LifeSciBench",
-      "date": "Wed, 17 Jun 2026 00:00:00 GMT",
-      "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
-      "url": "https://openai.com/index/introducing-life-sci-bench",
-      "category": "Research",
-      "source": "OpenAI News",
-      "source_name": "openai"
     }
   ]
 }
