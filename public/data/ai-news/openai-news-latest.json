@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-06-23T07:47:51.485Z",
+  "fetch_time": "2026-06-23T10:55:37.459Z",
   "articles": [
+    {
+      "title": "How Omio is building the future of conversational travel",
+      "date": "Tue, 23 Jun 2026 00:00:00 GMT",
+      "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+      "url": "https://openai.com/index/omio",
+      "category": ""
+    },
     {
       "title": "Daybreak: Tools for securing every organization in the world",
       "date": "Mon, 22 Jun 2026 10:00:00 GMT",
@@ -36,13 +43,6 @@
       "date": "Thu, 18 Jun 2026 17:00:00 GMT",
       "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
       "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-      "category": "Product"
-    },
-    {
-      "title": "Improving health intelligence in ChatGPT",
-      "date": "Thu, 18 Jun 2026 11:00:00 GMT",
-      "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
-      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
       "category": "Product"
     }
   ],
