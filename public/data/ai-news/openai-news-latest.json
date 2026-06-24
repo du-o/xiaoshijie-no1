@@ -1,8 +1,22 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-06-23T14:12:53.490Z",
+  "fetch_time": "2026-06-24T04:05:16.653Z",
   "articles": [
+    {
+      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "date": "Tue, 23 Jun 2026 17:00:00 GMT",
+      "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+      "url": "https://openai.com/index/gpt-5-immunology-mystery",
+      "category": "Applied AI"
+    },
+    {
+      "title": "Helping build shared standards for advanced AI",
+      "date": "Tue, 23 Jun 2026 13:00:00 GMT",
+      "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "category": "Global Affairs"
+    },
     {
       "title": "How Omio is building the future of conversational travel",
       "date": "Tue, 23 Jun 2026 00:00:00 GMT",
@@ -30,20 +44,6 @@
       "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
       "url": "https://openai.com/index/codex-maxxing-long-running-work",
       "category": "AI Adoption"
-    },
-    {
-      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-      "date": "Sun, 21 Jun 2026 23:00:00 GMT",
-      "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
-      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-      "category": "Company"
-    },
-    {
-      "title": "New usage analytics and updated spend controls for enterprises",
-      "date": "Thu, 18 Jun 2026 17:00:00 GMT",
-      "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
-      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-      "category": "Product"
     }
   ],
   "status": "success",

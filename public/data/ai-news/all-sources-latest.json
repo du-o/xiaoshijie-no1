@@ -1,9 +1,236 @@
 {
-  "fetch_time": "2026-06-23T14:12:57.003Z",
-  "total_count": 30,
+  "fetch_time": "2026-06-24T04:05:20.419Z",
+  "total_count": 36,
   "sources_count": 6,
   "errors": null,
   "articles": [
+    {
+      "title": "恒指午间休盘涨0.04%，仙工智能涨超13%",
+      "date": "Wed, 24 Jun 2026 04:02:11 GMT",
+      "summary": "36氪获悉，恒指午间休盘涨0.04%，恒生科技指数涨1.34%；半导体、医药生物、软件服务板块领涨，凯莱英涨超16%，华虹宏力涨16%，仙工智能涨超13%；机械、化工、有色金属板块跌幅居前，星源材质跌超12%，中国石墨跌超11%，重庆机电跌超6%；南向资金净买入33.07亿港元",
+      "url": "https://36kr.com/newsflashes/3866652371964930?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "AI × OPC的新可能：一个人，就是一支队伍｜2026WAVES",
+      "date": "Wed, 24 Jun 2026 04:00:08 GMT",
+      "summary": "2026年6月16日，36氪2026 WAVES 新浪潮大会在广州番禺良仓新造创意园开幕。以下这场圆桌论坛是大会首日下午的收官议题，探讨 AI 时代 OPC（One Person Company）的真实生态。 八九十年代，一辆三轮车、一个摊位，就能撑起一门生意。今天的 OPC 看起来形似，但底层逻辑已经彻底不同。 过去个体户的杠杆是体力、经验和地理位置，本质上是基于本地的 LBS 服务，脱不开那个具体的摊位。今天 OPC 的杠杆是代码和媒体——边际成本几乎为零的杠杆，加上 AI 带来的生产力平权，让一个人第一次拥有了接近公司的交付能力。 这场圆桌汇集了 OPC 生态的上中下游：已经跑出商业闭环的 OPC 创业者、每天和年轻创业者打交道的高校创新创业负责人、云计算和底层算力平台的专家。几个值得关注的行业趋势在讨论中浮出水面： 第一，云的用户画像正在发生迁移，云平台的产品逻辑也在随之重构。阿里云今年2月的用户调研发现，传统“写代码的开发者”仅占现场用户的20%，产品与运营背景的人已占35%，企业主占21%。基础设施的服务对象正在从技术极客扩展到“有想法、有业务的普通人”。 第二，OPC 与",
+      "url": "https://36kr.com/p/3866649515938825?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
+      "date": "Wed, 24 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.23927v1 Announce Type: new Abstract: Agentic AI systems powered by large language models (LLMs) are rapidly evolving into autonomous decision-making systems, exposing attack vectors beyond those of traditional LLM vulnerabilities. Existing security evaluations are often tied to specific implementations or domains, limiting unified comparison across heterogeneous systems. To address this gap, we introduce RIFT-Bench, a graph representation-driven methodology for dynamic red-teaming tha",
+      "url": "https://arxiv.org/abs/2606.23927",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs",
+      "date": "Wed, 24 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.23938v1 Announce Type: new Abstract: Driving VLA models incorporating Chain-of-Thought (CoT) reasoning are attractive because they leverage pretrained VLM representations and expose intermediate decisions in natural language, yet current rationales often lack the step-by-step decision semantics needed to keep the rationale causally connected to the planned motion. We introduce Neuro-Symbolic Drive, a neuro-symbolic driving framework that supervises a driving VLA with rule-grounded rea",
+      "url": "https://arxiv.org/abs/2606.23938",
+      "category": [
+        "cs.AI",
+        "cs.CL"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Critique of Agent Model",
+      "date": "Wed, 24 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.23991v1 Announce Type: new Abstract: What is an agent? What constitutes agency? With the rise of Large Language Model (LLM) systems marketed as ``coding agents'', ``AI co-scientists'', and other ``agentic\" tools that promise to drive up productivity, and at the same time, ``existential\" concerns such as AI escaping human control with destructive power under a speculative ``machine agency\" against humans, it has become essential to clarify where automation ends and agency begins, both ",
+      "url": "https://arxiv.org/abs/2606.23991",
+      "category": [
+        "cs.AI",
+        "cs.LG",
+        "cs.MA",
+        "cs.RO"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Safe and Generalizable Hierarchical Multi-Agent RL via Constraint Manifold Control",
+      "date": "Wed, 24 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.24010v1 Announce Type: new Abstract: Multi-agent systems are widely used in safety-critical applications that require coordinated behavior under strict safety constraints. Existing approaches face a fundamental trade-off: learning-based methods achieve strong empirical performance but lack theoretical safety guarantees, while control-theoretic methods enforce safety but often lead to overly conservative and inefficient behaviors. We propose a hierarchical multi-agent reinforcement lea",
+      "url": "https://arxiv.org/abs/2606.24010",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Reinforcement Learning Towards Broadly and Persistently Beneficial Models",
+      "date": "Wed, 24 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.24014v1 Announce Type: new Abstract: As AI systems are deployed across increasingly diverse and high-stakes settings, model alignment must generalize beyond the tasks and domains seen during training. This is especially important for reinforcement learning (RL), which can introduce unexpected misalignment through reward hacking, deception, or other unintended strategies. We study whether RL on beneficial behavior, instantiated in realistic domains, can produce broad and persistent ali",
+      "url": "https://arxiv.org/abs/2606.24014",
+      "category": [
+        "cs.AI",
+        "cs.CL"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Can Language Model Agents be Helpful Circuit Explainers in Mechanistic Interpretability?",
+      "date": "Wed, 24 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.24026v1 Announce Type: new Abstract: Mechanistic interpretability has made substantial progress in automatically localizing circuits, but explaining what localized components do remains labor-intensive and difficult to standardize. In this work, we study whether language model (LM) agents can assist with this explanation problem once a circuit has already been identified. We introduce AgenticInterpBench, a benchmark for circuit explanation built from 84 semi-synthetic transformer circ",
+      "url": "https://arxiv.org/abs/2606.24026",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "半日主力资金加仓电子板块，抛售银行板块",
+      "date": "Wed, 24 Jun 2026 03:50:47 GMT",
+      "summary": "主力资金早间净流入电子、医药生物、建筑材料等板块，净流出银行、非银金融、食品饮料等板块。具体到个股来看，长电科技、药明康德、中国巨石获净流入80.60亿元、29.97亿元、28.80亿元。净流出方面，东方财富、洛阳钼业、北方稀土遭抛售8.97亿元、6.62亿元、6.46亿元。（第一财经）",
+      "url": "https://36kr.com/newsflashes/3866641168291073?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "多家私募收到通知，暂停跨境TRS新增",
+      "date": "Wed, 24 Jun 2026 03:45:41 GMT",
+      "summary": "6月24日，多位私募业人士向记者透露，昨晚陆续收到合作券商的通知，监管要求暂停管理人跨境TRS（总收益互换）规模新增。据公开资料，TRS为Total Return Swap（总收益互换)是一种金融衍生品，私募可以通过这一工具在不直接持有境外资产（本金不出境）的前提下，通过与对手券商签订收益互换协议，获得该资产的收益（或亏损）。今年以来，由于全球科技板块的亮眼表现，不少私募通过跨境TRS配置海外资产。5月以来，证监会等八部门联合印发《综合整治非法跨境证券期货基金经营活动实施方案》，对老虎证券、富途控股、长桥证券等头部跨境互联网券商亮出重拳，内地居民违规跨境炒股空间收缩后，使用跨境TRS配置海外科技标的的私募产品愈发受到资金关注。多位私募人士透露：“相关通知较为突然，部分产品策略短期可能出现一定变化，目前正在等待进一步细化的跨境TRS额度规范。”（上证报）",
+      "url": "https://36kr.com/newsflashes/3866636156556289?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "汇丰人寿保险公司增资至32.32亿，增幅约21%",
+      "date": "Wed, 24 Jun 2026 03:42:25 GMT",
+      "summary": "36氪获悉，天眼查App显示，近日，汇丰人寿保险有限公司发生工商变更，注册资本由 26.76亿人民币增至32.32亿人民币，增幅约21%。该公司成立于2009年6月，法定代表人为胡敏，经营范围为人寿保险、健康保险和意外伤害保险等保险业务，上述业务的再保险业务，由汇丰保险（亚洲）有限公司全资持股。",
+      "url": "https://36kr.com/newsflashes/3866632944342273?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "主题圆桌: 迎风而立的人，那些漂洋过海寻找的答案｜36氪WAVES2026新浪潮",
+      "date": "Wed, 24 Jun 2026 03:38:08 GMT",
+      "summary": "&nbsp;“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从‘小众赛道’ 变成‘主流共识’，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。 今年的 WAVES 2026以‘今年盛夏’为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些‘少数人’ 的坚持，如何汇聚成改变行业的浪潮。” 以下为演讲内容，经36氪整理编辑： 彭孝秋 | 36氪硬氪主编（主持） 张涵量 | 星展银行（中国）新经济暨汽车、通用行业负责人 陶洋峰 | 零一创投 董事总经理 郭斌 | 天堂硅谷 合伙人 刘兵斌丨征拓 创始人兼CEO 彭孝秋：大家好！我是36氪的小秋。今天我们的主题是“那些漂洋过海寻找的答案”。其实我觉得，比答案更重要的是提出好的问题——如果问题本身错了，答案再好也没有意义。所以我们今天准备了三个话题，和各位嘉宾一起交流。先请四位嘉宾用一句话介绍一",
+      "url": "https://36kr.com/p/3866622738060553?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "date": "Tue, 23 Jun 2026 17:00:00 GMT",
+      "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+      "url": "https://openai.com/index/gpt-5-immunology-mystery",
+      "category": "Applied AI",
+      "source": "OpenAI News",
+      "source_name": "openai"
+    },
+    {
+      "title": "高温干旱高 CO2 下大豆蛋白质含量会下降",
+      "date": "Tue, 23 Jun 2026 16:27:03 GMT",
+      "summary": "大豆是重要的蛋白质来源，但气候变化正日益影响其产量和营养品质。根据发表在《Food Research International》上的一项研究，高浓度二氧化碳会使大豆种子产量增加最高 142%，而高温和干旱则分别会使产量降低 91% 和 60%。在高浓度二氧化碳+高温+干旱三重效应下，大豆种子产量可能会增加 50%，可溶性糖含量增加 35%，氨基酸含量增加 175%，同时淀粉含量降低 20%，蛋白质含量降低 6%。",
+      "url": "https://www.solidot.org/story?sid=84658",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "中国新超算灵晟登顶 Top500 榜单 ",
+      "date": "Tue, 23 Jun 2026 15:15:21 GMT",
+      "summary": "Top500 公布了最新的超算榜单，深圳国家超算中心的灵晟首次亮相即登顶榜单。灵晟理论峰值 2.736 Exaflop/s，在 HPL 测试中达到了 2.198 Exaflop/s，是 Top500 榜单中首个仅靠 CPU 实现持续双精度浮点性能逾 2 Exaflops 的超算系统。灵晟使用了 304 个核心的 LX2 CPU，总共 1379 万个核心，运行频率 1.55 GHz，操作系统是麒麟，功耗为 42.2 兆瓦。榜单前五的超算性能都超过了 Exaflops：灵晟；美国劳伦斯利弗莫尔国家实验室的 El Capitan，使用 AMD 第四代 EPYC 处理器，性能 1.809 Exaflop/s；橡树岭国家实验室（ORNL）的 Frontier，使用 AMD 第三代 EPYC，性能 1.353 Exaflop/s；阿贡国家实验室 Aurora 使用英特尔 Xeon CPU，性能 1.012 Exaflop/s，德国 Jülich 超算中心的 JUPITER Booster，使用英伟达 GH Superchip 72C 3GHz，性能 1 Exaflop/s。之后还有意大利 HPC7",
+      "url": "https://www.solidot.org/story?sid=84657",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "June Pixel Drop: New features for creators, Gemini upgrades and more",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/june-2026-pixel-drop/",
+      "date": "2026-06-23T14:13:00.860Z",
+      "summary": "",
+      "category": "Google",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Developer tools",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/",
+      "date": "2026-06-23T14:13:00.860Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Check out what's new in Android 17 Explore the latest features in Android 17, including enhanced productivity, gaming and security.",
+      "url": "https://blog.google/products-and-platforms/platforms/android/android-17-features/",
+      "date": "2026-06-23T14:13:00.860Z",
+      "summary": "",
+      "category": "Google",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Wear OS 7 helps your smartwatch keep up with you",
+      "url": "https://blog.google/products-and-platforms/platforms/wear-os/google-io-2026-wear-os/",
+      "date": "2026-06-23T14:13:00.860Z",
+      "summary": "",
+      "category": "Google",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "New expanded Android parental controls to support families around the world",
+      "url": "https://blog.google/products-and-platforms/platforms/android/new-expanded-android-parental-controls/",
+      "date": "2026-06-23T14:13:00.860Z",
+      "summary": "",
+      "category": "Google",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Google Nest",
+      "url": "https://blog.google/products-and-platforms/devices/google-nest/",
+      "date": "2026-06-23T14:13:00.860Z",
+      "summary": "",
+      "category": "Google",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "The State of AI: A Look at What's Next",
+      "url": "https://every.to/p/the-state-of-ai",
+      "date": "2026-06-23T14:12:52.865Z",
+      "summary": "An in-depth analysis of the current AI landscape and future trends.",
+      "category": "AI Analysis",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "甲骨文过去一年裁员 2.1 万",
+      "date": "Tue, 23 Jun 2026 13:55:16 GMT",
+      "summary": "根据甲骨文的最新年报，该公司过去一年在全球裁员约 2.1 万人，原因是它正围绕 AI 重塑业务。截至 2026 年 5 月 31 日，甲骨文全职员工总数约 14.1 万人，而去年同期为 16.2 万人。甲骨文在其报告中称，AI 技术在运营中的部署已经导致且可能继续导致员工总数减少。裁员人数约占甲骨文员工总数的 13%。就业追踪公司估计，过去一年中有逾 10 万科技从业者被裁员。甲骨文称，过去一年它支付了 18 亿美元的遣散费和其它重组费用。",
+      "url": "https://www.solidot.org/story?sid=84656",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "维基百科联合创始人 Larry Sanger 被封禁",
+      "date": "Tue, 23 Jun 2026 13:34:25 GMT",
+      "summary": "拥抱保守派、支持 MAGA 的维基百科联合创始人 Larry Sanger 再次现身维基百科，理由是帮助维基百科进行改革——aka 将其从自由派手中夺回来。他发起了“WikiProject Intellectual Diversity”提案，想要增加更多保守派的声音。他通过其社交媒体账号宣传该提案，违反了维基百科关于“隐蔽拉票（Stealth canvassing）”的政策，他在维基社区引发了争议，最终被封禁。",
+      "url": "https://www.solidot.org/story?sid=84655",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
     {
       "title": "当代年轻人生物衰老速度更快",
       "date": "Tue, 23 Jun 2026 13:16:22 GMT",
@@ -14,163 +241,19 @@
       "source_name": "solidot"
     },
     {
-      "title": "热门中概股美股盘前集体下挫，小鹏集团跌超5%",
-      "date": "Tue, 23 Jun 2026 12:57:42 GMT",
-      "summary": "36氪获悉，热门中概股美股盘前集体下挫，截至发稿，小鹏集团跌超5%，理想汽车、哔哩哔哩跌超4%，阿里巴巴、百度、蔚来跌超3%，京东、拼多多、网易跌超2%。",
-      "url": "https://36kr.com/newsflashes/3865763225687303?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "美股大型科技股盘前普跌，美光科技跌超9%",
-      "date": "Tue, 23 Jun 2026 12:56:06 GMT",
-      "summary": "36氪获悉，美股大型科技股盘前普跌，截至发稿，美光科技跌超9%，英伟达、特斯拉、SpaceX、谷歌跌超2%，Meta跌0.88%，亚马逊跌0.79%，苹果跌0.68%。",
-      "url": "https://36kr.com/newsflashes/3865761659114753?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "煜鼎增材科创板IPO获受理",
-      "date": "Tue, 23 Jun 2026 12:49:03 GMT",
-      "summary": "36氪获悉，据上交所官网，6月23日，北京煜鼎增材制造研究院股份有限公司科创板IPO审核状态变更为已受理。",
-      "url": "https://36kr.com/newsflashes/3865754721555716?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "欧盟或将指控Meta产品存在诱导儿童上瘾的设计",
-      "date": "Tue, 23 Jun 2026 12:45:10 GMT",
-      "summary": "据报道，欧盟将加大对Meta Platforms的调查力度，拟指控其产品存在诱导儿童上瘾的设计。知情人士称，欧盟委员会正准备发布初步调查结果，尚未确定正式公布的日期。（界面）",
-      "url": "https://36kr.com/newsflashes/3865750908835077?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "张国清在全国进一步深化国资国企改革动员部署视频会议上强调，坚定不移深化国资国企改革",
-      "date": "Tue, 23 Jun 2026 12:39:56 GMT",
-      "summary": "全国进一步深化国资国企改革动员部署视频会议23日在京召开，中共中央政治局委员、国务院副总理张国清出席会议并讲话。张国清强调，聚焦主责主业，坚定不移深化国资国企改革，做强做优做大国有企业和国有资本，持续增强核心功能、提升核心竞争力，更好发挥国有经济主导作用。要促进科技创新和产业创新深度融合，加强基础研究、原始创新和场景开放，推动科技成果加快转化为现实生产力，更好服务实现高水平科技自立自强。要完善主责主业管理，强化无关多元、多层架构、过度负债等管控，按照“三个集中”要求推进重组整合、资源盘活，分层次调整产业结构，不断优化国有经济布局。要推行精准分类考核评价，突出价值创造导向，开展国有经济增加值核算，引导国有企业高质量发展。（新华社）",
-      "url": "https://36kr.com/newsflashes/3865745765028864?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "芬兰监管机构正评估是否批准特斯拉FSD进入该国市场",
-      "date": "Tue, 23 Jun 2026 12:32:34 GMT",
-      "summary": "芬兰交通和通信局（Traficom）6月23日发布声明称，正评估是否批准特斯拉FSD进入该国市场。该机构表示，将参与欧盟层面的审批流程，与特斯拉及其他相关方对话，并评估其FSD系统的安全性。今年4月，特斯拉FSD受监督版本在荷兰获批。芬兰交通和通信局称，已评估荷兰方面的国家批准，并与制造商和荷兰批准机构有过磋商。（界面）",
-      "url": "https://36kr.com/newsflashes/3865728142267654?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "June Pixel Drop: New features for creators, Gemini upgrades and more",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/june-2026-pixel-drop/",
-      "date": "2026-06-23T10:55:43.283Z",
-      "summary": "",
-      "category": "Google",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Developer tools",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/",
-      "date": "2026-06-23T10:55:43.283Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Check out what's new in Android 17 Explore the latest features in Android 17, including enhanced productivity, gaming and security.",
-      "url": "https://blog.google/products-and-platforms/platforms/android/android-17-features/",
-      "date": "2026-06-23T10:55:43.283Z",
-      "summary": "",
-      "category": "Google",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Wear OS 7 helps your smartwatch keep up with you",
-      "url": "https://blog.google/products-and-platforms/platforms/wear-os/google-io-2026-wear-os/",
-      "date": "2026-06-23T10:55:43.283Z",
-      "summary": "",
-      "category": "Google",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "New expanded Android parental controls to support families around the world",
-      "url": "https://blog.google/products-and-platforms/platforms/android/new-expanded-android-parental-controls/",
-      "date": "2026-06-23T10:55:43.283Z",
-      "summary": "",
-      "category": "Google",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Google Nest",
-      "url": "https://blog.google/products-and-platforms/devices/google-nest/",
-      "date": "2026-06-23T10:55:43.283Z",
-      "summary": "",
-      "category": "Google",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "The State of AI: A Look at What's Next",
-      "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-06-23T10:55:36.957Z",
-      "summary": "An in-depth analysis of the current AI landscape and future trends.",
-      "category": "AI Analysis",
-      "source": "Every.to",
-      "source_name": "every"
+      "title": "Helping build shared standards for advanced AI",
+      "date": "Tue, 23 Jun 2026 13:00:00 GMT",
+      "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "category": "Global Affairs",
+      "source": "OpenAI News",
+      "source_name": "openai"
     },
     {
       "title": "野狼重返欧洲",
       "date": "Tue, 23 Jun 2026 10:54:05 GMT",
       "summary": "去年夏天，一位女士带着两幼儿在荷兰 Utrecht 附近的天然公园散步，她看到一只体型较大的动物猛冲过来，她起初以为是一只顽皮的狗，但很快听到 6 岁大儿子发出尖叫，这只动物正将他拖进树林。附近两位恰好路过的成年人用棍子赶跑了它。袭击男孩的不是狗，而是一只狼。狼群数量在欧洲多地激增，引发了如何处理野狼的激烈争论。得益于严格的法律保护，灰狼（Canis lupus）的数量自 2000 年以来大幅增长，但袭击牲畜和袭人事件也日益频发。欧盟委员会去年放宽规定允许更多捕杀野狼，科学家对此表示反对，认为基因证据表明狼群数量并不像表面看起来那么庞大，认为用电围栏和护卫犬保护牲畜比捕杀更有效。科学家估计目前欧盟成员国境内共有约 23,000 只狼，相比下 2012 年只有约 12,000 只。",
       "url": "https://www.solidot.org/story?sid=84653",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "星际彗星 3I/Atlas 可能是太阳系最古老的天体",
-      "date": "Tue, 23 Jun 2026 09:51:24 GMT",
-      "summary": "目前正横穿太阳系的星际彗星 3I/Atlas 可能是太阳系至今发现的最古老天体。它形成于 120 亿年前。借助 NASA 韦伯望远镜（JWST），研究团队精确测定了这颗彗星的化学组分，判定它诞生于宇宙早期银河系的一片恒星形成区。该发现让人类得以窥见其他行星系统的构成，并对比其与太阳系的差异。受阳光加热后，3I/Atlas 向外喷发水蒸气、一氧化碳、二氧化碳，甚至镍、铁等金属蒸气。有两个同位素特征彻底暴露了它的古老身世，同位素即质子数相同、中子数不同的同种元素原子。第一，这颗彗星的碳12与碳13比值远高于太阳系内所有天体。宇宙中，大质量恒星剧烈爆发会持续累积碳13。3I/Atlas 的碳13含量极低，说明它诞生于宇宙早期，彼时大量恒星尚未演化到发生超新星爆发的阶段。第二，这颗彗星富含半重水，即水分子中的部分氢原子多携带一个中子。这类水分子更容易在早期宇宙低温大质量恒星形成区普遍存在的强辐射环境中生成。",
-      "url": "https://www.solidot.org/story?sid=84652",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "DDR2 和 DDR3 内存的价格出现上涨",
-      "date": "Tue, 23 Jun 2026 08:29:01 GMT",
-      "summary": "过去几个月，由于 AI 热导致的内存短缺，DDR4 和 DDR5 内存条价格都出现了数倍的增长。由于 DDR4 和 DDR5 内存成本过高，部分硬件制造商开始降低内存规格，转向更古老的内存条，结果推动了 DDR2 和 DDR3 内存的价格出现了上涨。市场观察机构 TrendForce 称，硬件制造商为控制成本用 DDR3 方案取代了 DDR4，或用基于 DDR2 的设计取代 DDR3。机构预测 2026 年第二季度 DDR2 合约价格将上涨约 55% 至 60%，第三季度还将进一步上涨 35% 至 40%。而 DDR 2 的制造商表示它们正将产能转移到利润更高的产品如 DDR3、DDR4 和 LPDDR4。",
-      "url": "https://www.solidot.org/story?sid=84651",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "在敏感信息泄漏后 Meta 暂停内部 AI 训练项目 ",
-      "date": "Tue, 23 Jun 2026 07:48:59 GMT",
-      "summary": "在敏感信息泄漏后 Meta 暂停了内部的 AI 训练项目。泄密事件暴露了员工的私人对话、绩效数据和转录文本。Meta 发言人证实了此事，表示公司正在调查，称目前没有迹象表明 Meta 员工不当访问了任何数据。Meta 公司是在今年 4 月宣布了名为 Model Capability Initiative 的 AI 训练计划，旨在利用员工的按键和鼠标移动作为训练数据，以改进公司的 AI 模型。该计划对大多数员工强制执行，但引发了部分员工的强烈反对，他们对自己的数据被记录感到不安。最新的泄密事件令 Meta 内部员工感到沮丧，他们批评公司从一开始就没有对数据进行安全防护。",
-      "url": "https://www.solidot.org/story?sid=84650",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "警长利用 Flock 车牌跟踪系统跟踪前女友",
-      "date": "Tue, 23 Jun 2026 07:09:34 GMT",
-      "summary": "54 岁的伊利诺伊州 Holiday Hills 警长 William C. Copp 于 6 月 18 日被捕，他被控了两项渎职罪。检方指控他利用 Flock Group 公司的车牌跟踪系统跟踪了六名他认识的人，其中三人是其前女友，他特别跟踪了一名前女友的前男友——在数月内查询了至少 140 次，这名男子为此申请了禁止接触令。Institute for Justice 的统计显示，截至 2026 年 6 月全美至少发生了 18 起警察利用 Flock 车牌跟踪系统跟踪熟人的案件。举例来说，爱达荷州 Jerome 县的一名警长在三个月内查询了其妻子车牌逾 700 次；堪萨斯州 Sedgwick 前警长对其前女友的车牌进行了 164 次查询，对前女友现任男友的车牌进行了 64 次查询；密尔沃基一名警官追踪其伴侣及其前任逾 100 次...Flock 的数据库查询不需要搜查令，该公司声称要求搜索令可能会在紧急情况下危及生命。ACLU、EFF 以及 Institute for Justice 等都坚持查询车牌需要搜查令。",
-      "url": "https://www.solidot.org/story?sid=84649",
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
@@ -187,7 +270,7 @@
     {
       "title": "How Startups Are Using AI to Disrupt Industries",
       "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-06-22T10:55:36.957Z",
+      "date": "2026-06-22T14:12:52.865Z",
       "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
       "category": "Source Code",
       "source": "Every.to",
@@ -221,18 +304,9 @@
       "source_name": "openai"
     },
     {
-      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-      "date": "Sun, 21 Jun 2026 23:00:00 GMT",
-      "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
-      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-      "category": "Company",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-06-21T10:55:36.957Z",
+      "date": "2026-06-21T14:12:52.865Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
@@ -241,7 +315,7 @@
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-06-20T10:55:36.957Z",
+      "date": "2026-06-20T14:12:52.865Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
@@ -250,25 +324,16 @@
     {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-06-19T10:55:36.957Z",
+      "date": "2026-06-19T14:12:52.865Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
       "source_name": "every"
     },
     {
-      "title": "New usage analytics and updated spend controls for enterprises",
-      "date": "Thu, 18 Jun 2026 17:00:00 GMT",
-      "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
-      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-      "category": "Product",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-06-18T10:55:36.957Z",
+      "date": "2026-06-18T14:12:52.865Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
