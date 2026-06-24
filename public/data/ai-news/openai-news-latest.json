@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-06-24T10:41:42.798Z",
+  "fetch_time": "2026-06-24T13:57:10.508Z",
   "articles": [
+    {
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "date": "Wed, 24 Jun 2026 06:00:00 GMT",
+      "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "category": "Company"
+    },
     {
       "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
       "date": "Tue, 23 Jun 2026 17:00:00 GMT",
@@ -25,13 +32,6 @@
       "category": ""
     },
     {
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "date": "Mon, 22 Jun 2026 10:00:00 GMT",
-      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-      "url": "https://openai.com/index/daybreak-securing-the-world",
-      "category": "Security"
-    },
-    {
       "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
       "date": "Mon, 22 Jun 2026 10:00:00 GMT",
       "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
@@ -39,11 +39,11 @@
       "category": "Security"
     },
     {
-      "title": "Codex-maxxing for long-running work",
-      "date": "Mon, 22 Jun 2026 00:00:00 GMT",
-      "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
-      "url": "https://openai.com/index/codex-maxxing-long-running-work",
-      "category": "AI Adoption"
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "date": "Mon, 22 Jun 2026 10:00:00 GMT",
+      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "category": "Security"
     }
   ],
   "status": "success",
