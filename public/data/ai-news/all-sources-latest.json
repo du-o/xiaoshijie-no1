@@ -1,62 +1,208 @@
 {
-  "fetch_time": "2026-06-24T13:57:14.100Z",
+  "fetch_time": "2026-06-25T04:05:56.218Z",
   "total_count": 36,
   "sources_count": 6,
   "errors": null,
   "articles": [
     {
-      "title": "“临界点”完成近10亿融资",
-      "date": "Wed, 24 Jun 2026 12:59:00 GMT",
-      "summary": "36氪获悉，6月24日，灵巧手企业“临界点”宣布完成近10亿元融资，由未来资产、某互联网大厂、京铭资本等战略与产业资本联合领投，东风资产、国信中数、上海电科基金等产业资源方，以及清新资本、凯联资本、普华资本、天季资本、We Venture、箴言投资、明嘉资本等机构参与投资，高瓴创投、蓝驰创投、C资本等老股东持续加注。本轮融资将分别为量产能力的持续扩大、灵巧操作数据飞轮的搭建，以及接触智能（Contact Intelligence）模型的下一阶段研发。",
-      "url": "https://36kr.com/newsflashes/3867180080010245?f=rss",
+      "title": "恒指午间休盘跌1.38%，恒生科技指数跌1.67%",
+      "date": "Thu, 25 Jun 2026 04:01:57 GMT",
+      "summary": "36氪获悉，恒指午间休盘跌1.38%，恒生科技指数跌1.67%；有色金属、软件服务、传媒板块领跌，招金矿业跌超8%，阿里巴巴、同程旅行跌超4%，快手跌超1%；半导体、地产、硬件设备板块走强，天数智芯涨超8%，青岛控股涨超3%，华勤技术涨超2%；南向资金净买入15.53亿港元。",
+      "url": "https://36kr.com/newsflashes/3868067722761217?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "现货黄金跌破4000美元/盎司关口",
-      "date": "Wed, 24 Jun 2026 12:54:01 GMT",
-      "summary": "36氪获悉，现货黄金盘中跌破4000美元/盎司整数关口，日内跌幅达2.8%。",
-      "url": "https://36kr.com/newsflashes/3867175177098243?f=rss",
+      "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
+      "date": "Thu, 25 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.23927v1 Announce Type: new Abstract: Agentic AI systems powered by large language models (LLMs) are rapidly evolving into autonomous decision-making systems, exposing attack vectors beyond those of traditional LLM vulnerabilities. Existing security evaluations are often tied to specific implementations or domains, limiting unified comparison across heterogeneous systems. To address this gap, we introduce RIFT-Bench, a graph representation-driven methodology for dynamic red-teaming tha",
+      "url": "https://arxiv.org/abs/2606.23927",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs",
+      "date": "Thu, 25 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.23938v1 Announce Type: new Abstract: Driving VLA models incorporating Chain-of-Thought (CoT) reasoning are attractive because they leverage pretrained VLM representations and expose intermediate decisions in natural language, yet current rationales often lack the step-by-step decision semantics needed to keep the rationale causally connected to the planned motion. We introduce Neuro-Symbolic Drive, a neuro-symbolic driving framework that supervises a driving VLA with rule-grounded rea",
+      "url": "https://arxiv.org/abs/2606.23938",
+      "category": [
+        "cs.AI",
+        "cs.CL"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Critique of Agent Model",
+      "date": "Thu, 25 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.23991v1 Announce Type: new Abstract: What is an agent? What constitutes agency? With the rise of Large Language Model (LLM) systems marketed as ``coding agents'', ``AI co-scientists'', and other ``agentic\" tools that promise to drive up productivity, and at the same time, ``existential\" concerns such as AI escaping human control with destructive power under a speculative ``machine agency\" against humans, it has become essential to clarify where automation ends and agency begins, both ",
+      "url": "https://arxiv.org/abs/2606.23991",
+      "category": [
+        "cs.AI",
+        "cs.LG",
+        "cs.MA",
+        "cs.RO"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Safe and Generalizable Hierarchical Multi-Agent RL via Constraint Manifold Control",
+      "date": "Thu, 25 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.24010v1 Announce Type: new Abstract: Multi-agent systems are widely used in safety-critical applications that require coordinated behavior under strict safety constraints. Existing approaches face a fundamental trade-off: learning-based methods achieve strong empirical performance but lack theoretical safety guarantees, while control-theoretic methods enforce safety but often lead to overly conservative and inefficient behaviors. We propose a hierarchical multi-agent reinforcement lea",
+      "url": "https://arxiv.org/abs/2606.24010",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Reinforcement Learning Towards Broadly and Persistently Beneficial Models",
+      "date": "Thu, 25 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.24014v1 Announce Type: new Abstract: As AI systems are deployed across increasingly diverse and high-stakes settings, model alignment must generalize beyond the tasks and domains seen during training. This is especially important for reinforcement learning (RL), which can introduce unexpected misalignment through reward hacking, deception, or other unintended strategies. We study whether RL on beneficial behavior, instantiated in realistic domains, can produce broad and persistent ali",
+      "url": "https://arxiv.org/abs/2606.24014",
+      "category": [
+        "cs.AI",
+        "cs.CL"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Can Language Model Agents be Helpful Circuit Explainers in Mechanistic Interpretability?",
+      "date": "Thu, 25 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.24026v1 Announce Type: new Abstract: Mechanistic interpretability has made substantial progress in automatically localizing circuits, but explaining what localized components do remains labor-intensive and difficult to standardize. In this work, we study whether language model (LM) agents can assist with this explanation problem once a circuit has already been identified. We introduce AgenticInterpBench, a benchmark for circuit explanation built from 84 semi-synthetic transformer circ",
+      "url": "https://arxiv.org/abs/2606.24026",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "天邑股份：公司在CPO领域目前没有应用技术",
+      "date": "Thu, 25 Jun 2026 03:55:24 GMT",
+      "summary": "36氪获悉，天邑股份在互动平台表示，公司在CPO领域目前没有应用技术。",
+      "url": "https://36kr.com/newsflashes/3868038743053576?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "亚信安全：子公司拟签订3000万元算力集群服务框架协议",
-      "date": "Wed, 24 Jun 2026 12:53:23 GMT",
-      "summary": "36氪获悉，亚信安全公告，公司控股子公司亚信科技拟与关联方西云算力签订《算力集群服务框架协议》，向西云算力采购算力集群服务，协议金额上限为3000万元，有效期1年。本次交易构成关联交易，已获董事会审议通过，无需提交股东会审议。",
-      "url": "https://36kr.com/newsflashes/3867174567269638?f=rss",
+      "title": "企业微信5.0.9版本推出服务总结等AI功能",
+      "date": "Thu, 25 Jun 2026 03:54:40 GMT",
+      "summary": "36氪获悉，企业微信5.0.9版本推出服务总结等AI功能。据了解，该能力可根据成员与客户的服务记录，每天自动总结客户需求、意向和成交卡点等关键信息。",
+      "url": "https://36kr.com/newsflashes/3868060552909827?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "热门中概股美股盘前跌多涨少，蔚来跌超2%",
-      "date": "Wed, 24 Jun 2026 12:48:07 GMT",
-      "summary": "36氪获悉，热门中概股美股盘前跌多涨少，截至发稿，蔚来跌超2%，阿里巴巴、京东、小鹏集团跌超1%，拼多多跌0.73%，微博跌0.55%，爱奇艺跌0.1%；B站涨超2%，腾讯音乐涨0.61%。",
-      "url": "https://36kr.com/newsflashes/3867169382978819?f=rss",
+      "title": "宁德时代在柳州成立新能源公司",
+      "date": "Thu, 25 Jun 2026 03:42:52 GMT",
+      "summary": "36氪获悉，天眼查App显示，近日，时代骐骥新能源科技（柳州）有限公司成立，法定代表人为曾凡清，注册资本500万人民币，经营范围包括新兴能源技术研发、新能源汽车换电设施销售、在线能源计量技术研发、合同能源管理等，由时代骐骥新能源科技（南宁）有限公司全资持股。",
+      "url": "https://36kr.com/newsflashes/3868030356722691?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "美股大型科技股盘前涨跌不一，SpaceX跌近2%",
-      "date": "Wed, 24 Jun 2026 12:46:37 GMT",
-      "summary": "36氪获悉，美股大型科技股盘前涨跌不一，截至发稿，SpaceX跌近2%，微软跌0.67%，奈飞跌0.29%，亚马逊跌0.27%；Arm涨超3%，谷歌涨0.75%，英伟达涨0.52%，苹果涨0.44%，特斯拉涨0.33%。",
-      "url": "https://36kr.com/newsflashes/3867167908189190?f=rss",
+      "title": "主题圆桌：当所有人都看到泡沫，机器人何时走入真实场景 | 36氪WAVES2026新浪潮",
+      "date": "Thu, 25 Jun 2026 03:42:26 GMT",
+      "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。 今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。” 以下为对话内容，经36氪整理编辑： 巴芮｜暗涌副主编（主持） 李晓飞｜深朴智能 创始人兼CEO 李元庆｜乐享科技 联席CTO、穹明智能 总经理 李一言｜擎天租 联合创始人、CEO 崔轲迪｜BV百度风投 执行董事 由天宇｜凯联资本 行业合伙人 王子璇｜云时资本 执行董事 巴芮：各位好！我们这一桌人最多、最热闹，但是我们时间紧，任务重，所以我快点说。 具身智能是这一两年一级市场最吸金的市场，也是期待最高的硬科技赛道之一，钱涌进来的速度有多快，泡沫的质疑就有多大。今天这",
+      "url": "https://36kr.com/p/3867998907667462?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "祥鑫科技：拟收购液冷散热公司酷尔芯科技51%股权",
-      "date": "Wed, 24 Jun 2026 12:40:57 GMT",
-      "summary": "36氪获悉，祥鑫科技公告，公司董事会审议通过《关于签订股权收购框架协议的议案》，拟通过现金收购与增资相结合的方式取得苏州酷尔芯科技有限公司51%股权。目标公司主要从事液冷散热器件的研发、生产和销售，主要产品包括波纹管、散热管集成模组等，能够根据不同应用场景和客户需求，提供定制化的产品。",
-      "url": "https://36kr.com/newsflashes/3867162331108615?f=rss",
+      "title": "A股三大指数午间休盘集体上涨，半导体板块走强",
+      "date": "Thu, 25 Jun 2026 03:32:12 GMT",
+      "summary": "36氪获悉，A股三大指数午间休盘集体上涨，沪指涨0.36%，深成指涨1.45%，创业板指涨2.01%；券商、半导体、通用设备板块领涨，中信建投、中微半导涨停，海光信息、新易盛涨超8%，贵金属、能源、教育板块走弱，华锡有色跌超5%，博汇股份跌超3%，竞业达、中公教育跌超2%。",
+      "url": "https://36kr.com/newsflashes/3868038464050435?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
+    },
+    {
+      "title": "科学家将早期人类用火时间上溯至 180 万年前",
+      "date": "Wed, 24 Jun 2026 15:54:26 GMT",
+      "summary": "科学家在南非 Wonderwerk 洞穴发现了新证据，表明人类祖先在 107-179 万年前就开始使用火，这是已知最早的人类用火记录。研究人员在洞穴深处约 30 米处发现了反复用火的痕迹，这些地点远离自然野火可能影响的范围，因此表明早期人类有意将自然产生的火带入洞穴并持续燃烧。早期人类不能随意生火，他们很可能是从闪电引发的火或草原野火收集火源。",
+      "url": "https://www.solidot.org/story?sid=84669",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "中国一季度 PC 出货量下滑 2%",
+      "date": "Wed, 24 Jun 2026 15:19:20 GMT",
+      "summary": "根据市场分析公司 Omdia 的数据，中国一季度 PC 出货量下滑 2%，平板电脑下滑 5%。PC 出货量降至 890 万台，平板电脑出货量降至 830 万台。笔记本电脑（含移动工作站）出货量同比下降 19%，而台式机（含台式工作站）出货量同比增长 41%，分别达到 530 万台和 360 万台。Omdia 称市场疲软的原因是组件成本上涨导致设备价格上涨，以及消费者补贴力度减弱。Omdia 预测 2026 年全年 PC 出货量将下降 14% 至 3600 万台，平板电脑出货量预计将下降 11% 至 3200 万台。最主要 PC 制造商包括联想、华为、苹果、软通动力和惠普。",
+      "url": "https://www.solidot.org/story?sid=84668",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "June Pixel Drop: New features for creators, Gemini upgrades and more",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/june-2026-pixel-drop/",
+      "date": "2026-06-24T13:57:15.986Z",
+      "summary": "",
+      "category": "Google",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Towards a world where no one is surprised by a natural disaster An overview of Google’s ongoing crisis resilience efforts and mission, shared at the AI for the Planet event.",
+      "url": "https://blog.google/innovation-and-ai/technology/research/helping-communities-prepare-for-natural-disasters/",
+      "date": "2026-06-24T13:57:15.986Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Google Research",
+      "url": "https://blog.google/innovation-and-ai/technology/research/",
+      "date": "2026-06-24T13:57:15.986Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Developer tools",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/",
+      "date": "2026-06-24T13:57:15.986Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Check out what's new in Android 17 Explore the latest features in Android 17, including enhanced productivity, gaming and security.",
+      "url": "https://blog.google/products-and-platforms/platforms/android/android-17-features/",
+      "date": "2026-06-24T13:57:15.986Z",
+      "summary": "",
+      "category": "Google",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Wear OS 7 helps your smartwatch keep up with you",
+      "url": "https://blog.google/products-and-platforms/platforms/wear-os/google-io-2026-wear-os/",
+      "date": "2026-06-24T13:57:15.986Z",
+      "summary": "",
+      "category": "Google",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "The State of AI: A Look at What's Next",
+      "url": "https://every.to/p/the-state-of-ai",
+      "date": "2026-06-24T13:57:09.922Z",
+      "summary": "An in-depth analysis of the current AI landscape and future trends.",
+      "category": "AI Analysis",
+      "source": "Every.to",
+      "source_name": "every"
     },
     {
       "title": "幼儿早期的屏幕使用与较差的学习成绩和较弱的工作记忆相关",
@@ -66,69 +212,6 @@
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
-    },
-    {
-      "title": "June Pixel Drop: New features for creators, Gemini upgrades and more",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/june-2026-pixel-drop/",
-      "date": "2026-06-24T10:41:48.333Z",
-      "summary": "",
-      "category": "Google",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Towards a world where no one is surprised by a natural disaster An overview of Google’s ongoing crisis resilience efforts and mission, shared at the AI for the Planet event.",
-      "url": "https://blog.google/innovation-and-ai/technology/research/helping-communities-prepare-for-natural-disasters/",
-      "date": "2026-06-24T10:41:48.333Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Google Research",
-      "url": "https://blog.google/innovation-and-ai/technology/research/",
-      "date": "2026-06-24T10:41:48.333Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Developer tools",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/",
-      "date": "2026-06-24T10:41:48.333Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Check out what's new in Android 17 Explore the latest features in Android 17, including enhanced productivity, gaming and security.",
-      "url": "https://blog.google/products-and-platforms/platforms/android/android-17-features/",
-      "date": "2026-06-24T10:41:48.333Z",
-      "summary": "",
-      "category": "Google",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Wear OS 7 helps your smartwatch keep up with you",
-      "url": "https://blog.google/products-and-platforms/platforms/wear-os/google-io-2026-wear-os/",
-      "date": "2026-06-24T10:41:48.333Z",
-      "summary": "",
-      "category": "Google",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "The State of AI: A Look at What's Next",
-      "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-06-24T10:41:42.528Z",
-      "summary": "An in-depth analysis of the current AI landscape and future trends.",
-      "category": "AI Analysis",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "欧洲是变暖速度最快的大陆",
@@ -158,24 +241,6 @@
       "source_name": "solidot"
     },
     {
-      "title": "心率同步程度可判断社交投入程度",
-      "date": "Wed, 24 Jun 2026 07:52:47 GMT",
-      "summary": "根据发表在 PNAS Nexus 期刊上的一项研究，心率同步程度可判断社交投入程度。当人与人在身体与情感层面彼此亲近时，双方心率会逐渐同步。研究团队依托 72 名学生参与音频工程竞赛、赴纽约市期间采集的数据集开展研究。学生借助可收录环境噪音的助听器、监测心率的手环以及记录定位信息的手机采集各类数据。研究规定，人与人相距 20 米以内即为物理近距离接触。受试者共处时心率同步性更强，近距离互动、共同关注同一外界刺激（例如一同听课）时同步效应尤为明显。出行前便彼此熟悉的受试者，心率同步水平显著更高。",
-      "url": "https://www.solidot.org/story?sid=84663",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "GCC 编译器加入对海光苏州 x86 CPU 的支持",
-      "date": "Wed, 24 Jun 2026 07:08:33 GMT",
-      "summary": "GCC 编译器合并了支持海光代号苏州的 Model 8 c86-4g-m8 处理器的补丁。海光最早是与 AMD 合作的半导体企业，授权提供 AMD Zen 1 CPU的本地化版本，其产品仅供国内市场使用。几个月前 GCC 编译器合并了支持海光 C86-4G CPU 的补丁。Model 8 苏州 CPU 是上一代 Model 7 成都 CPU 的继任者，目前关于该处理器的信息很少，其指令集架构与上一代相差无几，支持包括 AVX-512 在内的指令集。",
-      "url": "https://www.solidot.org/story?sid=84662",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "date": "Wed, 24 Jun 2026 06:00:00 GMT",
       "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
@@ -183,71 +248,6 @@
       "category": "Company",
       "source": "OpenAI News",
       "source_name": "openai"
-    },
-    {
-      "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
-      "date": "Wed, 24 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.23927v1 Announce Type: new Abstract: Agentic AI systems powered by large language models (LLMs) are rapidly evolving into autonomous decision-making systems, exposing attack vectors beyond those of traditional LLM vulnerabilities. Existing security evaluations are often tied to specific implementations or domains, limiting unified comparison across heterogeneous systems. To address this gap, we introduce RIFT-Bench, a graph representation-driven methodology for dynamic red-teaming tha",
-      "url": "https://arxiv.org/abs/2606.23927",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs",
-      "date": "Wed, 24 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.23938v1 Announce Type: new Abstract: Driving VLA models incorporating Chain-of-Thought (CoT) reasoning are attractive because they leverage pretrained VLM representations and expose intermediate decisions in natural language, yet current rationales often lack the step-by-step decision semantics needed to keep the rationale causally connected to the planned motion. We introduce Neuro-Symbolic Drive, a neuro-symbolic driving framework that supervises a driving VLA with rule-grounded rea",
-      "url": "https://arxiv.org/abs/2606.23938",
-      "category": [
-        "cs.AI",
-        "cs.CL"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Critique of Agent Model",
-      "date": "Wed, 24 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.23991v1 Announce Type: new Abstract: What is an agent? What constitutes agency? With the rise of Large Language Model (LLM) systems marketed as ``coding agents'', ``AI co-scientists'', and other ``agentic\" tools that promise to drive up productivity, and at the same time, ``existential\" concerns such as AI escaping human control with destructive power under a speculative ``machine agency\" against humans, it has become essential to clarify where automation ends and agency begins, both ",
-      "url": "https://arxiv.org/abs/2606.23991",
-      "category": [
-        "cs.AI",
-        "cs.LG",
-        "cs.MA",
-        "cs.RO"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Safe and Generalizable Hierarchical Multi-Agent RL via Constraint Manifold Control",
-      "date": "Wed, 24 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.24010v1 Announce Type: new Abstract: Multi-agent systems are widely used in safety-critical applications that require coordinated behavior under strict safety constraints. Existing approaches face a fundamental trade-off: learning-based methods achieve strong empirical performance but lack theoretical safety guarantees, while control-theoretic methods enforce safety but often lead to overly conservative and inefficient behaviors. We propose a hierarchical multi-agent reinforcement lea",
-      "url": "https://arxiv.org/abs/2606.24010",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Reinforcement Learning Towards Broadly and Persistently Beneficial Models",
-      "date": "Wed, 24 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.24014v1 Announce Type: new Abstract: As AI systems are deployed across increasingly diverse and high-stakes settings, model alignment must generalize beyond the tasks and domains seen during training. This is especially important for reinforcement learning (RL), which can introduce unexpected misalignment through reward hacking, deception, or other unintended strategies. We study whether RL on beneficial behavior, instantiated in realistic domains, can produce broad and persistent ali",
-      "url": "https://arxiv.org/abs/2606.24014",
-      "category": [
-        "cs.AI",
-        "cs.CL"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Can Language Model Agents be Helpful Circuit Explainers in Mechanistic Interpretability?",
-      "date": "Wed, 24 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.24026v1 Announce Type: new Abstract: Mechanistic interpretability has made substantial progress in automatically localizing circuits, but explaining what localized components do remains labor-intensive and difficult to standardize. In this work, we study whether language model (LM) agents can assist with this explanation problem once a circuit has already been identified. We introduce AgenticInterpBench, a benchmark for circuit explanation built from 84 semi-synthetic transformer circ",
-      "url": "https://arxiv.org/abs/2606.24026",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
     },
     {
       "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
@@ -259,6 +259,15 @@
       "source_name": "openai"
     },
     {
+      "title": "How Startups Are Using AI to Disrupt Industries",
+      "url": "https://every.to/source-code/ai-startups",
+      "date": "2026-06-23T13:57:09.922Z",
+      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
+      "category": "Source Code",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
       "title": "Helping build shared standards for advanced AI",
       "date": "Tue, 23 Jun 2026 13:00:00 GMT",
       "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
@@ -266,15 +275,6 @@
       "category": "Global Affairs",
       "source": "OpenAI News",
       "source_name": "openai"
-    },
-    {
-      "title": "How Startups Are Using AI to Disrupt Industries",
-      "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-06-23T10:41:42.528Z",
-      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
-      "category": "Source Code",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "How Omio is building the future of conversational travel",
@@ -288,20 +288,11 @@
     {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-06-22T10:41:42.528Z",
+      "date": "2026-06-22T13:57:09.922Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
       "source_name": "every"
-    },
-    {
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "date": "Mon, 22 Jun 2026 10:00:00 GMT",
-      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-      "url": "https://openai.com/index/patch-the-planet",
-      "category": "Security",
-      "source": "OpenAI News",
-      "source_name": "openai"
     },
     {
       "title": "Daybreak: Tools for securing every organization in the world",
@@ -313,9 +304,18 @@
       "source_name": "openai"
     },
     {
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "date": "Mon, 22 Jun 2026 10:00:00 GMT",
+      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "url": "https://openai.com/index/patch-the-planet",
+      "category": "Security",
+      "source": "OpenAI News",
+      "source_name": "openai"
+    },
+    {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-06-21T10:41:42.528Z",
+      "date": "2026-06-21T13:57:09.922Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
@@ -324,7 +324,7 @@
     {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-06-20T10:41:42.528Z",
+      "date": "2026-06-20T13:57:09.922Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -333,7 +333,7 @@
     {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-06-19T10:41:42.528Z",
+      "date": "2026-06-19T13:57:09.922Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",

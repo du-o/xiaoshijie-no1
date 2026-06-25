@@ -1,18 +1,18 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-06-24T13:57:10.650Z",
+  "fetch_time": "2026-06-25T04:05:53.393Z",
   "articles": [
     {
       "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
-      "date": "Wed, 24 Jun 2026 04:00:00 GMT",
+      "date": "Thu, 25 Jun 2026 04:00:00 GMT",
       "summary": "arXiv:2606.23927v1 Announce Type: new Abstract: Agentic AI systems powered by large language models (LLMs) are rapidly evolving into autonomous decision-making systems, exposing attack vectors beyond those of traditional LLM vulnerabilities. Existing security evaluations are often tied to specific implementations or domains, limiting unified comparison across heterogeneous systems. To address this gap, we introduce RIFT-Bench, a graph representation-driven methodology for dynamic red-teaming tha",
       "url": "https://arxiv.org/abs/2606.23927",
       "category": "cs.AI"
     },
     {
       "title": "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs",
-      "date": "Wed, 24 Jun 2026 04:00:00 GMT",
+      "date": "Thu, 25 Jun 2026 04:00:00 GMT",
       "summary": "arXiv:2606.23938v1 Announce Type: new Abstract: Driving VLA models incorporating Chain-of-Thought (CoT) reasoning are attractive because they leverage pretrained VLM representations and expose intermediate decisions in natural language, yet current rationales often lack the step-by-step decision semantics needed to keep the rationale causally connected to the planned motion. We introduce Neuro-Symbolic Drive, a neuro-symbolic driving framework that supervises a driving VLA with rule-grounded rea",
       "url": "https://arxiv.org/abs/2606.23938",
       "category": [
@@ -22,7 +22,7 @@
     },
     {
       "title": "Critique of Agent Model",
-      "date": "Wed, 24 Jun 2026 04:00:00 GMT",
+      "date": "Thu, 25 Jun 2026 04:00:00 GMT",
       "summary": "arXiv:2606.23991v1 Announce Type: new Abstract: What is an agent? What constitutes agency? With the rise of Large Language Model (LLM) systems marketed as ``coding agents'', ``AI co-scientists'', and other ``agentic\" tools that promise to drive up productivity, and at the same time, ``existential\" concerns such as AI escaping human control with destructive power under a speculative ``machine agency\" against humans, it has become essential to clarify where automation ends and agency begins, both ",
       "url": "https://arxiv.org/abs/2606.23991",
       "category": [
@@ -34,14 +34,14 @@
     },
     {
       "title": "Safe and Generalizable Hierarchical Multi-Agent RL via Constraint Manifold Control",
-      "date": "Wed, 24 Jun 2026 04:00:00 GMT",
+      "date": "Thu, 25 Jun 2026 04:00:00 GMT",
       "summary": "arXiv:2606.24010v1 Announce Type: new Abstract: Multi-agent systems are widely used in safety-critical applications that require coordinated behavior under strict safety constraints. Existing approaches face a fundamental trade-off: learning-based methods achieve strong empirical performance but lack theoretical safety guarantees, while control-theoretic methods enforce safety but often lead to overly conservative and inefficient behaviors. We propose a hierarchical multi-agent reinforcement lea",
       "url": "https://arxiv.org/abs/2606.24010",
       "category": "cs.AI"
     },
     {
       "title": "Reinforcement Learning Towards Broadly and Persistently Beneficial Models",
-      "date": "Wed, 24 Jun 2026 04:00:00 GMT",
+      "date": "Thu, 25 Jun 2026 04:00:00 GMT",
       "summary": "arXiv:2606.24014v1 Announce Type: new Abstract: As AI systems are deployed across increasingly diverse and high-stakes settings, model alignment must generalize beyond the tasks and domains seen during training. This is especially important for reinforcement learning (RL), which can introduce unexpected misalignment through reward hacking, deception, or other unintended strategies. We study whether RL on beneficial behavior, instantiated in realistic domains, can produce broad and persistent ali",
       "url": "https://arxiv.org/abs/2606.24014",
       "category": [
@@ -51,7 +51,7 @@
     },
     {
       "title": "Can Language Model Agents be Helpful Circuit Explainers in Mechanistic Interpretability?",
-      "date": "Wed, 24 Jun 2026 04:00:00 GMT",
+      "date": "Thu, 25 Jun 2026 04:00:00 GMT",
       "summary": "arXiv:2606.24026v1 Announce Type: new Abstract: Mechanistic interpretability has made substantial progress in automatically localizing circuits, but explaining what localized components do remains labor-intensive and difficult to standardize. In this work, we study whether language model (LM) agents can assist with this explanation problem once a circuit has already been identified. We introduce AgenticInterpBench, a benchmark for circuit explanation built from 84 semi-synthetic transformer circ",
       "url": "https://arxiv.org/abs/2606.24026",
       "category": "cs.AI"

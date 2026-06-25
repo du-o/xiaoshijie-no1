@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-06-24T13:57:23.598Z",
+  "fetch_time": "2026-06-25T04:06:06.137Z",
   "articles": [
+    {
+      "title": "openclaw 2026.6.11-beta.1",
+      "date": "2026-06-24T23:37:32Z",
+      "summary": "## 2026.6.11\n\n### Highlights\n\n- **More capable channel control:** Slack relay mode, native Mattermost `/oc_queue`, and per-DM model overrides make channel operations easier to automate and tune. (#947...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.11-beta.1",
+      "category": "Release",
+      "author": "vincentkoc",
+      "tagName": "v2026.6.11-beta.1",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.6.10",
       "date": "2026-06-24T03:06:38Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.6.10",
-      "downloadCount": 1640
+      "downloadCount": 3155
     },
     {
       "title": "openclaw 2026.6.10-beta.2",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.6.10-beta.2",
-      "downloadCount": 120
+      "downloadCount": 122
     },
     {
       "title": "openclaw 2026.6.10-beta.1",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.6.10-beta.1",
-      "downloadCount": 80
+      "downloadCount": 81
     },
     {
       "title": "openclaw 2026.6.9",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.6.9",
-      "downloadCount": 17103
+      "downloadCount": 17863
     },
     {
       "title": "openclaw 2026.6.9-beta.1",
@@ -52,16 +62,6 @@
       "author": "github-actions[bot]",
       "tagName": "v2026.6.9-beta.1",
       "downloadCount": 123
-    },
-    {
-      "title": "openclaw 2026.6.8",
-      "date": "2026-06-16T16:32:26Z",
-      "summary": "## 2026.6.8\n\n### Highlights\n\n- **Richer channel delivery:** Telegram and WhatsApp are less brittle: Telegram renders structured text with tables, lists, expandable blockquotes, preserved intentional l...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.8",
-      "category": "Release",
-      "author": "vincentkoc",
-      "tagName": "v2026.6.8",
-      "downloadCount": 31579
     }
   ],
   "status": "success",
