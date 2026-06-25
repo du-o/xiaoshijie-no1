@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-06-25T07:41:03.416Z",
+  "fetch_time": "2026-06-25T10:35:04.757Z",
   "articles": [
+    {
+      "title": "How agents are transforming work",
+      "date": "Thu, 25 Jun 2026 02:00:00 GMT",
+      "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+      "url": "https://openai.com/index/how-agents-are-transforming-work",
+      "category": "Company"
+    },
     {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "date": "Wed, 24 Jun 2026 06:00:00 GMT",
@@ -30,13 +37,6 @@
       "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
       "url": "https://openai.com/index/omio",
       "category": ""
-    },
-    {
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "date": "Mon, 22 Jun 2026 10:00:00 GMT",
-      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-      "url": "https://openai.com/index/daybreak-securing-the-world",
-      "category": "Security"
     },
     {
       "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
