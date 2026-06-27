@@ -1,7 +1,7 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-06-26T13:52:56.227Z",
+  "fetch_time": "2026-06-27T03:58:54.238Z",
   "articles": [
     {
       "title": "openclaw 2026.6.11-beta.1",
@@ -16,12 +16,12 @@
     {
       "title": "openclaw 2026.6.10",
       "date": "2026-06-24T03:06:38Z",
-      "summary": "\n### Highlights\n\n- **Automatic fast mode for talks:** OpenClaw can enable fast mode for short conversational turns, then return to normal mode for longer runs with bounded fallback and delivery behavi...",
+      "summary": "Automatic fast mode starts short conversations quickly, then returns longer or fallback work to normal mode without losing visible state. Provider routing, channel progress, session identity, and trus...",
       "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.10",
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.6.10",
-      "downloadCount": 7457
+      "downloadCount": 9591
     },
     {
       "title": "openclaw 2026.6.10-beta.2",
@@ -51,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.6.9",
-      "downloadCount": 19835
+      "downloadCount": 20516
     },
     {
       "title": "openclaw 2026.6.9-beta.1",

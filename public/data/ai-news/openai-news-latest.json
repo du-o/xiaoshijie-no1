@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-06-26T13:52:42.369Z",
+  "fetch_time": "2026-06-27T03:58:41.876Z",
   "articles": [
+    {
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
+      "date": "Fri, 26 Jun 2026 10:00:00 GMT",
+      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "category": "Product"
+    },
     {
       "title": "How agents are transforming work",
       "date": "Thu, 25 Jun 2026 02:00:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
       "url": "https://openai.com/index/omio",
       "category": ""
-    },
-    {
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "date": "Mon, 22 Jun 2026 10:00:00 GMT",
-      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-      "url": "https://openai.com/index/patch-the-planet",
-      "category": "Security"
     }
   ],
   "status": "success",
