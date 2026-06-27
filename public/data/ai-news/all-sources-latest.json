@@ -1,9 +1,156 @@
 {
-  "fetch_time": "2026-06-27T03:58:45.196Z",
+  "fetch_time": "2026-06-27T06:51:32.705Z",
   "total_count": 36,
   "sources_count": 6,
   "errors": null,
   "articles": [
+    {
+      "title": "网传纯净水涨价，娃哈哈回应",
+      "date": "Sat, 27 Jun 2026 04:51:07 GMT",
+      "summary": "娃哈哈集团官方微博发布针对近日网传娃哈哈纯净水涨价相关消息的统一说明：受包材成本波动，我司调整不同包装规格水产品的渠道批发价，有升有降以保障经销商伙伴稳定经营。全线纯净水终端零售价不变，消费者购买价格无变化。请广大消费者放心购买，相关信息以官方发布为准。（第一财经）",
+      "url": "https://36kr.com/newsflashes/3870947210187783?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "6月份沪牌拍卖结果公布 平均成交价为94368元",
+      "date": "Sat, 27 Jun 2026 04:47:53 GMT",
+      "summary": "6月27日，据“上海发布”官微消息，6月份沪牌拍卖结果公布。个人额度合计拍卖总数3809个，参加拍卖人数33834人，中标率11.3%。最低成交价94300元，平均成交价为94368元，与上个月保持一致。（每日经济新闻）",
+      "url": "https://36kr.com/newsflashes/3870944021173507?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "SpaceX与电信运营商Charter探讨在美国开展手机服务合作",
+      "date": "Sat, 27 Jun 2026 04:45:36 GMT",
+      "summary": "6月27日，据报道，SpaceX与电信运营商Charter已就在美国开展手机服务合作举行了高管级别的会谈。",
+      "url": "https://36kr.com/newsflashes/3870941780988937?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "Detecting and Controlling Sycophancy with Cascading Linear Features",
+      "date": "Sat, 27 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.26155v1 Announce Type: new Abstract: Interpreting and controlling model behaviors through activation steering methods requires many pairs of contrastive samples that clearly exhibit desired or undesired behavior. These data pairs determine the degree to which interpretability frameworks can reliably detect model features responsible for a behavior, and therefore the ability to steer models toward or away from such behavior. In this work, we present an iterative data generation pipelin",
+      "url": "https://arxiv.org/abs/2606.26155",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Life After Benchmark Saturation: A Case Study of CORE-Bench",
+      "date": "Sat, 27 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.26158v1 Announce Type: new Abstract: When a benchmark's accuracy saturates, it is often retired and replaced with a more challenging version. We show that this approach privileges accuracy and misses the opportunity to study six other key dimensions of agent performance: construct validity issues such as shortcuts, out-of-distribution generalizability, efficiency, reliability, the relative importance of the model versus the scaffold, and uplift from human-agent collaboration. We use C",
+      "url": "https://arxiv.org/abs/2606.26158",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Refusal Lives Downstream of Persona in Chat Models",
+      "date": "Sat, 27 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.26161v1 Announce Type: new Abstract: Linear directions in activation space have been identified for both refusal and persona traits in instruction-tuned chat models, but the two have been studied as separate mechanisms. We show they interact: a compliant persona gates refusal. In Qwen2.5-7B-Instruct and Llama-3.1-8B-Instruct, we extract a compliant model-persona direction and a refusal direction and intervene on both. Compliant persona steering suppresses refusal -- in Llama, the refu",
+      "url": "https://arxiv.org/abs/2606.26161",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "AlgoEvolve: LLM-driven Meta-evolution of Algorithmic Trading Programs",
+      "date": "Sat, 27 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.26173v1 Announce Type: new Abstract: Recent work shows that Large Language Models (LLMs) can act as semantic mutation operators for the evolutionary discovery of programs and proofs. Most current applications focus on static coding benchmarks. We extend this paradigm to algorithmic trading. This domain is uniquely challenging because it is noisy, non-stationary, and highly discontinuous. We present AlgoEvolve, an LLM-driven evolutionary framework that generates, evaluates, and iterati",
+      "url": "https://arxiv.org/abs/2606.26173",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Agentic Analysis for Agentic Infrastructure: An LLM-Powered Pipeline for Comparative Governance of DAO and Corporate AI Protocols",
+      "date": "Sat, 27 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.26203v1 Announce Type: new Abstract: As AI agent protocols proliferate, the governance structures shaping their interoperability standards remain empirically underexamined. We introduce an LLM-powered comparative pipeline for large-scale governance discourse analysis, integrating automated annotation, neural topic modeling, and multi-layer network analysis to study socio-technical power structures at scale. We validate it on two contrasting standards for agent interoperability: ERC-80",
+      "url": "https://arxiv.org/abs/2606.26203",
+      "category": [
+        "cs.AI",
+        "cs.MA"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Knowledge-augmented Agentic AI for Mental Health Medication Information Seeking",
+      "date": "Sat, 27 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.26205v1 Announce Type: new Abstract: Patients increasingly seek medication information online, yet safety knowledge for psychiatric drugs is split between regulatory adverse-event records, which are authoritative but abstract, and patient narratives, which are experience-near but unvalidated. Integrating them without conflating evidence and anecdote is especially consequential in psychiatry, where poorly contextualised information can amplify fear, nocebo responses, and non-adherence.",
+      "url": "https://arxiv.org/abs/2606.26205",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "ISTE 2026: Supporting teaching and learning with connected AI tools",
+      "url": "https://blog.google/products-and-platforms/products/education/collection-iste-june-2026/",
+      "date": "2026-06-27T03:58:47.424Z",
+      "summary": "",
+      "category": "Products",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Towards a world where no one is surprised by a natural disaster An overview of Google’s ongoing crisis resilience efforts and mission, shared at the AI for the Planet event.",
+      "url": "https://blog.google/innovation-and-ai/technology/research/helping-communities-prepare-for-natural-disasters/",
+      "date": "2026-06-27T03:58:47.424Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Our latest Google Finance upgrades, including a new app The new Google Finance is coming out of beta and launching a new Android app.",
+      "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
+      "date": "2026-06-27T03:58:47.424Z",
+      "summary": "",
+      "category": "Products",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Wear OS 7 helps your smartwatch keep up with you",
+      "url": "https://blog.google/products-and-platforms/platforms/wear-os/google-io-2026-wear-os/",
+      "date": "2026-06-27T03:58:47.424Z",
+      "summary": "",
+      "category": "Google",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "New expanded Android parental controls to support families around the world",
+      "url": "https://blog.google/products-and-platforms/platforms/android/new-expanded-android-parental-controls/",
+      "date": "2026-06-27T03:58:47.424Z",
+      "summary": "",
+      "category": "Google",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Google Nest",
+      "url": "https://blog.google/products-and-platforms/devices/google-nest/",
+      "date": "2026-06-27T03:58:47.424Z",
+      "summary": "",
+      "category": "Google",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "The State of AI: A Look at What's Next",
+      "url": "https://every.to/p/the-state-of-ai",
+      "date": "2026-06-27T03:58:41.503Z",
+      "summary": "An in-depth analysis of the current AI landscape and future trends.",
+      "category": "AI Analysis",
+      "source": "Every.to",
+      "source_name": "every"
+    },
     {
       "title": "国家统计局：1—5月份电子行业利润同比增长103.9%",
       "date": "Sat, 27 Jun 2026 02:42:47 GMT",
@@ -27,33 +174,6 @@
       "date": "Sat, 27 Jun 2026 02:41:02 GMT",
       "summary": "6月27日，据国家统计局，2026年1—5月份，采矿业实现利润总额4795.2亿元，同比增长33.5%；制造业实现利润总额23285.2亿元，增长20.0%；电力、热力、燃气及水生产和供应业实现利润总额3359.2亿元，下降2.7%。（证券时报）",
       "url": "https://36kr.com/newsflashes/3870819336131848?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "国家统计局：1—5月份规模以上工业企业实现营业收入56.55万亿元，同比增长5.5%",
-      "date": "Sat, 27 Jun 2026 02:40:34 GMT",
-      "summary": "6月27日，据国家统计局，2026年1—5月份，规模以上工业企业实现营业收入56.55万亿元，同比增长5.5%；发生营业成本48.04万亿元，增长4.7%；营业收入利润率为5.56%，同比提高0.63个百分点。5月末，规模以上工业企业资产总计193.55万亿元，同比增长5.8%；负债合计112.69万亿元，增长6.5%；所有者权益合计80.87万亿元，增长5.0%；资产负债率为58.2%，同比上升0.3个百分点。5月末，规模以上工业企业应收账款28.17万亿元，同比增长7.7%；产成品存货7.14万亿元，增长8.8%。（证券时报）",
-      "url": "https://36kr.com/newsflashes/3870818873775366?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "国家统计局：1—5月份全国规模以上工业企业利润增长18.8%",
-      "date": "Sat, 27 Jun 2026 02:39:49 GMT",
-      "summary": "6月27日，据国家统计局，2026年1—5月份，全国规模以上工业企业实现利润总额31439.6亿元，同比增长18.8%。1—5月份，规模以上工业企业中，国有控股企业实现利润总额10486.6亿元，同比增长19.6%；股份制企业实现利润总额24348.1亿元，增长24.1%；外商及港澳台投资企业实现利润总额6957.2亿元，增长4.2%；私营企业实现利润总额7726.5亿元，增长10.7%。1—5月份，采矿业实现利润总额4795.2亿元，同比增长33.5%；制造业实现利润总额23285.2亿元，增长20.0%；电力、热力、燃气及水生产和供应业实现利润总额3359.2亿元，下降2.7%。（证券时报）",
-      "url": "https://36kr.com/newsflashes/3870818137969925?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "国家统计局：1—5月份有色金属冶炼和压延加工业利润同比增长117.1%",
-      "date": "Sat, 27 Jun 2026 02:39:12 GMT",
-      "summary": "6月27日，据国家统计局，1—5月份，主要行业利润情况如下：有色金属冶炼和压延加工业利润同比增长117.1%，计算机、通信和其他电子设备制造业增长103.9%，化学原料和化学制品制造业增长71.6%，煤炭开采和洗选业增长33.5%，石油和天然气开采业增长17.2%，纺织业增长11.7%，通用设备制造业下降0.2%，电力、热力生产和供应业下降4.1%，专用设备制造业下降5.5%，农副食品加工业下降13.3%，电气机械和器材制造业下降13.7%，汽车制造业下降19.8%，黑色金属冶炼和压延加工业下降37.4%，非金属矿物制品业下降48.9%，石油、煤炭及其他燃料加工业由亏转盈。（证券时报）",
-      "url": "https://36kr.com/newsflashes/3870817530909954?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
@@ -84,69 +204,6 @@
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
-    },
-    {
-      "title": "ISTE 2026: Supporting teaching and learning with connected AI tools",
-      "url": "https://blog.google/products-and-platforms/products/education/collection-iste-june-2026/",
-      "date": "2026-06-26T13:52:48.057Z",
-      "summary": "",
-      "category": "Products",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Towards a world where no one is surprised by a natural disaster An overview of Google’s ongoing crisis resilience efforts and mission, shared at the AI for the Planet event.",
-      "url": "https://blog.google/innovation-and-ai/technology/research/helping-communities-prepare-for-natural-disasters/",
-      "date": "2026-06-26T13:52:48.057Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Our latest Google Finance upgrades, including a new app The new Google Finance is coming out of beta and launching a new Android app.",
-      "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
-      "date": "2026-06-26T13:52:48.057Z",
-      "summary": "",
-      "category": "Products",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Wear OS 7 helps your smartwatch keep up with you",
-      "url": "https://blog.google/products-and-platforms/platforms/wear-os/google-io-2026-wear-os/",
-      "date": "2026-06-26T13:52:48.057Z",
-      "summary": "",
-      "category": "Google",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "New expanded Android parental controls to support families around the world",
-      "url": "https://blog.google/products-and-platforms/platforms/android/new-expanded-android-parental-controls/",
-      "date": "2026-06-26T13:52:48.057Z",
-      "summary": "",
-      "category": "Google",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Google Nest",
-      "url": "https://blog.google/products-and-platforms/devices/google-nest/",
-      "date": "2026-06-26T13:52:48.057Z",
-      "summary": "",
-      "category": "Google",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "The State of AI: A Look at What's Next",
-      "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-06-26T13:52:41.914Z",
-      "summary": "An in-depth analysis of the current AI landscape and future trends.",
-      "category": "AI Analysis",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "美光与其大客户签署了长达五年的供货协议",
@@ -185,68 +242,20 @@
       "source_name": "solidot"
     },
     {
-      "title": "Detecting and Controlling Sycophancy with Cascading Linear Features",
-      "date": "Fri, 26 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.26155v1 Announce Type: new Abstract: Interpreting and controlling model behaviors through activation steering methods requires many pairs of contrastive samples that clearly exhibit desired or undesired behavior. These data pairs determine the degree to which interpretability frameworks can reliably detect model features responsible for a behavior, and therefore the ability to steer models toward or away from such behavior. In this work, we present an iterative data generation pipelin",
-      "url": "https://arxiv.org/abs/2606.26155",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Life After Benchmark Saturation: A Case Study of CORE-Bench",
-      "date": "Fri, 26 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.26158v1 Announce Type: new Abstract: When a benchmark's accuracy saturates, it is often retired and replaced with a more challenging version. We show that this approach privileges accuracy and misses the opportunity to study six other key dimensions of agent performance: construct validity issues such as shortcuts, out-of-distribution generalizability, efficiency, reliability, the relative importance of the model versus the scaffold, and uplift from human-agent collaboration. We use C",
-      "url": "https://arxiv.org/abs/2606.26158",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Refusal Lives Downstream of Persona in Chat Models",
-      "date": "Fri, 26 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.26161v1 Announce Type: new Abstract: Linear directions in activation space have been identified for both refusal and persona traits in instruction-tuned chat models, but the two have been studied as separate mechanisms. We show they interact: a compliant persona gates refusal. In Qwen2.5-7B-Instruct and Llama-3.1-8B-Instruct, we extract a compliant model-persona direction and a refusal direction and intervene on both. Compliant persona steering suppresses refusal -- in Llama, the refu",
-      "url": "https://arxiv.org/abs/2606.26161",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "AlgoEvolve: LLM-driven Meta-evolution of Algorithmic Trading Programs",
-      "date": "Fri, 26 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.26173v1 Announce Type: new Abstract: Recent work shows that Large Language Models (LLMs) can act as semantic mutation operators for the evolutionary discovery of programs and proofs. Most current applications focus on static coding benchmarks. We extend this paradigm to algorithmic trading. This domain is uniquely challenging because it is noisy, non-stationary, and highly discontinuous. We present AlgoEvolve, an LLM-driven evolutionary framework that generates, evaluates, and iterati",
-      "url": "https://arxiv.org/abs/2606.26173",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Agentic Analysis for Agentic Infrastructure: An LLM-Powered Pipeline for Comparative Governance of DAO and Corporate AI Protocols",
-      "date": "Fri, 26 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.26203v1 Announce Type: new Abstract: As AI agent protocols proliferate, the governance structures shaping their interoperability standards remain empirically underexamined. We introduce an LLM-powered comparative pipeline for large-scale governance discourse analysis, integrating automated annotation, neural topic modeling, and multi-layer network analysis to study socio-technical power structures at scale. We validate it on two contrasting standards for agent interoperability: ERC-80",
-      "url": "https://arxiv.org/abs/2606.26203",
-      "category": [
-        "cs.AI",
-        "cs.MA"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Knowledge-augmented Agentic AI for Mental Health Medication Information Seeking",
-      "date": "Fri, 26 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.26205v1 Announce Type: new Abstract: Patients increasingly seek medication information online, yet safety knowledge for psychiatric drugs is split between regulatory adverse-event records, which are authoritative but abstract, and patient narratives, which are experience-near but unvalidated. Integrating them without conflating evidence and anecdote is especially consequential in psychiatry, where poorly contextualised information can amplify fear, nocebo responses, and non-adherence.",
-      "url": "https://arxiv.org/abs/2606.26205",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
       "title": "How Startups Are Using AI to Disrupt Industries",
       "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-06-25T13:52:41.914Z",
+      "date": "2026-06-26T03:58:41.503Z",
       "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
       "category": "Source Code",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "The Future of Work in an AI-Driven World",
+      "url": "https://every.to/context-window/future-of-work",
+      "date": "2026-06-25T03:58:41.503Z",
+      "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
+      "category": "Context Window",
       "source": "Every.to",
       "source_name": "every"
     },
@@ -260,15 +269,6 @@
       "source_name": "openai"
     },
     {
-      "title": "The Future of Work in an AI-Driven World",
-      "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-06-24T13:52:41.914Z",
-      "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "date": "Wed, 24 Jun 2026 06:00:00 GMT",
       "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
@@ -276,6 +276,15 @@
       "category": "Company",
       "source": "OpenAI News",
       "source_name": "openai"
+    },
+    {
+      "title": "Building AI Products: Lessons from the Trenches",
+      "url": "https://every.to/p/building-ai-products",
+      "date": "2026-06-24T03:58:41.503Z",
+      "summary": "Practical insights from builders creating AI-powered products.",
+      "category": "Product",
+      "source": "Every.to",
+      "source_name": "every"
     },
     {
       "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
@@ -287,15 +296,6 @@
       "source_name": "openai"
     },
     {
-      "title": "Building AI Products: Lessons from the Trenches",
-      "url": "https://every.to/p/building-ai-products",
-      "date": "2026-06-23T13:52:41.914Z",
-      "summary": "Practical insights from builders creating AI-powered products.",
-      "category": "Product",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
       "title": "Helping build shared standards for advanced AI",
       "date": "Tue, 23 Jun 2026 13:00:00 GMT",
       "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
@@ -303,6 +303,15 @@
       "category": "Global Affairs",
       "source": "OpenAI News",
       "source_name": "openai"
+    },
+    {
+      "title": "AI Agents: The Next Evolution of Automation",
+      "url": "https://every.to/source-code/ai-agents",
+      "date": "2026-06-23T03:58:41.503Z",
+      "summary": "Understanding autonomous AI agents and their potential impact on software.",
+      "category": "Source Code",
+      "source": "Every.to",
+      "source_name": "every"
     },
     {
       "title": "How Omio is building the future of conversational travel",
@@ -314,18 +323,9 @@
       "source_name": "openai"
     },
     {
-      "title": "AI Agents: The Next Evolution of Automation",
-      "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-06-22T13:52:41.914Z",
-      "summary": "Understanding autonomous AI agents and their potential impact on software.",
-      "category": "Source Code",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-06-21T13:52:41.914Z",
+      "date": "2026-06-22T03:58:41.503Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
