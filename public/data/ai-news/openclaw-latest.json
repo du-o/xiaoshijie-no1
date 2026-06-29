@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-06-28T13:06:35.754Z",
+  "fetch_time": "2026-06-29T04:40:52.334Z",
   "articles": [
+    {
+      "title": "openclaw 2026.6.11-beta.2",
+      "date": "2026-06-28T23:19:35Z",
+      "summary": "\n### Highlights\n\n- **More capable channel control:** Slack relay mode, native Mattermost `/oc_queue`, and per-DM model overrides make channel operations easier to automate and tune. (#94707, #95546, #...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.11-beta.2",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.6.11-beta.2",
+      "downloadCount": 30
+    },
     {
       "title": "openclaw 2026.6.11-beta.1",
       "date": "2026-06-24T23:37:32Z",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.6.10",
-      "downloadCount": 19408
+      "downloadCount": 22802
     },
     {
       "title": "openclaw 2026.6.10-beta.2",
@@ -51,17 +61,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.6.9",
-      "downloadCount": 20648
-    },
-    {
-      "title": "openclaw 2026.6.9-beta.1",
-      "date": "2026-06-19T05:52:39Z",
-      "summary": "## 2026.6.9\n\n### Highlights\n\n- **Richer Telegram delivery:** Telegram now sends rich HTML, preserves rich markdown and sticker paths, renders progress drafts and command output more faithfully, and ke...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.9-beta.1",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.6.9-beta.1",
-      "downloadCount": 134
+      "downloadCount": 20749
     }
   ],
   "status": "success",
