@@ -1,58 +1,57 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-06-29T15:22:21.232Z",
+  "fetch_time": "2026-06-30T04:07:45.725Z",
   "articles": [
     {
-      "title": "AI-Model Network: Concept, Current State and Future",
-      "date": "Mon, 29 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.27382v1 Announce Type: new Abstract: While the primary function of computers lies in computation and processing, the core value of the Internet is rooted in sharing and collaboration. Computers create the Internet, and the Internet empowers the value of computers. The rapid development of the Internet, cloud computing, and big data is pushing artificial intelligence into the era of large models (LMs). However, the practical application of LMs is currently hindered by high training cos",
-      "url": "https://arxiv.org/abs/2606.27382",
+      "title": "Recursive Self-Evolving Agents via Held-Out Selection",
+      "date": "Tue, 30 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.28374v1 Announce Type: new Abstract: LLM agents are increasingly improved without weight updates by evolving a natural-language artifact, such as reflections, workflows, playbooks, cheatsheets, or optimized prompts, that conditions a frozen policy. Such methods are typically reported as wins on the single benchmark where they help. We study them apples-to-apples and surface a sharper picture. We introduce RSEA, a Recursive Self-Evolving Agent that carries a compact three-layer natural",
+      "url": "https://arxiv.org/abs/2606.28374",
       "category": "cs.AI"
     },
     {
-      "title": "When Does Personality Composition Matter for Multi-Agent LLM Teams?",
-      "date": "Mon, 29 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.27443v1 Announce Type: new Abstract: Personality prompting shapes how large language models communicate, yet whether these behavioral shifts affect objective task outcomes remains under-explored. Prior work shows that agents prompted with low agreeableness produce adversarial language, while those prompted with high agreeableness become cooperative, but the relationship between communication style and task performance has not been systematically examined across multiple domains. In th",
-      "url": "https://arxiv.org/abs/2606.27443",
+      "title": "Data and Evaluation Closed-Loop for Model Capability Enhancement",
+      "date": "Tue, 30 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.28471v1 Announce Type: new Abstract: Model capability is the central variable in LLM pre-training, yet is never observed directly: data shapes it prospectively, while evaluation reveals it only retrospectively, compressing samples, prompts, decoding, and scoring rules into one noisy score. Practical optimization runs this backward: a failure is observed first, and the engineer must infer the corpus fix. The two sides speak incompatible vocabularies -- benchmark names and per-sample co",
+      "url": "https://arxiv.org/abs/2606.28471",
       "category": "cs.AI"
     },
     {
-      "title": "Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning",
-      "date": "Mon, 29 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.27483v1 Announce Type: new Abstract: Large language model (LLM) agents have demonstrated strong capability in sequential decision-making, yet they remains fundamentally reactive in long-horizon tasks. Unlike humans who employ \"what-if\" reasoning to evaluate potential plans before commitment, standard agents lack an internal world model to simulate future outcomes. Therefore, we propose to internalize future-aware planning by training a single autoregressive model to verbalize both a p",
-      "url": "https://arxiv.org/abs/2606.27483",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Odyssey: Constructing Verifiable Local Truth-Preserving Foundation Models",
-      "date": "Mon, 29 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.27593v1 Announce Type: new Abstract: We introduce a categorical framework called ODYSSEY for constructing verifiable, local truth-preserving foundation models as compositions of foundries: building-block architectural components that specify a cover of local contexts, local representation families, restriction maps, gluing rules, obstruction policies, update obligations, and human-facing views. A foundry is an organized sheaf of knowledge that carries within it an argumentation compon",
-      "url": "https://arxiv.org/abs/2606.27593",
+      "title": "GPTNT: Benchmarking Real-Time Collaboration Between Multimodal Agents on Keep Talking And Nobody Explodes",
+      "date": "Tue, 30 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.28514v1 Announce Type: new Abstract: Multimodal models are increasingly deployed to solve tasks collaboratively with humans or other artificial agents. Existing benchmarks show that these models possess many of the required component capabilities, but the conditions that coincide in collaboration, including time pressure, information asymmetry, and imperfect communication, are usually studied in isolation. We introduce GPTNT, a benchmark built on the cooperative video game Keep Talkin",
+      "url": "https://arxiv.org/abs/2606.28514",
       "category": [
         "cs.AI",
-        "cs.LG"
+        "cs.CL"
       ]
     },
     {
-      "title": "DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums",
-      "date": "Mon, 29 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.27619v1 Announce Type: new Abstract: Dyslexic learners increasingly use artificial intelligence (AI) tools to support reading, writing, organisation, and study-related tasks. However, their lived experiences with these tools remain largely underexamined. This paper proposes DysLexLens, a low-resource LLM framework, designed to analyse dyslexic learners experience with AI through online forum discussions. DysLexLens is designed as an end-to-end, evidence-traceable architecture which tr",
-      "url": "https://arxiv.org/abs/2606.27619",
-      "category": [
-        "cs.AI",
-        "cs.CL",
-        "cs.HC",
-        "cs.IR",
-        "cs.LG"
-      ]
+      "title": "IMCBench: A benchmark for multimodal LLMs in Image-grounded Medical Conversations",
+      "date": "Tue, 30 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.28556v1 Announce Type: new Abstract: Recent advances in large language models and vision-language models have enabled reasoning over multimodal data, offering opportunities for clinical applications such as decision support and triaging. However, existing medical AI benchmarks are fragmented: some support multi-turn dialogues but lack images, while others provide multimodal inputs but focus on single-turn QA tasks. To address this gap, we introduce IMCBench, an image-grounded, multi-t",
+      "url": "https://arxiv.org/abs/2606.28556",
+      "category": "cs.AI"
     },
     {
-      "title": "MER-R1: Multimodal Emotion Reasoning via Slow-Fast Thinking Synergy",
-      "date": "Mon, 29 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.27652v1 Announce Type: new Abstract: We find that explicit reasoning does not necessarily translate into better multimodal emotion recognition (MER) accuracy, even though it makes predictions more interpretable. Specifically, for reasoning-based MLLMs, fast thinking by triggering direct answers often outperforms slow thinking after deliberative reasoning. Our empirical analyses show that fast thinking improves recall with broader and more confident predictions, whereas slow thinking f",
-      "url": "https://arxiv.org/abs/2606.27652",
+      "title": "Search for Truth from Reasoning: A Dynamic Representation Editing Framework for Steering LLM Trajectories",
+      "date": "Tue, 30 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.28589v1 Announce Type: new Abstract: Current approaches to enhance Large Language Model (LLM) reasoning, such as Chain-of-Thought and \"Wait\" prompts, primarily encourage models to think more, yet often fail to guide them toward Truth. While Representation Editing (RepE) offers a intrinsic control, its application to dynamic reasoning trajectories remains underexplored. In this work, we bridge this gap by investigating the geometry of truth within unfolding reasoning chains. We uncover",
+      "url": "https://arxiv.org/abs/2606.28589",
       "category": "cs.AI"
+    },
+    {
+      "title": "Aristotelian Virtue Profiling of LLMs through Ethical Dilemmas",
+      "date": "Tue, 30 Jun 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.28683v1 Announce Type: new Abstract: Large Language Models (LLMs) often face ethical tradeoffs in which several responses may be defensible but express different priorities, such as fairness, honesty, courage, or restraint. We introduce VirtueMap, a framework for describing these patterns through an Aristotelian virtue-ethics lens. Instead of asking for a single correct answer, VirtueMap asks humans or LLMs to rank all five responses to each of seven general, non-lethal, non-political",
+      "url": "https://arxiv.org/abs/2606.28683",
+      "category": [
+        "cs.AI",
+        "cs.CY",
+        "stat.AP",
+        "stat.ME"
+      ]
     }
   ],
   "status": "success",

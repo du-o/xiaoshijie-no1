@@ -1,17 +1,17 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-06-29T15:22:35.901Z",
+  "fetch_time": "2026-06-30T04:07:59.742Z",
   "articles": [
     {
       "title": "openclaw 2026.6.11-beta.2",
       "date": "2026-06-28T23:19:35Z",
-      "summary": "\n### Highlights\n\n- **More capable channel control:** Slack relay mode, native Mattermost `/oc_queue`, and per-DM model overrides make channel operations easier to automate and tune. (#94707, #95546, #...",
+      "summary": "## 2026.6.11\n\n### Highlights\n\n- **More capable channel control:** Slack relay mode, native Mattermost `/oc_queue`, and per-DM model overrides make channel operations easier to automate and tune. (#947...",
       "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.11-beta.2",
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.6.11-beta.2",
-      "downloadCount": 74
+      "downloadCount": 126
     },
     {
       "title": "openclaw 2026.6.11-beta.1",
@@ -31,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.6.10",
-      "downloadCount": 25959
+      "downloadCount": 28609
     },
     {
       "title": "openclaw 2026.6.10-beta.2",
@@ -41,7 +41,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.6.10-beta.2",
-      "downloadCount": 148
+      "downloadCount": 150
     },
     {
       "title": "openclaw 2026.6.10-beta.1",
@@ -61,7 +61,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.6.9",
-      "downloadCount": 20773
+      "downloadCount": 20777
     }
   ],
   "status": "success",
