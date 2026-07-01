@@ -1,57 +1,53 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-06-30T13:47:57.315Z",
+  "fetch_time": "2026-07-01T04:23:44.301Z",
   "articles": [
     {
-      "title": "Recursive Self-Evolving Agents via Held-Out Selection",
-      "date": "Tue, 30 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.28374v1 Announce Type: new Abstract: LLM agents are increasingly improved without weight updates by evolving a natural-language artifact, such as reflections, workflows, playbooks, cheatsheets, or optimized prompts, that conditions a frozen policy. Such methods are typically reported as wins on the single benchmark where they help. We study them apples-to-apples and surface a sharper picture. We introduce RSEA, a Recursive Self-Evolving Agent that carries a compact three-layer natural",
-      "url": "https://arxiv.org/abs/2606.28374",
+      "title": "What Drives Interactive Improvement from Feedback?",
+      "date": "Wed, 01 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.30774v1 Announce Type: new Abstract: We study when natural-language feedback produces improvement beyond the gains obtainable from repeated attempts alone. In multi-turn language agent setting, higher final accuracy can reflect useful feedback, but it can also arise from resampling, format correction, or additional test-time computation. To separate these effects, we introduce a controlled student-teacher protocol across Omni-MATH, Codeforces, BBEH Linguini, and ARC-AGI1, evaluating t",
+      "url": "https://arxiv.org/abs/2606.30774",
       "category": "cs.AI"
     },
     {
-      "title": "Data and Evaluation Closed-Loop for Model Capability Enhancement",
-      "date": "Tue, 30 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.28471v1 Announce Type: new Abstract: Model capability is the central variable in LLM pre-training, yet is never observed directly: data shapes it prospectively, while evaluation reveals it only retrospectively, compressing samples, prompts, decoding, and scoring rules into one noisy score. Practical optimization runs this backward: a failure is observed first, and the engineer must infer the corpus fix. The two sides speak incompatible vocabularies -- benchmark names and per-sample co",
-      "url": "https://arxiv.org/abs/2606.28471",
+      "title": "Contrastive Reflection for Iterative Prompt Optimization",
+      "date": "Wed, 01 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.30840v1 Announce Type: new Abstract: LLM agents are becoming central to information retrieval: they issue retrieval queries, synthesize answers, and increasingly serve as judges for IR evaluation. Improving the prompts that control these agents is an optimization problem, but in applied IR settings it often looks less like blind search and more like debugging. Engineers need to know which behavior failed, which nearby behavior still worked, what distinguishes the two, and whether a pr",
+      "url": "https://arxiv.org/abs/2606.30840",
       "category": "cs.AI"
     },
     {
-      "title": "GPTNT: Benchmarking Real-Time Collaboration Between Multimodal Agents on Keep Talking And Nobody Explodes",
-      "date": "Tue, 30 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.28514v1 Announce Type: new Abstract: Multimodal models are increasingly deployed to solve tasks collaboratively with humans or other artificial agents. Existing benchmarks show that these models possess many of the required component capabilities, but the conditions that coincide in collaboration, including time pressure, information asymmetry, and imperfect communication, are usually studied in isolation. We introduce GPTNT, a benchmark built on the cooperative video game Keep Talkin",
-      "url": "https://arxiv.org/abs/2606.28514",
+      "title": "How Can AI Find My Model? A Model-Finding Experimental Study Considering Data Formats, Embeddings, and Retrieval Strategies",
+      "date": "Wed, 01 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.30846v1 Announce Type: new Abstract: Discovering simulation models for reuse remains a fundamental challenge in Modeling and Simulation (M&amp;S). When many models coexist, identifying those that align with a given modeling intent remains difficult. Recent advances in Artificial Intelligence (AI), particularly retrieval-based approaches, offer a promising pathway to operate at this semantic layer. In this paper, we present an experimental study investigating the impact of data represe",
+      "url": "https://arxiv.org/abs/2606.30846",
+      "category": "cs.AI"
+    },
+    {
+      "title": "BayesBench: Evaluating LLM Belief Trajectories Under Multi-Turn Evidence Accumulation",
+      "date": "Wed, 01 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.30850v1 Announce Type: new Abstract: Large language models (LLMs) are typically deployed in multi-turn conversations, where each turn provides new evidence that should reduce epistemic uncertainty about their environment. Acting rationally then requires inferring the unobserved quantities that govern it and updating beliefs about them as evidence accumulates. Yet most evaluations only score the model's final-turn answer in a single-turn format, leaving this process unexamined. We ask ",
+      "url": "https://arxiv.org/abs/2606.30850",
+      "category": "cs.AI"
+    },
+    {
+      "title": "When Does Learning to Stop Help? A Cost-Aware Study of Early Exits in Reasoning Models",
+      "date": "Wed, 01 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.30852v1 Announce Type: new Abstract: Reasoning models spend different amounts of useful computation across instances, but it remains unclear when a learned stopping rule improves over simple confidence or convergence thresholds. We study this question with LearnStop, a hidden-state-free checkpoint stopper for reasoning language models. At fixed budget checkpoints, LearnStop probes a short answer from the current reasoning prefix and predicts prefix correctness from online features suc",
+      "url": "https://arxiv.org/abs/2606.30852",
       "category": [
         "cs.AI",
-        "cs.CL"
+        "cs.CL",
+        "cs.LG"
       ]
     },
     {
-      "title": "IMCBench: A benchmark for multimodal LLMs in Image-grounded Medical Conversations",
-      "date": "Tue, 30 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.28556v1 Announce Type: new Abstract: Recent advances in large language models and vision-language models have enabled reasoning over multimodal data, offering opportunities for clinical applications such as decision support and triaging. However, existing medical AI benchmarks are fragmented: some support multi-turn dialogues but lack images, while others provide multimodal inputs but focus on single-turn QA tasks. To address this gap, we introduce IMCBench, an image-grounded, multi-t",
-      "url": "https://arxiv.org/abs/2606.28556",
+      "title": "Beyond expert users: agents should help users construct preferences, not just elicit them",
+      "date": "Wed, 01 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2606.30863v1 Announce Type: new Abstract: Agents typically assume an expert user -- one with well-formed preferences about what they want -- and default to clarifying questions whenever the task is underspecified. We argue this assumption is unrealistic. Users often lack the domain knowledge to have completely specified preferences; if asked about their preference on some feature, the user may be unable to answer without the agent helping the user to learn some domain knowledge needed to f",
+      "url": "https://arxiv.org/abs/2606.30863",
       "category": "cs.AI"
-    },
-    {
-      "title": "Search for Truth from Reasoning: A Dynamic Representation Editing Framework for Steering LLM Trajectories",
-      "date": "Tue, 30 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.28589v1 Announce Type: new Abstract: Current approaches to enhance Large Language Model (LLM) reasoning, such as Chain-of-Thought and \"Wait\" prompts, primarily encourage models to think more, yet often fail to guide them toward Truth. While Representation Editing (RepE) offers a intrinsic control, its application to dynamic reasoning trajectories remains underexplored. In this work, we bridge this gap by investigating the geometry of truth within unfolding reasoning chains. We uncover",
-      "url": "https://arxiv.org/abs/2606.28589",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Aristotelian Virtue Profiling of LLMs through Ethical Dilemmas",
-      "date": "Tue, 30 Jun 2026 04:00:00 GMT",
-      "summary": "arXiv:2606.28683v1 Announce Type: new Abstract: Large Language Models (LLMs) often face ethical tradeoffs in which several responses may be defensible but express different priorities, such as fairness, honesty, courage, or restraint. We introduce VirtueMap, a framework for describing these patterns through an Aristotelian virtue-ethics lens. Instead of asking for a single correct answer, VirtueMap asks humans or LLMs to rank all five responses to each of seven general, non-lethal, non-political",
-      "url": "https://arxiv.org/abs/2606.28683",
-      "category": [
-        "cs.AI",
-        "cs.CY",
-        "stat.AP",
-        "stat.ME"
-      ]
     }
   ],
   "status": "success",
