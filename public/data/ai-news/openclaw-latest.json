@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-07-02T04:03:19.606Z",
+  "fetch_time": "2026-07-02T07:30:45.052Z",
   "articles": [
+    {
+      "title": "openclaw 2026.7.1-beta.1",
+      "date": "2026-07-02T07:25:49Z",
+      "summary": "\n### Highlights\n\n- **OpenAI GPT-5.6 support:** OpenClaw now recognizes the GPT-5.6 model family across catalog, capability, and runtime selection paths. (#98333) Thanks @steipete-oai.\n- **External har...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.1-beta.1",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.7.1-beta.1",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.6.11",
       "date": "2026-06-30T16:06:39Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.6.11",
-      "downloadCount": 11309
+      "downloadCount": 12269
     },
     {
       "title": "openclaw 2026.6.11-beta.2",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.6.10",
-      "downloadCount": 32551
+      "downloadCount": 32554
     },
     {
       "title": "openclaw 2026.6.10-beta.2",
@@ -52,16 +62,6 @@
       "author": "github-actions[bot]",
       "tagName": "v2026.6.10-beta.2",
       "downloadCount": 150
-    },
-    {
-      "title": "openclaw 2026.6.10-beta.1",
-      "date": "2026-06-21T09:12:41Z",
-      "summary": "\n### Highlights\n\n- **More reliable agent turns and session state:** OpenClaw now preserves pending subagent completion announcements, keeps chat history transcripts non-empty, maintains media index al...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.10-beta.1",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.6.10-beta.1",
-      "downloadCount": 92
     }
   ],
   "status": "success",
