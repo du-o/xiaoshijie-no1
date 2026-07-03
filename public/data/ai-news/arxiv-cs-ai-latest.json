@@ -1,60 +1,52 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-07-03T03:48:59.488Z",
+  "fetch_time": "2026-07-03T07:19:05.860Z",
   "articles": [
     {
-      "title": "Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction",
-      "date": "Thu, 02 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.00001v1 Announce Type: new Abstract: Most approaches to AI alignment treat human preferences as fixed targets to be inferred and optimized. This assumption conflicts with extensive empirical evidence showing that preferences are layered, dynamic, and constructed through interaction--particularly with adaptive technologies. As AI systems become more persistent, personalized, and socially embedded, they increasingly participate in shaping what people attend to, value, and endorse over t",
-      "url": "https://arxiv.org/abs/2607.00001",
-      "category": [
-        "cs.AI",
-        "cs.CY"
-      ]
-    },
-    {
-      "title": "Bounded Morality: Defining the Space of Moral Computation",
-      "date": "Thu, 02 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.00002v1 Announce Type: new Abstract: Moral cognition has traditionally been modeled as adherence to fixed ethical theories--deontology, consequentialism, virtue ethics--implemented as static rules or value functions. We propose Bounded Morality, a formal framework for analyzing the computational demands of moral problems faced by finite agents. Extending Herbert Simon's notion of bounded rationality, we formalize moral situations along two orthogonal dimensions: moral breadth, the sco",
-      "url": "https://arxiv.org/abs/2607.00002",
-      "category": [
-        "cs.AI",
-        "cs.CY"
-      ]
-    },
-    {
-      "title": "The MMM Data Model -- A Normative Specification for Knowledge Interoperability in a Decentralisable Knowledge Commons",
-      "date": "Thu, 02 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.00032v1 Announce Type: new Abstract: Many information systems are built around documents: self-contained units optimised for print production and linear reading. While effective for large-scale dissemination, the document-centric organisation constrains how knowledge can be structured, updated, shared, and reused. Formal approaches address some of these limitations but struggle to achieve widespread contribution and adoption due to their prioritisation of formal structure over other s",
-      "url": "https://arxiv.org/abs/2607.00032",
+      "title": "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations",
+      "date": "Fri, 03 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.01306v1 Announce Type: new Abstract: Counterfactual explanations explain machine learning predictions by identifying minimal input changes that would alter a model's decision. Although many existing methods successfully generate prediction-changing alternatives, they often produce unrealistic or infeasible recommendations due to a lack of explicit mechanisms for incorporating domain knowledge and intervention constraints. Neuro-symbolic AI offers a promising direction by combining dat",
+      "url": "https://arxiv.org/abs/2607.01306",
       "category": "cs.AI"
     },
     {
-      "title": "Making Failure Safe: A Constrained, Verifiable Agent Framework for Open-Web Data Collection",
-      "date": "Thu, 02 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.00035v1 Announce Type: new Abstract: LLMs and agents can generate web scrapers from natural-language requirements, but direct generation remains unreliable because of dependency errors, broken selectors, schema mismatches, and heterogeneous page structures. We propose a constrained, verifiable agent framework that shifts LLM output from free-form code to typed JSON collector configurations, combining a six-type collector taxonomy, template and utility-function constraints, static Airf",
-      "url": "https://arxiv.org/abs/2607.00035",
+      "title": "Auto-FL-Research: Agentic Search for Federated Learning Algorithms",
+      "date": "Fri, 03 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.01366v1 Announce Type: new Abstract: Federated learning (FL) research often depends on many small but consequential algorithmic choices: optimizer variants, server aggregation rules, local training schedules, normalization, regularization, and model architecture. These choices are expensive to explore manually and difficult to compare fairly when candidate changes can also alter the FL training or evaluation path. In this work, we present Auto-FL-Research (AFR), a constrained coding-a",
+      "url": "https://arxiv.org/abs/2607.01366",
       "category": "cs.AI"
     },
     {
-      "title": "Solution space path planning for supporting en-route air traffic control",
-      "date": "Thu, 02 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.00064v1 Announce Type: new Abstract: As technology advances, many path-planning algorithms have been proposed for Air Traffic Management, yet their operational adoption in tactical control remains limited, revealing a misalignment between algorithmic design priorities and air traffic controllers' needs. This underscores the need for decision-support solutions that are inherently interpretable, computationally efficient, and explicitly designed for human use. Focusing on this design ch",
-      "url": "https://arxiv.org/abs/2607.00064",
+      "title": "The Wiola Architecture for Efficient Small Language Models",
+      "date": "Fri, 03 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.01394v1 Announce Type: new Abstract: We present Wiola, a fully original Small Language Model (SLM) architecture built from first principles, sharing no structural lineage with any existing model family including GPT, LLaMA, Mistral, or Falcon. Wiola introduces five independently novel components: (i) Spiral Rotary Positional Encoding (SRPE), which embeds token positions on a three-dimensional helical manifold combining absolute, relative, and hierarchical positional signals; (ii) Gate",
+      "url": "https://arxiv.org/abs/2607.01394",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Agent4cs: A Multi-agent System for Code Summarization in Large Hierarchical Codebases",
+      "date": "Fri, 03 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.01425v1 Announce Type: new Abstract: Understanding large, complex codebases, especially those with obfuscated structures and incomplete documentation, remains a significant challenge. Existing code summarization solutions often rely on a single language model or coding assistant like Claude Code, and treat source code as flat text, underutilizing the rich interdependencies and hierarchical information within a repository. To address these shortcomings, we propose Agent4cs - a multi-ag",
+      "url": "https://arxiv.org/abs/2607.01425",
+      "category": "cs.AI"
+    },
+    {
+      "title": "When Should Service Agents Reconsider? Difficulty-Routed Control in Customer-Service Operations",
+      "date": "Fri, 03 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.01426v1 Announce Type: new Abstract: Autonomous customer-service agents are shifting from conversational interfaces toward operational execution roles: they retrieve firm records, apply service policies, and execute backend writes such as refunds, cancellations, exchanges, order modifications, and reservation changes. This shift creates a service-control problem: firms must keep routine service fast and low-friction while preventing operational errors on requests where customer instru",
+      "url": "https://arxiv.org/abs/2607.01426",
+      "category": "cs.AI"
+    },
+    {
+      "title": "CreativityNeuro: Steering Language Model Weights to Improve Divergent Thinking and Reduce Mode Collapse",
+      "date": "Fri, 03 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.01433v1 Announce Type: new Abstract: Divergent thinking is a crucial aspect of creativity, yet large language models (LLMs) tend to consistently generate similar responses to open-ended questions, in what has been termed the artificial hivemind effect. Here, we introduce CreativityNeuro, a data-free method for enhancing divergent thinking in LLMs via contrastive weight steering. We evaluate our method across multiple creativity assessments and report several main findings. On the Dive",
+      "url": "https://arxiv.org/abs/2607.01433",
       "category": [
         "cs.AI",
-        "cs.RO",
-        "cs.SY",
-        "eess.SY"
+        "cs.LG"
       ]
-    },
-    {
-      "title": "RareDxR1: Autonomous Medical Reasoning for Rare Disease Diagnosis Beyond Human Annotation",
-      "date": "Thu, 02 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.00147v1 Announce Type: new Abstract: Rare disease differential diagnosis is a critical yet arduous clinical task, requiring physicians to identify precise phenotypes from complex, unstructured patient symptoms and execute intricate reasoning within a vast search space. However, existing AI approaches typically rely on pipeline-based phenotype extraction or retrieval-augmented generation, which suffer from critical information loss due to predefined ontologies, retrieval bottlenecks, a",
-      "url": "https://arxiv.org/abs/2607.00147",
-      "category": "cs.AI"
     }
   ],
   "status": "success",
