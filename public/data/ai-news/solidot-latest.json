@@ -1,8 +1,22 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-07-04T12:52:14.907Z",
+  "fetch_time": "2026-07-05T03:59:46.077Z",
   "articles": [
+    {
+      "title": "火星岩石发现大量碳，来源未知",
+      "date": "Sat, 04 Jul 2026 16:26:23 GMT",
+      "summary": "NASA 漫游车在火星上发现的有机碳绝大多数都是在岩石的内部，需要通过钻或磨才能暴露。现在火星漫游车毅力号在河道 Neretva Vallis 附近的岩石表面发现了复杂大分子碳，这是至今在火星上发现的最浅的有机物。如果地球上发现类似的大量大分子碳，通常表明它们来自生物。但对于火星岩石上发现的大量碳，则难以识别其来源，除非将其带到地球进行仔细研究。研究人员表示这些分子碳也可能源于非生物过程。它们是否是古代火星生命的遗迹，还有待未来回答。",
+      "url": "https://www.solidot.org/story?sid=84757",
+      "category": ""
+    },
+    {
+      "title": "仙女座发现新卫星星系",
+      "date": "Sat, 04 Jul 2026 15:26:34 GMT",
+      "summary": "天文学家在距离地球约 250 万光年的仙女座星系附近，发现了一个新的超暗矮星系，命名为仙女座 XXXVI（Andromeda XXXVI，其中 XXXVI 为罗马数字 36），代表它是目前正式命名的第 36 个仙女座卫星星系。研究显示，它可能是迄今在仙女座星系周围发现最暗淡的卫星星系之一。这个星系年龄约达 125 亿年。仙女座星系是距离银河系最近的巨大螺旋星系，周围环绕着许多受到重力束缚的矮卫星星系，因此被视为研究星系形成的天然实验室。目前理论预测，仙女座可能拥有多达约 90 个卫星星系，但迄今仅发现约 40 个，其中只有约 15 个属于超暗矮星系。仙女座 XXXVI 的发现显示，在仙女座周围可能仍隐藏着大量尚未被发现的极暗小星系。",
+      "url": "https://www.solidot.org/story?sid=84756",
+      "category": ""
+    },
     {
       "title": "全球极端热应激现象加剧",
       "date": "Sat, 04 Jul 2026 06:02:49 GMT",
@@ -29,20 +43,6 @@
       "date": "Fri, 03 Jul 2026 14:26:27 GMT",
       "summary": "蜜蜂是重要的授粉昆虫，但其数量在世界各地都出现了下降，原因可能与农药有关。发表在《Current Biology》期刊上的一项研究在实验室条件下跟踪了农药在一个小型蜂群中的流动。研究发现，工蜂最初通过食物过滤和在蜂巢中沉积将食物中的农药水平降低 95%，但到第 10 天过滤效率下降至 86%；蜂后体内的农药含量显著低于工蜂，但随着时间的推移，蜂后会在卵巢中积累农药并将其转移到正在发育的蜂卵；蜂后的存在会改变整个蜂群的化学物质分布，工蜂会集中接触农药，增加蜂蜡中农药的沉积。",
       "url": "https://www.solidot.org/story?sid=84752",
-      "category": ""
-    },
-    {
-      "title": "阿里巴巴禁止员工使用 Claude Code",
-      "date": "Fri, 03 Jul 2026 09:59:33 GMT",
-      "summary": "阿里巴巴因担心后门禁止员工在工作中使用 Anthropic 的 Claude Code，它要求员工使用自家的编程平台 Qoder。尽管 Anthropic 限制了中国用户和实体的访问，但 Claude Code 在中国程序员中间仍然非常受欢迎。Anthropic 上个月指控阿里巴巴蒸馏了其模型，几天前它的 Claude Code 被发现包含了检测用户是否来自中国的代码。",
-      "url": "https://www.solidot.org/story?sid=84751",
-      "category": ""
-    },
-    {
-      "title": "Valve 开源 Steam Machine 的电子墨水屏",
-      "date": "Fri, 03 Jul 2026 09:34:54 GMT",
-      "summary": "Valve 不会为 Steam Machine 游戏机提供正面的电子墨水屏，但它开源了相关技术，允许任何人自己动手为 Steam Machine 安装墨水屏。相关文件在 MIT 许可证下发布在 GitLab。Valve 将该项目称之为 Inkterfac，用户需要准备： 1 x Adafruit ESP32 Feather with 2MB PSRAM. 1 x Adafruit eInk Breakout Friend. 1 x Adafruit 5.83\" Monochrome eInk Panel. 13 x M2.5 x 5mm Pan Head Machine Screws. 4 x 1/4\" x 1/4\" x 3/16\" Stepped Magnet SB443-OUT.",
-      "url": "https://www.solidot.org/story?sid=84750",
       "category": ""
     }
   ],
