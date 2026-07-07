@@ -1,7 +1,7 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-07-06T14:48:03.871Z",
+  "fetch_time": "2026-07-07T03:56:52.767Z",
   "articles": [
     {
       "title": "How ChatGPT adoption has expanded",
@@ -11,11 +11,11 @@
       "category": "Global Affairs"
     },
     {
-      "title": "Inside Genebench-Pro",
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
       "date": "Tue, 30 Jun 2026 00:00:00 GMT",
-      "summary": "",
-      "url": "https://openai.com/index/genebench-pro/case-studies",
-      "category": ""
+      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "category": "Engineering"
     },
     {
       "title": "Introducing GeneBench-Pro",
@@ -25,11 +25,11 @@
       "category": "Research"
     },
     {
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "title": "Inside Genebench-Pro",
       "date": "Tue, 30 Jun 2026 00:00:00 GMT",
-      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-      "category": "Engineering"
+      "summary": "",
+      "url": "https://openai.com/index/genebench-pro/case-studies",
+      "category": ""
     },
     {
       "title": "Mapping Europe’s AI Workforce Opportunity",

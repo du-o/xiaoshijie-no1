@@ -1,76 +1,85 @@
 {
-  "fetch_time": "2026-07-06T14:48:08.220Z",
+  "fetch_time": "2026-07-07T03:56:56.004Z",
   "total_count": 30,
   "sources_count": 6,
   "errors": null,
   "articles": [
     {
-      "title": "工作记忆如何产生意识？",
-      "date": "Mon, 06 Jul 2026 13:40:36 GMT",
-      "summary": "有没有类似经历：走进一间房间，却忘记来干什么？你可能是来拿钥匙，在来的路上还记住钥匙，但在进门的刹那钥匙从你的记忆里消失了。这种现象有时被称为门口效应（Doorway Effect），通常发生在走进一间陌生的房间时。它与工作记忆密切相关。当我们执行当前任务（如记住去拿钥匙）时，信息会被存储在工作记忆中。门口效应表明，当信息从工作记忆中移除时，它似乎会立即从意识中消失。这也表明工作记忆中的信息很容易被遗忘。工作记忆内部包含众多不同子系统，分别负责特定的任务，包括视觉和空间推理（如解魔方）以及存储信息块（如电话号码）。甚至还有一个“中央执行系统”。中央执行系统就像一个冷酷的老板，负责将任务分配给工作记忆内的不同系统，确保一切井然有序。工作记忆的一个独特之处是它的容量非常有限。尽管它拥有丰富的可用信息，但工作记忆在任何时刻只能存储极少量的信息。它很难记住非常复杂的物体。工作记忆的有限容量能解释为什么门口效应会发生：当新信息进入时旧信息必须被清除。进门的动作会触发信息消除。从演化论角度看，遗忘旧信息有助于适应新环境。这种遗忘也表明工作记忆与意识密切相关。一种观点认为，意识的产生源于工作记忆和注",
-      "url": "https://www.solidot.org/story?sid=84766",
+      "title": "智谱：媒体称撤回A股辅导备案报导失实",
+      "date": "Tue, 07 Jul 2026 03:49:39 GMT",
+      "summary": "36氪获悉，智谱公告，公司注意到有媒体报导称公司已撤回建议首次公开发行A股的辅导备案。公司澄清该等报导陈述失实，所描述事件不符合实际情况，并存在恶意炒作之嫌。公司表示，建议A股发行方案已于2026年6月22日召开的2025年年度股东会上经股东审议及批准，且据中国证监会官方网站显示，建议A股发行相关的辅导工作已经完成。公司将适时发布进一步公告。",
+      "url": "https://36kr.com/newsflashes/3885042555515144?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "Meta称美国四个州在8月的青少年安全诉讼中寻求1.4万亿美元罚款",
+      "date": "Tue, 07 Jul 2026 03:47:26 GMT",
+      "summary": "Meta周一在一份法庭文件中表示，美国四个州正寻求对其处以1.4万亿美元的罚款，指控该公司设计其Facebook和Instagram平台旨在使年轻用户上瘾，并误导公众对其安全性存在误解。Meta在回应各州总检察长提交的关于如果各州胜诉应如何计算罚款的文件时提出了这一数字。（新浪财经）",
+      "url": "https://36kr.com/newsflashes/3885040380194818?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "中国中煤在安徽成立新公司",
+      "date": "Tue, 07 Jul 2026 03:46:03 GMT",
+      "summary": "36氪获悉，天眼查App显示，近日，中煤（安徽）能源有限公司成立，法定代表人为刘峰，注册资本1亿人民币，经营范围包括煤炭开采、煤炭及制品销售、矿物洗选加工、新兴能源技术研发、储能技术服务等，由中国中煤能源集团有限公司全资持股。",
+      "url": "https://36kr.com/newsflashes/3885029294796801?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "A股三大指数午间休盘集体收跌，半导体板块走强",
+      "date": "Tue, 07 Jul 2026 03:31:50 GMT",
+      "summary": "36氪获悉，A股三大指数午间休盘集体收跌，沪指跌1.04%，深成指跌1.02%，创业板指跌0.78%；能源、制药、餐饮旅游板块领跌，恒力石化跌超8%，科伦药业跌超7%，西藏旅游跌超3%；工程机械、半导体、休闲用品板块走强，三一重工、华虹宏力涨超4%，奥飞娱乐涨超1%。",
+      "url": "https://36kr.com/newsflashes/3885025040084997?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "蚂蚁灵波发布空间感知模型LingBot-Depth 2.0",
+      "date": "Tue, 07 Jul 2026 03:26:21 GMT",
+      "summary": "7月7日，蚂蚁集团旗下具身智能公司灵波科技发布空间感知模型LingBot-Depth 2.0。该模型基于1.5亿规模数据进行训练，在边缘清晰度、细小物体识别、远距离深度估计以及复杂场景鲁棒性等方面实现全面升级。此外，灵波还同步推出了LingBot-Depth 2.0的视觉基座模型——LingBot-Vision，构建起机器人从“看懂”到“看准”的能力链路，旨在应对机器人视觉在空间感知、精细识别和复杂环境适应等方面的核心挑战。",
+      "url": "https://36kr.com/newsflashes/3885019659202566?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "丰田纺织、华勤技术在上海成立汽车电子公司",
+      "date": "Tue, 07 Jul 2026 03:11:18 GMT",
+      "summary": "36氪获悉，天眼查App显示，近日，丰田纺织华勤（上海）汽车电子有限公司成立，法定代表人为八百市信一，注册资本1000万人民币，经营范围包括汽车零部件研发、技术进出口、货物进出口、软件开发等。股东信息显示，该公司由丰田纺织（中国）有限公司、华勤技术股份有限公司共同持股。",
+      "url": "https://36kr.com/newsflashes/3885004857094409?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "天问二号探测器抵达目标小行星",
+      "date": "Mon, 06 Jul 2026 15:11:52 GMT",
+      "summary": "中国国家航天局周一宣布，天问二号探测器历经约 400 天、行程约 10 亿千米飞行后于近日与小行星 2016HO3 成功交会，到达距离小行星 20 千米处，开始科学探测。在抵近小行星过程中，探测器获得小行星影像数据。同时任务团队利用探测器抵近过程中获得的光学导航数据，改进了小行星星历，将之前仅依靠地基观测所确定的小行星位置误差，由上百千米减小到千米量级。天问二号探测器于 2025 年 5 月 29 日在西昌卫星发射中心成功发射。2026 年 6 月 6 日，探测器首次捕获到小行星；6 月 7 日，在距离小行星 3 万千米处实施捕获控制，实现与小行星共面飞行；6 月 19 日，到达距离小行星 2000 千米处。后续探测器将逐步开展更精细科学探测，获取小行星形貌、物质成分、内部结构等信息，为做好采样准备提供支撑。",
+      "url": "https://www.solidot.org/story?sid=84769",
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
     },
     {
-      "title": "中材科技：向特定对象发行股票申请获深交所审核通过",
-      "date": "Mon, 06 Jul 2026 12:57:21 GMT",
-      "summary": "36氪获悉，中材科技公告，公司2025年度向特定对象发行股票申请获得深交所上市审核中心审核通过。",
-      "url": "https://36kr.com/newsflashes/3884148725412097?f=rss",
+      "title": "被社媒用户指控是 AI 创作的短篇小说赢得英联邦短篇小说奖",
+      "date": "Mon, 06 Jul 2026 15:06:14 GMT",
+      "summary": "被社媒用户指控是 AI 创作的短篇小说《The Serpent in the Grove》赢得英联邦短篇小说奖。这篇小说由 Jamir Nazir 创作，在五月份赢得了地区奖项，随后立即被 X 等平台的社媒用户指控是 AI 创作。原因是它包含了典型的 AI 写作模式，包括“不是 x 而是 y”结构以及三列表结构。在引发争议之后，Commonwealth Foundation 检查了所有地区奖得主的草稿、含时间戳的文件和笔记等内容。该基金会之后宣称他们没有发现作品是 AI 生成的证据。 Nazir 称其作品深受 VS Naipaul 和 Derek Walcott 等作家作品的影响。他说这篇小说写了六七稿，他解释说其手机屏幕一次只能显示三四行文字，所以他会写下一行前对前面的文字细致修改，最终使故事显得“高度润色”。",
+      "url": "https://www.solidot.org/story?sid=84768",
       "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "高盛任命谷歌的Kotsovinos为资产与财富管理工程主管",
-      "date": "Mon, 06 Jul 2026 12:52:48 GMT",
-      "summary": "高盛宣布Evan Kotsovinos已加入公司担任合伙人兼资产与财富管理工程主管。Kotsovinos来自谷歌，在谷歌担任隐私、安全和安保主管。在加入谷歌之前，Kotsovinos曾担任美国运通技术基础设施主管，并曾在摩根士丹利的欧洲和亚洲业务担任多个工程领导职务。（新浪财经）",
-      "url": "https://36kr.com/newsflashes/3884160924643336?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "热门中概股美股盘前多数上涨，哔哩哔哩涨超3%",
-      "date": "Mon, 06 Jul 2026 12:50:58 GMT",
-      "summary": "36氪获悉，热门中概股美股盘前多数上涨，截至发稿，哔哩哔哩涨超3%，小鹏集团、网易涨超2%，蔚来、拼多多、微博涨超1%；理想集团、百度跌超1%。",
-      "url": "https://36kr.com/newsflashes/3884159111852035?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "美股大型科技股盘前多数上涨，英特尔涨超3%",
-      "date": "Mon, 06 Jul 2026 12:46:21 GMT",
-      "summary": "36氪获悉，美股大型科技股盘前多数上涨，截至发稿，英特尔涨超3%，特斯拉、Meta涨超1%，SpaceX涨0.97%，亚马逊涨0.6%，谷歌涨0.19%，英伟达涨0.06%；奈飞跌0.93%，微软跌0.81%，苹果跌0.3%。",
-      "url": "https://36kr.com/newsflashes/3884154582904834?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "翔丰华：向特定对象发行股票申请获深交所受理",
-      "date": "Mon, 06 Jul 2026 12:42:27 GMT",
-      "summary": "36氪获悉，翔丰华公告，公司向特定对象发行股票申请获得深交所受理。",
-      "url": "https://36kr.com/newsflashes/3884150735204352?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "美光科技与福特汽车签署战略协议，协议将加强内存和存储解决方案的供应",
-      "date": "Mon, 06 Jul 2026 12:37:43 GMT",
-      "summary": "美光科技与福特汽车签署战略协议，协议将加强内存和存储解决方案的供应。（财联社）",
-      "url": "https://36kr.com/newsflashes/3884146084131077?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
+      "source": "Solidot",
+      "source_name": "solidot"
     },
     {
       "title": "Gemini models",
       "url": "https://blog.google/products-and-platforms/products/gemini/",
-      "date": "2026-07-06T11:56:48.054Z",
+      "date": "2026-07-06T14:48:11.200Z",
       "summary": "",
       "category": "Products",
       "source": "Google Blog",
@@ -79,25 +88,7 @@
     {
       "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash Scale your ideas with Nano Banana 2 Lite, our fastest, most cost-efficient Gemini Image model, and Gemini Omni Flash for high-quality video and conversational editing.",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/",
-      "date": "2026-07-06T11:56:48.054Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Gemini Spark updates: macOS launch, connected apps and more",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026/",
-      "date": "2026-07-06T11:56:48.054Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "The latest AI news we announced in June 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
-      "date": "2026-07-06T11:56:48.054Z",
+      "date": "2026-07-06T14:48:11.200Z",
       "summary": "",
       "category": "Innovation & AI",
       "source": "Google Blog",
@@ -106,29 +97,65 @@
     {
       "title": "Sustainability",
       "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/",
-      "date": "2026-07-06T11:56:48.054Z",
+      "date": "2026-07-06T14:48:11.200Z",
       "summary": "",
       "category": "Company",
       "source": "Google Blog",
       "source_name": "google-blog"
     },
     {
-      "title": "View the collection",
-      "url": "https://blog.google/company-news/inside-google/company-announcements/celebrating-250-years-of-america-from-its-history-to-its-future/",
-      "date": "2026-07-06T11:56:48.054Z",
+      "title": "Google Play",
+      "url": "https://blog.google/products-and-platforms/platforms/google-play/",
+      "date": "2026-07-06T14:48:11.200Z",
       "summary": "",
-      "category": "Company",
+      "category": "Google",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Android Enterprise",
+      "url": "https://blog.google/products-and-platforms/products/android-enterprise/",
+      "date": "2026-07-06T14:48:11.200Z",
+      "summary": "",
+      "category": "Products",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Learning & Education",
+      "url": "https://blog.google/products-and-platforms/products/education/",
+      "date": "2026-07-06T14:48:11.200Z",
+      "summary": "",
+      "category": "Products",
       "source": "Google Blog",
       "source_name": "google-blog"
     },
     {
       "title": "The State of AI: A Look at What's Next",
       "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-07-06T11:56:42.616Z",
+      "date": "2026-07-06T14:48:03.333Z",
       "summary": "An in-depth analysis of the current AI landscape and future trends.",
       "category": "AI Analysis",
       "source": "Every.to",
       "source_name": "every"
+    },
+    {
+      "title": "亚马逊 Mechanical Turk 将于本月底停止接受新用户",
+      "date": "Mon, 06 Jul 2026 14:04:16 GMT",
+      "summary": "亚马逊众包平台 Mechanical Turk 发表公告，宣布将于 7 月 30 日起停止接受新用户。亚马逊 AWS 称，该决定是在“慎重考虑”后做出的，“现有用户可以继续正常使用该服务。AWS 将继续投资改进 Mechanical Turk 的安全性和可用性，但我们不打算推出新功能。”Mechanical Turk 暂时不会关闭，但其未来岌岌可危。亚马逊从 2018 年起将 Mechanical Turk 变成训练神经网络的标注数据服务。但讽刺的是 2023 年的研究发现，该平台 33% 到 46% 的众包工作者使用大模型去完成任务，引发了对标注数据的可靠性以及是否真的需要人类参与的质疑。社交平台的用户称，由于大量的机器人和欺骗行为，研究人员已经放弃了该平台，它的关闭可能只是时间问题。",
+      "url": "https://www.solidot.org/story?sid=84767",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "工作记忆如何产生意识？",
+      "date": "Mon, 06 Jul 2026 13:40:36 GMT",
+      "summary": "有没有类似经历：走进一间房间，却忘记来干什么？你可能是来拿钥匙，在来的路上还记住钥匙，但在进门的刹那钥匙从你的记忆里消失了。这种现象有时被称为门口效应（Doorway Effect），通常发生在走进一间陌生的房间时。它与工作记忆密切相关。当我们执行当前任务（如记住去拿钥匙）时，信息会被存储在工作记忆中。门口效应表明，当信息从工作记忆中移除时，它似乎会立即从意识中消失。这也表明工作记忆中的信息很容易被遗忘。工作记忆内部包含众多不同子系统，分别负责特定的任务，包括视觉和空间推理（如解魔方）以及存储信息块（如电话号码）。甚至还有一个“中央执行系统”。中央执行系统就像一个冷酷的老板，负责将任务分配给工作记忆内的不同系统，确保一切井然有序。工作记忆的一个独特之处是它的容量非常有限。尽管它拥有丰富的可用信息，但工作记忆在任何时刻只能存储极少量的信息。它很难记住非常复杂的物体。工作记忆的有限容量能解释为什么门口效应会发生：当新信息进入时旧信息必须被清除。进门的动作会触发信息消除。从演化论角度看，遗忘旧信息有助于适应新环境。这种遗忘也表明工作记忆与意识密切相关。一种观点认为，意识的产生源于工作记忆和注",
+      "url": "https://www.solidot.org/story?sid=84766",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
     },
     {
       "title": "用 Go 语言编写的 TypeScript 7.0 发布 RC 版",
@@ -149,36 +176,9 @@
       "source_name": "solidot"
     },
     {
-      "title": "字节跳动和阿里巴巴下线智能体功能",
-      "date": "Mon, 06 Jul 2026 08:19:29 GMT",
-      "summary": "字节跳动的豆包和阿里巴巴的千问先后宣布于 7 月 1 5 日下线智能体功能。豆包称，由于产品功能调整，智能体功能将于 2026 年 7 月 15 日下线。功能下线后，用户仍可在一段时间内查看并自行保存智能体信息及历史对话数据，10月15日后，豆包将根据《隐私政策》对智能体相关数据进行处理，后续将无法在豆包内查看或恢复。用户可通过截图或分享导出文本的方式提前备份重要内容。千问将在同一天下线智能体功能，下线后用户将无法继续访问相关智能体配置及历史对话记录。7 月 15 日下线是因为当天《人工智能拟人化互动服务管理暂行办法》将正式实施。此前腾讯 AI 应用元宝已经移除了相似的功能。",
-      "url": "https://www.solidot.org/story?sid=84763",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "隼鸟2号近距离飞越小行星鸟船",
-      "date": "Mon, 06 Jul 2026 07:49:53 GMT",
-      "summary": "日本隼鸟 2 号探测器在完成小行星龙宫样本收集和送回地球任务之后开始向新目标前进。7 月 5 日隼鸟 2 号接近小行星 Torifune（鸟船），在高速通过距鸟船中心约 800 米的极近距离的同时，调查其形状和表面物质，进行了近距离探测。探测器接近也意在验证旨在防备小行星与地球相撞危险的“地球防御”。JAXA 称，过了最接近的预定时间之后，接收了来自隼鸟 2 号的信号。探测器没有撞上小行星，处于正常状态。",
-      "url": "https://www.solidot.org/story?sid=84762",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "战争模糊了企业安全和国家安全",
-      "date": "Mon, 06 Jul 2026 07:28:02 GMT",
-      "summary": "海底光缆、发电站、炼油厂，机场、海水淡化厂甚至亚马逊数据中心，都已成为战争期间的攻击目标。企业安全和国家安全之间的界限日益模糊。北大西洋公约组织（NATO）32 个成员国去年达成协议，将经济产出的 5% 用于国防和安全，其中 1.5% 用于军事相关需求，包括保护关键基础设施和网络。支出目标涵盖网络安全、工业产能，以及军事后勤所需的铁路、桥梁和港口等等。NATO 军事委员会主席、意大利海军上将 Giuseppe Cavo Dragone 表示我们需要一个更全面的国防概念——国防不再仅仅指军事。曾在美国交通部和国土安全部任职的 Marc Glasser 表示私营业主能投资冗余、监控和维修能力，但只有政府和军方才能真正威慑、巡逻、确认或应对敌对国家的活动。企业表示，他们需要政府更明确地阐明将提供哪些保护措施，以及为帮助企业保护那些提供公共利益的私有资产而提供的补贴。大多数政府并没有为企业提供激励措施去鼓励它们在法定最低韧性要求之外进行更多投资。",
-      "url": "https://www.solidot.org/story?sid=84761",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
       "title": "How Startups Are Using AI to Disrupt Industries",
       "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-07-05T11:56:42.616Z",
+      "date": "2026-07-05T14:48:03.333Z",
       "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
       "category": "Source Code",
       "source": "Every.to",
@@ -187,7 +187,7 @@
     {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-07-04T11:56:42.616Z",
+      "date": "2026-07-04T14:48:03.333Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
@@ -196,7 +196,7 @@
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-07-03T11:56:42.616Z",
+      "date": "2026-07-03T14:48:03.333Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
@@ -205,7 +205,7 @@
     {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-07-02T11:56:42.616Z",
+      "date": "2026-07-02T14:48:03.333Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -214,7 +214,7 @@
     {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-07-01T11:56:42.616Z",
+      "date": "2026-07-01T14:48:03.333Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
@@ -230,11 +230,11 @@
       "source_name": "openai"
     },
     {
-      "title": "Inside Genebench-Pro",
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
       "date": "Tue, 30 Jun 2026 00:00:00 GMT",
-      "summary": "",
-      "url": "https://openai.com/index/genebench-pro/case-studies",
-      "category": "",
+      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "category": "Engineering",
       "source": "OpenAI News",
       "source_name": "openai"
     },
@@ -248,11 +248,11 @@
       "source_name": "openai"
     },
     {
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "title": "Inside Genebench-Pro",
       "date": "Tue, 30 Jun 2026 00:00:00 GMT",
-      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-      "category": "Engineering",
+      "summary": "",
+      "url": "https://openai.com/index/genebench-pro/case-studies",
+      "category": "",
       "source": "OpenAI News",
       "source_name": "openai"
     },
