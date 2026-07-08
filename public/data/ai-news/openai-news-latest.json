@@ -1,8 +1,22 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-07-07T13:58:10.564Z",
+  "fetch_time": "2026-07-08T03:23:11.938Z",
   "articles": [
+    {
+      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+      "date": "Tue, 07 Jul 2026 00:00:00 GMT",
+      "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
+      "url": "https://openai.com/index/australian-payments-plus",
+      "category": ""
+    },
+    {
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "date": "Tue, 07 Jul 2026 00:00:00 GMT",
+      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "url": "https://openai.com/index/mufg",
+      "category": ""
+    },
     {
       "title": "How ChatGPT adoption has expanded",
       "date": "Tue, 30 Jun 2026 09:00:00 GMT",
@@ -30,20 +44,6 @@
       "summary": "",
       "url": "https://openai.com/index/genebench-pro/case-studies",
       "category": ""
-    },
-    {
-      "title": "Mapping Europe’s AI Workforce Opportunity",
-      "date": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
-      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-      "category": "Global Affairs"
-    },
-    {
-      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-      "date": "Sun, 28 Jun 2026 17:00:00 GMT",
-      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
-      "url": "https://openai.com/index/hp-frontier-partnership",
-      "category": "Company"
     }
   ],
   "status": "success",
