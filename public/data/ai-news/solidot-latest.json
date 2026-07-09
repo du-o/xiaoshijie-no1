@@ -1,8 +1,15 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-07-09T03:55:42.220Z",
+  "fetch_time": "2026-07-09T07:40:52.917Z",
   "articles": [
+    {
+      "title": "Cinnamon 下个版本将支持 Wayland",
+      "date": "Thu, 09 Jul 2026 05:59:39 GMT",
+      "summary": "Linux Mint 发行版项目开发的 Cinnamon 是少数仍然不支持 Wayland 只兼容 X11 的桌面环境。但这种情况即将发生改变。Linux Mint 项目宣布，他们在支持 Wayland 上投入了大量精力，如今 Wayland 支持已经相当稳定，足以媲美 X11，因此 Wayland 支持不再被视为实验性，下个版本的 Cinnamon 将同时支持 Wayland 和 X11。Cinnamon 的下一个版本 v6.8 将包含在计划于圣诞节发布的 Linux Mint 新版本中。",
+      "url": "https://www.solidot.org/story?sid=84788",
+      "category": ""
+    },
     {
       "title": "美国成年人肥胖率突破四成",
       "date": "Wed, 08 Jul 2026 15:57:57 GMT",
@@ -36,13 +43,6 @@
       "date": "Wed, 08 Jul 2026 09:28:54 GMT",
       "summary": "长鑫存储技术（CXMT）和长江存储科技（YMTC）正新建工厂，预计到 2027 年以后，两家企业的产能都将超过目前的两倍。业界相关人士透露，长鑫高性能存储器 HBM 目前在安徽省合肥市的工厂生产，在上海市正在建设的工厂将从 2027 年开始正式生产。随着新工厂的投产等，整体产能预计增至目前的 2 倍以上。长江存储生产用于长期存储的 NAND 闪存和以 NAND 为主要零部件的固态硬盘（SSD）。目前长江存储正在湖北省武汉市建设第 3 工厂，力争将原定 2027 年的量产开始时间提前至 2026 年底。该公司还计划追加建设 2 座工厂，有分析认为全部投产之后产能将增至 2 倍以上。",
       "url": "https://www.solidot.org/story?sid=84783",
-      "category": ""
-    },
-    {
-      "title": "Microsoft 365 Copilot 普及率不到 4.5%",
-      "date": "Wed, 08 Jul 2026 09:23:53 GMT",
-      "summary": "微软花了三年时间将 Copilot 深入集成到 Windows 11 和 Office 中，但数据显示用户使用率并不高。在 4.5 亿 Microsoft 365 订阅服务的商业客户中，只有 4.5% 的人付费使用 Copilot，而这些付费用户只有 20% 到 30% 会每周打开 Copilot。这意味着 Copilot 的周活跃用户数仅占 Microsoft 365 总用户数的 1%。Copilot 负责人 Jacob Andreou 在一份内部备忘录中称，Copilot 必须证明自己存在的价值。值得说明的是 Copilot 是指需要额外付费的 AI 服务，而 Copilot Chat 则是 Microsoft 365 用户可免费使用的 AI 服务，它的使用率比较高。",
-      "url": "https://www.solidot.org/story?sid=84782",
       "category": ""
     }
   ],

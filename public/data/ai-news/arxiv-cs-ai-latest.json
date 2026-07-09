@@ -1,62 +1,61 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-07-09T03:55:39.481Z",
+  "fetch_time": "2026-07-09T07:40:48.727Z",
   "articles": [
     {
-      "title": "Prompt-to-Paper: Agentic AI System for Bioinformatics",
-      "date": "Wed, 08 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.05456v1 Announce Type: new Abstract: While recent advances in large language models have enabled end-to-end automated manuscript generation, existing systems suffer from three critical deficiencies: (i) generated claims are not deterministically grounded in verifiable literature, (ii) experimental results are frequently fabricated rather than executed, and (iii) there exists no standardized, multi-dimensional framework to assess whether AI-generated manuscripts meet the quality and ri",
-      "url": "https://arxiv.org/abs/2607.05456",
+      "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
+      "date": "Thu, 09 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.06624v1 Announce Type: new Abstract: We present AgentLens, a production-assessed benchmark for interactive code agents. Most code-agent benchmarks reduce a run to a single bit -- did the task pass? -- but the people who actually use these agents experience the entire trajectory: how the agent follows instructions, uses its tools, verifies its own work, recovers from mistakes, and talks to them along the way. AgentLens evaluates that whole trajectory. It pairs formal verification, wher",
+      "url": "https://arxiv.org/abs/2607.06624",
       "category": [
         "cs.AI",
-        "cs.CL",
-        "q-bio.QM"
+        "cs.LG",
+        "cs.SE"
       ]
     },
     {
-      "title": "From Graphs to Gradients: Physics-Inspired Structural Attribution for Cyber-Physical IoT Systems and Beyond",
-      "date": "Wed, 08 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.05563v1 Announce Type: new Abstract: Interpretable explanation methods in Artificial Intelligence aim to uncover the underlying causes and their effects, enabling a deeper understanding of why a system behaves in a certain way under different inputs. Unlike traditional explainability methods, which mainly highlight correlations between input and output variables, causal explanation focuses on interventional questions. By doing so, it provides more robust insights, helping users unders",
-      "url": "https://arxiv.org/abs/2607.05563",
+      "title": "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning",
+      "date": "Thu, 09 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.06720v1 Announce Type: new Abstract: Training large language models (LLMs) with extended reasoning has enabled in-context search, in which models iteratively generate, critique, and revise solution attempts. We provide a theoretical analysis of in-context search by modeling it as approximate inference over reasoning traces, where the base model defines a prior and self-reflection provides feedback for posterior updates, and study the resulting inference-time sampling complexity - the ",
+      "url": "https://arxiv.org/abs/2607.06720",
+      "category": [
+        "cs.AI",
+        "cs.CL"
+      ]
+    },
+    {
+      "title": "LLM-powered reasoning in agent-based modeling",
+      "date": "Thu, 09 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.06757v1 Announce Type: new Abstract: Agent-based modeling (ABM) has the capability to model millions of individuals and their interactions, which is useful for policy making. However, ABMs have traditionally relied on static prior, which prevents the models from adapting to real-time changes. Our research provides a novel approach to addressing this information gap. Large language models (LLMs) offer new opportunities to predict human decision-making. Here, we introduce a scalable Hyb",
+      "url": "https://arxiv.org/abs/2607.06757",
+      "category": [
+        "cs.AI",
+        "cs.MA"
+      ]
+    },
+    {
+      "title": "QANTIS: Hardware-Calibrated Sequential POMDP Belief Updates on IBM Heron",
+      "date": "Thu, 09 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.06760v1 Announce Type: new Abstract: Autonomous systems under partial observability act on beliefs, not raw sensor events. QANTIS treats the quantum processor as a calibrated belief-update service in that loop: it receives a prior and an observation model, estimates the rare-event evidence term, and returns an ordinary posterior to a classical planner. This paper asks whether that service can be reused across a sequential Tiger POMDP horizon on present IBM Heron hardware without corru",
+      "url": "https://arxiv.org/abs/2607.06760",
+      "category": [
+        "cs.AI",
+        "quant-ph"
+      ]
+    },
+    {
+      "title": "Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1",
+      "date": "Thu, 09 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.06764v1 Announce Type: new Abstract: Recent progress on ARC-AGI-1 from disclosed architectures has come broadly from two regimes: heavy test-time compute over frontier models (evolutionary search, exhaustive sampling, extended chain-of-thought), or benchmark-specific training in which small models are fine-tuned on ARC data, often with task-specialized architectures. We study a third regime: an open-weight model in non-thinking mode (DeepSeek V3.2) under a strict budget, with no ARC-s",
+      "url": "https://arxiv.org/abs/2607.06764",
       "category": "cs.AI"
     },
     {
-      "title": "CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming",
-      "date": "Wed, 08 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.05571v1 Announce Type: new Abstract: Large language models are increasingly explored as AI tutors, yet deploying them in K-12 settings raises concerns around privacy, cost, and reliance on proprietary models. Small language models (SLMs) offer a promising alternative, but selecting the right model for a specific educational context remains difficult, particularly when the target domain, such as block-based programming, is largely absent from model training data. We introduce CSTutorBe",
-      "url": "https://arxiv.org/abs/2607.05571",
-      "category": [
-        "cs.AI",
-        "cs.HC"
-      ]
-    },
-    {
-      "title": "Foundation Models for Automatic CAD Generation",
-      "date": "Wed, 08 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.05573v1 Announce Type: new Abstract: Recent advances in Large Language Models (LLMs) and Vision-Language Models (VLMs) enable the automatic generation of parametric 3D designs from natural-language specifications. This chapter presents an empirical study of foundation models for automatic Computer-Aided Design (CAD) generation of mechanical parts, using a unified evaluation pipeline and a curated benchmark of 97 engineering design problems. We introduce LLMForge, a multi-model text-to",
-      "url": "https://arxiv.org/abs/2607.05573",
-      "category": [
-        "cs.AI",
-        "cs.CE"
-      ]
-    },
-    {
-      "title": "Narrative World Model: Narratology-Grounded Writer Memory for Long-Form Fiction",
-      "date": "Wed, 08 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.05577v1 Announce Type: new Abstract: Long-form fiction writers need memory that answers multi-hop questions about evolving story state: who knows a secret and when they learned it, whether an event preceded the narration that revealed it, whether a setup paid off, and how a relationship shifted. General-purpose retrieval and agent-memory systems represent entities and facts but not the narratological structure these questions turn on, so they surface the wrong evidence or none at all.",
-      "url": "https://arxiv.org/abs/2607.05577",
-      "category": [
-        "cs.AI",
-        "cs.CL",
-        "cs.IR"
-      ]
-    },
-    {
-      "title": "FirstResearch: Auditable Question Formation for LLM Scientific Discovery Agents",
-      "date": "Wed, 08 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.05682v1 Announce Type: new Abstract: LLM systems for scientific discovery increasingly assist with ideation, literature synthesis, experiment planning, and report generation, but the first research question they propose can remain difficult to audit: it may sound plausible without exposing the mechanism, falsifier, or assumption that a scientist should inspect. We introduce FirstResearch, a first-principles research-question formation framework for scientific LLM agents whose core art",
-      "url": "https://arxiv.org/abs/2607.05682",
+      "title": "Evaluating SageMath-Augmented LLM Agents for Computational and Experimental Mathematics",
+      "date": "Thu, 09 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.06820v1 Announce Type: new Abstract: Recent advances in AI for Mathematics have focused largely on autoformalization and theorem proving, leaving the role of Computer Algebra Systems (CAS) in agentic LLM workflows underexplored. We propose a ReAct-style agentic setup that combines LLM reasoning with verifiable feedback from SageMath, together with Context7 for the up-to-date documentation. We evaluate this agentic setup across frontier models for solving research-level mathematical pr",
+      "url": "https://arxiv.org/abs/2607.06820",
       "category": "cs.AI"
     }
   ],
