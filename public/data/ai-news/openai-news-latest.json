@@ -1,13 +1,27 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-07-10T07:33:49.572Z",
+  "fetch_time": "2026-07-10T10:44:56.881Z",
   "articles": [
+    {
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "date": "Fri, 10 Jul 2026 07:00:00 GMT",
+      "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+      "url": "https://openai.com/index/deutsche-telekom",
+      "category": ""
+    },
     {
       "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
       "date": "Thu, 09 Jul 2026 13:00:00 GMT",
       "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
       "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+      "category": "Product"
+    },
+    {
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "date": "Thu, 09 Jul 2026 10:00:00 GMT",
+      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+      "url": "https://openai.com/index/gpt-5-6",
       "category": "Product"
     },
     {
@@ -25,25 +39,11 @@
       "category": "Safety"
     },
     {
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "date": "Thu, 09 Jul 2026 10:00:00 GMT",
-      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-      "url": "https://openai.com/index/gpt-5-6",
-      "category": "Product"
-    },
-    {
       "title": "Our approach to government and national security partnerships",
       "date": "Wed, 08 Jul 2026 13:30:00 GMT",
       "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
       "url": "https://openai.com/index/government-national-security-partnerships",
       "category": "Global Affairs"
-    },
-    {
-      "title": "Separating signal from noise in coding evaluations",
-      "date": "Wed, 08 Jul 2026 13:00:00 GMT",
-      "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-      "category": "Research"
     }
   ],
   "status": "success",
