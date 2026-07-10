@@ -1,8 +1,36 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-07-09T14:20:26.784Z",
+  "fetch_time": "2026-07-10T03:51:51.914Z",
   "articles": [
+    {
+      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+      "date": "Thu, 09 Jul 2026 13:00:00 GMT",
+      "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+      "category": "Product"
+    },
+    {
+      "title": "ChatGPT is now a partner for your most ambitious work",
+      "date": "Thu, 09 Jul 2026 10:00:00 GMT",
+      "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "category": "Product"
+    },
+    {
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "date": "Thu, 09 Jul 2026 10:00:00 GMT",
+      "summary": "Details about the OpenAI Bio Bounty program",
+      "url": "https://openai.com/index/bio-bug-bounty",
+      "category": "Safety"
+    },
+    {
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "date": "Thu, 09 Jul 2026 10:00:00 GMT",
+      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+      "url": "https://openai.com/index/gpt-5-6",
+      "category": "Product"
+    },
     {
       "title": "Our approach to government and national security partnerships",
       "date": "Wed, 08 Jul 2026 13:30:00 GMT",
@@ -16,34 +44,6 @@
       "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
       "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
       "category": "Research"
-    },
-    {
-      "title": "Helping K–12 educators build practical AI skills",
-      "date": "Wed, 08 Jul 2026 10:00:00 GMT",
-      "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
-      "url": "https://openai.com/index/k-12-educators-practical-skills",
-      "category": "Global Affairs"
-    },
-    {
-      "title": "Introducing GPT-Live",
-      "date": "Wed, 08 Jul 2026 00:00:00 GMT",
-      "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
-      "url": "https://openai.com/index/introducing-gpt-live",
-      "category": "Product"
-    },
-    {
-      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-      "date": "Tue, 07 Jul 2026 00:00:00 GMT",
-      "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
-      "url": "https://openai.com/index/australian-payments-plus",
-      "category": ""
-    },
-    {
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "date": "Tue, 07 Jul 2026 00:00:00 GMT",
-      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "url": "https://openai.com/index/mufg",
-      "category": ""
     }
   ],
   "status": "success",
