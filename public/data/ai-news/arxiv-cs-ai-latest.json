@@ -1,62 +1,8 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-07-11T03:18:05.927Z",
-  "articles": [
-    {
-      "title": "Context Graphs for Proactive Enterprise Agents",
-      "date": "Fri, 10 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.07721v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) and agentic frameworks have advanced enterprise AI considerably, yet agents remain fundamentally reactive: they wait for a human query before acting. This paper argues that genuine enterprise productivity gains require proactive agents: systems that surface relevant, actionable information to workers before they ask. We propose the Context Graph, a live relational data structure that models enterprise entities, ",
-      "url": "https://arxiv.org/abs/2607.07721",
-      "category": [
-        "cs.AI",
-        "cs.LG"
-      ]
-    },
-    {
-      "title": "AI-integrated models for assessing agricultural resilience",
-      "date": "Fri, 10 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.07759v1 Announce Type: new Abstract: Agricultural supply chains are vulnerable to disruptions through linked biophysical and economic systems. We develop an AI-powered tool that integrates economic models (GTAP) with biophysical models (APSIM) to analyze supply chain shocks, enabling policymakers and market participants to assess cross-disciplinary impacts through queries and responses written in natural language.",
-      "url": "https://arxiv.org/abs/2607.07759",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Adversarial Social Epistemology for Assemblies of Humans and Large Language Models",
-      "date": "Fri, 10 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.07760v1 Announce Type: new Abstract: We outline an adversarial social epistemology (ASE) for densely interactive communicative landscapes in which public assertions are scaffolded by chains of testimony, inference, institutional certification, and tacit trust. In such landscapes, agents have incentives and affordances to distort, color, omit, fabricate, or strategically under-specify information for private, reputational, rhetorical, or material gains. We argue that these phenomena ar",
-      "url": "https://arxiv.org/abs/2607.07760",
-      "category": [
-        "cs.AI",
-        "cs.SI"
-      ]
-    },
-    {
-      "title": "Aligning Clinical Needs and AI Capabilities: A Survey on LLMs for Medical Reasoning",
-      "date": "Fri, 10 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.07761v1 Announce Type: new Abstract: Large language models (LLMs) have emerged as important tools in healthcare, showing growing potential for clinical reasoning and patient care. This survey examines recent progress in medical LLMs, focusing on reasoning applications and requirements. We present a dual-view approach that connects clinical practice with computational methods. On the clinical side, we establish a five-level competency scheme following Miller's Pyramid, progressing from",
-      "url": "https://arxiv.org/abs/2607.07761",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Alignment Plausibility: A New Standard for Assuring AI in Healthcare",
-      "date": "Fri, 10 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.07766v1 Announce Type: new Abstract: Large language models (LLMs) have become significant providers of mental health support, yet they remain products of an attention economy whose operational and commercial targets favour sustained engagement over the friction that effective psychological support often requires. Developers' safety responses have been largely reactive, addressing the most visible and acute harms while subtler, longer-term patterns of risk (e.g., dependency, boundary e",
-      "url": "https://arxiv.org/abs/2607.07766",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Idiobionics: The Unification of Privacy and Intelligent Robotic Prostheses",
-      "date": "Fri, 10 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.07775v1 Announce Type: new Abstract: The human body is at the center of a growing family of technologies designed to tightly and persistently couple biological and digital systems. Robotic prostheses are a representative example of this tight coupling. Also referred to as bionic limbs, robotic prostheses are devices that support people who have lost limbs in pursuing daily life activities such as walking and grasping objects. Bionic limbs are now perceptive and responsive owing to the",
-      "url": "https://arxiv.org/abs/2607.07775",
-      "category": [
-        "cs.AI",
-        "cs.CR",
-        "cs.HC",
-        "cs.RO"
-      ]
-    }
-  ],
+  "fetch_time": "2026-07-11T06:11:39.561Z",
+  "articles": [],
   "status": "success",
   "error": null
 }
