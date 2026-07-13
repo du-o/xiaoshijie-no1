@@ -1,7 +1,7 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-07-13T10:50:42.013Z",
+  "fetch_time": "2026-07-13T13:52:55.026Z",
   "articles": [
     {
       "title": "How Deutsche Telekom is rewiring telecommunications with AI",
@@ -11,11 +11,25 @@
       "category": ""
     },
     {
+      "title": "Getting started with ChatGPT",
+      "date": "Fri, 10 Jul 2026 00:00:00 GMT",
+      "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+      "url": "https://openai.com/academy/getting-started",
+      "category": "OpenAI Academy"
+    },
+    {
       "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
       "date": "Thu, 09 Jul 2026 13:00:00 GMT",
       "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
       "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
       "category": "Product"
+    },
+    {
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "date": "Thu, 09 Jul 2026 10:00:00 GMT",
+      "summary": "Details about the OpenAI Bio Bounty program",
+      "url": "https://openai.com/index/bio-bug-bounty",
+      "category": "Safety"
     },
     {
       "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
@@ -30,20 +44,6 @@
       "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
       "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
       "category": "Product"
-    },
-    {
-      "title": "GPT-5.5 Bio Bug Bounty",
-      "date": "Thu, 09 Jul 2026 10:00:00 GMT",
-      "summary": "Details about the OpenAI Bio Bounty program",
-      "url": "https://openai.com/index/bio-bug-bounty",
-      "category": "Safety"
-    },
-    {
-      "title": "Our approach to government and national security partnerships",
-      "date": "Wed, 08 Jul 2026 13:30:00 GMT",
-      "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
-      "url": "https://openai.com/index/government-national-security-partnerships",
-      "category": "Global Affairs"
     }
   ],
   "status": "success",

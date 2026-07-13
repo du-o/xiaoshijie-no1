@@ -1,8 +1,15 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-07-13T10:50:45.659Z",
+  "fetch_time": "2026-07-13T13:53:04.645Z",
   "articles": [
+    {
+      "title": "Linus Torvalds 谈 AI 和垃圾补丁",
+      "date": "Mon, 13 Jul 2026 11:48:11 GMT",
+      "summary": "Linus Torvalds 曾说过大模型（LLM）会让程序员的生产力提升十倍。他在 2026 年印度开源峰会上说，这个数字并不科学，是他随口胡扯的。他说如今的希望是 LLM 给程序员带来的生产力提升能超过其造成的生产力损失。他说，大模型生成的垃圾远多于有用代码，而 AI 生成的 bug 报告浪费了维护者大量的时间精力。Torvalds 称大量 LLM 生成的补丁是无意义的创可贴，或许能解决当前问题，但类似 bug 仍然留在那里，随时可能在其他地方再次出现。他称自己会用 LLM 制作原型，LLM 生成的代码并不能直接使用，但是一个尝试新想法的好方法。他认为 LLM 还无法生成修复内核 bug 的补丁。",
+      "url": "https://www.solidot.org/story?sid=84816",
+      "category": ""
+    },
     {
       "title": "中国三北防护林阻止了沙漠扩大，但战斗并未结束",
       "date": "Mon, 13 Jul 2026 10:07:39 GMT",
@@ -36,13 +43,6 @@
       "date": "Mon, 13 Jul 2026 06:38:12 GMT",
       "summary": "公众对社交媒体的态度发生了显著转变。Incogni 调查了美国人对社媒的态度，将调查人群分成婴儿潮（1946-1964）、X 世代（1965-1980）、Y 世代（1981-1996）和 Z 世代（1997-2012）。结果显示：逾半数受访者认同“维护线上形象感觉像工作”，对网红而言维护社交媒体形象是工作，但绝大多数人不会成为网红可能也无意成为网红；六成 Z 世代受访者表示维护社交媒体形象让他们感到痛苦；如果戒掉社交媒体，21% 的受访者人认为会产生正面的感受，产生负面感受的比例为 19%；44% 的受访者认为政治内容正将人们从社交媒体上驱逐出去；逾半数受访者减少了发帖量，且更谨慎选择谁可以看到帖子；逾半数受访者表示出于安全考虑可能会注销账号；近半数受访者表示骚扰或仇恨言论会让他们彻底放弃账号；无限滚动（doomscrolling）被认为会威胁心理健康。",
       "url": "https://www.solidot.org/story?sid=84811",
-      "category": ""
-    },
-    {
-      "title": "Windows 11 设备标识符无法关闭",
-      "date": "Mon, 13 Jul 2026 05:38:26 GMT",
-      "summary": "最近的一起案件显示微软能利用唯一设备标识符跟踪用户。该标识符被称为 Global Device Identifier（GDID），它关联用户使用的微软账号（Microsoft Account）。当用户使用微软账号登陆 Windows 时，微软会读取 Device PUID（Passport Unique ID，位于注册表 HKCU\\SOFTWARE\\Microsoft\\IdentityCRL\\ExtendedProperties 下），然后分配一个唯一永久 ID，该 ID 号储存在本地，多个后台服务会读取该 ID 号，并添加到操作系统向微软报告的所有活动中。重新安装 Windows 后，用户会分配到一个新的 ID 号，新旧 ID 号很容易与同一个账号关联起来。",
-      "url": "https://www.solidot.org/story?sid=84810",
       "category": ""
     }
   ],
