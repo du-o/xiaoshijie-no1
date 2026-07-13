@@ -1,8 +1,15 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-07-13T03:32:48.933Z",
+  "fetch_time": "2026-07-13T06:52:02.119Z",
   "articles": [
+    {
+      "title": "Windows 11 设备标识符无法关闭",
+      "date": "Mon, 13 Jul 2026 05:38:26 GMT",
+      "summary": "最近的一起案件显示微软能利用唯一设备标识符跟踪用户。该标识符被称为 Global Device Identifier（GDID），它关联用户使用的微软账号（Microsoft Account）。当用户使用微软账号登陆 Windows 时，微软会读取 Device PUID（Passport Unique ID，位于注册表 HKCU\\SOFTWARE\\Microsoft\\IdentityCRL\\ExtendedProperties 下），然后分配一个唯一永久 ID，该 ID 号储存在本地，多个后台服务会读取该 ID 号，并添加到操作系统向微软报告的所有活动中。重新安装 Windows 后，用户会分配到一个新的 ID 号，新旧 ID 号很容易与同一个账号关联起来。",
+      "url": "https://www.solidot.org/story?sid=84810",
+      "category": ""
+    },
     {
       "title": "GLP-1 减肥药并不能取代锻炼",
       "date": "Sun, 12 Jul 2026 16:00:05 GMT",
@@ -36,13 +43,6 @@
       "date": "Sat, 11 Jul 2026 16:16:25 GMT",
       "summary": "苹果起诉 OpenAI，指控该公司窃取其商业机密。这起诉讼的两位核心人物是 OpenAI 首席硬件官 Tang Tan 以及前苹果工程师 Chang Liu。苹果指控称，Tang Tan 会指导跳槽到 OpenAI 的苹果前员工如何规避苹果针对离职员工的安全流程。而 Chang Liu 被控秘密访问并下载了数十份苹果的机密硬件相关文件，其中包括大量关于未发布产品的详细信息、工程演示文稿、技术规格和私有项目数据。Liu 被控没有归还苹果配发的笔记本电脑，他还访问和使用了前同事的笔记本电脑，利用认证漏洞访问了苹果的共享网络文件夹。在发现漏洞之后，Liu 在前同事的笔记本电脑上留言说“LOL”。",
       "url": "https://www.solidot.org/story?sid=84805",
-      "category": ""
-    },
-    {
-      "title": "日本成功测试可回收火箭技术",
-      "date": "Sat, 11 Jul 2026 14:41:00 GMT",
-      "summary": "日本宇航研究开发机构(JAXA) 7 月 11 日宣布，成功测试了一枚可回收火箭 RV-X。本次测试总共持续了约 40 秒，火箭上升至约 11 米的高度，期间完成了升空、悬停、水平移动、直立着陆共 4 个动作。目前旨在大幅降低航天任务成本的可回收火箭是许多国家的研发重点。RV-X 计划将取代不可回收的 H-3 火箭。下一步 JAXA 还将测试 RV-X 的升空一百米回收测试。法国、德国也参与到了日本的可回收火箭合作研发项目中。作为日本的战略竞争对手，中国在可回收火箭研发方面的进展要快得多。",
-      "url": "https://www.solidot.org/story?sid=84804",
       "category": ""
     }
   ],
