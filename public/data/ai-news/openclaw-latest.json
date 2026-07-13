@@ -1,37 +1,47 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-07-12T12:45:25.655Z",
+  "fetch_time": "2026-07-13T03:33:00.056Z",
   "articles": [
+    {
+      "title": "openclaw 2026.7.1-beta.6",
+      "date": "2026-07-13T01:38:43Z",
+      "summary": "## 2026.7.1\n\n### Highlights\n\n- **New models and providers:** add Featherless, Claude Sonnet 5 and Mythos 5, Meta Muse Spark 1.1, and ClawRouter; make GPT-5.6 the new-setup default with `/think ultra` ...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.1-beta.6",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.7.1-beta.6",
+      "downloadCount": 24
+    },
     {
       "title": "OpenClaw 2026.7.1-beta.5",
       "date": "2026-07-11T10:36:02Z",
-      "summary": "## 2026.7.1\n\n### Highlights\n\n- **Conversational onboarding:** Crestodian now runs a real agent-loop setup across the CLI, web install, and macOS app, with AI-guided provider setup, model-judged approv...",
+      "summary": "## 2026.7.1\n\n### Highlights\n\n- **New models and providers:** add Featherless, Claude Sonnet 5 and Mythos 5, Meta Muse Spark 1.1, and ClawRouter; make GPT-5.6 the new-setup default with `/think ultra` ...",
       "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.1-beta.5",
       "category": "Release",
       "author": "vincentkoc",
       "tagName": "v2026.7.1-beta.5",
-      "downloadCount": 93
+      "downloadCount": 123
     },
     {
       "title": "openclaw 2026.7.1-beta.2",
       "date": "2026-07-05T09:10:09Z",
-      "summary": "\n### Highlights\n\n- **OpenAI GPT-5.6 support:** OpenClaw now recognizes the GPT-5.6 model family across catalog, capability, and runtime selection paths. (#98333) Thanks @steipete-oai.\n- **External har...",
+      "summary": "## 2026.7.1\n\n### Highlights\n\n- **New models and providers:** add Featherless, Claude Sonnet 5 and Mythos 5, Meta Muse Spark 1.1, and ClawRouter; make GPT-5.6 the new-setup default with `/think ultra` ...",
       "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.1-beta.2",
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.7.1-beta.2",
-      "downloadCount": 503
+      "downloadCount": 506
     },
     {
       "title": "openclaw 2026.7.1-beta.1",
       "date": "2026-07-02T07:25:49Z",
-      "summary": "\n### Highlights\n\n- **OpenAI GPT-5.6 support:** OpenClaw now recognizes the GPT-5.6 model family across catalog, capability, and runtime selection paths. (#98333) Thanks @steipete-oai.\n- **External har...",
+      "summary": "## 2026.7.1\n\n### Highlights\n\n- **New models and providers:** add Featherless, Claude Sonnet 5 and Mythos 5, Meta Muse Spark 1.1, and ClawRouter; make GPT-5.6 the new-setup default with `/think ultra` ...",
       "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.1-beta.1",
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.7.1-beta.1",
-      "downloadCount": 382
+      "downloadCount": 383
     },
     {
       "title": "openclaw 2026.6.11",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.6.11",
-      "downloadCount": 67851
+      "downloadCount": 70000
     },
     {
       "title": "openclaw 2026.6.11-beta.2",
@@ -52,16 +62,6 @@
       "author": "github-actions[bot]",
       "tagName": "v2026.6.11-beta.2",
       "downloadCount": 202
-    },
-    {
-      "title": "openclaw 2026.6.11-beta.1",
-      "date": "2026-06-24T23:37:32Z",
-      "summary": "## 2026.6.11\n\n### Highlights\n\n- **More capable channel control:** Slack relay mode, native Mattermost `/oc_queue`, and per-DM model overrides make channel operations easier to automate and tune. (#947...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.11-beta.1",
-      "category": "Release",
-      "author": "vincentkoc",
-      "tagName": "v2026.6.11-beta.1",
-      "downloadCount": 0
     }
   ],
   "status": "success",
