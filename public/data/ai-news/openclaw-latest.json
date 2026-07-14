@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-07-13T13:53:26.170Z",
+  "fetch_time": "2026-07-14T02:54:25.977Z",
   "articles": [
+    {
+      "title": "openclaw 2026.7.1",
+      "date": "2026-07-13T22:33:14Z",
+      "summary": "## 2026.7.1\n\n### Highlights\n\n- **New models and providers:** add Featherless, Claude Sonnet 5 and Mythos 5, Meta Muse Spark 1.1, and ClawRouter; make GPT-5.6 the new-setup default with `/think ultra` ...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.1",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.7.1",
+      "downloadCount": 679
+    },
     {
       "title": "openclaw 2026.7.1-beta.6",
       "date": "2026-07-13T01:38:43Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.7.1-beta.6",
-      "downloadCount": 109
+      "downloadCount": 149
     },
     {
       "title": "OpenClaw 2026.7.1-beta.5",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "vincentkoc",
       "tagName": "v2026.7.1-beta.5",
-      "downloadCount": 124
+      "downloadCount": 132
     },
     {
       "title": "openclaw 2026.7.1-beta.2",
@@ -51,17 +61,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.6.11",
-      "downloadCount": 71986
-    },
-    {
-      "title": "openclaw 2026.6.11-beta.2",
-      "date": "2026-06-28T23:19:35Z",
-      "summary": "## 2026.6.11\n\n### Highlights\n\n- **More capable channel control:** Slack relay mode, native Mattermost `/oc_queue`, and per-DM model overrides make channel operations easier to automate and tune. (#947...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.11-beta.2",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.6.11-beta.2",
-      "downloadCount": 203
+      "downloadCount": 73601
     }
   ],
   "status": "success",
