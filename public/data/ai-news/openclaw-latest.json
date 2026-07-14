@@ -1,69 +1,8 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-07-14T02:54:25.977Z",
-  "articles": [
-    {
-      "title": "openclaw 2026.7.1",
-      "date": "2026-07-13T22:33:14Z",
-      "summary": "## 2026.7.1\n\n### Highlights\n\n- **New models and providers:** add Featherless, Claude Sonnet 5 and Mythos 5, Meta Muse Spark 1.1, and ClawRouter; make GPT-5.6 the new-setup default with `/think ultra` ...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.1",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.7.1",
-      "downloadCount": 679
-    },
-    {
-      "title": "openclaw 2026.7.1-beta.6",
-      "date": "2026-07-13T01:38:43Z",
-      "summary": "## 2026.7.1\n\n### Highlights\n\n- **New models and providers:** add Featherless, Claude Sonnet 5 and Mythos 5, Meta Muse Spark 1.1, and ClawRouter; make GPT-5.6 the new-setup default with `/think ultra` ...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.1-beta.6",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.7.1-beta.6",
-      "downloadCount": 149
-    },
-    {
-      "title": "OpenClaw 2026.7.1-beta.5",
-      "date": "2026-07-11T10:36:02Z",
-      "summary": "## 2026.7.1\n\n### Highlights\n\n- **New models and providers:** add Featherless, Claude Sonnet 5 and Mythos 5, Meta Muse Spark 1.1, and ClawRouter; make GPT-5.6 the new-setup default with `/think ultra` ...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.1-beta.5",
-      "category": "Release",
-      "author": "vincentkoc",
-      "tagName": "v2026.7.1-beta.5",
-      "downloadCount": 132
-    },
-    {
-      "title": "openclaw 2026.7.1-beta.2",
-      "date": "2026-07-05T09:10:09Z",
-      "summary": "## 2026.7.1\n\n### Highlights\n\n- **New models and providers:** add Featherless, Claude Sonnet 5 and Mythos 5, Meta Muse Spark 1.1, and ClawRouter; make GPT-5.6 the new-setup default with `/think ultra` ...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.1-beta.2",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.7.1-beta.2",
-      "downloadCount": 507
-    },
-    {
-      "title": "openclaw 2026.7.1-beta.1",
-      "date": "2026-07-02T07:25:49Z",
-      "summary": "## 2026.7.1\n\n### Highlights\n\n- **New models and providers:** add Featherless, Claude Sonnet 5 and Mythos 5, Meta Muse Spark 1.1, and ClawRouter; make GPT-5.6 the new-setup default with `/think ultra` ...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.1-beta.1",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.7.1-beta.1",
-      "downloadCount": 386
-    },
-    {
-      "title": "openclaw 2026.6.11",
-      "date": "2026-06-30T16:06:39Z",
-      "summary": "We heard the feedback. v2026.6.11 focuses on the rough edges that make OpenClaw feel less dependable, with fixes for misplaced replies, stuck sends, reconnects, model setup failures, and safer admin d...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.11",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.6.11",
-      "downloadCount": 73601
-    }
-  ],
-  "status": "success",
-  "error": null
+  "fetch_time": "2026-07-14T06:09:40.065Z",
+  "articles": [],
+  "status": "error",
+  "error": "GitHub API 请求失败: 403"
 }
