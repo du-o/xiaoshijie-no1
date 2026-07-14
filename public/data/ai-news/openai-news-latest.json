@@ -1,8 +1,22 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-07-14T09:47:42.502Z",
+  "fetch_time": "2026-07-14T12:57:34.906Z",
   "articles": [
+    {
+      "title": "How data science teams use ChatGPT Work",
+      "date": "Tue, 14 Jul 2026 00:00:00 GMT",
+      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "category": "OpenAI Academy"
+    },
+    {
+      "title": "How sales teams use ChatGPT Work",
+      "date": "Tue, 14 Jul 2026 00:00:00 GMT",
+      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "category": "OpenAI Academy"
+    },
     {
       "title": "How Deutsche Telekom is rewiring telecommunications with AI",
       "date": "Fri, 10 Jul 2026 07:00:00 GMT",
@@ -25,24 +39,10 @@
       "category": "Product"
     },
     {
-      "title": "GPT-5.5 Bio Bug Bounty",
-      "date": "Thu, 09 Jul 2026 10:00:00 GMT",
-      "summary": "Details about the OpenAI Bio Bounty program",
-      "url": "https://openai.com/index/bio-bug-bounty",
-      "category": "Safety"
-    },
-    {
       "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
       "date": "Thu, 09 Jul 2026 10:00:00 GMT",
       "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
       "url": "https://openai.com/index/gpt-5-6",
-      "category": "Product"
-    },
-    {
-      "title": "ChatGPT is now a partner for your most ambitious work",
-      "date": "Thu, 09 Jul 2026 10:00:00 GMT",
-      "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
       "category": "Product"
     }
   ],
