@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-07-14T12:57:34.906Z",
+  "fetch_time": "2026-07-15T02:53:02.764Z",
   "articles": [
+    {
+      "title": "How to manage AI investments in the agentic era",
+      "date": "Tue, 14 Jul 2026 10:00:00 GMT",
+      "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "category": "AI Adoption"
+    },
     {
       "title": "How data science teams use ChatGPT Work",
       "date": "Tue, 14 Jul 2026 00:00:00 GMT",
@@ -36,13 +43,6 @@
       "date": "Thu, 09 Jul 2026 13:00:00 GMT",
       "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
       "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-      "category": "Product"
-    },
-    {
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "date": "Thu, 09 Jul 2026 10:00:00 GMT",
-      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-      "url": "https://openai.com/index/gpt-5-6",
       "category": "Product"
     }
   ],
