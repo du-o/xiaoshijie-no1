@@ -1,61 +1,62 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-07-16T03:14:20.888Z",
+  "fetch_time": "2026-07-16T06:16:15.672Z",
   "articles": [
     {
-      "title": "Optimal Adaptive Market Making: A Theoretical Framework for High-Yield Liquidity Provision in Perpetual Futures Markets",
-      "date": "Wed, 15 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.11888v1 Announce Type: new Abstract: We develop a rigorous theoretical framework for optimal market making in perpetual futures markets with zero maker fees. We model the market maker's problem as a stochastic optimal control problem on a filtered probability space, where the controls are adaptive bid-ask spreads and inventory hedging decisions across two exchanges. Our contributions include: (i) a PnL decomposition theorem separating revenue into spread income, adverse selection loss",
-      "url": "https://arxiv.org/abs/2607.11888",
+      "title": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
+      "date": "Thu, 16 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.13037v1 Announce Type: new Abstract: When a data contributor requests removal, model trainers face a practical gap: unlearning algorithms require a forget set, yet no tool can locate which training records belong to a given author. Existing provenance systems operate at file or dataset level, forcing catastrophic over-deletion. We present ob, a record- and token-level data provenance system that propagates author identity through data processing pipelines and resolves revocation reque",
+      "url": "https://arxiv.org/abs/2607.13037",
       "category": "cs.AI"
     },
     {
-      "title": "In-Context Reinforcement Learning under Non-Stationarity: A Survey",
-      "date": "Wed, 15 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.11906v1 Announce Type: new Abstract: The development of decision-pretrained transformers, algorithm distillation, long-context meta-RL, and retrieval-augmented agents has renewed interest in in-context reinforcement learning (ICRL): the ability of a pretrained or fine-tuned decision model to infer latent task rules and improve future behavior from interaction context, without test-time parameter updates. This line of work asks when trial-and-error evidence, rewards, transitions, demon",
-      "url": "https://arxiv.org/abs/2607.11906",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Ontology-Amplified Distillation and Contextuality Auditing for Sovereign Enterprise Language Models: A Combined Proof-of-Mechanism and Negative-Results Method Study",
-      "date": "Wed, 15 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.11948v1 Announce Type: new Abstract: Regulated financial institutions operating under data-residency rules need tenant-owned language models that can run inside the institution's perimeter. This paper combines two related FAOS studies into one mechanism-and-control article. First, it reports a reduced-power proof-of-mechanism study of ontology-amplified distillation: a Qwen3.6-27B student is adapted to the Foundation AgenticOS ontology through supervised fine-tuning on frontier-teache",
-      "url": "https://arxiv.org/abs/2607.11948",
+      "title": "SPINE: Bridging the Cyber-Physical Gap with Agentic AI",
+      "date": "Thu, 16 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.13049v1 Announce Type: new Abstract: Foundation models have given robots a sophisticated brain for complex decision-making, yet deploying that intelligence into a physical platform still demands tedious, expert-driven calibration. This deployment gap, the robot's spinal cord, remains a primary bottleneck to scalable Embodied AI. Hence, we propose SPINE (Scalable Physical Integration with ageNtic Expertise): an agentic framework for systematically debugging and deploying bimanual robot",
+      "url": "https://arxiv.org/abs/2607.13049",
       "category": [
         "cs.AI",
-        "cs.CL",
-        "cs.LG",
-        "cs.MA"
+        "cs.RO"
       ]
     },
     {
-      "title": "GRID: Grammar-Railed Decoding for Enterprise SQL Generation",
-      "date": "Wed, 15 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.11951v1 Announce Type: new Abstract: Large language models can write SQL, but enterprise deployment demands more than plausible text: outputs must be syntactically valid, must respect per-role and per-schema policy, must carry provable (not best-effort) guarantees, must not slow down as generations grow, and must leave a compliance-grade record of every decision. We present GRID (Grammar-Railed Decoding), a grammar-constrained decoding engine that keys exact next-token masks on parser",
-      "url": "https://arxiv.org/abs/2607.11951",
+      "title": "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution",
+      "date": "Thu, 16 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.13069v1 Announce Type: new Abstract: Large language models produce chain-of-thought (CoT) reasoning that appears logically sound yet may not genuinely depend on its stated premises. We introduce interventional grounding audits, a black-box, step-level test of premise dependency: we intervene on a single premise by substituting its target predicate with a fresh symbol, re-run the model, and check whether each reasoning step's normalized conclusion (canonical predicate form) changes. We",
+      "url": "https://arxiv.org/abs/2607.13069",
       "category": [
         "cs.AI",
         "cs.CL",
-        "cs.FL",
-        "cs.PL"
+        "cs.LO"
       ]
     },
     {
-      "title": "Calibration-First Reward-Component Auditing for Reinforcement Learning Control in Smart Greenhouses",
-      "date": "Wed, 15 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.11959v1 Announce Type: new Abstract: Greenhouse reinforcement learning can test climate-control ideas at a speed and scale that is difficult to achieve with crop experiments alone. For smart-greenhouse control, however, a single simulator return is not enough: a grower or control engineer also needs to know when the policy heats, enriches CO2, vents, manages humidity, deploys screens, or uses lamps.We propose a reproducible calibration-first reward audit framework that keeps named gre",
-      "url": "https://arxiv.org/abs/2607.11959",
+      "title": "Probabilistic Extension of Neuro-Symbolic AGI Robots based on Belnap's Typed Intensional FOL",
+      "date": "Thu, 16 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.13073v1 Announce Type: new Abstract: Neuro-symbolic AI based on $IFOL_B$ is a way to combine neural learning and symbolic reasoning to overcome limitations of purely neural systems (like lack of interpretability and logical structure) with formal logical machinery for self-reference. In this paper we expand the cognitive power of $IFOL_B$ by using the probability computation for the currently unknown sentences, based on Nilsson's probability structure for the $IFOL_B$. We introduce th",
+      "url": "https://arxiv.org/abs/2607.13073",
       "category": "cs.AI"
     },
     {
-      "title": "Optimization Is Not All You Need",
-      "date": "Wed, 15 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.11977v1 Announce Type: new Abstract: In 2019, OpenAI released two million GPT-2 outputs-ungrammatical, half broken-to aid the detection of machine-generated text. The alignment that produced their more fluent successors is usually regarded as an engineering achievement; we read it instead as the newest expression of optimization culture: the conviction, older than the technology, that measurable improvement along predefined axes exhausts the question of value. Tracing that conviction ",
-      "url": "https://arxiv.org/abs/2607.11977",
+      "title": "Self-Improvements in Modern Agentic Systems: A Survey",
+      "date": "Thu, 16 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.13104v1 Announce Type: new Abstract: Self-improving autonomous agents are moving from research prototypes to deployed systems. The primary goal is controllable evolution, or adaptation, from experience with minimal or even no human input. This survey frames modern self-improving agents as adaptive systems that convert experience into accumulated capability gains. We offer a system-level framework that represents a modern agent as a configuration coupling a foundation model with an ope",
+      "url": "https://arxiv.org/abs/2607.13104",
       "category": [
         "cs.AI",
-        "cs.CL"
+        "cs.CL",
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "Improving Molecular Property Prediction in Small Language Models Using Graph-based Tools",
+      "date": "Thu, 16 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.13115v1 Announce Type: new Abstract: Small language models (SLMs) have shown promise for zero-shot molecular property prediction from SMILES strings, yet they often suffer from structural blindness because sequence representations under-specify key graph-topological cues. We propose a modular Context-Augmented Prompting framework that enables agentic tool use at inference time: a trained GNN expert model provides a predictive hint with confidence, and a GNN extracts an instance-specif",
+      "url": "https://arxiv.org/abs/2607.13115",
+      "category": [
+        "cs.AI",
+        "cs.LG"
       ]
     }
   ],
