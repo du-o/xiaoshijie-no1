@@ -1,21 +1,28 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-07-15T13:01:13.797Z",
+  "fetch_time": "2026-07-16T03:14:20.736Z",
   "articles": [
+    {
+      "title": "The US is advancing AI safety through state and federal action",
+      "date": "Wed, 15 Jul 2026 12:00:00 GMT",
+      "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "category": "Global Affairs"
+    },
+    {
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "date": "Wed, 15 Jul 2026 10:00:00 GMT",
+      "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "category": "Safety"
+    },
     {
       "title": "How to manage AI investments in the agentic era",
       "date": "Tue, 14 Jul 2026 10:00:00 GMT",
       "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
       "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
       "category": "AI Adoption"
-    },
-    {
-      "title": "How data science teams use ChatGPT Work",
-      "date": "Tue, 14 Jul 2026 00:00:00 GMT",
-      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "category": "OpenAI Academy"
     },
     {
       "title": "How sales teams use ChatGPT Work",
@@ -25,25 +32,18 @@
       "category": "OpenAI Academy"
     },
     {
+      "title": "How data science teams use ChatGPT Work",
+      "date": "Tue, 14 Jul 2026 00:00:00 GMT",
+      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "category": "OpenAI Academy"
+    },
+    {
       "title": "How Deutsche Telekom is rewiring telecommunications with AI",
       "date": "Fri, 10 Jul 2026 07:00:00 GMT",
       "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
       "url": "https://openai.com/index/deutsche-telekom",
       "category": ""
-    },
-    {
-      "title": "Getting started with ChatGPT",
-      "date": "Fri, 10 Jul 2026 00:00:00 GMT",
-      "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
-      "url": "https://openai.com/academy/getting-started",
-      "category": "OpenAI Academy"
-    },
-    {
-      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-      "date": "Thu, 09 Jul 2026 13:00:00 GMT",
-      "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
-      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-      "category": "Product"
     }
   ],
   "status": "success",
