@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-07-17T06:13:53.249Z",
+  "fetch_time": "2026-07-17T09:48:29.212Z",
   "articles": [
+    {
+      "title": "openclaw 2026.7.2-beta.2",
+      "date": "2026-07-17T08:38:04Z",
+      "summary": "## 2026.7.2\n\n### Highlights\n\n- **Remote coding sessions:** run Control UI sessions on cloud workers, open Codex and Claude catalog sessions in terminals on their owning hosts, and resume OpenCode and ...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.2-beta.2",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.7.2-beta.2",
+      "downloadCount": 12
+    },
     {
       "title": "openclaw 2026.7.2-beta.1",
       "date": "2026-07-15T18:48:24Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.7.2-beta.1",
-      "downloadCount": 176
+      "downloadCount": 197
     },
     {
       "title": "openclaw 2026.7.1",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.7.1",
-      "downloadCount": 28938
+      "downloadCount": 30333
     },
     {
       "title": "openclaw 2026.7.1-beta.6",
@@ -52,16 +62,6 @@
       "author": "github-actions[bot]",
       "tagName": "v2026.7.1-beta.2",
       "downloadCount": 509
-    },
-    {
-      "title": "openclaw 2026.7.1-beta.1",
-      "date": "2026-07-02T07:25:49Z",
-      "summary": "## 2026.7.1\n\n### Highlights\n\n- **New models and providers:** add Featherless, Claude Sonnet 5 and Mythos 5, Meta Muse Spark 1.1, and ClawRouter; make GPT-5.6 the new-setup default with `/think ultra` ...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.1-beta.1",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.7.1-beta.1",
-      "downloadCount": 387
     }
   ],
   "status": "success",
