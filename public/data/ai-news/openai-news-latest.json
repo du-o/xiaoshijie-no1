@@ -1,8 +1,22 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-07-16T13:08:59.929Z",
+  "fetch_time": "2026-07-17T03:17:18.505Z",
   "articles": [
+    {
+      "title": "Why teens deserve access to safe AI",
+      "date": "Thu, 16 Jul 2026 16:00:00 GMT",
+      "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "category": "Safety"
+    },
+    {
+      "title": "How Cars24 scales conversations and builds faster with OpenAI",
+      "date": "Thu, 16 Jul 2026 00:00:00 GMT",
+      "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+      "url": "https://openai.com/index/cars24",
+      "category": ""
+    },
     {
       "title": "The US is advancing AI safety through state and federal action",
       "date": "Wed, 15 Jul 2026 12:00:00 GMT",
@@ -30,20 +44,6 @@
       "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
       "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
       "category": "OpenAI Academy"
-    },
-    {
-      "title": "How data science teams use ChatGPT Work",
-      "date": "Tue, 14 Jul 2026 00:00:00 GMT",
-      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "category": "OpenAI Academy"
-    },
-    {
-      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-      "date": "Fri, 10 Jul 2026 07:00:00 GMT",
-      "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
-      "url": "https://openai.com/index/deutsche-telekom",
-      "category": ""
     }
   ],
   "status": "success",
