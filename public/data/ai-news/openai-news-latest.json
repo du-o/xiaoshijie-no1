@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-07-17T12:53:59.047Z",
+  "fetch_time": "2026-07-18T02:54:32.901Z",
   "articles": [
+    {
+      "title": "A scorecard for the AI age",
+      "date": "Fri, 17 Jul 2026 10:00:00 GMT",
+      "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "category": "Company"
+    },
     {
       "title": "Why teens deserve access to safe AI",
       "date": "Thu, 16 Jul 2026 16:00:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
       "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
       "category": "AI Adoption"
-    },
-    {
-      "title": "How sales teams use ChatGPT Work",
-      "date": "Tue, 14 Jul 2026 00:00:00 GMT",
-      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "category": "OpenAI Academy"
     }
   ],
   "status": "success",
