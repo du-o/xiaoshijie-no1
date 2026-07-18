@@ -1,39 +1,39 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-07-18T02:54:33.077Z",
+  "fetch_time": "2026-07-18T06:03:27.269Z",
   "articles": [
     {
       "title": "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue",
-      "date": "Fri, 17 Jul 2026 04:00:00 GMT",
+      "date": "Sat, 18 Jul 2026 04:00:00 GMT",
       "summary": "arXiv:2607.14093v1 Announce Type: new Abstract: This paper presents a novel three level hierarchical learning architecture for autonomous UAV swarms performing search and rescue operations. Unlike conventional approaches that apply a single learning paradigm across all hierarchy levels, the proposed architecture integrates three qualitatively different learning mechanisms corresponding to the biological hierarchy of reflexes, skills, and reasoning such as Hebbian neuroplasticity for individual a",
       "url": "https://arxiv.org/abs/2607.14093",
       "category": "cs.AI"
     },
     {
       "title": "HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge Graphs",
-      "date": "Fri, 17 Jul 2026 04:00:00 GMT",
+      "date": "Sat, 18 Jul 2026 04:00:00 GMT",
       "summary": "arXiv:2607.14095v1 Announce Type: new Abstract: Retrieval Augmented Generation (RAG) has proven to be a widely successful process at improving the quality of outputs from a Large Language Model (LLM) for wider context. However, RAG systems typically retrieve context from flat document stores, which struggles when queries require hierarchical or relational reasoning across structured knowledge. I present HG-RAG (Hierarchy-Guided RAG), a framework that performs graph-traversal over a hierarchical ",
       "url": "https://arxiv.org/abs/2607.14095",
       "category": "cs.AI"
     },
     {
       "title": "IMEX Interaction-Based Model Explanation",
-      "date": "Fri, 17 Jul 2026 04:00:00 GMT",
+      "date": "Sat, 18 Jul 2026 04:00:00 GMT",
       "summary": "arXiv:2607.14096v1 Announce Type: new Abstract: In predictive modeling, the ability to explain why a model produces a given target prediction has become increasingly important [5, 10]. Black-box models do not provide a transparent description of the internal mechanisms that generate the prediction, making even accurate predictions difficult to interpret and validate. In critical contexts, predictive accuracy alone is not a sufficient validation metric if the reasons underlying model decisions re",
       "url": "https://arxiv.org/abs/2607.14096",
       "category": "cs.AI"
     },
     {
       "title": "RegNetAgents: A Multi-Agent Framework for Cross-Network Regulatory Driver Identification in Cancer Genomics",
-      "date": "Fri, 17 Jul 2026 04:00:00 GMT",
+      "date": "Sat, 18 Jul 2026 04:00:00 GMT",
       "summary": "arXiv:2607.14097v1 Announce Type: new Abstract: We introduce RegNetAgents, an AI-oriented multi-agent framework for structured, query-driven regulatory candidate identification across heterogeneous gene regulatory networks. The system enables unified analysis of bulk tumor and single-cell-derived ARACNe networks by integrating TCGA-derived cancer networks with large-scale single-cell regulatory networks from the GREmLN project. For a given focal gene, the framework performs dual-network classifi",
       "url": "https://arxiv.org/abs/2607.14097",
       "category": "cs.AI"
     },
     {
       "title": "DialogueVPR: Towards Conversational Visual Place Recognition",
-      "date": "Fri, 17 Jul 2026 04:00:00 GMT",
+      "date": "Sat, 18 Jul 2026 04:00:00 GMT",
       "summary": "arXiv:2607.14115v1 Announce Type: new Abstract: Inspired by how humans communicate spatial information, language-guided geo-localization has gained significant traction for its intuitive and practical value. Despite this progress, most methods still rely on a static, one-shot retrieval paradigm, which fails to handle the ambiguity and incompleteness inherent in real-world natural language descriptions. We propose a paradigm shift to reasoning retrieval and introduce Dialogue Place Recognition (D",
       "url": "https://arxiv.org/abs/2607.14115",
       "category": [
@@ -44,7 +44,7 @@
     },
     {
       "title": "Interpretable Language Model for Closed-Loop Type 1 Diabetes Control",
-      "date": "Fri, 17 Jul 2026 04:00:00 GMT",
+      "date": "Sat, 18 Jul 2026 04:00:00 GMT",
       "summary": "arXiv:2607.14126v1 Announce Type: new Abstract: Type 1 Diabetes (T1D) is a chronic, life-threatening autoimmune condition characterized by the complete destruction of insulin-producing pancreatic beta cells. While Artificial Pancreas Systems (APS) powered by Reinforcement Learning (RL) have shown promise in automating insulin delivery, their ``black-box'' nature makes it hard for patients and doctors to trust them fully. This paper presents LLM-T1D, a promising approach that combines the precisi",
       "url": "https://arxiv.org/abs/2607.14126",
       "category": [
