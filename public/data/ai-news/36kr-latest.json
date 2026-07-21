@@ -1,7 +1,7 @@
 {
   "source": "36氪",
   "source_url": "https://www.36kr.com/feed",
-  "fetch_time": "2026-07-21T03:20:02.787Z",
+  "fetch_time": "2026-07-21T06:27:28.026Z",
   "articles": [
     {
       "title": "科创50涨超6%，芯片股领涨",
@@ -46,6 +46,6 @@
       "category": ""
     }
   ],
-  "status": "success",
-  "error": null
+  "status": "error",
+  "error": "Request timeout"
 }

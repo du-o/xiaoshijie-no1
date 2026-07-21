@@ -1,103 +1,74 @@
 {
-  "fetch_time": "2026-07-21T03:20:04.126Z",
-  "total_count": 36,
+  "fetch_time": "2026-07-21T06:27:58.224Z",
+  "total_count": 24,
   "sources_count": 6,
-  "errors": null,
+  "errors": [
+    "36kr: Request timeout",
+    "solidot: Request timeout"
+  ],
   "articles": [
     {
-      "title": "科创50涨超6%，芯片股领涨",
-      "date": "Tue, 21 Jul 2026 03:07:19 GMT",
-      "summary": "36氪获悉，科创50指数拉升涨超6%，华虹宏力、强一股份、臻宝科技、中科飞测、中微公司等芯片股涨幅居前。",
-      "url": "https://36kr.com/newsflashes/3904819027036041?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
+      "title": "Rater State Bias in RLHF Preference Data: An Audit Framework",
+      "date": "Tue, 21 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.16195v1 Announce Type: new Abstract: We identify a structured confound in Reinforcement Learning from Human Feedback (RLHF). Pairwise preference labels are intended to reflect the compared outputs, but they may also reflect the rater's state during annotation. Under sustained stressful or distressing conditions, raters' preferences may shift over time. As a result, preference data can encode rater state alongside judgments about response quality. These shifts differ from ordinary disa",
+      "url": "https://arxiv.org/abs/2607.16195",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
     },
     {
-      "title": "欧林生物：重庆啤酒的痛，市场还没忘记",
-      "date": "Tue, 21 Jul 2026 03:05:20 GMT",
-      "summary": "作者&nbsp;|&nbsp;黄绎达 编辑&nbsp;|&nbsp;张帆 欧林生物是国内疫苗领域的龙头企业，依托极具稀缺性的超级细菌创新疫苗管线与稳健发展的破伤风疫苗，其A股股价自2024年开启了一轮强势上涨行情，区间最大涨幅超过500%。火热市场行情之下，公司于6月30日向港交所递交更新招股书，重启赴港上市计划，希望凭借创新疫苗管线的好预期与稀缺性，争取要到更高的估值。 而且，为了能够顺利登陆港股市场，针对历史税务事项完成合规整改、扫除港股IPO进程中的合规障碍，公司在近期已经补缴了之前公告列出的税款及滞纳金，合计约8741万元，大约是公司2025年归母净利润的4倍。 7月11日，欧林生物核心管线金葡菌疫苗三期临床数据揭盲，保护率大超设计标准，且安全性良好，距离商业化仅一步之遥。然而，市场尚未消化上述利好，关于该疫苗临床数据造假的传闻却甚嚣尘上，尽管公司已经发布澄清公告并已报案，但受其影响公司股价直接开启暴跌模式，从7月13日至7月20日，不过6个交易日，股价跌幅超40%；其中，7月13日单日下跌近20%。 图：欧林生物A股走势；资料来源：wind，36氪 在公司港股IPO的关键窗口",
-      "url": "https://36kr.com/p/3904814486718342?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
+      "title": "Design and Validation of a Lightweight 1D CNN for Affective Touch Classification in Soft Plush Companions",
+      "date": "Tue, 21 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.16196v1 Announce Type: new Abstract: Soft, sensorized companions offer a physically safe and emotionally intuitive interface for socially assistive technologies, yet their deformability and multichannel tactile sensing complicate the robust interpretation of human affect. This study presents a complete open-source MATLAB-based framework for the development and validation of compact deep learning models for affective touch recognition in soft interactive companions. As a primary contri",
+      "url": "https://arxiv.org/abs/2607.16196",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
     },
     {
-      "title": "蚂蚁国际完成约12亿美元A轮融资，蚂蚁集团、阿里集团等参与",
-      "date": "Tue, 21 Jul 2026 03:01:44 GMT",
-      "summary": "36氪获悉，蚂蚁国际今日宣布已完成A轮融资。蚂蚁集团、以及包括阿里巴巴在内的一些现有股东和多家国际投资机构参与了本轮融资。本轮融资金额约12亿美元，将用于扩展全球业务，加速AI等前沿技术投入，拓宽跨境支付、全球账户等普惠金融科技服务，助力全球商家实现增长。",
-      "url": "https://36kr.com/newsflashes/3904813539935873?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
+      "title": "Some Large Language Models Exhibit Consistent Risk Attitudes",
+      "date": "Tue, 21 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.16197v1 Announce Type: new Abstract: As artificial intelligence systems are deployed in open-ended, high-stakes settings, a critical dimension remains unmeasured: how perceived risk is translated into action. We test whether large language models (LLMs) exhibit systematic and consistent risk attitudes under uncertainty. We introduce a cross-domain framework that decouples contextual risk belief from categorical decision, and apply it to six representative LLMs and 100 human participan",
+      "url": "https://arxiv.org/abs/2607.16197",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
     },
     {
-      "title": "创业板指涨超3%",
-      "date": "Tue, 21 Jul 2026 03:00:33 GMT",
-      "summary": "36氪获悉，创业板指涨超3%，沪指涨0.08%，深成指涨2.03%；CPO、光刻机、先进封装、半导体板块涨幅居前。",
-      "url": "https://36kr.com/newsflashes/3904812384028296?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
+      "title": "A Survey on GNN-based Link Prediction: Techniques, Applications, and Challenges",
+      "date": "Tue, 21 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.16198v1 Announce Type: new Abstract: Graph Neural Networks (GNNs) have emerged as the leading paradigm for link prediction, enabling the inference of missing connections and the anticipation of potential future links. However, existing reviews lack systematic exploration specifically targeting underlying GNN architectures and diverse graph structures. To address this critical gap, this paper provides a comprehensive review of GNN-based link prediction from a novel and dedicated GNN pe",
+      "url": "https://arxiv.org/abs/2607.16198",
+      "category": [
+        "cs.AI",
+        "cs.LG",
+        "cs.SI"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
     },
     {
-      "title": "乐视在成都成立新影视文化公司",
-      "date": "Tue, 21 Jul 2026 02:54:21 GMT",
-      "summary": "36氪获悉，天眼查App显示，近日，花似火（四川）影视文化有限公司成立，法定代表人为孟宇，注册资本300万人民币，经营范围包括电影摄制服务、文艺创作、广播电视节目制作经营、电视剧制作等。股东信息显示，该公司由东阳花儿影视文化有限公司全资持股，后者由乐视网信息技术（北京）股份有限公司全资持股。",
-      "url": "https://36kr.com/newsflashes/3904806279218824?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
+      "title": "PlanFlip: Attacking Multi-Agent LLM Systems via Planning-Phase Prompt Injection",
+      "date": "Tue, 21 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.16199v1 Announce Type: new Abstract: Multi-agent LLM systems increasingly rely on a Planner to decompose goals into sub-task sequences that downstream Executor and Critic agents execute and audit. We identify the planning phase as a critical attack surface: a single injection into the Planner's context achieves cascade amplification, corrupting all downstream sub-tasks simultaneously. We introduce PlanFlip, a framework comprising four planning-phase prompt injection attacks -- GoalSub",
+      "url": "https://arxiv.org/abs/2607.16199",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
     },
     {
-      "title": "丰田汽车社长：将推进零部件精简以提升盈利能力",
-      "date": "Tue, 21 Jul 2026 02:48:03 GMT",
-      "summary": "据报道，今年4月就任丰田汽车社长的近健太日前表示，将推进精简零部件种类以提升盈利能力，称结合费用的使用方式“有很大改善空间”。关于盈亏分界线的“盈亏平衡产量”，近健太称“目前这一数值偏高，希望能够适当下调”。近健太还表示，希望保持国内的生产水平，强调“日本的制造业和供应链非常重要”。他说明称，为维持供应链，“将继续与供应商合作，一道完善图纸、质量并降低成本”。（界面）",
-      "url": "https://36kr.com/newsflashes/3904782891976582?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "男子移植童年取出并冷冻保存的睾丸组织恢复精子生成能力",
-      "date": "Mon, 20 Jul 2026 16:33:47 GMT",
-      "summary": "医学界完成了一项前沿手术—— 一名男性通过移植自己童年取出并冷冻保存16年的睾丸组织，重新恢复了精子生成能力。这批睾丸组织样本是他在接受化疗前采集冷冻的。化疗会严重损伤生殖功能，导致不育。这一里程碑式成果有望开启全新的人类不育治疗浪潮。2008 年比利时布鲁塞尔自由大学医院的医生为一名患病的 10 岁男孩摘除部分睾丸组织并冷冻保存。他当时罹患镰状细胞贫血，即将接受化疗，为后续造血干细胞移植做准备。10 余年后，这名男孩成年，希望拥有自己的后代。医护人员对其进行了两年监测，确认他已完全无法正常生成精子。随后，团队将冷冻保存 16 年的11个睾丸组织片段，分别移植至其剩余睾丸内部及阴囊皮下。移植组织在成年男性的激素环境与生理条件下培育生长一年。一年后，研究团队取出移植组织并开展检测分析。检测结果显示，多个移植组织中均发现生精干细胞，且存在活跃的精子生成迹象。在其中一个移植样本中，研究人员成功检出一枚成熟精子。",
-      "url": "https://www.solidot.org/story?sid=84878",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "OpenAI 高管不满中国的开源 AI 战略",
-      "date": "Mon, 20 Jul 2026 16:20:11 GMT",
-      "summary": "在月之暗面宣布首个 3 万亿参数级别开放权重模型 Kimi K3 之后，前特朗普 AI 高级顾问、现 OpenAI 战略主管 Dean Ball 在 X 平台上表示，开放权重模型的战略将导致“AI 共产主义”，可能会“减缓 AI 的发展”，因为会“阻碍 AI 领域的资本支出”。他认为政府可以通过 FUD 策略（即 fear, uncertainty, and doubt）阻止美国公司使用开放权重模型。他后来澄清说这只是预测不是建议，声称他支持 AI 开源/开放权重。美国两大前沿 AI 公司 OpenAI 和 Anthropic 仍然有领先优势，但优势在缩小，它们采用的都是闭源模式。",
-      "url": "https://www.solidot.org/story?sid=84877",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "Firefox 153.0 释出 ",
-      "date": "Mon, 20 Jul 2026 15:48:32 GMT",
-      "summary": "Mozilla 释出了 Firefox 153.0。它是 ESR 版本，将提供至少 15 个月的支持。Firefox 153.0 主要新特性包括：Vulkan 视频解码支持，Linux 版支持 Video Acceleration API (VA-API) ，增加对 JPEG-XL 图像格式的支持，Windows 版支持 HDR 视频播放，PDF 功能增强，等等。",
-      "url": "https://www.solidot.org/story?sid=84876",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "罗马尼亚全国土地登记数据库被黑客删除",
-      "date": "Mon, 20 Jul 2026 15:27:50 GMT",
-      "summary": "黑客入侵了罗马尼亚的土地管理机构 Agenția Națională de Cadastru și Publicitate Imobiliară（ANCPI)，在勒索失败之后删除了整个土地登记数据库以及备份，导致全国房地产市场瘫痪，官方应用和网站已离线一周。公证员无法记录新的交易，公民也无法获取所有权证明或详细的土地记录。黑客是在 7 月 14 日删库的，一天后 ANCPI 部分被盗数据在黑客论坛上出售，泄露的数据包括员工凭证、内部文件以及该机构的 IT 网络详细信息。ANCPI 表示正在重建系统。虽然黑客声称删除了备份，但 ANCPI 表示它还有备份副本。",
-      "url": "https://www.solidot.org/story?sid=84875",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
+      "title": "Deterministic Replay for AI Agent Systems",
+      "date": "Tue, 21 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.16200v1 Announce Type: new Abstract: AI agent systems that couple large language models (LLMs) with external tools and APIs are inherently non-deterministic: LLM sampling variance, external API state, CDN infrastructure headers, and execution-environment noise collectively prevent any prior agent run from being faithfully re-executed. Existing observability platforms capture execution logs but cannot reproduce a run in isolation. We present agrepl, a developer-first CLI framework for ",
+      "url": "https://arxiv.org/abs/2607.16200",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
     },
     {
       "title": "Gemini Spark updates: macOS and more",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026/",
-      "date": "2026-07-20T13:41:15.085Z",
+      "date": "2026-07-21T03:20:06.829Z",
       "summary": "",
       "category": "Innovation & AI",
       "source": "Google Blog",
@@ -106,16 +77,16 @@
     {
       "title": "NotebookLM is now Gemini Notebook",
       "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
-      "date": "2026-07-20T13:41:15.085Z",
+      "date": "2026-07-21T03:20:06.829Z",
       "summary": "",
       "category": "Innovation & AI",
       "source": "Google Blog",
       "source_name": "google-blog"
     },
     {
-      "title": "3 ways this coffee shop is growing with Gemini",
-      "url": "https://blog.google/products-and-platforms/products/gemini/coffee-shop-gemini-features/",
-      "date": "2026-07-20T13:41:15.085Z",
+      "title": "5 ways to build a side hustle with Gemini",
+      "url": "https://blog.google/products-and-platforms/products/gemini/launch-business-with-gemini/",
+      "date": "2026-07-21T03:20:06.829Z",
       "summary": "",
       "category": "Products",
       "source": "Google Blog",
@@ -124,7 +95,7 @@
     {
       "title": "Ask an AI expert: What exactly is the full stack?",
       "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
-      "date": "2026-07-20T13:41:15.085Z",
+      "date": "2026-07-21T03:20:06.829Z",
       "summary": "",
       "category": "Innovation & AI",
       "source": "Google Blog",
@@ -133,7 +104,7 @@
     {
       "title": "Check out Video Remix in Google Photos",
       "url": "https://blog.google/products-and-platforms/products/photos/video-remix/",
-      "date": "2026-07-20T13:41:15.085Z",
+      "date": "2026-07-21T03:20:06.829Z",
       "summary": "",
       "category": "Products",
       "source": "Google Blog",
@@ -142,7 +113,7 @@
     {
       "title": "![Image 1: Google",
       "url": "https://blog.google/static/blogv2/images/super-g-aurora.svg?version=pr20260715-1455",
-      "date": "2026-07-20T13:41:15.084Z",
+      "date": "2026-07-21T03:20:06.828Z",
       "summary": "",
       "category": "Google",
       "source": "Google Blog",
@@ -151,29 +122,11 @@
     {
       "title": "The State of AI: A Look at What's Next",
       "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-07-20T13:41:09.438Z",
+      "date": "2026-07-21T03:20:00.562Z",
       "summary": "An in-depth analysis of the current AI landscape and future trends.",
       "category": "AI Analysis",
       "source": "Every.to",
       "source_name": "every"
-    },
-    {
-      "title": "科学家根据体细胞突变量化人类寿命的极限",
-      "date": "Mon, 20 Jul 2026 13:29:22 GMT",
-      "summary": "体细胞突变随年龄增长而积累，能导致细胞死亡。根据发表在《npj Aging》期刊上的一项研究，科学家开发出一种方法量化体细胞突变对人类寿命的影响。研究只考虑体细胞突变，没有考虑其它任何衰老特征。研究发现，肝脏等增殖性组织通过细胞更新能在数千年内维持功能，而神经元和心肌细胞等有丝分裂后细胞则是长寿的重要瓶颈。综合多个器官预测的人类寿命中位数是 146-194 岁，约为目前人类寿命的两倍。这意味着体细胞突变是衰老的重要驱动因素，但无法单独解释目前的人类寿命，驱动衰老的还有其它因素。",
-      "url": "https://www.solidot.org/story?sid=84874",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "有了 AI 之后人们愈来愈不愿说不知道了",
-      "date": "Mon, 20 Jul 2026 10:34:37 GMT",
-      "summary": "法国和意大利研究人员发现，有了 AI 之后人们愈来愈不愿说不知道了，AI 抑制了人们的批判性思维，使得人们更容易重复 AI 生成的虚假信息。研究人员将参与者分成两组，一组必须在没有 AI 的帮助下回答问题，另一组可以向 AI 寻求建议。结果发现没有 AI 帮助时 44% 的人会回答说不知道答案，而有了 AI 的帮助后只有 3% 的人这样做。研究人员让参与者使用了一个更可能出错的模型 Step 3.5 Flash。结果显示，不使用 AI 正确率为 27%，使用 AI 后降至了 9%，原本会给出正确答案的人在听取了 AI 建议后给出了错误答案。尽管正确率下降了，但参与者的自信心却增加了。",
-      "url": "https://www.solidot.org/story?sid=84873",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
     },
     {
       "title": "Safety and alignment in an era of long-horizon models",
@@ -185,66 +138,9 @@
       "source_name": "openai"
     },
     {
-      "title": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
-      "date": "Mon, 20 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.15280v1 Announce Type: new Abstract: Sequential diagnosis requires balancing diagnostic accuracy against resource costs through iterative information gathering. Existing Large Language Model (LLM) approaches exhibit a critical knowledge-reasoning gap: despite encoding extensive medical knowledge, they struggle to reason systematically under cost constraints, often resorting to excessive testing. We propose GraphDx, a knowledge-enhanced framework with two core innovations. First, we de",
-      "url": "https://arxiv.org/abs/2607.15280",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Causal-Audit: Explicit and Auditable Graph-based Reasoning via Target-Aware Causal Chain Construction",
-      "date": "Mon, 20 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.15281v1 Announce Type: new Abstract: Causal and intervention-based question answering is fundamental to advancing large language models (LLMs) toward reasoning beyond surface-level correlations and understanding underlying causal mechanisms. However, existing LLM-based methods often rely on implicit language-level reasoning, resulting in opaque causal assumptions, unverifiable reasoning paths, and fragile predictions under complex interventions, particularly in context-free settings. ",
-      "url": "https://arxiv.org/abs/2607.15281",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Cura 1T: Specialized Model for Agentic Healthcare",
-      "date": "Mon, 20 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.15314v1 Announce Type: new Abstract: Healthcare spans high-stakes communication, expert reasoning, and workflow execution, yet specialized LLMs that cover these use cases together remain limited. A healthcare model must handle patient consultation, clinical reasoning over text and images, interactive diagnosis, and electronic health record (EHR) tool use. These capabilities fail in different ways, and a narrow update for one task can degrade another. We present Cura 1T, a healthcare-s",
-      "url": "https://arxiv.org/abs/2607.15314",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "AnovaX: A Local, Multi-Agent Voice Assistant with LLM Planning, Typed Executors, and Adaptive Recovery",
-      "date": "Mon, 20 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.15367v1 Announce Type: new Abstract: Desktop voice assistants are still dominated by cloud pipelines that ship raw audio off the machine and expose a fixed set of skills. We describe AnovaX, a small local-first assistant that runs entirely on the user's computer and treats the desktop itself as its action surface. A single Python process wires together a wake-word gate, a speech pipeline, an LLM planner (Gemini) that emits a JSON plan of tool calls, a whitelist-and-denylist safety lay",
-      "url": "https://arxiv.org/abs/2607.15367",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Precise but Uncoupled: Reviewer Precision Does Not Guarantee Critique Uptake in Multi-Agent Math Reasoning",
-      "date": "Mon, 20 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.15388v1 Announce Type: new Abstract: Many math- and science-oriented agent systems use hierarchical designs with specialized reviewer roles, assuming that a dedicated review stage should help turn wrong candidates into correct ones. We test this assumption on 4,181 verifier-grounded Omni-MATH problems using matched gpt-oss-120b actors. Collaboration adds little on the easiest tiers, but from tier 4 onward the gains open sharply; in this harder regime, broadcast-style peer discussion r",
-      "url": "https://arxiv.org/abs/2607.15388",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "DrawingVQA: A Real-World Benchmark for Multi-Depth Visual-Textual Reasoning on Construction Drawings",
-      "date": "Mon, 20 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.15418v1 Announce Type: new Abstract: We introduce DrawingVQA, the first benchmark designed to evaluate multimodal large language models (MLLMs) on real-world construction drawings -- a core media in architecture, civil, and many other engineering practices. Unlike natural images or schematic floor plans, construction drawings fuse abstract geometry, symbolic notation, tabular data, annotations, and domain-specific text, forming a uniquely complex visual-textual domain core to engineer",
-      "url": "https://arxiv.org/abs/2607.15418",
-      "category": [
-        "cs.AI",
-        "cs.CV"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
       "title": "How Startups Are Using AI to Disrupt Industries",
       "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-07-19T13:41:09.438Z",
+      "date": "2026-07-20T03:20:00.562Z",
       "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
       "category": "Source Code",
       "source": "Every.to",
@@ -253,7 +149,7 @@
     {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-07-18T13:41:09.438Z",
+      "date": "2026-07-19T03:20:00.562Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
@@ -262,7 +158,7 @@
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-07-17T13:41:09.438Z",
+      "date": "2026-07-18T03:20:00.562Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
@@ -278,6 +174,15 @@
       "source_name": "openai"
     },
     {
+      "title": "AI Agents: The Next Evolution of Automation",
+      "url": "https://every.to/source-code/ai-agents",
+      "date": "2026-07-17T03:20:00.562Z",
+      "summary": "Understanding autonomous AI agents and their potential impact on software.",
+      "category": "Source Code",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
       "title": "Why teens deserve access to safe AI",
       "date": "Thu, 16 Jul 2026 16:00:00 GMT",
       "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
@@ -287,11 +192,11 @@
       "source_name": "openai"
     },
     {
-      "title": "AI Agents: The Next Evolution of Automation",
-      "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-07-16T13:41:09.438Z",
-      "summary": "Understanding autonomous AI agents and their potential impact on software.",
-      "category": "Source Code",
+      "title": "The Economics of AI: Costs, Benefits, and ROI",
+      "url": "https://every.to/context-window/ai-economics",
+      "date": "2026-07-16T03:20:00.562Z",
+      "summary": "A deep dive into the financial aspects of implementing AI solutions.",
+      "category": "Context Window",
       "source": "Every.to",
       "source_name": "every"
     },
@@ -303,15 +208,6 @@
       "category": "",
       "source": "OpenAI News",
       "source_name": "openai"
-    },
-    {
-      "title": "The Economics of AI: Costs, Benefits, and ROI",
-      "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-07-15T13:41:09.438Z",
-      "summary": "A deep dive into the financial aspects of implementing AI solutions.",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "The US is advancing AI safety through state and federal action",

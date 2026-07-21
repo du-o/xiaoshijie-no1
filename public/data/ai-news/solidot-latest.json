@@ -1,7 +1,7 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-07-21T03:20:04.125Z",
+  "fetch_time": "2026-07-21T06:27:58.223Z",
   "articles": [
     {
       "title": "男子移植童年取出并冷冻保存的睾丸组织恢复精子生成能力",
@@ -46,6 +46,6 @@
       "category": ""
     }
   ],
-  "status": "success",
-  "error": null
+  "status": "error",
+  "error": "Request timeout"
 }
