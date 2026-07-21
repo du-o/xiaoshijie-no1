@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-07-20T13:41:09.698Z",
+  "fetch_time": "2026-07-21T03:20:00.914Z",
   "articles": [
+    {
+      "title": "Safety and alignment in an era of long-horizon models",
+      "date": "Mon, 20 Jul 2026 10:00:00 GMT",
+      "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "category": "Safety"
+    },
     {
       "title": "A scorecard for the AI age",
       "date": "Fri, 17 Jul 2026 10:00:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
       "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
       "category": "Safety"
-    },
-    {
-      "title": "How to manage AI investments in the agentic era",
-      "date": "Tue, 14 Jul 2026 10:00:00 GMT",
-      "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
-      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-      "category": "AI Adoption"
     }
   ],
   "status": "success",
