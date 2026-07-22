@@ -1,52 +1,52 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-07-22T03:18:28.670Z",
+  "fetch_time": "2026-07-22T06:26:25.574Z",
   "articles": [
     {
-      "title": "Rater State Bias in RLHF Preference Data: An Audit Framework",
-      "date": "Tue, 21 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.16195v1 Announce Type: new Abstract: We identify a structured confound in Reinforcement Learning from Human Feedback (RLHF). Pairwise preference labels are intended to reflect the compared outputs, but they may also reflect the rater's state during annotation. Under sustained stressful or distressing conditions, raters' preferences may shift over time. As a result, preference data can encode rater state alongside judgments about response quality. These shifts differ from ordinary disa",
-      "url": "https://arxiv.org/abs/2607.16195",
+      "title": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
+      "date": "Wed, 22 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.18239v1 Announce Type: new Abstract: Power-seeking defined as behaviors where AI systems acquire resources, evade oversight, or resist termination beyond task requirements is identified as a key driver of Loss of Control (LoC) risk. In this work, we introduce SysAdmin, a benchmark that positions frontier language models as autonomous system administrators in a high-fidelity Linux sandbox to measure power-seeking propensity across five dimensions: self-preservation, increasing autonomy",
+      "url": "https://arxiv.org/abs/2607.18239",
       "category": "cs.AI"
     },
     {
-      "title": "Design and Validation of a Lightweight 1D CNN for Affective Touch Classification in Soft Plush Companions",
-      "date": "Tue, 21 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.16196v1 Announce Type: new Abstract: Soft, sensorized companions offer a physically safe and emotionally intuitive interface for socially assistive technologies, yet their deformability and multichannel tactile sensing complicate the robust interpretation of human affect. This study presents a complete open-source MATLAB-based framework for the development and validation of compact deep learning models for affective touch recognition in soft interactive companions. As a primary contri",
-      "url": "https://arxiv.org/abs/2607.16196",
+      "title": "Calibrated Selective Fact-Checking via Evidence Chain Evaluation",
+      "date": "Wed, 22 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.18240v1 Announce Type: new Abstract: Large language models (LLMs) can achieve strong fact-checking accuracy, yet forced binary decisions conceal a critical reliability problem: systems may issue confident verdicts even when supporting evidence is weak, sparse, or internally inconsistent. We address this issue through Evidence Chain Evaluation (ECE), a selective fact-checking framework that permits abstention via an uncertain verdict instead of requiring a true/false decision for every",
+      "url": "https://arxiv.org/abs/2607.18240",
       "category": "cs.AI"
     },
     {
-      "title": "Some Large Language Models Exhibit Consistent Risk Attitudes",
-      "date": "Tue, 21 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.16197v1 Announce Type: new Abstract: As artificial intelligence systems are deployed in open-ended, high-stakes settings, a critical dimension remains unmeasured: how perceived risk is translated into action. We test whether large language models (LLMs) exhibit systematic and consistent risk attitudes under uncertainty. We introduce a cross-domain framework that decouples contextual risk belief from categorical decision, and apply it to six representative LLMs and 100 human participan",
-      "url": "https://arxiv.org/abs/2607.16197",
+      "title": "BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data",
+      "date": "Wed, 22 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.18241v1 Announce Type: new Abstract: Large language models (LLMs) excel at analyzing individual documents but break down on exhaustive, cross-entity analytical questions over enterprise-scale datasets due to context overflow, loss of per-entity attribution, and linear latency from sequential tool calls. We present BatchDAG, a system in which an LLM generates a typed directed acyclic graph (DAG) of operations -- SQL queries, semantic searches, in-memory transforms, parallel fan-outs, a",
+      "url": "https://arxiv.org/abs/2607.18241",
       "category": "cs.AI"
     },
     {
-      "title": "A Survey on GNN-based Link Prediction: Techniques, Applications, and Challenges",
-      "date": "Tue, 21 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.16198v1 Announce Type: new Abstract: Graph Neural Networks (GNNs) have emerged as the leading paradigm for link prediction, enabling the inference of missing connections and the anticipation of potential future links. However, existing reviews lack systematic exploration specifically targeting underlying GNN architectures and diverse graph structures. To address this critical gap, this paper provides a comprehensive review of GNN-based link prediction from a novel and dedicated GNN pe",
-      "url": "https://arxiv.org/abs/2607.16198",
+      "title": "AI Tool Discovery at Scale: All You Need is DNS",
+      "date": "Wed, 22 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.18242v1 Announce Type: new Abstract: The coming era of autonomous AI agents demands a discovery mechanism capable of navigating millions of tools, yet existing solutions buckle under O(N) complexity and centralized governance. Instead of building another fragile overlay, we propose ToolDNS, a radical framework that retrofits semantic tool discovery onto the Internet's most resilient substrate: the Domain Name System (DNS). By embedding functional intent and organizational trust into a",
+      "url": "https://arxiv.org/abs/2607.18242",
       "category": [
         "cs.AI",
-        "cs.LG",
-        "cs.SI"
+        "cs.MA",
+        "cs.NI"
       ]
     },
     {
-      "title": "PlanFlip: Attacking Multi-Agent LLM Systems via Planning-Phase Prompt Injection",
-      "date": "Tue, 21 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.16199v1 Announce Type: new Abstract: Multi-agent LLM systems increasingly rely on a Planner to decompose goals into sub-task sequences that downstream Executor and Critic agents execute and audit. We identify the planning phase as a critical attack surface: a single injection into the Planner's context achieves cascade amplification, corrupting all downstream sub-tasks simultaneously. We introduce PlanFlip, a framework comprising four planning-phase prompt injection attacks -- GoalSub",
-      "url": "https://arxiv.org/abs/2607.16199",
+      "title": "From Agent Failure Paths to Quantified Residual Risk: A Compositional Framework for Resilient Agentic AI",
+      "date": "Wed, 22 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.18243v1 Announce Type: new Abstract: Agentic AI is crossing trust boundaries faster than current risk models can represent. Existing approaches provide one of two partial views. They either describe failure mechanisms without producing a transferable residual-risk estimate, or they produce a risk estimate while treating the internal failure path as a black box. We couple those two views by proposing CPSAINT, a seven-layer integrity decomposition over Physical state, Sensors, Data, Com",
+      "url": "https://arxiv.org/abs/2607.18243",
       "category": "cs.AI"
     },
     {
-      "title": "Deterministic Replay for AI Agent Systems",
-      "date": "Tue, 21 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.16200v1 Announce Type: new Abstract: AI agent systems that couple large language models (LLMs) with external tools and APIs are inherently non-deterministic: LLM sampling variance, external API state, CDN infrastructure headers, and execution-environment noise collectively prevent any prior agent run from being faithfully re-executed. Existing observability platforms capture execution logs but cannot reproduce a run in isolation. We present agrepl, a developer-first CLI framework for ",
-      "url": "https://arxiv.org/abs/2607.16200",
+      "title": "SAAG: Structured Agent Assessment and Grounding",
+      "date": "Wed, 22 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.18245v1 Announce Type: new Abstract: Exact-match evaluation of agent-calling obscures qualitatively different failure modes: a model may select the right function yet hallucinate argument values, or satisfy a schema while choosing a agent for the wrong reason. Existing benchmarks collapse these distinctions into a single binary score, leaving practitioners unable to diagnose where agent calls fail. We propose SAAG a cascaded diagnostic framework that decomposes agent-calling evaluatio",
+      "url": "https://arxiv.org/abs/2607.18245",
       "category": "cs.AI"
     }
   ],
