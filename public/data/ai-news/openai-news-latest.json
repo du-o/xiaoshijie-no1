@@ -1,8 +1,22 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-07-22T10:15:47.457Z",
+  "fetch_time": "2026-07-22T13:13:24.105Z",
   "articles": [
+    {
+      "title": "Building AI infrastructure with the Effingham County community",
+      "date": "Wed, 22 Jul 2026 13:00:00 GMT",
+      "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "category": "Global Affairs"
+    },
+    {
+      "title": "Introducing OpenAI Presence",
+      "date": "Wed, 22 Jul 2026 05:30:00 GMT",
+      "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+      "url": "https://openai.com/index/introducing-openai-presence",
+      "category": "Product"
+    },
     {
       "title": "Introducing the ChatGPT for small business program",
       "date": "Tue, 21 Jul 2026 17:00:00 GMT",
@@ -29,20 +43,6 @@
       "date": "Mon, 20 Jul 2026 10:00:00 GMT",
       "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
       "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-      "category": "Safety"
-    },
-    {
-      "title": "A scorecard for the AI age",
-      "date": "Fri, 17 Jul 2026 10:00:00 GMT",
-      "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
-      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-      "category": "Company"
-    },
-    {
-      "title": "Why teens deserve access to safe AI",
-      "date": "Thu, 16 Jul 2026 16:00:00 GMT",
-      "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
-      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
       "category": "Safety"
     }
   ],
