@@ -1,8 +1,29 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-07-21T13:07:30.060Z",
+  "fetch_time": "2026-07-22T03:18:28.426Z",
   "articles": [
+    {
+      "title": "Introducing the ChatGPT for small business program",
+      "date": "Tue, 21 Jul 2026 17:00:00 GMT",
+      "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "category": "AI Adoption"
+    },
+    {
+      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "date": "Tue, 21 Jul 2026 07:00:00 GMT",
+      "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "category": "Security"
+    },
+    {
+      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+      "date": "Tue, 21 Jul 2026 00:00:00 GMT",
+      "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
+      "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+      "category": "Company"
+    },
     {
       "title": "Safety and alignment in an era of long-horizon models",
       "date": "Mon, 20 Jul 2026 10:00:00 GMT",
@@ -22,27 +43,6 @@
       "date": "Thu, 16 Jul 2026 16:00:00 GMT",
       "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
       "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-      "category": "Safety"
-    },
-    {
-      "title": "How Cars24 scales conversations and builds faster with OpenAI",
-      "date": "Thu, 16 Jul 2026 00:00:00 GMT",
-      "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
-      "url": "https://openai.com/index/cars24",
-      "category": ""
-    },
-    {
-      "title": "The US is advancing AI safety through state and federal action",
-      "date": "Wed, 15 Jul 2026 12:00:00 GMT",
-      "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
-      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-      "category": "Global Affairs"
-    },
-    {
-      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-      "date": "Wed, 15 Jul 2026 10:00:00 GMT",
-      "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
-      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
       "category": "Safety"
     }
   ],
