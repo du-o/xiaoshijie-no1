@@ -1,53 +1,59 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-07-23T03:25:25.587Z",
+  "fetch_time": "2026-07-23T06:29:19.394Z",
   "articles": [
     {
-      "title": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
-      "date": "Wed, 22 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.18239v1 Announce Type: new Abstract: Power-seeking defined as behaviors where AI systems acquire resources, evade oversight, or resist termination beyond task requirements is identified as a key driver of Loss of Control (LoC) risk. In this work, we introduce SysAdmin, a benchmark that positions frontier language models as autonomous system administrators in a high-fidelity Linux sandbox to measure power-seeking propensity across five dimensions: self-preservation, increasing autonomy",
-      "url": "https://arxiv.org/abs/2607.18239",
+      "title": "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
+      "date": "Thu, 23 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.19349v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as always-on online services, making efficient LLM serving a critical systems challenge. Achieving low latency and high throughput under volatile demand requires deep understanding of real-world serving workloads, yet existing studies often rely on proxy traces or coarse-grained characterizations that fail to capture the heterogeneity of modern multi-model LLM platforms. We present FineServe, a",
+      "url": "https://arxiv.org/abs/2607.19349",
       "category": "cs.AI"
     },
     {
-      "title": "Calibrated Selective Fact-Checking via Evidence Chain Evaluation",
-      "date": "Wed, 22 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.18240v1 Announce Type: new Abstract: Large language models (LLMs) can achieve strong fact-checking accuracy, yet forced binary decisions conceal a critical reliability problem: systems may issue confident verdicts even when supporting evidence is weak, sparse, or internally inconsistent. We address this issue through Evidence Chain Evaluation (ECE), a selective fact-checking framework that permits abstention via an uncertain verdict instead of requiring a true/false decision for every",
-      "url": "https://arxiv.org/abs/2607.18240",
-      "category": "cs.AI"
-    },
-    {
-      "title": "BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data",
-      "date": "Wed, 22 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.18241v1 Announce Type: new Abstract: Large language models (LLMs) excel at analyzing individual documents but break down on exhaustive, cross-entity analytical questions over enterprise-scale datasets due to context overflow, loss of per-entity attribution, and linear latency from sequential tool calls. We present BatchDAG, a system in which an LLM generates a typed directed acyclic graph (DAG) of operations -- SQL queries, semantic searches, in-memory transforms, parallel fan-outs, a",
-      "url": "https://arxiv.org/abs/2607.18241",
-      "category": "cs.AI"
-    },
-    {
-      "title": "AI Tool Discovery at Scale: All You Need is DNS",
-      "date": "Wed, 22 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.18242v1 Announce Type: new Abstract: The coming era of autonomous AI agents demands a discovery mechanism capable of navigating millions of tools, yet existing solutions buckle under O(N) complexity and centralized governance. Instead of building another fragile overlay, we propose ToolDNS, a radical framework that retrofits semantic tool discovery onto the Internet's most resilient substrate: the Domain Name System (DNS). By embedding functional intent and organizational trust into a",
-      "url": "https://arxiv.org/abs/2607.18242",
+      "title": "Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adversarial Resilience",
+      "date": "Thu, 23 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.19350v1 Announce Type: new Abstract: Financial institutions face significant challenges in detecting sophisticated money laundering patterns, such as smurfing and layering, due to extreme data imbalance (0.13% fraud rate) and evolving adversarial evasion tactics. This paper proposes FraudShield AI, a hybrid framework that integrates Long Short-Term Memory (LSTM) networks with hand-crafted Graph Topological Features to capture both temporal sequences and structural relational context. ",
+      "url": "https://arxiv.org/abs/2607.19350",
       "category": [
         "cs.AI",
-        "cs.MA",
-        "cs.NI"
+        "cs.LG"
       ]
     },
     {
-      "title": "From Agent Failure Paths to Quantified Residual Risk: A Compositional Framework for Resilient Agentic AI",
-      "date": "Wed, 22 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.18243v1 Announce Type: new Abstract: Agentic AI is crossing trust boundaries faster than current risk models can represent. Existing approaches provide one of two partial views. They either describe failure mechanisms without producing a transferable residual-risk estimate, or they produce a risk estimate while treating the internal failure path as a black box. We couple those two views by proposing CPSAINT, a seven-layer integrity decomposition over Physical state, Sensors, Data, Com",
-      "url": "https://arxiv.org/abs/2607.18243",
+      "title": "OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent System Attacks",
+      "date": "Thu, 23 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.19351v1 Announce Type: new Abstract: LLM-based multi-agent systems (LLM-MAS) are increasingly deployed in safety-critical applications, where adversaries inject malicious instructions through inter-agent communication to propagate harmful behaviors. Unlike static threats, these attacks are doubly dynamic: adversaries refine injection strategies against deployed defenses while normal-agent behavior drifts with system expansion. Existing defenses treat deployment as a closed-world probl",
+      "url": "https://arxiv.org/abs/2607.19351",
       "category": "cs.AI"
     },
     {
-      "title": "SAAG: Structured Agent Assessment and Grounding",
-      "date": "Wed, 22 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.18245v1 Announce Type: new Abstract: Exact-match evaluation of agent-calling obscures qualitatively different failure modes: a model may select the right function yet hallucinate argument values, or satisfy a schema while choosing a agent for the wrong reason. Existing benchmarks collapse these distinctions into a single binary score, leaving practitioners unable to diagnose where agent calls fail. We propose SAAG a cascaded diagnostic framework that decomposes agent-calling evaluatio",
-      "url": "https://arxiv.org/abs/2607.18245",
+      "title": "Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX",
+      "date": "Thu, 23 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.19353v1 Announce Type: new Abstract: Confidential computing is becoming a practical deployment requirement for AI inference workloads that process sensitive inputs or protect proprietary model assets. However, the performance cost of enabling confidential execution for GPU-accelerated large language model serving remains workload dependent and operationally important. This paper presents a benchmark study comparing standard non-confidential execution with confidential computing mode o",
+      "url": "https://arxiv.org/abs/2607.19353",
+      "category": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "FormulaSPIN: Self-Play Fine-Tuning for Natural Language to Spreadsheet Formula Generation",
+      "date": "Thu, 23 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.19354v1 Announce Type: new Abstract: Spreadsheet applications are used by hundreds of millions worldwide, yet writing formulas remains a significant barrier. Existing approaches rely on static supervised data, which quickly saturates on limited annotations. In this paper, we introduce FORMULASPIN, a self-play framework that breaks the ceiling of supervised fine-tuning by enabling iterative self-improvement without any additional data. Vanilla SPIN fails on this task: it uniformly pena",
+      "url": "https://arxiv.org/abs/2607.19354",
       "category": "cs.AI"
+    },
+    {
+      "title": "Information Discernment in Large Language Models",
+      "date": "Thu, 23 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.19355v1 Announce Type: new Abstract: LLMs are increasingly used with external knowledge sources like the internet. Do they weigh information appropriately -- updating more for reliable sources (source discernment) and more when claims bring priors closer to the truth (truth discernment)? We formalize this as information discernment and introduce Learn2Discern (L2D), an experimental framework and benchmark grounded in three normative axioms with interpretable metrics. To establish exte",
+      "url": "https://arxiv.org/abs/2607.19355",
+      "category": [
+        "cs.AI",
+        "cs.CL",
+        "cs.CY"
+      ]
     }
   ],
   "status": "success",
