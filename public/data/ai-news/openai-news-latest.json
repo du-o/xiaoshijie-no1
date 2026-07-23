@@ -1,13 +1,27 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-07-22T13:13:24.105Z",
+  "fetch_time": "2026-07-23T03:25:25.079Z",
   "articles": [
     {
       "title": "Building AI infrastructure with the Effingham County community",
       "date": "Wed, 22 Jul 2026 13:00:00 GMT",
       "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
       "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "category": "Global Affairs"
+    },
+    {
+      "title": "How news organizations are using AI to advance their vital missions",
+      "date": "Wed, 22 Jul 2026 13:00:00 GMT",
+      "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+      "category": "Company"
+    },
+    {
+      "title": "Advancing the next era of national science",
+      "date": "Wed, 22 Jul 2026 12:00:00 GMT",
+      "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
       "category": "Global Affairs"
     },
     {
@@ -18,32 +32,18 @@
       "category": "Product"
     },
     {
+      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+      "date": "Wed, 22 Jul 2026 00:00:00 GMT",
+      "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
+      "url": "https://openai.com/index/ntt-data",
+      "category": ""
+    },
+    {
       "title": "Introducing the ChatGPT for small business program",
       "date": "Tue, 21 Jul 2026 17:00:00 GMT",
       "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
       "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
       "category": "AI Adoption"
-    },
-    {
-      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-      "date": "Tue, 21 Jul 2026 07:00:00 GMT",
-      "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
-      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-      "category": "Security"
-    },
-    {
-      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-      "date": "Tue, 21 Jul 2026 00:00:00 GMT",
-      "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
-      "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
-      "category": "Company"
-    },
-    {
-      "title": "Safety and alignment in an era of long-horizon models",
-      "date": "Mon, 20 Jul 2026 10:00:00 GMT",
-      "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
-      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-      "category": "Safety"
     }
   ],
   "status": "success",
