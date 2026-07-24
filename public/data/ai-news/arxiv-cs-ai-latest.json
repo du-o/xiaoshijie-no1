@@ -1,58 +1,51 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-07-24T03:19:01.149Z",
+  "fetch_time": "2026-07-24T06:24:34.746Z",
   "articles": [
     {
-      "title": "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
-      "date": "Thu, 23 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.19349v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as always-on online services, making efficient LLM serving a critical systems challenge. Achieving low latency and high throughput under volatile demand requires deep understanding of real-world serving workloads, yet existing studies often rely on proxy traces or coarse-grained characterizations that fail to capture the heterogeneity of modern multi-model LLM platforms. We present FineServe, a",
-      "url": "https://arxiv.org/abs/2607.19349",
+      "title": "AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics",
+      "date": "Fri, 24 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.20452v1 Announce Type: new Abstract: Modern software quality assurance demands intelligent, autonomous systems capable of adaptive decision-making across distributed cloud environments. This paper presents AINTMA (Agentic Intelligent Test Management Architecture), a multi-agent agentic AI system that transforms traditional test management into an autonomous quality intelligence ecosystem. AINTMA deploys six specialized AI agents (Test Discovery, Risk Assessment, Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2607.20452",
       "category": "cs.AI"
     },
     {
-      "title": "Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adversarial Resilience",
-      "date": "Thu, 23 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.19350v1 Announce Type: new Abstract: Financial institutions face significant challenges in detecting sophisticated money laundering patterns, such as smurfing and layering, due to extreme data imbalance (0.13% fraud rate) and evolving adversarial evasion tactics. This paper proposes FraudShield AI, a hybrid framework that integrates Long Short-Term Memory (LSTM) networks with hand-crafted Graph Topological Features to capture both temporal sequences and structural relational context. ",
-      "url": "https://arxiv.org/abs/2607.19350",
+      "title": "Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts",
+      "date": "Fri, 24 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.20462v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly integrated into clinical workflows, stressing the need for reliable traceability of model-generated output with watermarking. Yet, most watermarks are evaluated on general-purpose benchmarks, leaving domains like medicine, where small token-level perturbations can result in significant semantic changes, underexplored. In this work, we present the first rigorous study of how LLM watermarks affect medical",
+      "url": "https://arxiv.org/abs/2607.20462",
+      "category": "cs.AI"
+    },
+    {
+      "title": "ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures and Large Language Models",
+      "date": "Fri, 24 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.20463v1 Announce Type: new Abstract: This paper presents an AI-driven browser extension that identifies clickbait to help users avoid misleading Internet articles. Moving beyond traditional detection, the application employs a hybrid machine learning architecture that combines transformer-based embeddings with linguistically motivated features and a custom \"baitness\" score. After evaluating various natural language processing techniques -- from classic vectorizers to large language mo",
+      "url": "https://arxiv.org/abs/2607.20463",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Stochastic Sampling is Epistemically Shallow: The Dimensionality Gap Between Temperature Variation and Model Diversity in LLMs",
+      "date": "Fri, 24 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.20464v1 Announce Type: new Abstract: When a language model gives different answers on repeated runs, does that variation reveal what it does not know? Self-consistency turns the variation into a per-question uncertainty estimate via majority voting. But does the same variation reveal cross-question structure -- related questions flipping together, the way a diverse ensemble does? We compare two regimes on the same questions: one model run $100$ times at $\\tau=1$ versus an ensemble of ",
+      "url": "https://arxiv.org/abs/2607.20464",
+      "category": "cs.AI"
+    },
+    {
+      "title": "JAXBench: Benchmarking Autonomous TPU Kernel Optimization",
+      "date": "Fri, 24 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.20466v1 Announce Type: new Abstract: Rigorous benchmarks have driven progress in autonomous GPU kernel performance optimization by establishing a shared target to hillclimb on, but no equivalent exists for TPUs. We present JAXBench, a TPU-native benchmark suite for AI-generated kernel optimization on Google Cloud TPUs. JAXBench comprises 50 JAX workloads that are both relevant and provide headroom for optimization. We extract 17 production ML operators from architectures in the public",
+      "url": "https://arxiv.org/abs/2607.20466",
+      "category": "cs.AI"
+    },
+    {
+      "title": "DC-Leap: Training-Free Acceleration of dLLMs via Draft-Guided Contiguous Leaping Decoding",
+      "date": "Fri, 24 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.20467v1 Announce Type: new Abstract: While parallel decoding is central to the efficiency of Diffusion Large Language Models (dLLMs), current strategies are often hindered by overly conservative confidence thresholds. These thresholds, necessitated by the Joint Probability Dependence Error (JPDE), result in redundant denoising iterations and suboptimal inference speeds. To overcome this, we propose DC-Leap, a training-free framework that enables reliable acceleration of dLLMs in the m",
+      "url": "https://arxiv.org/abs/2607.20467",
       "category": [
         "cs.AI",
         "cs.LG"
-      ]
-    },
-    {
-      "title": "OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent System Attacks",
-      "date": "Thu, 23 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.19351v1 Announce Type: new Abstract: LLM-based multi-agent systems (LLM-MAS) are increasingly deployed in safety-critical applications, where adversaries inject malicious instructions through inter-agent communication to propagate harmful behaviors. Unlike static threats, these attacks are doubly dynamic: adversaries refine injection strategies against deployed defenses while normal-agent behavior drifts with system expansion. Existing defenses treat deployment as a closed-world probl",
-      "url": "https://arxiv.org/abs/2607.19351",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX",
-      "date": "Thu, 23 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.19353v1 Announce Type: new Abstract: Confidential computing is becoming a practical deployment requirement for AI inference workloads that process sensitive inputs or protect proprietary model assets. However, the performance cost of enabling confidential execution for GPU-accelerated large language model serving remains workload dependent and operationally important. This paper presents a benchmark study comparing standard non-confidential execution with confidential computing mode o",
-      "url": "https://arxiv.org/abs/2607.19353",
-      "category": [
-        "cs.AI",
-        "cs.LG"
-      ]
-    },
-    {
-      "title": "FormulaSPIN: Self-Play Fine-Tuning for Natural Language to Spreadsheet Formula Generation",
-      "date": "Thu, 23 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.19354v1 Announce Type: new Abstract: Spreadsheet applications are used by hundreds of millions worldwide, yet writing formulas remains a significant barrier. Existing approaches rely on static supervised data, which quickly saturates on limited annotations. In this paper, we introduce FORMULASPIN, a self-play framework that breaks the ceiling of supervised fine-tuning by enabling iterative self-improvement without any additional data. Vanilla SPIN fails on this task: it uniformly pena",
-      "url": "https://arxiv.org/abs/2607.19354",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Information Discernment in Large Language Models",
-      "date": "Thu, 23 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.19355v1 Announce Type: new Abstract: LLMs are increasingly used with external knowledge sources like the internet. Do they weigh information appropriately -- updating more for reliable sources (source discernment) and more when claims bring priors closer to the truth (truth discernment)? We formalize this as information discernment and introduce Learn2Discern (L2D), an experimental framework and benchmark grounded in three normative axioms with interpretable metrics. To establish exte",
-      "url": "https://arxiv.org/abs/2607.19355",
-      "category": [
-        "cs.AI",
-        "cs.CL",
-        "cs.CY"
       ]
     }
   ],
