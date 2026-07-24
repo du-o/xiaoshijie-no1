@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-07-23T13:16:11.542Z",
+  "fetch_time": "2026-07-24T03:19:00.929Z",
   "articles": [
+    {
+      "title": "Launching Health in ChatGPT ",
+      "date": "Thu, 23 Jul 2026 00:00:00 GMT",
+      "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+      "url": "https://openai.com/index/health-in-chatgpt",
+      "category": "Product"
+    },
     {
       "title": "Building AI infrastructure with the Effingham County community",
       "date": "Wed, 22 Jul 2026 13:00:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
       "url": "https://openai.com/index/ntt-data",
       "category": ""
-    },
-    {
-      "title": "Introducing the ChatGPT for small business program",
-      "date": "Tue, 21 Jul 2026 17:00:00 GMT",
-      "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
-      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-      "category": "AI Adoption"
     }
   ],
   "status": "success",
