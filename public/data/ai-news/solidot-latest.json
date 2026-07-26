@@ -1,8 +1,29 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-07-25T12:52:45.946Z",
+  "fetch_time": "2026-07-26T03:31:33.394Z",
   "articles": [
+    {
+      "title": "Debian 讨论是否允许使用 LLM",
+      "date": "Sat, 25 Jul 2026 15:53:13 GMT",
+      "summary": "Debian 项目正在讨论如何使用 LLM 以及是否允许使用 LLM。其中一个提议是明确禁止使用 LLM，但只限于 Debian 本身，上游项目以及上游安全补丁不包含在内。另一个提议是允许 AI 辅助贡献，但需要确保 AI 生成代码符合 Debian 的各项规定，贡献者需要承担责任和履行披露义务。开发者指出，LLM 存在版权和许可方面的问题，也不能确保质量和准确性，会增加社区审核者的负担，AI 公司在训练大模型时无视版权和许可抓取数据，伤害了整个自由软件社区，对无数用户依赖的网站发起了一波波拒绝服务攻击，它的训练也消耗大量资源。",
+      "url": "https://www.solidot.org/story?sid=84922",
+      "category": ""
+    },
+    {
+      "title": "美国司法部起诉一位公民提供了会导致手机数据自动删除的密码",
+      "date": "Sat, 25 Jul 2026 13:27:28 GMT",
+      "summary": "美国司法部起诉了一位公民在入境搜查时提供了所谓的“胁迫密码”，输入该密码导致手机上的数据自动删除。这起案件被认为是美国首例“胁迫密码”案例。本案的被告是亚特兰大居民 Samuel Tunick，他的手机运行了安全加固的 Android 操作系统 GrapheneOS，它内置了一项安全功能，允许用户设置“胁迫密码”，如果输入的不是解锁密码而是“胁迫密码”，那么手机上的数据将会自动清除。本案引发了在入境时美国公民可以援引哪些宪法权利的疑问。美国政府长期坚称，在允许入境前边境处不属于美国领土。数字安全专家 Runa Sandvik 建议，为了避免被当局认为是故意销毁数据，公民可以在入境前先清空数据，入境后再重新下载。",
+      "url": "https://www.solidot.org/story?sid=84921",
+      "category": ""
+    },
+    {
+      "title": "英伟达、微软、OpenAI 等公司反对限制开放权重模型",
+      "date": "Sat, 25 Jul 2026 10:57:43 GMT",
+      "summary": "在一群初创公司之后，科技巨头如微软、英伟达、思科、戴尔、IBM、甚至 OpenAI 等数十家公司和组织联署发表公开信，呼吁美国政府不要过早限制开放权重模型，认为此举会扼杀竞争或导致本土创新放缓。公开信称，开放权重模型能促进竞争，确保 AI 技术的好处能广泛共享，避免其掌握在少数人手中，而闭源模型并不意味着绝对安全。没有署名的知名 AI 公司包括了 Google、Anthropic 以及 xAI/SpaceX，其中 SpaceX CEO 马斯克通过社交媒体口头表达了对公开信的支持，而 Anthropic 明显是站在支持限制开放权重模型的一边，该公司正投入 4000 万美元游说特朗普政府加强监管 AI 模型。",
+      "url": "https://www.solidot.org/story?sid=84920",
+      "category": ""
+    },
     {
       "title": "IRGC 声称摧毁了亚马逊巴林数据中心",
       "date": "Fri, 24 Jul 2026 16:13:35 GMT",
@@ -22,27 +43,6 @@
       "date": "Fri, 24 Jul 2026 12:06:23 GMT",
       "summary": "Google 账号加入了可选的人脸识别登录。用户向 Google 提供自拍视频，随后就可通过人脸识别登录。在人脸验证过程中 Google 可能会要求用户以特定方式转动头部，此举旨在防止深度伪造之类的身份冒用，确保用户当前确实在摄像头前。Google 需要保存用户的自拍视频以将其用于未来的登录验证。搜索巨人表示会对视频进行加密，且仅用于登录不会用于其它用途。如果用户改变主意，可以从 Google 帐户中删除相关视频。",
       "url": "https://www.solidot.org/story?sid=84917",
-      "category": ""
-    },
-    {
-      "title": "LG 显示器应用不再弹出迈克菲广告",
-      "date": "Fri, 24 Jul 2026 09:58:52 GMT",
-      "summary": "当你的计算机接上 LG 显示器，它会通过 Windows Update 自动安装应用 LG Monitor App Installer，安装之后该应用会不时弹出广告，其中最常见的广告是迈克菲杀毒软件。其它还有 LG 自家产品广告如 LG Switch、LG Calibration Studio、LG Dual Controller 和 LG Channels。此举在消费者中间引发了强烈反应，以至于微软都出来做出回应。微软 Windows 和设备执行副总裁 Pavan Davuluri 称，他们联系了 LG 团队，LG 已经同意立即在其应用中禁止迈克菲广告弹窗。除此之外一切照旧。",
-      "url": "https://www.solidot.org/story?sid=84916",
-      "category": ""
-    },
-    {
-      "title": "美国初创公司反对禁止使用中国开放权重模型",
-      "date": "Fri, 24 Jul 2026 09:17:50 GMT",
-      "summary": "近两百家美国科技初创公司组成 Little Tech Association 联盟，联署致函美国总统特朗普、商务部长 Howard Lutnick 等政府高官，呼吁政府不要禁止使用来自中国的开放权重模型。此前由于中国 AI 模型在性能上逼近美国的前沿 AI 模型 Anthropic 的 Fable 5 和 OpenAI 的 GPT-5.6 Sol，美国政府官员表示在考虑封禁中国的 AI 模型。Little Tech Association 的联署信指出，此举会削弱美国初创公司，且并不能阻止开放权重模型扩散。而美国要保持其领先地位需要有世界领先的开放权重模型，确保美国公司能访问其它地方的开放权重模型。",
-      "url": "https://www.solidot.org/story?sid=84915",
-      "category": ""
-    },
-    {
-      "title": "GLP-1 减肥药与脱发相关",
-      "date": "Fri, 24 Jul 2026 08:51:58 GMT",
-      "summary": "根据发表在 BMJ 上的一项研究，GLP-1 减肥药相比其它糖尿病药物有更高的脱发风险。研究人员指出，快速减肥和减少卡路里摄入是公认的脱发诱因。研究人员称，多数 GLP-1相关的脱发病例都是可逆的，因为毛囊保持完整。研究人员对比了 GLP-1 和其它两种糖尿病药物 SGLT-2 和 DPP-4，结果显示 GLP-1 的脱发风险比 SGLT-2 高 37%，比 DPP-4 高 68%。研究人员称，脱发通常不会造成身体伤害，但可能会产生心理社会影响，如影响自尊、生活质量和治疗依从性。研究人员认为需要开展进一步研究去深入理解之间的关联。",
-      "url": "https://www.solidot.org/story?sid=84914",
       "category": ""
     }
   ],
