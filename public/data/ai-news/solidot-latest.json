@@ -1,8 +1,29 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-07-26T09:51:24.379Z",
+  "fetch_time": "2026-07-26T12:49:32.092Z",
   "articles": [
+    {
+      "title": "多家知名网站考虑彻底屏蔽 Google",
+      "date": "Sun, 26 Jul 2026 10:57:43 GMT",
+      "summary": "USA Today、Politico、Economist、People 和 Reuters 等知名网络出版商考虑彻底屏蔽 Google，甚至与 Google 签署了每年 6000 万美元合同的 Reddit 也在重新评估与 Google 的关系。原因是 Google 的 AI 摘要功能导致了网站访问量大幅下降，如 USA Today 过去一年来自美国用户的访问量下降了近一半，主要吸引用户评论的 Reddit 也注意到 Google 的 AI 在阻止用户访问其网站。鉴于 Google 在搜索市场占据了最高市场份额，与 Google 完全终止关系可能会导致访问量更大幅度的下降，但继续允许 Google 抓取内容用于其 AI 功能也没有任何好处——从长远看会加速其死亡。",
+      "url": "https://www.solidot.org/story?sid=84925",
+      "category": ""
+    },
+    {
+      "title": "Cloudflare 将从 9 月 15 日起对新域名默认屏蔽 Google 爬虫",
+      "date": "Sun, 26 Jul 2026 10:35:23 GMT",
+      "summary": "Cloudflare 宣布将从 9 月 15 日起对三类机器人——搜索爬虫、训练 AI 的爬虫以及智能体机器人——设置新的默认值。对于新加入 Cloudflare 的域名，默认将屏蔽训练 AI 的爬虫以及智能体。但有些机器人爬虫兼具了搜索爬虫和 AI 爬虫的双重功能，因此根据新规则 Googlebot、Applebot 和 BingBot 都将被屏蔽。客户如果不想完全屏蔽此类双重功能爬虫，他们可以在设置中进行修改，排除如 Google 的爬虫——毕竟 Google 垄断了整个搜索市场。",
+      "url": "https://www.solidot.org/story?sid=84924",
+      "category": ""
+    },
+    {
+      "title": "苹果改编的《神经漫游者》将于明年 1 月上映",
+      "date": "Sun, 26 Jul 2026 09:26:31 GMT",
+      "summary": "苹果在 2024 年宣布将威廉·吉布森（William Gibson）著名的赛博朋克小说《神经漫游者》改编成 10 集电视剧，登陆 Apple TV Plus。在本周举行的圣迭戈漫展 Comic-Con 2026 上，苹果公布了《神经漫游者》电视剧的首个预告片，宣布它将于 2027 年 1 月 22 日上映。《神经漫游者》出版于 1984 年，故事讲述了一名神经受损的顶尖黑客 Case 与指甲下有可伸缩刀片的女刺客 Molly 搭档，对一个有着不为人知的秘密的超级企业实施盗窃活动。",
+      "url": "https://www.solidot.org/story?sid=84923",
+      "category": ""
+    },
     {
       "title": "Debian 讨论是否允许使用 LLM",
       "date": "Sat, 25 Jul 2026 15:53:13 GMT",
@@ -22,27 +43,6 @@
       "date": "Sat, 25 Jul 2026 10:57:43 GMT",
       "summary": "在一群初创公司之后，科技巨头如微软、英伟达、思科、戴尔、IBM、甚至 OpenAI 等数十家公司和组织联署发表公开信，呼吁美国政府不要过早限制开放权重模型，认为此举会扼杀竞争或导致本土创新放缓。公开信称，开放权重模型能促进竞争，确保 AI 技术的好处能广泛共享，避免其掌握在少数人手中，而闭源模型并不意味着绝对安全。没有署名的知名 AI 公司包括了 Google、Anthropic 以及 xAI/SpaceX，其中 SpaceX CEO 马斯克通过社交媒体口头表达了对公开信的支持，而 Anthropic 明显是站在支持限制开放权重模型的一边，该公司正投入 4000 万美元游说特朗普政府加强监管 AI 模型。",
       "url": "https://www.solidot.org/story?sid=84920",
-      "category": ""
-    },
-    {
-      "title": "IRGC 声称摧毁了亚马逊巴林数据中心",
-      "date": "Fri, 24 Jul 2026 16:13:35 GMT",
-      "summary": "IRGC 声称使用巡航导弹袭击并摧毁了亚马逊 AWS 位于巴林的数据中心。亚马逊和美国军方未证实这一说法。如果属实，这是亚马逊巴林数据中心第三次遭到袭击，根据 AWS 自己的公告，巴林数据中心自 2026 年 5 月以来就处于离线状态。",
-      "url": "https://www.solidot.org/story?sid=84919",
-      "category": ""
-    },
-    {
-      "title": "印度政府命令 GitHub 移除 Jack Dorsey 的蓝牙聊天应用 Bitchat",
-      "date": "Fri, 24 Jul 2026 15:46:29 GMT",
-      "summary": "印度政府的网络犯罪协调中心命令 GitHub 移除 Jack Dorsey 的去中心化蓝牙聊天应用 Bitchat。前 Twitter CEO Dorsey 在 X/Twitter 上公布了收到的通知，通知的日期是 7 月 23 日，声称该应用能在网络受限的情况下进行通信，能被反国家分子、恐怖组织、有组织犯罪集团和网络犯罪分子滥用，他们试图逃避合法监测，继续在法律限制下进行通信。印度最近爆发了被称为“蟑螂人民党（Cockroach Janta Party)”的抗议活动。",
-      "url": "https://www.solidot.org/story?sid=84918",
-      "category": ""
-    },
-    {
-      "title": "Google 账号支持自拍人脸登录",
-      "date": "Fri, 24 Jul 2026 12:06:23 GMT",
-      "summary": "Google 账号加入了可选的人脸识别登录。用户向 Google 提供自拍视频，随后就可通过人脸识别登录。在人脸验证过程中 Google 可能会要求用户以特定方式转动头部，此举旨在防止深度伪造之类的身份冒用，确保用户当前确实在摄像头前。Google 需要保存用户的自拍视频以将其用于未来的登录验证。搜索巨人表示会对视频进行加密，且仅用于登录不会用于其它用途。如果用户改变主意，可以从 Google 帐户中删除相关视频。",
-      "url": "https://www.solidot.org/story?sid=84917",
       "category": ""
     }
   ],
