@@ -1,8 +1,62 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-07-28T02:55:30.569Z",
-  "articles": [],
+  "fetch_time": "2026-07-28T06:25:24.746Z",
+  "articles": [
+    {
+      "title": "Concept-based Visual Counterfactual Explanations with Diffusion Models",
+      "date": "Tue, 28 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.22544v1 Announce Type: new Abstract: Visual counterfactual explanations aim to answer \"what minimal change to this image would flip the model's prediction?\", and are increasingly important as vision models are deployed in safety-critical domains (e.g., medicine). Existing diffusion-based methods can produce realistic edits, but they rely on external classifiers that must work reliably on noisy images, which makes them fragile and hard to deploy for robust explanations. We introduce C-",
+      "url": "https://arxiv.org/abs/2607.22544",
+      "category": [
+        "cs.AI",
+        "cs.CV"
+      ]
+    },
+    {
+      "title": "SeT-Diff: Towards Semantic Foundation Models for HPC Telemetry and Time-Series",
+      "date": "Tue, 28 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.22548v1 Announce Type: new Abstract: Data centers and their compute nodes require accurate and flexible digital twins capable of modeling the complex interplay of workloads, environmental parameters, and physical metrics. Current machine learning approaches for HPC and its telemetry typically rely on a static subset of anonymous, fixed-position sensor variables tailored to single tasks. Consequently, these models become obsolete when target tasks change or sensor metrics vary. We prop",
+      "url": "https://arxiv.org/abs/2607.22548",
+      "category": [
+        "cs.AI",
+        "cs.LG",
+        "cs.PF"
+      ]
+    },
+    {
+      "title": "QFoldAgent: An Autonomous Quantum Optimization Multi-Agent System for Protein Structure Prediction",
+      "date": "Tue, 28 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.22549v1 Announce Type: new Abstract: Hybrid quantum-classical protein structure prediction depends strongly on Hamiltonian penalty weights, yet existing lattice-based workflows typically fix these coefficients by hand and evaluate only very short fragments in simulation. We present QFoldAgent, a closed-loop multi-agent framework for 5-residue tetrahedral-lattice folding in which a design agent proposes sequence-conditioned penalties, a VQE-based quantum-classical pipeline optimizes th",
+      "url": "https://arxiv.org/abs/2607.22549",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Same Question, Different Answers: Evaluating LLM Reliability Beyond Accuracy",
+      "date": "Tue, 28 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.22554v1 Announce Type: new Abstract: Large language models (LLMs) often achieve strong accuracy on benchmarks, yet it remains unclear how reliably they apply this knowledge when the same question is phrased in different but equivalent ways. In this work, we study how model answers change under meaning-preserving paraphrases across factual question answering and mathematical reasoning tasks. Across four benchmarks and 13 models, we find that model outputs frequently depend on the exact",
+      "url": "https://arxiv.org/abs/2607.22554",
+      "category": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "DeepLens Diagnosis Agent: Agentic Workflow Design Lets a Small Reasoning Model Compete with Frontier LLMs",
+      "date": "Tue, 28 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.22555v1 Announce Type: new Abstract: Medical diagnosis is a multi-stage process: extract facts, consult knowledge, generate a differential analysis, and select the best diagnosis with explanations. Frontier LLMs are strong generalists, but single-shot prompting often yields brittle diagnostic reasoning. We present the DeepLens Diagnosis Agent, a five-stage harnessing pipeline (combining model capabilities with disciplined process constraints) centered on a small medical reasoning mode",
+      "url": "https://arxiv.org/abs/2607.22555",
+      "category": "cs.AI"
+    },
+    {
+      "title": "MIITA: Memory-Induced Inference-Time Adaptation for Continual Learning with Small Language Models",
+      "date": "Tue, 28 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.22556v1 Announce Type: new Abstract: Continual learning (CL) is essential for small language models (SLMs) to adapt to evolving real-world needs in resource-constrained deployments. However, directly updating their limited parameter space causes catastrophic forgetting. While memory-based methods naturally address this by decoupling knowledge retention from parameters, existing approaches designed for large language models (LLMs) rely on abundant storage and strong in-context reasonin",
+      "url": "https://arxiv.org/abs/2607.22556",
+      "category": "cs.AI"
+    }
+  ],
   "status": "success",
   "error": null
 }

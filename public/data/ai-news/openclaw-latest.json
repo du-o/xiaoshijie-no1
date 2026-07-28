@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-07-28T02:55:41.879Z",
+  "fetch_time": "2026-07-28T06:25:37.485Z",
   "articles": [
+    {
+      "title": "openclaw 2026.7.2-beta.5",
+      "date": "2026-07-28T03:23:12Z",
+      "summary": "## 2026.7.2\n\n### Highlights\n\n- **State safety and recovery:** protect persisted data with a quarantine store that survives primary-database damage, crash-recoverable SQLite snapshots, crash-durable fi...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.2-beta.5",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.7.2-beta.5",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.7.2-beta.3",
       "date": "2026-07-18T23:16:53Z",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.7.1",
-      "downloadCount": 92173
+      "downloadCount": 93006
     },
     {
       "title": "openclaw 2026.7.1-beta.6",
@@ -52,16 +62,6 @@
       "author": "github-actions[bot]",
       "tagName": "v2026.7.1-beta.6",
       "downloadCount": 181
-    },
-    {
-      "title": "OpenClaw 2026.7.1-beta.5",
-      "date": "2026-07-11T10:36:02Z",
-      "summary": "## 2026.7.1\n\n### Highlights\n\n- **New models and providers:** add Featherless, Claude Sonnet 5 and Mythos 5, Meta Muse Spark 1.1, and ClawRouter; make GPT-5.6 the new-setup default with `/think ultra` ...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.1-beta.5",
-      "category": "Release",
-      "author": "vincentkoc",
-      "tagName": "v2026.7.1-beta.5",
-      "downloadCount": 154
     }
   ],
   "status": "success",
