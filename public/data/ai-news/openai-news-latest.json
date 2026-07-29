@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-07-28T13:22:56.859Z",
+  "fetch_time": "2026-07-29T03:15:10.361Z",
   "articles": [
+    {
+      "title": "Scientific computing in the age of agentic AI",
+      "date": "Tue, 28 Jul 2026 17:00:00 GMT",
+      "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+      "url": "https://openai.com/index/scientific-computing-agentic-ai",
+      "category": "Publication"
+    },
     {
       "title": "How AI is expanding what people do at work",
       "date": "Mon, 27 Jul 2026 03:30:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
       "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
       "category": "Global Affairs"
-    },
-    {
-      "title": "Introducing OpenAI Presence",
-      "date": "Wed, 22 Jul 2026 05:30:00 GMT",
-      "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
-      "url": "https://openai.com/index/introducing-openai-presence",
-      "category": "Product"
     }
   ],
   "status": "success",
