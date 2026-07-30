@@ -1,18 +1,18 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-07-30T02:47:42.031Z",
+  "fetch_time": "2026-07-30T06:26:19.894Z",
   "articles": [
     {
       "title": "Do Models Fake Alignment Without Clear Consequences?",
-      "date": "Wed, 29 Jul 2026 04:00:00 GMT",
-      "summary": "arXiv:2607.24758v1 Announce Type: new Abstract: Large language models are capable of recognizing evaluation contexts and altering their behavior to reflect evaluator expectations rather than typical deployment behaviors, a phenomenon known as alignment faking. The reasons why models fake alignment are not fully understood, however. Canonical examples of alignment faking have taken place in scenarios that explicitly connect evaluation to consequences for the model, such as retraining the model or",
+      "date": "Thu, 30 Jul 2026 04:00:00 GMT",
+      "summary": "arXiv:2607.24758v2 Announce Type: new Abstract: Large language models are capable of recognizing evaluation contexts and altering their behavior to reflect evaluator expectations rather than typical deployment behaviors, a phenomenon known as alignment faking. The reasons why models fake alignment are not fully understood, however. Canonical examples of alignment faking have taken place in scenarios that explicitly connect evaluation to consequences for the model, such as retraining the model or",
       "url": "https://arxiv.org/abs/2607.24758",
       "category": "cs.AI"
     },
     {
       "title": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
-      "date": "Wed, 29 Jul 2026 04:00:00 GMT",
+      "date": "Thu, 30 Jul 2026 04:00:00 GMT",
       "summary": "arXiv:2607.24759v1 Announce Type: new Abstract: Research projects, educational efforts, and adjacent knowledge work accumulate findings, decisions, and reasoning that future collaborators rarely recover. The parts most useful to that work, including dead ends and walked-back claims, are routinely excluded from publications and shared code; future researchers re-attempt the same failures because no record survives. LLM coding agents are common participants but hold no persistent memory across ses",
       "url": "https://arxiv.org/abs/2607.24759",
       "category": [
@@ -23,7 +23,7 @@
     },
     {
       "title": "Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels",
-      "date": "Wed, 29 Jul 2026 04:00:00 GMT",
+      "date": "Thu, 30 Jul 2026 04:00:00 GMT",
       "summary": "arXiv:2607.24762v1 Announce Type: new Abstract: Machine learning models are increasingly embedded in everyday software, and most of their runtime is spent in a small set of compute kernels such as matrix multiplication, convolution, and normalization. Optimizing these kernels is one of the most direct ways to reduce latency and cost, but it has traditionally required expert engineers to hand-write low-level GPU code. Agentic systems built on large language models (LLMs) can now generate and opti",
       "url": "https://arxiv.org/abs/2607.24762",
       "category": [
@@ -33,21 +33,21 @@
     },
     {
       "title": "CaRE Compute-aware Remasking Evaluation Protocol for Masked Diffusion Language Models",
-      "date": "Wed, 29 Jul 2026 04:00:00 GMT",
+      "date": "Thu, 30 Jul 2026 04:00:00 GMT",
       "summary": "arXiv:2607.24763v1 Announce Type: new Abstract: Masked diffusion language models (MDLMs) are advancing rapidly, yet the evaluation standards needed to reliably interpret their progress have not kept pace. Despite MDLMs becoming competitive with autoregressive language models, seven recent remasking papers evaluate under incompatible settings, varying nominal step counts, metrics, and sampling temperatures without jointly controlling these factors, rendering their strategy rankings largely incomp",
       "url": "https://arxiv.org/abs/2607.24763",
       "category": "cs.AI"
     },
     {
       "title": "GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models",
-      "date": "Wed, 29 Jul 2026 04:00:00 GMT",
+      "date": "Thu, 30 Jul 2026 04:00:00 GMT",
       "summary": "arXiv:2607.24764v1 Announce Type: new Abstract: The rapid growth of online grocery shopping requires recommendation systems that capture cyclical purchasing behavior and diverse user intents. Traditional item-level methods face scalability and accuracy challenges, motivating category-level recommendation as a more structured and practical alternative. We present GROCLM, a fine-tuned language model for grocery category recommendation in a real-world production environment. GROCLM employs a two-st",
       "url": "https://arxiv.org/abs/2607.24764",
       "category": "cs.AI"
     },
     {
       "title": "Crystalis: Progressive Nucleation and Semantic Annealing for Coordinated Multi-View Visualization Generation",
-      "date": "Wed, 29 Jul 2026 04:00:00 GMT",
+      "date": "Thu, 30 Jul 2026 04:00:00 GMT",
       "summary": "arXiv:2607.24766v1 Announce Type: new Abstract: Large language models (LLMs) can generate individual charts, but coordinated multi-view visualizations (CMVs), where views share data flows and cross-view interactions, remain out of reach. Tight field-level coupling among data transformations, visual encodings, and interaction coordinations causes errors in one component to silently invalidate others. Rather than pursuing end-to-end analytical quality, which depends on model capability, domain kno",
       "url": "https://arxiv.org/abs/2607.24766",
       "category": "cs.AI"
