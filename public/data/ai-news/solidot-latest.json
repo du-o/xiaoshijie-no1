@@ -1,8 +1,22 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-07-30T10:14:17.816Z",
+  "fetch_time": "2026-07-30T13:19:17.996Z",
   "articles": [
+    {
+      "title": "辣椒有助于减轻极端疼痛",
+      "date": "Thu, 30 Jul 2026 12:42:07 GMT",
+      "summary": "辣椒的活性成分辣椒素能与监测极端环境热源的受体 TRPV1 结合，模拟强烈的灼烧感，欺骗神经系统，激发身体强烈反应，但并不会真的在身体上什么伤痕。医生已在利用这种局部化学反应去缓解慢性疼痛。根据发表在《Physiology &amp; Behavior》期刊上的一项研究，重庆师范大学的研究人员发现辣椒有助于减轻极端疼痛。研究人员从学校招募了 了48 名无痛史的健康年轻人，让学生口含掺有辣椒粉的明胶块五分钟，然后用激光红外热脉冲照射手背，体会炙热的疼感。激光强度有轻重之分。结果发现，相比对照组，辣椒对轻度照射没产生有区别的影响，但显著降低了重度照射产生的疼痛感。",
+      "url": "https://www.solidot.org/story?sid=84964",
+      "category": ""
+    },
+    {
+      "title": "熊本地震导致当地半导体工厂停工 ",
+      "date": "Thu, 30 Jul 2026 09:02:58 GMT",
+      "summary": "熊本所在的九州“硅岛”贡献日本全国超五成半导体产值，M7.1 级地震导致当地大量半导体工厂停工。台积电在熊本的工厂主要是使用成熟制程生产车用芯片。索尼熊本工厂则主要生产车载摄像头使用的图像传感器。台积电、索尼、瑞萨电子等半导体工厂都已停工。台积电表示目前正在确认建筑物的安全性，“设备调试需要一定时间”。在半导体工厂，需经过数百道工序才能形成精细的电路。通常来说，从晶圆投入到成品出货需要约三个月时间，一旦生产中的产品出现任何细微损伤，就必须报废。",
+      "url": "https://www.solidot.org/story?sid=84963",
+      "category": ""
+    },
     {
       "title": "日本人口 42 年来首次跌破 1.2 亿",
       "date": "Thu, 30 Jul 2026 07:50:28 GMT",
@@ -29,20 +43,6 @@
       "date": "Wed, 29 Jul 2026 15:56:34 GMT",
       "summary": "GCC 指导委员会宣布采纳 GCC AI 政策工作组推荐的 AI 贡献政策。GCC 将拒绝任何“包含 LLM 生成的内容或源自 LLM 生成的内容的具有法律意义的贡献”。所谓“具有法律意义”指的是“约 15 行代码和/或文本”即可被视为具有版权意义。GCC 维护者可选择接受由 LLM 生成的具有法律意义的测试用例。AI 政策不禁止将 LLM 用于研究、分析、Bug 发现和报告、补丁审查等用途，只要其输出不包含在贡献中即可。指导委员会表示，AI 政策将不断发展完善，定期进行修订。",
       "url": "https://www.solidot.org/story?sid=84958",
-      "category": ""
-    },
-    {
-      "title": "微软悄悄在 Windows 11 上安装了 OneDrive Photos",
-      "date": "Wed, 29 Jul 2026 15:40:34 GMT",
-      "summary": "微软被发现不经过用户同意悄悄在 Windows 11 上安装了一个新应用 OneDrive Photos，可能是通过 Windows Update 或 OneDrive 客户端更新安装到设备上的。该应用的可执行文件是 C:\\Program Files\\Microsoft OneDrive\\OneDrive.App.exe，它是基于 WebView2，并非原生应用。相比下 OneDrive 客户端的可执行文件是 C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe。OneDrive Photos 会自动扫描设备上的照片，其中的 People 栏还会请求扫描你的脸部。",
-      "url": "https://www.solidot.org/story?sid=84957",
-      "category": ""
-    },
-    {
-      "title": "Google 研究未发现有证据显示 AI 将导致大规模自动化以及能取代白领",
-      "date": "Wed, 29 Jul 2026 15:19:14 GMT",
-      "summary": "Google 发表研究报告《AI &amp; Economy ATLAS》，它未发现有明确证据显示 AI 将导致大规模自动化以及能取代白领工作。报告是基于对 Gemini App、Google AI Mode 和 Gemini API 上 1500 万次匿名化 AI 交互的活动、任务、全景趋势和普及研究。研究发现，AI 应用仍停留在浅层，且主要以协作为主，端到端任务自动化的范围有限。计算机、金融、艺术和娱乐等领域的白领工作的 Gemini 普及率高于其它领域，金融/市场分析师、软件开发者和系统管理员是 AI 的高频用户，销售、运输工人以及食品加工/服务人员很少使用 AI。29% 的职业 AI 的影响微乎其微，另外 30% 的职业大部分工作仍然由人类负责。只有 3% 的职业会经常性的使用 AI，这些受 AI 影响最大的职业包括了软件 QA 分析师和测试人员、HR 专家以及文档管理专家。数据表明 AI 目前主要作为现有工作的补充，对某些职业中的部分任务有用，未被全面用于执行目前由人类完成的工作。员工外包给 AI 的认知任务绝大多数都不需要太多专业知识。",
-      "url": "https://www.solidot.org/story?sid=84956",
       "category": ""
     }
   ],
