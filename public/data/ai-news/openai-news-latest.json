@@ -1,8 +1,29 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-07-29T13:29:12.903Z",
+  "fetch_time": "2026-07-30T02:47:41.837Z",
   "articles": [
+    {
+      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "date": "Wed, 29 Jul 2026 15:00:00 GMT",
+      "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "category": "Research"
+    },
+    {
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "date": "Wed, 29 Jul 2026 10:00:00 GMT",
+      "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "category": "Company"
+    },
+    {
+      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+      "date": "Wed, 29 Jul 2026 00:00:00 GMT",
+      "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+      "category": "Engineering"
+    },
     {
       "title": "Scientific computing in the age of agentic AI",
       "date": "Tue, 28 Jul 2026 17:00:00 GMT",
@@ -23,27 +44,6 @@
       "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
       "url": "https://openai.com/index/health-in-chatgpt",
       "category": "Product"
-    },
-    {
-      "title": "Building AI infrastructure with the Effingham County community",
-      "date": "Wed, 22 Jul 2026 13:00:00 GMT",
-      "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
-      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-      "category": "Global Affairs"
-    },
-    {
-      "title": "How news organizations are using AI to advance their vital missions",
-      "date": "Wed, 22 Jul 2026 13:00:00 GMT",
-      "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
-      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
-      "category": "Company"
-    },
-    {
-      "title": "Advancing the next era of national science",
-      "date": "Wed, 22 Jul 2026 12:00:00 GMT",
-      "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
-      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-      "category": "Global Affairs"
     }
   ],
   "status": "success",
