@@ -1,8 +1,22 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-07-30T13:19:13.846Z",
+  "fetch_time": "2026-07-31T03:30:42.278Z",
   "articles": [
+    {
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "date": "Thu, 30 Jul 2026 10:00:00 GMT",
+      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "category": "Product"
+    },
+    {
+      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+      "date": "Thu, 30 Jul 2026 00:00:00 GMT",
+      "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
+      "url": "https://openai.com/index/avatarin",
+      "category": ""
+    },
     {
       "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
       "date": "Wed, 29 Jul 2026 15:00:00 GMT",
@@ -30,20 +44,6 @@
       "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
       "url": "https://openai.com/index/scientific-computing-agentic-ai",
       "category": "Publication"
-    },
-    {
-      "title": "How AI is expanding what people do at work",
-      "date": "Mon, 27 Jul 2026 03:30:00 GMT",
-      "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
-      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-      "category": "Company"
-    },
-    {
-      "title": "Launching Health in ChatGPT ",
-      "date": "Thu, 23 Jul 2026 00:00:00 GMT",
-      "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
-      "url": "https://openai.com/index/health-in-chatgpt",
-      "category": "Product"
     }
   ],
   "status": "success",
