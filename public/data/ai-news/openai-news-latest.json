@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-08-04T03:14:31.339Z",
+  "fetch_time": "2026-08-04T06:26:09.823Z",
   "articles": [
+    {
+      "title": "Apple is getting this wrong",
+      "date": "Mon, 03 Aug 2026 22:00:00 GMT",
+      "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+      "url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "category": "Company"
+    },
     {
       "title": "How we built a realtime system for responsive voice AI in six months",
       "date": "Mon, 03 Aug 2026 07:00:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
       "url": "https://openai.com/index/building-abundant-intelligence",
       "category": "Company"
-    },
-    {
-      "title": "Univé builds an AI-ready workforce",
-      "date": "Fri, 31 Jul 2026 07:00:00 GMT",
-      "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
-      "url": "https://openai.com/index/unive",
-      "category": ""
     }
   ],
   "status": "success",
