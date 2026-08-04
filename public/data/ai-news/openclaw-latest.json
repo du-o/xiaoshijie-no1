@@ -1,8 +1,28 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-08-03T14:07:50.717Z",
+  "fetch_time": "2026-08-04T03:14:47.732Z",
   "articles": [
+    {
+      "title": "openclaw 2026.7.1-2",
+      "date": "2026-08-04T00:41:26Z",
+      "summary": "\n### Fixes\n\n- **npm plugin updates:** accept singleton-array metadata from newer npm clients so tracked official plugins can install and update to correction releases. (#108336)\n\n",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.1-2",
+      "category": "Release",
+      "author": "vincentkoc",
+      "tagName": "v2026.7.1-2",
+      "downloadCount": 0
+    },
+    {
+      "title": "openclaw 2026.7.1-1",
+      "date": "2026-08-04T00:41:25Z",
+      "summary": "\n### Fixes\n\n- **Codex progress replies:** keep app-server turns running after delivered progress messages so GPT/Codex reaches its authoritative terminal response instead of stopping mid-turn. (#10696...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.1-1",
+      "category": "Release",
+      "author": "vincentkoc",
+      "tagName": "v2026.7.1-1",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.7.2-beta.7",
       "date": "2026-08-02T08:11:31Z",
@@ -11,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.7.2-beta.7",
-      "downloadCount": 144
+      "downloadCount": 189
     },
     {
       "title": "openclaw 2026.7.2-beta.6",
@@ -42,26 +62,6 @@
       "author": "github-actions[bot]",
       "tagName": "v2026.7.2-beta.3",
       "downloadCount": 826
-    },
-    {
-      "title": "openclaw 2026.7.2-beta.2",
-      "date": "2026-07-17T08:38:04Z",
-      "summary": "## 2026.7.2\n\n### Highlights\n\n- **Remote coding sessions:** run Control UI sessions on cloud workers, open Codex and Claude catalog sessions in terminals on their owning hosts, and resume OpenCode and ...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.2-beta.2",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.7.2-beta.2",
-      "downloadCount": 293
-    },
-    {
-      "title": "openclaw 2026.7.2-beta.1",
-      "date": "2026-07-15T18:48:24Z",
-      "summary": "## 2026.7.2\n\n### Highlights\n\n- **Remote coding sessions:** run Control UI sessions on cloud workers, open Codex and Claude catalog sessions in terminals on their owning hosts, and resume OpenCode and ...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.2-beta.1",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.7.2-beta.1",
-      "downloadCount": 264
     }
   ],
   "status": "success",

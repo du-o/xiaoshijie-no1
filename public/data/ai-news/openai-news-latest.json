@@ -1,8 +1,22 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-08-03T14:07:35.672Z",
+  "fetch_time": "2026-08-04T03:14:31.339Z",
   "articles": [
+    {
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "date": "Mon, 03 Aug 2026 07:00:00 GMT",
+      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "category": "Engineering"
+    },
+    {
+      "title": "Circles powers telco personalization with OpenAI technology",
+      "date": "Mon, 03 Aug 2026 00:00:00 GMT",
+      "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+      "url": "https://openai.com/index/circles",
+      "category": ""
+    },
     {
       "title": "Ten advances in mathematics and theoretical computer science",
       "date": "Sat, 01 Aug 2026 00:00:00 GMT",
@@ -30,20 +44,6 @@
       "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
       "url": "https://openai.com/index/unive",
       "category": ""
-    },
-    {
-      "title": "Disrupting a Criminal Scam Operation",
-      "date": "Fri, 31 Jul 2026 00:00:00 GMT",
-      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "category": ""
-    },
-    {
-      "title": "Advancing the price-performance frontier with GPT-5.6",
-      "date": "Thu, 30 Jul 2026 10:00:00 GMT",
-      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-      "category": "Product"
     }
   ],
   "status": "success",
