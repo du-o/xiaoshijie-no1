@@ -1,62 +1,134 @@
 {
-  "fetch_time": "2026-08-04T10:27:47.118Z",
+  "fetch_time": "2026-08-04T13:29:32.809Z",
   "total_count": 36,
   "sources_count": 6,
   "errors": null,
   "articles": [
     {
-      "title": "自研高性能分布式解决方案，「芯晓科技」将芯片电源签核周期从几周缩短至几天 | 水下项目",
-      "date": "Tue, 04 Aug 2026 10:27:21 GMT",
-      "summary": "一枚先进制程芯片从设计、验证，到流片、制造，需要经过上百个环节。其中电源签核（Sign-off）是设计流程最后的、也最重要的一环，相当于建造一栋大楼时对全楼供电系统进行竣工验收。 具体来说，电源核签是通过对电源网络的上亿个节点进行整体分析，测试供电网络的功耗、电压降与电迁移等表现，从而决定芯片能否顺利进入量产流片。一旦结果出错，不仅导致芯片性能不达标，甚至会造成流片失败。 由于芯片电源网络是由大量金属线组成的互联结构，因此电源签核时必须将其作为一个整体进行分析，“相当于求解一个维度高达数亿的稀疏矩阵方程，完成一次需要大量时间。”「芯晓科技」总经理谢卓解释道。 而随着芯片工艺制程不断缩小，晶体管数量指数级增加，电源核签的周期被进一步不断拉长，一次完整的电源签核往往需要几周时间之久。如果分析结果不理想，设计工程师还需要根据反馈修改版图，再重复一轮电源签核。 针对这一行业痛点，芯晓科技运用分布式矩阵求解技术，打破电源核签效率制约芯片交付周期瓶颈。公司推出的首款数字电源签核工具“IcPower”，支持7nm等先进工艺，能满足百亿门级芯片电源，在典型测试用例中速度是国外大厂工具的4.5-8.5倍",
-      "url": "https://36kr.com/p/3925067918227591?f=rss",
+      "title": "协创数据：拟使用不超70亿元自有资金进行委托理财",
+      "date": "Tue, 04 Aug 2026 12:59:26 GMT",
+      "summary": "36氪获悉，协创数据公告，公司及子公司拟使用最高额度合计不超过（含）70亿元人民币（或等值其他币种）的自有资金进行委托理财。其中，拟使用最高额度不超过（含）60亿元用于协定存款。",
+      "url": "https://36kr.com/newsflashes/3925219184179336?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "中国国新、兴湘集团成立新企业管理公司，注册资本1000万",
-      "date": "Tue, 04 Aug 2026 10:25:11 GMT",
-      "summary": "36氪获悉，天眼查App显示，近日，湖南国同新湘企业管理有限公司成立，法定代表人为王启军，注册资本1000万人民币，经营范围为企业管理、企业管理咨询。股东信息显示，该公司由中国国新旗下国新国同（杭州）股权投资有限公司、湖南兴湘资本管理有限公司共同持股。",
-      "url": "https://36kr.com/newsflashes/3925067560302984?f=rss",
+      "title": "埃斯顿：全资子公司拟合计4.87亿元收购埃斯顿酷卓股权",
+      "date": "Tue, 04 Aug 2026 12:54:56 GMT",
+      "summary": "36氪获悉，埃斯顿公告，公司全资子公司南京埃斯顿机器人工程有限公司、南京鼎通机电自动化有限公司拟以支付现金方式收购南京埃斯顿酷卓科技有限公司（简称“埃斯顿酷卓”）股权，交易总金额为4.87亿元。本次交易完成后，公司通过子公司间接持有埃斯顿酷卓100%股权，并将其纳入合并报表范围。",
+      "url": "https://36kr.com/newsflashes/3925214768199813?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "市场监管总局召开深入贯彻落实公平竞争审查制度专项行动推进会",
-      "date": "Tue, 04 Aug 2026 10:24:39 GMT",
-      "summary": "36氪获悉，据中国反垄断，7月28日，市场监管总局在北京召开深入贯彻落实公平竞争审查制度专项行动推进会，听取有关地方工作进展情况，总结阶段性工作成效，部署推动下一阶段重点工作任务。会议强调，要在严格规范审查、加强监督保障、提升审查能力、强化宣传倡导等方面持续加力，进一步推动公平竞争审查制度深入落实，确保“应审尽审”“凡审必严”。要对企业反映强烈的不当干预市场竞争痛点卡点和公平竞争问题较多地区开展重点抽查，统筹运用抽查、约谈、通报、立案等监管工具，压紧压实审查责任，切实强化公平竞争审查刚性约束。",
-      "url": "https://36kr.com/newsflashes/3925067035654274?f=rss",
+      "title": "热门中概股美股盘前普跌，名创优品跌超2%",
+      "date": "Tue, 04 Aug 2026 12:51:04 GMT",
+      "summary": "36氪获悉，热门中概股美股盘前普跌，截至发稿，名创优品跌超2%，小鹏集团、理想汽车、哔哩哔哩、拼多多、网易、微博跌超1%，蔚来跌0.42%。",
+      "url": "https://36kr.com/newsflashes/3925210964883592?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "Spotify的Premium付费用户数突破3亿",
-      "date": "Tue, 04 Aug 2026 10:18:38 GMT",
-      "summary": "Spotify当地时间8月4日公布二季度营收47.8亿欧元，同比增长14%；第二季度经营利润6.55亿欧元，同比增长61%；Premium付费用户数同比增长9%至3亿，月活用户数同比增长12%至7.77亿。Spotify预计三季度Premium付费用户数达3.05亿，月活用户数为7.88亿，营收达到50亿欧元。（界面）",
-      "url": "https://36kr.com/newsflashes/3925061114984838?f=rss",
+      "title": "美股大型科技股盘前涨跌不一，英伟达涨超1%",
+      "date": "Tue, 04 Aug 2026 12:48:29 GMT",
+      "summary": "36氪获悉，美股大型科技股盘前涨跌不一，截至发稿，Arm、英特尔涨超4%，SpaceX、英伟达涨超1%，特斯拉涨0.84%；微软、亚马逊跌超2%，谷歌、Meta、奈飞跌超1%，苹果跌0.15%。",
+      "url": "https://36kr.com/newsflashes/3925208427395461?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "中通客车：7月销售量1138辆，同比增长12.34%",
-      "date": "Tue, 04 Aug 2026 10:16:39 GMT",
-      "summary": "36氪获悉，中通客车公告，7月销售量1138辆，同比增长12.34%。本年累计销售量8738辆，同比增长27.52%。",
-      "url": "https://36kr.com/newsflashes/3925059170924931?f=rss",
+      "title": "麦当劳宣布更换美国业务总裁",
+      "date": "Tue, 04 Aug 2026 12:44:08 GMT",
+      "summary": "麦当劳8月4日宣​​布，在公司拥有超26年工作经验的Skye Anderson出任麦当劳美国总裁，即日起生效，接替已掌管麦当劳美国业务近7年的Joe Erlinger。麦当劳当日公布财报显示，二季度美国市场同店销售额增长0.8%，为2025年年初以来最慢增速。（界面）",
+      "url": "https://36kr.com/newsflashes/3925204145224066?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "7月两融新开户13.94万户，同比增长12.78%",
-      "date": "Tue, 04 Aug 2026 10:08:11 GMT",
-      "summary": "近日，中证数据有限责任公司披露，今年7月全市场两融新开户13.94万户，同比12.78%，环比下降22.12%。截至7月末，全市场融资融券账户总数达到1658.44万户。（证券时报）",
-      "url": "https://36kr.com/newsflashes/3925050850736518?f=rss",
+      "title": "由三星SDS牵头的韩国国家人工智能算力中心正式开工",
+      "date": "Tue, 04 Aug 2026 12:39:20 GMT",
+      "summary": "为增强韩国人工智能技术竞争力、拓展AI服务，被称作“人工智能高速通道”的人工智能算力中心建设工作正式启动。8月3日，韩国科学技术信息通信部在全罗南道光州市海南郡索拉西多数据中心园区，举办人工智能算力中心奠基仪式。该项目总投资2.5万亿韩元，占地面积约4.8万平方米，规划建设一栋两层建筑，预计2028年竣工投用。去年，三星SDS联合NAVER云、三星物产、三星电子、Kakao、KT、光州市政府以及西南海岸企业城市开发公司组建联合体，通过公开招标拿下该项目。（财联社）",
+      "url": "https://36kr.com/newsflashes/3925199434611072?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
+    },
+    {
+      "title": "Gemini Spark now integrates with Chrome",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-july-2026/",
+      "date": "2026-08-04T10:27:49.944Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Launching Lyria 3.5 in Google Flow Music",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/lyria-3-5/",
+      "date": "2026-08-04T10:27:49.944Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Inside our 353,000-person vibe coding course",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+      "date": "2026-08-04T10:27:49.944Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Reconstructing Pelé’s “lost” goal",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/reconstructing-peles-lost-goal/",
+      "date": "2026-08-04T10:27:49.944Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "5 ways to build a side hustle with Gemini",
+      "url": "https://blog.google/products-and-platforms/products/gemini/launch-business-with-gemini/",
+      "date": "2026-08-04T10:27:49.944Z",
+      "summary": "",
+      "category": "Products",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "How the Head of YouTube Health handles screen time with his kids",
+      "url": "https://blog.google/innovation-and-ai/technology/families/kids-summer-screen-time-tips/",
+      "date": "2026-08-04T10:27:49.944Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "The State of AI: A Look at What's Next",
+      "url": "https://every.to/p/the-state-of-ai",
+      "date": "2026-08-04T10:27:43.018Z",
+      "summary": "An in-depth analysis of the current AI landscape and future trends.",
+      "category": "AI Analysis",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "淡水螺新种以神兽帝江命名",
+      "date": "Tue, 04 Aug 2026 09:52:32 GMT",
+      "summary": "云南玉溪的研究人员在玉溪红塔区的一个洞穴内发现了一种新的蜗牛，以《山海经》中的山神名字命名为帝江或 Erhaia dijiang。Erhaia dijiang 完美适应了终年无光的洞穴环境，是一种典型的洞穴专生物。它在长期演化过程中完全失去了眼睛，眼部结构已彻底退化。其贝壳小巧呈圆锥形，高度透明，身体柔软且没有色素，触角细长。实验室观察发现，该物种极度畏光，一旦受到光照便会迅速钻入岩石缝隙中躲避。Erhaia dijiang 生活在海拔2062米的洞穴中，刷新了洱海螺科所有已知洞穴物种的海拔分布纪录，证明洞穴淡水螺能够在海拔超过 2000 米的喀斯特洞穴中生存。该物种栖息于水深不足 1 米的洞穴水体底部砾石和碎石之间，洞内水温常年稳定在约 20℃。雨季水流湍急时，偶尔会有少量个体被冲出洞口，但它们从未在附近地表溪流中被发现，活动范围始终局限于距洞口约两米以内。在实验室条件下，它们主要取食岩石表面的硅藻，也能够摄食人工投喂的鱼饲料。",
+      "url": "https://www.solidot.org/story?sid=85003",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
     },
     {
       "title": "久坐不动者摄入蛋白质过多可能影响代谢",
@@ -93,69 +165,6 @@
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
-    },
-    {
-      "title": "Launching Lyria 3.5 in Google Flow Music",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/lyria-3-5/",
-      "date": "2026-08-04T06:26:16.115Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Inside our 353,000-person vibe coding course",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
-      "date": "2026-08-04T06:26:16.115Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Reconstructing Pelé’s “lost” goal",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/reconstructing-peles-lost-goal/",
-      "date": "2026-08-04T06:26:16.115Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "5 ways to build a side hustle with Gemini",
-      "url": "https://blog.google/products-and-platforms/products/gemini/launch-business-with-gemini/",
-      "date": "2026-08-04T06:26:16.115Z",
-      "summary": "",
-      "category": "Products",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "How the Head of YouTube Health handles screen time with his kids",
-      "url": "https://blog.google/innovation-and-ai/technology/families/kids-summer-screen-time-tips/",
-      "date": "2026-08-04T06:26:16.115Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Gemini Spark now integrates with Chrome",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-july-2026/",
-      "date": "2026-08-04T06:26:16.114Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "The State of AI: A Look at What's Next",
-      "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-08-04T06:26:09.607Z",
-      "summary": "An in-depth analysis of the current AI landscape and future trends.",
-      "category": "AI Analysis",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "美国学校正用 MacBook Neo 取代 Chromebook",
@@ -237,13 +246,13 @@
       "source_name": "openai"
     },
     {
-      "title": "微软表示正致力于优化 Windows 11 在 8GB 内存下的运行效率 ",
-      "date": "Mon, 03 Aug 2026 16:03:05 GMT",
-      "summary": "微软 Windows 和设备执行副总裁 Pavan Davuluri 通过官方博客谈论了该公司在 Windows 11 上持续展开的改进工作，虽然大部分工作尚未推送给用户。他透露接下来的一项工作是优化 Windows 11 在 8GB 内存以上配置下的运行效率。由于目前的内存供应危机，PC 厂商又开始提供 8GB 内存配置的电脑，然而 Windows 11 在 8GB 内存下只能勉强运行，运行其它程序面临很大的局限性。Davuluri 表示该公司将减少 Windows 的内存占用，在用户日常使用的 PC 上提供快速响应的 Windows 体验。",
-      "url": "https://www.solidot.org/story?sid=84996",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
+      "title": "How Startups Are Using AI to Disrupt Industries",
+      "url": "https://every.to/source-code/ai-startups",
+      "date": "2026-08-03T10:27:43.018Z",
+      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
+      "category": "Source Code",
+      "source": "Every.to",
+      "source_name": "every"
     },
     {
       "title": "How we built a realtime system for responsive voice AI in six months",
@@ -253,15 +262,6 @@
       "category": "Engineering",
       "source": "OpenAI News",
       "source_name": "openai"
-    },
-    {
-      "title": "How Startups Are Using AI to Disrupt Industries",
-      "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-08-03T06:26:09.607Z",
-      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
-      "category": "Source Code",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "Circles powers telco personalization with OpenAI technology",
@@ -275,7 +275,7 @@
     {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-08-02T06:26:09.607Z",
+      "date": "2026-08-02T10:27:43.018Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
@@ -284,7 +284,7 @@
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-08-01T06:26:09.607Z",
+      "date": "2026-08-01T10:27:43.018Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
@@ -320,7 +320,7 @@
     {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-07-31T06:26:09.607Z",
+      "date": "2026-07-31T10:27:43.018Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -329,7 +329,7 @@
     {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-07-30T06:26:09.607Z",
+      "date": "2026-07-30T10:27:43.018Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
