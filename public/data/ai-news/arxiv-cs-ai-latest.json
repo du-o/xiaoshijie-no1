@@ -1,67 +1,56 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-08-06T03:12:57.824Z",
+  "fetch_time": "2026-08-06T06:28:29.241Z",
   "articles": [
     {
-      "title": "ISEE: Interactive Semantic Enrichment for Database Fields",
-      "date": "Wed, 05 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.02604v1 Announce Type: new Abstract: LLM-based agents are increasingly being deployed for data-related tasks, including data sense-making, exploration, and retrieval. However, their performance heavily depends on the clarity and completeness of data semantics. In practice, many field descriptions remain ambiguous or incomplete, as much of the essential context (e.g., the meaning of a customized field) originates from users' domain knowledge and is rarely documented publicly. This gap ",
-      "url": "https://arxiv.org/abs/2608.02604",
-      "category": [
-        "cs.AI",
-        "cs.IR"
-      ]
+      "title": "A Long-Run Persistence Theory for AI Systems under the Redundancy-Adjusted Artificial Age Score (AAS)",
+      "date": "Thu, 06 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.04012v1 Announce Type: new Abstract: Artificial intelligence systems are increasingly expected to operate over repeated cycles of interaction, adaptation, and update rather than through isolated one-shot outputs. This raises a fundamental theoretical question: can an AI system persist indefinitely without incurring unbounded structural aging? This paper develops a long-run persistence framework for AI systems based on the redundancy-adjusted Artificial Age Score (AAS). The model exten",
+      "url": "https://arxiv.org/abs/2608.04012",
+      "category": "cs.AI"
     },
     {
-      "title": "Self-Organising Digital Circuits",
-      "date": "Wed, 05 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.02606v1 Announce Type: new Abstract: Fault tolerance in classical computing has traditionally relied on static strategies like hardware redundancy and error-correcting codes. Biological systems, in contrast, exhibit adaptive plasticity, maintaining function through dynamic re-organisation around damage. Inspired by this principle, we introduce Self-Organising Digital Circuits, framing functional logic generation and maintenance as a meta-learning problem on graphs. Our architecture em",
-      "url": "https://arxiv.org/abs/2608.02606",
-      "category": [
-        "cs.AI",
-        "cs.NE"
-      ]
+      "title": "The LLM Proposes, the Executive Disposes: A Self-Verifying Agent Instrument that Dissociates Commitment Drift from Binding Drift in Long-Horizon Agents",
+      "date": "Thu, 06 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.04066v1 Announce Type: new Abstract: How do you verify a long-horizon agent when its own state and self-reports are exactly what you cannot trust? We present an agent instrument built so that verification is structural rather than post-hoc. A deterministic Executive owns all belief; a language model may only file typed proposals, and a claim is admitted only when a prediction pre-registered before acting is matched against observation by code. Two properties make the instrument a veri",
+      "url": "https://arxiv.org/abs/2608.04066",
+      "category": "cs.AI"
     },
     {
-      "title": "Beyond the Hivemind: Escaping LLM Homogeneity via Meta-Persona Anchoring and Sequential Temperature Scaling",
-      "date": "Wed, 05 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.02618v1 Announce Type: new Abstract: Recent studies have identified an ``Artificial Hivemind'' effect in Large Language Models (LLMs) causing models to converge on a narrow, homogenized consensus even for open questions. This semantic collapse limits the diversity of AI, resulting in high inter-response similarity ($\\approx 0.80-0.90$) even under high-temperature sampling. In this paper, we propose a novel mitigation framework to increase diversity: Meta-Persona Anchoring combined wit",
-      "url": "https://arxiv.org/abs/2608.02618",
+      "title": "Monte Carlo Tree Search for Table-to-Multimodal Report Generation",
+      "date": "Thu, 06 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.04071v1 Announce Type: new Abstract: Automatically generating professional multimodal reports comprising both textual analysis and visual charts from structured tabular data is a critical challenge in data intelligence. Existing methods suffer from fixed linear pipelines and isolated subtask processing, which hinder joint optimization of factual accuracy, visual quality, and narrative coherence. To address these issues, this paper proposes MCTS-Report, a Monte Carlo Tree Search (MCTS)",
+      "url": "https://arxiv.org/abs/2608.04071",
+      "category": "cs.AI"
+    },
+    {
+      "title": "FinProBench: Evaluating Financial AI Agents with Role-Grounded Rubrics Derived from Professional Deliverables",
+      "date": "Thu, 06 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.04077v1 Announce Type: new Abstract: Evaluating financial AI agents requires criteria aligned with real professional work. Existing rubric methods typically derive criteria from task prompts or model outputs, overlooking tacit standards visible only in practitioner deliverables. We introduce FinProBench, a benchmark for professional financial tasks, and Role-Grounded Rubric Construction (RGRC), a reusable pipeline that derives rubrics from deliverables produced by practitioners in the",
+      "url": "https://arxiv.org/abs/2608.04077",
       "category": [
         "cs.AI",
         "cs.CL"
       ]
     },
     {
-      "title": "PULSE: An Executable Contract Language for Spatiotemporal Knowledge Graph Engineering",
-      "date": "Wed, 05 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.02630v1 Announce Type: new Abstract: Knowledge graph engineering often distributes accepted state, observations, constraints, processes, and hypothetical scenarios across artifacts whose combined execution contract remains external. We present PULSE, an Object-Process-Methodology-inspired language that localizes four operational roles and their write effects in one typed runtime. Here, modes denote operational roles rather than modal or deontic logic. The implemented contract fixes ev",
-      "url": "https://arxiv.org/abs/2608.02630",
+      "title": "FinPerMA: A Theory-Informed, Event-Grounded Personalized-Memory Benchmark for LLM Agents",
+      "date": "Thu, 06 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.04095v1 Announce Type: new Abstract: Large language model (LLM) agents are increasingly used as personalized assistants in high-stakes domains such as financial advising, yet it remains unclear whether they can maintain and update an individualized user model over long horizons. Existing personalized-memory benchmarks primarily test factual retention or rely on weakly constrained model-generated trajectories, leaving event-driven preference adaptation underexplored. We introduce FinPe",
+      "url": "https://arxiv.org/abs/2608.04095",
       "category": [
         "cs.AI",
-        "cs.DB",
-        "cs.PL"
+        "cs.CL"
       ]
     },
     {
-      "title": "HyperAgent: Planning and Acting over Tool-Schema Hypergraphs for Tool-Use LLM Agents",
-      "date": "Wed, 05 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.02650v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly rely on external tools to complete complex real-world tasks. However, reliable tool-use planning remains challenging due to the limitations of implicit reasoning and the evolving nature of real-world execution environments. Existing tool-use agents typically rely on LLMs to infer tool compositions from textual descriptions, which can lead to inefficient exploration and unreliable execution in complex t",
-      "url": "https://arxiv.org/abs/2608.02650",
+      "title": "BrainBench: Benchmarking Large Language Models for Comprehensive EEG Understanding",
+      "date": "Thu, 06 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.04156v1 Announce Type: new Abstract: Electroencephalography (EEG) analysis extends beyond assigning predefined labels to recordings; it requires workflows connecting natural-language instructions, signal processing, quantitative evidence, and scientific interpretation. We term this capability \\emph{comprehensive EEG understanding}. Existing evaluations, however, primarily target isolated decoding tasks or system-specific demonstrations, leaving the competence of large language models ",
+      "url": "https://arxiv.org/abs/2608.04156",
       "category": [
         "cs.AI",
-        "cs.SE"
-      ]
-    },
-    {
-      "title": "Explainable AI for the EU Right to Explanation: A Systematic Review of the Law-XAI Translation Gap",
-      "date": "Wed, 05 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.02699v1 Announce Type: new Abstract: When algorithms make or influence consequential decisions---about loan eligibility, hiring, or healthcare---EU law grants affected individuals a Right to Explanation. Yet whether (and how) Explainable AI (XAI) can satisfy this right in practice remains poorly understood, with direct implications for individuals' ability to contest automated decisions that affect their lives. This paper presents a systematic literature review of XAI in the context o",
-      "url": "https://arxiv.org/abs/2608.02699",
-      "category": [
-        "cs.AI",
-        "cs.CY",
         "cs.LG"
       ]
     }
