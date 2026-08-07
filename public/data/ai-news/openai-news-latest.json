@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-08-07T08:47:05.361Z",
+  "fetch_time": "2026-08-07T12:32:53.413Z",
   "articles": [
+    {
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "date": "Fri, 07 Aug 2026 09:00:00 GMT",
+      "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+      "url": "https://openai.com/index/hsp-gruppe",
+      "category": ""
+    },
     {
       "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
       "date": "Thu, 06 Aug 2026 10:00:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
       "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
       "category": "Product"
-    },
-    {
-      "title": "Apple is getting this wrong",
-      "date": "Mon, 03 Aug 2026 22:00:00 GMT",
-      "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
-      "url": "https://openai.com/index/apple-is-getting-this-wrong",
-      "category": "Company"
     }
   ],
   "status": "success",
