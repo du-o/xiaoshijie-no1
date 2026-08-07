@@ -1,58 +1,65 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-08-07T02:54:24.304Z",
+  "fetch_time": "2026-08-07T05:38:52.663Z",
   "articles": [
     {
-      "title": "A Long-Run Persistence Theory for AI Systems under the Redundancy-Adjusted Artificial Age Score (AAS)",
-      "date": "Thu, 06 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.04012v1 Announce Type: new Abstract: Artificial intelligence systems are increasingly expected to operate over repeated cycles of interaction, adaptation, and update rather than through isolated one-shot outputs. This raises a fundamental theoretical question: can an AI system persist indefinitely without incurring unbounded structural aging? This paper develops a long-run persistence framework for AI systems based on the redundancy-adjusted Artificial Age Score (AAS). The model exten",
-      "url": "https://arxiv.org/abs/2608.04012",
-      "category": "cs.AI"
-    },
-    {
-      "title": "The LLM Proposes, the Executive Disposes: A Self-Verifying Agent Instrument that Dissociates Commitment Drift from Binding Drift in Long-Horizon Agents",
-      "date": "Thu, 06 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.04066v1 Announce Type: new Abstract: How do you verify a long-horizon agent when its own state and self-reports are exactly what you cannot trust? We present an agent instrument built so that verification is structural rather than post-hoc. A deterministic Executive owns all belief; a language model may only file typed proposals, and a claim is admitted only when a prediction pre-registered before acting is matched against observation by code. Two properties make the instrument a veri",
-      "url": "https://arxiv.org/abs/2608.04066",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Monte Carlo Tree Search for Table-to-Multimodal Report Generation",
-      "date": "Thu, 06 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.04071v1 Announce Type: new Abstract: Automatically generating professional multimodal reports comprising both textual analysis and visual charts from structured tabular data is a critical challenge in data intelligence. Existing methods suffer from fixed linear pipelines and isolated subtask processing, which hinder joint optimization of factual accuracy, visual quality, and narrative coherence. To address these issues, this paper proposes MCTS-Report, a Monte Carlo Tree Search (MCTS)",
-      "url": "https://arxiv.org/abs/2608.04071",
-      "category": "cs.AI"
-    },
-    {
-      "title": "FinProBench: Evaluating Financial AI Agents with Role-Grounded Rubrics Derived from Professional Deliverables",
-      "date": "Thu, 06 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.04077v1 Announce Type: new Abstract: Evaluating financial AI agents requires criteria aligned with real professional work. Existing rubric methods typically derive criteria from task prompts or model outputs, overlooking tacit standards visible only in practitioner deliverables. We introduce FinProBench, a benchmark for professional financial tasks, and Role-Grounded Rubric Construction (RGRC), a reusable pipeline that derives rubrics from deliverables produced by practitioners in the",
-      "url": "https://arxiv.org/abs/2608.04077",
+      "title": "Agentic Nesting: A New Methodology for Existing Enterprise Application Integration and Services",
+      "date": "Fri, 07 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.05159v1 Announce Type: new Abstract: Enterprise operations extensively rely on multiple heterogeneous business systems and information applications, which also result in severe data silos and process fragmentation. Enterprises have invested considerable financial and material resources in building these applications, however, effectively leveraging and orchestrating them remains a formidable challenge. Conventional approaches to enterprise application integration, encompassing middlew",
+      "url": "https://arxiv.org/abs/2608.05159",
       "category": [
         "cs.AI",
         "cs.CL"
       ]
     },
     {
-      "title": "FinPerMA: A Theory-Informed, Event-Grounded Personalized-Memory Benchmark for LLM Agents",
-      "date": "Thu, 06 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.04095v1 Announce Type: new Abstract: Large language model (LLM) agents are increasingly used as personalized assistants in high-stakes domains such as financial advising, yet it remains unclear whether they can maintain and update an individualized user model over long horizons. Existing personalized-memory benchmarks primarily test factual retention or rely on weakly constrained model-generated trajectories, leaving event-driven preference adaptation underexplored. We introduce FinPe",
-      "url": "https://arxiv.org/abs/2608.04095",
+      "title": "The Ignition Index: Measuring Global Workspace Dynamics in Language Models",
+      "date": "Fri, 07 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.05160v1 Announce Type: new Abstract: We introduce the Ignition Index (I), a validated scalar metric that operationalizes Global Workspace Theory's (GWT) all-or-none ignition prediction in transformer language models. The metric fits a four-parameter sigmoid to per-layer linear probe accuracy as a function of input signal strength, extracting steepness parameter beta-hat: high values indicate abrupt, ignition-like transitions; low values indicate graded build-up. Across 11 models spann",
+      "url": "https://arxiv.org/abs/2608.05160",
+      "category": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "Woodpecker Distillation: Weak Models Diagnose Reasoning Bugs in Strong Models",
+      "date": "Fri, 07 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.05168v1 Announce Type: new Abstract: Large language models often fail on reasoning tasks despite possessing the capability to solve them. We argue that many such failures arise from localized reasoning bugs in intermediate steps rather than from global incompetence. We show that these bugs are frequently repairable: inserting a short patch generated by a weak probe model after the same strong-model reasoning prefix can redirect the trajectory toward a correct solution. However, this c",
+      "url": "https://arxiv.org/abs/2608.05168",
       "category": [
         "cs.AI",
         "cs.CL"
       ]
     },
     {
-      "title": "BrainBench: Benchmarking Large Language Models for Comprehensive EEG Understanding",
-      "date": "Thu, 06 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.04156v1 Announce Type: new Abstract: Electroencephalography (EEG) analysis extends beyond assigning predefined labels to recordings; it requires workflows connecting natural-language instructions, signal processing, quantitative evidence, and scientific interpretation. We term this capability \\emph{comprehensive EEG understanding}. Existing evaluations, however, primarily target isolated decoding tasks or system-specific demonstrations, leaving the competence of large language models ",
-      "url": "https://arxiv.org/abs/2608.04156",
+      "title": "From Continuous Predictors to Clinical Thresholds: Early Evidence on Performance Trade-offs of Guideline-Based Categorisation for Ischaemic Stroke Outcome Prediction",
+      "date": "Fri, 07 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.05203v1 Announce Type: new Abstract: Machine learning models achieve strong predictive accuracy for 90-day outcome prediction in acute ischaemic stroke, yet clinical adoption is limited by the misalignment of model explanations with clinicians' reasoning. Motivated by a clinician user study calling for clinical guideline-aligned cut-offs, we ask whether continuous predictors can be replaced by clinically informed categorical encodings without sacrificing performance. On a multi-centre",
+      "url": "https://arxiv.org/abs/2608.05203",
       "category": [
         "cs.AI",
         "cs.LG"
       ]
+    },
+    {
+      "title": "SkillTrace: Multi-Trace Provenance Auditing for LLM-Agent Skill Reuse",
+      "date": "Fri, 07 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.05204v1 Announce Type: new Abstract: LLM-agent ecosystems are rapidly growing around reusable skills: mixed-modality packages of metadata, natural-language instructions, code, tools, references, and operational workflows. As skills become marketplace artifacts, auditing their reuse is no longer the same problem as ordinary code clone detection. Existing detectors target single-modality source code or whole-package similarity, yet skill reuse evidence is distributed across authored tex",
+      "url": "https://arxiv.org/abs/2608.05204",
+      "category": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "Abstract Event Causal Rules: Induction and Application",
+      "date": "Fri, 07 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.05205v1 Announce Type: new Abstract: Event-centric intelligent analytical systems heavily depend on explicit causal event knowledge for risk early warning, decision-making support and narrative comprehension. Nevertheless, existing instance-level causal pairs suffer severe generalization deficits on low-frequency long-tail and unseen event combinations. To address this limitation, this work proposes Abstract Event Causal Rule (AECR), a novel relation-level causal abstraction paradigm ",
+      "url": "https://arxiv.org/abs/2608.05205",
+      "category": "cs.AI"
     }
   ],
   "status": "success",
