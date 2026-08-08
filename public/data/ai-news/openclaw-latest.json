@@ -1,7 +1,7 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-08-08T04:55:09.150Z",
+  "fetch_time": "2026-08-08T08:29:28.936Z",
   "articles": [
     {
       "title": "openclaw 2026.7.1-2",
@@ -24,6 +24,16 @@
       "downloadCount": 0
     },
     {
+      "title": "openclaw 2026.6.34",
+      "date": "2026-08-08T07:22:14Z",
+      "summary": "## 2026.6.34\n\n### Highlights\n\n- **Safer browser and network boundaries:** sandboxed browser routes, trusted DNS targets, custom browser origins, and loopback provider endpoints now reject unsafe acces...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.34",
+      "category": "Release",
+      "author": "RomneyDa",
+      "tagName": "v2026.6.34",
+      "downloadCount": 0
+    },
+    {
       "title": "openclaw 2026.7.2-beta.7",
       "date": "2026-08-02T08:11:31Z",
       "summary": "## 2026.7.2\n\n### Highlights\n\n- **State safety and recovery:** protect persisted data with a quarantine store that survives primary-database damage, crash-recoverable SQLite snapshots, crash-durable fi...",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.7.2-beta.7",
-      "downloadCount": 276
+      "downloadCount": 278
     },
     {
       "title": "openclaw 2026.7.2-beta.6",
@@ -52,16 +62,6 @@
       "author": "steipete",
       "tagName": "v2026.7.2-beta.5",
       "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.7.2-beta.3",
-      "date": "2026-07-18T23:16:53Z",
-      "summary": "## 2026.7.2\n\n### Highlights\n\n- **Remote coding sessions:** run Control UI sessions on cloud workers, open Codex and Claude catalog sessions in terminals on their owning hosts, and resume OpenCode and ...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.2-beta.3",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.7.2-beta.3",
-      "downloadCount": 841
     }
   ],
   "status": "success",
