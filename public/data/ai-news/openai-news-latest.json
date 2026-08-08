@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-08-07T12:32:53.413Z",
+  "fetch_time": "2026-08-08T01:59:10.910Z",
   "articles": [
+    {
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "date": "Fri, 07 Aug 2026 15:20:00 GMT",
+      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "category": "Security"
+    },
     {
       "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
       "date": "Fri, 07 Aug 2026 09:00:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
       "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
       "category": "Security"
-    },
-    {
-      "title": "New ways to learn and teach with ChatGPT Work and Codex",
-      "date": "Tue, 04 Aug 2026 00:00:00 GMT",
-      "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
-      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-      "category": "Product"
     }
   ],
   "status": "success",
