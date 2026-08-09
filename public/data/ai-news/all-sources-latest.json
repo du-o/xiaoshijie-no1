@@ -1,9 +1,18 @@
 {
-  "fetch_time": "2026-08-09T08:31:20.049Z",
+  "fetch_time": "2026-08-09T12:20:45.646Z",
   "total_count": 24,
   "sources_count": 6,
   "errors": null,
   "articles": [
+    {
+      "title": "The State of AI: A Look at What's Next",
+      "url": "https://every.to/p/the-state-of-ai",
+      "date": "2026-08-09T08:31:16.223Z",
+      "summary": "An in-depth analysis of the current AI landscape and future trends.",
+      "category": "AI Analysis",
+      "source": "Every.to",
+      "source_name": "every"
+    },
     {
       "title": "华东医药：全资子公司医美产品获欧盟MDR CE认证",
       "date": "Sun, 09 Aug 2026 08:26:02 GMT",
@@ -59,15 +68,6 @@
       "source_name": "36kr"
     },
     {
-      "title": "The State of AI: A Look at What's Next",
-      "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-08-09T05:02:34.277Z",
-      "summary": "An in-depth analysis of the current AI landscape and future trends.",
-      "category": "AI Analysis",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
       "title": "DeepMind 的 WeatherNext 模型在飓风预测上取得突破",
       "date": "Sat, 08 Aug 2026 17:05:07 GMT",
       "summary": "2025 年 10 月，加勒比海上空酝酿着一场风暴。气象模型对其路径有不同的预测。它会保持弱势最终登陆海地，还是会增强并袭击牙买加？由 Google DeepMind 和 Google Research 联合开发的模型 WeatherNext 选择了后者。在风暴登陆前五天，该模型以 80% 的置信度预测它将以五级飓风的强度袭击牙买加。飓风梅丽莎（Melissa）给牙买加带来了灾难性的洪水和山体滑坡。但 AI 模型帮助预报员更早向沿途社区发出预警，使他们有时间做好充足准备。研究人员在《自然》上发表论文，称 WeatherNext AI 模型能以前所未有的精度预测飓风。它能比现有模型提前一天发出预警；意味着它提前三天的预测准确度相当于之前模型提前两天的预测。在实际灾害中，这额外的一天意义重大。研究人员表示，历史上要将预报提前一天，通常需要十年的努力。论文主要作者之一的 Ferran Alet 表示：“我们没有那么多热带气旋的数据，但有大量的天气数据。因此我们训练了一个模型，使其既擅长预测天气，也擅长预测热带气旋。”",
@@ -115,7 +115,7 @@
     {
       "title": "How Startups Are Using AI to Disrupt Industries",
       "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-08-08T05:02:34.277Z",
+      "date": "2026-08-08T08:31:16.223Z",
       "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
       "category": "Source Code",
       "source": "Every.to",
@@ -151,7 +151,7 @@
     {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-08-07T05:02:34.277Z",
+      "date": "2026-08-07T08:31:16.223Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
@@ -167,6 +167,15 @@
       "source_name": "openai"
     },
     {
+      "title": "Building AI Products: Lessons from the Trenches",
+      "url": "https://every.to/p/building-ai-products",
+      "date": "2026-08-06T08:31:16.223Z",
+      "summary": "Practical insights from builders creating AI-powered products.",
+      "category": "Product",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
       "title": "Working with the American Psychological Association on youth mental health and AI",
       "date": "Thu, 06 Aug 2026 06:00:00 GMT",
       "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
@@ -174,15 +183,6 @@
       "category": "Company",
       "source": "OpenAI News",
       "source_name": "openai"
-    },
-    {
-      "title": "Building AI Products: Lessons from the Trenches",
-      "url": "https://every.to/p/building-ai-products",
-      "date": "2026-08-06T05:02:34.277Z",
-      "summary": "Practical insights from builders creating AI-powered products.",
-      "category": "Product",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "From asking to doing: How the world is putting ChatGPT to work",
@@ -196,7 +196,7 @@
     {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-08-05T05:02:34.277Z",
+      "date": "2026-08-05T08:31:16.223Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -214,7 +214,7 @@
     {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-08-04T05:02:34.277Z",
+      "date": "2026-08-04T08:31:16.223Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
