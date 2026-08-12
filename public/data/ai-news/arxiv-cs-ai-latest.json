@@ -1,69 +1,68 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-08-12T02:23:40.816Z",
+  "fetch_time": "2026-08-12T05:36:33.292Z",
   "articles": [
     {
-      "title": "Towards an Argumentative Foundation for Evaluative AI",
-      "date": "Tue, 11 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.07473v1 Announce Type: new Abstract: Evaluative AI (EAI) has been recently proposed as a way to support human decision-making, not by producing a single recommendation, but by presenting competing hypotheses together with evidence for and against each. In this position paper, we advocate (computational) argumentation as a particularly suitable paradigm to provide a formal, computable foundation for forms of EAI that are explainable and contestable, setting the ground for a long-term r",
-      "url": "https://arxiv.org/abs/2608.07473",
+      "title": "Closed-Loop LLM Co-Pilots for Digital Agriculture",
+      "date": "Wed, 12 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.09949v1 Announce Type: new Abstract: This study evaluates the application of Large Language Models (LLMs) in complex biological systems, evolving from data analysis to autonomous, AI-guided experimentation. The framework is driven by data from a 49-channel phytosensor network, encompassing multispectral, electrochemical, and dielectric modalities. To enhance accessibility, the system provides real-time natural-language interpretation for both specialists and non-experts. However, its ",
+      "url": "https://arxiv.org/abs/2608.09949",
+      "category": [
+        "cs.AI",
+        "physics.bio-ph"
+      ]
+    },
+    {
+      "title": "SPOTting the Future: Lookahead Explanations for Deep Reinforcement Learning",
+      "date": "Wed, 12 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.09967v1 Announce Type: new Abstract: Deep reinforcement learning (DRL) agents achieve strong performance in complex environments, yet their decision-making processes remain difficult to interpret. We introduce SPOT (Sampling Policy Observation Tree), a novel model-agnostic, sampling-based framework for interpreting DRL policies. Given access to the policy and an environment simulator, SPOT constructs an interpretable finite-horizon tree by sampling actions and recursively simulating t",
+      "url": "https://arxiv.org/abs/2608.09967",
+      "category": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "MIDAS: Mutual Information Disentanglement with Uncertainty-Aware Fusion for Incomplete Multimodal Sentiment Analysis",
+      "date": "Wed, 12 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.09986v1 Announce Type: new Abstract: Most existing multimodal sentiment analysis approaches assume access to complete multimodal inputs. However, real-world applications frequently encounter incomplete or corrupted modalities, posing a critical challenge. Although several methods have been proposed to tackle this issue, they mainly rely on data imputation and heuristic coordination constraints, which fail to effectively extract and leverage task-relevant information from the incomplet",
+      "url": "https://arxiv.org/abs/2608.09986",
+      "category": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "Towards Sustainable Artificial Intelligence: A Comprehensive Review and Comparative Analysis of Deep Learning Models' Carbon Footprint",
+      "date": "Wed, 12 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.09998v1 Announce Type: new Abstract: Artificial Intelligence (AI) and Machine Learning (ML) have become powerful tools for supporting and automating complex human tasks. Despite their benefits, growing attention has been directed toward their environmental implications, primarily due to their high energy demands and associated carbon emissions. This concern is particularly relevant in light of the increasing deployment of large-scale models, especially Deep Learning (DL) architectures",
+      "url": "https://arxiv.org/abs/2608.09998",
+      "category": [
+        "cs.AI",
+        "cs.CY",
+        "cs.LG",
+        "cs.SE"
+      ]
+    },
+    {
+      "title": "ReCBM: Uncertainty-Gated Relational Reasoning for Concept Bottleneck Models",
+      "date": "Wed, 12 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.10004v1 Announce Type: new Abstract: Concept Bottleneck Models (CBMs) provide an interpretable framework by grounding predictions in human-understandable concepts, enabling semantic inspection and test-time intervention. Recent variants have improved CBMs through richer concept representations, uncertainty estimation, and dependency modeling. However, robust reasoning under unreliable concept states remains underexplored. Without such reasoning, misleading semantic evidence can propag",
+      "url": "https://arxiv.org/abs/2608.10004",
+      "category": [
+        "cs.AI",
+        "cs.CV"
+      ]
+    },
+    {
+      "title": "Automating and Scaling Behavioral Scientific Research on AI Agents",
+      "date": "Wed, 12 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.10030v1 Announce Type: new Abstract: As AI agents are increasingly deployed in complex environments, understanding their behaviors becomes critical. Yet behavioral scientific research on AI agents remains manual and labor-intensive. We introduce AEROBAT, the first multi-agent system to automate behavioral scientific research on AI agents. Given an arbitrary target behavior by its user, AEROBAT automatically executes a full pipeline of behavioral scientific research---generating hypoth",
+      "url": "https://arxiv.org/abs/2608.10030",
       "category": [
         "cs.AI",
         "cs.MA"
-      ]
-    },
-    {
-      "title": "Flow-by-Flow:Content-Judgment Bypass for Governing AI Output in High-Loss Domains",
-      "date": "Tue, 11 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.07474v1 Announce Type: new Abstract: Prior work showed that human-in-the-loop oversight becomes structurally untenable in high-loss domains when AI output velocity V exceeds human cognitive capacity C_max. The operative constraint, however, is not V alone but V x L, where L denotes per-item cognitive load. L consists of triage, judgment, and response, which respond asymmetrically to AI capability improvement. Triage cost does not decline as models become more capable, because semantic",
-      "url": "https://arxiv.org/abs/2608.07474",
-      "category": [
-        "cs.AI",
-        "cs.CY"
-      ]
-    },
-    {
-      "title": "Determinization in Structure Theories: A Unified Framework via Closure, Comparability, and Joint Admissibility",
-      "date": "Tue, 11 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.07476v1 Announce Type: new Abstract: We develop a formal framework for constructing canonical interpretations from plural structure theories. A structure theory is a triple T = ({\\Sigma}, A, I) consisting of a signature, axioms, and an inference policy, whose admissible interpretation family collects all globally consistent assignments of structural conclusions. We distinguish three levels of canonicalization: closure stabilization (per-seed convergence), global completion (seed-indep",
-      "url": "https://arxiv.org/abs/2608.07476",
-      "category": [
-        "cs.AI",
-        "cs.LO"
-      ]
-    },
-    {
-      "title": "Emotion in an active inference model of human driving",
-      "date": "Tue, 11 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.07480v1 Announce Type: new Abstract: Active inference has emerged as a principled framework for modeling adaptive behavior by balancing goal-directed action with uncertainty reduction. It has been successfully applied across biological and artificial systems, including recent work on human driving. However, existing active inference models of driving have yet to address an important determinant of behavior in traffic: affective state, which significantly influences decision-making. Pr",
-      "url": "https://arxiv.org/abs/2608.07480",
-      "category": [
-        "cs.AI",
-        "cs.HC",
-        "cs.LG",
-        "cs.RO"
-      ]
-    },
-    {
-      "title": "Training Variable Long Sequences with Data-Centric Parallel",
-      "date": "Tue, 11 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.07524v1 Announce Type: new Abstract: Training deep learning models on variable long sequences poses significant computational challenges. Existing methods force a difficult trade-off between efficiency and ease-of-use. Simple approaches use static configurations that cause workload imbalance low efficiency, while complex methods introduces significant complexity and code change for new models. To break this trade-off, we introduce Data-Centric Parallel (DCP). Its core principle is to ",
-      "url": "https://arxiv.org/abs/2608.07524",
-      "category": [
-        "cs.AI",
-        "cs.LG"
-      ]
-    },
-    {
-      "title": "The Knowing-Saying Gap: When Probes See Errors that Confidence Misses",
-      "date": "Tue, 11 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.07528v1 Announce Type: new Abstract: Linear probes detect corrupted context in language models with near-perfect accuracy, yet this does not translate into reliable failure prediction. The result is a dissociation with direct implications for deployment monitoring. Across multi-hop arithmetic chains, probes that detect corruption turn out to be uninformative about final answer correctness; models forced into structured confidence formats collapse to two values with indistinguishable e",
-      "url": "https://arxiv.org/abs/2608.07528",
-      "category": [
-        "cs.AI",
-        "cs.CL",
-        "cs.LG"
       ]
     }
   ],
