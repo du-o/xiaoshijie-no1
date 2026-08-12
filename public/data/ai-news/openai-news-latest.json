@@ -1,8 +1,22 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-08-11T12:33:43.916Z",
+  "fetch_time": "2026-08-12T02:23:40.619Z",
   "articles": [
+    {
+      "title": "Testing ads in ChatGPT",
+      "date": "Tue, 11 Aug 2026 10:00:00 GMT",
+      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "category": "Company"
+    },
+    {
+      "title": "Daybreak models are now available on AWS",
+      "date": "Tue, 11 Aug 2026 10:00:00 GMT",
+      "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "category": "Product"
+    },
     {
       "title": "What building an AI-native finance function taught me",
       "date": "Mon, 10 Aug 2026 17:00:00 GMT",
@@ -30,20 +44,6 @@
       "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
       "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
       "category": "Security"
-    },
-    {
-      "title": "Putting frontier cyber models in more trusted hands",
-      "date": "Mon, 10 Aug 2026 10:00:00 GMT",
-      "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
-      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-      "category": "Security"
-    },
-    {
-      "title": "Premium seats are coming to ChatGPT Business",
-      "date": "Mon, 10 Aug 2026 00:00:00 GMT",
-      "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
-      "url": "https://openai.com/index/premium-seats-chatgpt-business",
-      "category": "Product"
     }
   ],
   "status": "success",
