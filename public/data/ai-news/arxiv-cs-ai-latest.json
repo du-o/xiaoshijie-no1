@@ -1,69 +1,68 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-08-13T02:25:05.203Z",
+  "fetch_time": "2026-08-13T05:38:42.655Z",
   "articles": [
     {
-      "title": "Closed-Loop LLM Co-Pilots for Digital Agriculture",
-      "date": "Wed, 12 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.09949v1 Announce Type: new Abstract: This study evaluates the application of Large Language Models (LLMs) in complex biological systems, evolving from data analysis to autonomous, AI-guided experimentation. The framework is driven by data from a 49-channel phytosensor network, encompassing multispectral, electrochemical, and dielectric modalities. To enhance accessibility, the system provides real-time natural-language interpretation for both specialists and non-experts. However, its ",
-      "url": "https://arxiv.org/abs/2608.09949",
-      "category": [
-        "cs.AI",
-        "physics.bio-ph"
-      ]
+      "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
+      "date": "Thu, 13 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.11207v1 Announce Type: new Abstract: When two LLM agents with structurally opposed objectives interact across multiple turns, the absence of a shared goal function produces not competition but collapse: the visitor capitulates, the site agent stops varying its approach, and the conversation terminates without achieving either agent's stated objective. This paper asks whether a control-theoretic governance layer can substitute for that missing goal function. The Experience Orchestrator",
+      "url": "https://arxiv.org/abs/2608.11207",
+      "category": "cs.AI"
     },
     {
-      "title": "SPOTting the Future: Lookahead Explanations for Deep Reinforcement Learning",
-      "date": "Wed, 12 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.09967v1 Announce Type: new Abstract: Deep reinforcement learning (DRL) agents achieve strong performance in complex environments, yet their decision-making processes remain difficult to interpret. We introduce SPOT (Sampling Policy Observation Tree), a novel model-agnostic, sampling-based framework for interpreting DRL policies. Given access to the policy and an environment simulator, SPOT constructs an interpretable finite-horizon tree by sampling actions and recursively simulating t",
-      "url": "https://arxiv.org/abs/2608.09967",
+      "title": "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration",
+      "date": "Thu, 13 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.11210v1 Announce Type: new Abstract: Bayesian calibration of process-based models requires a prior distribution for each model parameter. Despite decades of methodological work, researchers almost always fall back on uniform priors. The main reason is that building informative priors from scientific literature is slow and needs both domain and statistical expertise. We present \\textbf{Distribird}, an agentic web application that automates this process. Given a parameter name, physical",
+      "url": "https://arxiv.org/abs/2608.11210",
       "category": [
         "cs.AI",
-        "cs.LG"
-      ]
-    },
-    {
-      "title": "MIDAS: Mutual Information Disentanglement with Uncertainty-Aware Fusion for Incomplete Multimodal Sentiment Analysis",
-      "date": "Wed, 12 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.09986v1 Announce Type: new Abstract: Most existing multimodal sentiment analysis approaches assume access to complete multimodal inputs. However, real-world applications frequently encounter incomplete or corrupted modalities, posing a critical challenge. Although several methods have been proposed to tackle this issue, they mainly rely on data imputation and heuristic coordination constraints, which fail to effectively extract and leverage task-relevant information from the incomplet",
-      "url": "https://arxiv.org/abs/2608.09986",
-      "category": [
-        "cs.AI",
-        "cs.LG"
-      ]
-    },
-    {
-      "title": "Towards Sustainable Artificial Intelligence: A Comprehensive Review and Comparative Analysis of Deep Learning Models' Carbon Footprint",
-      "date": "Wed, 12 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.09998v1 Announce Type: new Abstract: Artificial Intelligence (AI) and Machine Learning (ML) have become powerful tools for supporting and automating complex human tasks. Despite their benefits, growing attention has been directed toward their environmental implications, primarily due to their high energy demands and associated carbon emissions. This concern is particularly relevant in light of the increasing deployment of large-scale models, especially Deep Learning (DL) architectures",
-      "url": "https://arxiv.org/abs/2608.09998",
-      "category": [
-        "cs.AI",
-        "cs.CY",
-        "cs.LG",
+        "cs.MA",
         "cs.SE"
       ]
     },
     {
-      "title": "ReCBM: Uncertainty-Gated Relational Reasoning for Concept Bottleneck Models",
-      "date": "Wed, 12 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.10004v1 Announce Type: new Abstract: Concept Bottleneck Models (CBMs) provide an interpretable framework by grounding predictions in human-understandable concepts, enabling semantic inspection and test-time intervention. Recent variants have improved CBMs through richer concept representations, uncertainty estimation, and dependency modeling. However, robust reasoning under unreliable concept states remains underexplored. Without such reasoning, misleading semantic evidence can propag",
-      "url": "https://arxiv.org/abs/2608.10004",
+      "title": "A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph",
+      "date": "Thu, 13 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.11211v1 Announce Type: new Abstract: Conway's 99-graph problem asks whether a strongly regular graph with parameters $\\mathrm{srg}(99,14,1,2)$ exists. We report a systematic, fully reproducible attack by an autonomous AI research agent, scored under the track's partial-credit metric. Our verifiable contributions are: (1) an exhaustive proof that no circulant graph on $\\mathbb{Z}/99$ satisfies more than $3366/4950=68.0\\%$ of the constraints ($33$ of $49$ difference-classes), with the s",
+      "url": "https://arxiv.org/abs/2608.11211",
       "category": [
         "cs.AI",
-        "cs.CV"
+        "cs.SC",
+        "math.CO"
       ]
     },
     {
-      "title": "Automating and Scaling Behavioral Scientific Research on AI Agents",
-      "date": "Wed, 12 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.10030v1 Announce Type: new Abstract: As AI agents are increasingly deployed in complex environments, understanding their behaviors becomes critical. Yet behavioral scientific research on AI agents remains manual and labor-intensive. We introduce AEROBAT, the first multi-agent system to automate behavioral scientific research on AI agents. Given an arbitrary target behavior by its user, AEROBAT automatically executes a full pipeline of behavioral scientific research---generating hypoth",
-      "url": "https://arxiv.org/abs/2608.10030",
+      "title": "Detecting a Route Flip Is Easier Than Knowing Whether to Fix It: Causal Route-Mediated Damage in Quantized Mixture-of-Experts",
+      "date": "Thu, 13 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.11212v1 Announce Type: new Abstract: Top-k Mixture-of-Experts (MoE) routing is discontinuous, so a deployment-motivated numerical disturbance -- simulated 4-bit KV-cache quantization read by a protected BF16 gate -- pushes tokens across decision boundaries and flips which experts fire. This paper proposes no new mitigation; it supplies a causal apparatus, empirical findings, and a detection-limit result. A four-run apparatus prices the route-mediated fraction (RMF) of quantization dam",
+      "url": "https://arxiv.org/abs/2608.11212",
       "category": [
         "cs.AI",
-        "cs.MA"
+        "cs.CL",
+        "cs.LG"
       ]
+    },
+    {
+      "title": "Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop",
+      "date": "Thu, 13 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.11215v1 Announce Type: new Abstract: Simulating societies of many large language model (LLM) agents is expensive, yet the questions asked of such simulations are usually macroscopic: phase behaviour, stylised facts, and scaling with the number of agents $N$, not the cognition of any single agent. We turn a statistical-physics observation into a method: replace each LLM agent by a low-parameter model fitted from a few hundred to a few thousand cheap queries, then run the society at any",
+      "url": "https://arxiv.org/abs/2608.11215",
+      "category": [
+        "cs.AI",
+        "cond-mat.stat-mech",
+        "cs.CL",
+        "cs.LG",
+        "cs.MA",
+        "physics.soc-ph"
+      ]
+    },
+    {
+      "title": "AutoWorldModel-Bench: A State-Centric Benchmark for Automated World-Model Research",
+      "date": "Thu, 13 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.11216v1 Announce Type: new Abstract: World modeling is an unsettled field: architectures, training objectives, and state representations interact in complex ways, and no single recipe dominates across environments. This makes it an ideal testbed for AI coding agents acting as autonomous researchers--a setting in which the improvement direction is not specified in advance, unlike the engineering-to-spec tasks that dominate current agent benchmarks. We introduce AutoWorldModel-Bench, a ",
+      "url": "https://arxiv.org/abs/2608.11216",
+      "category": "cs.AI"
     }
   ],
   "status": "success",
