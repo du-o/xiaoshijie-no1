@@ -1,62 +1,147 @@
 {
-  "fetch_time": "2026-08-14T02:23:36.350Z",
+  "fetch_time": "2026-08-14T05:36:38.266Z",
   "total_count": 30,
   "sources_count": 6,
   "errors": null,
   "articles": [
     {
-      "title": "宁德时代成立新公司，含太阳能发电业务",
-      "date": "Fri, 14 Aug 2026 02:18:42 GMT",
-      "summary": "36氪获悉，企查查App显示，近日，寻甸润时新能源有限公司成立，经营范围包含物联网技术研发；物联网技术服务；物联网应用服务；风力发电技术服务；太阳能发电技术服务等。企查查股权穿透显示，该公司由宁德时代间接全资持股。",
-      "url": "https://36kr.com/newsflashes/3938745102695556?f=rss",
+      "title": "京投发展触及跌停，上演天地板",
+      "date": "Fri, 14 Aug 2026 05:23:23 GMT",
+      "summary": "36氪获悉，京投发展触及跌停，上演天地板。",
+      "url": "https://36kr.com/newsflashes/3938926652963976?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "OpenAI任命Dali Rajic为首席营收官",
-      "date": "Fri, 14 Aug 2026 02:10:23 GMT",
-      "summary": "8月13日，OpenAI宣布，Dali Rajic将加入OpenAI担任首席营收官，领导OpenAI的全球营收团队。现任首席营收官Denise Dresser将在过渡期结束后离开OpenAI，寻求其他发展机会。OpenAI称，公司产品目前每周活跃用户超过10亿，服务企业超过200万家，是去年同期的两倍，而Denise为这一切的实现做出了巨大贡献。（界面）",
-      "url": "https://36kr.com/newsflashes/3938736916249989?f=rss",
+      "title": "消息称亚洲私募股权公司Trustar Capital正接近达成收购阿里巴巴集团游戏业务的交易",
+      "date": "Fri, 14 Aug 2026 05:20:30 GMT",
+      "summary": "据知情人士透露，亚洲私募股权公司Trustar Capital正接近达成收购阿里巴巴集团游戏业务的交易。上述人士表示，Trustar已击败包括其他游戏开发商在内的多家竞购方，成为收购灵犀互娱（Lingxi Games）最有可能的买家。由于信息敏感，这些人士要求匿名。此次交易可能使该工作室估值超过15亿美元。他们还表示，目前相关谈判仍在进行中，尚未做出最终决定。（新浪财经）",
+      "url": "https://36kr.com/newsflashes/3938923811093637?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "LG电子与英伟达签署机器人、AI工厂和移动出行领域合作备忘录",
-      "date": "Fri, 14 Aug 2026 02:01:19 GMT",
-      "summary": "LG电子周五宣布，将于2027年第一季度推出一款基于英伟达机器人平台的下一代双足行走人形机器人。双方在英伟达位于加州圣克拉拉的总部签署了一份谅解备忘录。这款机器人将搭载英伟达的Jetson Thor机器人芯片模块，并基于英伟达的Isaac GR00T人形机器人基础模型和机器人安全系统Holoscan for Robotics开发而成。LG计划将旗下主要子公司的技术和能力整合到这款机器人中，包括LG电子的执行器、LG Innotek公司的传感器以及LG Energy Solution Ltd．的电池。两家公司还将在机器人、人工智能（AI）工厂和移动出行三个领域展开全面合作。（新浪财经）",
-      "url": "https://36kr.com/newsflashes/3938728002026887?f=rss",
+      "title": "机构：预估至2030年，全球LED通用照明市场规模有望达609.42亿美元",
+      "date": "Fri, 14 Aug 2026 05:14:33 GMT",
+      "summary": "36氪获悉，TrendForce集邦咨询预估至2030年，全球LED通用照明市场规模有望达609.42亿美元，2025至2030年CAGR为2.6%。",
+      "url": "https://36kr.com/newsflashes/3938917971262599?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "不蒸馏，大模型公司的代价是什么？",
-      "date": "Fri, 14 Aug 2026 02:00:00 GMT",
-      "summary": "&nbsp; 文 | 李炤锋 编辑 | 张雨忻 “一个正常的训练管线，应该把蒸馏作为一种冷启动，让模型快速走到90分，然后再去解决后面的的那10分。”谈及蒸馏在当前LLM（大语言模型）训练的作用，一位基模研究员这样说道。 他所说的“冷启动”，是指让能力较弱的模型先学习更强模型已经跑通的答案和任务轨迹，尽快得到一个可以继续训练的基础版本。 对模型公司而言，“不蒸馏”则意味着要放弃这段加速过程，从基础能力开始自行探索。这样做的好处是，可以拥有一套更独立的训练体系，但也需要付出更长的模型迭代时间。 《智能涌现》此前曾报道，字节跳动Seed成立之初便定下“不做蒸馏”的原则。一名字节人士解释，团队希望进入全球第一梯队，而这“通过蒸馏难以达到”。张一鸣在7月底一次Seed内部会议上也明确表示，即使暂时落后于国内同行，字节也不会把蒸馏当作提升模型能力的捷径。 这一番关于“不蒸馏”的表态，不只是一个训练方法上的技术判断，而是对长期路线的选择。 另一方面，在张一鸣表态“不蒸馏”的前一周，英伟达CEO黄仁勋在接受Axios联合创始人迈克·艾伦采访时曾表达过完全相反的观点： “蒸馏，也就是向AI学习、向其他",
-      "url": "https://36kr.com/p/3938270868553093?f=rss",
+      "title": "恒生科技指数跌幅扩大至2%",
+      "date": "Fri, 14 Aug 2026 05:07:52 GMT",
+      "summary": "36氪获悉，恒生科技指数跌幅扩大至2%，京东跌超10%，美团跌近6%。",
+      "url": "https://36kr.com/newsflashes/3938911390104709?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "空间具身新品类，落地多个行业应用，这家公司A轮融资数千万丨36氪首发",
-      "date": "Fri, 14 Aug 2026 01:55:21 GMT",
-      "summary": "图源/企业 本文约 2600 字，建议阅读 6 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，南京线控机器人科技有限公司（以下简称“线控科技”）近期完成数千万元A轮融资，由江宁科创基金领投，老股东云时资本跟投。本轮资金将主要用于全栈底层技术迭代、产品系列扩充及量产推进，同时加速核心场景的深度落地。 线控科技2023年成立于南京，是目前全球唯一实现重载线控机器人产品化落地的企业。公司聚焦大空间、大负载、大工件的工业场景，以钢丝绳并联约束替代传统刚性机械臂结构，通过精准协同控制多根绳索的长度与张力，实现末端执行器在超千平米空间内的六自由度精确定位。 公司创始人杨海博士师从国际机器人学权威、首届法国国家创新奖章获得者Francois Pierrot教授，曾于欧洲顶级研究院Tecnalia主持、参与多个欧盟地平线计划等重大机器人项目研发，并担任Tecnalia大中华区战略拓展总监。 据杨海介绍，线控机器人瞄准的钢铁、船舶、航空航天、风电装备等领域在国民生产总值中占比超50%，但长期缺乏有效的自动化手段。以钢材为例，中国年盘条产量超1.6亿吨，从钢厂到中转物流再到下游加工，一件钢制品平均被挪移十数次",
-      "url": "https://36kr.com/p/3938721849113730?f=rss",
+      "title": "2026年度电影总票房突破250亿",
+      "date": "Fri, 14 Aug 2026 05:00:41 GMT",
+      "summary": "据网络平台数据，截至目前，2026年度电影总票房（含预售）突破250亿元。（央视新闻）",
+      "url": "https://36kr.com/newsflashes/3938904330075522?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "“亮源新创”完成数亿元Pre-A轮融资",
-      "date": "Fri, 14 Aug 2026 01:53:52 GMT",
-      "summary": "36氪获悉，近日，“亮源新创”宣布完成数亿元Pre-A轮融资。本轮融资由国科投资领投，招商局创投、襄禾资本等机构参与投资，资金将主要用于超大规模具身智能模型训练、多模态数据基础设施建设、软硬件全栈平台研发以及高人才密度的团队扩张。",
-      "url": "https://36kr.com/newsflashes/3938720679067011?f=rss",
+      "title": "上市前夜 | 希音SHEIN的11年融资故事，和一个鲜少提及的棘轮",
+      "date": "Fri, 14 Aug 2026 04:55:49 GMT",
+      "summary": "本文约4600字，建议阅读10分钟 作者&nbsp;|&nbsp;彭孝秋 编者按： 《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第十期—— SHEIN 。 很多公司上市，是因为缺钱。SHEIN恰恰相反。 2023年至2025年，这家公司经营活动现金流净额分别达到17.57亿、14.05亿和28.38亿美元，三年合计造血60亿美元。截至2026年3月底，它手里的现金资源更是达到148.31亿美元。 这是什么概念？SHEIN过去11年从A轮一路融到D+轮，我们根据招股书测算，实际收到的股权融资合计约38.4亿美元，外加B轮的1.69亿元人民币。也就是说， SHEIN最近三年自己造出来的现金，已经是过去十一年融资总额的1.55倍。 它甚至还是一门典型的“拿别人的钱做生意”的生意：消费者预付款，净收入周转天数长期维持在−12至−13天，2025年存货周转天数只有36天。 按常理，这样一家公司并不急着去资本市场拿钱。但翻完SHEIN的招股书，会发现另一个数字： 172.94亿美元。 这是截至2026年3月31日，SHEIN账面上的可",
+      "url": "https://36kr.com/p/3938898614877317?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
+    },
+    {
+      "title": "Position: Reasoning is a Learnable Rule-Based Process",
+      "date": "Fri, 14 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.12325v1 Announce Type: new Abstract: Autonomous reasoning is among the most scientifically and economically motivating topics in AI today. Historically the purview of symbolic AI, recent advances have mainly emerged from deep probabilistic generative models. Despite immense interest and rapid progress, the generative AI community has not clearly converged on operational definitions for reasoning and often implicitly rejects the historical treatment of this topic in logic and verifiabl",
+      "url": "https://arxiv.org/abs/2608.12325",
+      "category": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
+      "date": "Fri, 14 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.12345v1 Announce Type: new Abstract: Language models are increasingly deployed as co-scientists, yet their ability to uphold research integrity under institutional pressure remains unmeasured. We introduce IntegrityBench, a benchmark evaluating misconduct classification, ethical action reasoning and artifact-grounded decision making across 36 paired tasks under a 5-level implicit-explicit pressure protocol spanning 3 domains and 4 research stages. Evaluating 18 frontier model variants",
+      "url": "https://arxiv.org/abs/2608.12345",
+      "category": [
+        "cs.AI",
+        "cs.CL"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
+      "date": "Fri, 14 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.12346v1 Announce Type: new Abstract: This position paper argues that modern AI alignment methods - originally designed to prevent harmful output - are dual-use technologies that may easily be misused by malicious actors for censorship and manipulation. By mapping current alignment techniques to the possibility and actual cases of misuse, we show that the quest for a \"perfectly aligned\" model inadvertently also provides malicious actors with an ever-improving tool for informational dom",
+      "url": "https://arxiv.org/abs/2608.12346",
+      "category": [
+        "cs.AI",
+        "cs.CY"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
+      "date": "Fri, 14 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.12368v1 Announce Type: new Abstract: Agreement with human judgments is a common proxy for evaluating the alignment of large language models (LLMs). Yet agreement in final labels does not show that human annotators and models rely on the same moral grounds. Two agents may reach the same judgment while appealing to different principles, contextual assumptions, or interpretations of the situation. We test this distinction using a curated 500-item ETHICS-derived benchmark spanning five do",
+      "url": "https://arxiv.org/abs/2608.12368",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing",
+      "date": "Fri, 14 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.12371v1 Announce Type: new Abstract: Stream-processing systems increasingly operate across heterogeneous mobile edge--cloud infrastructures, where workload volatility, resource contention, and stringent quality-of-service (QoS) requirements complicate decentralized scheduling. This paper proposes \\emph{MAS-DecStream}, whose main contribution is \\emph{LLM-MR-CNP}: an extension of the classical Contract Net Protocol with semantic CFP formulation, progressive context disclosure, multi-ro",
+      "url": "https://arxiv.org/abs/2608.12371",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Position: We Need Practical AI Alignment Methods to Mirror Human Reasoning",
+      "date": "Fri, 14 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.12372v1 Announce Type: new Abstract: AI systems are increasingly employed as decision aids, decision delegates, or autonomous decision-makers. This position paper argues that in many settings, particularly high-stakes decision-making, we need accurate cognitively-aligned AI systems that reason similarly to their users, and faithfully communicate their reasoning. We review evidence that cognitive alignment improves understandability and trustworthiness, and provide new survey data show",
+      "url": "https://arxiv.org/abs/2608.12372",
+      "category": [
+        "cs.AI",
+        "cs.CY"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "微软正从中国撤退",
+      "date": "Fri, 14 Aug 2026 03:57:52 GMT",
+      "summary": "过去五年，随着中国更倾向于国产软件，微软一直在缩减在华业务，至少关闭了 15 家分支机构和合资企业。美国的出口管制也让微软云计算和 AI 业务的推广更困难，中国市场的经济增长空间变得相对有限。微软最终决定继续留在中国，是因为它开辟了一项盈利的业务，​​为字节跳动等中国企业提供服务，这些企业需要西方技术管理海外业务。微软认为，为了继续获得中国世界一流的工程人才，它需要在中国保留业务。微软前中国区负责人 Alain Crozier 表示微软与中国政府建立了深厚的关系，“由于地缘政治因素……有时情况会比较艰难，但我们从未遇到过危机。”微软发言人表示公司在“适用于所有国际供应商的监管环境”下运营，重申对中国市场的承诺。微软表示，其在中国的业务状况反映了市场竞争、监管要求和技术发展趋势。",
+      "url": "https://www.solidot.org/story?sid=85090",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "The State of AI: A Look at What's Next",
+      "url": "https://every.to/p/the-state-of-ai",
+      "date": "2026-08-14T02:23:33.088Z",
+      "summary": "An in-depth analysis of the current AI landscape and future trends.",
+      "category": "AI Analysis",
+      "source": "Every.to",
+      "source_name": "every"
     },
     {
       "title": "NASA 延长旅行者2号的科学使命",
@@ -95,15 +180,6 @@
       "source_name": "solidot"
     },
     {
-      "title": "The State of AI: A Look at What's Next",
-      "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-08-13T12:37:01.634Z",
-      "summary": "An in-depth analysis of the current AI landscape and future trends.",
-      "category": "AI Analysis",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
       "title": "The builder’s guide to GPT‑5.6",
       "date": "Thu, 13 Aug 2026 11:00:00 GMT",
       "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
@@ -117,15 +193,6 @@
       "date": "Thu, 13 Aug 2026 10:53:08 GMT",
       "summary": "Django Python Web 框架项目宣布采用每年发布一个版本的发布模式，放弃以前使用的短期支持、长期支持版本交叉发布方案。Django 不再有长期支持版本（LTS），每个功能版本都有相同的支持承诺。每个功能版本都有三年支持时间，第一年为主流支持，之后两年为安全更新和数据丢失 bug 修正。Django 项目将在任何时候支持三个版本，用户可以按照自身需求在支持期间升级。从 2028 年 1 月发布的 Django 2028 起开始采用这一发布模式。",
       "url": "https://www.solidot.org/story?sid=85085",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "图书零售商怀疑 AI 公司购买然后销毁珍本图书",
-      "date": "Thu, 13 Aug 2026 10:38:09 GMT",
-      "summary": "扫描且不破坏珍本图书是一件费时费劲的工作。根据互联网档案馆 2021 年发表的一篇文章，该机构尝试过自动化图书扫描，但对于易碎珍本图书而言不可行，干净干燥的人手仍然是最佳的翻页方式。自 2010 年起就在互联网档案馆工作的图书扫描员 Eliza Zhang 表示这项工作需要高度集中注意力。她当时已扫描了逾 300 万页、14000 张折页和 18000 件物品。AI 公司如果要扫描图书显然不太可能使用这种方式。最近发表的多篇报道引发了对 AI 公司收购然后销毁珍本图书的担忧。《每日电讯报》称硅谷销毁了数百万册珍稀图书并“撕碎了原件”，404 Media 报道称名为 ISBNdb 的图书数据库公司宣传其可以帮助 AI 公司大量获取图书。2025 年的图书侵权诉讼披露 Anthropic 内部启动了扫描数百万册图书的 Project Panama 项目。但没有证据表明 Anthropic 曾销毁过珍本图书，该公司也公开声明否认。包括马斯克旗下 xAI 在内的 AI 公司也公开表示，他们不会为了训练 AI 而销毁珍本图书。与此同时，珍本图书零售商则在标记可疑订单，因为他们知道，大多数真心想购",
-      "url": "https://www.solidot.org/story?sid=85084",
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
@@ -149,82 +216,9 @@
       "source_name": "openai"
     },
     {
-      "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
-      "date": "Thu, 13 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.11207v1 Announce Type: new Abstract: When two LLM agents with structurally opposed objectives interact across multiple turns, the absence of a shared goal function produces not competition but collapse: the visitor capitulates, the site agent stops varying its approach, and the conversation terminates without achieving either agent's stated objective. This paper asks whether a control-theoretic governance layer can substitute for that missing goal function. The Experience Orchestrator",
-      "url": "https://arxiv.org/abs/2608.11207",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration",
-      "date": "Thu, 13 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.11210v1 Announce Type: new Abstract: Bayesian calibration of process-based models requires a prior distribution for each model parameter. Despite decades of methodological work, researchers almost always fall back on uniform priors. The main reason is that building informative priors from scientific literature is slow and needs both domain and statistical expertise. We present \\textbf{Distribird}, an agentic web application that automates this process. Given a parameter name, physical",
-      "url": "https://arxiv.org/abs/2608.11210",
-      "category": [
-        "cs.AI",
-        "cs.MA",
-        "cs.SE"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph",
-      "date": "Thu, 13 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.11211v1 Announce Type: new Abstract: Conway's 99-graph problem asks whether a strongly regular graph with parameters $\\mathrm{srg}(99,14,1,2)$ exists. We report a systematic, fully reproducible attack by an autonomous AI research agent, scored under the track's partial-credit metric. Our verifiable contributions are: (1) an exhaustive proof that no circulant graph on $\\mathbb{Z}/99$ satisfies more than $3366/4950=68.0\\%$ of the constraints ($33$ of $49$ difference-classes), with the s",
-      "url": "https://arxiv.org/abs/2608.11211",
-      "category": [
-        "cs.AI",
-        "cs.SC",
-        "math.CO"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Detecting a Route Flip Is Easier Than Knowing Whether to Fix It: Causal Route-Mediated Damage in Quantized Mixture-of-Experts",
-      "date": "Thu, 13 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.11212v1 Announce Type: new Abstract: Top-k Mixture-of-Experts (MoE) routing is discontinuous, so a deployment-motivated numerical disturbance -- simulated 4-bit KV-cache quantization read by a protected BF16 gate -- pushes tokens across decision boundaries and flips which experts fire. This paper proposes no new mitigation; it supplies a causal apparatus, empirical findings, and a detection-limit result. A four-run apparatus prices the route-mediated fraction (RMF) of quantization dam",
-      "url": "https://arxiv.org/abs/2608.11212",
-      "category": [
-        "cs.AI",
-        "cs.CL",
-        "cs.LG"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop",
-      "date": "Thu, 13 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.11215v1 Announce Type: new Abstract: Simulating societies of many large language model (LLM) agents is expensive, yet the questions asked of such simulations are usually macroscopic: phase behaviour, stylised facts, and scaling with the number of agents $N$, not the cognition of any single agent. We turn a statistical-physics observation into a method: replace each LLM agent by a low-parameter model fitted from a few hundred to a few thousand cheap queries, then run the society at any",
-      "url": "https://arxiv.org/abs/2608.11215",
-      "category": [
-        "cs.AI",
-        "cond-mat.stat-mech",
-        "cs.CL",
-        "cs.LG",
-        "cs.MA",
-        "physics.soc-ph"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "AutoWorldModel-Bench: A State-Centric Benchmark for Automated World-Model Research",
-      "date": "Thu, 13 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.11216v1 Announce Type: new Abstract: World modeling is an unsettled field: architectures, training objectives, and state representations interact in complex ways, and no single recipe dominates across environments. This makes it an ideal testbed for AI coding agents acting as autonomous researchers--a setting in which the improvement direction is not specified in advance, unlike the engineering-to-spec tasks that dominate current agent benchmarks. We introduce AutoWorldModel-Bench, a ",
-      "url": "https://arxiv.org/abs/2608.11216",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
       "title": "How Startups Are Using AI to Disrupt Industries",
       "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-08-12T12:37:01.634Z",
+      "date": "2026-08-13T02:23:33.088Z",
       "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
       "category": "Source Code",
       "source": "Every.to",
@@ -240,6 +234,15 @@
       "source_name": "openai"
     },
     {
+      "title": "The Future of Work in an AI-Driven World",
+      "url": "https://every.to/context-window/future-of-work",
+      "date": "2026-08-12T02:23:33.088Z",
+      "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
       "title": "How RingCentral builds AI-native work from engineering to ops",
       "date": "Wed, 12 Aug 2026 00:00:00 GMT",
       "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
@@ -247,15 +250,6 @@
       "category": "",
       "source": "OpenAI News",
       "source_name": "openai"
-    },
-    {
-      "title": "The Future of Work in an AI-Driven World",
-      "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-08-11T12:37:01.634Z",
-      "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "Testing ads in ChatGPT",
@@ -269,7 +263,7 @@
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-08-10T12:37:01.634Z",
+      "date": "2026-08-11T02:23:33.088Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
@@ -278,7 +272,7 @@
     {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-08-09T12:37:01.634Z",
+      "date": "2026-08-10T02:23:33.088Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -287,7 +281,7 @@
     {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-08-08T12:37:01.634Z",
+      "date": "2026-08-09T02:23:33.088Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
