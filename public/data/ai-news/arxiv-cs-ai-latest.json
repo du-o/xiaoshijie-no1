@@ -1,11 +1,11 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-08-15T01:35:36.423Z",
+  "fetch_time": "2026-08-15T04:28:04.572Z",
   "articles": [
     {
       "title": "Position: Reasoning is a Learnable Rule-Based Process",
-      "date": "Fri, 14 Aug 2026 04:00:00 GMT",
+      "date": "Sat, 15 Aug 2026 04:00:00 GMT",
       "summary": "arXiv:2608.12325v1 Announce Type: new Abstract: Autonomous reasoning is among the most scientifically and economically motivating topics in AI today. Historically the purview of symbolic AI, recent advances have mainly emerged from deep probabilistic generative models. Despite immense interest and rapid progress, the generative AI community has not clearly converged on operational definitions for reasoning and often implicitly rejects the historical treatment of this topic in logic and verifiabl",
       "url": "https://arxiv.org/abs/2608.12325",
       "category": [
@@ -16,7 +16,7 @@
     },
     {
       "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
-      "date": "Fri, 14 Aug 2026 04:00:00 GMT",
+      "date": "Sat, 15 Aug 2026 04:00:00 GMT",
       "summary": "arXiv:2608.12345v1 Announce Type: new Abstract: Language models are increasingly deployed as co-scientists, yet their ability to uphold research integrity under institutional pressure remains unmeasured. We introduce IntegrityBench, a benchmark evaluating misconduct classification, ethical action reasoning and artifact-grounded decision making across 36 paired tasks under a 5-level implicit-explicit pressure protocol spanning 3 domains and 4 research stages. Evaluating 18 frontier model variants",
       "url": "https://arxiv.org/abs/2608.12345",
       "category": [
@@ -26,7 +26,7 @@
     },
     {
       "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
-      "date": "Fri, 14 Aug 2026 04:00:00 GMT",
+      "date": "Sat, 15 Aug 2026 04:00:00 GMT",
       "summary": "arXiv:2608.12346v1 Announce Type: new Abstract: This position paper argues that modern AI alignment methods - originally designed to prevent harmful output - are dual-use technologies that may easily be misused by malicious actors for censorship and manipulation. By mapping current alignment techniques to the possibility and actual cases of misuse, we show that the quest for a \"perfectly aligned\" model inadvertently also provides malicious actors with an ever-improving tool for informational dom",
       "url": "https://arxiv.org/abs/2608.12346",
       "category": [
@@ -36,21 +36,21 @@
     },
     {
       "title": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
-      "date": "Fri, 14 Aug 2026 04:00:00 GMT",
+      "date": "Sat, 15 Aug 2026 04:00:00 GMT",
       "summary": "arXiv:2608.12368v1 Announce Type: new Abstract: Agreement with human judgments is a common proxy for evaluating the alignment of large language models (LLMs). Yet agreement in final labels does not show that human annotators and models rely on the same moral grounds. Two agents may reach the same judgment while appealing to different principles, contextual assumptions, or interpretations of the situation. We test this distinction using a curated 500-item ETHICS-derived benchmark spanning five do",
       "url": "https://arxiv.org/abs/2608.12368",
       "category": "cs.AI"
     },
     {
       "title": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing",
-      "date": "Fri, 14 Aug 2026 04:00:00 GMT",
+      "date": "Sat, 15 Aug 2026 04:00:00 GMT",
       "summary": "arXiv:2608.12371v1 Announce Type: new Abstract: Stream-processing systems increasingly operate across heterogeneous mobile edge--cloud infrastructures, where workload volatility, resource contention, and stringent quality-of-service (QoS) requirements complicate decentralized scheduling. This paper proposes \\emph{MAS-DecStream}, whose main contribution is \\emph{LLM-MR-CNP}: an extension of the classical Contract Net Protocol with semantic CFP formulation, progressive context disclosure, multi-ro",
       "url": "https://arxiv.org/abs/2608.12371",
       "category": "cs.AI"
     },
     {
       "title": "Position: We Need Practical AI Alignment Methods to Mirror Human Reasoning",
-      "date": "Fri, 14 Aug 2026 04:00:00 GMT",
+      "date": "Sat, 15 Aug 2026 04:00:00 GMT",
       "summary": "arXiv:2608.12372v1 Announce Type: new Abstract: AI systems are increasingly employed as decision aids, decision delegates, or autonomous decision-makers. This position paper argues that in many settings, particularly high-stakes decision-making, we need accurate cognitively-aligned AI systems that reason similarly to their users, and faithfully communicate their reasoning. We review evidence that cognitive alignment improves understandability and trustworthiness, and provide new survey data show",
       "url": "https://arxiv.org/abs/2608.12372",
       "category": [
