@@ -1,8 +1,22 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-08-14T12:33:06.208Z",
+  "fetch_time": "2026-08-15T01:35:39.266Z",
   "articles": [
+    {
+      "title": "GLP-1 减肥药将五年糖尿病风险降低 26%",
+      "date": "Fri, 14 Aug 2026 15:52:57 GMT",
+      "summary": "根据发表在《Alzheimer's &amp; Dementia: Diagnosis》上的一项研究，GLP-1 减肥药 Semaglutide 将五年预测糖尿病风险降低 26%。研究人员将 2970 名年龄 65 岁以上且有超重/肥胖和心血管疾病但无糖尿病的成年人随机分配到 Semaglutide 组或安慰剂组。Dementia SomaSignal Test(dSST)对非空腹血清样本的分析显示，Semaglutide 将五年预测糖尿病风险降低 26%，二十年预测风险降低 8.8%。结果表明 GLP-1 减肥药可能具有神经保护作用。",
+      "url": "https://www.solidot.org/story?sid=85100",
+      "category": ""
+    },
+    {
+      "title": "天文学家发现黑洞恒星",
+      "date": "Fri, 14 Aug 2026 15:25:16 GMT",
+      "summary": "MIT 等的天文学家利用韦伯太空望远镜（JWST）在早期宇宙发现了一个极其明亮的红色斑点。该天体形似一颗巨大的恒星，大小与太阳系相当。但它释放的能量是已知恒星能量的 1000 亿倍。这种能量更接近黑洞可能产生的能量。红色斑点代表了一种全新的天体——天文学家称之为“黑洞恒星”。它是黑洞和恒星的混合体——这种组合此前从未被观测到过。该天体很可能是一团极高密度的气体云，其能量来源并非是核聚变，而是中心的黑洞。天文学家估计黑洞质量为太阳的 10 万倍，他们将该天体命名为 MoM-BH*-1，或者是“一号黑洞恒星（black hole star–one）”。",
+      "url": "https://www.solidot.org/story?sid=85099",
+      "category": ""
+    },
     {
       "title": "长鑫市值超越腾讯",
       "date": "Fri, 14 Aug 2026 09:41:40 GMT",
@@ -29,20 +43,6 @@
       "date": "Fri, 14 Aug 2026 07:28:21 GMT",
       "summary": "苹果与阿里巴巴合作为中国市场训练了一个大模型。此前苹果倾向于使用中国合作伙伴的模型为在中国销售的 iPhone&nbsp; 等设备提供生成式 AI 功能。苹果的 AI 功能 Apple Intelligence 预计将在未来几个月通过 iOS 更新在中国推出。苹果推出专为中国市场定制的 AI 模型，使​​其在竞争最激烈的中国市场更好掌控 AI 体验。苹果在中国已被华为等本土竞争对手蚕食市场份额，竞争对手凭借 AI 手机迅速占据领先地位。网信办已经登记了苹果的生成式 AI 服务，为 Apple Intelligence 服务首次登陆国行 iPhone 铺平道路。",
       "url": "https://www.solidot.org/story?sid=85095",
-      "category": ""
-    },
-    {
-      "title": "YouTube 要求新内容创作者一年至少 8000 小时观看量才能获得收入",
-      "date": "Fri, 14 Aug 2026 06:54:33 GMT",
-      "summary": "YouTube 宣布新内容创作者需要达到更高的门槛才能开始通过广告和订阅获得收入。想要通过 YouTube 平台获利的创作者，需要过去一年内至少获得 8000 小时的有效观看时长，或者在过去 90 天内获得 2000 万次的 Shorts 有效短视频观看量。此前创作者只需要过去一年内有 1000 名订阅者和 4000 小时的有效观看时长，或者在过去 90 天内有 1000 名订阅者和 1000 万次 Shorts 视频观看量。这项变更将于 2 月 1 日生效。此次更新不影响已加入 YouTube 合作伙伴计划的创作者。YouTube 表示，这些调整是为了跟上 YouTube 的发展步伐，目前 YouTube Shorts 的日均观看量逾 2000 亿次，电视观看时长逾 10 亿小时。",
-      "url": "https://www.solidot.org/story?sid=85094",
-      "category": ""
-    },
-    {
-      "title": "VLC 因 Microsoft Defender 而启动缓慢",
-      "date": "Fri, 14 Aug 2026 06:24:44 GMT",
-      "summary": "《Braid》和《The Witness》作者 Jonathan Blow 在社媒上称，在 Windows 上使用 VLC 启动播放一个 MP3 文件需要 33 秒钟，他因此改用了微软官方的 Microsoft Media Player，批评开源软件问题太多。此事引发了广泛讨论。VLC 官方回应称，核心问题与它无关，是 Windows 11 / Microsoft Defender 的一次更新隔离了 VLC 的插件缓存导致的，重新安装 VLC 或清空缓存可解决该问题。Linux 用户称 VLC 启动播放一个 MP3 文件只需要 1-2 秒。其他 Windows 用户建议在 Microsoft Defender 中排除 vlc.exe 也能解决该问题。",
-      "url": "https://www.solidot.org/story?sid=85093",
       "category": ""
     }
   ],
