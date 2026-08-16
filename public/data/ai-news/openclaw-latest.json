@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-08-16T08:17:54.845Z",
+  "fetch_time": "2026-08-16T12:12:02.425Z",
   "articles": [
+    {
+      "title": "PR #124528 Gateway profile evidence",
+      "date": "2026-08-16T10:15:43Z",
+      "summary": "CPU profiles captured from the bounded three-node, twelve-concurrent-turn Gateway rig for PR #124528. The archive contains the representative before and exact-head after Gateway profiles used for the ...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/pr-124528-profiles",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "pr-124528-profiles",
+      "downloadCount": 7
+    },
     {
       "title": "OpenClaw 2026.8.1-beta.2",
       "date": "2026-08-15T05:36:23Z",
@@ -52,16 +62,6 @@
       "author": "github-actions[bot]",
       "tagName": "v2026.7.2-beta.7",
       "downloadCount": 399
-    },
-    {
-      "title": "openclaw 2026.7.2-beta.6",
-      "date": "2026-08-01T05:34:32Z",
-      "summary": "## 2026.7.2\n\n### Highlights\n\n- **State safety and recovery:** protect persisted data with a quarantine store that survives primary-database damage, crash-recoverable SQLite snapshots, crash-durable fi...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.2-beta.6",
-      "category": "Release",
-      "author": "vincentkoc",
-      "tagName": "v2026.7.2-beta.6",
-      "downloadCount": 0
     }
   ],
   "status": "success",
