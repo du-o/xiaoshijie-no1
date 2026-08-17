@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-08-17T08:32:33.864Z",
+  "fetch_time": "2026-08-17T12:15:24.911Z",
   "articles": [
+    {
+      "title": "New policy ideas for the Intelligence Age",
+      "date": "Mon, 17 Aug 2026 03:15:00 GMT",
+      "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "category": "Global Affairs"
+    },
     {
       "title": "The builder’s guide to GPT‑5.6",
       "date": "Thu, 13 Aug 2026 11:00:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
       "url": "https://openai.com/index/ringcentral",
       "category": ""
-    },
-    {
-      "title": "Testing ads in ChatGPT",
-      "date": "Tue, 11 Aug 2026 10:00:00 GMT",
-      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "category": "Company"
     }
   ],
   "status": "success",
