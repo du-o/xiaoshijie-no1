@@ -1,8 +1,22 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-08-17T12:15:24.911Z",
+  "fetch_time": "2026-08-18T01:35:24.717Z",
   "articles": [
+    {
+      "title": "The Defender’s Window",
+      "date": "Mon, 17 Aug 2026 05:30:00 GMT",
+      "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+      "url": "https://openai.com/index/the-defenders-window",
+      "category": "Security"
+    },
+    {
+      "title": "OpenAI joins PORTS-Pike project",
+      "date": "Mon, 17 Aug 2026 05:00:00 GMT",
+      "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+      "url": "https://openai.com/index/openai-joins-ports-pike-project",
+      "category": "Global Affairs"
+    },
     {
       "title": "New policy ideas for the Intelligence Age",
       "date": "Mon, 17 Aug 2026 03:15:00 GMT",
@@ -30,20 +44,6 @@
       "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
       "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
       "category": "Company"
-    },
-    {
-      "title": "From assistance to execution: How enterprises put AI to work",
-      "date": "Wed, 12 Aug 2026 06:00:00 GMT",
-      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
-      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-      "category": "Company"
-    },
-    {
-      "title": "How RingCentral builds AI-native work from engineering to ops",
-      "date": "Wed, 12 Aug 2026 00:00:00 GMT",
-      "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
-      "url": "https://openai.com/index/ringcentral",
-      "category": ""
     }
   ],
   "status": "success",
