@@ -1,8 +1,22 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-08-18T08:24:42.338Z",
+  "fetch_time": "2026-08-18T12:17:33.489Z",
   "articles": [
+    {
+      "title": "Partnering with CodeAI to prepare the first AI generation",
+      "date": "Tue, 18 Aug 2026 11:00:00 GMT",
+      "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
+      "url": "https://openai.com/index/partnering-with-codeai",
+      "category": "Company"
+    },
+    {
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "date": "Tue, 18 Aug 2026 11:00:00 GMT",
+      "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+      "url": "https://openai.com/index/chatgpt-for-teens",
+      "category": "Product"
+    },
     {
       "title": "The Defender’s Window",
       "date": "Mon, 17 Aug 2026 05:30:00 GMT",
@@ -30,20 +44,6 @@
       "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
       "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
       "category": "Applied AI"
-    },
-    {
-      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-      "date": "Thu, 13 Aug 2026 10:00:00 GMT",
-      "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
-      "url": "https://openai.com/index/previewing-ultrafast",
-      "category": "Product"
-    },
-    {
-      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-      "date": "Thu, 13 Aug 2026 09:00:00 GMT",
-      "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
-      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "category": "Company"
     }
   ],
   "status": "success",
