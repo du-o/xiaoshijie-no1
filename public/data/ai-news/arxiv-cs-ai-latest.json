@@ -1,59 +1,58 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-08-18T01:35:24.866Z",
+  "fetch_time": "2026-08-18T04:33:23.400Z",
   "articles": [
     {
-      "title": "Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluation",
-      "date": "Mon, 17 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.13564v1 Announce Type: new Abstract: Evaluating language-model agents at scale increasingly relies on a second language model as an automatic judge, because the gold signal, an executable environment reward, is expensive, slow, or unavailable at deployment time. Such a judge is a reward-free proxy whose value depends on whether it can be trusted, yet existing judges either hand-write the scoring rubric, as in G-Eval, or fine-tune the judge's weights, and both tend to credit fluent but",
-      "url": "https://arxiv.org/abs/2608.13564",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Depth-Aware Sensitivity Analysis of Mixture-of-Experts Models via Magnitude-Based Expert Masking",
-      "date": "Mon, 17 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.13565v1 Announce Type: new Abstract: Mixture-of-Experts (MoE) architectures scale large language models (LLMs) while preserving computational efficiency through sparse activation. Despite their widespread adoption, the relative importance of individual MoE layers remains insufficiently characterized, particularly for model compression. This paper presents a systematic layer-wise sensitivity analysis of the Qwen3.6-35B-A3B model (40 MoE layers, 256 experts per layer, top-8 routing) usi",
-      "url": "https://arxiv.org/abs/2608.13565",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Modular Cognitive Architecture Emerges in Large Language Models",
-      "date": "Mon, 17 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.13567v1 Announce Type: new Abstract: The human brain exhibits a striking degree of functional specialization, with distinct networks supporting language, formal reasoning, reasoning about other minds, and reasoning about the physical world. Is this modular organization a fundamental principle of how intelligent systems must be built, or an evolutionary accident specific to biological brains? Here, we test whether a similar organization emerges in Large Language Models--another class o",
-      "url": "https://arxiv.org/abs/2608.13567",
+      "title": "FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment",
+      "date": "Tue, 18 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.14550v1 Announce Type: new Abstract: AI efficiency has recently taken the spotlight in both academy and industry due to massive model scales, high energy demands, and environmental costs. While reporting Floating Point Operations (FLOPs) is a traditional approach for assessing computational costs, the relationship between FLOPs and execution time is not straightforward, as layers with the same number of FLOPs may not have the same execution time because some operations are more easily",
+      "url": "https://arxiv.org/abs/2608.14550",
       "category": [
         "cs.AI",
-        "cs.CL",
-        "cs.LG"
+        "cs.PF"
       ]
     },
     {
-      "title": "A Year in LLM Serving: Workload Evolution, Caching and Load-Balancing",
-      "date": "Mon, 17 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.13573v1 Announce Type: new Abstract: Large Language Model (LLM) serving has become a critical cloud workload, and realistic traces are essential for motivating and benchmarking serving systems. However, existing LLM serving workload studies remain limited in scale and scope. They often observe short time periods and provide limited visibility into how users interact with models in production. As a result, they do not fully capture how LLM serving workloads evolve over time or how user",
-      "url": "https://arxiv.org/abs/2608.13573",
+      "title": "Large Language Models Show Metacognitive Sensitivity in Medical Reasoning",
+      "date": "Tue, 18 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.14552v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly evaluated and used in medicine, but clinical usefulness depends on answer accuracy and whether confidence tracks evidence quality and uncertainty. We developed a controlled, psychophysics-inspired clinical benchmark to test diagnostic choice and confidence behavior in a medical LLM. The benchmark focused on probable Alzheimer-type neurocognitive disorder (AT-NCD) versus depression-related cognitive impa",
+      "url": "https://arxiv.org/abs/2608.14552",
       "category": "cs.AI"
     },
     {
-      "title": "Agentao: A Governed Local-First Runtime for Tool-Using LLM Agents",
-      "date": "Mon, 17 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.13574v1 Announce Type: new Abstract: LLM agents increasingly operate as execution systems that invoke tools, modify local state, use persistent memory, and interact with external protocols. These capabilities make agents useful, but they also introduce risks related to over-privileged actions, weak auditability, prompt injection, tool poisoning, and uncontrolled side effects. This paper presents Agentao, a governed local-first runtime for tool-using LLM agents. Agentao separates model",
-      "url": "https://arxiv.org/abs/2608.13574",
+      "title": "The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abstract Perceptual Reasoning",
+      "date": "Tue, 18 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.14558v1 Announce Type: new Abstract: Current multimodal models have demonstrated remarkable proficiency in recognizing static visual and auditory content. However, their capacity for abstract perceptual reasoning, inferring unseen information from dynamic, generative processes, remains a critical and underexplored frontier. In this paper, we introduce The Unwritten Benchmark, a new challenge designed to probe this abstract perceptual and cognitive ability. We define the core task as a",
+      "url": "https://arxiv.org/abs/2608.14558",
       "category": [
         "cs.AI",
-        "cs.MA"
+        "cs.CV"
       ]
     },
     {
-      "title": "AI Evaluation Should Work With Humans",
-      "date": "Mon, 17 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.13577v1 Announce Type: new Abstract: This position paper argues that the dominant paradigm of AI evaluation (which focuses on superhuman autonomous performance and so implicitly targets the goal of replacing humans) is guiding AI development in the wrong direction. Instead, the AI community should pivot to evaluating the performance of human--AI teams. We argue that this collaborative shift will foster AI systems that act as true complements to human capabilities and therefore lead to",
-      "url": "https://arxiv.org/abs/2608.13577",
+      "title": "When to Communicate: Belief Distributions and KL Divergence for Principled Gating in Multi-Agent RL",
+      "date": "Tue, 18 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.14559v1 Announce Type: new Abstract: Effective communication in multi-agent reinforcement learning requires agents to decide not only \\textit{what} to communicate, but when? Existing approaches either communicate at every timestep or learn a binary gate through REINFORCE policy gradients \\cite{singh2019}, a high-variance signal that produces unstable and uninterpretable gating behavior. I propose a principled alternative: agents communicate only when the KL divergence between their le",
+      "url": "https://arxiv.org/abs/2608.14559",
       "category": [
         "cs.AI",
         "cs.LG"
       ]
+    },
+    {
+      "title": "Global AI Regulations for FAIR and Ethics in High-Risk Use Cases: A Comparative Review",
+      "date": "Tue, 18 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.14562v1 Announce Type: new Abstract: AI governance is shifting from voluntary ethics to enforceable, risk-based regulation, yet cross-jurisdictional divergence creates compliance uncertainty for operators of high-stakes AI. We present a comparative matrix for the EU, US, and China that maps (i) risk classification triggers, (ii) binding obligations, (iii) enforcement and accountability mechanisms, and (iv) the degree to which FAIR principles are operationalised in practice. We stress-",
+      "url": "https://arxiv.org/abs/2608.14562",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Position: AI Lock-In Is in Progress, and We Must Be Prepared",
+      "date": "Tue, 18 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.14565v1 Announce Type: new Abstract: AI safety research has mainly focused on two areas: technical alignment (ensuring AI systems produce human-aligned outputs) and the regulation of generative AI's societal impacts (including unemployment risk and labor market disruption). However, an equally important dimension remains underexplored: the risk inherent in dependence on AI systems themselves. In this position paper, we argue that AI safety research should address AI Lock-In, the pheno",
+      "url": "https://arxiv.org/abs/2608.14565",
+      "category": "cs.AI"
     }
   ],
   "status": "success",
