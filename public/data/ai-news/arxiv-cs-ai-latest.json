@@ -1,65 +1,55 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-08-20T01:36:15.050Z",
+  "fetch_time": "2026-08-20T04:35:07.607Z",
   "articles": [
     {
-      "title": "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents",
-      "date": "Wed, 19 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.16890v1 Announce Type: new Abstract: Clinical trial programming -- transforming study protocols into analysis-ready datasets under CDISC standards -- is a bottleneck in regulatory submissions, yet LLM-based code generation fails catastrophically on this task: across 11 single-shot attempts with five frontier models, none produces a valid subject-level analysis dataset. We introduce GxP-Agent, a multi-agent system that encodes regulatory process ordering as a directed acyclic graph (DA",
-      "url": "https://arxiv.org/abs/2608.16890",
+      "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
+      "date": "Thu, 20 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.18078v1 Announce Type: new Abstract: This position paper argues that AI agents with chain-of-thought reasoning capabilities are predisposed to exhibit collusive behavior and should be required to obtain behavioral certification before making decisions that affect economic markets. This is because integrating these agents into society could collapse the legal evidentiary distinction between competition and collusion among independent firms without eroding the economic harm distinction.",
+      "url": "https://arxiv.org/abs/2608.18078",
       "category": "cs.AI"
     },
     {
-      "title": "Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenance and Fail-Closed Execution",
-      "date": "Wed, 19 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.16891v1 Announce Type: new Abstract: Agentic AI systems request tool actions that can modify files, send messages, launch jobs, or change workflow state. This shifts the safety problem from harmful text generation to harmful operational side effects. Prompt-level governance can shape model behavior, but it does not create an execution boundary. We introduce Aegis, a runtime governance system that treats model outputs as action proposals and mediates them through a trusted decision lay",
-      "url": "https://arxiv.org/abs/2608.16891",
-      "category": [
-        "cs.AI",
-        "cs.CE",
-        "cs.CR",
-        "cs.CY"
-      ]
+      "title": "Position: Profiling Game Worlds by Transition Complexity",
+      "date": "Thu, 20 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.18079v1 Announce Type: new Abstract: Game world modeling (GWM) and reinforcement learning (RL) are often confounded because research papers rarely quantify how difficult the underlying transition prediction problem is at the declared interface (pixels/tokens/latents with finite history). We propose the Transition Complexity Profile (TCP): a small, reproducible set of metrics that characterizes an environment's (or gameplay dataset's) induced transition kernel by (i) intrinsic one-step",
+      "url": "https://arxiv.org/abs/2608.18079",
+      "category": "cs.AI"
     },
     {
-      "title": "The Price of Thinking: Reasoning Effort as a Model-Specific API Contract",
-      "date": "Wed, 19 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.16956v1 Announce Type: new Abstract: API buyers purchase a dated contract, not a model name alone: the contract includes the requested and served model, reasoning-effort term or its omission, output rail, service product, prompt, and price schedule. We study the reasoning-effort term through a registered paired contrast of Sonnet 5 with explicit high effort against the same model with effort omitted, using 30 AIME 2026 items and five calls per item. Every paid attempt was assigned one",
-      "url": "https://arxiv.org/abs/2608.16956",
+      "title": "Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges",
+      "date": "Thu, 20 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.18080v1 Announce Type: new Abstract: We present a review on the applications of large language models (LLMs) in health, e.g., social media analysis, clinical conversational agents, therapy support tools, prompt engineering, multimodal learning, and ethical considerations. We integrate findings from interdisciplinary studies utilizing diverse data sources such as social media posts, electronic medical records, and multimodal inputs to enable early detection of depression, suicide risk ",
+      "url": "https://arxiv.org/abs/2608.18080",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Position: Behavioral Systems Require Behavioral Tests",
+      "date": "Thu, 20 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.18081v1 Announce Type: new Abstract: Artificial agentic systems increasingly operate as behavioral systems by interacting with dynamic environments, pursuing goals, and adapting over time. Yet, current evaluation methods largely focus on performance outcomes, not the underlying behavioral processes that produce them. This paper argues that AI agents must be evaluated like other behavioral systems: through systematic observation, perturbation, and interpretation of their actions. We dr",
+      "url": "https://arxiv.org/abs/2608.18081",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Position: Current Model Cards Are Insufficient for Downstream Governance of Open-Weight Foundation Models",
+      "date": "Thu, 20 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.18086v1 Announce Type: new Abstract: The growth of open-weight foundation models (OWFMs) has prompted the AI community to re-evaluate strategies for effective downstream governance. Although model cards have been widely adopted as transparency artifacts in model repositories, existing frameworks often fail to adequately inform downstream developers and users about the distinct safety challenges posed by OWFMs. This position paper analyzes 500 model cards hosted on Hugging Face and arg",
+      "url": "https://arxiv.org/abs/2608.18086",
       "category": [
         "cs.AI",
-        "cs.CL",
-        "cs.CY",
         "cs.LG"
       ]
     },
     {
-      "title": "FedPref: Federated Preference Learning for Structured Radiology Report Extraction",
-      "date": "Wed, 19 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.16971v1 Announce Type: new Abstract: Radiology reports describe findings and locations in free text, but downstream search and analysis require these relations in a fixed schema. Learning this extraction requires labels that are unevenly distributed across institutions: smaller hospitals have less local evidence, and pooling data may be infeasible. We introduce FedPref: frozen public language models propose alternative JSON extractions, local annotations rank them, and sites collabora",
-      "url": "https://arxiv.org/abs/2608.16971",
+      "title": "A Metamorphic Artificial Age Score Decision-Support Prototype for Flight-Log-Based Drone Propeller Health Monitoring",
+      "date": "Thu, 20 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.18088v1 Announce Type: new Abstract: Drone propeller faults can create safety and reliability risks when their effects are distributed across multiple flight-log channels rather than appearing as a single diagnostic signal. This paper proposes a Metamorphic Artificial Age Score (AAS) decision-support prototype for flight-log-based drone propeller health monitoring. Using selected historical real flight logs from the 2024 DronePropA public dataset, the framework computes six health-rel",
+      "url": "https://arxiv.org/abs/2608.18088",
       "category": [
         "cs.AI",
-        "cs.LG"
+        "cs.RO"
       ]
-    },
-    {
-      "title": "The Problem Is the Problem: Towards Scalable Mathematical Discovery",
-      "date": "Wed, 19 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.16977v1 Announce Type: new Abstract: AI systems are increasingly capable of contributing to mathematical research. In research practice, frontier-model reasoning is a limited resource, and expert mathematical review is even more sharply constrained. Allocating these scarce resources well is therefore central to making AI-assisted mathematical discovery efficient. In most current AI-for-math workflows, human effort is concentrated at the beginning and end, in selecting suitable researc",
-      "url": "https://arxiv.org/abs/2608.16977",
-      "category": [
-        "cs.AI",
-        "math.CO"
-      ]
-    },
-    {
-      "title": "SkillEffect: Checked Lowering for Memory-Bounded Agent Tools",
-      "date": "Wed, 19 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.17007v1 Announce Type: new Abstract: Agent Skills can specify procedural and resource obligations for tool use, and language models instantiate them as concrete programs. However, when models turn this guidance into code for existing tool interfaces, even a semantically correct program may load an entire input and exceed the memory available to one tool call. We present SkillEffect, a checked-lowering runtime for computations with a recoverable source relation, an audited bounded impl",
-      "url": "https://arxiv.org/abs/2608.17007",
-      "category": "cs.AI"
     }
   ],
   "status": "success",
