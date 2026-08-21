@@ -1,8 +1,29 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-08-20T12:18:54.349Z",
+  "fetch_time": "2026-08-21T01:41:04.747Z",
   "articles": [
+    {
+      "title": "海冰消失巨型鲸鱼进入格陵兰",
+      "date": "Thu, 20 Aug 2026 15:57:12 GMT",
+      "summary": "由于海冰融化，巨型鲸鱼如座头鲸进入到了以前难以抵达的东格陵兰沿海地区。这是东格陵兰海洋生态系统发生重大转变的一部分。直到 2006 年该地区才首次记录到座头鲸的踪迹。2007 年记录到了 7 头座头鲸，2024 年船载设备就记录到了 150 头。研究人员结合卫星标记鲸鱼的追踪轨迹和因纽特猎人的证词，估计 2024 年夏天大约有 4000 头座头鲸、6000 头长须鲸和 6000 头小须鲸造访了格陵兰海。这三种鲸鱼在夏季觅食季节至少会消耗 80 万吨鱼类和磷虾。北极原有的鲸鱼要么被迫适应要么被迫离开。",
+      "url": "https://www.solidot.org/story?sid=85151",
+      "category": ""
+    },
+    {
+      "title": "AliExpress 被发现静默运行 WebAudio 指纹",
+      "date": "Thu, 20 Aug 2026 15:26:17 GMT",
+      "summary": "有开发者注意到一个奇怪的现象：蓝牙耳机支持多点蓝牙音频，能同时连接 PC 和手机，PC 通常优先播放音频，只有在 PC 没有播放内容时手机才会播放音频。这位开发者注意到，在 Firefox 或 Chrome 浏览器中打开 AliExpress 网页后，手机会停止播放音频，关闭网页则会恢复。这位开发者随后展开了调查，发现高度混淆的阿里巴巴安全脚本会创建两个 WebAudio 图形，成为浏览器指纹的一部分，该静默运行的 WebAudio 指纹会干扰多点蓝牙音频。用户可利用 uBlock Origin 扩展屏蔽阿里巴巴的脚本 collina.js 和 fireyejs.js 关闭这一指纹。",
+      "url": "https://www.solidot.org/story?sid=85150",
+      "category": ""
+    },
+    {
+      "title": "Google 通过 Google Drive 提供 Android 特定源代码",
+      "date": "Thu, 20 Aug 2026 14:57:25 GMT",
+      "summary": "Android 安全加固项目 GrapheneOS 抨击 Google 违反了 GPLv2 许可证，原因是 Android 的部分源代码需要通过表单（Google Forms）递交申请然后通过云盘 Google Drive 获取，而且 Google 处理申请的速度越来越慢。GrapheneOS 指出，AOSP(Android 开源项目)现在只提供年度版本和季度更新版本 QPR2，以及针对这两个版本的安全回溯移植。Google 也停止向 AOSP 项目推送 Pixel 智能手机相关的特定代码，而 GrapheneOS 目前只支持 Pixel 智能手机，Google 此举严重影响了 GrapheneOS 对 Pixel 支持，这一状况促使 GrapheneOS 项目转而与摩托罗拉合作，预计支持 GrapheneOS 的摩托罗拉设备将在 2027 年推出。GrapheneOS 称，以前 Google 通常会在数小时内响应特定内核源代码的请求，如今需要数周甚至更长时间。Android 的内核使用的是 GPLv2 许可证，根据该许可证，如果用户索要修改后的源代码，Google 需要提供。但 GP",
+      "url": "https://www.solidot.org/story?sid=85149",
+      "category": ""
+    },
     {
       "title": "AI 记录员捏造了患者服用迷幻蘑菇的经历",
       "date": "Thu, 20 Aug 2026 11:03:54 GMT",
@@ -22,27 +43,6 @@
       "date": "Thu, 20 Aug 2026 08:25:48 GMT",
       "summary": "在量子电动力学世界中，真空并非空无一物，而是伴随虚粒子的不断产生与湮灭。然而自由空间中的真空涨落通常较弱，难以对宏观凝聚态体系产生可观测影响。如何将其转化为调控量子物态的资源，是凝聚态物理与腔量子电动力学交叉领域的重要课题。研究团队探索利用真空涨落，实现对宏观量子物态的可控调节。研究团队为此引入太赫兹分裂环谐振器构成的“暗腔”，通过重塑电磁环境显著增强真空涨落。研究团队将超导体二硒化铌嵌入暗腔，发现暗腔中二硒化铌的超导临界温度获得实质性提高。在六层二硒化铌器件中临界温度最高提升 5.4%。同时，超导体的临界电流和临界磁场在超导转变附近也显著增强。这是国际上首次实验观测到真空涨落增强超导。",
       "url": "https://www.solidot.org/story?sid=85146",
-      "category": ""
-    },
-    {
-      "title": "因 DRAM 和 eMMC 短缺 PINE64 暂停 Linux 设备生产",
-      "date": "Thu, 20 Aug 2026 07:41:46 GMT",
-      "summary": "因 DRAM 和 eMMC 持续短缺，香港电脑制造商 PINE64 宣布暂停 Linux 设备生产，未来是否恢复生产将取决于 2027 年中期之后的组件价格。该公司现有的 Linux 平板 PineNote 和 PineTab2 库存可能在大约三个月内售罄。PineTime、PineVoice 和 Pinecil 的生产则将照常进行。Pine64 创办于 2015 年，产品包括了单板电脑、笔记本电脑、智能手机和智能手表等。",
-      "url": "https://www.solidot.org/story?sid=85145",
-      "category": ""
-    },
-    {
-      "title": "Stripe 以 75 亿美元收购 OpenRouter",
-      "date": "Thu, 20 Aug 2026 07:02:24 GMT",
-      "summary": "Stripe 以 75 亿美元收购了 AI 初创公司 OpenRouter，OpenRouter 创始人将从这笔交易中获得 15 亿美元。OpenRouter 成立于 2023 年，由 Alex Atallah 和 Louis Vichy 共同创办，总部位于纽约市。2026 年 5 月完成 B 轮融时该公司的估值还只有 13 亿美元。OpenRouter 平台提供了一个统一的 API，允许开发者根据价格和性能在不同模型之间切换。它提供了 400 多个模型的访问权限，其中包括大量开放权重模型。",
-      "url": "https://www.solidot.org/story?sid=85144",
-      "category": ""
-    },
-    {
-      "title": "X 算法向民主党用户推送更多激发愤怒的内容",
-      "date": "Thu, 20 Aug 2026 06:41:01 GMT",
-      "summary": "根据发表在 PNAS 期刊上的一项研究，X 算法会向民主党用户推送更多激发愤怒（ragebait）的信息流。论文合作者、斯坦福大学博士后研究员 Ziv Epstein 说，和其它社媒网站类似，X 信息流算法的优化目标是提升用户参与度，但并非所有类型的参与度都一视同仁。X 的算法会向用户推送与其价值观相冲突的内容，尤其是当他们回复那些令其愤怒或挑衅的帖子时。尽管回复仅占互动的 6.8%，但它们承载了不成比例的权重：“这是一个愤怒诱饵（ragebait）的反馈循环。算法学会你会被激怒，然后继续为你推送更多此类内容。”目前不清楚为什么 X 更频繁向民主党用户而不是共和党用户推送激发愤怒的内容。这可能是因为 X 上右翼内容总体上更多，或者民主党用户更倾向于与其不认同的帖子互动。",
-      "url": "https://www.solidot.org/story?sid=85143",
       "category": ""
     }
   ],
