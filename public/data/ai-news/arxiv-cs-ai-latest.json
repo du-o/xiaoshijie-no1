@@ -1,58 +1,8 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-08-22T01:34:57.401Z",
-  "articles": [
-    {
-      "title": "Active Inference as Context Acquisition for AI Agents",
-      "date": "Fri, 21 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.19202v1 Announce Type: new Abstract: Interactive AI agents must acquire the right context as efficiently as possible. When a user omits a constraint, preference, file, or task variable, an agent can proceed with a default assumption or spend tokens on a clarifying question, retrieval call, tool call, or prompt trial. We formulate this tradeoff as active inference for context acquisition. An inner inference step updates beliefs over a latent task state, and an outer decision selects th",
-      "url": "https://arxiv.org/abs/2608.19202",
-      "category": [
-        "cs.AI",
-        "cs.CL",
-        "cs.LG"
-      ]
-    },
-    {
-      "title": "Robust Metaheuristics under Uncertainty for Berth Allocation and Quay Crane Assignment: A Review",
-      "date": "Fri, 21 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.19214v1 Announce Type: new Abstract: The berth allocation and quay crane assignment problem (BACAP) is a representative port-terminal scheduling problem in maritime transportation and freight logistics, where vessel arrivals, berth positions, service durations, and quay?crane availability are tightly coupled. Under uncertainties such as arrival deviations, handling-time fluctuations, and resource disruptions, schedules optimized under nominal assumptions may become fragile during exec",
-      "url": "https://arxiv.org/abs/2608.19214",
-      "category": "cs.AI"
-    },
-    {
-      "title": "How to Navigate Uncertainty About AI Consciousness",
-      "date": "Fri, 21 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.19215v1 Announce Type: new Abstract: Given deep uncertainty about the possibility of artificial consciousness, it is unclear how we should treat potentially sentient AI. On the one hand, we could assume insentience but risk doing terrible harms to entities that deserve moral standing. On the other hand, we could assume sentience and instead risk wasting resources on insentient machines. The intractability of questions around AI consciousness mean that this dilemma is hard to escape. I",
-      "url": "https://arxiv.org/abs/2608.19215",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Bounded Sovereignty and the Control Tax: Pricing AI Oversight When the Deployer Does Not Own the Model",
-      "date": "Fri, 21 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.19216v1 Announce Type: new Abstract: AI control research asks how to deploy models safely even when they may be misaligned, but many control protocols assume that the deployer can instrument the model and its surrounding pipeline. That assumption often fails for regulated organisations using frontier models through APIs or managed endpoints, where the deployer may control the business process but not the model weights, serving infrastructure, internal traces, update process, or full i",
-      "url": "https://arxiv.org/abs/2608.19216",
-      "category": [
-        "cs.AI",
-        "cs.CY"
-      ]
-    },
-    {
-      "title": "Interaction valence reveals contrasting social networks in dairy cattle",
-      "date": "Fri, 21 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.19222v1 Announce Type: new Abstract: Social relationships shape access to resources, exposure to conflict and group stability, yet automated livestock monitoring typically treats behaviour as isolated events. Here, we present a valence-aware social-network framework that transforms video-derived interactions into herd-level representations of affiliative and agonistic organization. A pose-based computer-vision pipeline analysed 7 h 39 min of continuous video from the pre-milking area ",
-      "url": "https://arxiv.org/abs/2608.19222",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Air Traffic Control Using Large Language Models: Prompt Engineering, Architecture, and Evaluation",
-      "date": "Fri, 21 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.19299v1 Announce Type: new Abstract: Air traffic control (ATC) communication is a safety-critical dialogue that remains largely human-driven even as other parts of air traffic management have been semi-automated. In this article, we experimentally evaluate whether large language models (LLMs) can generate operationally realistic ATC transmissions. An experimental general-aviation flight flying over the San Francisco \"Bay Tour\" route is hand-transcribed and used as ground truth (P0). T",
-      "url": "https://arxiv.org/abs/2608.19299",
-      "category": "cs.AI"
-    }
-  ],
+  "fetch_time": "2026-08-22T04:30:33.364Z",
+  "articles": [],
   "status": "success",
   "error": null
 }
