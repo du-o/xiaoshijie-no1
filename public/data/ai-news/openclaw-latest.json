@@ -1,69 +1,8 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-08-23T01:44:11.769Z",
-  "articles": [
-    {
-      "title": "OpenClaw 2026.8.1-beta.2",
-      "date": "2026-08-15T05:36:23Z",
-      "summary": "## 2026.8.1\n\n### Highlights\n\n- **Secret egress host binding:** bind each shared-store secret to exact HTTPS destination hosts across CLI, Gateway RPC, and Control UI so unbound sentinel substitution f...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.8.1-beta.2",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.8.1-beta.2",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.7.1-2",
-      "date": "2026-08-04T00:41:26Z",
-      "summary": "\n### Fixes\n\n- **npm plugin updates:** accept singleton-array metadata from newer npm clients so tracked official plugins can install and update to correction releases. (#108336)\n\n",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.1-2",
-      "category": "Release",
-      "author": "vincentkoc",
-      "tagName": "v2026.7.1-2",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.7.1-1",
-      "date": "2026-08-04T00:41:25Z",
-      "summary": "\n### Fixes\n\n- **Codex progress replies:** keep app-server turns running after delivered progress messages so GPT/Codex reaches its authoritative terminal response instead of stopping mid-turn. (#10696...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.1-1",
-      "category": "Release",
-      "author": "vincentkoc",
-      "tagName": "v2026.7.1-1",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.6.34",
-      "date": "2026-08-08T07:22:14Z",
-      "summary": "## 2026.6.34\n\n### Highlights\n\n- **Safer browser and network boundaries:** sandboxed browser routes, trusted DNS targets, custom browser origins, and loopback provider endpoints now reject unsafe acces...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.34",
-      "category": "Release",
-      "author": "RomneyDa",
-      "tagName": "v2026.6.34",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.7.2-beta.7",
-      "date": "2026-08-02T08:11:31Z",
-      "summary": "## 2026.7.2\n\n### Highlights\n\n- **State safety and recovery:** protect persisted data with a quarantine store that survives primary-database damage, crash-recoverable SQLite snapshots, crash-durable fi...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.2-beta.7",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.7.2-beta.7",
-      "downloadCount": 474
-    },
-    {
-      "title": "openclaw 2026.7.2-beta.6",
-      "date": "2026-08-01T05:34:32Z",
-      "summary": "## 2026.7.2\n\n### Highlights\n\n- **State safety and recovery:** protect persisted data with a quarantine store that survives primary-database damage, crash-recoverable SQLite snapshots, crash-durable fi...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.2-beta.6",
-      "category": "Release",
-      "author": "vincentkoc",
-      "tagName": "v2026.7.2-beta.6",
-      "downloadCount": 0
-    }
-  ],
-  "status": "success",
-  "error": null
+  "fetch_time": "2026-08-23T04:34:58.048Z",
+  "articles": [],
+  "status": "error",
+  "error": "GitHub API 请求失败: 504"
 }
