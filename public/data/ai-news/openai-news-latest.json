@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-08-24T12:19:13.120Z",
+  "fetch_time": "2026-08-25T01:37:02.862Z",
   "articles": [
+    {
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "date": "Mon, 24 Aug 2026 12:00:00 GMT",
+      "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+      "url": "https://openai.com/index/gpt-5-6-in-kiro",
+      "category": "Product"
+    },
     {
       "title": "Introducing AI Futures",
       "date": "Thu, 20 Aug 2026 07:00:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
       "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
       "category": "Product"
-    },
-    {
-      "title": "Strengthening democratic oversight in national security",
-      "date": "Tue, 18 Aug 2026 19:00:00 GMT",
-      "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
-      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "category": "Global Affairs"
     }
   ],
   "status": "success",
