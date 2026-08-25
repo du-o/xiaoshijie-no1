@@ -1,8 +1,36 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-08-25T08:31:21.505Z",
+  "fetch_time": "2026-08-25T12:19:49.262Z",
   "articles": [
+    {
+      "title": "微软画图和照片应用生成的图像嵌入了看不见的水印",
+      "date": "Tue, 25 Aug 2026 11:12:00 GMT",
+      "summary": "Windows 画图（Paint）和照片（Photos）应用都集成了微软的 AI 工具 Copilot，支持通过本地模型和云端生成图像。AI 生成的图像会嵌入两个水印，其一是可见的 Copilot logo，其二是不可见的能跟踪到用户身份的唯一识别码 GUID。画图和照片使用的本地模型（仅限于 Copilot+ PC）共四个文件，容量不到 400MB，无论本地还是云端用户输入的提示词都会发送到微软服务器进行内容审核，服务器会返回 GUID 以及审核后的提示词，GUID 随后就嵌入在 AI 生成的图像之中。",
+      "url": "https://www.solidot.org/story?sid=85192",
+      "category": ""
+    },
+    {
+      "title": "Linux 诞生 35 周年",
+      "date": "Tue, 25 Aug 2026 10:02:48 GMT",
+      "summary": "1991 年 8 月 25 日，Linus Torvalds 在新闻组 comp.os.minix 宣布了他正在开发的操作系统内核：“我正在为386（486）AT clones写一个（自由的）操作系统（只是爱好而已，不会和 GNU 一样成为广泛且专业的操作系统）。这个计划从 4 月开始酝酿，现在已做好准备。我希望得到人们关于 minix 优缺点的任何反馈意见，因为我的操作系统和它有类似的方面（因为可行性方面的原因，两者的文件系统物理布局相同）。我刚刚把 bash(1.08) 和 gcc(1.40) 移植到了系统上，而且看来运行得很好。这意味着我可以在几个月内我就可以把它变得有实用性了。我想知道大家想要些什么特色。欢迎提任何的建议，但是我不保证我会实现你的建议 :-)”Torvalds 原计划将项目名字命名为 “fread”——free和 x（即 Unix）的合成词，然而文件上传的 FTP 服务器管理员认为该名字不好听，因此改名为 Linux。如今这个原本是爱好的项目已经走过了 35 年，成为了世界上最流行的操作系统，被无数人使用，虽然桌面是一个例外。",
+      "url": "https://www.solidot.org/story?sid=85191",
+      "category": ""
+    },
+    {
+      "title": "已知最大星系直径 170 万光年",
+      "date": "Tue, 25 Aug 2026 08:47:02 GMT",
+      "summary": "天文学家通过超深成像观测确认已知最大星系边界。名为 IC1101 的星系直径达到约 520 千秒差距（星系尺度单位），接近 170 万光年，宽度相当于 17 个银河系并排排列，而这个星系目前还在成长。IC1101 的恒星物质总质量约为 3.4 万亿个太阳质量。IC1101 坐落在距地球超过 10 亿光年的 Abell2029 星系团中心，是该星系团中光度最高的星系。这类星系位居宇宙中最庞大星系之列，其成长方式是通过反复吞并附近较小的星系不断扩张，这一过程被称作星系同类相食。作为已知最大的星系，它的存在也揭示了在数十亿年的时间尺度上，宇宙中的最大尺度星系结构可以通过持续吞并周围星系而发展到何等极端的规模。",
+      "url": "https://www.solidot.org/story?sid=85190",
+      "category": ""
+    },
+    {
+      "title": "狩猎采集者的睡眠时间并不比工业社会的现代人长",
+      "date": "Tue, 25 Aug 2026 08:13:06 GMT",
+      "summary": "三个狩猎采集者社会——坦桑尼亚的哈扎人、纳米比亚的桑人、玻利维亚的齐曼内人——他们的睡眠时间并不比生活在工业社会的现代人长。他们每夜睡 6.4-7.1小时。但生活在工业社会的现代人推迟了睡眠时间，不再日复一日的规律性睡眠，与自然光的同步减弱了，可诊断的睡眠障碍也变多了。睡眠的总时长恰恰是变动最小的。研究人员认为，区分现代睡眠与祖先睡眠的关键在于时相与规律性，而非睡眠时长。",
+      "url": "https://www.solidot.org/story?sid=85189",
+      "category": ""
+    },
     {
       "title": "美国计划再次对 H1B 签证征收 10 万美元费用，计划吊销 20 万商务或旅游签证",
       "date": "Tue, 25 Aug 2026 07:23:25 GMT",
@@ -15,34 +43,6 @@
       "date": "Tue, 25 Aug 2026 06:45:01 GMT",
       "summary": "Firefox 和 Chrome 都宣布准备启用对 JPEG XL 的支持。JPEG XL 是一种免版税的位图文件格式，支持有损和无损压缩。它旨在超越现有的位图格式，并成为它们的通用替代。Google Chrome 在 2023 年 移除了对实验性的 JPEG-XL 图像格式的支持，引发了很多争议，因为 Chrome/Chromium 占据了九成市场份额，它是 Web 标准事实上的仲裁者。但到了 2025 年 Google 改变了主意，Chrome/Chromium 加入了 Rust 语言开发的 JPEG-XL 图像解码器 jxl-rs，但对 JPEG-XL 的支持还没有默认启用。Mozilla 开发者通过邮件列表宣布即将释出的 Firefox 157 将默认启用对 JPEG XL 的支持。Google 也宣布准备默认启用。苹果的 Safari 则早在 2023 年就加入了对 JPEG-XL 的支持，但它使用的不是 Rust 实现而是 C++ 实现。",
       "url": "https://www.solidot.org/story?sid=85187",
-      "category": ""
-    },
-    {
-      "title": "安娜的档案在长时间宕机之后恢复服务",
-      "date": "Tue, 25 Aug 2026 06:14:46 GMT",
-      "summary": "安娜的档案（Anna's Archive）在本月初遭遇长时间宕机之后恢复了正常运行。该组织通过 Reddit 发表了一则声明，称网站遭遇了一次协同攻击，目前并不清楚攻击者身份。安娜的档案成立于 2022 年，今年以来遭遇了一连串的挑战：因 Spotify 以及唱片公司的起诉它失去了 .org 主域名，被勒令向 Spotify 等公司赔偿 3.22 亿美元；图书出版商 Penguin Random House、Elsevier 和 HarperCollins 提起了侵权诉讼，被判处赔偿 1950 万美元，法院还发布了针对其域名注册商和注册管理机构的禁令。目前安娜的档案 annas-archive.pk、annas-archive.gd 以及 annas-archive.gl 等域名都能正常访问。",
-      "url": "https://www.solidot.org/story?sid=85186",
-      "category": ""
-    },
-    {
-      "title": "15 年前库克接替乔布斯担任苹果 CEO",
-      "date": "Tue, 25 Aug 2026 05:38:19 GMT",
-      "summary": "15 年前的 2011 年 8 月 24 日，蒂姆·库克（Timothy Donald Cook）接替史蒂夫·乔布斯担任苹果 CEO，下周的 9 月 1 日，库克将卸任 CEO 一职，John Ternus 将接替他。Ternus 于 2001 年加入苹果产品设计团队。他于 2013 年晋升为硬件工程副总裁，2021 年升任高级副总裁，期间负责监督了 AirPods、Mac、iPad 和 iPhone 的开发。库克将继续留在苹果公司，担任执行董事长，负责与政策制定者沟通，帮助苹果应对监管压力。",
-      "url": "https://www.solidot.org/story?sid=85185",
-      "category": ""
-    },
-    {
-      "title": "Protocol Labs 停止资助星际文件系统的核心维护团队",
-      "date": "Tue, 25 Aug 2026 04:53:49 GMT",
-      "summary": "在 Cloudflare 和 Brave 之后，Protocol Labs 停止资助星际文件系统（IPFS）的核心维护团队 Shipyard，IPFS 的未来打上了巨大的问号。IPFS 是 Protocol Labs 从 2014 年起开发的开源项目，目的是实现文件分布式存储、共享和持久化的网络传输协议，它是一种内容可寻址的对等超媒体分发协议，在 IPFS 网络中的节点构成一个集群文件系统。Cloudflare 和 Brave 都曾支持过 IPFS，但都已经退出，目前使用 IPFS 最知名服务可能是 Bluesky，它的 ATProto 协议是基于 IPFS 内容寻址构建的。Shipyard 团队称，与 IPFS 相关的工作将于 2026 年 9 月 30 日结束。",
-      "url": "https://www.solidot.org/story?sid=85184",
-      "category": ""
-    },
-    {
-      "title": "微软删除了逾 17 万非营利组织的数据",
-      "date": "Mon, 24 Aug 2026 14:48:16 GMT",
-      "summary": "微软曾从 2013 年起向全世界的小型非营利组织免费提供 Microsoft 365 Business Premium，但在 2025 年初它宣布将从 2025 年 7 月起停止提供免费授权，转为提供折扣价付费订阅。6 月 11 日前如果没有转为付费的账号内相关数据将被删除。根据 Slate 的报道，没有注意到微软邮件通知的非营利组织遭到重创，17.1 万非营利组织储存在 OneDrive 中的数据被删除，全部丢失。一名经营着一家儿童医保组织的人士称，他翻遍了该组织的邮件存档和垃圾邮件，没有看到任何授权终止的通知。在 Reddit 和微软官方的技术社区论坛，很多非营利组织都表示他们没有收到提前通知就被删除了数据。还有很多人报告在数据删除后才注意到微软的警告邮件。微软没有解释为什么客户的数据无法恢复。",
-      "url": "https://www.solidot.org/story?sid=85183",
       "category": ""
     }
   ],
