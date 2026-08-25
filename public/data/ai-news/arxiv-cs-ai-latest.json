@@ -1,54 +1,60 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-08-25T01:37:03.090Z",
+  "fetch_time": "2026-08-25T04:36:51.123Z",
   "articles": [
     {
-      "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
-      "date": "Mon, 24 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.20341v1 Announce Type: new Abstract: Frontier coding agents backed by large language models with context windows from hundreds of thousands to millions of tokens are restructuring the Software Development Life Cycle (SDLC). Rich context handling and multi-step reasoning now allow substantial Functional Requirement Documents (FRDs) and repository context to be ingested in a single workflow, making specification quality the execution fuel for autonomous delivery. This report formalises ",
-      "url": "https://arxiv.org/abs/2608.20341",
+      "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
+      "date": "Tue, 25 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.21362v1 Announce Type: new Abstract: Transformer-based large language models (LLMs) incur high prefill latency because key-value (KV) tensors must be recomputed for each request. Existing prefix-caching systems reduce this cost but require prompts to share a leading contiguous prefix, limiting effectiveness when shared content appears at arbitrary positions. We present KVBoost, a chunk-level KV cache reuse system for HuggingFace-compatible decoder models that enables reuse regardless ",
+      "url": "https://arxiv.org/abs/2608.21362",
       "category": [
         "cs.AI",
-        "cs.SE"
+        "cs.DC"
       ]
     },
     {
-      "title": "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure",
-      "date": "Mon, 24 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.20342v1 Announce Type: new Abstract: Large language model (LLM) coding agents start each session with an empty context window, discarding accumulated knowledge from prior work. We present PrimeAgentOrchestrator (PAO), a system that spawns new instances of Claude Code -- Anthropic's terminal-based coding agent -- pre-loaded with relevant memories compiled from the user's existing personal databases. At spawn time, PAO queries two independently-operated memory backends in parallel (a Po",
-      "url": "https://arxiv.org/abs/2608.20342",
+      "title": "AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance",
+      "date": "Tue, 25 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.21363v1 Announce Type: new Abstract: A protocol is presented for recording the governance decisions of automated AI runtimes. When a runtime releases, blocks, defers, redacts, or escalates an individual output, AIREP records that decision as a single signed object that any party can check offline, independent of the runtime that produced it. A record carries the decision as one of a closed set of verbs under a stated policy basis, references its input, output, and evidence by hash rat",
+      "url": "https://arxiv.org/abs/2608.21363",
       "category": [
         "cs.AI",
-        "cs.MA"
+        "cs.CR"
       ]
     },
     {
-      "title": "Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification",
-      "date": "Mon, 24 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.20378v1 Announce Type: new Abstract: Safety alignment in Large Language Models (LLMs) is often superficial, relying on refusal mechanisms that trigger only at the final stages of generation without erasing the foundational knowledge of harmful concepts acquired during pretraining. This study demonstrates that this architectural disconnect leaves models vulnerable to Semantic Camouflage -- adversarial attacks that wrap harmful intent in benign narrative contexts (e.g., creative writing",
-      "url": "https://arxiv.org/abs/2608.20378",
+      "title": "Reviewing Model Collapse and Countermeasures",
+      "date": "Tue, 25 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.21366v1 Announce Type: new Abstract: Driven by massive amounts of web-scale data, generative AI (GenAI) has achieved remarkable progress, enabling various applications in diverse sectors. The advances of GenAI have actuated practitioners to use AI-synthesized data for training next-generation AI models. Undeniably, using synthetic data has alleviated the increasing stringent demand for data supply. Unfortunately, it also introduces a new critical issue: in a self-consuming cycle betwe",
+      "url": "https://arxiv.org/abs/2608.21366",
+      "category": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "AI Learning and Conceptual Transfer in the Game of Hidden Rules",
+      "date": "Tue, 25 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.21372v1 Announce Type: new Abstract: This report summarizes the work conducted on the Game of Hidden Rules (GOHR), focusing on reinforcement learning agents trained to infer hidden rules from trial-and-error feedback, representation design, rule difficulty analysis, transfer learning, generalization, and pseudo-bot-assisted human learning analysis. The report focuses on the Transformer-based A2C framework, Feature-Centric and Object-Centric representations, experimental findings, and ",
+      "url": "https://arxiv.org/abs/2608.21372",
+      "category": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "LitReview Arena: Evaluating Literature Review Agents with Battle-Style Peer Review Platform",
+      "date": "Tue, 25 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.21374v1 Announce Type: new Abstract: Literature reviews are essential to scientific progress, but rigorously evaluating automatically generated reviews remains difficult because many aspects of research utility depend on expert judgment rather than reference-overlap metrics. We introduce LitReview Arena, a battle-style evaluation platform with a structured protocol tailored to literature review quality: domain experts with AI paper-writing experience compare anonymized drafts, are mat",
+      "url": "https://arxiv.org/abs/2608.21374",
       "category": "cs.AI"
     },
     {
-      "title": "A Survey on Foundations and Frontiers of Multimodal Agentic Frameworks: Techniques and Applications",
-      "date": "Mon, 24 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.20379v1 Announce Type: new Abstract: Advances in large language models (LLMs) have fueled a wave of research into agency: the ability to reason, plan, and act. This effort has produced agentic frameworks that orchestrate perception, memory, and decision-making around powerful LLM backbones. With the advent of large multimodal models (LMMs), these systems can process and integrate diverse modalities, including images, audio, and video, thereby improving their real-world applicability. ",
-      "url": "https://arxiv.org/abs/2608.20379",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Interpretable Multimodal Classification with Linear Discriminant Tree Ensembles",
-      "date": "Mon, 24 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.20384v1 Announce Type: new Abstract: Multimodal affect and behaviour classifiers that fuse heterogeneous text, audio, and visual streams must simultaneously achieve competitive accuracy and produce human-understandable explanations of the cues driving their decisions -- a dual objective that current high-capacity models, notably Transformers, only partially address. While Transformers attain strong predictive performance, their distributed representations and deep nonlinearity make it",
-      "url": "https://arxiv.org/abs/2608.20384",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Representation Affects Retrieval: A Case Study of Skill Discovery and Routing in a Multimodal Agent Harness",
-      "date": "Mon, 24 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.20389v1 Announce Type: new Abstract: A production agent harness must discover and rank, from a growing library of skills, the one most appropriate for a user's task. At small scale this selection happens in context: the LLM planner chooses among skill representations exposed in its system prompt, without an explicit embedding-based retrieval step. We treat this in-context selection as the small-N counterpart to embedding-based skill retrieval at scale, and present a case study of how ",
-      "url": "https://arxiv.org/abs/2608.20389",
+      "title": "SchemaRouter: Field-Aware Tool Routing for Efficient Heterogeneous Agentic RAG",
+      "date": "Tue, 25 Aug 2026 04:00:00 GMT",
+      "summary": "arXiv:2608.21375v1 Announce Type: new Abstract: Heterogeneous agentic retrieval-augmented generation (RAG) systems increasingly orchestrate external APIs, internal databases, vector stores, and graph stores. Exposing all tool descriptions to an LLM agent, or selecting tools only by vector similarity, causes two costly failures: over-fetching, which increases payload size, token use, and latency, and under-fetching, which omits fields needed to answer the query. We present SchemaRouter, a lightwe",
+      "url": "https://arxiv.org/abs/2608.21375",
       "category": "cs.AI"
     }
   ],
