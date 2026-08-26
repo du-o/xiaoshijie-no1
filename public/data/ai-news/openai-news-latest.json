@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-08-26T08:32:18.087Z",
+  "fetch_time": "2026-08-26T12:21:31.981Z",
   "articles": [
+    {
+      "title": "How loveholidays is making everyone a builder with Codex",
+      "date": "Wed, 26 Aug 2026 00:00:00 GMT",
+      "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
+      "url": "https://openai.com/index/loveholidays",
+      "category": ""
+    },
     {
       "title": "The full stack behind abundant intelligence",
       "date": "Tue, 25 Aug 2026 07:05:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
       "url": "https://openai.com/index/gpt-5-6-in-kiro",
       "category": "Product"
-    },
-    {
-      "title": "Introducing AI Futures",
-      "date": "Thu, 20 Aug 2026 07:00:00 GMT",
-      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-      "url": "https://openai.com/index/introducing-ai-futures",
-      "category": "AI Futures"
     }
   ],
   "status": "success",
