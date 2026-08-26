@@ -1,14 +1,35 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-08-25T12:19:46.526Z",
+  "fetch_time": "2026-08-26T01:41:59.482Z",
   "articles": [
+    {
+      "title": "The full stack behind abundant intelligence",
+      "date": "Tue, 25 Aug 2026 07:05:00 GMT",
+      "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "category": "Company"
+    },
+    {
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "date": "Tue, 25 Aug 2026 07:00:00 GMT",
+      "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+      "url": "https://openai.com/index/jalapeno-first-results",
+      "category": "Engineering"
+    },
     {
       "title": "Disrupting a new covert influence campaign from Russia",
       "date": "Tue, 25 Aug 2026 00:00:00 GMT",
       "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
       "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
       "category": "Global Affairs"
+    },
+    {
+      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "date": "Tue, 25 Aug 2026 00:00:00 GMT",
+      "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+      "url": "https://openai.com/index/introducing-admin-plugin",
+      "category": "AI Adoption"
     },
     {
       "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
@@ -23,27 +44,6 @@
       "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
       "url": "https://openai.com/index/introducing-ai-futures",
       "category": "AI Futures"
-    },
-    {
-      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-      "date": "Thu, 20 Aug 2026 00:00:00 GMT",
-      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
-      "url": "https://openai.com/index/stampli",
-      "category": ""
-    },
-    {
-      "title": "Offering Zero Data Retention for frontier models",
-      "date": "Wed, 19 Aug 2026 19:00:00 GMT",
-      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
-      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-      "category": "Company"
-    },
-    {
-      "title": "Replit expands access to software creation with GPT-5.6 Luna",
-      "date": "Wed, 19 Aug 2026 07:00:00 GMT",
-      "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
-      "url": "https://openai.com/index/replit",
-      "category": "Startup"
     }
   ],
   "status": "success",
