@@ -1,8 +1,29 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-08-27T08:37:51.061Z",
+  "fetch_time": "2026-08-27T14:59:45.294Z",
   "articles": [
+    {
+      "title": "亚马逊 Mechanical Turk 将于 9 月 30 日关闭",
+      "date": "Thu, 27 Aug 2026 10:48:03 GMT",
+      "summary": "亚马逊宣布其众包平台 Mechanical Turk 将于 9 月 30 日关闭。亚马逊上个月才宣布将于 7 月 30 日起停止接受新用户。当时亚马逊表示该决定是在“慎重考虑”后做出的，“现有用户可以继续正常使用该服务。AWS 将继续投资改进 Mechanical Turk 的安全性和可用性，但我们不打算推出新功能。如今它正式给 Mechanical Turk 画上了句号。亚马逊是从 2018 年起将 Mechanical Turk 变成训练神经网络的标注数据服务。但讽刺的是 2023 年的研究发现，该平台 33% 到 46% 的众包工作者使用大模型去完成任务，引发了对标注数据的可靠性以及是否真的需要人类参与的质疑。由于大量的机器人和欺骗行为，研究人员已经放弃了该平台，它的关闭只是时间问题。",
+      "url": "https://www.solidot.org/story?sid=85212",
+      "category": ""
+    },
+    {
+      "title": "LibreOffice 26.8 释出",
+      "date": "Thu, 27 Aug 2026 09:22:30 GMT",
+      "summary": "The Document Foundation 宣布释出 LibreOffice 26.8，强调该版本不包含生成式 AI 功能，不会将文档传输到远程服务进行处理，各个组件也不需要网络访问就能运行。LibreOffice 26.8 最大的单项改进聚焦于双向文本和复杂文本处理。Writer 现在会在打开或粘贴文档/纯文本时自动检测段落方向；换行时行尾空格的位置会根据段落方向而非相邻字符方向调整。从右至左或竖排中日韩（CJK）文档的对象大小调整句柄能正确工作。双向控制字符现已与其他格式标记一同可见。在 Calc 中，若在空单元格中输入从右至左的文本，系统会自动设置该单元格的方向。",
+      "url": "https://www.solidot.org/story?sid=85211",
+      "category": ""
+    },
+    {
+      "title": "Apple Maps 加入广告",
+      "date": "Thu, 27 Aug 2026 08:38:19 GMT",
+      "summary": "苹果的地图服务 Apple Maps 加入了广告。美国和加拿大用户的搜索结果顶部以及“推荐地点（suggested places）”部分会显示付费广告商家的名字。苹果表示，广告可能基于用户的大致位置、搜索词或正在查看的地图区域，但不会与用户的 Apple 帐户关联，个人数据也保留在设备上。付费商家上会显示“Ad”的蓝色徽章。苹果强调，其广告政策致力于保护用户隐私，苹果不会收集或存储个人数据，也不会与第三方共享。",
+      "url": "https://www.solidot.org/story?sid=85210",
+      "category": ""
+    },
     {
       "title": "中尼边境泥石流灾害逾 1300 人失踪",
       "date": "Thu, 27 Aug 2026 07:22:02 GMT",
@@ -22,27 +43,6 @@
       "date": "Thu, 27 Aug 2026 06:22:12 GMT",
       "summary": "总部位于美国弗吉尼亚州的初创公司 Operation Bluebird 上线了新社交网络 Twitter.now，致力于复兴已被马斯克（Elon Musk）的 X 抛弃了的 Twitter。马斯克在 2022 年收购 Twitter 之后迅速将其改名为 X，弃用了 Twitter 相关标识。Operation Bluebird 的联合创始人认为此举标志着 X 放弃了 Twitter 的身份和知识产权， 为其申请 Twitter 商标权创造了机会，他们因此准备推出新版的 Twitter。X 去年底起诉了 Operation Bluebird，要求特拉华州联邦法官发布初步禁令，阻止新版 Twitter 上线。法官 Colm Connolly 在今年四月做出了临时裁决，认为 X 看起来放弃了对“tweet”一词和 Twitter 蓝鸟 logo 的知识产权主张，甚至可能也包括对“Twitter”一词的知识产权主张。法官尚未发布书面命令。新版的 Twitter.now 与旧版的 Twitter.com 外观非常相似，一大不同之处是内置了事实核查功能，强调自己与 X 毫无关系。",
       "url": "https://www.solidot.org/story?sid=85207",
-      "category": ""
-    },
-    {
-      "title": "英伟达同意以 129 亿美元收购 Hugging Face",
-      "date": "Thu, 27 Aug 2026 05:21:19 GMT",
-      "summary": "The Information 报道，英伟达同意以 129 亿美元收购 Hugging Face。这笔交易仍处于敲定阶段，仍有可能告吹。英伟达是 Hugging Face 的投资者，它在 2023 年参与了 Hugging Face 的 D 轮融资，当时以 45 亿美元估值融资 2.35 亿美元。英伟达去年还提议以 70 亿美元估值投资 5 亿美元，但遭到 Hugging Face 的拒绝。Hugging Face 是开源 AI 生态系统的核心，托管着数百万个可供开发者使用的 AI 模型和数据集。收购该平台有助于让英伟达在 AI 开发者中占据更大的市场份额。",
-      "url": "https://www.solidot.org/story?sid=85206",
-      "category": ""
-    },
-    {
-      "title": "育碧在 Steam 上架《魔法门之英雄无敌3》时忘记将游戏文件放进去",
-      "date": "Wed, 26 Aug 2026 16:03:48 GMT",
-      "summary": "在宣布重制版的同时，育碧于 8 月 26 日在 Steam 上架了原版的《魔法门之英雄无敌3》，国区售价为 40 元。然而购买游戏的 Steam 玩家发现下载的游戏文件仅仅为 23.49 KB，育碧忘记把游戏文件打包进去了。直到数小时之后育碧才修复问题，释出了包含游戏完整文件的版本，完整版本容量大约为 1GB。此事导致玩家在游戏页面留下了大量差评。",
-      "url": "https://www.solidot.org/story?sid=85205",
-      "category": ""
-    },
-    {
-      "title": "澳大利亚是地球最安全的地方",
-      "date": "Wed, 26 Aug 2026 15:30:14 GMT",
-      "summary": "人类面临无穷无尽的灾难：核战、气候变化、流行病、AI、超级火山喷发……如果发生了全球性灾难，什么地方最安全，能给你保留再见光明的机会？根据发表在《Global Challenges》上的一项研究，澳大利亚是最安全的地方。澳大利亚并不能免于全球性灾难，但相对而言影响最小。研究人员评估了数百项关于小行星撞击地球、火山爆发、大规模网络攻击、疾病威胁等灾害影响研究和报告。研究人员称，全球灾难危机通常分为三种：火山爆发、核冬天或小行星撞击云导致的突发性日照减少；地磁风暴、网络攻击、流行病和高空电磁脉冲等导致的全球基础设施瘫痪；大规模生物灾害导致的大规模伤亡和严重社会混乱。一个国家如果具备以下特征——民主；富裕；不平等程度低；有庞大的工业基础和较高的政府影响力；位于偏远地区如岛屿；权力下放程度高，社会多样性强；以及对贸易的依赖程度不高，或拥有地理位置相近的贸易伙伴——那么它应对全球性灾难的韧性会比较强。澳大利亚是唯一一个被认为能抵御所有三种全球性灾难危机的国家。",
-      "url": "https://www.solidot.org/story?sid=85204",
       "category": ""
     }
   ],

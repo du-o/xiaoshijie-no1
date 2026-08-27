@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-08-27T08:37:47.113Z",
+  "fetch_time": "2026-08-27T14:59:41.744Z",
   "articles": [
+    {
+      "title": "Expanding OpenAI’s presence in Brazil",
+      "date": "Thu, 27 Aug 2026 03:00:00 GMT",
+      "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+      "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+      "category": "Company"
+    },
     {
       "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
       "date": "Wed, 26 Aug 2026 10:00:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
       "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
       "category": "Company"
-    },
-    {
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "date": "Tue, 25 Aug 2026 07:00:00 GMT",
-      "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
-      "url": "https://openai.com/index/jalapeno-first-results",
-      "category": "Engineering"
     }
   ],
   "status": "success",
