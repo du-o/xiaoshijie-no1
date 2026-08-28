@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-08-27T21:20:49.125Z",
+  "fetch_time": "2026-08-28T10:50:10.028Z",
   "articles": [
+    {
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "date": "Fri, 28 Aug 2026 02:00:00 GMT",
+      "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "category": "Company"
+    },
     {
       "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
       "date": "Thu, 27 Aug 2026 09:00:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
       "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
       "category": "Security"
-    },
-    {
-      "title": "How loveholidays is making everyone a builder with Codex",
-      "date": "Wed, 26 Aug 2026 00:00:00 GMT",
-      "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
-      "url": "https://openai.com/index/loveholidays",
-      "category": ""
     }
   ],
   "status": "success",
