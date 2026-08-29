@@ -1,39 +1,39 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-08-28T21:33:22.194Z",
+  "fetch_time": "2026-08-29T06:37:10.682Z",
   "articles": [
     {
       "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
-      "date": "Fri, 28 Aug 2026 04:00:00 GMT",
+      "date": "Sat, 29 Aug 2026 04:00:00 GMT",
       "summary": "arXiv:2608.26107v1 Announce Type: new Abstract: Predicting students' academic risk in online education is crucial for enabling timely interventions that can improve retention and learning outcomes. However, existing models often suffer from limited early detection capability and insufficient interpretability, leading to a \"black-box\" trust crisis that hinders their adoption in real-world pedagogical settings. To address these challenges, we propose EduRiskX, a neuro-symbolic framework that integ",
       "url": "https://arxiv.org/abs/2608.26107",
       "category": "cs.AI"
     },
     {
       "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
-      "date": "Fri, 28 Aug 2026 04:00:00 GMT",
+      "date": "Sat, 29 Aug 2026 04:00:00 GMT",
       "summary": "arXiv:2608.26109v1 Announce Type: new Abstract: Machine-learning models can predict ICU mortality accurately, but feature-attribution methods alone rarely provide the clinical narrative needed for bedside use. Large language models (LLMs) may bridge this gap, and multi-step agentic pipelines are a plausible extension because they separate data interpretation, guideline checking, and final explanation. This revised feasibility study preserves the original standalone-versus-agentic comparison whil",
       "url": "https://arxiv.org/abs/2608.26109",
       "category": "cs.AI"
     },
     {
       "title": "Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap",
-      "date": "Fri, 28 Aug 2026 04:00:00 GMT",
+      "date": "Sat, 29 Aug 2026 04:00:00 GMT",
       "summary": "arXiv:2608.26111v1 Announce Type: new Abstract: Battery Prognostics and Health Management (BPHM) is critical for ensuring the safe, reliable, and cost-effective operation of batteries across electric vehicles, grid storage, and consumer electronics. Conventional BPHM approaches, including physics-based models and task-centric deep learning methods, face challenges in computational efficiency and parameterization, cross-domain generalization, dependence on extensive labeled run-to-failure data, a",
       "url": "https://arxiv.org/abs/2608.26111",
       "category": "cs.AI"
     },
     {
       "title": "PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices",
-      "date": "Fri, 28 Aug 2026 04:00:00 GMT",
+      "date": "Sat, 29 Aug 2026 04:00:00 GMT",
       "summary": "arXiv:2608.26113v1 Announce Type: new Abstract: We present PICasso, an AI-assisted framework for automated synthesis, verification, and optimization of photonic integrated circuits (PICs) from natural-language specifications. PICasso couples a structured NL -&gt; YAML -&gt; GDS generation pipeline with PDK aware knowledge injection, automated placement and routing, DRC/LVS validation, and SAX-based photonic simulation. To systematically evaluate AI-driven photonic design, we introduce PIC-Set, a",
       "url": "https://arxiv.org/abs/2608.26113",
       "category": "cs.AI"
     },
     {
       "title": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
-      "date": "Fri, 28 Aug 2026 04:00:00 GMT",
+      "date": "Sat, 29 Aug 2026 04:00:00 GMT",
       "summary": "arXiv:2608.26114v1 Announce Type: new Abstract: Calculation-intensive financial question answering requires exact reasoning over structured rates, temporal conditions, numerical formulas, and rule-based constraints. Although Large Language Models (LLMs) perform strongly on natural language tasks, they often produce numerically incorrect yet plausible answers when solving multi-step financial calculations. To address this limitation, we introduce CIFQA (Calculation-Intensive Financial Query Answe",
       "url": "https://arxiv.org/abs/2608.26114",
       "category": [
@@ -44,7 +44,7 @@
     },
     {
       "title": "The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning",
-      "date": "Fri, 28 Aug 2026 04:00:00 GMT",
+      "date": "Sat, 29 Aug 2026 04:00:00 GMT",
       "summary": "arXiv:2608.26116v1 Announce Type: new Abstract: Existing methods for exploring cellular automata and other complex systems mostly operate in open loop: they set initial conditions, execute a full simulation, and observe the outcome, without intervening during execution. We introduce a closed-loop framework based on autotelic reinforcement learning, in which an agent autonomously samples diverse goals and learns a goal-conditioned policy to intervene in a complex system through minimal, local per",
       "url": "https://arxiv.org/abs/2608.26116",
       "category": "cs.AI"
