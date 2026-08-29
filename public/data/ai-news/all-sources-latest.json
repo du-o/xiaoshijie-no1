@@ -1,13 +1,15 @@
 {
-  "fetch_time": "2026-08-29T13:29:34.351Z",
+  "fetch_time": "2026-08-29T15:47:07.950Z",
   "total_count": 30,
   "sources_count": 6,
-  "errors": null,
+  "errors": [
+    "google-blog: Fetch error: HTTP 401"
+  ],
   "articles": [
     {
       "title": "The State of AI: A Look at What's Next",
       "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-08-29T10:47:59.824Z",
+      "date": "2026-08-29T13:29:30.789Z",
       "summary": "An in-depth analysis of the current AI landscape and future trends.",
       "category": "AI Analysis",
       "source": "Every.to",
@@ -182,7 +184,7 @@
     {
       "title": "How Startups Are Using AI to Disrupt Industries",
       "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-08-28T10:47:59.824Z",
+      "date": "2026-08-28T13:29:30.789Z",
       "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
       "category": "Source Code",
       "source": "Every.to",
@@ -209,7 +211,7 @@
     {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-08-27T10:47:59.824Z",
+      "date": "2026-08-27T13:29:30.789Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
@@ -236,7 +238,7 @@
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-08-26T10:47:59.824Z",
+      "date": "2026-08-26T13:29:30.789Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
@@ -263,7 +265,7 @@
     {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-08-25T10:47:59.824Z",
+      "date": "2026-08-25T13:29:30.789Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -272,7 +274,7 @@
     {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-08-24T10:47:59.824Z",
+      "date": "2026-08-24T13:29:30.789Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
