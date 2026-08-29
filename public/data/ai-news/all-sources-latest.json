@@ -1,9 +1,36 @@
 {
-  "fetch_time": "2026-08-29T10:48:03.221Z",
+  "fetch_time": "2026-08-29T13:29:34.351Z",
   "total_count": 30,
   "sources_count": 6,
   "errors": null,
   "articles": [
+    {
+      "title": "The State of AI: A Look at What's Next",
+      "url": "https://every.to/p/the-state-of-ai",
+      "date": "2026-08-29T10:47:59.824Z",
+      "summary": "An in-depth analysis of the current AI landscape and future trends.",
+      "category": "AI Analysis",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "人形机器人的跑步方式与人类不同",
+      "date": "Sat, 29 Aug 2026 10:46:44 GMT",
+      "summary": "北京人形机器人创新中心研发的通用人形机器人天工在世界人形机器人运动会上跑出了 100 米 8.64 秒的成绩，远超博尔特（Usain Bolt）于 2009 年创下的 100 米 9.58 秒的人类世界纪录。机器人的平均速度接近 42 公里/时。专家表示，这一成绩凸显了机器人的强大，也凸显了它们在决策和感知等方面的不足——人形机器人都是靠撞软垫的方式刹车的。人形机器人的跑步方式与人类不同：首先是博尔特的起跑仅仅花了 0.146 秒，相比下机器人等了近 1 秒钟才反应过来开始移动；博尔特仅用 41 步就完成了 100 米，而机器人花了 50 多步，机器人的步频更快步幅更短。韩国光云大学机器人学教授 Park Suhan 表示，机器人的步态映了其电机的性能，而非去刻意模仿人类的短跑。另一位专家认为机器人如果步幅过大会很容易摔倒。人类顶尖运动员在跑步的最后阶段会减速，但天工机器人没有任何减速迹象，因此最后一头撞向软垫。未来几年能转弯和自主决策的机器人将比单纯的提高速度会更令人印象深刻。",
+      "url": "https://www.solidot.org/story?sid=85228",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "程序员在公司厕所猝死，人社局以电脑没开不认定工伤",
+      "date": "Sat, 29 Aug 2026 09:57:06 GMT",
+      "summary": "39 岁的深圳程序员邢志（化名）于 2026 年 4 月 23 日 8 时 56 分驾车进入公司所在办公楼负 2 楼停车，9 时步行至电梯厅询问值班安保 2 楼卫生间位置，1 分钟后，其到达卫生间一直未出，直至 11 时 28 分被发现失去意识躺坐在马桶上。公司随即用 AED 进行急救并拨打 120。12 时 50 分，医生停止急救，确认邢志死亡。邢志去世后，公司进行了一定补偿，向深圳市人社局申请工伤认定。7 月 3 日，人社局发出了《深圳市不予认定工伤决定书》。决定书显示，其情形不符合《广东省工伤保险条例》第九条、第十条，不予认定或视同工伤。工伤科工作人员称，邢志工位在 11 楼，打完卡后去了 2 楼卫生间，没有先去工位，也没有从事与工作相关的内容，因此无法认定为工伤。邢志家人已提起上诉。工伤认定能让其家人获得 1130040 元的赔偿金，以及丧葬费和抚恤金。律师认为，工作场所的卫生间应被视为员工工作岗位的合理延伸。",
+      "url": "https://www.solidot.org/story?sid=85227",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
     {
       "title": "业绩快报 | 荔枝冰奶五十天卖出1700万杯，茶百道上半年“质效双增”",
       "date": "Sat, 29 Aug 2026 09:47:11 GMT",
@@ -57,15 +84,6 @@
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
-    },
-    {
-      "title": "The State of AI: A Look at What's Next",
-      "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-08-29T06:37:10.277Z",
-      "summary": "An in-depth analysis of the current AI landscape and future trends.",
-      "category": "AI Analysis",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
@@ -162,27 +180,9 @@
       "source_name": "solidot"
     },
     {
-      "title": "德国 Sovereign Tech 基金资助 Flatpak 逾 50 万欧元",
-      "date": "Fri, 28 Aug 2026 10:49:29 GMT",
-      "summary": "德国的 Sovereign Tech 基金将在未来两年资助 Flatpak 项目 508,640 欧元，帮助 Flatpak 打造更安全、更完善的沙盒平台。Flatpak 是 Red Hat 主导开发的 Linux 应用打包格式，类似 Canonical 主导的 Snap，它提供了一个沙盒环​​境，其中运行的应用与系统其他部分隔离。这笔资金将用于开发：围绕 PipeWire 的音频隔离功能，网络隔离的新功能，第三方 VPN 应用能管理系统级连接，辅助写作，密码自动填充，等等。",
-      "url": "https://www.solidot.org/story?sid=85222",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "IBM 推出双指令集处理器",
-      "date": "Fri, 28 Aug 2026 10:06:32 GMT",
-      "summary": "IBM 在 Hot Chips 2026 上介绍了世界首款双指令集处理器。全球约七成交易量都通过 IBM Z 大型机完成，新处理器通过引入 Arm 生态系统，为大型机带来新一代的应用。该处理器采用 2 纳米工艺节点，包括 11 个主频超过 5.7 GHz 的高性能核心、面向交易过程中欺诈检测的 AI 推理加速器、用于 I/O 加速的专用片上数据处理单元以及面向高负载企业级应用的大容量缓存架构。该芯片并未采用彼此独立的 Arm 核心和 IBM 核心。每个处理器核心均可原生执行 Arm 与 IBM Z 指令，或 Arm 与 LinuxONE 指令，同时保持平台既有的性能、安全、加密和可用性。",
-      "url": "https://www.solidot.org/story?sid=85221",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
       "title": "How Startups Are Using AI to Disrupt Industries",
       "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-08-28T06:37:10.277Z",
+      "date": "2026-08-28T10:47:59.824Z",
       "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
       "category": "Source Code",
       "source": "Every.to",
@@ -207,6 +207,15 @@
       "source_name": "openai"
     },
     {
+      "title": "The Future of Work in an AI-Driven World",
+      "url": "https://every.to/context-window/future-of-work",
+      "date": "2026-08-27T10:47:59.824Z",
+      "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
       "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
       "date": "Thu, 27 Aug 2026 09:00:00 GMT",
       "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
@@ -216,15 +225,6 @@
       "source_name": "openai"
     },
     {
-      "title": "The Future of Work in an AI-Driven World",
-      "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-08-27T06:37:10.277Z",
-      "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
       "title": "Expanding OpenAI’s presence in Brazil",
       "date": "Thu, 27 Aug 2026 03:00:00 GMT",
       "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
@@ -232,6 +232,15 @@
       "category": "Company",
       "source": "OpenAI News",
       "source_name": "openai"
+    },
+    {
+      "title": "Building AI Products: Lessons from the Trenches",
+      "url": "https://every.to/p/building-ai-products",
+      "date": "2026-08-26T10:47:59.824Z",
+      "summary": "Practical insights from builders creating AI-powered products.",
+      "category": "Product",
+      "source": "Every.to",
+      "source_name": "every"
     },
     {
       "title": "Learning never stops: How AI makes learning continuous",
@@ -252,18 +261,9 @@
       "source_name": "openai"
     },
     {
-      "title": "Building AI Products: Lessons from the Trenches",
-      "url": "https://every.to/p/building-ai-products",
-      "date": "2026-08-26T06:37:10.277Z",
-      "summary": "Practical insights from builders creating AI-powered products.",
-      "category": "Product",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-08-25T06:37:10.277Z",
+      "date": "2026-08-25T10:47:59.824Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -272,7 +272,7 @@
     {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-08-24T06:37:10.277Z",
+      "date": "2026-08-24T10:47:59.824Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
