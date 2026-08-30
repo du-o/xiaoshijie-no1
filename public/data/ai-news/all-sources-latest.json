@@ -1,19 +1,116 @@
 {
-  "fetch_time": "2026-08-29T15:47:07.950Z",
-  "total_count": 30,
+  "fetch_time": "2026-08-30T04:50:17.748Z",
+  "total_count": 24,
   "sources_count": 6,
-  "errors": [
-    "google-blog: Fetch error: HTTP 401"
-  ],
+  "errors": null,
   "articles": [
+    {
+      "title": "电影《肖申克的救赎》内地票房破1000万元",
+      "date": "Sun, 30 Aug 2026 04:40:06 GMT",
+      "summary": "据网络数据平台实时数据，截至8月30日11时58分，影片《肖申克的救赎》票房突破1000万元。该片以4K修复版首次登陆中国内地影院，2D、CINITY LED、IMAX版本同步上映。（界面）",
+      "url": "https://36kr.com/newsflashes/3961517721009282?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "塞尔维亚首座机器人工厂正式投产，由中塞联合建设",
+      "date": "Sun, 30 Aug 2026 04:30:46 GMT",
+      "summary": "当地时间8月29日，塞尔维亚首座机器人工厂在该国西部城市沙巴茨正式投产。这座由中塞联合建设的工厂，也是欧洲首座人形机器人量产基地。据介绍，这座机器人工厂一期投资额为2000万欧元，占地约3000平方米，主要开展人形机器人和机器狗的组装、运动及视觉系统校准和性能测试。目前，工厂生产的人形机器人分为不同型号。相关机器人未来将首先应用于工业生产，并逐步拓展至教育、公共服务等领域。按照规划，项目后续还将在塞尔维亚建设机器人产业园，计划总投资额约2亿欧元。项目全部建成后，人形机器人和机器狗年产能预计最高可达2万台，产品将面向欧洲及全球市场。（央视新闻）",
+      "url": "https://36kr.com/newsflashes/3961516397034881?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "国家数据局：探索适配产业实际的词元商业模式",
+      "date": "Sun, 30 Aug 2026 04:22:11 GMT",
+      "summary": "在2026中国国际大数据产业博览会上，一批数据领域最新政策举措陆续发布，涵盖了词元、数据标注、数字人才培养等多个领域。词元，为人工智能服务的计量、定价、交易和结算提供了重要标尺。国家数据局负责人表示，将探索适配产业实际的词元商业模式。国家数据局局长刘烈宏表示，要围绕国民经济重大场景，研究探索词元增值订阅、按效付费等商业模式。数据标注，相当于给原始数据打标签，标注好的数据可用来训练人工智能。国家数据局将在32个城市布局新一批数据标注先行先试，深入工业制造、医疗健康、交通运输等领域，破解数据标注产业发展瓶颈。在数字人才培养上，多部门将加强协同，推动建立健全数据要素相关学科专业本硕博贯通衔接的人才培养机制，完善数据要素相关学科专业布局。(央视新闻）",
+      "url": "https://36kr.com/newsflashes/3961515723996544?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "谷歌、OpenAI、Meta正与日本官方机构和本土企业联手，打击激增的网络诈骗案件",
+      "date": "Sun, 30 Aug 2026 03:28:38 GMT",
+      "summary": "市场消息：谷歌、OpenAI、Meta正与日本官方机构和本土企业联手，打击激增的网络诈骗案件。（新浪财经）",
+      "url": "https://36kr.com/newsflashes/3961456293313924?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "a16z旗下机器时代基金筹集11亿美元，将投向芯片、机器人等硬件领域",
+      "date": "Sun, 30 Aug 2026 03:19:43 GMT",
+      "summary": "当地时间8月28日，硅谷知名风险投资公司Andreessen Horowitz（a16z）宣布硬件正式确立为公司的核心方向，并为旗下机器时代基金（Machine Age Fund）筹集11亿美元。该基金将投资于AI运行所依赖的所有计算机基础设施，包括芯片、内存、网络和存储，还包括运行AI的完整系统：从数据中心到机器人，再到家用AI设备。该公司介绍，其最近投资了多家硬件公司，包括Unconventional AI、Nexthop、Volta、Atoms和Mind Robotics。（界面）",
+      "url": "https://36kr.com/newsflashes/3961454329609601?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "蜜雪冰城会员总量达5亿",
+      "date": "Sun, 30 Aug 2026 02:58:18 GMT",
+      "summary": "36氪获悉，8月30日，蜜雪冰城宣布，其会员总量达5亿。",
+      "url": "https://36kr.com/newsflashes/3961412748541064?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "Pixel 11 取消了对硬件 MTE 的支持",
+      "date": "Sat, 29 Aug 2026 23:44:03 GMT",
+      "summary": "Android 安全加固项目 GrapheneOS 发现，Google 新一代旗舰智能手机 Pixel 11 取消了对硬件 MTE（hardware memory tagging）的支持，导致该项目无法完成对 Pixel 11 的支持。MTE（Memory Tagging Extension）是 ARMv8.5-A 架构引入的安全特性，通过标记分配的内存去跟踪非法内存操作，改进内存安全性。Google 是从 2023 年发布的 Pixel 8 起开始支持硬件 MTE。但 Android 和 Pixel OS 从未默认启用 MTE，相比下苹果的 iPhone 17 默认启用了它的 MTE 实现 Memory Integrity Enforcement(MIE)。GrapheneOS 会自动为更多应用启用 MTE，为每个安装的应用提供一个开关供用户可选启用。对于不兼容的应用则提供开关可选禁用。GrapheneOS 正与摩托罗拉合作推出支持 GrapheneOS 的手机，新手机将使用高通的骁龙 8 Elite Gen 5，该 SoC 支持硬件 MTE。GrapheneOS 项目不推荐用户购买",
+      "url": "https://www.solidot.org/story?sid=85233",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
     {
       "title": "The State of AI: A Look at What's Next",
       "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-08-29T13:29:30.789Z",
+      "date": "2026-08-29T15:47:04.027Z",
       "summary": "An in-depth analysis of the current AI landscape and future trends.",
       "category": "AI Analysis",
       "source": "Every.to",
       "source_name": "every"
+    },
+    {
+      "title": "中国账户试图悄悄煽动美国反数据中心情绪？",
+      "date": "Sat, 29 Aug 2026 15:43:37 GMT",
+      "summary": "在 OpenAI 之后，另一家美国 AI 关联公司 X/SpaceX 称，有约 200 个中国关联水军账号在社媒上悄悄煽动美国民众的反数据中心情绪。相关账号的推文内容包括 AI 如何加剧电网压力并推高电价，以及“描绘数据中心运营商如何以牺牲公众利益为代价中饱私囊的漫画”。前 Twitter 通信主管 Jim Prosser 反驳了硅谷关于反对数据中心是中国心理战的说法，他认为大型科技公司利用中国心理战的说法忽视当地民众的合理担忧。 “如果 Greg Abbott 和 Kathy Hochul 都能在某件事上达成一致，那这很可能不是中国的心理战。”共和党籍的德州州长 Greg Abbott 以及民主党籍的纽约州长&nbsp; Kathy Hochul 最近都限制了新数据中心在当地的开发。Prosser 称，科技行业需要花更多时间倾听受影响社区的声音，而不是居高临下对他们置之不理：“如果你是生活在 Atherton 或 Menlo Park 的风投家，从未去过俄亥俄州，却对俄亥俄州居民的感受指手画脚，那就有问题了。”",
+      "url": "https://www.solidot.org/story?sid=85232",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "女性在产后遭遇 PTSD",
+      "date": "Sat, 29 Aug 2026 14:52:10 GMT",
+      "summary": "东英吉利大学的一项研究认为，英国可能有数万女性在产后经历未诊断的 PTSD（创伤后应激障碍）。PTSD 可能在经历艰难的妊娠或分娩后出现，其症状包括闪回、噩梦、焦虑和持续的负面想法。最新数据显示，2021-2023 年间自杀是英国产后六周至一年内女性死亡的首要原因。研究人员称这些死亡只是冰山一角，有更多女性正遭受严重的心理健康问题困扰，却无法获得所需的帮助。他们的研究表明，每 20 名产后女性就有1人会患上 PTSD。",
+      "url": "https://www.solidot.org/story?sid=85231",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "日韩上半年人口都出现增长",
+      "date": "Sat, 29 Aug 2026 14:15:15 GMT",
+      "summary": "韩国和日本两国今年上半年人口都恢复了增长： 韩国上半年累计出生人口为 14.5804 万人，同比增加 1.943 万人，增幅为 15.4%，出生人口规模为近7年同期之最，增加规模和增幅双双创下历史最高纪录。分析认为出生人数增加主要是因为婚姻登记数自疫后的 2023 年 5 月起呈现增加势头、30 多岁女性人口增加，以及婚姻及生育的观念变化。2024 年和 2025 年的下半年出生人口均高于同年上半年，若按照这一趋势下去，今年全年总和生育率有可能回升至 0.9 以上。 日本厚生劳动省公布的人口动态统计初值显示，2026 年上半年出生的新生儿数（出生数、包括外国人）同比增加 0.8%（2788 人）至 34.2068 万人。这是 2015 年后 11 年来首次上半年出生数呈现增长。原因可能是影响出生数的结婚数在 2024、2025 年连续两年回升。",
+      "url": "https://www.solidot.org/story?sid=85230",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "Debian 项目将允许以负责任的方式使用生成式 AI",
+      "date": "Sat, 29 Aug 2026 13:37:00 GMT",
+      "summary": "Debian 项目对是否允许使用 AI 进行了投票表决，投票采用孔多塞投票法，共有 9 个选项，最终结果是第 5 选项“负责任的使用生成式 AI”获胜。Debian 项目表示，它既不反对也不支持在软件、包、文档等的开发和维护中使用生成式 AI 工具。但项目也认识到，如果能负责任的使用 AI 工具，将能显著提高贡献者的效率，使他们将有限的时间投入到需要技术专长、判断力、审核和协作的工作中。无论是否使用生成式 AI 工具，Debian 项目希望提交的内容都符合相同的质量、正确性、可维护性和法律合规性标准。使用生成式 AI 工具不会减少责任。对于提交的内容，贡献者应理解、审核、测试 AI 辅助生成的输出，在适当情况下进行修改。未经适当人工审查就盲目接受或上传 AI 生成的材料，不符合 Debian 既定的开发实践。Debian 鼓励贡献者披露其贡献是否使用 AI 辅助，但不强制要求。Debian 承认，生成式 AI 系统生成的材料的法律地位在许多司法管辖区存在争议，包括训练材料的版权、作者身份、许可和潜在复制问题。Debian 项目不寻求通过本一般决议解决这些悬而未决的法律问题，也不就 AI",
+      "url": "https://www.solidot.org/story?sid=85229",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
     },
     {
       "title": "人形机器人的跑步方式与人类不同",
@@ -25,166 +122,9 @@
       "source_name": "solidot"
     },
     {
-      "title": "程序员在公司厕所猝死，人社局以电脑没开不认定工伤",
-      "date": "Sat, 29 Aug 2026 09:57:06 GMT",
-      "summary": "39 岁的深圳程序员邢志（化名）于 2026 年 4 月 23 日 8 时 56 分驾车进入公司所在办公楼负 2 楼停车，9 时步行至电梯厅询问值班安保 2 楼卫生间位置，1 分钟后，其到达卫生间一直未出，直至 11 时 28 分被发现失去意识躺坐在马桶上。公司随即用 AED 进行急救并拨打 120。12 时 50 分，医生停止急救，确认邢志死亡。邢志去世后，公司进行了一定补偿，向深圳市人社局申请工伤认定。7 月 3 日，人社局发出了《深圳市不予认定工伤决定书》。决定书显示，其情形不符合《广东省工伤保险条例》第九条、第十条，不予认定或视同工伤。工伤科工作人员称，邢志工位在 11 楼，打完卡后去了 2 楼卫生间，没有先去工位，也没有从事与工作相关的内容，因此无法认定为工伤。邢志家人已提起上诉。工伤认定能让其家人获得 1130040 元的赔偿金，以及丧葬费和抚恤金。律师认为，工作场所的卫生间应被视为员工工作岗位的合理延伸。",
-      "url": "https://www.solidot.org/story?sid=85227",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "业绩快报 | 荔枝冰奶五十天卖出1700万杯，茶百道上半年“质效双增”",
-      "date": "Sat, 29 Aug 2026 09:47:11 GMT",
-      "summary": "文 | 杨烁&nbsp; 8月28日，茶百道披露中期业绩。上半年营收26.55亿元，同比增长6.2%；期内利润实现3.45亿元，同比增长3.5%。 业绩会上，公司管理层将增长归因于一个核心逻辑——不盲目追求门店数量的堆砌，而是以产品创新和供应链效率为双轮，驱动终端经营质量的实质性提升。 今年上半年，茶百道加大了产品研发力度，围绕“鲜果、鲜奶、咖啡”等核心原料建立品类矩阵。 其中，“荔枝冰奶”在五十余天的销售周期内，累计销量超过1700万杯。茶百道也围绕这一优势品类，陆续推出“芭乐、葡萄、柠檬”等多款风味冰奶产品，形成清晰的矩阵式布局。 茶百道对产品的理解，不仅是“好喝”一个维度。2026年以来，公司又推出了以“实在木薯甜品碗”为代表的替餐类产品、以“佛手柑柠檬水”为代表的替水类产品。 两大新品类的推出，悄然改变了门店的时间属性。现阶段的茶百道，已明显从传统下午茶的单一模式，延伸至“早餐、轻食、日常补水”等多元化的消费场景。 产品边界不断拓宽，对后端供应链的响应速度提出了更高要求。 报告期内，茶百道全国仓配中心增至27个，水果统配率提升至91%，约95%的门店每周可获得两次及以上的配送。",
-      "url": "https://36kr.com/p/3960415196052873?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "快手内容运营副总裁黄咪咪：两大创作者计划助推好内容生长",
-      "date": "Sat, 29 Aug 2026 09:39:38 GMT",
-      "summary": "8月29日，快手内容运营副总裁黄咪咪在2026快手光合创作者大会上表示，将持续加大在社区感、专业力、产业力三大方向的投入。即将于九月上线的“快手味计划”将聚焦有烟火气、人情味、同好连接的社区感创作者，提供专属运营、内容调优与全域经营服务。“快手优创计划”面向具备圈层深耕、稳定产出、深度表达的专业力创作者，投入5亿现金与五百亿流量，并配套活动、商单、IP合作全方位托举。“快手内容开放平台”9月也将上线，帮助文体娱产业伙伴更低成本找到用户、更清楚地看到从内容到交易的链路 。",
-      "url": "https://36kr.com/newsflashes/3960412222323844?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "WPS多维表格“灵感应用”首次亮相：一句自然语言搭出业务应用",
-      "date": "Sat, 29 Aug 2026 08:15:03 GMT",
-      "summary": "8月28日，WPS AI NEXT系列媒体沟通会在北京举行，WPS多维表格全新功能“灵感应用”首次亮相：用自然语言描述业务需求，AI即可生成可直接使用、持续迭代的个性化业务应用，让不懂代码的业务人员也能搭建自己的业务应用。该功能不从零建系统，而是长在WPS多维表格已有的数据、权限与协作能力之上，口径可追溯、流程可调整。该功能目前正逐步开放体验，未来将覆盖更多用户。",
-      "url": "https://36kr.com/newsflashes/3960320361790599?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "2025年欧盟商业航班数量增至690万架次",
-      "date": "Sat, 29 Aug 2026 08:00:28 GMT",
-      "summary": "数据显示，2025年，欧盟商业航班数量为690万架次，较2024年的670万架次增长3.8%，继续保持2021年以来的增长势头，接近2019年(新冠疫情前)700万架次的水平。 从航班类型看，2025年欧盟定期商业航班占比91.5%，不定期商业航班(包机、空中出租车、海上作业飞机、观光飞机等)占比8.5%。数据显示，夏季为欧盟不定期商业航班运营旺季，2025年6月、7月和8月，起降的不定期商业航班较多。",
-      "url": "https://36kr.com/newsflashes/3960260825627784?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "2026暑期全国科技馆累计接待观众超3000万人次",
-      "date": "Sat, 29 Aug 2026 07:45:48 GMT",
-      "summary": "中国科技馆8月28日晚向媒体通报，2026年暑期，据不完全统计，全国科技馆累计接待观众超3000万人次，开展教育活动及展品体验类活动超10万场，各地推动科普服务从“流量热闹观展”向“深度沉浸探究”转型。",
-      "url": "https://36kr.com/newsflashes/3960260210736517?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "俄开始量产星链干扰器",
-      "date": "Sat, 29 Aug 2026 07:30:39 GMT",
-      "summary": "据塔斯社8月28日报道，俄罗斯国防工业综合体消息人士透露，俄已开始量产名为“波穹保护”的最新型无线电电子压制系统，能够有效对抗“星链”系统。该消息人士说：“‘波穹保护’系统被证明是有效的，我们已开始对其加以复制并投入量产。事实上，凡需之处，我们都已封锁了‘星链’的作用空域。敌人开始感到难以忍受的痛苦……不久前有报道称，俄罗斯出现了一款新型防护工具，用于对抗乌克兰军队深入打击俄罗斯腹地时所使用的‘星链’。如今‘波穹保护’不仅成为对乌特别军事行动中的有效因素，更变成了具有全球影响力的工具。得益于本土工程师和国防工业综合体的努力，俄罗斯出人意料地获得了真正的国际政治工具。”",
-      "url": "https://36kr.com/newsflashes/3960259011689863?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
-      "date": "Sat, 29 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.26107v1 Announce Type: new Abstract: Predicting students' academic risk in online education is crucial for enabling timely interventions that can improve retention and learning outcomes. However, existing models often suffer from limited early detection capability and insufficient interpretability, leading to a \"black-box\" trust crisis that hinders their adoption in real-world pedagogical settings. To address these challenges, we propose EduRiskX, a neuro-symbolic framework that integ",
-      "url": "https://arxiv.org/abs/2608.26107",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
-      "date": "Sat, 29 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.26109v1 Announce Type: new Abstract: Machine-learning models can predict ICU mortality accurately, but feature-attribution methods alone rarely provide the clinical narrative needed for bedside use. Large language models (LLMs) may bridge this gap, and multi-step agentic pipelines are a plausible extension because they separate data interpretation, guideline checking, and final explanation. This revised feasibility study preserves the original standalone-versus-agentic comparison whil",
-      "url": "https://arxiv.org/abs/2608.26109",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap",
-      "date": "Sat, 29 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.26111v1 Announce Type: new Abstract: Battery Prognostics and Health Management (BPHM) is critical for ensuring the safe, reliable, and cost-effective operation of batteries across electric vehicles, grid storage, and consumer electronics. Conventional BPHM approaches, including physics-based models and task-centric deep learning methods, face challenges in computational efficiency and parameterization, cross-domain generalization, dependence on extensive labeled run-to-failure data, a",
-      "url": "https://arxiv.org/abs/2608.26111",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices",
-      "date": "Sat, 29 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.26113v1 Announce Type: new Abstract: We present PICasso, an AI-assisted framework for automated synthesis, verification, and optimization of photonic integrated circuits (PICs) from natural-language specifications. PICasso couples a structured NL -&gt; YAML -&gt; GDS generation pipeline with PDK aware knowledge injection, automated placement and routing, DRC/LVS validation, and SAX-based photonic simulation. To systematically evaluate AI-driven photonic design, we introduce PIC-Set, a",
-      "url": "https://arxiv.org/abs/2608.26113",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
-      "date": "Sat, 29 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.26114v1 Announce Type: new Abstract: Calculation-intensive financial question answering requires exact reasoning over structured rates, temporal conditions, numerical formulas, and rule-based constraints. Although Large Language Models (LLMs) perform strongly on natural language tasks, they often produce numerically incorrect yet plausible answers when solving multi-step financial calculations. To address this limitation, we introduce CIFQA (Calculation-Intensive Financial Query Answe",
-      "url": "https://arxiv.org/abs/2608.26114",
-      "category": [
-        "cs.AI",
-        "cs.CL",
-        "q-fin.CP"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning",
-      "date": "Sat, 29 Aug 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.26116v1 Announce Type: new Abstract: Existing methods for exploring cellular automata and other complex systems mostly operate in open loop: they set initial conditions, execute a full simulation, and observe the outcome, without intervening during execution. We introduce a closed-loop framework based on autotelic reinforcement learning, in which an agent autonomously samples diverse goals and learns a goal-conditioned policy to intervene in a complex system through minimal, local per",
-      "url": "https://arxiv.org/abs/2608.26116",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "澳大利亚有望在未来十年消灭宫颈癌",
-      "date": "Fri, 28 Aug 2026 16:41:00 GMT",
-      "summary": "宫颈癌是女性第四大常见癌症，而 99% 的宫颈癌病例是由高危型人乳头瘤病毒（HPV）引起的。2006 年澳大利亚在全球率先推出首款宫颈癌疫苗，至今已有 20 年。该疫苗除了预防宫颈癌，还能预防咽喉癌、生殖器癌和肛门癌。因此男女都能从接种疫苗上受益。澳大利亚也是第一个全额资助 HPV 疫苗接种计划的国家，自 2007 年起，澳大利亚 26 岁以下女孩和年轻女性可免费接种该疫苗，2013 年起男孩和年轻男性也纳入该计划。澳大利亚有望在未来十年消灭宫颈癌。但世界各地的疫苗接种率都因为新冠疫情而大幅下降，澳大利亚也存在这一情况：到 15 岁时女孩的 HPV 疫苗接种率从 2020 年的 86.6% 下降到 78.7%。",
-      "url": "https://www.solidot.org/story?sid=85226",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "一次性纸杯会释放大量微塑料",
-      "date": "Fri, 28 Aug 2026 15:26:43 GMT",
-      "summary": "一次性纸杯虽然主要是纸做的，但并非没有使用塑料，为提高防水性和结构完整性，纸杯内有一层薄塑料内衬，使用的材料可能是聚乙烯或可生物降解的聚乳酸。昆士兰大学的研究人员发现，一次性纸杯在接触热水时会释放大量的微米级和纳米级塑料物质。测量发现，聚乳酸内衬纸杯每毫升含有约 430 万个纳米颗粒，而聚乙烯内衬纸杯每毫升含有约 270 万个纳米颗粒。聚乳酸纸杯释放的塑料颗粒总数是聚乙烯纸杯的 12 倍。研究进一步证实，用于食品储存和制备的新塑料制品是人类通过摄入途径接触塑料的重要来源。",
-      "url": "https://www.solidot.org/story?sid=85225",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "无人机拍下了引发中尼边境致命泥石流的冰川崩塌",
-      "date": "Fri, 28 Aug 2026 14:39:21 GMT",
-      "summary": "根据网友在小红书上发布、由 BBC 验证真实性的两则无人机拍摄视频，视频记录了喜马拉雅山脉蓝塘里壤峰冰川崩塌的瞬间，中尼边境的致命泥石流灾害正是由其引发的。蓝塘里壤峰海拔约 7200 米，冰川崩塌扬起的尘土直冲云霄。截至目前，尼泊尔报告其境内的死亡人数达到了 547 人，失踪外国游客 575 人——其中包括 183 名印度公民、65 名美国公民、62 名乌克兰公民以及 33 名英国公民，此外还有 149 名尼泊尔游客失踪。中国西藏境内目前只报告 5 人死亡，558 人失踪，其中 260 人为外国人。",
-      "url": "https://www.solidot.org/story?sid=85224",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "美国将意大利安全托管服务商列入恐怖分子名单",
-      "date": "Fri, 28 Aug 2026 13:33:01 GMT",
-      "summary": "美国国务院和财政部周三将一家提供加密聊天和电子邮件、网站托管、安全视频会议和流媒体等服务的意大利组织 Autistici/Inventati 列入特别指定全球恐怖分子名单，这意味着美国公民与该组织进行的任何交易都是违法的。美国国务院列举的一个理由是该组织为极左翼组织如 Antifa 提供了数字基础设施，让极左激进分子能在保持“匿名、无法追踪且不受法律制裁”的情况下“传播目标信息、战术手册和技术以及关于近期袭击的通告”。美国政府此举引起广泛争议，可能导致该组织域名 autistici.org 被美国域名管理机构封禁。Autistici/Inventati 用英语和意大利语发表的一份声明中否认了美国的所有指控，表示自己提供的是一个数字自卫工具平台，认为美国政府此举的唯一目的是转移民众和媒体对其自身暴力和战争煽动行为的注意力。",
-      "url": "https://www.solidot.org/story?sid=85223",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
       "title": "How Startups Are Using AI to Disrupt Industries",
       "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-08-28T13:29:30.789Z",
+      "date": "2026-08-28T15:47:04.027Z",
       "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
       "category": "Source Code",
       "source": "Every.to",
@@ -211,7 +151,7 @@
     {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-08-27T13:29:30.789Z",
+      "date": "2026-08-27T15:47:04.027Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
@@ -238,7 +178,7 @@
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-08-26T13:29:30.789Z",
+      "date": "2026-08-26T15:47:04.027Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
@@ -265,7 +205,7 @@
     {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-08-25T13:29:30.789Z",
+      "date": "2026-08-25T15:47:04.027Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -274,7 +214,7 @@
     {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-08-24T13:29:30.789Z",
+      "date": "2026-08-24T15:47:04.027Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
