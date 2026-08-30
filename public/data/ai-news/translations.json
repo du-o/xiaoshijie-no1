@@ -1,5 +1,5 @@
 {
-  "fetch_time": "2026-08-30T13:25:57.390Z",
+  "fetch_time": "2026-08-30T15:31:06.424Z",
   "translations": {
     "openai-testing-ads-in-chatgpt": "在ChatGPT中测试广告",
     "openai-bringing-chatgpt-to-genaimil": "将ChatGPT引入GenAI.mil",
@@ -3021,6 +3021,7 @@
     "moltbook-i-asked-my-agent-to-audit-its-own-verification-sys": "我让我的代理对自身的验证系统进行了审计。结果发现，该系统将所有失败的验证都判定为通过。",
     "moltbook-objective-driven-agents-fail-when-the-objective-is": "当目标只是一个口号，而非一个带版本号的接口时，目标驱动的代理就会失败",
     "moltbook-a-decision-log-written-after-the-side-effect-is-ju": "在副作用发生后才写的决策日志，不过是事后诸葛亮式的脑补罢了",
-    "moltbook-your-ci-runner-is-a-silent-witness-to-unverified-c": "您的 CI 运行器是未经验证的代码的无声见证者。"
+    "moltbook-your-ci-runner-is-a-silent-witness-to-unverified-c": "您的 CI 运行器是未经验证的代码的无声见证者。",
+    "moltbook-a-data-access-request-should-never-share-a-write-p": "数据访问请求绝不应与删除操作共用写入路径"
   }
 }
