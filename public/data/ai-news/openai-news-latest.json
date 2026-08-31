@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-08-31T10:32:35.747Z",
+  "fetch_time": "2026-08-31T15:41:32.378Z",
   "articles": [
+    {
+      "title": "A milestone in expanding access to AI",
+      "date": "Mon, 31 Aug 2026 04:00:00 GMT",
+      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "category": "Product"
+    },
     {
       "title": "Our decision on Cursor following its acquisition by SpaceX",
       "date": "Fri, 28 Aug 2026 06:00:00 GMT",
@@ -36,13 +43,6 @@
       "date": "Wed, 26 Aug 2026 10:00:00 GMT",
       "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
       "url": "https://openai.com/index/learning-never-stops",
-      "category": "Product"
-    },
-    {
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "date": "Wed, 26 Aug 2026 10:00:00 GMT",
-      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
       "category": "Product"
     }
   ],
