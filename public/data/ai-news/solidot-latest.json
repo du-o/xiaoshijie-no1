@@ -1,8 +1,15 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-08-31T15:41:35.652Z",
+  "fetch_time": "2026-08-31T18:14:32.983Z",
   "articles": [
+    {
+      "title": "Linux 7.3-rc1 释出",
+      "date": "Mon, 31 Aug 2026 15:07:53 GMT",
+      "summary": "Linus Torvalds 宣布释出 Linux 7.3-rc1，关闭了 7.3 的合并窗口，正式版预计将在十月底释出。Linux 7.3 的主要特性包括：Ryzen AI Halo LED/RGB 驱动、继续即将推出的 AMD Zen 6 的支持工作、KSMBD 兼容 Apple Time Machine 备份、内核驱动初步支持 2026 年款 Steam Controller、合并 FailFS、Intel Xe3P Nova Lake 集显支持稳定、改进了显存容量有限的系统的游戏性能、改进 SMP 降低延迟提升实时性能、等等。",
+      "url": "https://www.solidot.org/story?sid=85244",
+      "category": ""
+    },
     {
       "title": "Steam 平台 2003-2013 年的几乎所有游戏泄露",
       "date": "Mon, 31 Aug 2026 14:19:30 GMT",
@@ -36,13 +43,6 @@
       "date": "Mon, 31 Aug 2026 07:53:29 GMT",
       "summary": "被称为 Cloud 9 的星系可能是人类发现的第一个没有恒星的“失败”星系。此类星系虽然有大量气体和尘埃，却几乎没有恒星存在。Cloud 9 距离地球 1400 万光年，靠近旋涡星系 M94，它包含一团巨大的氢气云，估计质量是太阳的 100 万倍，以及质量约为太阳 500 万倍的暗物质。它几乎不发出任何星光。无恒星星系形成的主流解释与紫外背景辐射相关，在宇宙早期的再电离时代后，紫外辐射场将低质量暗物质晕中的气体加热到足够高的温度，使得气体无法有效冷却并坍缩形成恒星。",
       "url": "https://www.solidot.org/story?sid=85239",
-      "category": ""
-    },
-    {
-      "title": "韩国准备向所有民众提供免费 AI 服务",
-      "date": "Mon, 31 Aug 2026 07:08:15 GMT",
-      "summary": "韩国准备向所有民众提供免费 AI 服务 AI for All。该服务计划从下月起进行 beta 测试，计划今年晚些时候推出。服务由韩国两家最大的电信公司以及 Kakao 牵头的三个联盟提供，政府提供部分算力，包括提供最多 512 块英伟达 B200 芯片和支付部分运营费用。AI 服务预计将与政府系统连接，而不只是作为独立的聊天机器人运行。居民将能使用这些服务预约医生、搜索公寓和获取税务指导。小型企业将能计算税款和查询是否符合政府补贴资格。家长将收到教育内容的推荐。每个联盟都计划推出自己的 AI 应用，在现有产品中加入生成式 AI 功能。在政府支持的计划下，用户可以无限次访问，没有 token 限制。",
-      "url": "https://www.solidot.org/story?sid=85238",
       "category": ""
     }
   ],

@@ -1,9 +1,27 @@
 {
-  "fetch_time": "2026-08-31T15:41:35.653Z",
+  "fetch_time": "2026-08-31T18:14:32.984Z",
   "total_count": 24,
   "sources_count": 6,
   "errors": null,
   "articles": [
+    {
+      "title": "The State of AI: A Look at What's Next",
+      "url": "https://every.to/p/the-state-of-ai",
+      "date": "2026-08-31T15:41:32.146Z",
+      "summary": "An in-depth analysis of the current AI landscape and future trends.",
+      "category": "AI Analysis",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Linux 7.3-rc1 释出",
+      "date": "Mon, 31 Aug 2026 15:07:53 GMT",
+      "summary": "Linus Torvalds 宣布释出 Linux 7.3-rc1，关闭了 7.3 的合并窗口，正式版预计将在十月底释出。Linux 7.3 的主要特性包括：Ryzen AI Halo LED/RGB 驱动、继续即将推出的 AMD Zen 6 的支持工作、KSMBD 兼容 Apple Time Machine 备份、内核驱动初步支持 2026 年款 Steam Controller、合并 FailFS、Intel Xe3P Nova Lake 集显支持稳定、改进了显存容量有限的系统的游戏性能、改进 SMP 降低延迟提升实时性能、等等。",
+      "url": "https://www.solidot.org/story?sid=85244",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
     {
       "title": "Steam 平台 2003-2013 年的几乎所有游戏泄露",
       "date": "Mon, 31 Aug 2026 14:19:30 GMT",
@@ -77,15 +95,6 @@
       "source_name": "solidot"
     },
     {
-      "title": "The State of AI: A Look at What's Next",
-      "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-08-31T10:32:35.538Z",
-      "summary": "An in-depth analysis of the current AI landscape and future trends.",
-      "category": "AI Analysis",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
       "title": "植物如何应对高温",
       "date": "Mon, 31 Aug 2026 09:08:40 GMT",
       "summary": "科学家早就知道，植物叶片表面分布着许多微小的气孔。当温度升高时，这些微小的孔隙会“张嘴”，让水分蒸发，从而带走热量，就像人出汗能降温一样，但气孔这一植物“散热器”背后的分子调控机制，一直是个未解之谜。该通路的核心是一种名为“泛素特异性蛋白酶24”（UBP24）的蛋白质。他们发现，当高温来袭，植物体内的激酶会“唤醒”UBP24，导致其分子电荷发生变化，使其变得更加稳定。在更稳定的状态下，UBP24 有助于“保护”并激活其他参与维持气孔开口的蛋白质，使植物的蒸发冷却系统在热应激时保持活跃。通俗来说，UBP24 就像“空调”上灵敏的温控开关。类似的故事并非只在植物身上上演。科学家还发现，啤酒酵母中的一种相关蛋白质也依靠相似原理应对热应激。酵母与植物分属不同物种，生活方式大相径庭，且两者之间存在数亿年的进化差距，却在细胞层面使用了相似的“散热逻辑”。",
@@ -113,15 +122,6 @@
       "source_name": "solidot"
     },
     {
-      "title": "韩国准备向所有民众提供免费 AI 服务",
-      "date": "Mon, 31 Aug 2026 07:08:15 GMT",
-      "summary": "韩国准备向所有民众提供免费 AI 服务 AI for All。该服务计划从下月起进行 beta 测试，计划今年晚些时候推出。服务由韩国两家最大的电信公司以及 Kakao 牵头的三个联盟提供，政府提供部分算力，包括提供最多 512 块英伟达 B200 芯片和支付部分运营费用。AI 服务预计将与政府系统连接，而不只是作为独立的聊天机器人运行。居民将能使用这些服务预约医生、搜索公寓和获取税务指导。小型企业将能计算税款和查询是否符合政府补贴资格。家长将收到教育内容的推荐。每个联盟都计划推出自己的 AI 应用，在现有产品中加入生成式 AI 功能。在政府支持的计划下，用户可以无限次访问，没有 token 限制。",
-      "url": "https://www.solidot.org/story?sid=85238",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
       "title": "A milestone in expanding access to AI",
       "date": "Mon, 31 Aug 2026 04:00:00 GMT",
       "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
@@ -133,7 +133,7 @@
     {
       "title": "How Startups Are Using AI to Disrupt Industries",
       "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-08-30T10:32:35.538Z",
+      "date": "2026-08-30T15:41:32.146Z",
       "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
       "category": "Source Code",
       "source": "Every.to",
@@ -142,7 +142,7 @@
     {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-08-29T10:32:35.538Z",
+      "date": "2026-08-29T15:41:32.146Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
@@ -151,7 +151,7 @@
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-08-28T10:32:35.538Z",
+      "date": "2026-08-28T15:41:32.146Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
@@ -178,7 +178,7 @@
     {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-08-27T10:32:35.538Z",
+      "date": "2026-08-27T15:41:32.146Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -205,7 +205,7 @@
     {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-08-26T10:32:35.538Z",
+      "date": "2026-08-26T15:41:32.146Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
