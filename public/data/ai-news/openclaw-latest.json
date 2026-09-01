@@ -1,7 +1,7 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-08-31T18:14:40.469Z",
+  "fetch_time": "2026-09-01T04:33:21.500Z",
   "articles": [
     {
       "title": "OpenClaw 2026.8.1",
@@ -11,17 +11,17 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.8.1",
-      "downloadCount": 16359
+      "downloadCount": 25219
     },
     {
-      "title": "openclaw 2026.9.1-beta.1",
+      "title": "OpenClaw 2026.8.1-beta.4 (mistakenly published as 2026.9.1-beta.1)",
       "date": "2026-08-28T20:43:46Z",
-      "summary": "## 2026.9.1\n\n### Highlights\n\n- **Gateway restart recovery:** preserve admitted turns across repeated Gateway restarts so restart-safe runs continue through each checkpoint and deliver their final resp...",
+      "summary": "## 2026.8.1-beta.4 (mistakenly published as 2026.9.1-beta.1)\n\n> [!WARNING]\n> This package was mistakenly published under the version `2026.9.1-beta.1`. It is actually `2026.8.1-beta.4` and should not ...",
       "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.9.1-beta.1",
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.1-beta.1",
-      "downloadCount": 284
+      "downloadCount": 288
     },
     {
       "title": "OpenClaw 2026.8.1-beta.3",

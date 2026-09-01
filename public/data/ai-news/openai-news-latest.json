@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-08-31T18:14:30.016Z",
+  "fetch_time": "2026-09-01T04:33:10.685Z",
   "articles": [
+    {
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "date": "Mon, 31 Aug 2026 07:00:00 GMT",
+      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+      "url": "https://openai.com/index/polimill",
+      "category": ""
+    },
     {
       "title": "A milestone in expanding access to AI",
       "date": "Mon, 31 Aug 2026 04:00:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
       "url": "https://openai.com/index/expanding-our-presence-in-brazil",
       "category": "Company"
-    },
-    {
-      "title": "Learning never stops: How AI makes learning continuous",
-      "date": "Wed, 26 Aug 2026 10:00:00 GMT",
-      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "url": "https://openai.com/index/learning-never-stops",
-      "category": "Product"
     }
   ],
   "status": "success",
