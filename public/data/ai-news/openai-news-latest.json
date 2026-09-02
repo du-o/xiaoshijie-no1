@@ -1,8 +1,36 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-09-01T15:36:19.545Z",
+  "fetch_time": "2026-09-02T03:55:54.330Z",
   "articles": [
+    {
+      "title": "How AI-native companies turn workflows into operating capability",
+      "date": "Tue, 01 Sep 2026 17:00:00 GMT",
+      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+      "url": "https://openai.com/index/ai-native-company-workflows",
+      "category": "AI Adoption"
+    },
+    {
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "date": "Tue, 01 Sep 2026 13:00:00 GMT",
+      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+      "url": "https://openai.com/index/path-to-astra",
+      "category": "Safety"
+    },
+    {
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "date": "Tue, 01 Sep 2026 12:00:00 GMT",
+      "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "category": "Product"
+    },
+    {
+      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "date": "Tue, 01 Sep 2026 01:00:00 GMT",
+      "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
+      "url": "https://openai.com/index/gilbert-tobin",
+      "category": ""
+    },
     {
       "title": "OpenAI supports California’s bill to advance youth AI safety",
       "date": "Mon, 31 Aug 2026 07:00:00 GMT",
@@ -16,34 +44,6 @@
       "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
       "url": "https://openai.com/index/polimill",
       "category": ""
-    },
-    {
-      "title": "A milestone in expanding access to AI",
-      "date": "Mon, 31 Aug 2026 04:00:00 GMT",
-      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
-      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "category": "Product"
-    },
-    {
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "date": "Fri, 28 Aug 2026 06:00:00 GMT",
-      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "category": "Company"
-    },
-    {
-      "title": "Supporting Thailand’s next generation of AI startups",
-      "date": "Fri, 28 Aug 2026 02:00:00 GMT",
-      "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
-      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "category": "Company"
-    },
-    {
-      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-      "date": "Thu, 27 Aug 2026 09:00:00 GMT",
-      "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
-      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-      "category": "Company"
     }
   ],
   "status": "success",

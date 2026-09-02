@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-09-01T15:36:35.704Z",
+  "fetch_time": "2026-09-02T03:56:04.900Z",
   "articles": [
+    {
+      "title": "openclaw 2026.8.2",
+      "date": "2026-09-01T16:00:56Z",
+      "summary": "## 2026.8.2\n\n### Highlights\n\n- **Your Home agent, beside your work:** open Home in a right or bottom dock with `Cmd/Ctrl+Shift+H`, keep your current page in view, and preview or remove its work-contex...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.8.2",
+      "category": "Release",
+      "author": "steipete",
+      "tagName": "v2026.8.2",
+      "downloadCount": 5124
+    },
     {
       "title": "OpenClaw 2026.8.1",
       "date": "2026-08-31T03:30:51Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.8.1",
-      "downloadCount": 35362
+      "downloadCount": 39591
     },
     {
       "title": "OpenClaw 2026.8.1-beta.4 (mistakenly published as 2026.9.1-beta.1)",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.1-beta.1",
-      "downloadCount": 288
+      "downloadCount": 290
     },
     {
       "title": "OpenClaw 2026.8.1-beta.3",
@@ -51,16 +61,6 @@
       "category": "Release",
       "author": "vincentkoc",
       "tagName": "v2026.7.1-2",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.7.1-1",
-      "date": "2026-08-04T00:41:25Z",
-      "summary": "\n### Fixes\n\n- **Codex progress replies:** keep app-server turns running after delivered progress messages so GPT/Codex reaches its authoritative terminal response instead of stopping mid-turn. (#10696...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.1-1",
-      "category": "Release",
-      "author": "vincentkoc",
-      "tagName": "v2026.7.1-1",
       "downloadCount": 0
     }
   ],
