@@ -1,52 +1,62 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-09-02T03:55:54.597Z",
+  "fetch_time": "2026-09-02T08:23:44.401Z",
   "articles": [
     {
-      "title": "DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation",
-      "date": "Tue, 01 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.28590v1 Announce Type: new Abstract: Large Language Model (LLM) agents have shown promise for automating data-science workflows, yet their end-to-end performance depends critically on the agent harness that represents tasks, manages execution state, constrains output artifacts, and provides evaluation feedback. Existing data-science agents often leave this harness implicit, making results difficult to reproduce, compare, and attribute across heterogeneous tasks. We introduce DS-Lighti",
-      "url": "https://arxiv.org/abs/2608.28590",
+      "title": "HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models",
+      "date": "Wed, 02 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.00002v1 Announce Type: new Abstract: World models enable language-model agents to predict environment dynamics and plan before acting. In text environments, the model must learn symbolic action effects from serialized state descriptions, but the role of serialization structure remains underexplored. We present HyperWorld, a controlled study of state serialization for learned textual world models. We compare raw observations with three symbolic serializations of the same ground-truth s",
+      "url": "https://arxiv.org/abs/2609.00002",
       "category": "cs.AI"
     },
     {
-      "title": "Expert-validated STEM QA",
-      "date": "Tue, 01 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.28591v1 Announce Type: new Abstract: Recent advancements in AI are helping scientists achieve breakthroughs in fields such as mathematics, medicine, and materials sciences. New evaluation datasets for AI models contribute to such advancement in AI. In the STEM domain, frontier models have consumed most of the available online data, creating the need for human-created datasets that codify the knowledge of leading experts in the domain. There are several STEM datasets available for the ",
-      "url": "https://arxiv.org/abs/2608.28591",
-      "category": "cs.AI"
-    },
-    {
-      "title": "A collective capability boundary in frontier large language models on guideline-conformant and case-specific oncology decision-making",
-      "date": "Tue, 01 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.28592v1 Announce Type: new Abstract: Large language models (LLMs) achieve high scores on medical knowledge examinations, yet real-world oncology is not a knowledge test--it is a sequence of guideline-pathway choices, escalation judgments, and commitments under uncertainty. Existing benchmarks largely measure factual recall, leaving open whether frontier LLMs share decision-path blind spots that combining models cannot fix. We built the Oncology Decision Boundary Benchmark (ODBB)--2,00",
-      "url": "https://arxiv.org/abs/2608.28592",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Statutory AI: Aligning Large Language Models With Legal Norms",
-      "date": "Tue, 01 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.28593v1 Announce Type: new Abstract: With the increasing development of AI regulatory frameworks, ensuring that artificial intelligence systems, particularly generative models, operate in accordance with legal and ethical standards has become a critical priority. Existing proposals for AI alignment and value-guided behavior, however, face some limitations. Approaches such as Constitutional AI depend on human supervision, while broad normative frameworks like the Good-for-Humanity (GfH",
-      "url": "https://arxiv.org/abs/2608.28593",
-      "category": "cs.AI"
-    },
-    {
-      "title": "From Question-First to Analyst-First: Domain-Expert Skills and Verified Knowledge Compilation for Proactive Enterprise Analytics",
-      "date": "Tue, 01 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.28594v1 Announce Type: new Abstract: Conversational analytics systems assume the user already has a well-formed question, leaving a non-expert facing a blank query box on an unfamiliar enterprise schema. Commercial 'proactive' tools narrow this gap only by detecting statistical anomalies over analyst-curated metric layers, and academic next-question recommenders depend on query logs that a fresh dataset lacks. We describe a production analytics system that inverts the interaction mode",
-      "url": "https://arxiv.org/abs/2608.28594",
-      "category": "cs.AI"
-    },
-    {
-      "title": "The Signal in the Noise: An Auditable Reliability Layer for Biomedical Text Classification",
-      "date": "Tue, 01 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2608.28595v1 Announce Type: new Abstract: Biomedical NLP pipelines routinely presuppose clean input text, yet large-scale corpora assembled through automated PDF parsing harbour pervasive OCR-like artifacts, token splits and merges, hyphenation remnants, and character-level corruption, that systematically erode lexical evidence and degrade downstream classifiers. We introduce a conservative, fully auditable spell-correction reliability layer conceived as a safety-oriented preprocessing mod",
-      "url": "https://arxiv.org/abs/2608.28595",
+      "title": "I-CARE: Analysis of interference-related phenomena in a controllable, diverse and representative unlearning setting for text-to-image models",
+      "date": "Wed, 02 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.00003v1 Announce Type: new Abstract: Machine unlearning studies the removal of knowledge from an AI model, making the system forget a concept it previously learned. Despite rapid progress in generative machine unlearning, the unintended degradation of semantically related concepts that should have been retained (henceforth, interference) remains poorly characterized and inconsistently evaluated. This paper introduces I-CARE, a methodology that formalizes interference as a first-class ",
+      "url": "https://arxiv.org/abs/2609.00003",
       "category": [
         "cs.AI",
-        "cs.CL",
         "cs.LG"
+      ]
+    },
+    {
+      "title": "Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic Demand Timing",
+      "date": "Wed, 02 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.00004v1 Announce Type: new Abstract: This paper studies a finite-horizon multi-item capacitated lot-sizing problem in which demand quantities are deterministic, while demand-arrival periods are stochastic. Each demand occurs once within a known time window and must be satisfied no later than its deadline. The proposed model makes production and allocation decisions at the demand level, allowing it to represent capacity competition, demand-specific backlog, and allocation-dependent inv",
+      "url": "https://arxiv.org/abs/2609.00004",
+      "category": [
+        "cs.AI",
+        "cs.NE",
+        "math.OC"
+      ]
+    },
+    {
+      "title": "Incremental Risk Assessment of Progressive Elder Financial Scams via Instruction-Tuned Small Language Models",
+      "date": "Wed, 02 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.00005v1 Announce Type: new Abstract: Financial scams targeting older adults increasingly occur through text and voice channels such as email, SMS, and phone calls, unfolding over multiple conversational turns that begin with impersonation or casual contact, escalate through trust building and urgency, and culminate in requests for sensitive information or financial transfers. Because risk signals emerge incrementally across turns, effective detection requires models that continuously ",
+      "url": "https://arxiv.org/abs/2609.00005",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Long-Horizon State Tracking in LLMs: Executing MD5 through a Deep Sequence of Dependent Tool Calls",
+      "date": "Wed, 02 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.00012v1 Announce Type: new Abstract: Long-horizon tasks remain uncommon in large language model (LLM) evaluation, and for a reason: when each step depends on the last, per-step accuracy that looks excellent in isolation decays catastrophically, as errors cascade and the end-to-end failure probability grows sharply with length. Existing agentic benchmarks report end-to-end success but confound this state-tracking difficulty with instruction interpretation, give no control group that is",
+      "url": "https://arxiv.org/abs/2609.00012",
+      "category": [
+        "cs.AI",
+        "cs.CR",
+        "cs.MA"
+      ]
+    },
+    {
+      "title": "OpenAgentFlow: Enabling System-Wide Safety Boundaries for Heterogeneous AI Agent Fleets",
+      "date": "Wed, 02 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.00015v1 Announce Type: new Abstract: AI agents powered by large language models are evolving from isolated assistants into heterogeneous systems in which multiple agents, planners, controllers, and execution backends operate over the same user or enterprise environment. In such settings, safety becomes a system-level action-governance problem: deciding whether concrete agent-generated actions should be committed before they modify shared state. Existing safeguards cover prompts, tool ",
+      "url": "https://arxiv.org/abs/2609.00015",
+      "category": [
+        "cs.AI",
+        "cs.CR"
       ]
     }
   ],
