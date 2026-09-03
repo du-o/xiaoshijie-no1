@@ -1,8 +1,36 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-09-02T15:24:41.024Z",
+  "fetch_time": "2026-09-03T03:54:26.140Z",
   "articles": [
+    {
+      "title": "全世界快速发展太阳能",
+      "date": "Wed, 02 Sep 2026 16:49:35 GMT",
+      "summary": "全世界正在快速发展太阳能这一廉价电力来源，但各地发展并不均衡。以欧洲为例，除了罗马尼亚，其它欧洲国家几乎没有增长，原因是欧洲大陆电网的局限性。发电高峰期间电网拥堵，储能不足，导致能源浪费、负电价，甚至出现电网故障和灾难性停电风险，欧洲各国正竞相增加电网储能容量以解决这些问题。罗马尼亚太阳能装机量在 2025 年增长了 45%，该国在太阳能建设早期就对电池储能进行了投资。除此之外，巴基斯坦的屋顶太阳能和电池安装速度超过了其他任何市场，巴西、智利、萨尔瓦多、摩洛哥、肯尼亚和纳米比亚在清洁能源转型方面都已超越了美国。",
+      "url": "https://www.solidot.org/story?sid=85268",
+      "category": ""
+    },
+    {
+      "title": "每年全球近半农民因农药中毒",
+      "date": "Wed, 02 Sep 2026 16:27:28 GMT",
+      "summary": "根据发表在《Frontiers in Public Health》期刊上的一项研究，全世界每年有近五成农民因农药中毒。研究发现每年约有 4.02-4.33 亿农民和农场工人因意外急性农药中毒。全球农业人口约为 9.34 亿，这意味着每年约有 46% 的农民农药中毒。中毒人数最多的地区是南亚，其次是东南亚和东非。中毒率最高的国家是西非布基纳法索，该国近 84 %的农民和农场工人曾遭受农药中毒。研究还发现，每年约有 11,000 人死于农药中毒，其中近 60% 发生在印度。研究指出，农药的使用量仍在持续增长，2023 年的使用量达到 380 万吨，比 1990 年翻了一番。",
+      "url": "https://www.solidot.org/story?sid=85267",
+      "category": ""
+    },
+    {
+      "title": "Steam 在一周内上架了逾 700 款游戏，大部分无人问津",
+      "date": "Wed, 02 Sep 2026 16:17:00 GMT",
+      "summary": "Steam 平台一周内上架的游戏数量首次突破 700 款，但大部分游戏无人问津。根据 ICO Partners CEO Thomas Bidaux 提供的数据，上周共有 720 款游戏在 Steam 平台上架。其中 520 款游戏的评论数在 0-9 条之间，190 款游戏的评论数超过 10 条，95 款游戏的评论数超过 50 条，62 款游戏超过 100 条，10 款游戏的评论数超过 1000 条。数据存在重叠，评论数超过 1000 条的游戏会被同时计入 50+ 和 100+ 类别中。Steam 平台在 2026 年上半年上架了约 12000 款游戏，同比增长 19%，游戏销售收入达到了 111 亿美元。",
+      "url": "https://www.solidot.org/story?sid=85266",
+      "category": ""
+    },
+    {
+      "title": "AI 时代 Linux 7.x 系列每个版本修复的漏洞数接近 2000 个",
+      "date": "Wed, 02 Sep 2026 16:06:58 GMT",
+      "summary": "根据稳定版内核维护者 Greg Kroah-Hartman 制作的幻灯片，Linux 7.x 系列的 CVE 数量已从 7.1 的逾千增加到 7.2 的逾 1500，按照这一趋势，下个版本 7.3 将会超过 2000。这一切并非是因为 Linux 内核安全性变差，而是因为 AI 辅助安全检测工具对内核源代码的自动扫描发现了大量 bug，大部分 bug 并不严重属于低危级别。AI 工具产生了大量报告，而要从这些报告中发现有用的信息需要维护者耗费大量精力和时间。内核网络系统的维护者 Jakub Kicinski 表示他们有点不堪重负了。为了减少旧代码的 bug 报告，内核维护者们开始移除大量基本上无人使用的驱动代码。Linux 7.3 移除了旧的 SGI 和 IBM 驱动代码，此举旨在减少维护成本，因为这些历史悠久的代码被 AI 工具发现了大量 bug，而维护者有义务调查和修复这些 bug。",
+      "url": "https://www.solidot.org/story?sid=85265",
+      "category": ""
+    },
     {
       "title": "联合国报告警告全球气温升幅数年内将超过 1.5 度 ",
       "date": "Wed, 02 Sep 2026 10:26:44 GMT",
@@ -15,34 +43,6 @@
       "date": "Wed, 02 Sep 2026 10:04:28 GMT",
       "summary": "OpenAI 的 ChatGPT/Codex 桌面应用被发现捆绑了完整的 LibreOffice 副本、完整的 Python 安装包、完整的 Node.js 安装包，以及 Poppler 和 git 等常用工具，这些文件位于名为 codex-primary-runtime 的文件夹内，占据了数 GB 的空间。此前 Anthropics 的 Claude 桌面应用被发现捆绑了 10GB 的虚拟机。",
       "url": "https://www.solidot.org/story?sid=85263",
-      "category": ""
-    },
-    {
-      "title": "鳄梨树为何能一天数次变换性别",
-      "date": "Wed, 02 Sep 2026 08:34:32 GMT",
-      "summary": "鳄梨/牛油果树是雌雄同株，它的花既能作为雌蕊接收花粉，也能作为雄蕊释放花粉。鳄梨树会在一天中数次切换性别。为了避免自花授粉，半数鳄梨树（被称为A 型）被设定为早上开雌蕊，下午开雄蕊，B 型树则与之相反。根据发表在 PNAS 期刊上的一项研究，科学家分析了数百棵鳄梨树的基因组，发现名为 SDMYB 的基因与 A/B 型树开花模式密切相关。该基因有两个等位基因，一个显性一个隐性，A 型树有一个显性一个隐性，B 型树有两个隐性。这种遗传机制并非鳄梨树所独有，其它 26 种相近树种也有相同的两个版本基因。",
-      "url": "https://www.solidot.org/story?sid=85262",
-      "category": ""
-    },
-    {
-      "title": "LWN 上调订阅价格",
-      "date": "Wed, 02 Sep 2026 07:46:01 GMT",
-      "summary": "所有东西都在慢慢涨价，包括订阅服务。历史悠久的自由软件和开源新闻网站 LWN 宣布它将从 9 月 15 日起上调订阅费用。LWN 从 2002 年起采用订阅模式，过去 24 年只涨价过两次，最近一次是 2022 年。根据美国官方的数据，2022 年以来消费者价格通胀率累计接近 20%，因此 LWN 的订阅价格也将上调 20%。 订阅级别： Starving hacker $6.00 Professional hacker $11.00 Project leader $19.00 Maniacal supporter $55.00",
-      "url": "https://www.solidot.org/story?sid=85261",
-      "category": ""
-    },
-    {
-      "title": "Starman Holding 以 2.85 亿美元现金收购 GoPro ",
-      "date": "Wed, 02 Sep 2026 07:35:25 GMT",
-      "summary": "Starman Holding 以 2.85 亿美元现金收购了知名运动相机制造商 GoPro 几乎所有股份。股东将保留公司 10% 的股份；YouTube 主播 Mark“Markiplier”Fischbach 此前收购了 GoPro 8.5% 的股份——但不清楚是否还会继续持续股份。Starman 的业务相当复杂，涉及多个领域，包括手机壳品牌 Incipio、Incase、Griffin 和 Survivor，曾获得新冠病毒检测合同的 Digital Gadgets，Onward Brands 等。根据递交到 SEC 的文件，名为 Action Acquisitions LLC 的公司将成为 GoPro 的母公司。",
-      "url": "https://www.solidot.org/story?sid=85260",
-      "category": ""
-    },
-    {
-      "title": "Firefox 155 释出",
-      "date": "Wed, 02 Sep 2026 06:58:28 GMT",
-      "summary": "Mozilla 释出了 Firefox 155。从该版本起 Firefox 将每隔两周发布一个新版本。Firefox 155 主要变化包括： 地址栏中新增 Firefox 已拦截广告追踪器的数量；容器重排序；mailto: 链接仅在用户明确操作后打开；用于登录酒店 Wi-Fi 的域名 detectportal.firefox.com 改为 firefox-portal-detection.com；Smart Window 对所有美国、加拿大和法国用户可用；bug 修正和安全补丁，等等。",
-      "url": "https://www.solidot.org/story?sid=85259",
       "category": ""
     }
   ],

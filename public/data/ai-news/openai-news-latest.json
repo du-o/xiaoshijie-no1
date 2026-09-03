@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-09-02T15:24:38.337Z",
+  "fetch_time": "2026-09-03T03:54:22.527Z",
   "articles": [
+    {
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "date": "Wed, 02 Sep 2026 12:00:00 GMT",
+      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+      "url": "https://openai.com/index/atv-big-air-tour",
+      "category": ""
+    },
     {
       "title": "How AI-native companies turn workflows into operating capability",
       "date": "Tue, 01 Sep 2026 17:00:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
       "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
       "category": "Company"
-    },
-    {
-      "title": "Polimill builds Japan's next-generation public AI infrastructure",
-      "date": "Mon, 31 Aug 2026 07:00:00 GMT",
-      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
-      "url": "https://openai.com/index/polimill",
-      "category": ""
     }
   ],
   "status": "success",
