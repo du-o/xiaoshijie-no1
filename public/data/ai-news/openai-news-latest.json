@@ -1,8 +1,36 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-09-03T15:16:33.811Z",
+  "fetch_time": "2026-09-04T03:59:24.225Z",
   "articles": [
+    {
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "date": "Thu, 03 Sep 2026 13:15:00 GMT",
+      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "category": "Security"
+    },
+    {
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "date": "Thu, 03 Sep 2026 12:00:00 GMT",
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "category": "Startup"
+    },
+    {
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "date": "Thu, 03 Sep 2026 12:00:00 GMT",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "category": "Startup"
+    },
+    {
+      "title": "Safety overview: GPT-6 Astra",
+      "date": "Thu, 03 Sep 2026 00:00:00 GMT",
+      "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "category": "Safety"
+    },
     {
       "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
       "date": "Wed, 02 Sep 2026 12:00:00 GMT",
@@ -16,34 +44,6 @@
       "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
       "url": "https://openai.com/index/ai-native-company-workflows",
       "category": "AI Adoption"
-    },
-    {
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "date": "Tue, 01 Sep 2026 13:00:00 GMT",
-      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
-      "url": "https://openai.com/index/path-to-astra",
-      "category": "Safety"
-    },
-    {
-      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "date": "Tue, 01 Sep 2026 12:00:00 GMT",
-      "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
-      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "category": "Product"
-    },
-    {
-      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-      "date": "Tue, 01 Sep 2026 01:00:00 GMT",
-      "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
-      "url": "https://openai.com/index/gilbert-tobin",
-      "category": ""
-    },
-    {
-      "title": "OpenAI supports California’s bill to advance youth AI safety",
-      "date": "Mon, 31 Aug 2026 07:00:00 GMT",
-      "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
-      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-      "category": "Company"
     }
   ],
   "status": "success",

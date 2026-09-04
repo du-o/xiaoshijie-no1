@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-09-03T15:16:45.973Z",
+  "fetch_time": "2026-09-04T03:59:34.934Z",
   "articles": [
+    {
+      "title": "openclaw 2026.9.1",
+      "date": "2026-09-03T18:31:33Z",
+      "summary": "## 2026.9.1\n\n### Highlights\n\n- **Diagrams in every chat:** Mermaid blocks now render as diagrams in the Control UI and in the native macOS, iOS, and Android apps, with enlarge previews and a retry whe...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.9.1",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.9.1",
+      "downloadCount": 1246
+    },
     {
       "title": "openclaw 2026.8.2",
       "date": "2026-09-01T16:00:56Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.8.2",
-      "downloadCount": 31663
+      "downloadCount": 37584
     },
     {
       "title": "OpenClaw 2026.8.1",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.8.1",
-      "downloadCount": 41464
+      "downloadCount": 41530
     },
     {
       "title": "OpenClaw 2026.8.1-beta.4 (mistakenly published as 2026.9.1-beta.1)",
@@ -51,16 +61,6 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.8.1-beta.2",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.7.1-2",
-      "date": "2026-08-04T00:41:26Z",
-      "summary": "\n### Fixes\n\n- **npm plugin updates:** accept singleton-array metadata from newer npm clients so tracked official plugins can install and update to correction releases. (#108336)\n\n",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.1-2",
-      "category": "Release",
-      "author": "vincentkoc",
-      "tagName": "v2026.7.1-2",
       "downloadCount": 0
     }
   ],
