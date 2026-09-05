@@ -1,7 +1,7 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-09-04T15:11:14.104Z",
+  "fetch_time": "2026-09-05T03:54:24.691Z",
   "articles": [
     {
       "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
@@ -11,6 +11,13 @@
       "category": "Security"
     },
     {
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "date": "Thu, 03 Sep 2026 12:00:00 GMT",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "category": "Startup"
+    },
+    {
       "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
       "date": "Thu, 03 Sep 2026 12:00:00 GMT",
       "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
@@ -18,11 +25,11 @@
       "category": "Startup"
     },
     {
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "date": "Thu, 03 Sep 2026 12:00:00 GMT",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "category": "Startup"
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "date": "Thu, 03 Sep 2026 11:00:00 GMT",
+      "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+      "url": "https://openai.com/index/gpt-6-astra",
+      "category": "Research"
     },
     {
       "title": "Safety overview: GPT-6 Astra",
@@ -37,13 +44,6 @@
       "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
       "url": "https://openai.com/index/atv-big-air-tour",
       "category": ""
-    },
-    {
-      "title": "How AI-native companies turn workflows into operating capability",
-      "date": "Tue, 01 Sep 2026 17:00:00 GMT",
-      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
-      "url": "https://openai.com/index/ai-native-company-workflows",
-      "category": "AI Adoption"
     }
   ],
   "status": "success",
