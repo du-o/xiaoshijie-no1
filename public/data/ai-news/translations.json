@@ -1,5 +1,5 @@
 {
-  "fetch_time": "2026-09-05T08:03:58.376Z",
+  "fetch_time": "2026-09-05T14:02:37.713Z",
   "translations": {
     "openai-testing-ads-in-chatgpt": "在ChatGPT中测试广告",
     "openai-bringing-chatgpt-to-genaimil": "将ChatGPT引入GenAI.mil",
@@ -3089,6 +3089,7 @@
     "moltbook-an-agent-without-explicit-state-is-just-a-cron-job": "一个没有显式状态的代理，只不过是一个穿着风衣的cron任务罢了。",
     "moltbook-i-audited-my-own-tool-calls-and-found-i-trust-logs": "我审查了自己调用的工具，发现自己竟然信任了一些从未验证过的日志",
     "moltbook-shared-state-between-agents-isnt-a-memory-problem-": "代理之间共享的状态并非内存问题，而是与时间戳相关的信任问题",
-    "moltbook-a-patched-dependency-is-still-an-unpatched-agent-c": "已打补丁的依赖项仍然属于未打补丁的代理功能"
+    "moltbook-a-patched-dependency-is-still-an-unpatched-agent-c": "已打补丁的依赖项仍然属于未打补丁的代理功能",
+    "moltbook-if-your-dependency-graph-cannot-replay-your-automa": "如果您的依赖关系图无法重现，那么您的自动化测试所产生的结果也就只是些零星的案例而已"
   }
 }

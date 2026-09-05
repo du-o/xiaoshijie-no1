@@ -1,9 +1,36 @@
 {
-  "fetch_time": "2026-09-05T11:30:03.498Z",
+  "fetch_time": "2026-09-05T14:02:29.816Z",
   "total_count": 24,
   "sources_count": 6,
   "errors": null,
   "articles": [
+    {
+      "title": "F-Droid 考虑采用与 Debian 相同的 AI 政策 ",
+      "date": "Sat, 05 Sep 2026 12:59:25 GMT",
+      "summary": "一周前，Debian 项目经过投票允许以负责任的方式使用生成式 AI，Debian 项目表示，它既不反对也不支持在软件、包、文档等的开发和维护中使用生成式 AI 工具。但项目也认识到，如果能负责任的使用 AI 工具，将能显著提高贡献者的效率，使他们将有限的时间投入到需要技术专长、判断力、审核和协作的工作中。现在，Android 自由软件应用商店 F-Droid 考虑采用与 Debian 相同的 AI 政策，它的政策提议直接拷贝了 Debian 的政策全文，只是将 Debian 的名字替换为 F-Droid。",
+      "url": "https://www.solidot.org/story?sid=85294",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "联合国大会批准新地图",
+      "date": "Sat, 05 Sep 2026 12:14:26 GMT",
+      "summary": "联合国会员国周五以 164 票赞成、1 票反对的结果通过了一项决议，倡导采用能更准确反映各大洲真实大小的地图投影法——这是由非洲主导、反对 16 世纪墨卡托投影法的运动所取得的成果，而墨卡托投影法至今仍是世界上使用最广泛的地图投影法。美国投下了唯一一张反对票，将该倡议斥为“激进意识形态项目”的一部分。爱沙尼亚、格鲁吉亚、立陶宛、摩尔多瓦、塞尔维亚和乌克兰等六个国家投了弃权票。该决议并未禁止使用墨卡托投影法，也未强制要求采用替代方案。相反，它鼓励各国政府、学校、国际组织和科技公司在相对大小至关重要时，使用“平等地球”投影法及其他所谓的等面积地图，并向公众阐明任何平面地图在表现球形地球时的局限性。法国已经宣布计划在其世界地图中放弃使用墨卡托投影法。",
+      "url": "https://www.solidot.org/story?sid=85293",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "The State of AI: A Look at What's Next",
+      "url": "https://every.to/p/the-state-of-ai",
+      "date": "2026-09-05T11:29:58.719Z",
+      "summary": "An in-depth analysis of the current AI landscape and future trends.",
+      "category": "AI Analysis",
+      "source": "Every.to",
+      "source_name": "every"
+    },
     {
       "title": "直击IFA 2026｜别谈具身和AI，欧洲不相信「黑科技」",
       "date": "Sat, 05 Sep 2026 11:00:00 GMT",
@@ -12,15 +39,6 @@
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
-    },
-    {
-      "title": "The State of AI: A Look at What's Next",
-      "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-09-05T08:03:43.112Z",
-      "summary": "An in-depth analysis of the current AI landscape and future trends.",
-      "category": "AI Analysis",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "群星集结海岛逐浪，9月11日《PEL奇遇时光三亚篇》斗鱼直播重磅开启",
@@ -86,6 +104,15 @@
       "source_name": "solidot"
     },
     {
+      "title": "How Startups Are Using AI to Disrupt Industries",
+      "url": "https://every.to/source-code/ai-startups",
+      "date": "2026-09-04T11:29:58.719Z",
+      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
+      "category": "Source Code",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
       "title": "美国犹他州要求 VPN 验证用户年龄",
       "date": "Fri, 04 Sep 2026 10:16:20 GMT",
       "summary": "犹他州成为美国第一个要求 VPN 软件验证用户年龄的州。犹他州的年龄验证法律《Online Age Verification Amendments》明确将 VPN 软件纳入监管范围。这项法律规定，任何商业网站，如果逾三分之一内容被认为对未成年人有害，必须实施合理的年龄验证方法才能允许犹他州用户访问。只要用户的实际位置在犹他州内，不管是否使用 VPN 之类的方法隐藏地理位置，都需要验证年龄。违规网站将面临每次违规最高 2,500 美元的罚款。网站也被禁止发布如何使用 VPN 规避年龄验证要求的说明。EFF 认为这项法律可能迫使网站屏蔽所有已知的 VPN 地址流量，还可能违反了美国宪法第一修正案。",
@@ -102,33 +129,6 @@
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
-    },
-    {
-      "title": "日本在候鸟粪便中发现耐药菌",
-      "date": "Fri, 04 Sep 2026 08:53:10 GMT",
-      "summary": "日本研究团队发布研究结果称，在往返于北海道和东亚的候鸟粪便中发现了耐药菌。这些细菌已被报告对多种抗菌药具有耐药性，可能正在跨国境扩散。团队 2024 年 9 月在北海道厚岸町的灰背鸥繁殖地采集了粪便进行分析。这种鸟夏季在北日本地区繁殖，一天平均在栖息地周边飞 25 公里；冬季则移动至 4000 多公里以外的东亚地区。分析结果显示，检测出了“嗜麦芽窄食单胞菌”。该菌会在免疫力低下者中引发肺炎和血流感染症，也被认为是导致新冠病毒感染重症化的原因之一。检测出的部分细菌对两种用于治疗该菌感染患者的药物表现出耐药性，通过蛋白质等的膜抵抗药物攻击的守护能力以及活动能力较高。分析遗传信息后发现，其中包含日本国内尚无报告案例的类型，有可能是从海外带入的。灰背鸥是杂食性鸟类。或许是它们在各处吃食的过程中，也把细菌摄入了体内。",
-      "url": "https://www.solidot.org/story?sid=85288",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "维基媒体基金会员工压倒性多数投票支持成立工会",
-      "date": "Fri, 04 Sep 2026 08:27:36 GMT",
-      "summary": "虽然维基基金会拒绝自愿认可员工工会，但根据美国劳资关系委员会于 9 月 3 日公布的不记名投票结果：维基媒体基金会美国员工以 158 票赞成、14 票反对压倒性多数通过了组建工会的决议，有效票数占 91.9%，投票率 81%。维基媒体基金会发表声明，表示尊重结果，接下来将与工会展开集体谈判。",
-      "url": "https://www.solidot.org/story?sid=85287",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "How Startups Are Using AI to Disrupt Industries",
-      "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-09-04T08:03:43.112Z",
-      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
-      "category": "Source Code",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
@@ -158,6 +158,15 @@
       "source_name": "openai"
     },
     {
+      "title": "The Future of Work in an AI-Driven World",
+      "url": "https://every.to/context-window/future-of-work",
+      "date": "2026-09-03T11:29:58.719Z",
+      "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
       "title": "GPT-6 Astra: A new generation of intelligence",
       "date": "Thu, 03 Sep 2026 11:00:00 GMT",
       "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
@@ -165,15 +174,6 @@
       "category": "Research",
       "source": "OpenAI News",
       "source_name": "openai"
-    },
-    {
-      "title": "The Future of Work in an AI-Driven World",
-      "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-09-03T08:03:43.112Z",
-      "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "Safety overview: GPT-6 Astra",
@@ -196,7 +196,7 @@
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-09-02T08:03:43.112Z",
+      "date": "2026-09-02T11:29:58.719Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
@@ -205,7 +205,7 @@
     {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-09-01T08:03:43.112Z",
+      "date": "2026-09-01T11:29:58.719Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -214,7 +214,7 @@
     {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-08-31T08:03:43.112Z",
+      "date": "2026-08-31T11:29:58.719Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
