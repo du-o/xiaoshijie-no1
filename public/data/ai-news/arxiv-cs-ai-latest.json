@@ -1,54 +1,8 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-09-05T03:54:24.859Z",
-  "articles": [
-    {
-      "title": "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence",
-      "date": "Fri, 04 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.02981v1 Announce Type: new Abstract: Artificial intelligence is changing the form of applied English materials from fixed paper sequences to adaptive learning systems that can diagnose learners, recommend tasks, and provide formative feedback. This paper studies the structure and application of a new practical English textbook driven by artificial intelligence. A five-layer architecture is proposed: knowledge mapping, learner profiling, task generation, feedback orchestration, and tea",
-      "url": "https://arxiv.org/abs/2609.02981",
-      "category": "cs.AI"
-    },
-    {
-      "title": "MasterControl Seventeen Every Time",
-      "date": "Fri, 04 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.03209v1 Announce Type: new Abstract: We study a governed approach to enterprise analytics: a language model interprets the question, while deterministic policy selects and runs a pre-approved analytical program that returns both results and evidence. We show that this restriction can remain expressive within a defined analytical class, using relational operations plus aggregation, comparison, windows, ranking, and similarity. Fixed meaning, policy, data, and execution rules also make ",
-      "url": "https://arxiv.org/abs/2609.03209",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Speculative Macro Commit for Faster Tool-Using Agents",
-      "date": "Fri, 04 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.03236v1 Announce Type: new Abstract: Tool-using LLM agents spend wall-clock time not only on model inference but also in serial action--observation turns, where each tool call, environment transition, and observation can delay subsequent decisions. We introduce \\textbf{Speculative Macro Commit} (SMC), a runtime mechanism for a two-tier agent system: a large authoritative actor model produces the official trajectory, while a faster speculative drafter model continuously predicts and ex",
-      "url": "https://arxiv.org/abs/2609.03236",
-      "category": [
-        "cs.AI",
-        "cs.MA"
-      ]
-    },
-    {
-      "title": "Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent Memory",
-      "date": "Fri, 04 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.03340v1 Announce Type: new Abstract: Distributed LLM-agent teams can read the latest shared facts and still act on an obsolete plan. A planner may derive an action from requirement $r_3$, another agent may commit $r_4$, and an executor may receive $r_4$ without replacing the plan derived from $r_3$. We call this \\emph{stale-plan execution}: state freshness does not establish that the plan authorizing an action remains valid. We introduce PlanFence, a dependency-scoped action-validatio",
-      "url": "https://arxiv.org/abs/2609.03340",
-      "category": "cs.AI"
-    },
-    {
-      "title": "A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant",
-      "date": "Fri, 04 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.03402v1 Announce Type: new Abstract: Artificial intelligence (AI) teaching assistants powered by large language models (LLMs) offer scalable educational support but often provide limited personalization. This study presents a prompt-engineering-based framework for personalizing general-purpose LLM/RAG-based AI teaching assistants such as Jill Watson across academic disciplines and courses. The framework adapts responses using six learner-specific dimensions: self-assessment, abstracti",
-      "url": "https://arxiv.org/abs/2609.03402",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Caught in the Story: Narrative Captivity in Multi-turn LLMs Conversation",
-      "date": "Fri, 04 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.03407v1 Announce Type: new Abstract: People increasingly turn to large language models (LLMs) for everyday advice, making ethically charged interpersonal problems a practical moral-advisory context. Most prior work has studied this context through single-turn judgments or pressure-laden rebuttals, assumptions that poorly match how guidance is sought in real-world contexts. These assumptions leave unclear whether narration alone, without an explicit opposing position, can shift model j",
-      "url": "https://arxiv.org/abs/2609.03407",
-      "category": "cs.AI"
-    }
-  ],
+  "fetch_time": "2026-09-05T08:03:43.668Z",
+  "articles": [],
   "status": "success",
   "error": null
 }
