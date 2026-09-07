@@ -1,21 +1,28 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-09-06T14:27:38.689Z",
+  "fetch_time": "2026-09-07T03:58:28.328Z",
   "articles": [
+    {
+      "title": "An Alien Mind",
+      "date": "Sun, 06 Sep 2026 09:00:00 GMT",
+      "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+      "url": "https://openai.com/index/an-alien-mind",
+      "category": "Safety"
+    },
+    {
+      "title": "Research acceleration: The view inside OpenAI",
+      "date": "Sun, 06 Sep 2026 08:00:00 GMT",
+      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "category": "Research"
+    },
     {
       "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
       "date": "Thu, 03 Sep 2026 13:15:00 GMT",
       "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
       "url": "https://openai.com/index/daybreak-for-frontline-defenders",
       "category": "Security"
-    },
-    {
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "date": "Thu, 03 Sep 2026 12:00:00 GMT",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "category": "Startup"
     },
     {
       "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
@@ -25,25 +32,18 @@
       "category": "Startup"
     },
     {
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "date": "Thu, 03 Sep 2026 12:00:00 GMT",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "category": "Startup"
+    },
+    {
       "title": "GPT-6 Astra: A new generation of intelligence",
       "date": "Thu, 03 Sep 2026 11:00:00 GMT",
       "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
       "url": "https://openai.com/index/gpt-6-astra",
       "category": "Research"
-    },
-    {
-      "title": "Safety overview: GPT-6 Astra",
-      "date": "Thu, 03 Sep 2026 00:00:00 GMT",
-      "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
-      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
-      "category": "Safety"
-    },
-    {
-      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "date": "Wed, 02 Sep 2026 12:00:00 GMT",
-      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
-      "url": "https://openai.com/index/atv-big-air-tour",
-      "category": ""
     }
   ],
   "status": "success",
