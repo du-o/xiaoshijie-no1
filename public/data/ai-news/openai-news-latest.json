@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-09-07T03:58:28.328Z",
+  "fetch_time": "2026-09-07T08:55:51.488Z",
   "articles": [
+    {
+      "title": "Supporting independent journalism in Ukraine",
+      "date": "Mon, 07 Sep 2026 00:00:00 GMT",
+      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "category": "Global Affairs"
+    },
     {
       "title": "An Alien Mind",
       "date": "Sun, 06 Sep 2026 09:00:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
       "url": "https://openai.com/index/playco-game-prototyping-with-astra",
       "category": "Startup"
-    },
-    {
-      "title": "GPT-6 Astra: A new generation of intelligence",
-      "date": "Thu, 03 Sep 2026 11:00:00 GMT",
-      "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
-      "url": "https://openai.com/index/gpt-6-astra",
-      "category": "Research"
     }
   ],
   "status": "success",
