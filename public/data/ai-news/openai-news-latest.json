@@ -1,8 +1,22 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-09-08T12:24:47.812Z",
+  "fetch_time": "2026-09-08T15:25:05.037Z",
   "articles": [
+    {
+      "title": "The Work Now Within Reach",
+      "date": "Tue, 08 Sep 2026 13:00:00 GMT",
+      "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+      "url": "https://openai.com/index/the-work-now-within-reach",
+      "category": "Company"
+    },
+    {
+      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "date": "Tue, 08 Sep 2026 00:00:00 GMT",
+      "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "category": "Company"
+    },
     {
       "title": "Supporting independent journalism in Ukraine",
       "date": "Mon, 07 Sep 2026 00:00:00 GMT",
@@ -30,20 +44,6 @@
       "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
       "url": "https://openai.com/index/daybreak-for-frontline-defenders",
       "category": "Security"
-    },
-    {
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "date": "Thu, 03 Sep 2026 12:00:00 GMT",
-      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "category": "Startup"
-    },
-    {
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "date": "Thu, 03 Sep 2026 12:00:00 GMT",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "category": "Startup"
     }
   ],
   "status": "success",
