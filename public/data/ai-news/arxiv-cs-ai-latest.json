@@ -1,63 +1,8 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-09-07T16:41:54.975Z",
-  "articles": [
-    {
-      "title": "EXAONE Forecast for Finance",
-      "date": "Mon, 07 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.04239v1 Announce Type: new Abstract: This technical report presents EXAONE Forecast for Finance (EXAONE Finance), a financial time series (TS) foundation model (TSFM) tailored to financial forecasting. Recent TSFMs achieve strong zero-shot performance through large-scale pretraining. However, they are primarily developed for general-domain TS and largely rely on self-attention backbones whose computational cost grows quadratically with sequence length and variate count. Moreover, they",
-      "url": "https://arxiv.org/abs/2609.04239",
-      "category": [
-        "cs.AI",
-        "cs.LG"
-      ]
-    },
-    {
-      "title": "From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance",
-      "date": "Mon, 07 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.04286v1 Announce Type: new Abstract: Artificial intelligence in recruitment has shifted the object being automated from profile pairs and ranked lists to multi-stage workflows that retrieve evidence, compare candidates, and support or execute actions. This systematized narrative review traces that development from bilateral retrieval and behavioral ranking through neural person--job matching, large language model (LLM) components, and tool-using recruiting agents. Using a purposive se",
-      "url": "https://arxiv.org/abs/2609.04286",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation",
-      "date": "Mon, 07 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.04298v1 Announce Type: new Abstract: Evaluating agents on the growing number of agentic benchmarks is challenging because they often require complex environments and agent integrations. We introduce Harbor Adapters, a unified evaluation infrastructure for agentic benchmarks. Our work makes three contributions. First, we develop benchmark adapters that port more than 80 benchmarks to evaluate arbitrary agents, and validate them through rigorous code review and parity experiments. Secon",
-      "url": "https://arxiv.org/abs/2609.04298",
-      "category": [
-        "cs.AI",
-        "cs.CL"
-      ]
-    },
-    {
-      "title": "Data-Optimized Contingency Screening: A Machine Learning Approach to Power System Security",
-      "date": "Mon, 07 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.04300v1 Announce Type: new Abstract: Ensuring the security of the power system is essential for stability and reliability, especially in the event of disruption. Effective classification of contingency in power systems enables proactive decision-making and mitigates large-scale breakdowns and failures. This study explores the use of machine learning algorithms to classify security levels of contingencies in power systems into safe, moderate or severe classes. For this approach, Newton",
-      "url": "https://arxiv.org/abs/2609.04300",
-      "category": [
-        "cs.AI",
-        "cs.LG"
-      ]
-    },
-    {
-      "title": "Iris: Climbing to the Search Frontier",
-      "date": "Mon, 07 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.04304v1 Announce Type: new Abstract: We present Iris-mini and Iris-pro, two search agents trained at the 35B-A3B and 397B-A17B scales, together with the data pipeline and training recipe behind them. Tasks are reverse-constructed from the hyperlink structure of a web corpus: we author multi-hop chains over an entity graph distilled from a seed page and its out-links, rewrite every non-answer entity into a descriptive reference so that no clue can be resolved by string matching, and ad",
-      "url": "https://arxiv.org/abs/2609.04304",
-      "category": "cs.AI"
-    },
-    {
-      "title": "A Removal Based Approach to Improve LLM Faithfulness at Test-Time",
-      "date": "Mon, 07 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.04343v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used for consequential decisions, making their explanations an important tool for auditing model behavior. Unfortunately, these explanations can be unfaithful, failing to reflect the actual reasoning underlying the model's decisions. We consider a setting in which an LLM provides both an answer and an explanation in response to a question. We identify two distinct dimensions of unfaithful explanations: ",
-      "url": "https://arxiv.org/abs/2609.04343",
-      "category": [
-        "cs.AI",
-        "cs.CL"
-      ]
-    }
-  ],
+  "fetch_time": "2026-09-08T04:00:26.951Z",
+  "articles": [],
   "status": "success",
   "error": null
 }
