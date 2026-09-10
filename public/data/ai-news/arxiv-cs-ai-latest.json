@@ -1,8 +1,57 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-09-09T15:22:34.303Z",
-  "articles": [],
+  "fetch_time": "2026-09-10T04:05:12.277Z",
+  "articles": [
+    {
+      "title": "Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models",
+      "date": "Thu, 10 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.05437v1 Announce Type: new Abstract: Previous AI alignment efforts have focused primarily on first-order social norms -- teaching models what is socially acceptable or unacceptable (e.g., `do not steal'). However, social intelligence depends not only on norm recognition, but also on anticipating who will enforce it and how (e.g., public shame or even imprisonment). These second-order expectations, known as metanorms, govern how people respond when social rules are broken. We introduce",
+      "url": "https://arxiv.org/abs/2609.05437",
+      "category": [
+        "cs.AI",
+        "cs.CY"
+      ]
+    },
+    {
+      "title": "CriticGen: Generation-Aware Evaluation as Actionable Feedback",
+      "date": "Thu, 10 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.05439v1 Announce Type: new Abstract: Current evaluation methods for large language models are coarse-grained and decoupled from generation, producing generic explanations that fail to provide actionable feedback for model improvement. We propose CriticGen, a fine-grained, generation-aware evaluation framework that turns evaluation into actionable control for answer improvement. CriticGen first generates sample-specific evaluation dimensions and scoring criteria under high-level catego",
+      "url": "https://arxiv.org/abs/2609.05439",
+      "category": "cs.AI"
+    },
+    {
+      "title": "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using LLM Agents",
+      "date": "Thu, 10 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.05441v1 Announce Type: new Abstract: Long-term memory for LLM agents is evaluated today by conversational recall benchmarks (LoCoMo, LongMemEval), which measure question answering over dialogue history, not whether remembered facts change what a tool-using agent does. We present MERIT (Memory Evaluation for Realistic Instrumented Tasks), a benchmark and harness that measures the marginal utility of memory for task-executing agents under explicit cost accounting. MERIT provides episodi",
+      "url": "https://arxiv.org/abs/2609.05441",
+      "category": "cs.AI"
+    },
+    {
+      "title": "AutoFyn Technical Report: Non-Parametric Expert Iteration for Long-Horizon Agents",
+      "date": "Thu, 10 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.05446v1 Announce Type: new Abstract: We introduce AutoFyn, an agent harness inspired by the Expert Iteration algorithm, adapting a frozen model across many rounds by updating persistent state from verified reward signals rather than model weights. Each round begins from a fresh model session, and durable information is reintroduced only through explicit interfaces such as persistent memory files, reports, and repository state. Within a round, an orchestrator explores, plans and builds",
+      "url": "https://arxiv.org/abs/2609.05446",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Damage-Aware Bandit Pruning for Vision and Language Transformers",
+      "date": "Thu, 10 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.05448v1 Announce Type: new Abstract: Structured post-training pruning of transformers requires selecting complete functional units whose suppression causes limited degradation. We formulate structured-unit selection for language and vision transformers as a damage-aware multi-armed bandit problem under a fixed candidate-evaluation budget. Attention heads and MLP channel groups are temporarily masked on calibration batches. Paired damage is the masked loss minus the base loss on the sa",
+      "url": "https://arxiv.org/abs/2609.05448",
+      "category": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "Compiling VGDL into Causal Models",
+      "date": "Thu, 10 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.05459v1 Announce Type: new Abstract: Reinforcement learning and large language models often struggle to accurately capture the causal mechanics of game environments. Standard reinforcement learning agents tend to rely on spurious correlations, while large language models are prone to hallucinating game rules. Although causal reinforcement learning improves interpretability, there is currently no formal methodology to map complex game mechanics directly into causal models. To address t",
+      "url": "https://arxiv.org/abs/2609.05459",
+      "category": "cs.AI"
+    }
+  ],
   "status": "success",
   "error": null
 }

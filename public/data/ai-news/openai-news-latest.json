@@ -1,8 +1,29 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-09-09T15:22:34.072Z",
+  "fetch_time": "2026-09-10T04:05:12.089Z",
   "articles": [
+    {
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "date": "Wed, 09 Sep 2026 17:00:00 GMT",
+      "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "category": "Company"
+    },
+    {
+      "title": "The AI policy window is open. We need to act.",
+      "date": "Wed, 09 Sep 2026 13:00:00 GMT",
+      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+      "url": "https://openai.com/index/ai-policy-window",
+      "category": "Global Affairs"
+    },
+    {
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "date": "Wed, 09 Sep 2026 11:00:00 GMT",
+      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "category": "Product"
+    },
     {
       "title": "How GPT-5.6 Sol helps run quantum computing experiments",
       "date": "Tue, 08 Sep 2026 17:00:00 GMT",
@@ -23,27 +44,6 @@
       "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
       "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
       "category": "Product"
-    },
-    {
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "date": "Tue, 08 Sep 2026 10:00:00 GMT",
-      "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
-      "url": "https://openai.com/index/navier-stokes-solution",
-      "category": "Research"
-    },
-    {
-      "title": "Funding grants for new research into AI and teen development",
-      "date": "Tue, 08 Sep 2026 09:00:00 GMT",
-      "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
-      "url": "https://openai.com/index/teen-development-research-grants",
-      "category": "Safety"
-    },
-    {
-      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-      "date": "Tue, 08 Sep 2026 00:00:00 GMT",
-      "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
-      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-      "category": "Company"
     }
   ],
   "status": "success",
