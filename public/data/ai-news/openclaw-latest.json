@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-09-10T04:05:24.827Z",
+  "fetch_time": "2026-09-10T08:40:03.105Z",
   "articles": [
+    {
+      "title": "openclaw 2026.6.35",
+      "date": "2026-09-10T06:39:30Z",
+      "summary": "## 2026.6.35\r\n\r\nThis is the final June 2026 Extended Stable (LTS) release.\r\n\r\n### Highlights\r\n\r\n- **Safer provider and channel boundaries:** bundled providers and channel adapters now bound untrusted ...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.35",
+      "category": "Release",
+      "author": "RomneyDa",
+      "tagName": "v2026.6.35",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.9.3",
       "date": "2026-09-08T14:15:53Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.3",
-      "downloadCount": 15045
+      "downloadCount": 16749
     },
     {
       "title": "openclaw 2026.9.2",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.2",
-      "downloadCount": 26587
+      "downloadCount": 26622
     },
     {
       "title": "openclaw 2026.9.1",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.1",
-      "downloadCount": 40002
+      "downloadCount": 41177
     },
     {
       "title": "openclaw 2026.8.2",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.8.2",
-      "downloadCount": 58248
+      "downloadCount": 58699
     },
     {
       "title": "OpenClaw 2026.8.1",
@@ -51,17 +61,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.8.1",
-      "downloadCount": 41965
-    },
-    {
-      "title": "OpenClaw 2026.8.1-beta.4 (mistakenly published as 2026.9.1-beta.1)",
-      "date": "2026-08-28T20:43:46Z",
-      "summary": "## 2026.8.1-beta.4 (mistakenly published as 2026.9.1-beta.1)\n\n> [!WARNING]\n> This package was mistakenly published under the version `2026.9.1-beta.1`. It is actually `2026.8.1-beta.4` and should not ...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.9.1-beta.1",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.9.1-beta.1",
-      "downloadCount": 379
+      "downloadCount": 41977
     }
   ],
   "status": "success",
