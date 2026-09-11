@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-09-10T15:15:58.378Z",
+  "fetch_time": "2026-09-11T04:02:49.839Z",
   "articles": [
+    {
+      "title": "openclaw 2026.9.4",
+      "date": "2026-09-11T03:46:22Z",
+      "summary": "## 2026.9.4\n\n### Highlights\n\n- **Recover from compatible failed updates:** retain the previous package and restore it with the previous configuration and service when schema and configuration checks p...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.9.4",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.9.4",
+      "downloadCount": 18
+    },
     {
       "title": "openclaw 2026.6.35",
       "date": "2026-09-10T06:39:30Z",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.3",
-      "downloadCount": 18845
+      "downloadCount": 21913
     },
     {
       "title": "openclaw 2026.9.2",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.2",
-      "downloadCount": 26642
+      "downloadCount": 26683
     },
     {
       "title": "openclaw 2026.9.1",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.1",
-      "downloadCount": 42938
+      "downloadCount": 45184
     },
     {
       "title": "openclaw 2026.8.2",
@@ -51,17 +61,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.8.2",
-      "downloadCount": 59105
-    },
-    {
-      "title": "OpenClaw 2026.8.1",
-      "date": "2026-08-31T03:30:51Z",
-      "summary": "## 2026.8.1\n\n[2026.8.1 release notes](https://docs.openclaw.ai/releases/2026.8.1)\n\n> **Update help:** If the automatic update fails, use a local coding harness to help complete the update, diagnose an...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.8.1",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.8.1",
-      "downloadCount": 41984
+      "downloadCount": 59781
     }
   ],
   "status": "success",

@@ -1,71 +1,183 @@
 {
-  "fetch_time": "2026-09-10T15:15:50.162Z",
+  "fetch_time": "2026-09-11T04:02:41.782Z",
   "total_count": 30,
   "sources_count": 6,
   "errors": null,
   "articles": [
     {
-      "title": "中国金茂：8月取得签约销售金额73.98亿元",
-      "date": "Thu, 10 Sep 2026 13:00:24 GMT",
-      "summary": "36氪获悉，中国金茂在港交所公告，2026年8月份，集团取得签约销售金额人民币73.98亿元，签约销售建筑面积185063.26平方米。截至2026年8月31日止8个月，集团累计取得签约销售金额共计人民币741亿元（其中包含（如有）长沙梅溪湖国际新城项目、南京青龙山国际生态新城项目、宁波生命科学城项目、嘉兴上海之窗智慧科学城项目、郑州二七区马寨新城项目、温州鳌江国际新城项目、金华金茂未来科学城项目及上海横沔城市运营项目的成交销售金额），以及累计签约销售建筑面积2739073.92平方米。",
-      "url": "https://36kr.com/newsflashes/3977596512648193?f=rss",
+      "title": "恒指午间休盘跌0.85%，恒生科技指数跌0.79%",
+      "date": "Fri, 11 Sep 2026 04:01:47 GMT",
+      "summary": "36氪获悉，恒指午间休盘跌0.85%，恒生科技指数跌0.79%；有色金属、半导体、化工板块领跌，洛阳钼业跌超10%，壁仞科技跌超7%，国恩科技跌超4%；消费、石油石化板块走强，山东墨龙涨超4%，布鲁可涨近1%；南向资金净买入22.99亿港元。",
+      "url": "https://36kr.com/newsflashes/3978482614090500?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "热门中概股美股盘前集体走弱，哔哩哔哩跌近3%",
-      "date": "Thu, 10 Sep 2026 12:52:14 GMT",
-      "summary": "36氪获悉，热门中概股美股盘前集体走弱，截至发稿，哔哩哔哩跌近3%，蔚来跌超2%，百度、阿里巴巴、京东跌超1%，小鹏集团跌0.85%，拼多多跌0.65%，理想汽车跌0.6%，网易涨0.28%。",
-      "url": "https://36kr.com/newsflashes/3977588483504903?f=rss",
+      "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
+      "date": "Fri, 11 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.09203v1 Announce Type: new Abstract: Existing benchmarks for autonomous AI scientists evaluate only final outputs---generated code, hypotheses, or papers---yet discard the reasoning process by which those outputs were obtained. This makes it impossible to audit scientific methodology, diagnose failure modes, or distinguish systematic reasoning from fortunate guessing. We present \\textbf{OpenDiscoveryTrace}, a public dataset of 558 complete AI scientific agent trajectories that capture",
+      "url": "https://arxiv.org/abs/2609.09203",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Adaptive Entangled Game Modules in Artificial General Intelligence",
+      "date": "Fri, 11 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.09226v1 Announce Type: new Abstract: We introduce a probability-wave framework for modeling the collective behavior of interacting adaptive agents, deriving testable eigenmodes through a generalized behavioral intelligence (GBI) nonlocal probability-wave equation. This framework captures a broad range of human intelligence behaviors with analytical mechanisms and offers an indirect method to examine the Liu-Chen-Ao (LCA) hypothesis of nonlocal entangled nerve fibers in the brain throu",
+      "url": "https://arxiv.org/abs/2609.09226",
+      "category": [
+        "cs.AI",
+        "physics.soc-ph",
+        "q-bio.NC",
+        "q-fin.GN",
+        "quant-ph"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks",
+      "date": "Fri, 11 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.09233v1 Announce Type: new Abstract: How can language model agents effectively leverage libraries of reusable knowledge to solve long-horizon tasks? Recent work has increasingly focused on agent skills: reusable capabilities represented as skill packages, i.e., multi-file bundles containing instructions, scripts, and other resources that help agents perform specific tasks. Agent skills are typically executed by loading their skill instructions into an agent's context and relying on th",
+      "url": "https://arxiv.org/abs/2609.09233",
+      "category": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Gradland: On Phenomenal Experience, Differentiated Across Many Dimensions",
+      "date": "Fri, 11 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.09306v1 Announce Type: new Abstract: This paper investigates the hypothesis that the first-order structure of physical interactions, i.e. gradients or Jacobians, characterizes the structure of phenomenal experience. It does so in an idealized world inhabited by neural networks, Gradland, where the physics are known and the functions are (mostly) differentiable. The paper introduces two measures of Jacobian structure: effective rank and cohesion, based on Kirchhoff complexity. Applying",
+      "url": "https://arxiv.org/abs/2609.09306",
+      "category": [
+        "cs.AI",
+        "cs.NE"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "An Autonomous GeoAI Agent for Arctic Eco-Navigation",
+      "date": "Fri, 11 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.09374v1 Announce Type: new Abstract: Arctic maritime navigation is becoming increasingly important as changing sea-ice conditions expand seasonal accessibility while simultaneously introducing substantial operational, environmental, and community risks. Arctic route planning is inherently a multi-criteria problem: routes that improve vessel safety or efficiency may increase exposure to sea ice, sensitive ecosystems, or nearby communities. Existing routing methods prioritize travel tim",
+      "url": "https://arxiv.org/abs/2609.09374",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "The Menu Is an Execution Prior: State-Path Tool Menus for Online Agents",
+      "date": "Fri, 11 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.09395v1 Announce Type: new Abstract: Language models act through tools, yet practical agents face libraries containing thousands of interfaces. We introduce the tool menu as the short, ordered subset of available tools shown to an agent before execution. The agent can call only tools in this menu. Multi-step tasks require the final action and the prerequisite tools that create its inputs in a usable order. Current constructors rank tools by request relevance, which can surface the fin",
+      "url": "https://arxiv.org/abs/2609.09395",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "蚂蚁数科发布Agentar金融版",
+      "date": "Fri, 11 Sep 2026 03:52:08 GMT",
+      "summary": "36氪获悉，蚂蚁数科在2026 Inclusion·外滩大会上推出Agentar金融版，提供开箱即用的金融智能体专家团、行业Skill、MCP、智能体评测工具及治理能力，为金融机构打造覆盖智能体开发、部署、协作、评测与管理的智能体超级工厂。据了解，Agentar金融版首批预置十大金融智能体专家团，覆盖智能投顾、财富管理、客户经营等核心应用场景。",
+      "url": "https://36kr.com/newsflashes/3978473121905411?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "美股大型科技股盘前普跌，SK海力士跌超4%",
-      "date": "Thu, 10 Sep 2026 12:48:55 GMT",
-      "summary": "36氪获悉，美股大型科技股盘前多数下跌，截至发稿，SK海力士跌超4%，英特尔跌超3%，美光科技跌超2%，特斯拉、英伟达跌超1%，亚马逊跌0.69%，微软跌0.59%，谷歌跌0.44%，Meta跌0.25%，苹果涨0.52%。",
-      "url": "https://36kr.com/newsflashes/3977585225644808?f=rss",
+      "title": "新石器L4级无人车在日本启动首次测试",
+      "date": "Fri, 11 Sep 2026 03:50:00 GMT",
+      "summary": "新石器已在日本东京平和岛的东京流通中心（TRC）启动封闭场地L4级自动驾驶实证测试。这是新石器首次在日本开展L4级测试。首批测试车辆已于8月31日抵达日本，目前在TRC指定停车场及A栋天台道路运行，后续车辆将分批加入，测试车队规模计划增至10台。今年6月，新石器加入以TRC为据点的平和岛自动驾驶协议会。（界面）",
+      "url": "https://36kr.com/newsflashes/3978471019363329?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "面壁智能MiniCPM5-2B模型登顶Hugging Face Trending Top 1",
-      "date": "Thu, 10 Sep 2026 12:39:59 GMT",
-      "summary": "36氪获悉，面壁智能MiniCPM5-2B模型登顶Hugging Face Trending Top 1，AA 综合23分居全球4B以下开源模型第一。2B参数量即可完成工具调用、深度搜索、代码生成等智能体任务，端侧通用 Agent雏形初现。",
-      "url": "https://36kr.com/newsflashes/3977575664089857?f=rss",
+      "title": "半日主力资金抛售电子、有色金属股",
+      "date": "Fri, 11 Sep 2026 03:47:03 GMT",
+      "summary": "主力资金早间净流入通信、国防军工、公用事业等板块，净流出电子、有色金属、基础化工等板块。具体到个股来看，中际旭创、华胜天成、内蒙一机获净流入18.66亿元、11.48亿元、10.68亿元。净流出方面，天孚通信、德明利、生益科技遭抛售11.14亿元、10.45亿元、9.95亿元。（第一财经）",
+      "url": "https://36kr.com/newsflashes/3978468124523528?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "美国8月PPI同比增长5.4%",
-      "date": "Thu, 10 Sep 2026 12:32:52 GMT",
-      "summary": "美国8月PPI同比增长5.4%，预估为5.3%，前值为4.7%。（界面）",
-      "url": "https://36kr.com/newsflashes/3977569444527113?f=rss",
+      "title": "声智科技荣获第二十六届中国专利奖优秀奖",
+      "date": "Fri, 11 Sep 2026 03:44:34 GMT",
+      "summary": "近日，国家知识产权局正式公布第二十六届中国专利奖授奖名单。北京声智科技有限公司凭借专利ZL202311321072.1《基于预训练语言模型的任务处理方法、装置、设备及介质》，荣获第二十六届中国专利奖优秀奖。据了解，中国专利奖是我国知识产权领域的重要国家级奖项，是对企业自主创新能力、专利技术水平及产业化价值的综合认可。目前，声智正持续推进Physical AI模型技术体系建设。推动人工智能从数字世界走向物理世界。",
+      "url": "https://36kr.com/newsflashes/3978465673280257?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "美国上周首次申领失业救济人数为20.6万人",
-      "date": "Thu, 10 Sep 2026 12:31:45 GMT",
-      "summary": "美国上周首次申领失业救济人数为20.6万人，预估为20.5万人，前值为20.6万人。（界面）",
-      "url": "https://36kr.com/newsflashes/3977568350452739?f=rss",
+      "title": "前8个月粤港澳大湾区内地9市进出口值同比增长21.9%",
+      "date": "Fri, 11 Sep 2026 03:38:51 GMT",
+      "summary": "据海关统计，今年前8个月，粤港澳大湾区内地9市进出口值7.28万亿元，同比增长21.9%，创历史同期新高。其中8月份进出口值达1.01万亿元，继6月首次突破万亿元后，再次迈上万亿元台阶，增长30.4%。粤港澳大湾区内地9市包括广州、深圳、珠海、佛山、惠州、东莞、中山、江门和肇庆。（央视新闻）",
+      "url": "https://36kr.com/newsflashes/3978460055174148?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
+    },
+    {
+      "title": "LG 强烈否认其监视电视用户",
+      "date": "Thu, 10 Sep 2026 16:33:09 GMT",
+      "summary": "本周早期时候，YouTube 主播 Gamers Nexus 与独立安全研究人员合作，发现 LG 的智能电视机即便在离线或待机模式下也会持续记录并上传用户数据。LG 电视还会扫描 Wi-Fi 网络、记录音频日志，采样音视频输入内容以识别用户正在观看的节目。LG 在一则声明中称视频内容不实，“LG 电视仅在用户按住遥控器上的语音按钮，或在激活 Far-Field 功能后识别出‘Hi LG’等唤醒词时，才会处理语音数据。”LG 表示除此之外其智能电视不会收集或记录环境中的对话。如果未识别出唤醒词，电视不会向服务器传输任何语音数据，针对唤醒词的音频处理是在设备本地完成的。LG 声称 Automatic content recognition (ACR)是可选启用的功能，旨在提供个性化的内容推荐、服务及广告。在默认情况下，未经用户同意，ACR 数据不会被用于广告目的。",
+      "url": "https://www.solidot.org/story?sid=85341",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "育碧准备在 Steam 上取消安装 Ubisoft Connect 客户端的要求",
+      "date": "Thu, 10 Sep 2026 16:08:56 GMT",
+      "summary": "在 Steam 上购买和运行育碧的游戏需要安装其客户端 Ubisoft Connect，启动游戏时需要同时启动育碧和 Steam 两个启动程序，这种做法长期受到 Steam 玩家的诟病。现在育碧宣布将逐步取消这一要求，“从《Prince of Persia: The Lost Crown》起，我们将测试一项名为‘Ubisoft Connect Services’的全新 Steam 工具。该工具能保留跨平台进度、跨平台联机、玩家安全保障、挑战与奖励等育碧游戏功能，而无需安装或启动 Ubisoft Connect PC 客户端。”Ubisoft Connect Services 未来将逐步推广给 Steam 平台上更多的育碧游戏。",
+      "url": "https://www.solidot.org/story?sid=85340",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "date": "Thu, 10 Sep 2026 16:00:00 GMT",
+      "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "category": "Applied AI",
+      "source": "OpenAI News",
+      "source_name": "openai"
+    },
+    {
+      "title": "OpenAI 声称解决了 Navier-Stokes 问题，但引发了利用未发布成果的争议",
+      "date": "Thu, 10 Sep 2026 15:51:55 GMT",
+      "summary": "约 200 年前，法国物理学家克劳德-路易·纳维和爱尔兰物理学家乔治·斯托克斯提出了一组至今仍然广泛使用的、描述液体、空气等流体运动的偏微分方程。Navier-Stokes 方程并不保证适用于所有可能的情况。几十年来，数学家一直致力于寻求证明方程的普适性或导致方程失效的特例。2000 年克雷数学研究所将 Navier-Stokes 方程列为六大千禧年数学问题之一。OpenAI 本周宣布通过动用约 1 万个 AI 智能体进行长达 88 小时的攻坚，于 9 月 5 日发现了一个 Navier-Stokes 方程失效的特例。如果得到确认，将标志着 AI 首次解决了一个重大的数学难题。但此事在数学界引发了巨大争议。过去一个月，纽约大学数学家 Tristan Buckmaster 和 Anthropic 研究员 Levent Alpöge 利用来自 OpenAI 和 Anthropic 的 AI 工具在解决 Navier-Stokes 问题上取得了重大进展。然而就在他们准备公布研究成果之前，OpenAI 投入了数百万美元算力，开展了大规模攻坚行动。OpenAI 声称它未利用 Buckmaster",
+      "url": "https://www.solidot.org/story?sid=85339",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
     },
     {
       "title": "The State of AI: A Look at What's Next",
       "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-09-10T12:31:02.347Z",
+      "date": "2026-09-10T15:15:46.110Z",
       "summary": "An in-depth analysis of the current AI landscape and future trends.",
       "category": "AI Analysis",
       "source": "Every.to",
       "source_name": "every"
+    },
+    {
+      "title": "Now everyone can put data to work",
+      "date": "Thu, 10 Sep 2026 15:00:00 GMT",
+      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+      "url": "https://openai.com/index/put-data-to-work",
+      "category": "Product",
+      "source": "OpenAI News",
+      "source_name": "openai"
     },
     {
       "title": "微软九月例行更新修复近千个 Bug",
@@ -95,168 +207,63 @@
       "source_name": "solidot"
     },
     {
-      "title": "苹果推出折叠屏手机 iPhone Duo",
-      "date": "Thu, 10 Sep 2026 09:06:31 GMT",
-      "summary": "苹果宣布了一系列新产品，包括 iPhone 18 Pro 与 iPhone 18 Pro Max、AirPods 5 以及其首款折叠屏手机 iPhone Duo。其中最引人瞩目的是其折叠屏手机。三星、Google 和华为等苹果竞争对手早就推出了折叠屏手机，在内存和存储器短缺导致价格飙升时代，苹果推出起售价 15,999 元的折叠屏手机，消费者是否接受还有待市场检验。iPhone Duo 配备了 7.6 英寸超视网膜 XDR 可折叠屏，5.4 英寸超视网膜 XDR 外屏，A20 Pro 芯片，10 月 16 日（星期五）起接受预购，10 月 23 日（星期五）起正式发售。",
-      "url": "https://www.solidot.org/story?sid=85335",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "小岛秀夫与索尼终止合作，改为与微软合作",
-      "date": "Thu, 10 Sep 2026 08:46:42 GMT",
-      "summary": "知名日本游戏制作人小岛秀夫证实在索尼取消对其正在开发中的谍战动作游戏项目 PHYSINT 的资助之后，他找到了新的合作伙伴——索尼 PS 的竞争对手微软 XBOX。此前索尼游戏资助小岛开发了《死亡搁浅》系统。小岛称在索尼于 5 月发出取消 PHYSINT 项目的通知之后，过去三个月他们一直在寻找新合作伙伴，称 PHYSINT 对他们非常重要。微软 XBOX CEO Asha Sharma 表示，“创作者可选择在哪里以及如何将他们的想法变为现实。我们感到荣幸，小岛先生选择与 XBOX 合作打造《PHYSINT》。他挑战传统的雄心壮志，正是 XBOX 想要支持的那种创造力。”",
-      "url": "https://www.solidot.org/story?sid=85334",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models",
-      "date": "Thu, 10 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.05437v1 Announce Type: new Abstract: Previous AI alignment efforts have focused primarily on first-order social norms -- teaching models what is socially acceptable or unacceptable (e.g., `do not steal'). However, social intelligence depends not only on norm recognition, but also on anticipating who will enforce it and how (e.g., public shame or even imprisonment). These second-order expectations, known as metanorms, govern how people respond when social rules are broken. We introduce",
-      "url": "https://arxiv.org/abs/2609.05437",
-      "category": [
-        "cs.AI",
-        "cs.CY"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "CriticGen: Generation-Aware Evaluation as Actionable Feedback",
-      "date": "Thu, 10 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.05439v1 Announce Type: new Abstract: Current evaluation methods for large language models are coarse-grained and decoupled from generation, producing generic explanations that fail to provide actionable feedback for model improvement. We propose CriticGen, a fine-grained, generation-aware evaluation framework that turns evaluation into actionable control for answer improvement. CriticGen first generates sample-specific evaluation dimensions and scoring criteria under high-level catego",
-      "url": "https://arxiv.org/abs/2609.05439",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using LLM Agents",
-      "date": "Thu, 10 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.05441v1 Announce Type: new Abstract: Long-term memory for LLM agents is evaluated today by conversational recall benchmarks (LoCoMo, LongMemEval), which measure question answering over dialogue history, not whether remembered facts change what a tool-using agent does. We present MERIT (Memory Evaluation for Realistic Instrumented Tasks), a benchmark and harness that measures the marginal utility of memory for task-executing agents under explicit cost accounting. MERIT provides episodi",
-      "url": "https://arxiv.org/abs/2609.05441",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "AutoFyn Technical Report: Non-Parametric Expert Iteration for Long-Horizon Agents",
-      "date": "Thu, 10 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.05446v1 Announce Type: new Abstract: We introduce AutoFyn, an agent harness inspired by the Expert Iteration algorithm, adapting a frozen model across many rounds by updating persistent state from verified reward signals rather than model weights. Each round begins from a fresh model session, and durable information is reintroduced only through explicit interfaces such as persistent memory files, reports, and repository state. Within a round, an orchestrator explores, plans and builds",
-      "url": "https://arxiv.org/abs/2609.05446",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Damage-Aware Bandit Pruning for Vision and Language Transformers",
-      "date": "Thu, 10 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.05448v1 Announce Type: new Abstract: Structured post-training pruning of transformers requires selecting complete functional units whose suppression causes limited degradation. We formulate structured-unit selection for language and vision transformers as a damage-aware multi-armed bandit problem under a fixed candidate-evaluation budget. Attention heads and MLP channel groups are temporarily masked on calibration batches. Paired damage is the masked loss minus the base loss on the sa",
-      "url": "https://arxiv.org/abs/2609.05448",
-      "category": [
-        "cs.AI",
-        "cs.LG"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Compiling VGDL into Causal Models",
-      "date": "Thu, 10 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.05459v1 Announce Type: new Abstract: Reinforcement learning and large language models often struggle to accurately capture the causal mechanics of game environments. Standard reinforcement learning agents tend to rely on spurious correlations, while large language models are prone to hallucinating game rules. Although causal reinforcement learning improves interpretability, there is currently no formal methodology to map complex game mechanics directly into causal models. To address t",
-      "url": "https://arxiv.org/abs/2609.05459",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "屏幕使用时长导致学生阅读得分大幅下降",
-      "date": "Wed, 09 Sep 2026 17:13:04 GMT",
-      "summary": "青少年的阅读、数学和科学成绩降至 2000 年国际 PISA 测试启动以来的最低水平，15 岁学生的阅读能力相当于过去低一岁学生的水平。经合组织（OECD）将成绩下滑归因于屏幕使用时长增加、出于兴趣的阅读减少以及数字设备带来的干扰。OECD 还发现，经常将 AI 聊天机器人用于起草论文或总结文本等任务的学生，其科学成绩平均低了 20分，相当于一年的学习差距。PISA 阅读成绩指数于 2012 年达到 501 分的最高值，到去年降至了 466 分。OECD 秘书长 Mathias Cormann 表示：“在阅读上，屏幕使用时长的增加和兴趣阅读的减少，与成绩下滑有着密切联系。我们还观察到更多‘仓促阅读’的现象，即学生匆忙浏览文本后给出草率且错误的答案。”研究还发现，富裕家庭学生阅读成绩下滑幅度更明显。由于阅读水平下降，青少年在科学和数学上也处于本世纪以来的最低水平。科学成绩从 2009 年 506 分的最高值降至 486 分，数学成绩则从 502 分降至 469 分。东亚地区表现最出色。参与测试的中国城市、日本、韩国、新加坡和台湾等拥有最优秀的教育体系，其它地区仅有英国和爱沙尼亚跻身阅读、",
-      "url": "https://www.solidot.org/story?sid=85333",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "Paul Christiano joins OpenAI Foundation Board",
-      "date": "Wed, 09 Sep 2026 17:00:00 GMT",
-      "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
-      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "category": "Company",
+      "title": "Introducing ChatGPT for Financial Services",
+      "date": "Thu, 10 Sep 2026 07:00:00 GMT",
+      "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "category": "Product",
       "source": "OpenAI News",
       "source_name": "openai"
     },
     {
-      "title": "The AI policy window is open. We need to act.",
-      "date": "Wed, 09 Sep 2026 13:00:00 GMT",
-      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
-      "url": "https://openai.com/index/ai-policy-window",
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "date": "Thu, 10 Sep 2026 07:00:00 GMT",
+      "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
+      "url": "https://openai.com/index/expanding-ai-access-us-government",
       "category": "Global Affairs",
+      "source": "OpenAI News",
+      "source_name": "openai"
+    },
+    {
+      "title": "Introducing the Agents API",
+      "date": "Thu, 10 Sep 2026 00:00:00 GMT",
+      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "url": "https://openai.com/index/introducing-the-agents-api",
+      "category": "Product",
+      "source": "OpenAI News",
+      "source_name": "openai"
+    },
+    {
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "date": "Thu, 10 Sep 2026 00:00:00 GMT",
+      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "category": "Product",
       "source": "OpenAI News",
       "source_name": "openai"
     },
     {
       "title": "How Startups Are Using AI to Disrupt Industries",
       "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-09-09T12:31:02.347Z",
+      "date": "2026-09-09T15:15:46.110Z",
       "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
       "category": "Source Code",
       "source": "Every.to",
       "source_name": "every"
     },
     {
-      "title": "GPT-6 Astra: The next generation in intelligence for work",
-      "date": "Wed, 09 Sep 2026 11:00:00 GMT",
-      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
-      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
-      "category": "Product",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
-      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-      "date": "Tue, 08 Sep 2026 17:00:00 GMT",
-      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
-      "url": "https://openai.com/index/codex-quantum-computing-experiments",
-      "category": "Applied AI",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
-      "title": "The Work Now Within Reach",
-      "date": "Tue, 08 Sep 2026 13:00:00 GMT",
-      "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
-      "url": "https://openai.com/index/the-work-now-within-reach",
-      "category": "Company",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-09-08T12:31:02.347Z",
+      "date": "2026-09-08T15:15:46.110Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
       "source_name": "every"
     },
     {
-      "title": "Introducing ChatGPT Images 2.5",
-      "date": "Tue, 08 Sep 2026 11:30:00 GMT",
-      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "category": "Product",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-09-07T12:31:02.347Z",
+      "date": "2026-09-07T15:15:46.110Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
@@ -265,7 +272,7 @@
     {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-09-06T12:31:02.347Z",
+      "date": "2026-09-06T15:15:46.110Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -274,7 +281,7 @@
     {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-09-05T12:31:02.347Z",
+      "date": "2026-09-05T15:15:46.110Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
