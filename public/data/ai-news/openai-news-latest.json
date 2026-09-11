@@ -1,7 +1,7 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-09-11T08:34:29.738Z",
+  "fetch_time": "2026-09-11T12:27:25.525Z",
   "articles": [
     {
       "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
@@ -32,17 +32,17 @@
       "category": "Global Affairs"
     },
     {
-      "title": "Introducing the Agents API",
-      "date": "Thu, 10 Sep 2026 00:00:00 GMT",
-      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-      "url": "https://openai.com/index/introducing-the-agents-api",
-      "category": "Product"
-    },
-    {
       "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
       "date": "Thu, 10 Sep 2026 00:00:00 GMT",
       "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
       "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "category": "Product"
+    },
+    {
+      "title": "Introducing the Agents API",
+      "date": "Thu, 10 Sep 2026 00:00:00 GMT",
+      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "url": "https://openai.com/index/introducing-the-agents-api",
       "category": "Product"
     }
   ],
