@@ -1,17 +1,17 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-09-12T14:26:12.310Z",
+  "fetch_time": "2026-09-13T04:15:06.407Z",
   "articles": [
     {
       "title": "openclaw 2026.9.4",
       "date": "2026-09-11T03:46:22Z",
-      "summary": "## 2026.9.4\n\n### Highlights\n\n- **Recover from compatible failed updates:** retain the previous package and restore it with the previous configuration and service when schema and configuration checks p...",
+      "summary": "<!-- openclaw-release-publication:docs-v1 -->\n\n## OpenClaw v2026.9.4\n\n20 direct commits · 1,558 pull requests · 294 contributors\n\n### Changes included in this release\n\nThe release notes and changelog ...",
       "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.9.4",
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.4",
-      "downloadCount": 13230
+      "downloadCount": 17366
     },
     {
       "title": "openclaw 2026.6.35",
@@ -31,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.3",
-      "downloadCount": 22336
+      "downloadCount": 22366
     },
     {
       "title": "openclaw 2026.9.2",
@@ -41,7 +41,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.2",
-      "downloadCount": 26774
+      "downloadCount": 26792
     },
     {
       "title": "openclaw 2026.9.1",
@@ -51,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.1",
-      "downloadCount": 51534
+      "downloadCount": 53608
     },
     {
       "title": "openclaw 2026.8.2",
@@ -61,7 +61,7 @@
       "category": "Release",
       "author": "steipete",
       "tagName": "v2026.8.2",
-      "downloadCount": 61657
+      "downloadCount": 62349
     }
   ],
   "status": "success",
