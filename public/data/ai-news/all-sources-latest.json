@@ -1,5 +1,5 @@
 {
-  "fetch_time": "2026-09-13T12:57:44.427Z",
+  "fetch_time": "2026-09-13T15:07:51.014Z",
   "total_count": 24,
   "sources_count": 6,
   "errors": null,
@@ -12,6 +12,15 @@
       "category": "",
       "source": "OpenAI News",
       "source_name": "openai"
+    },
+    {
+      "title": "The State of AI: A Look at What's Next",
+      "url": "https://every.to/p/the-state-of-ai",
+      "date": "2026-09-13T12:57:41.726Z",
+      "summary": "An in-depth analysis of the current AI landscape and future trends.",
+      "category": "AI Analysis",
+      "source": "Every.to",
+      "source_name": "every"
     },
     {
       "title": "三家具身智能头部企业被同行举报？涉及企业回应",
@@ -68,15 +77,6 @@
       "source_name": "36kr"
     },
     {
-      "title": "The State of AI: A Look at What's Next",
-      "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-09-13T04:14:58.799Z",
-      "summary": "An in-depth analysis of the current AI landscape and future trends.",
-      "category": "AI Analysis",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
       "title": "暴雪宣布 FPS 版《星际争霸》",
       "date": "Sun, 13 Sep 2026 03:10:07 GMT",
       "summary": "暴雪宣布了 FPS 版《星际争霸》，游戏仍然处于早期开发阶段，目标发售时间是在 2030 年。暴雪称，新作是一款开放世界、剧情驱动的科幻射击游戏，故事背景设定在《星际争霸 II》事件发生后数十年，是《星际争霸》宇宙中的一款全新作品。RTS 版《星际争霸》于 1998 年发布，2015 年发布了《星际争霸II》三部曲中的第三部《虚空之遗》，时隔 11 年之后宣布的正统续作不再属于 RTS。FPS 版《星际争霸》游戏设定在 Koprulu 星区（Koprulu Sector），时间位于《虚空之遗》剧情结束后的 70 年。",
@@ -113,6 +113,15 @@
       "source_name": "solidot"
     },
     {
+      "title": "How Startups Are Using AI to Disrupt Industries",
+      "url": "https://every.to/source-code/ai-startups",
+      "date": "2026-09-12T12:57:41.726Z",
+      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
+      "category": "Source Code",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
       "title": "25 名菲尔茨奖得主发表公开信批评 AI 公司",
       "date": "Sat, 12 Sep 2026 12:17:51 GMT",
       "summary": "包括陶哲轩、新晋得主邓煜在内的 25 名菲尔茨奖得主发表公开信《A Severe Misalignment of AI in Mathematics》，批评 AI 公司最近的所作所为。公开信称，“过去几个月 LLM 的数学能力有飞跃式提升，甚至达到了能解决数学领域重大悬而未决问题的地步。但各大 AI 公司仅仅将解决数学问题作为基准测试（Benchmark）推动的技术竞赛，却对数学这门科学以及整个数学界构成了伤害。AI 公司的目标与数学界的本质目标之间存在着严重错位（Misalignment）。”这是 AI 影响科学与创意行业乃至整个社会的对齐（alignment）危机的一个缩影。“最近几个月 AI 在解决重大数学难题上取得的突破甚至冲出数学界，登上了大众媒体的头条。然而解决问题仅仅是达成概念理解与深刻洞察这一核心目标的工具和替代指标。在 AI 浪潮中忽略这一点，无异于异化了工具，使其走向核心目标的对立面。事实上，以越来越快的节奏批量生产‘真/假’断言，非但无法为新思想注入生命力，反而可能毁掉孕育创新的沃土。AI 的解答往往发布得过于仓促，甚至没有留出足够时间去编写一份严谨且规范的论文，",
@@ -120,15 +129,6 @@
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
-    },
-    {
-      "title": "How Startups Are Using AI to Disrupt Industries",
-      "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-09-12T04:14:58.799Z",
-      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
-      "category": "Source Code",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "因 NASA 削减预算 ESA 将独立完成金星探索项目",
@@ -149,6 +149,15 @@
       "source_name": "openai"
     },
     {
+      "title": "The Future of Work in an AI-Driven World",
+      "url": "https://every.to/context-window/future-of-work",
+      "date": "2026-09-11T12:57:41.726Z",
+      "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
       "date": "Fri, 11 Sep 2026 10:00:00 GMT",
       "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
@@ -156,15 +165,6 @@
       "category": "Engineering",
       "source": "OpenAI News",
       "source_name": "openai"
-    },
-    {
-      "title": "The Future of Work in an AI-Driven World",
-      "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-09-11T04:14:58.799Z",
-      "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
@@ -185,6 +185,15 @@
       "source_name": "openai"
     },
     {
+      "title": "Building AI Products: Lessons from the Trenches",
+      "url": "https://every.to/p/building-ai-products",
+      "date": "2026-09-10T12:57:41.726Z",
+      "summary": "Practical insights from builders creating AI-powered products.",
+      "category": "Product",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
       "title": "Introducing ChatGPT for Financial Services",
       "date": "Thu, 10 Sep 2026 07:00:00 GMT",
       "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
@@ -194,18 +203,9 @@
       "source_name": "openai"
     },
     {
-      "title": "Building AI Products: Lessons from the Trenches",
-      "url": "https://every.to/p/building-ai-products",
-      "date": "2026-09-10T04:14:58.799Z",
-      "summary": "Practical insights from builders creating AI-powered products.",
-      "category": "Product",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-09-09T04:14:58.799Z",
+      "date": "2026-09-09T12:57:41.726Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -214,7 +214,7 @@
     {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-09-08T04:14:58.799Z",
+      "date": "2026-09-08T12:57:41.726Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
