@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-09-14T14:34:58.293Z",
+  "fetch_time": "2026-09-14T17:05:16.895Z",
   "articles": [
+    {
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "date": "Mon, 14 Sep 2026 12:00:00 GMT",
+      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+      "url": "https://openai.com/index/fyxer",
+      "category": "Startup"
+    },
     {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "date": "Mon, 14 Sep 2026 00:00:00 GMT",
@@ -36,13 +43,6 @@
       "date": "Thu, 10 Sep 2026 15:00:00 GMT",
       "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
       "url": "https://openai.com/index/put-data-to-work",
-      "category": "Product"
-    },
-    {
-      "title": "Introducing ChatGPT for Financial Services",
-      "date": "Thu, 10 Sep 2026 07:00:00 GMT",
-      "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
       "category": "Product"
     }
   ],
