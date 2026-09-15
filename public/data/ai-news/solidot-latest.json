@@ -1,8 +1,15 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-09-15T13:00:26.466Z",
+  "fetch_time": "2026-09-15T15:44:58.418Z",
   "articles": [
+    {
+      "title": "F-Droid 上的应用有多少是在 AI 帮助下编写的？",
+      "date": "Tue, 15 Sep 2026 12:45:43 GMT",
+      "summary": "今天有无数开发者在 LLM 帮助下编写程序，其中包括了开源开发者。那么 Android FOSS 应用商店 F-Droid 中 AI 辅助开发应用的比例有多高？一位 FOSS 维护者对 9 月 12 日 F-Droid 推送更新的 102 款应用及其代码库进行了分析，发现其中 74 款应用（72.5%）主要是 AI 编写的，10 款应用难以明确归类（9.8%）， 18 款应用几乎没有 AI 参与的迹象（17.6%）。有 4 个托管在 Codeberg 上的应用主要是 AI 编写的，而 Codeberg 最近宣布了 AI 政策，禁止了此类 AI 应用，但要清除此类应用显然需要更多时间。",
+      "url": "https://www.solidot.org/story?sid=85385",
+      "category": ""
+    },
     {
       "title": "廉价太阳能改变世界能源格局",
       "date": "Tue, 15 Sep 2026 09:19:15 GMT",
@@ -36,13 +43,6 @@
       "date": "Tue, 15 Sep 2026 06:44:22 GMT",
       "summary": "NVIDIA 宣布将于 2026 年 10 月 15—16 日在苏州举办中国开发者日。日程分为两日：首日为动手实践日，包含 2026 黑客松总决赛路演、全天实战培训及实训营，同时开放四门 Associate 级别认证现场考试；次日为主论坛，设 LLM、AI 模型与运行时、物理AI/机器人、AI基础设施四个分论坛，并举行黑客松颁奖典礼。 值得注意的细节：认证考试可在现场完成，对希望获得 NVIDIA 官方技术背书但不愿单独约考的开发者有一定吸引力。活动偏向实战而非产品宣讲，适合关注推理优化、训练基础设施和机器人方向的工程师。注册已开放，名额限制未公布，建议提早。 https://www.nvidia.cn/developer-day/?ncid=partn-270555",
       "url": "https://www.solidot.org/story?sid=85379",
-      "category": ""
-    },
-    {
-      "title": "Windows 11 的 9 月例行安全更新再次引发了大量故障",
-      "date": "Tue, 15 Sep 2026 06:29:05 GMT",
-      "summary": "微软上周推送了 9 月份的例行安全更新，修复了近千个 bug。一周后，微软证实这次更新又给用户带来了一系列新 bug：Windows 11 26H1 和 Windows Server 2012 等多个 Windows 版本的远程桌面服务（RDS）出现问题； Windows 11 26H1、25H2 和 24H2 版本对 USB Audio Class 1.0 设备的支持出现问题，受影响的用户可能会遇到无音频输出、声音设置和音量控制失效，多声道音频问题；对电子表格 Excel 的 bug 修正导致粘贴功能失效。 微软表示它正在着手修复新 bug，但没有给出修复时间。",
-      "url": "https://www.solidot.org/story?sid=85378",
       "category": ""
     }
   ],

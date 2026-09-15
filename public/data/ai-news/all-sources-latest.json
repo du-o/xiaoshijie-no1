@@ -1,9 +1,36 @@
 {
-  "fetch_time": "2026-09-15T13:00:26.467Z",
+  "fetch_time": "2026-09-15T15:44:58.419Z",
   "total_count": 30,
   "sources_count": 6,
   "errors": null,
   "articles": [
+    {
+      "title": "科氪｜荣耀发布行业首个系统级Agent Harness架构操作系统MagicOS 11  Magic9首发搭载",
+      "date": "Tue, 15 Sep 2026 15:33:15 GMT",
+      "summary": "9月15日，荣耀正式发布行业首个真正实现系统级Agent Harness架构商用落地的终端操作系统MagicOS 11。 据介绍，通过 YOYO Harness，荣耀把模型能力与手机等终端的感知、规划、工具调用和执行能力深度结合，让这套架构真正服务于消费者每天使用的场景。结合领先的端云结合的大模型能力，YOYO从回答问题的AI助理，变成了会办事的伙伴。 &nbsp;&nbsp;&nbsp; 荣耀MagicOS 11正以新架构、新交互、新体验，引领人机交互新变革。据了解，新一代YOYO具备更强大的自动执行能力，可执行的超长任务步数已达到100步以上，具备最强大的意图理解和任务拆解能力，位列行业最高的水平。YOYO任务把一连串的复杂操作压缩成你日常的一个动作，自动触发高效完成。截止发布已覆盖40个触发条件，超130个执行动作，灵活组合生成无数个可能性。YOYO任务将自动执行和主动服务融为一体，通过触发型自动执行能力，让YOYO真正成为“替你干活的人”。 &nbsp;&nbsp;&nbsp; 另据了解，自荣耀在Maigc UI 6.0上推出YOYO建议功能并开创了“主动服务”的先河至今，YO",
+      "url": "https://36kr.com/p/3984824416467976?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "豆包手机明日开卖，AI能帮你操作App了吗？",
+      "date": "Tue, 15 Sep 2026 14:32:23 GMT",
+      "summary": "文 | 李炤锋 编辑 | 张雨忻 &nbsp; 昨日，豆包手机助手发布消费者版本。这款基于豆包App（应用）、与手机厂商在操作系统层合作的AI助手，首款落地机型为中兴通讯旗下努比亚NaviX Ultra，而这款手机将在 9 月 16 日正式公开发售。 去年底，豆包手机助手技术预览版曾落地努比亚M153工程样机，重点展示AI如何跨应用“操作手机”。不到一年时间， 全新推出的消费者版本更强调日常可用性 ：除屏幕问答、本地记忆和检索外，“操作手机”功能以Beta（测试版）形式开放；豆包同时推出SAEP（屏幕自动化操作声明协议），并设置30天公示期。 根据协议，第三方应用可以自主声明是否允许AI助手执行屏幕自动化，也可以限制具体操作。30天公示期内，未明确同意接入的第三方应用默认不操作。 消费者版豆包手机助手进一步加入应用侧选择权：第三方应用可以整体拒绝GUI，也可以单独限制发布、删除和权益领取等操作。 从事GUI（图形用户界面）Agent研究的人士认为：“未来手机里肯定要有一个原生AI助手。这个事情不一定由手机厂商自己做，但最后一定要做到系统级。” 而随着NaviX Ultra和一众系统级手",
+      "url": "https://36kr.com/p/3984764117007111?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "The State of AI: A Look at What's Next",
+      "url": "https://every.to/p/the-state-of-ai",
+      "date": "2026-09-15T13:00:20.619Z",
+      "summary": "An in-depth analysis of the current AI landscape and future trends.",
+      "category": "AI Analysis",
+      "source": "Every.to",
+      "source_name": "every"
+    },
     {
       "title": "热门中概股美股盘前多数走弱，小鹏集团跌超3%",
       "date": "Tue, 15 Sep 2026 12:58:05 GMT",
@@ -41,22 +68,13 @@
       "source_name": "36kr"
     },
     {
-      "title": "小鹏全球首座兆瓦闪充站投入运营",
-      "date": "Tue, 15 Sep 2026 12:42:23 GMT",
-      "summary": "36氪获悉，9月15日，香港首座对外开放的兆瓦闪充站正式投入运营，该站由小鹏集团携手Halo共同建设，同时也是小鹏集团全球首座X‑Energy兆瓦闪充站，标志小鹏自研兆瓦闪充技术全球首次落地，并面向全品牌车主开放。",
-      "url": "https://36kr.com/newsflashes/3984656687414018?f=rss",
+      "title": "F-Droid 上的应用有多少是在 AI 帮助下编写的？",
+      "date": "Tue, 15 Sep 2026 12:45:43 GMT",
+      "summary": "今天有无数开发者在 LLM 帮助下编写程序，其中包括了开源开发者。那么 Android FOSS 应用商店 F-Droid 中 AI 辅助开发应用的比例有多高？一位 FOSS 维护者对 9 月 12 日 F-Droid 推送更新的 102 款应用及其代码库进行了分析，发现其中 74 款应用（72.5%）主要是 AI 编写的，10 款应用难以明确归类（9.8%）， 18 款应用几乎没有 AI 参与的迹象（17.6%）。有 4 个托管在 Codeberg 上的应用主要是 AI 编写的，而 Codeberg 最近宣布了 AI 政策，禁止了此类 AI 应用，但要清除此类应用显然需要更多时间。",
+      "url": "https://www.solidot.org/story?sid=85385",
       "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "华瓷股份：公司销售给潮州三环的粉体尚处于小量验证阶段，暂未实现批量供货",
-      "date": "Tue, 15 Sep 2026 12:41:59 GMT",
-      "summary": "36氪获悉，华瓷股份公告，近期市场出现涉及公司“MLCC粉体”“氧化锆业务”“无锡半导体精密陶瓷产业研讨会”“越南工厂投产”等相关题材传闻与市场解读。公司销售给潮州三环的粉体尚处于小量验证阶段，暂未实现批量供货；陶瓷新材料业务整体收入规模较小，占公司总营业收入比例为1.15%，对公司整体业绩贡献有限；越南项目尚处于投产爬坡阶段，意向订单不代表已锁定合同，相关业务均存在较大不确定性。",
-      "url": "https://36kr.com/newsflashes/3984649448012551?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
+      "source": "Solidot",
+      "source_name": "solidot"
     },
     {
       "title": "廉价太阳能改变世界能源格局",
@@ -66,15 +84,6 @@
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
-    },
-    {
-      "title": "The State of AI: A Look at What's Next",
-      "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-09-15T09:12:18.765Z",
-      "summary": "An in-depth analysis of the current AI landscape and future trends.",
-      "category": "AI Analysis",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "一款在浏览器里运行、部署在自己服务器上的 SQL 客户端",
@@ -108,15 +117,6 @@
       "date": "Tue, 15 Sep 2026 06:44:22 GMT",
       "summary": "NVIDIA 宣布将于 2026 年 10 月 15—16 日在苏州举办中国开发者日。日程分为两日：首日为动手实践日，包含 2026 黑客松总决赛路演、全天实战培训及实训营，同时开放四门 Associate 级别认证现场考试；次日为主论坛，设 LLM、AI 模型与运行时、物理AI/机器人、AI基础设施四个分论坛，并举行黑客松颁奖典礼。 值得注意的细节：认证考试可在现场完成，对希望获得 NVIDIA 官方技术背书但不愿单独约考的开发者有一定吸引力。活动偏向实战而非产品宣讲，适合关注推理优化、训练基础设施和机器人方向的工程师。注册已开放，名额限制未公布，建议提早。 https://www.nvidia.cn/developer-day/?ncid=partn-270555",
       "url": "https://www.solidot.org/story?sid=85379",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "Windows 11 的 9 月例行安全更新再次引发了大量故障",
-      "date": "Tue, 15 Sep 2026 06:29:05 GMT",
-      "summary": "微软上周推送了 9 月份的例行安全更新，修复了近千个 bug。一周后，微软证实这次更新又给用户带来了一系列新 bug：Windows 11 26H1 和 Windows Server 2012 等多个 Windows 版本的远程桌面服务（RDS）出现问题； Windows 11 26H1、25H2 和 24H2 版本对 USB Audio Class 1.0 设备的支持出现问题，受影响的用户可能会遇到无音频输出、声音设置和音量控制失效，多声道音频问题；对电子表格 Excel 的 bug 修正导致粘贴功能失效。 微软表示它正在着手修复新 bug，但没有给出修复时间。",
-      "url": "https://www.solidot.org/story?sid=85378",
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
@@ -189,6 +189,15 @@
       "source_name": "arxiv"
     },
     {
+      "title": "How Startups Are Using AI to Disrupt Industries",
+      "url": "https://every.to/source-code/ai-startups",
+      "date": "2026-09-14T13:00:20.619Z",
+      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
+      "category": "Source Code",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
       "title": "How Fyxer built an AI executive assistant people trust",
       "date": "Mon, 14 Sep 2026 12:00:00 GMT",
       "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
@@ -196,15 +205,6 @@
       "category": "Startup",
       "source": "OpenAI News",
       "source_name": "openai"
-    },
-    {
-      "title": "How Startups Are Using AI to Disrupt Industries",
-      "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-09-14T09:12:18.765Z",
-      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
-      "category": "Source Code",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -218,7 +218,7 @@
     {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-09-13T09:12:18.765Z",
+      "date": "2026-09-13T13:00:20.619Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
@@ -227,7 +227,7 @@
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-09-12T09:12:18.765Z",
+      "date": "2026-09-12T13:00:20.619Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
@@ -243,6 +243,15 @@
       "source_name": "openai"
     },
     {
+      "title": "AI Agents: The Next Evolution of Automation",
+      "url": "https://every.to/source-code/ai-agents",
+      "date": "2026-09-11T13:00:20.619Z",
+      "summary": "Understanding autonomous AI agents and their potential impact on software.",
+      "category": "Source Code",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
       "date": "Fri, 11 Sep 2026 10:00:00 GMT",
       "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
@@ -250,15 +259,6 @@
       "category": "Engineering",
       "source": "OpenAI News",
       "source_name": "openai"
-    },
-    {
-      "title": "AI Agents: The Next Evolution of Automation",
-      "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-09-11T09:12:18.765Z",
-      "summary": "Understanding autonomous AI agents and their potential impact on software.",
-      "category": "Source Code",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
@@ -281,7 +281,7 @@
     {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-09-10T09:12:18.765Z",
+      "date": "2026-09-10T13:00:20.619Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
