@@ -1,8 +1,15 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-09-16T12:57:38.273Z",
+  "fetch_time": "2026-09-16T15:36:44.488Z",
   "articles": [
+    {
+      "title": "AWS 称无法恢复中东部分可用区资源和数据的访问",
+      "date": "Wed, 16 Sep 2026 15:11:44 GMT",
+      "summary": "亚马逊云服务 AWS 称，由于其数据中心因战争受损它无法恢复中东部分可用区资源和数据的访问。AWS 通过其 AWS Health Dashboard 页面发表声明称，全面评估后它确认无法恢复巴林可用区 me-south-1 的资源和数据的访问。如果客户的数据只存放在该可用区，那么数据可能永远丢失了。亚马逊此前已建议其客户将其工作负荷迁移到其它可用区，它表示在该可用区完全无法使用前大部分客户已完成了迁移。位于阿联酋的可用区 mec1-az2 情况类似，阿联酋有三个可用区，另外两个 mec1-az1 和 mec1-az3 也受到战争影响，AWS 目前还在继续恢复这两个可用区的资源的访问。",
+      "url": "https://www.solidot.org/story?sid=85397",
+      "category": ""
+    },
     {
       "title": "FAST 发现极短周期、最轻双中子星系统",
       "date": "Wed, 16 Sep 2026 11:09:25 GMT",
@@ -36,13 +43,6 @@
       "date": "Wed, 16 Sep 2026 08:32:47 GMT",
       "summary": "互联网档案馆披露，它的时光机器（Wayback Machine）服务遭遇了大规模机器流量的持续攻击，因此不得不采取防护措施，导致正常用户在访问该服务时可能会遇到“429 错误”——代表请求过多的 HTTP 状态码。如果用户被误伤，它对此表示歉意，称正努力区分机器流量和正常用户流量。时光机器备份了互联网内容的历史存档，很多内容除了时光机器可能在其它地方都找不到了。时光机器是重要的知识库，因此也是 AI 公司和互联网公司网络爬虫重要的抓取目标。",
       "url": "https://www.solidot.org/story?sid=85392",
-      "category": ""
-    },
-    {
-      "title": "Fedora 45 Beta 释出",
-      "date": "Wed, 16 Sep 2026 07:26:30 GMT",
-      "summary": "Fedora 项目宣布释出 Fedora 45 Beta，正式版预计于 10 月 20 日释出。Fedora 45 的主要变化包括：用 kmscon 取代了内核控制台（in-kernel console），提供了更流畅的渲染，更出色的 Unicode 与字体支持，增强了系统稳定性；默认要求在安装前验证软件包签名的有效性，防止意外安装未签名的软件包；通过 oo7 标准化桌面密钥管理，取代了 GNOME Keyring 和 KWallet 等后端实现；软件方面的更新包括 GNOME 51，Go 1.27、Python 3.15、GCC 16.2、Glibc 2.44、LLVM 23、RPM 6.1 等等。",
-      "url": "https://www.solidot.org/story?sid=85391",
       "category": ""
     }
   ],

@@ -1,9 +1,45 @@
 {
-  "fetch_time": "2026-09-16T12:57:38.274Z",
+  "fetch_time": "2026-09-16T15:36:44.489Z",
   "total_count": 30,
   "sources_count": 6,
   "errors": null,
   "articles": [
+    {
+      "title": "Helping older adults use AI in everyday life",
+      "date": "Wed, 16 Sep 2026 16:00:00 GMT",
+      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "category": "Global Affairs",
+      "source": "OpenAI News",
+      "source_name": "openai"
+    },
+    {
+      "title": "AWS 称无法恢复中东部分可用区资源和数据的访问",
+      "date": "Wed, 16 Sep 2026 15:11:44 GMT",
+      "summary": "亚马逊云服务 AWS 称，由于其数据中心因战争受损它无法恢复中东部分可用区资源和数据的访问。AWS 通过其 AWS Health Dashboard 页面发表声明称，全面评估后它确认无法恢复巴林可用区 me-south-1 的资源和数据的访问。如果客户的数据只存放在该可用区，那么数据可能永远丢失了。亚马逊此前已建议其客户将其工作负荷迁移到其它可用区，它表示在该可用区完全无法使用前大部分客户已完成了迁移。位于阿联酋的可用区 mec1-az2 情况类似，阿联酋有三个可用区，另外两个 mec1-az1 和 mec1-az3 也受到战争影响，AWS 目前还在继续恢复这两个可用区的资源的访问。",
+      "url": "https://www.solidot.org/story?sid=85397",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "Reimagining advertising with AI",
+      "date": "Wed, 16 Sep 2026 13:00:00 GMT",
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "category": "Product",
+      "source": "OpenAI News",
+      "source_name": "openai"
+    },
+    {
+      "title": "The State of AI: A Look at What's Next",
+      "url": "https://every.to/p/the-state-of-ai",
+      "date": "2026-09-16T12:57:34.842Z",
+      "summary": "An in-depth analysis of the current AI landscape and future trends.",
+      "category": "AI Analysis",
+      "source": "Every.to",
+      "source_name": "every"
+    },
     {
       "title": "热门中概股美股盘前涨跌不一，理想汽车涨超2%",
       "date": "Wed, 16 Sep 2026 12:56:25 GMT",
@@ -86,15 +122,6 @@
       "source_name": "solidot"
     },
     {
-      "title": "The State of AI: A Look at What's Next",
-      "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-09-16T09:04:19.148Z",
-      "summary": "An in-depth analysis of the current AI landscape and future trends.",
-      "category": "AI Analysis",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
       "title": "SDL3 移植到 HarmonyOS / OpenHarmony",
       "date": "Wed, 16 Sep 2026 08:57:02 GMT",
       "summary": "广泛用于游戏和应用、提供跨平台软硬件抽象层的 SDL3 库已移植到华为的 HarmonyOS / OpenHarmony 操作系统。游戏工作室 Outfit7 资助了 Ryan \"Icculus\" Gordon 的移植工作。HarmonyOS 是华为开发的私有操作系统，适用于智能手机、平板电脑、 PC、智能设备等多种终端，其架构采用了微内核设计。OpenHarmony 则是 HarmonyOS 的开源版本。Icculus 透露，支持 HarmonyOS/OpenHarmony 的 SDL3 移植版本已用于部分商业游戏。",
@@ -108,15 +135,6 @@
       "date": "Wed, 16 Sep 2026 08:32:47 GMT",
       "summary": "互联网档案馆披露，它的时光机器（Wayback Machine）服务遭遇了大规模机器流量的持续攻击，因此不得不采取防护措施，导致正常用户在访问该服务时可能会遇到“429 错误”——代表请求过多的 HTTP 状态码。如果用户被误伤，它对此表示歉意，称正努力区分机器流量和正常用户流量。时光机器备份了互联网内容的历史存档，很多内容除了时光机器可能在其它地方都找不到了。时光机器是重要的知识库，因此也是 AI 公司和互联网公司网络爬虫重要的抓取目标。",
       "url": "https://www.solidot.org/story?sid=85392",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "Fedora 45 Beta 释出",
-      "date": "Wed, 16 Sep 2026 07:26:30 GMT",
-      "summary": "Fedora 项目宣布释出 Fedora 45 Beta，正式版预计于 10 月 20 日释出。Fedora 45 的主要变化包括：用 kmscon 取代了内核控制台（in-kernel console），提供了更流畅的渲染，更出色的 Unicode 与字体支持，增强了系统稳定性；默认要求在安装前验证软件包签名的有效性，防止意外安装未签名的软件包；通过 oo7 标准化桌面密钥管理，取代了 GNOME Keyring 和 KWallet 等后端实现；软件方面的更新包括 GNOME 51，Go 1.27、Python 3.15、GCC 16.2、Glibc 2.44、LLVM 23、RPM 6.1 等等。",
-      "url": "https://www.solidot.org/story?sid=85391",
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
@@ -195,9 +213,18 @@
     {
       "title": "How Startups Are Using AI to Disrupt Industries",
       "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-09-15T09:04:19.148Z",
+      "date": "2026-09-15T12:57:34.842Z",
       "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
       "category": "Source Code",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "The Future of Work in an AI-Driven World",
+      "url": "https://every.to/context-window/future-of-work",
+      "date": "2026-09-14T12:57:34.842Z",
+      "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
+      "category": "Context Window",
       "source": "Every.to",
       "source_name": "every"
     },
@@ -211,15 +238,6 @@
       "source_name": "openai"
     },
     {
-      "title": "The Future of Work in an AI-Driven World",
-      "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-09-14T09:04:19.148Z",
-      "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "date": "Mon, 14 Sep 2026 00:00:00 GMT",
       "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
@@ -231,7 +249,7 @@
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-09-13T09:04:19.148Z",
+      "date": "2026-09-13T12:57:34.842Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
@@ -240,7 +258,7 @@
     {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-09-12T09:04:19.148Z",
+      "date": "2026-09-12T12:57:34.842Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -256,38 +274,20 @@
       "source_name": "openai"
     },
     {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "date": "Fri, 11 Sep 2026 10:00:00 GMT",
-      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-      "category": "Engineering",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-09-11T09:04:19.148Z",
+      "date": "2026-09-11T12:57:34.842Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
       "source_name": "every"
     },
     {
-      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "date": "Thu, 10 Sep 2026 16:00:00 GMT",
-      "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "category": "Applied AI",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
-      "title": "Now everyone can put data to work",
-      "date": "Thu, 10 Sep 2026 15:00:00 GMT",
-      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-      "url": "https://openai.com/index/put-data-to-work",
-      "category": "Product",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "date": "Fri, 11 Sep 2026 10:00:00 GMT",
+      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "category": "Engineering",
       "source": "OpenAI News",
       "source_name": "openai"
     }

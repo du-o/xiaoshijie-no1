@@ -1,8 +1,22 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-09-16T12:57:35.140Z",
+  "fetch_time": "2026-09-16T15:36:41.879Z",
   "articles": [
+    {
+      "title": "Helping older adults use AI in everyday life",
+      "date": "Wed, 16 Sep 2026 16:00:00 GMT",
+      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "category": "Global Affairs"
+    },
+    {
+      "title": "Reimagining advertising with AI",
+      "date": "Wed, 16 Sep 2026 13:00:00 GMT",
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "category": "Product"
+    },
     {
       "title": "How Fyxer built an AI executive assistant people trust",
       "date": "Mon, 14 Sep 2026 12:00:00 GMT",
@@ -30,20 +44,6 @@
       "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
       "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
       "category": "Engineering"
-    },
-    {
-      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "date": "Thu, 10 Sep 2026 16:00:00 GMT",
-      "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "category": "Applied AI"
-    },
-    {
-      "title": "Now everyone can put data to work",
-      "date": "Thu, 10 Sep 2026 15:00:00 GMT",
-      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-      "url": "https://openai.com/index/put-data-to-work",
-      "category": "Product"
     }
   ],
   "status": "success",
