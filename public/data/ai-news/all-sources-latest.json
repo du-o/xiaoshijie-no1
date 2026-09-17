@@ -1,62 +1,109 @@
 {
-  "fetch_time": "2026-09-17T04:24:38.435Z",
+  "fetch_time": "2026-09-17T09:13:33.942Z",
   "total_count": 30,
   "sources_count": 6,
-  "errors": null,
+  "errors": [
+    "google-blog: Fetch error: HTTP 401"
+  ],
   "articles": [
     {
-      "title": "华为推出OceanStor M900 AI记忆存储",
-      "date": "Thu, 17 Sep 2026 04:23:37 GMT",
-      "summary": "在今日的华为全联接大会2026上，华为推出基于灵衢打造AI记忆存储-OceanStor M900。Agent与长序列需要多层次KV Cache架构，面向Agent推理系统，华为提出了多层KV缓存架构，推出基于灵衢UnifiedBus、支持“一跳直连”的华为L3.5层PB级KV缓存——OceanStor M900集群。同时，M900采用混合介质加优化Retention算法，可将SSD读写寿命提升16倍，从底层保障KV命中和长稳可靠。（财联社）",
-      "url": "https://36kr.com/newsflashes/3986997537700609?f=rss",
+      "title": "私募持有年内上市ETF约22亿份",
+      "date": "Thu, 17 Sep 2026 09:11:59 GMT",
+      "summary": "私募排排网数据显示，截至2026年9月17日，目前共计有141家私募管理人旗下产品，出现在190只今年以来上市ETF前十大持有人名单中，合计持有基金份额22.06亿份。（证券时报）",
+      "url": "https://36kr.com/newsflashes/3987281002839048?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "太力科技：公司半导体CMP抛光液尚处于研发验证阶段",
-      "date": "Thu, 17 Sep 2026 04:19:35 GMT",
-      "summary": "36氪获悉，太力科技在互动平台表示，目前公司半导体CMP抛光液尚处于研发验证阶段，暂无确定的交货量与交货时间。半导体材料客户验证周期较长，产品能否实现批量供货、落地时间均存在不确定性。",
-      "url": "https://36kr.com/newsflashes/3986982864845573?f=rss",
+      "title": "AI数据中心开发商利安考虑IPO，拟募资5亿美元",
+      "date": "Thu, 17 Sep 2026 09:10:37 GMT",
+      "summary": "AI数据中心开发商利安考虑IPO，拟募资5亿美元。（新浪财经）",
+      "url": "https://36kr.com/newsflashes/3987279664315400?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "阳光电源：已向客户交付几台SST，预计四季度投运",
-      "date": "Thu, 17 Sep 2026 04:14:02 GMT",
-      "summary": "36氪获悉，阳光电源在互动平台表示，公司目前已向客户交付几台SST，预计四季度投运，有望率先实现SST800V直流供电方案在真实算力场景中的带载运行。",
-      "url": "https://36kr.com/newsflashes/3986972534831874?f=rss",
+      "title": "欧元区8月通胀率同比上涨3.2%",
+      "date": "Thu, 17 Sep 2026 09:06:22 GMT",
+      "summary": "9月17日，欧盟统计局公布数据显示，欧元区8月通胀率同比上涨3.2%，高于7月的2.9%；欧盟8月通胀率同比上涨3.2%，高于7月的3.0%。去年同期，欧元区和欧盟通胀率分别为2.0%和2.4%。（界面）",
+      "url": "https://36kr.com/newsflashes/3987275485936649?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "李强：纵深开展“人工智能+制造”行动，加大对企业数智化转型引导支持力度",
-      "date": "Thu, 17 Sep 2026 04:12:58 GMT",
-      "summary": "全国先进制造业大会9月16日至17日在京召开。会上传达了习近平重要指示。中共中央政治局常委、国务院总理李强出席会议并讲话。李强指出，要聚焦重点领域综合施策、精准发力，不断提升先进制造业的创新力、竞争力、综合实力。打造产业创新驱动引擎，筑牢基础研究支撑，强化关键核心技术攻关，深化科技成果转化应用。加快新兴产业规模应用，加强未来产业前瞻布局，推动传统产业焕新升级。纵深开展“人工智能+制造”行动，加大对企业数智化转型引导支持力度，夯实智能软硬件基础。推动先进制造业和现代服务业深度融合，创新发展服务型制造。因地制宜培育壮大先进制造业集群，分类分层推动提质升级。持续深化改革开放，强化企业主体地位，加强政策和要素供给，营造良好发展环境，不断增强先进制造业发展的动力活力。（新华社）",
-      "url": "https://36kr.com/newsflashes/3986987071453954?f=rss",
+      "title": "香农芯创：与SK海力士合作关系良好稳定，对存储产品价格持谨慎乐观态度",
+      "date": "Thu, 17 Sep 2026 09:04:21 GMT",
+      "summary": "9月17日下午，香农芯创在2026年安徽上市公司投资者网上集体接待日活动中表示，目前公司经营活动正常开展，与核心供应商SK海力士合作关系良好、稳定。产品价格受供求关系等多种因素影响，公司对存储产品价格持谨慎乐观态度。（证券时报）",
+      "url": "https://36kr.com/newsflashes/3987273507666696?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "习近平就发展先进��造业作出重要指示",
-      "date": "Thu, 17 Sep 2026 04:12:23 GMT",
-      "summary": "中共中央总书记、国家主席、中央军委主席习近平近日就发展先进制造业作出重要指示指出，党的十八大以来，我国先进制造业不断发展壮大，创新力、竞争力、综合实力显著增强，制造强国建设迈出坚实步伐。习近平强调，新征程上，要以新时代中国特色社会主义思想为指导，完整准确全面贯彻新发展理念，统筹高质量发展和高水平安全，坚持智能化、绿色化、融合化方向，持续做大做强先进制造业，提升产业链自主可控水平，加快构建以先进制造业为骨干的现代化产业体系，巩固壮大实体经济根基，为推进中国式现代化提供有力支撑。（新华社）",
-      "url": "https://36kr.com/newsflashes/3986986490231558?f=rss",
+      "title": "DeepMind前研究人员创办的AI初创公司据报拟融资7亿美元，估值或达30亿美元",
+      "date": "Thu, 17 Sep 2026 09:00:50 GMT",
+      "summary": "9月17日，据报道，英国AI初创公司Emulate正洽谈融资7亿美元，投前估值约30亿美元。公司由曾在谷歌DeepMind世界模型团队工作的Jack Parker-Holder、Matthew McGill和Philip Ball创办，主要研发用于模拟和预测物理世界运行方式的AI系统。（界面）",
+      "url": "https://36kr.com/newsflashes/3987270047071236?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "IDC：二季度全球智能眼镜市场出货量同比增长35.3%",
-      "date": "Thu, 17 Sep 2026 04:09:37 GMT",
-      "summary": "36氪获悉，IDC最新数据显示，2026年第二季度全球智能眼镜市场出货量达到354.7万台，同比增长35.3%。其中，音频及音频拍摄眼镜出货量为249.4万台，同比增长54%；AR/ER眼镜出货量为50.5万台，同比增长75.7%；VR/MR头显出货量为54.8万台，同比下降23.3%。2026年上半年，全球智能眼镜市场累计出货量达到711.4万台，同比增长70.5%。本轮增长主要由眼镜形态产品推动，市场结构正逐步向更高阶和智能化方向演进。下半年，随着新品发布和技术融合，行业格局有望进一步调整，但整体需求表现还需持续观察。",
-      "url": "https://36kr.com/newsflashes/3986970319960840?f=rss",
+      "title": "云天励飞：在研芯片进展顺利，和下游市场的对接在同步进行",
+      "date": "Thu, 17 Sep 2026 08:59:06 GMT",
+      "summary": "9月17日，在半年度业绩会上，云天励飞董事长兼总经理陈宁介绍，今年以来大算力推理芯片开始迎来市场需求的爆发，公司在研芯片进展顺利，和下游市场的对接亦在同步进行。公司的下一代芯片DeepVerse是针对大模型推理应用场景设计的一系列AI推理芯片。基于DeepVerse芯片构建的智能计算产品包括加速卡、AI推理服务器、AI超节点和AI集群，支持各类大模型的高效推理和微调计算。通过系统级软硬件协同优化，这些智能计算产品提供了高效的AI推理计算平台，构建高性价比的AI推理计算基础设施。（证券时报）",
+      "url": "https://36kr.com/newsflashes/3987268353293056?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
+    },
+    {
+      "title": "人脑类器官在小鼠体内形成神经网络",
+      "date": "Thu, 17 Sep 2026 07:59:13 GMT",
+      "summary": "发表在《自然》期刊上的一项研究表明，移植到小鼠体内的人脑类器官能够重现大脑发育的某些特征，包括形成功能性神经网络，从而支持脑活动。这一成果得益于一种培育脑容量缩小的小鼠的方法。这种方法使得这些由人类细胞培养形成的三维类脑组织，即人脑类器官能够与小鼠大脑整合。该模型有望以比此前更深入的方式研究人脑组织的发育。研究结果显示，移植的类器官生长良好。它们占据了大部分空间，分化为多种人类脑细胞，组织形成了神经回路，并产生了类似大脑皮层组织的复杂结构。此外，整合形成的皮层组织可能造成了某些行为表现。研究人员将移植类器官和未移植类器官的皮层缺失小鼠进行了比较，发现它们在运动和记忆任务中的表现存在差异。",
+      "url": "https://www.solidot.org/story?sid=85405",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "商船再次安装基于风帆的推进系统",
+      "date": "Thu, 17 Sep 2026 07:31:37 GMT",
+      "summary": "被现代商船逐渐淘汰的风帆正以新的形式再次回归。散货船、油轮到集装箱船等各类商船正在安装装高耸的转子帆、刚性翼帆以及吸风式推进系统。此举并非是要将现代船舶重新变成帆船，而是让基于风帆的系统与现代推进系统协同合作，在条件允许时利用风力降低油耗。International Windship Association 协会的数据显示，已有逾百艘大型商船配备了现代风力推进系统，总载重吨位逾 500 万吨。Maersk 公司计划在一艘有 8700 个标准箱的集装箱货船上安装一座 35 米高的转子帆，预计于 2027 年在大西洋常规航线上启动测试。它有望成为第一艘安装转子帆的集装箱货船。Vale 旗下一艘载重吨位达 40 万吨的巨型矿砂船 Sohar Max 已经安装了五座 35 米高的转子帆，风帆系统将油耗降低多达 6%。韩国船舶制造公司最近宣布研究在液化天然气货船（LNG）上安装风帆系统。如果研究取得成功，那么将进一步证明风帆技术重新迈向主流。",
+      "url": "https://www.solidot.org/story?sid=85403",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "广州提议禁止公共交通内外放声音",
+      "date": "Thu, 17 Sep 2026 06:04:26 GMT",
+      "summary": "广州市人大常委会公布了《广州市噪声污染防治规定（草案修改稿·征求意见稿）》，向社会各界征求意见和建议，截止日期为 10 月 15 日。 《征求意见稿》明确，在巴士、地铁等公共交通运输工具内使用手机、平板电脑等电子设备时不得外放声音。使用电子设备外放声音的，公共交通运输工具司乘人员应当劝阻，劝阻无效的，可以向公安机关报告。 违反规定，在公共交通运输工具内使用电子设备外放声音，经公共交通运输工具司乘人员劝阻仍不改正的，由公安机关说服教育，给予警告，可以处 200 元以上 1000 元以下的罚款。",
+      "url": "https://www.solidot.org/story?sid=85402",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "卫星数据显示过去 47 年格陵兰岛和南极洲损失 12.5 万亿吨冰",
+      "date": "Thu, 17 Sep 2026 05:57:44 GMT",
+      "summary": "根据发表在《Scientific Data》期刊上的一项研究，地球暖化正加速两大冰盖的融化。卫星数据显示，自 1979 年以来格陵兰岛和南极洲损失了 12.5 万亿吨冰量。这些冰融化为 11.3 千万亿升的水，导致 1979 年以来全球海平面上升了 3.1 厘米。而海平面每上升 1 厘米，就会导致额外 200-300 万人每年面临至少一次洪水威胁。研究发现，六分之五的冰体流失并非源于气温升高，而是因为较温海水从底部和侧面侵蚀冰盖，导致冰川滑向海洋。格陵兰岛的 Jakobshavn 冰川目前每天退缩的距离达到 50 米。数据显示，1970 年代、1980 年代和 1990 年代的冰盖状况相对稳定；但随后融化现象开始出现，2010 年代显著加剧。",
+      "url": "https://www.solidot.org/story?sid=85401",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "The State of AI: A Look at What's Next",
+      "url": "https://every.to/p/the-state-of-ai",
+      "date": "2026-09-17T04:24:35.517Z",
+      "summary": "An in-depth analysis of the current AI landscape and future trends.",
+      "category": "AI Analysis",
+      "source": "Every.to",
+      "source_name": "every"
     },
     {
       "title": "Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable Publication Records",
@@ -165,33 +212,6 @@
       "source_name": "solidot"
     },
     {
-      "title": "The State of AI: A Look at What's Next",
-      "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-09-16T15:36:41.570Z",
-      "summary": "An in-depth analysis of the current AI landscape and future trends.",
-      "category": "AI Analysis",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Denuvo 起诉黑客违反 DMCA 反规避条款",
-      "date": "Wed, 16 Sep 2026 15:27:44 GMT",
-      "summary": "Denuvo 在美国加州北区联邦法院起诉了名叫 voices38 的匿名游戏破解黑客，指控其违反了 DMCA 的反规避条款。被告被控绕过了逾二十款游戏使用的 Denuvo DRM，相关游戏包括了《霍格沃茨之遗（Hogwarts Legacy）》和《黑神话：悟空》。随着诉讼的推进，Denuvo 可能会向 Reddit、Discord 和 Valve 发出传票，以获取黑客的身份信息。voices38 发布了一系列使用 Denuvo DRM 的游戏破解补丁，曾在一天之内发布了创纪录的五款 Denuvo DRM 游戏破解补丁，以至于引起了 Denuvo 公司的注意。Denuvo 称被告是一名专注于对 Denuvo DRM 游戏进行逆向工程的计算机黑客。",
-      "url": "https://www.solidot.org/story?sid=85398",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "AWS 称无法恢复中东部分可用区资源和数据的访问",
-      "date": "Wed, 16 Sep 2026 15:11:44 GMT",
-      "summary": "亚马逊云服务 AWS 称，由于其数据中心因战争受损它无法恢复中东部分可用区资源和数据的访问。AWS 通过其 AWS Health Dashboard 页面发表声明称，全面评估后它确认无法恢复巴林可用区 me-south-1 的资源和数据的访问。如果客户的数据只存放在该可用区，那么数据可能永远丢失了。亚马逊此前已建议其客户将其工作负荷迁移到其它可用区，它表示在该可用区完全无法使用前大部分客户已完成了迁移。位于阿联酋的可用区 mec1-az2 情况类似，阿联酋有三个可用区，另外两个 mec1-az1 和 mec1-az3 也受到战争影响，AWS 目前还在继续恢复这两个可用区的资源的访问。",
-      "url": "https://www.solidot.org/story?sid=85397",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
       "title": "Reimagining advertising with AI",
       "date": "Wed, 16 Sep 2026 13:00:00 GMT",
       "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
@@ -210,24 +230,6 @@
       "source_name": "openai"
     },
     {
-      "title": "FAST 发现极短周期、最轻双中子星系统",
-      "date": "Wed, 16 Sep 2026 11:09:25 GMT",
-      "summary": "天文学家利用中国天眼（500 米口径球面射电望远镜，FAST）开展大规模银道面脉冲星系统性搜寻，迄今已成功发现约 900 颗新脉冲星。通过持续后续精准观测，研究讨团队识别了一颗处于紧致轨道的双中子星系统 PSRJ1856-0039。该双中子星系统轨道周期仅 2.36 小时，在人类已知双中子星系统中位列第二短。极短的轨道周期意味着两颗中子星间距极小、双星相互绕转轨道的致密程度极高，是目前已知相对论效应表现最显著的双中子星系统之一。同时该系统刷新了人类已知双中子星质量下限，整体总质量仅为 2.488 倍太阳质量，为迄今发现的总质量最轻的双中子星组合。其中可见脉冲星质量约 1.30 倍太阳质量，伴星中子星的质量约 1.19 倍太阳质量。该系统将在约 8200 万年后发生并合，最终大概率形成一颗更大质量的中子星。",
-      "url": "https://www.solidot.org/story?sid=85396",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "Mistral 与 Mozilla 合作推出 Firefox Smart Window",
-      "date": "Wed, 16 Sep 2026 10:53:58 GMT",
-      "summary": "法国 AI 公司 Mistral 与 Mozilla 合作推出注重隐私保护的 AI 浏览助手 Firefox Smart Window(beta)。Smart Window 使用了 Mistral 的开放权重模型，能帮助用户梳理复杂搜索，记住浏览过的重要信息，根据当前标签页查找关键信息，目前主要为法国和北美用户提供服务，今年晚些时候会扩大到英国和德国用户。Smart Window 的对话内容默认不会存储在 Mozilla 的服务器上，Mistral 等合作伙伴也承诺不保留任何数据。",
-      "url": "https://www.solidot.org/story?sid=85395",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
       "title": "How workers are unlocking new ways of working",
       "date": "Wed, 16 Sep 2026 09:00:00 GMT",
       "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
@@ -239,7 +241,7 @@
     {
       "title": "How Startups Are Using AI to Disrupt Industries",
       "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-09-15T15:36:41.570Z",
+      "date": "2026-09-16T04:24:35.517Z",
       "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
       "category": "Source Code",
       "source": "Every.to",
@@ -248,7 +250,7 @@
     {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-09-14T15:36:41.570Z",
+      "date": "2026-09-15T04:24:35.517Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
@@ -266,7 +268,7 @@
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-09-13T15:36:41.570Z",
+      "date": "2026-09-14T04:24:35.517Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
@@ -275,7 +277,7 @@
     {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-09-12T15:36:41.570Z",
+      "date": "2026-09-13T04:24:35.517Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -284,7 +286,7 @@
     {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-09-11T15:36:41.570Z",
+      "date": "2026-09-12T04:24:35.517Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
