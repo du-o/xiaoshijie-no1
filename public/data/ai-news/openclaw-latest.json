@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-09-18T04:08:36.876Z",
+  "fetch_time": "2026-09-18T08:46:19.535Z",
   "articles": [
+    {
+      "title": "openclaw 2026.7.33",
+      "date": "2026-09-18T05:33:23Z",
+      "summary": "## 2026.7.33\n\nThis is the July 2026 Extended Stable release, covering the Gateway, official npm plugins, and matching Docker images.\n\n### Highlights\n\n- **Security and credential safety:** harden comma...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.33",
+      "category": "Release",
+      "author": "RomneyDa",
+      "tagName": "v2026.7.33",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.9.4",
       "date": "2026-09-11T03:46:22Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.4",
-      "downloadCount": 64228
+      "downloadCount": 65704
     },
     {
       "title": "openclaw 2026.6.35",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.3",
-      "downloadCount": 22555
+      "downloadCount": 22558
     },
     {
       "title": "openclaw 2026.9.2",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.2",
-      "downloadCount": 26889
+      "downloadCount": 26890
     },
     {
       "title": "openclaw 2026.9.1",
@@ -51,17 +61,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.1",
-      "downloadCount": 71834
-    },
-    {
-      "title": "openclaw 2026.8.2",
-      "date": "2026-09-01T16:00:56Z",
-      "summary": "## 2026.8.2\n\n### Highlights\n\n- **Your Home agent, beside your work:** open Home in a right or bottom dock with `Cmd/Ctrl+Shift+H`, keep your current page in view, and preview or remove its work-contex...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.8.2",
-      "category": "Release",
-      "author": "steipete",
-      "tagName": "v2026.8.2",
-      "downloadCount": 63614
+      "downloadCount": 71858
     }
   ],
   "status": "success",
