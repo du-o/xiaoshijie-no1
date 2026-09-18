@@ -1,8 +1,22 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-09-17T15:42:25.070Z",
+  "fetch_time": "2026-09-18T04:08:26.535Z",
   "articles": [
+    {
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "date": "Thu, 17 Sep 2026 12:00:00 GMT",
+      "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
+      "url": "https://openai.com/index/cooley-gopublic",
+      "category": ""
+    },
+    {
+      "title": "Introducing Astra for Law",
+      "date": "Thu, 17 Sep 2026 00:00:00 GMT",
+      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+      "url": "https://openai.com/index/astra-for-law",
+      "category": "Company"
+    },
     {
       "title": "Our framework for reporting model misalignment",
       "date": "Wed, 16 Sep 2026 17:00:00 GMT",
@@ -30,20 +44,6 @@
       "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
       "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
       "category": "Product"
-    },
-    {
-      "title": "How workers are unlocking new ways of working",
-      "date": "Wed, 16 Sep 2026 09:00:00 GMT",
-      "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
-      "url": "https://openai.com/index/unlocking-new-ways-of-working",
-      "category": "Global Affairs"
-    },
-    {
-      "title": "How Fyxer built an AI executive assistant people trust",
-      "date": "Mon, 14 Sep 2026 12:00:00 GMT",
-      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
-      "url": "https://openai.com/index/fyxer",
-      "category": "Startup"
     }
   ],
   "status": "success",

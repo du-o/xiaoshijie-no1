@@ -1,9 +1,167 @@
 {
-  "fetch_time": "2026-09-17T15:42:28.291Z",
+  "fetch_time": "2026-09-18T04:08:29.521Z",
   "total_count": 30,
   "sources_count": 6,
   "errors": null,
   "articles": [
+    {
+      "title": "恒指午间休盘涨0.67%，恒生科技指数涨1.74%",
+      "date": "Fri, 18 Sep 2026 04:03:11 GMT",
+      "summary": "36氪获悉，恒指午间休盘涨0.67%，恒生科技指数涨1.74%；半导体板块领涨，天数智芯涨超13%，兆易创新、纳芯微涨超7%；硬件设备板块走强，曦智科技涨超17%，江波龙、中际旭创涨超3%；可选消费板块涨幅居前，阿里巴巴涨超3%，中烟香港涨近2%，携程集团涨超1%；造纸与包装、煤炭、建材板块跌幅居前，嘉耀控股跌超5%，兖矿能源跌超2%，中国建材跌超1%；南向资金净买入31.91亿港元。",
+      "url": "https://36kr.com/newsflashes/3988393029679872?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes",
+      "date": "Fri, 18 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.19170v1 Announce Type: new Abstract: Emphatic temporal-difference learning (ETD) stabilizes the expected off-policy TD update and changes its projection geometry, but neither property determines constant-stepsize sampled dynamics. We construct an ergodic two-state counterexample in which the ETD mean map contracts while the sampled product has a positive top Lyapunov exponent. Regenerative-cycle analysis separates this sign from the infinite variance of the follow-on trace. We introdu",
+      "url": "https://arxiv.org/abs/2609.19170",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research",
+      "date": "Fri, 18 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.19180v1 Announce Type: new Abstract: Language models face unique challenges in analyzing interdisciplinary scientific research literature. In biophysics research, faithful answers require grounding observed data in source evidence, interpreting it through a quantitative physics model, and linking it to a biological mechanism. To address this challenge, we introduce BioPhys-Bridge, a novel benchmark dataset for evidence-grounded scientific reasoning over biophysical literature. Each ca",
+      "url": "https://arxiv.org/abs/2609.19180",
+      "category": [
+        "cs.AI",
+        "q-bio.QM"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks",
+      "date": "Fri, 18 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.19182v1 Announce Type: new Abstract: Benchmarks are central to how progress in large language models (LLMs) is assessed and communicated. Yet model rankings alone reveal little about how evaluation requirements themselves are changing. The expanding variety of benchmarks offers another perspective: what researchers expect LLMs to do, and what they count as successful performance. We systematically map 14,767 papers introducing or updating evaluation resources from arXiv submissions be",
+      "url": "https://arxiv.org/abs/2609.19182",
+      "category": [
+        "cs.AI",
+        "cs.CL"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Position: It is Time to Virtualize Foundation Models with a Self-evolving Operating System Layer",
+      "date": "Fri, 18 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.19203v1 Announce Type: new Abstract: AI applications have shifted from single, monolithic foundation models (FM) to compound agentic systems. Yet today's stacks remain fragmented: even as protocols (e.g., MCP, A2A) ease tool/agent connectivity, each framework embeds an implicit runtime for state, memory, budgets, and guardrails, making behavior non-portable and governance brittle. It mirrors computing before operating systems, when every program re-implemented basic services. This pos",
+      "url": "https://arxiv.org/abs/2609.19203",
+      "category": [
+        "cs.AI",
+        "cs.LG",
+        "cs.MA",
+        "cs.OS"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "What Do Current Systematic Generalization Tasks Miss? A Reasoning-Centered Analysis",
+      "date": "Fri, 18 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.19212v1 Announce Type: new Abstract: Systematic generalization, the ability to solve novel problems by recombining known atomic elements, is central to human intelligence but difficult to study rigorously under controlled settings. Existing studies therefore rely on simplifications such as approximately linear action composition, productivity-based tests, and action-explicit goals, which make systematic generalization easier to study but omit some essential aspects of this capability.",
+      "url": "https://arxiv.org/abs/2609.19212",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Characterizing Web Search by Conversational LLM Agents: From Search Decisions and Strategies to Results and Responses",
+      "date": "Fri, 18 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.19244v1 Announce Type: new Abstract: Conversational LLM agents increasingly rely on Web search, yet the end-to-end lifecycle of agentic search remains poorly understood. We present the first study of Web search across four major conversational platforms (ChatGPT, Claude, Grok, and DeepSeek), combining real-world user interactions (invivo) with controlled experiments using the same platform's models by their APIs (invitro). We investigate the quality of agentic decisions to invoke Web ",
+      "url": "https://arxiv.org/abs/2609.19244",
+      "category": [
+        "cs.AI",
+        "cs.IR"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Snap AR智能眼镜SPECS正式亮相，多项创新AI及AR体验等同步推出",
+      "date": "Fri, 18 Sep 2026 03:48:53 GMT",
+      "summary": "36氪获悉，科技公司Snap Inc.9月17日在洛杉矶正式发布新一代AR智能眼镜SPECS，同时公布一系列创新体验、服务与合作，包括AI应用SPECS Intelligence、各类场景的AR Lens 应用、面向消费者与企业的多项合作，以及SPECS蜂窝网络充电盒。",
+      "url": "https://36kr.com/newsflashes/3988378967980800?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "国泰君安期货公司增资至75亿",
+      "date": "Fri, 18 Sep 2026 03:42:52 GMT",
+      "summary": "36氪获悉，天眼查App显示，近日，国泰君安期货有限公司发生工商变更，注册资本由70亿人民币增至75亿人民币。该公司成立于2000年4月，法定代表人为张烨烨，经营范围为商品期货经纪、金融期货经纪、期货投资咨询、资产管理。股东信息显示，该公司由国泰海通证券股份有限公司全资持股。",
+      "url": "https://36kr.com/newsflashes/3988373050833669?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "36氪East Forward 2026出海全球化系列名册重磅发布",
+      "date": "Fri, 18 Sep 2026 03:38:31 GMT",
+      "summary": "&nbsp; &nbsp; “世界是平的。” 二十多年前，托马斯·弗里德曼在《世界是平的》中提到，互联网、通信技术与全球供应链正在不断削弱地理距离的限制，让企业、市场和个人以前所未有的方式连接起来。 今天，全球市场依然广阔，但企业面对的全球环境，已经变得更加复杂。 AI与数字化技术的快速发展，正在进一步降低跨境连接和协作的门槛，加速技术、信息、产品和服务在不同市场之间的流动。 与此同时，关税、地缘政治、贸易壁垒、数据合规等因素，也越来越多地进入企业的经营决策，海外市场不再只是一个可以简单叠加的增量空间。 从中国企业的视角看，这种变化尤为明显。 麦肯锡最新报告显示，2026年上半年，中国出口同比增长18%，其中中间品出口增长27%，约占同期出口增量的四分之三。此外，中国与韩国、越南等亚洲经济体之间的贸易进一步增长，全球产业链的区域联系也在发生新的变化。 对于今天的中国企业而言，“出海”正在从一个市场拓展问题，变成一个全球经营问题。如何进入一个市场，只是第一步。 更重要的是，如何理解当地用户，建立本地供应链和渠道，适应当地规则，构建组织与服务能力，并最终让业务真正留下来、持续运转。 这也是",
+      "url": "https://36kr.com/p/3988360877882121?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "国产大飞机研制新进展：C929正在稳步设计阶段",
+      "date": "Fri, 18 Sep 2026 03:33:51 GMT",
+      "summary": "截至目前，国产大飞机C919安全运行超15万小时，载客突破800万人次，通航26座城市。在第四届中国航协航空大会展区，有两个C919模型是正在研制中的新机型。一个是缩短型，可满足高原地区的民航运输需求；另一个是加长型，比已交付的机型多了近80个座位。据了解，C929正在稳步设计阶段。（央视新闻）",
+      "url": "https://36kr.com/newsflashes/3988364191775489?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "A股三大指数午间休盘集体上涨，创业板指涨超2%",
+      "date": "Fri, 18 Sep 2026 03:32:16 GMT",
+      "summary": "36氪获悉，A股三大指数午间休盘集体上涨，沪指涨1.04%，深成指涨1.52%，创业板指涨2.11%；半导体、电脑硬件、日用化工领涨，托伦斯涨停，洁雅股份涨超10%，江波龙涨超3%；汽车、煤炭、石油天然气跌幅居前，大有能源跌超2%，比亚迪跌超1%，中国海油跌0.8%。",
+      "url": "https://36kr.com/newsflashes/3988362636770052?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "微塑料像特洛伊木马一样传播有毒物质",
+      "date": "Thu, 17 Sep 2026 16:02:00 GMT",
+      "summary": "欧洲的一项研究发现，微塑料会像特洛伊木马一样在土壤中传播污染物、农药和细菌。研究人员在 11 个国家测试了 227 块农田，都发现了微塑料。研究人员还发现，微塑料可能会与农药兽药发生相互作用。瑞士的一项研究发现，轮胎磨损颗粒含量最高的农田，其有毒化学物质和金属的含量也最高。微塑料的表面能为微生物创造新的栖息地，该表面被称为塑料圈（plastisphere）。相比对照组，塑料圈内的抗生素抗性基因有所增加，农药则进一步放大了这一效应。研究人员表示，微塑料颗粒越小，越容易吸附污染物、微生物和 DNA，从而产生一种“特洛伊木马效应”，可能导致病原体和抗生素抗性基因的扩散加剧。可生物降解塑料不一定更安全，它们仍可能降解为微塑料。",
+      "url": "https://www.solidot.org/story?sid=85412",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "The State of AI: A Look at What's Next",
+      "url": "https://every.to/p/the-state-of-ai",
+      "date": "2026-09-17T15:42:24.902Z",
+      "summary": "An in-depth analysis of the current AI landscape and future trends.",
+      "category": "AI Analysis",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "德国法庭裁决 Meta 要为其平台上第三方发布的虚假广告承担责任",
+      "date": "Thu, 17 Sep 2026 15:07:19 GMT",
+      "summary": "德国一家法院周四裁定，Meta 必须对其 Instagram 和 Facebook 平台上第三方发布的虚假广告承担责任，责令 Meta 删除此类内容和支付赔偿。诉讼由一家德国金融门户网站的运营商及其创始人提起，虚假广告在推荐可疑投资项目时未经许可使用了它的 logo 和图像。该运营商在 2024 年 8 月向 Meta 举报了近 260 起违规，而 Meta 花了 62 天时间才删除部分内容。Meta 发言人表示对裁决持异议，正在考虑后续行动。法院表示，该裁决还不具有最终的法律效力，Meta 可通过提起上诉提出异议。",
+      "url": "https://www.solidot.org/story?sid=85411",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "刚果埃博拉疫情死亡人数超过 3500 人",
+      "date": "Thu, 17 Sep 2026 14:53:06 GMT",
+      "summary": "刚果民主共和国的埃博拉疫情死亡人数超过 3500 人，确诊病例超过 7400 例，逾 1700 人康复。WHO 称，疫情最严重的 Ituri 省的病毒传播速度在下降，上周报告了约 300 例新增病例和 160 例死亡病例，占全国的一半；South Kivu 省自 5 月以来未报告新增病例；North Kivu 省的传播速度在加快，过去两周的新增病例从 100 多增加到 200 多；邻国乌干达境内的传播已经遏制。WHO 宣布，埃博拉疫苗试验将在未来几周内启动，如果疫苗证明有效将会扩大其使用范围。",
+      "url": "https://www.solidot.org/story?sid=85410",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
     {
       "title": "Roman 太空望远镜有足够的燃料可服役 22 年",
       "date": "Thu, 17 Sep 2026 14:40:23 GMT",
@@ -14,67 +172,13 @@
       "source_name": "solidot"
     },
     {
-      "title": "泸天化：股东拟减持不超1%公司股份",
-      "date": "Thu, 17 Sep 2026 12:58:46 GMT",
-      "summary": "36氪获悉，泸天化公告，持股3.43%的股东中国农业银行股份有限公司宁夏回族自治区分行计划以集中竞价方式减持公司股份1568万股（占公司总股本比例1%）。",
-      "url": "https://36kr.com/newsflashes/3987489887222791?f=rss",
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "date": "Thu, 17 Sep 2026 12:00:00 GMT",
+      "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
+      "url": "https://openai.com/index/cooley-gopublic",
       "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "瓦轴B：深交所受理公司股票主动终止上市申请",
-      "date": "Thu, 17 Sep 2026 12:57:31 GMT",
-      "summary": "36氪获悉，瓦轴B公告，公司收到深交所《关于同意受理瓦房店轴承股份有限公司股票终止上市申请的函》，深交所正式受理公司股票终止上市申请。此前，公司因要约收购完成后社会公众持股比例低于10%，股权分布已不具备上市条件，于2026年9月14日提交终止上市申请。",
-      "url": "https://36kr.com/newsflashes/3987502726707975?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "The State of AI: A Look at What's Next",
-      "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-09-17T12:54:20.443Z",
-      "summary": "An in-depth analysis of the current AI landscape and future trends.",
-      "category": "AI Analysis",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "热门中概股美股盘前多数上涨，微博涨超2%",
-      "date": "Thu, 17 Sep 2026 12:51:54 GMT",
-      "summary": "36氪获悉，热门中概股美股盘前多数上涨，截至发稿，微博、富途控股涨超2%，拼多多、小鹏集团、老虎证券、名创优品涨超1%，蔚来涨0.84%；哔哩哔哩跌超1%，理想汽车跌0.5%。",
-      "url": "https://36kr.com/newsflashes/3987497203497986?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "美股大型科技股盘前普涨，英伟达涨超2%",
-      "date": "Thu, 17 Sep 2026 12:47:21 GMT",
-      "summary": "36氪获悉，美股大型科技股盘前普涨，截至发稿，SK海力士、闪迪、英特尔涨超3%，英伟达、亚马逊涨超2%，特斯拉、微软、Meta涨超1%，苹果涨0.54%，奈飞涨0.48%。",
-      "url": "https://36kr.com/newsflashes/3987492717919238?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "国际油价快速走低，布伦特原油跌幅扩大至4%",
-      "date": "Thu, 17 Sep 2026 12:38:51 GMT",
-      "summary": "36氪获悉，国际油价快速走低，布伦特原油期货跌幅扩大至4%，报101.557美元/桶。WTI原油期货价格跌2.71%，报94.865美元/桶。",
-      "url": "https://36kr.com/newsflashes/3987484370942728?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "美国上周初请失业金人数为19.6万人",
-      "date": "Thu, 17 Sep 2026 12:36:19 GMT",
-      "summary": "美国上周初请失业金人数为19.6万人，前值为20.6万人。（第一财经）",
-      "url": "https://36kr.com/newsflashes/3987481880591363?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
+      "source": "OpenAI News",
+      "source_name": "openai"
     },
     {
       "title": "今年上线的微短剧逾九成是 AI 剧",
@@ -95,101 +199,13 @@
       "source_name": "solidot"
     },
     {
-      "title": "GNOME 51 释出",
-      "date": "Thu, 17 Sep 2026 09:03:51 GMT",
-      "summary": "GNOME 桌面环境项目释出了代号为 A Coruña 的 GNOME 51，该代号旨在感谢 GUADEC 2026 的主办城市。GNOME 51 主要变化包括：Mutter 重新设计了调度和屏幕帧交付系统，即使系统处于高负荷下，动画仍然流畅；全面提升了屏幕录制性能；记住显示器的亮度设置；移除了基于 EGLStreams 的旧 NVIDIA 驱动接口支持；支持新 Wayland 协议如 ext-background-effect-v1；支持自定义指针加速配置文件；GNOME Maps 支持离线地图；GNOME Software 启动更快，GNOME File Previewer UI 重构，等等。",
-      "url": "https://www.solidot.org/story?sid=85406",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "人脑类器官在小鼠体内形成神经网络",
-      "date": "Thu, 17 Sep 2026 07:59:13 GMT",
-      "summary": "发表在《自然》期刊上的一项研究表明，移植到小鼠体内的人脑类器官能够重现大脑发育的某些特征，包括形成功能性神经网络，从而支持脑活动。这一成果得益于一种培育脑容量缩小的小鼠的方法。这种方法使得这些由人类细胞培养形成的三维类脑组织，即人脑类器官能够与小鼠大脑整合。该模型有望以比此前更深入的方式研究人脑组织的发育。研究结果显示，移植的类器官生长良好。它们占据了大部分空间，分化为多种人类脑细胞，组织形成了神经回路，并产生了类似大脑皮层组织的复杂结构。此外，整合形成的皮层组织可能造成了某些行为表现。研究人员将移植类器官和未移植类器官的皮层缺失小鼠进行了比较，发现它们在运动和记忆任务中的表现存在差异。",
-      "url": "https://www.solidot.org/story?sid=85405",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "商船再次安装基于风帆的推进系统",
-      "date": "Thu, 17 Sep 2026 07:31:37 GMT",
-      "summary": "被现代商船逐渐淘汰的风帆正以新的形式再次回归。散货船、油轮到集装箱船等各类商船正在安装高耸的转子帆、刚性翼帆以及吸风式推进系统。此举并非是要将现代船舶重新变成帆船，而是让基于风帆的系统与现代推进系统协同合作，在条件允许时利用风力降低油耗。International Windship Association 协会的数据显示，已有逾百艘大型商船配备了现代风力推进系统，总载重吨位逾 500 万吨。Maersk 公司计划在一艘有 8700 个标准箱的集装箱货船上安装一座 35 米高的转子帆，预计于 2027 年在大西洋常规航线上启动测试。它有望成为第一艘安装转子帆的集装箱货船。Vale 旗下一艘载重吨位达 40 万吨的巨型矿砂船 Sohar Max 已经安装了五座 35 米高的转子帆，风帆系统将油耗降低多达 6%。韩国船舶制造公司最近宣布研究在液化天然气货船（LNG）上安装风帆系统。如果研究取得成功，那么将进一步证明风帆技术重新迈向主流。",
-      "url": "https://www.solidot.org/story?sid=85403",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable Publication Records",
-      "date": "Thu, 17 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.17631v1 Announce Type: new Abstract: AI-assisted claims can appear authoritative when evidence, analysis, human authorization, presentation, and correction history refer to different states. Provenance, attestation, and transparency expose history but alone do not specify the publication transition examined here. We develop Publication Authority as an exact-state, non-transferable, single-use publication capability and instantiate it in PAC-2026 (Publication-Accountability Calculus), ",
-      "url": "https://arxiv.org/abs/2609.17631",
-      "category": [
-        "cs.AI",
-        "cs.CR",
-        "cs.CY"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents",
-      "date": "Thu, 17 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.17632v1 Announce Type: new Abstract: Large language model (LLM) trading agents can combine market data, news, and executable analysis, but their behavior is often controlled by static hand-written tool-use policies that are fixed before deployment. This limits their ability to adapt how they gather evidence, invoke tools, verify signals, and manage risk under changing market regimes. We introduce EvolveTrade, a self-evolving framework that treats the system prompt of a tool-using trad",
-      "url": "https://arxiv.org/abs/2609.17632",
-      "category": [
-        "cs.AI",
-        "cs.CL"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "One Color Preprocessing Improves DSATUR",
-      "date": "Thu, 17 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.17633v1 Announce Type: new Abstract: The Graph Coloring Problem (GCP) is NP-hard and DSATUR stands as one of the fastest heuristics for it despite producing colorings that typically use more colors than state-of-the-art coloring algorithms. We propose SSLD (Semidefinite Spectral Learning with DSATUR), which improves DSATUR by preprocessing a first good color class before letting DSATUR complete coloring the rest of the given graph. We obtain this color class from a Semidefinite Progra",
-      "url": "https://arxiv.org/abs/2609.17633",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Physics-Constrained Digital Twins for Sensor Integrity in Urban Pedestrian Flow: Detecting Stealthy False Data Injection with Conformal Guarantees",
-      "date": "Thu, 17 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.17635v1 Announce Type: new Abstract: City pedestrian counting systems now feed economic indicators, planning decisions and safety operations, yet the twins built on top of them treat the incoming stream as ground truth. We study what happens when it is not. We formalise stealthy false data injection for city-scale pedestrian sensing, where the map from latent flow to observation is far more rank deficient than in the power and water networks for which stealth has been characterised. O",
-      "url": "https://arxiv.org/abs/2609.17635",
-      "category": [
-        "cs.AI",
-        "cs.CR"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "What You Can't See Is Still What You Learn: A Preregistered Sixty-Society Confirmation That Evidence Masking Drives Compositional Generalization",
-      "date": "Thu, 17 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.17637v1 Announce Type: new Abstract: Restricting what a module can read may improve what a system learns to compute. We test this in a preregistered confirmation with sixty four-cell systems sharing a frozen language-model backbone and communicating through learned continuous packets. Five conditions vary evidence masking, ownership markers, and replacement of foreign evidence with neutral filler, across six initialization clusters, each with two data orders, on one fresh task world. ",
-      "url": "https://arxiv.org/abs/2609.17637",
-      "category": [
-        "cs.AI",
-        "cs.LG"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "CapMem: A Benchmark for Caption-Based Episodic Memory in Egocentric Video",
-      "date": "Thu, 17 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.17688v1 Announce Type: new Abstract: Wearable assistants require episodic memory over egocentric video, yet current vision-language models face bounded frame budgets, growing visual-token costs, and long-context retrieval failures. Under these practical constraints, we study whether textual captions can serve as reusable episodic memory. We define the Episodic Memory Video Caption QA task and introduce CapMem, a human-annotated benchmark with 75 videos totaling 33.7 hours, and 1,000 m",
-      "url": "https://arxiv.org/abs/2609.17688",
-      "category": [
-        "cs.AI",
-        "cs.CV"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
+      "title": "Introducing Astra for Law",
+      "date": "Thu, 17 Sep 2026 00:00:00 GMT",
+      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+      "url": "https://openai.com/index/astra-for-law",
+      "category": "Company",
+      "source": "OpenAI News",
+      "source_name": "openai"
     },
     {
       "title": "Our framework for reporting model misalignment",
@@ -210,6 +226,15 @@
       "source_name": "openai"
     },
     {
+      "title": "How Startups Are Using AI to Disrupt Industries",
+      "url": "https://every.to/source-code/ai-startups",
+      "date": "2026-09-16T15:42:24.902Z",
+      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
+      "category": "Source Code",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
       "title": "Reimagining advertising with AI",
       "date": "Wed, 16 Sep 2026 13:00:00 GMT",
       "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
@@ -217,15 +242,6 @@
       "category": "Product",
       "source": "OpenAI News",
       "source_name": "openai"
-    },
-    {
-      "title": "How Startups Are Using AI to Disrupt Industries",
-      "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-09-16T12:54:20.443Z",
-      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
-      "category": "Source Code",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "How to connect AI usage to business value",
@@ -237,18 +253,9 @@
       "source_name": "openai"
     },
     {
-      "title": "How workers are unlocking new ways of working",
-      "date": "Wed, 16 Sep 2026 09:00:00 GMT",
-      "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
-      "url": "https://openai.com/index/unlocking-new-ways-of-working",
-      "category": "Global Affairs",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-09-15T12:54:20.443Z",
+      "date": "2026-09-15T15:42:24.902Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
@@ -257,25 +264,16 @@
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-09-14T12:54:20.443Z",
+      "date": "2026-09-14T15:42:24.902Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
       "source_name": "every"
     },
     {
-      "title": "How Fyxer built an AI executive assistant people trust",
-      "date": "Mon, 14 Sep 2026 12:00:00 GMT",
-      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
-      "url": "https://openai.com/index/fyxer",
-      "category": "Startup",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-09-13T12:54:20.443Z",
+      "date": "2026-09-13T15:42:24.902Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -284,7 +282,7 @@
     {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-09-12T12:54:20.443Z",
+      "date": "2026-09-12T15:42:24.902Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
