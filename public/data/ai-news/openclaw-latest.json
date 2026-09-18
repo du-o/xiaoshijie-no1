@@ -1,69 +1,8 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-09-18T08:46:19.535Z",
-  "articles": [
-    {
-      "title": "openclaw 2026.7.33",
-      "date": "2026-09-18T05:33:23Z",
-      "summary": "## 2026.7.33\n\nThis is the July 2026 Extended Stable release, covering the Gateway, official npm plugins, and matching Docker images.\n\n### Highlights\n\n- **Security and credential safety:** harden comma...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.33",
-      "category": "Release",
-      "author": "RomneyDa",
-      "tagName": "v2026.7.33",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.9.4",
-      "date": "2026-09-11T03:46:22Z",
-      "summary": "<!-- openclaw-release-publication:docs-v1 -->\n\n## OpenClaw v2026.9.4\n\n20 direct commits · 1,558 pull requests · 294 contributors\n\n### Changes included in this release\n\nThe release notes and changelog ...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.9.4",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.9.4",
-      "downloadCount": 65704
-    },
-    {
-      "title": "openclaw 2026.6.35",
-      "date": "2026-09-10T06:39:30Z",
-      "summary": "## 2026.6.35\r\n\r\nThis is the final June 2026 Extended Stable (LTS) release.\r\n\r\n### Highlights\r\n\r\n- **Safer provider and channel boundaries:** bundled providers and channel adapters now bound untrusted ...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.35",
-      "category": "Release",
-      "author": "RomneyDa",
-      "tagName": "v2026.6.35",
-      "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.9.3",
-      "date": "2026-09-08T14:15:53Z",
-      "summary": "## 2026.9.3\n\n### Highlights\n\n- **Safer updates:** rehearse core and plugin changes in isolated candidate state before activation, support eligible 2026.9.2 migrations, and recover abandoned update rec...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.9.3",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.9.3",
-      "downloadCount": 22558
-    },
-    {
-      "title": "openclaw 2026.9.2",
-      "date": "2026-09-05T20:00:07Z",
-      "summary": "## 2026.9.2\n\n### Highlights\n\n- **Faster, more responsive chat:** keep chat, dashboards, and session interactions responsive while long transcripts and disk usage are processed, with direct dashboard l...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.9.2",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.9.2",
-      "downloadCount": 26890
-    },
-    {
-      "title": "openclaw 2026.9.1",
-      "date": "2026-09-03T18:31:33Z",
-      "summary": "## 2026.9.1\r\n\r\n### Highlights\r\n\r\n- **Diagrams in every chat:** Mermaid blocks now render as diagrams in the Control UI and in the native macOS, iOS, and Android apps, with enlarge previews and a retry...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.9.1",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.9.1",
-      "downloadCount": 71858
-    }
-  ],
-  "status": "success",
-  "error": null
+  "fetch_time": "2026-09-18T12:30:51.375Z",
+  "articles": [],
+  "status": "error",
+  "error": "GitHub API 请求失败: 403"
 }
