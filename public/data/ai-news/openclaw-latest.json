@@ -1,7 +1,7 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-09-19T04:05:19.908Z",
+  "fetch_time": "2026-09-19T08:32:33.306Z",
   "articles": [
     {
       "title": "openclaw 2026.9.5",
@@ -11,7 +11,17 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.5",
-      "downloadCount": 207
+      "downloadCount": 976
+    },
+    {
+      "title": "OpenClaw Linux update channel",
+      "date": "2026-09-19T05:00:44Z",
+      "summary": "Latest published Linux companion: v2026.9.5\n\n- [AppImage](https://github.com/openclaw/openclaw/releases/download/v2026.9.5/OpenClaw-2026.9.5-amd64.AppImage)\n- [Debian package](https://github.com/openc...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/linux-stable",
+      "category": "Release",
+      "author": "clawsweeper[bot]",
+      "tagName": "linux-stable",
+      "downloadCount": 11
     },
     {
       "title": "openclaw 2026.9.4",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.4",
-      "downloadCount": 71122
+      "downloadCount": 71889
     },
     {
       "title": "openclaw 2026.6.35",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.3",
-      "downloadCount": 22567
+      "downloadCount": 22569
     },
     {
       "title": "openclaw 2026.9.2",
@@ -51,17 +61,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.2",
-      "downloadCount": 26901
-    },
-    {
-      "title": "openclaw 2026.9.1",
-      "date": "2026-09-03T18:31:33Z",
-      "summary": "## 2026.9.1\r\n\r\n### Highlights\r\n\r\n- **Diagrams in every chat:** Mermaid blocks now render as diagrams in the Control UI and in the native macOS, iOS, and Android apps, with enlarge previews and a retry...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.9.1",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.9.1",
-      "downloadCount": 71970
+      "downloadCount": 26920
     }
   ],
   "status": "success",
