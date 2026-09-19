@@ -1,65 +1,8 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-09-18T15:14:55.594Z",
-  "articles": [
-    {
-      "title": "Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes",
-      "date": "Fri, 18 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.19170v1 Announce Type: new Abstract: Emphatic temporal-difference learning (ETD) stabilizes the expected off-policy TD update and changes its projection geometry, but neither property determines constant-stepsize sampled dynamics. We construct an ergodic two-state counterexample in which the ETD mean map contracts while the sampled product has a positive top Lyapunov exponent. Regenerative-cycle analysis separates this sign from the infinite variance of the follow-on trace. We introdu",
-      "url": "https://arxiv.org/abs/2609.19170",
-      "category": "cs.AI"
-    },
-    {
-      "title": "BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research",
-      "date": "Fri, 18 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.19180v1 Announce Type: new Abstract: Language models face unique challenges in analyzing interdisciplinary scientific research literature. In biophysics research, faithful answers require grounding observed data in source evidence, interpreting it through a quantitative physics model, and linking it to a biological mechanism. To address this challenge, we introduce BioPhys-Bridge, a novel benchmark dataset for evidence-grounded scientific reasoning over biophysical literature. Each ca",
-      "url": "https://arxiv.org/abs/2609.19180",
-      "category": [
-        "cs.AI",
-        "q-bio.QM"
-      ]
-    },
-    {
-      "title": "What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks",
-      "date": "Fri, 18 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.19182v1 Announce Type: new Abstract: Benchmarks are central to how progress in large language models (LLMs) is assessed and communicated. Yet model rankings alone reveal little about how evaluation requirements themselves are changing. The expanding variety of benchmarks offers another perspective: what researchers expect LLMs to do, and what they count as successful performance. We systematically map 14,767 papers introducing or updating evaluation resources from arXiv submissions be",
-      "url": "https://arxiv.org/abs/2609.19182",
-      "category": [
-        "cs.AI",
-        "cs.CL"
-      ]
-    },
-    {
-      "title": "Position: It is Time to Virtualize Foundation Models with a Self-evolving Operating System Layer",
-      "date": "Fri, 18 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.19203v1 Announce Type: new Abstract: AI applications have shifted from single, monolithic foundation models (FM) to compound agentic systems. Yet today's stacks remain fragmented: even as protocols (e.g., MCP, A2A) ease tool/agent connectivity, each framework embeds an implicit runtime for state, memory, budgets, and guardrails, making behavior non-portable and governance brittle. It mirrors computing before operating systems, when every program re-implemented basic services. This pos",
-      "url": "https://arxiv.org/abs/2609.19203",
-      "category": [
-        "cs.AI",
-        "cs.LG",
-        "cs.MA",
-        "cs.OS"
-      ]
-    },
-    {
-      "title": "What Do Current Systematic Generalization Tasks Miss? A Reasoning-Centered Analysis",
-      "date": "Fri, 18 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.19212v1 Announce Type: new Abstract: Systematic generalization, the ability to solve novel problems by recombining known atomic elements, is central to human intelligence but difficult to study rigorously under controlled settings. Existing studies therefore rely on simplifications such as approximately linear action composition, productivity-based tests, and action-explicit goals, which make systematic generalization easier to study but omit some essential aspects of this capability.",
-      "url": "https://arxiv.org/abs/2609.19212",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Characterizing Web Search by Conversational LLM Agents: From Search Decisions and Strategies to Results and Responses",
-      "date": "Fri, 18 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.19244v1 Announce Type: new Abstract: Conversational LLM agents increasingly rely on Web search, yet the end-to-end lifecycle of agentic search remains poorly understood. We present the first study of Web search across four major conversational platforms (ChatGPT, Claude, Grok, and DeepSeek), combining real-world user interactions (invivo) with controlled experiments using the same platform's models by their APIs (invitro). We investigate the quality of agentic decisions to invoke Web ",
-      "url": "https://arxiv.org/abs/2609.19244",
-      "category": [
-        "cs.AI",
-        "cs.IR"
-      ]
-    }
-  ],
+  "fetch_time": "2026-09-19T04:05:09.791Z",
+  "articles": [],
   "status": "success",
   "error": null
 }

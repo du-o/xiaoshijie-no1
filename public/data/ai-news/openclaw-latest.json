@@ -1,17 +1,17 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-09-18T15:15:09.746Z",
+  "fetch_time": "2026-09-19T04:05:19.908Z",
   "articles": [
     {
-      "title": "openclaw 2026.7.33",
-      "date": "2026-09-18T05:33:23Z",
-      "summary": "## 2026.7.33\n\nThis is the July 2026 Extended Stable release, covering the Gateway, official npm plugins, and matching Docker images.\n\n### Highlights\n\n- **Security and credential safety:** harden comma...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.33",
+      "title": "openclaw 2026.9.5",
+      "date": "2026-09-19T01:55:23Z",
+      "summary": "<!-- openclaw-release-publication:docs-v1 -->\n\n## OpenClaw v2026.9.5\n\n64 direct commits · 4,179 pull requests · 503 contributors\n\n### Changes included in this release\n\nThe release notes and changelog ...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.9.5",
       "category": "Release",
-      "author": "RomneyDa",
-      "tagName": "v2026.7.33",
-      "downloadCount": 0
+      "author": "github-actions[bot]",
+      "tagName": "v2026.9.5",
+      "downloadCount": 207
     },
     {
       "title": "openclaw 2026.9.4",
@@ -21,7 +21,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.4",
-      "downloadCount": 67783
+      "downloadCount": 71122
     },
     {
       "title": "openclaw 2026.6.35",
@@ -41,7 +41,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.3",
-      "downloadCount": 22562
+      "downloadCount": 22567
     },
     {
       "title": "openclaw 2026.9.2",
@@ -51,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.2",
-      "downloadCount": 26892
+      "downloadCount": 26901
     },
     {
       "title": "openclaw 2026.9.1",
@@ -61,7 +61,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.1",
-      "downloadCount": 71908
+      "downloadCount": 71970
     }
   ],
   "status": "success",
