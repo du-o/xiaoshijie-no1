@@ -1,8 +1,22 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-09-20T04:24:14.699Z",
+  "fetch_time": "2026-09-20T09:04:42.540Z",
   "articles": [
+    {
+      "title": "学习新语言可能是老年人保持大脑健康的最佳方法",
+      "date": "Sun, 20 Sep 2026 07:32:09 GMT",
+      "summary": "学习另一门语言是一项高度复杂的脑力活动。它要求人们记忆单词、分辨陌生的声音、识别语言规律、推敲语法规则，在恰当的时刻提取出正确的表达。而这一切，都在人们进行倾听、理解并准备回应的同时发生。这些脑力活动也能帮助保持衰老大脑的健康吗？研究表明，答案是肯定的。愈来愈多的研究表明，语言学习和双语能力能带来认知上的益处——对老年人而言同样如此。学习另一门语言还能为沟通和社会交往创造机会。神经可塑性让大脑在一生中都具备保持改变的能力。学习陌生的语音、词汇和语法结构需要大脑形成并巩固神经连接。语言学习能同时调动多种心理过程，要求人们吸收并提取信息、察觉问题并及时调整。这种持续的脑力付出，使语言学习成为一种极其丰富的认知锻炼形式。研究表明，双语者的灰质密度更高，白质完整性更强。这表明，语言经验不仅会体现在大脑的活动中，也会反映在大脑的结构上。还有研究发现，患上痴呆症的双语者更晚出现症状。这表明，双语能力可能对大脑衰老的影响有一定的保护作用，但它不一定能预防痴呆症或相关的大脑变化。",
+      "url": "https://www.solidot.org/story?sid=85428",
+      "category": ""
+    },
+    {
+      "title": "北美最大动物通道将动物车祸事故减少 91%",
+      "date": "Sun, 20 Sep 2026 06:43:32 GMT",
+      "summary": "通过美国科罗拉多州 Douglas 县和 El Paso 县的 I-25 高速公路多年来一直阻碍着动物的季节性迁徙，这条公路是许多动物的死亡之路。如今北美最大的野生动物专用通道将动物碰撞事故减少 91%。这条通道由跨越 I-25 的天桥，五条野生动物地下通道以及引导动物前往通道的围栏构成。天桥本身长 209 英尺、宽 200 英尺，于去年 12 月完工，整个工程耗资 1500 万美元。科罗拉多州交通部环境经理 Chuck Attardo 指出，减少野生动物碰撞事故不仅能挽救人类和动物的生命，还能避免财产损失、节省公共服务开支并减少交通延误。",
+      "url": "https://www.solidot.org/story?sid=85427",
+      "category": ""
+    },
     {
       "title": "大脑由两个不同的器官构成",
       "date": "Sat, 19 Sep 2026 16:40:02 GMT",
@@ -13,7 +27,7 @@
     {
       "title": "Android 17 QPR1 引入了 Pixel 暂时独占的新 API",
       "date": "Sat, 19 Sep 2026 15:53:08 GMT",
-      "summary": "Android 安全加固项目 GrapheneOS 披露，Google 向其旗舰手机 Pixel 推送了 QPR1 更新，引入了新 API。而这些 API 没有提供给 Android 开源项目(AOSP)，这是自 Android Honeycomb (3.x) 以来从未有过的情况。新 API 为 Pixel 限时独占，其它 Android OEM 厂商无法获得。Google 现在只向 AOSP 项目提供年度版本和第二个季度更新版本 QPR2，第一个和第三个季度更新版本 QPR1 和 QPR3 都是 Pixel 独占。新 API 将通过 2026 年 12 月释出的 QPR2 提供给 AOSP 和 OEM 厂商。GrapheneOS 称，Pixel 通过固件移除了对安全特性 MTE 的支持，但硬件上仍然保留了 MTE。GrapheneOS 再次抱怨它对 Pixel 的支持变得日益困难，称与摩托罗拉的合作会更顺利。",
+      "summary": "Android 安全加固项目 GrapheneOS 披露，Google 向其旗舰手机 Pixel 推送了 Android 17 QPR1 更新，引入了新 API。而这些 API 没有提供给 Android 开源项目(AOSP)，这是自 Android Honeycomb (3.x) 以来从未有过的情况。新 API 为 Pixel 限时独占，其它 Android OEM 厂商无法获得。Google 现在只向 AOSP 项目提供年度版本和第二个季度更新版本 QPR2，第一个和第三个季度更新版本 QPR1 和 QPR3 都是 Pixel 独占。新 API 将通过 2026 年 12 月释出的 QPR2 提供给 AOSP 和 OEM 厂商。GrapheneOS 称，Pixel 通过固件移除了对安全特性 MTE 的支持，但硬件上仍然保留了 MTE。GrapheneOS 再次抱怨它对 Pixel 的支持变得日益困难，称与摩托罗拉的合作会更顺利。",
       "url": "https://www.solidot.org/story?sid=85425",
       "category": ""
     },
@@ -29,20 +43,6 @@
       "date": "Fri, 18 Sep 2026 16:11:37 GMT",
       "summary": "根据内部文件，微软应用科学总监 Brent Hecht 警告，抓取新闻内容训练 AI 是一次规模空前的盗窃，可能是人类历史上最大规模的劳动成果盗窃。他不认为抓取新闻内容训练 AI 是合理使用，认为这种做法完全是对合理使用理念的嘲弄。微软的另一份文件认为会形成“恶性循环”，会同时伤害模型和整个 Web。OpenAI 的产品如 ChatGPT 可能会危及新闻出版商的经济基础。OpenAI 和微软的数据都显示这一预测是正确的。微软的数据指出，部分新闻出版商网站的点击率下降了 83%-93%，其它新闻机构的点击率下降了 51%-94%。Hecht 承认，“几乎没有人希望自己创作的内容被以这种方式使用，也没有人因此获得报酬。”微软 CEO 纳德拉(Satya Nadella)在作证时表示，AI 公司不应该通过绕过付费墙违反新闻网站的使用条款。但 OpenAI 的内部信息显示，当一名员工通知总裁 Greg Brockman OpenAI 爬虫找到了绕过《纽约时报》付费墙的漏洞时，Brockman 表示好极了。",
       "url": "https://www.solidot.org/story?sid=85423",
-      "category": ""
-    },
-    {
-      "title": "85% 的日本游戏开发者在工作中使用生成式 AI",
-      "date": "Fri, 18 Sep 2026 15:48:43 GMT",
-      "summary": "日本计算机娱乐协会（Computer Entertainment Supplier's Association ）的年度行业报告《Video Game Industry Report》显示，85.8% 的日本游戏开发者在工作中使用生成式 AI——63% 的开发者表示每天都在使用，22.8% 的开发者则是偶尔使用，去年这一比例是 51%。开发者使用生成式 AI 最主要是为了“改进运营效率与生产力”，其次是“缩短开发周期”以及“降低开发与运营成本”。多数受访者表示不会直接使用 AI 生成内容。报告称，AI 最常见用途是生成视觉素材和图像，其次是故事和文本生成，最后是编程辅助。32% 的游戏公司利用 AI 协助开发自研游戏引擎。Capcom 工程师称，AI 技术主要是用于减少“日常任务”，称最聪明的 AI 在感性上也无法与创作者相比拟。",
-      "url": "https://www.solidot.org/story?sid=85422",
-      "category": ""
-    },
-    {
-      "title": "安全研究人员利用 Claude 成功入侵 OpenAI ",
-      "date": "Fri, 18 Sep 2026 15:17:50 GMT",
-      "summary": "Hacktron 安全团队组合利用 OpenAI 的 SSO（单点登录）配置错误以及其社区论坛使用的 Discourse 软件 libheif 软件包堆缓冲区溢出漏洞，成功控制了多名 OpenAI 员工的 ChatGPT 账户。利用这些账户安全研究人员能访问 OpenAI 内部代码库，以及其他关联服务。他们向 OpenAI 和 Discourse 报告了 bug，从 OpenAI 获得了 6500 美元的赏金。安全研究人员利用了 OpenAI 竞争对手 Anthropic 的 Claude AI 工具去辅助发现 bug，以及实现远程代码执行 RCE。他们一开始使用的是较旧的模型 Opus 4.8，之后使用了新发布的 Opus 5.5。整个 AI 辅助 bug 发现和辅助攻击消耗的 token 支出不到 3000 美元，AI 智能体花费了数天时间，而研究人员投入的人工时间仅仅数小时，凸显了 AI 时代黑客攻击成本的低廉。",
-      "url": "https://www.solidot.org/story?sid=85421",
       "category": ""
     }
   ],
