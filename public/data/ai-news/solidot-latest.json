@@ -1,8 +1,15 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-09-21T14:42:21.509Z",
+  "fetch_time": "2026-09-21T17:14:14.285Z",
   "articles": [
+    {
+      "title": "Googlebooks 于 10 月 4 日上市，最低 899 美元",
+      "date": "Mon, 21 Sep 2026 14:32:25 GMT",
+      "summary": "深度集成 Gemini、运行 Android 的笔记本电脑 Googlebooks 将于 10 月 4 日上市。Google 硬件合作伙伴中除了宏碁推出一款起售价 899 美元的型号外，其余厂商的产品都超过 1000 美元。Googlebook 不同于 Chromebook 面向低端市场，它面向的是中端笔记本电脑市场。Googlebooks 的 Continue On 功能允许用户在手机或 Googlebook 之间无缝切换，但需要应用开发者支持；Cast My Apps 可以直接在 Googlebook 上使用 Android 手机已安装应用；Play Store 是 Googlebook 获取应用的主要渠道，侧载受到了限制，只能安装运行已通过 Google 验证身份的开发者的应用；通过深度集成 Gemini Intelligence，用户仅仅移动光标就能激活被称为“Magic Pointer”的 AI 功能，AI 会分析屏幕上的内容，根据上下文提供建议，能从多个应用中提取数据。比如将光标指向电邮中的日期即可创建日历预约。",
+      "url": "https://www.solidot.org/story?sid=85446",
+      "category": ""
+    },
     {
       "title": "AI 聊天机器人经常给出错误的财务问题答案",
       "date": "Mon, 21 Sep 2026 13:39:37 GMT",
@@ -36,13 +43,6 @@
       "date": "Mon, 21 Sep 2026 07:51:48 GMT",
       "summary": "日本总务省公布的人口推算数据显示，截至 9 月 15 日，日本 65 岁以上老年人口较上年增加 2 万人，达到 3624 万人。老年人口时隔两年再次增加，在总人口中的占比为 29.6%，刷新历史最高纪录。截至 2025 年，日本 65 岁以上就业人数达到 943 万人，连续 22 年增加，创历史新高。按性别来看，日本的男性老年人口为 1571 万人，女性为 2054 万人。2025 年死亡老年人口多于新满 65 岁的人数，日本的老年人口总数有所减少，但 2026 年再次转为增加。",
       "url": "https://www.solidot.org/story?sid=85441",
-      "category": ""
-    },
-    {
-      "title": "通过广告收集器 ChatGPT 知道你在其它网站的活动",
-      "date": "Mon, 21 Sep 2026 07:39:27 GMT",
-      "summary": "OpenAI 在 bzr.openai.com 上的广告收集器会设置名为 __obi、作用域为 .openai.com 的 Cookie。该 Cookie 的值在用户访问 ChatGPT 期间生效，并与用户的 ChatGPT 账户绑定。随后，__obi 会从用户访问的其它网站发送回 OpenAI。任何在 ChatGPT 上购买广告的公司，都会在其自己的网站上添加一小段 OpenAI 代码，其方式与添加 Meta 和 Google 跟踪代码的方式相同。加载该代码会将 __obi 以及有关用户浏览页面的数据（包括搜索的产品、正在阅读的文章以及购买行为）发送给 OpenAI。OpenAI 可将用户在这些网站上的行为与其 ChatGPT 账户关联起来。通过广告收集器 ChatGPT 知道你在其它网站的活动。",
-      "url": "https://www.solidot.org/story?sid=85440",
       "category": ""
     }
   ],
