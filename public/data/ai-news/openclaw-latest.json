@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-09-21T09:36:44.781Z",
+  "fetch_time": "2026-09-21T14:42:29.700Z",
   "articles": [
+    {
+      "title": "openclaw 2026.7.35",
+      "date": "2026-09-21T13:14:04Z",
+      "summary": "## 2026.7.35\n\n### Fixes\n\n- **Doctor plugin registry:** preserve the complete bundled plugin inventory when Doctor creates or repairs registry state, so default Browser, Canvas, pairing, file-transfer,...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.35",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.7.35",
+      "downloadCount": 36
+    },
     {
       "title": "openclaw 2026.9.5",
       "date": "2026-09-19T01:55:23Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.5",
-      "downloadCount": 25679
+      "downloadCount": 28105
     },
     {
       "title": "OpenClaw Linux update channel",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "clawsweeper[bot]",
       "tagName": "linux-stable",
-      "downloadCount": 30
+      "downloadCount": 32
     },
     {
       "title": "openclaw 2026.9.4",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.4",
-      "downloadCount": 72316
+      "downloadCount": 72349
     },
     {
       "title": "openclaw 2026.6.35",
@@ -51,17 +61,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.3",
-      "downloadCount": 22604
-    },
-    {
-      "title": "openclaw 2026.9.2",
-      "date": "2026-09-05T20:00:07Z",
-      "summary": "## 2026.9.2\n\n### Highlights\n\n- **Faster, more responsive chat:** keep chat, dashboards, and session interactions responsive while long transcripts and disk usage are processed, with direct dashboard l...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.9.2",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.9.2",
-      "downloadCount": 27177
+      "downloadCount": 22605
     }
   ],
   "status": "success",
