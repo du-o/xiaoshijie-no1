@@ -1,8 +1,22 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-09-22T09:01:18.883Z",
+  "fetch_time": "2026-09-22T12:57:33.478Z",
   "articles": [
+    {
+      "title": "为躲避亿万富翁税 Larry Page 等人迁出加州",
+      "date": "Tue, 22 Sep 2026 10:08:01 GMT",
+      "summary": "对加州亿万富翁征收一次性 5% 税的提案 Initiative Number 25-0024 将在 11 月 3 日进行公投。胡佛研究所的研究显示，面临征税的亿万富翁们已有近三成迁出加州。Larry Page 在迈阿密 Coconut Grove 购买了两栋临水豪宅，总价 1.73 亿美元，同时将家族办公室 Koop 从加州转到注册地特拉华州、办公地址佛罗里达的公司。Sergey Brin 在迈阿密 Allison Island 购买了一栋价值 5100 万美元的临水豪宅，将内华达州登记为正式居住地，他资助了反对征税的政治行动委员会 Building a Better California。Peter Thiel 在 2025 年 12 月将其家族投资公司从加州迁至迈阿密。英伟达 CEO 黄仁宇则是少数公开表示会纳税的亿万富翁，他预计将缴纳 80 亿美元的税。",
+      "url": "https://www.solidot.org/story?sid=85453",
+      "category": ""
+    },
+    {
+      "title": "NASA 火星样本采集送回任务终止",
+      "date": "Tue, 22 Sep 2026 08:59:51 GMT",
+      "summary": "美国国会的预算法案取消了对 NASA 火星样本采集送回任务 Mars Sample Return(MSR)的资助，虽然该法案还需要通过国会两院的批准以及总统的签署才会生效，但实际上代表着 MSR 计划的终止。MSR 计划因为不断膨胀的成本而备受争议，2024 年其成本膨胀至 110 亿美元，如果推行将占用大部分 NASA 科学预算。2025 年 NASA 设法将项目成本降至 70 亿美元，但费用仍然过高，而 NASA 同时正面临特朗普政府削减科学预算的挑战。MSR 项目的终止意味着火星漫游车毅力号收集的样本无法送回样地球实验室进行分析。",
+      "url": "https://www.solidot.org/story?sid=85452",
+      "category": ""
+    },
     {
       "title": "6 岁女孩打破女子三阶魔方还原世界纪录",
       "date": "Tue, 22 Sep 2026 07:20:38 GMT",
@@ -29,20 +43,6 @@
       "date": "Mon, 21 Sep 2026 16:26:43 GMT",
       "summary": "Google 因地理位置数据处理被爱尔兰数据保护委员会（DPC）罚款 4.03 亿欧元。DPC 对 Google 的调查持续了六年，涉及 Google 在 2018 年 5 月 25 日至 2020 年 2 月 4 日间 Web &amp; App Activity、Location History 和 Location Accuracy 三项功能的位置数据处理。DPC 的报告认为 Google 的位置数据处理违反了 2018 年生效的数据保护法律 GDPR，可能导致用户未意识到自己的位置信息正被用于投放定向广告或推断其兴趣偏好，丧失对自己个人数据的控制权。Google 发表声明，表示它从 2019 年起就调整了位置数据管理。引入了位置数据自动删除功能。",
       "url": "https://www.solidot.org/story?sid=85447",
-      "category": ""
-    },
-    {
-      "title": "Googlebooks 于 10 月 4 日上市，最低 899 美元",
-      "date": "Mon, 21 Sep 2026 14:32:25 GMT",
-      "summary": "深度集成 Gemini、运行 Android 的笔记本电脑 Googlebooks 将于 10 月 4 日上市。Google 硬件合作伙伴中除了宏碁推出一款起售价 899 美元的型号外，其余厂商的产品都超过 1000 美元。Googlebook 不同于 Chromebook 面向低端市场，它面向的是中端笔记本电脑市场。Googlebooks 的 Continue On 功能允许用户在手机或 Googlebook 之间无缝切换，但需要应用开发者支持；Cast My Apps 可以直接在 Googlebook 上使用 Android 手机已安装应用；Play Store 是 Googlebook 获取应用的主要渠道，侧载受到了限制，只能安装运行已通过 Google 验证身份的开发者的应用；通过深度集成 Gemini Intelligence，用户仅仅移动光标就能激活被称为“Magic Pointer”的 AI 功能，AI 会分析屏幕上的内容，根据上下文提供建议，能从多个应用中提取数据。比如将光标指向电邮中的日期即可创建日历预约。",
-      "url": "https://www.solidot.org/story?sid=85446",
-      "category": ""
-    },
-    {
-      "title": "AI 聊天机器人经常给出错误的财务问题答案",
-      "date": "Mon, 21 Sep 2026 13:39:37 GMT",
-      "summary": "Saturn 的一项研究显示，ChatGPT、Claude、Copilot、Grok 和 Gemini 等主流 AI 模型在回答财务相关问题时，平均有 57% 会给出错误答案。研究使用了逾百个财务相关问题，分别测试了 ChatGPT、Gemini、Claude 和 Copilot 提供的免费及付费 AI 模型。每个问题最多重复提问五次，向 18 种 AI 模型共提出了逾 10,000 个问题。研究发现，AI 模型的回答中包含计算错误、遗漏即将实施的税收政策变更，或是凭空捏造规则（即幻觉）。在最严重的情况下，依赖 AI 对税务问题的回答可能导致严重的经济损失。研究发现，付费模型的回答比免费模型更准确，较新的模型表现优于较旧的模型。表现最好的是推理模式的 Claude Opus 5，但仍然有 39% 的答案存在错误。",
-      "url": "https://www.solidot.org/story?sid=85445",
       "category": ""
     }
   ],
