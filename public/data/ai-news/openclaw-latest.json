@@ -1,17 +1,17 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-09-21T17:14:21.998Z",
+  "fetch_time": "2026-09-22T04:17:45.759Z",
   "articles": [
     {
       "title": "openclaw 2026.7.35",
       "date": "2026-09-21T13:14:04Z",
-      "summary": "## 2026.7.35\n\n### Fixes\n\n- **Doctor plugin registry:** preserve the complete bundled plugin inventory when Doctor creates or repairs registry state, so default Browser, Canvas, pairing, file-transfer,...",
+      "summary": "This is a gateway-only `extended-stable` release, which is our current equivalent to LTS. This release is OpenClaw from the end of July 2026, plus critical security updates, reliability and performanc...",
       "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.35",
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.7.35",
-      "downloadCount": 63
+      "downloadCount": 169
     },
     {
       "title": "openclaw 2026.9.5",
@@ -21,7 +21,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.5",
-      "downloadCount": 29189
+      "downloadCount": 33525
     },
     {
       "title": "OpenClaw Linux update channel",
@@ -31,7 +31,7 @@
       "category": "Release",
       "author": "clawsweeper[bot]",
       "tagName": "linux-stable",
-      "downloadCount": 33
+      "downloadCount": 34
     },
     {
       "title": "openclaw 2026.9.4",
@@ -41,7 +41,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.4",
-      "downloadCount": 72367
+      "downloadCount": 72388
     },
     {
       "title": "openclaw 2026.6.35",
@@ -61,7 +61,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.3",
-      "downloadCount": 22627
+      "downloadCount": 22687
     }
   ],
   "status": "success",

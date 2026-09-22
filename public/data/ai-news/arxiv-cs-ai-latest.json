@@ -1,39 +1,39 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-09-21T17:14:09.883Z",
+  "fetch_time": "2026-09-22T04:17:35.407Z",
   "articles": [
     {
       "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
-      "date": "Mon, 21 Sep 2026 04:00:00 GMT",
+      "date": "Tue, 22 Sep 2026 04:00:00 GMT",
       "summary": "arXiv:2609.20971v1 Announce Type: new Abstract: Long-context large language model inference is increasingly limited by prefill, where dense self-attention processes the entire prompt before generation begins. Sparse block selection can reduce this cost, but a block centroid may hide a highly relevant token among many irrelevant ones. We call this failure mode mean dilution and propose RBS-Attention, a training-free sparse-prefill method with two complementary selection branches. A centroid base ",
       "url": "https://arxiv.org/abs/2609.20971",
       "category": "cs.AI"
     },
     {
       "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
-      "date": "Mon, 21 Sep 2026 04:00:00 GMT",
+      "date": "Tue, 22 Sep 2026 04:00:00 GMT",
       "summary": "arXiv:2609.20974v1 Announce Type: new Abstract: In Mixture-of-Experts language models, the router typically selects and weights experts based on the token's hidden state, utilizing limited contextual information. We propose Attention-Aware Routing (AAR), which augments the router with temporal and spectral features extracted from a sliding window of attention weights that represent a summary of the model's contextual state, disentangled from the hidden state. Keeping the base transformer entirel",
       "url": "https://arxiv.org/abs/2609.20974",
       "category": "cs.AI"
     },
     {
       "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
-      "date": "Mon, 21 Sep 2026 04:00:00 GMT",
+      "date": "Tue, 22 Sep 2026 04:00:00 GMT",
       "summary": "arXiv:2609.20981v1 Announce Type: new Abstract: Autoregressive (AR) models suffer from local greediness, while diffusion language models (DLMs) often lack the strict causal structure required for reasoning. To combine the advantages and overcome the drawbacks of the dual, we propose Causal Latent Revision (CaLR), a framework that reformulates reasoning as constrained latent optimization. By adopting a causal topology matrix (CTM) from an expert model and implicit differentiation, CaLR performs g",
       "url": "https://arxiv.org/abs/2609.20981",
       "category": "cs.AI"
     },
     {
       "title": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers",
-      "date": "Mon, 21 Sep 2026 04:00:00 GMT",
+      "date": "Tue, 22 Sep 2026 04:00:00 GMT",
       "summary": "arXiv:2609.21061v1 Announce Type: new Abstract: Automatic target recognition (ATR) with synthetic aperture sonar (SAS) supports advanced naval capabilities, but deep learning is constrained by scarce target imagery, background clutter, and human-in-the-loop assessment. We adapt DINOv3 Vision Transformer (ViT) models to underwater SAS ATR using a three-stage parameter-efficient framework. Stage 1 uses Low-Rank Adaptation (LoRA) while freezing the ViT backbone, bridging the gap between natural-ima",
       "url": "https://arxiv.org/abs/2609.21061",
       "category": "cs.AI"
     },
     {
       "title": "Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing",
-      "date": "Mon, 21 Sep 2026 04:00:00 GMT",
+      "date": "Tue, 22 Sep 2026 04:00:00 GMT",
       "summary": "arXiv:2609.21096v1 Announce Type: new Abstract: In this work, we examine the topology of information flow patterns within attention graphs to effectively distinguish hallucinated from non-hallucinated responses. We analyze the Forman-Ricci curvature to identify structural patterns indicating information bottlenecks in attention graphs. We then introduce a method that captures both semi-local and global information-flow characteristics of attention heads associated with hallucinated responses. We",
       "url": "https://arxiv.org/abs/2609.21096",
       "category": [
@@ -44,7 +44,7 @@
     },
     {
       "title": "Decoupling Internal Representational Changes and Causal Importance in Fine-Tuned Large Language Models",
-      "date": "Mon, 21 Sep 2026 04:00:00 GMT",
+      "date": "Tue, 22 Sep 2026 04:00:00 GMT",
       "summary": "arXiv:2609.21113v1 Announce Type: new Abstract: Fine-tuning has emerged as a widely adopted approach for adapting LLMs to a variety of downstream tasks. However, how it reshapes their internal mechanisms remains poorly understood. To address this, we investigate how fine-tuning alters internal representations in LLMs, including attention patterns and layer-wise activations, and examine whether these changes are linked to task-relevant components identified by EAP (e.g., attention heads and logit",
       "url": "https://arxiv.org/abs/2609.21113",
       "category": "cs.AI"
