@@ -1,9 +1,18 @@
 {
-  "fetch_time": "2026-09-22T12:57:33.479Z",
+  "fetch_time": "2026-09-22T15:47:12.931Z",
   "total_count": 30,
   "sources_count": 6,
   "errors": null,
   "articles": [
+    {
+      "title": "The State of AI: A Look at What's Next",
+      "url": "https://every.to/p/the-state-of-ai",
+      "date": "2026-09-22T12:57:28.965Z",
+      "summary": "An in-depth analysis of the current AI landscape and future trends.",
+      "category": "AI Analysis",
+      "source": "Every.to",
+      "source_name": "every"
+    },
     {
       "title": "预测市场平台Kalshi申请推出保证金交易，允许用户用借贷资金交易",
       "date": "Tue, 22 Sep 2026 12:56:28 GMT",
@@ -59,6 +68,15 @@
       "source_name": "36kr"
     },
     {
+      "title": "天文学家发现已知最年轻行星",
+      "date": "Tue, 22 Sep 2026 11:19:58 GMT",
+      "summary": "天文学家发现了已知最年轻的行星——Elias 2-24 b。这颗不到 100 万年的木星大小行星仍被其形成时的气体和尘埃包围。其令人惊讶的形成速度挑战了关于巨行星如何形成的主流理论。现有的行星形成理论认为，一颗大质量行星不可能形成地如此迅速，尤其是在距离恒星如此遥远的地方。当前模型表明，在太阳系中木星的位置形成一颗木星大小的行星大约需要 500 万年，那么距恒星更远的巨行星形成时间应该更长。然而 Elias 2-24 系统中这个微弱天体到恒星的距离约为地球到太阳距离的 55 倍，而且已经显示出行星形成的迹象。Elias 2-24 b的质量与木星相当，围绕一颗距离地球约 450 光年的恒星运行。由于该系统还很年轻，天文学家通过研究它可以一瞥数十亿年前太阳系的样子。",
+      "url": "https://www.solidot.org/story?sid=85454",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
       "title": "为躲避亿万富翁税 Larry Page 等人迁出加州",
       "date": "Tue, 22 Sep 2026 10:08:01 GMT",
       "summary": "对加州亿万富翁征收一次性 5% 税的提案 Initiative Number 25-0024 将在 11 月 3 日进行公投。胡佛研究所的研究显示，面临征税的亿万富翁们已有近三成迁出加州。Larry Page 在迈阿密 Coconut Grove 购买了两栋临水豪宅，总价 1.73 亿美元，同时将家族办公室 Koop 从加州转到注册地特拉华州、办公地址佛罗里达的公司。Sergey Brin 在迈阿密 Allison Island 购买了一栋价值 5100 万美元的临水豪宅，将内华达州登记为正式居住地，他资助了反对征税的政治行动委员会 Building a Better California。Peter Thiel 在 2025 年 12 月将其家族投资公司从加州迁至迈阿密。英伟达 CEO 黄仁宇则是少数公开表示会纳税的亿万富翁，他预计将缴纳 80 亿美元的税。",
@@ -66,15 +84,6 @@
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
-    },
-    {
-      "title": "The State of AI: A Look at What's Next",
-      "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-09-22T09:01:15.297Z",
-      "summary": "An in-depth analysis of the current AI landscape and future trends.",
-      "category": "AI Analysis",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "NASA 火星样本采集送回任务终止",
@@ -171,13 +180,13 @@
       "source_name": "arxiv"
     },
     {
-      "title": "Google 因地理位置数据处理被爱尔兰罚款 4.03 亿欧元 ",
-      "date": "Mon, 21 Sep 2026 16:26:43 GMT",
-      "summary": "Google 因地理位置数据处理被爱尔兰数据保护委员会（DPC）罚款 4.03 亿欧元。DPC 对 Google 的调查持续了六年，涉及 Google 在 2018 年 5 月 25 日至 2020 年 2 月 4 日间 Web &amp; App Activity、Location History 和 Location Accuracy 三项功能的位置数据处理。DPC 的报告认为 Google 的位置数据处理违反了 2018 年生效的数据保护法律 GDPR，可能导致用户未意识到自己的位置信息正被用于投放定向广告或推断其兴趣偏好，丧失对自己个人数据的控制权。Google 发表声明，表示它从 2019 年起就调整了位置数据管理。引入了位置数据自动删除功能。",
-      "url": "https://www.solidot.org/story?sid=85447",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
+      "title": "How Startups Are Using AI to Disrupt Industries",
+      "url": "https://every.to/source-code/ai-startups",
+      "date": "2026-09-21T12:57:28.965Z",
+      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
+      "category": "Source Code",
+      "source": "Every.to",
+      "source_name": "every"
     },
     {
       "title": "Advisory Group on Mathematics and Artificial Intelligence",
@@ -207,15 +216,6 @@
       "source_name": "openai"
     },
     {
-      "title": "How Startups Are Using AI to Disrupt Industries",
-      "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-09-21T09:01:15.297Z",
-      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
-      "category": "Source Code",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
       "title": "Expanding OpenAI Academy with new learning paths",
       "date": "Mon, 21 Sep 2026 07:00:00 GMT",
       "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
@@ -236,7 +236,7 @@
     {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-09-20T09:01:15.297Z",
+      "date": "2026-09-20T12:57:28.965Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
@@ -245,9 +245,18 @@
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-09-19T09:01:15.297Z",
+      "date": "2026-09-19T12:57:28.965Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "AI Agents: The Next Evolution of Automation",
+      "url": "https://every.to/source-code/ai-agents",
+      "date": "2026-09-18T12:57:28.965Z",
+      "summary": "Understanding autonomous AI agents and their potential impact on software.",
+      "category": "Source Code",
       "source": "Every.to",
       "source_name": "every"
     },
@@ -261,18 +270,9 @@
       "source_name": "openai"
     },
     {
-      "title": "AI Agents: The Next Evolution of Automation",
-      "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-09-18T09:01:15.297Z",
-      "summary": "Understanding autonomous AI agents and their potential impact on software.",
-      "category": "Source Code",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-09-17T09:01:15.297Z",
+      "date": "2026-09-17T12:57:28.965Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
