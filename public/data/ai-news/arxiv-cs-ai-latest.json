@@ -1,41 +1,13 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-09-22T15:47:08.169Z",
+  "fetch_time": "2026-09-23T04:14:40.144Z",
   "articles": [
     {
-      "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
-      "date": "Tue, 22 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.20971v1 Announce Type: new Abstract: Long-context large language model inference is increasingly limited by prefill, where dense self-attention processes the entire prompt before generation begins. Sparse block selection can reduce this cost, but a block centroid may hide a highly relevant token among many irrelevant ones. We call this failure mode mean dilution and propose RBS-Attention, a training-free sparse-prefill method with two complementary selection branches. A centroid base ",
-      "url": "https://arxiv.org/abs/2609.20971",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
-      "date": "Tue, 22 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.20974v1 Announce Type: new Abstract: In Mixture-of-Experts language models, the router typically selects and weights experts based on the token's hidden state, utilizing limited contextual information. We propose Attention-Aware Routing (AAR), which augments the router with temporal and spectral features extracted from a sliding window of attention weights that represent a summary of the model's contextual state, disentangled from the hidden state. Keeping the base transformer entirel",
-      "url": "https://arxiv.org/abs/2609.20974",
-      "category": "cs.AI"
-    },
-    {
-      "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
-      "date": "Tue, 22 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.20981v1 Announce Type: new Abstract: Autoregressive (AR) models suffer from local greediness, while diffusion language models (DLMs) often lack the strict causal structure required for reasoning. To combine the advantages and overcome the drawbacks of the dual, we propose Causal Latent Revision (CaLR), a framework that reformulates reasoning as constrained latent optimization. By adopting a causal topology matrix (CTM) from an expert model and implicit differentiation, CaLR performs g",
-      "url": "https://arxiv.org/abs/2609.20981",
-      "category": "cs.AI"
-    },
-    {
-      "title": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers",
-      "date": "Tue, 22 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.21061v1 Announce Type: new Abstract: Automatic target recognition (ATR) with synthetic aperture sonar (SAS) supports advanced naval capabilities, but deep learning is constrained by scarce target imagery, background clutter, and human-in-the-loop assessment. We adapt DINOv3 Vision Transformer (ViT) models to underwater SAS ATR using a three-stage parameter-efficient framework. Stage 1 uses Low-Rank Adaptation (LoRA) while freezing the ViT backbone, bridging the gap between natural-ima",
-      "url": "https://arxiv.org/abs/2609.21061",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing",
-      "date": "Tue, 22 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.21096v1 Announce Type: new Abstract: In this work, we examine the topology of information flow patterns within attention graphs to effectively distinguish hallucinated from non-hallucinated responses. We analyze the Forman-Ricci curvature to identify structural patterns indicating information bottlenecks in attention graphs. We then introduce a method that captures both semi-local and global information-flow characteristics of attention heads associated with hallucinated responses. We",
-      "url": "https://arxiv.org/abs/2609.21096",
+      "title": "Didactic knowledge or Clinical Cases? How Data Types Shape Medical Large Language Models",
+      "date": "Wed, 23 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.22161v1 Announce Type: new Abstract: Medical large language models are commonly trained on mixtures of didactic data (e.g., textbooks) and clinical data (e.g., patient records), yet how these data types differentially shape model capabilities remains unclear. We address this issue with token-matched experiments that vary the didactic-to-clinical ratio and analyze how data composition affects performance, capability profiles, and error patterns across knowledge-intensive and clinic-ori",
+      "url": "https://arxiv.org/abs/2609.22161",
       "category": [
         "cs.AI",
         "cs.CL",
@@ -43,11 +15,52 @@
       ]
     },
     {
-      "title": "Decoupling Internal Representational Changes and Causal Importance in Fine-Tuned Large Language Models",
-      "date": "Tue, 22 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.21113v1 Announce Type: new Abstract: Fine-tuning has emerged as a widely adopted approach for adapting LLMs to a variety of downstream tasks. However, how it reshapes their internal mechanisms remains poorly understood. To address this, we investigate how fine-tuning alters internal representations in LLMs, including attention patterns and layer-wise activations, and examine whether these changes are linked to task-relevant components identified by EAP (e.g., attention heads and logit",
-      "url": "https://arxiv.org/abs/2609.21113",
+      "title": "An Affordable AI-Integrated Smart Cane for Multimodal Mobility Assistance of Visually Impaired Users",
+      "date": "Wed, 23 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.22277v1 Announce Type: new Abstract: Visual impairment affects over 2.2 billion people worldwide, yet conventional white canes cannot detect elevated hazards or provide semantic environmental context. Existing AI-assisted navigation systems typically rely on expensive hardware or cloud connectivity, limiting accessibility in resource-constrained settings. This paper presents an affordable (\\$88 USD), fully offline AI-integrated smart cane designed for multimodal mobility assistance on",
+      "url": "https://arxiv.org/abs/2609.22277",
+      "category": [
+        "cs.AI",
+        "cs.CV",
+        "cs.CY",
+        "cs.RO"
+      ]
+    },
+    {
+      "title": "PAANI : On Device Visual Evidence Fusion and Explainable Guidance for River Robot Simulation",
+      "date": "Wed, 23 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.22353v1 Announce Type: new Abstract: Mobile river monitoring robots must interpret obstacles and water boundaries that geographic waypoints alone cannot describe. On resource constrained platforms, converting imperfect visual predictions into timely and inspectable guidance is a distinct challenge. An object label or steering command does not explain which evidence supports a decision or when that evidence is unreliable. We present PAANI, an on-device perception to guidance architectu",
+      "url": "https://arxiv.org/abs/2609.22353",
       "category": "cs.AI"
+    },
+    {
+      "title": "Social Influence and the Allocation of Scientific Attention in AI Populations",
+      "date": "Wed, 23 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.22408v1 Announce Type: new Abstract: AI systems are becoming participants in the evaluation and use of scientific research. They encounter citation counts, download statistics and lists of popular articles developed around human readers, but the collective consequences of these signals for artificial readers remain uncertain. This paper adapts the Music Lab design to a market for academic attention. In the first experiment, 1,000 AI agents choose papers from the titles and abstracts o",
+      "url": "https://arxiv.org/abs/2609.22408",
+      "category": [
+        "cs.AI",
+        "econ.GN",
+        "q-fin.EC"
+      ]
+    },
+    {
+      "title": "Learning 3D biophysical cell properties from 2D images and cell-population statistics",
+      "date": "Wed, 23 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.22410v1 Announce Type: new Abstract: Inferring 3D cellular properties from 2D microscopy is difficult when a reference instrument reports only population statistics rather than labels for individual cells. Here we develop a population-supervised framework that maps single 2D red-cell images to latent biophysical quantities and aggregates them to mean corpuscular volume, red-cell distribution width and mean corpuscular haemoglobin. The model combines shared local inference, a biophysic",
+      "url": "https://arxiv.org/abs/2609.22410",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Goal-driven Variant Categorization",
+      "date": "Wed, 23 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.22475v1 Announce Type: new Abstract: Process discovery rarely yields a single coherent process structure. For analysis, a common step is to cluster process variants based on structural similarity and then assign business meaning to the resulting groups. Since these partitions are not derived from the organization's goals, analysts must manually interpret and consolidate variants into business-meaningful categories. This judgment-intensive step becomes increasingly difficult as the num",
+      "url": "https://arxiv.org/abs/2609.22475",
+      "category": [
+        "cs.AI",
+        "cs.DB",
+        "cs.SE"
+      ]
     }
   ],
   "status": "success",

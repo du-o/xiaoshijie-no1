@@ -1,8 +1,69 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-09-22T15:47:27.030Z",
-  "articles": [],
-  "status": "error",
-  "error": "GitHub API 请求失败: 403"
+  "fetch_time": "2026-09-23T04:14:51.380Z",
+  "articles": [
+    {
+      "title": "openclaw 2026.7.35",
+      "date": "2026-09-21T13:14:04Z",
+      "summary": "This is a gateway-only `extended-stable` release, which is our current equivalent to LTS. This release is OpenClaw from the end of July 2026, plus critical security updates, reliability and performanc...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.35",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.7.35",
+      "downloadCount": 377
+    },
+    {
+      "title": "openclaw 2026.9.5",
+      "date": "2026-09-19T01:55:23Z",
+      "summary": "<!-- openclaw-release-publication:docs-v1 -->\n\n## OpenClaw v2026.9.5\n\n64 direct commits · 4,179 pull requests · 503 contributors\n\n### Changes included in this release\n\nThe release notes and changelog ...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.9.5",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.9.5",
+      "downloadCount": 43303
+    },
+    {
+      "title": "OpenClaw Linux update channel",
+      "date": "2026-09-19T05:00:44Z",
+      "summary": "Latest published Linux companion: v2026.9.5\n\n- [AppImage](https://github.com/openclaw/openclaw/releases/download/v2026.9.5/OpenClaw-2026.9.5-amd64.AppImage)\n- [Debian package](https://github.com/openc...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/linux-stable",
+      "category": "Release",
+      "author": "clawsweeper[bot]",
+      "tagName": "linux-stable",
+      "downloadCount": 37
+    },
+    {
+      "title": "openclaw 2026.9.4",
+      "date": "2026-09-11T03:46:22Z",
+      "summary": "<!-- openclaw-release-publication:docs-v1 -->\n\n## OpenClaw v2026.9.4\n\n20 direct commits · 1,558 pull requests · 294 contributors\n\n### Changes included in this release\n\nThe release notes and changelog ...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.9.4",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.9.4",
+      "downloadCount": 72491
+    },
+    {
+      "title": "openclaw 2026.6.35",
+      "date": "2026-09-10T06:39:30Z",
+      "summary": "## 2026.6.35\r\n\r\nThis is the final June 2026 Extended Stable (LTS) release.\r\n\r\n### Highlights\r\n\r\n- **Safer provider and channel boundaries:** bundled providers and channel adapters now bound untrusted ...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.35",
+      "category": "Release",
+      "author": "RomneyDa",
+      "tagName": "v2026.6.35",
+      "downloadCount": 0
+    },
+    {
+      "title": "openclaw 2026.9.3",
+      "date": "2026-09-08T14:15:53Z",
+      "summary": "## 2026.9.3\n\n### Highlights\n\n- **Safer updates:** rehearse core and plugin changes in isolated candidate state before activation, support eligible 2026.9.2 migrations, and recover abandoned update rec...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.9.3",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.9.3",
+      "downloadCount": 22865
+    }
+  ],
+  "status": "success",
+  "error": null
 }

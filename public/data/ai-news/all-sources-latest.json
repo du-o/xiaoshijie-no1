@@ -1,71 +1,187 @@
 {
-  "fetch_time": "2026-09-22T15:47:12.931Z",
+  "fetch_time": "2026-09-23T04:14:42.899Z",
   "total_count": 30,
   "sources_count": 6,
   "errors": null,
   "articles": [
     {
+      "title": "全球AI相关产品贸易额超4万亿美元",
+      "date": "Wed, 23 Sep 2026 04:10:27 GMT",
+      "summary": "随着人工智能和Agent能力的快速演进，一批“随身可带”的AI硬件正加速走向消费市场，成为行业新品。在浙江杭州云栖大会的展馆内，记者看到，从AI眼镜，到用户可自行组装的AIDIY设备，许多AI硬件产品已经不再单纯依赖手机，而是把用户身边的语音、图像等信息实时同步给Agent，由Agent自主拆解任务、完成执行。数据显示，2025年全球AI相关产品贸易额达4.18万亿美元，同比增长21.9%。全球AI基础设施投入持续加码，中国科技企业也在围绕AI硬件、大模型和底层算力进行最新布局。（央视财经）",
+      "url": "https://36kr.com/newsflashes/3995472239939718?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "马斯克预测未来世界：20年后可能有1000亿台人形机器人",
+      "date": "Wed, 23 Sep 2026 04:08:02 GMT",
+      "summary": "特斯拉CEO埃隆・马斯克接受央视财经专访。谈及机器人，他展望未来美好图景：每个人都能拥有专属机器人，它们可以照料年迈的父母，看护孩童，还能担任孩子的一对一私教，承担各类工作。未来世界，一个人可以操控成百上千台，甚至上万台实体机器人和数字智能体。“我的预测是十年内至少有10亿台人形机器人；未来15年或许达到100亿台；未来20年可能达到1000亿台。”（央视财经）",
+      "url": "https://36kr.com/newsflashes/3995475681824898?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "抖音生活服务烟火榜焕新发布，23城2257家本地好店上榜",
+      "date": "Wed, 23 Sep 2026 04:07:31 GMT",
+      "summary": "中秋国庆长假临近，抖音生活服务焕新发布烟火榜，覆盖北京、重庆、成都、南京、泉州等23座城市，共有2257家价格实在、口碑稳定的街巷小店和老牌门店上榜。榜单通过AI大模型分析用户评价与到店消费行为形成“烟火指数”，并由820位参与榜单共创的“超会生活家”实地核验。其中，重庆以198家居首，成都、郑州、西安、北京分别有158家、148家、130家和118家。用户在抖音搜索烟火榜，即可查看所在城市的上榜门店。",
+      "url": "https://36kr.com/newsflashes/3995475177541769?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "恒指午间休盘跌0.76%，智谱跌近7%",
+      "date": "Wed, 23 Sep 2026 04:02:03 GMT",
+      "summary": "36氪获悉，恒指午间休盘跌0.76%，恒生科技指数跌0.97%；软件服务、造纸与包装、可选消费零食板块跌幅居前，智谱跌近7%，嘉耀控股跌5%，阿里巴巴跌近3%；房地产、建材、环保板块领涨，淮北绿金股份涨超9%，华润置地涨超2%，光大环境涨近2%；南向资金净买入21.7亿港元。",
+      "url": "https://36kr.com/newsflashes/3995469800345735?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "Didactic knowledge or Clinical Cases? How Data Types Shape Medical Large Language Models",
+      "date": "Wed, 23 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.22161v1 Announce Type: new Abstract: Medical large language models are commonly trained on mixtures of didactic data (e.g., textbooks) and clinical data (e.g., patient records), yet how these data types differentially shape model capabilities remains unclear. We address this issue with token-matched experiments that vary the didactic-to-clinical ratio and analyze how data composition affects performance, capability profiles, and error patterns across knowledge-intensive and clinic-ori",
+      "url": "https://arxiv.org/abs/2609.22161",
+      "category": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "An Affordable AI-Integrated Smart Cane for Multimodal Mobility Assistance of Visually Impaired Users",
+      "date": "Wed, 23 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.22277v1 Announce Type: new Abstract: Visual impairment affects over 2.2 billion people worldwide, yet conventional white canes cannot detect elevated hazards or provide semantic environmental context. Existing AI-assisted navigation systems typically rely on expensive hardware or cloud connectivity, limiting accessibility in resource-constrained settings. This paper presents an affordable (\\$88 USD), fully offline AI-integrated smart cane designed for multimodal mobility assistance on",
+      "url": "https://arxiv.org/abs/2609.22277",
+      "category": [
+        "cs.AI",
+        "cs.CV",
+        "cs.CY",
+        "cs.RO"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "PAANI : On Device Visual Evidence Fusion and Explainable Guidance for River Robot Simulation",
+      "date": "Wed, 23 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.22353v1 Announce Type: new Abstract: Mobile river monitoring robots must interpret obstacles and water boundaries that geographic waypoints alone cannot describe. On resource constrained platforms, converting imperfect visual predictions into timely and inspectable guidance is a distinct challenge. An object label or steering command does not explain which evidence supports a decision or when that evidence is unreliable. We present PAANI, an on-device perception to guidance architectu",
+      "url": "https://arxiv.org/abs/2609.22353",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Social Influence and the Allocation of Scientific Attention in AI Populations",
+      "date": "Wed, 23 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.22408v1 Announce Type: new Abstract: AI systems are becoming participants in the evaluation and use of scientific research. They encounter citation counts, download statistics and lists of popular articles developed around human readers, but the collective consequences of these signals for artificial readers remain uncertain. This paper adapts the Music Lab design to a market for academic attention. In the first experiment, 1,000 AI agents choose papers from the titles and abstracts o",
+      "url": "https://arxiv.org/abs/2609.22408",
+      "category": [
+        "cs.AI",
+        "econ.GN",
+        "q-fin.EC"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Learning 3D biophysical cell properties from 2D images and cell-population statistics",
+      "date": "Wed, 23 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.22410v1 Announce Type: new Abstract: Inferring 3D cellular properties from 2D microscopy is difficult when a reference instrument reports only population statistics rather than labels for individual cells. Here we develop a population-supervised framework that maps single 2D red-cell images to latent biophysical quantities and aggregates them to mean corpuscular volume, red-cell distribution width and mean corpuscular haemoglobin. The model combines shared local inference, a biophysic",
+      "url": "https://arxiv.org/abs/2609.22410",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Goal-driven Variant Categorization",
+      "date": "Wed, 23 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.22475v1 Announce Type: new Abstract: Process discovery rarely yields a single coherent process structure. For analysis, a common step is to cluster process variants based on structural similarity and then assign business meaning to the resulting groups. Since these partitions are not derived from the organization's goals, analysts must manually interpret and consolidate variants into business-meaningful categories. This judgment-intensive step becomes increasingly difficult as the num",
+      "url": "https://arxiv.org/abs/2609.22475",
+      "category": [
+        "cs.AI",
+        "cs.DB",
+        "cs.SE"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "半日主力资金加仓电子、机械设备股",
+      "date": "Wed, 23 Sep 2026 03:56:23 GMT",
+      "summary": "主力资金早间净流入电子、机械设备、医药生物等板块，净流出传媒、公用事业、有色金属等板块。具体到个股来看，沃格光电、先导基电、万科A获净流入21.38亿元、10.98亿元、9.41亿元。净流出方面，亨通光电、兆易创新、中天科技遭抛售9.05亿元、8.58亿元、7.4亿元。（第一财经）",
+      "url": "https://36kr.com/newsflashes/3995464223133832?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "三六零首批获得国家级人工智能安全一级资质",
+      "date": "Wed, 23 Sep 2026 03:56:12 GMT",
+      "summary": "据了解，中国信息安全测评中心颁发首批“国家信息安全测评信息安全服务资质（人工智能安全类一级）”，360集团成为首批6家获证企业之一。（证券时报）",
+      "url": "https://36kr.com/newsflashes/3995450544738436?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "Better prompt caching for GPT-6",
+      "date": "Tue, 22 Sep 2026 21:00:00 GMT",
+      "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "category": "Product",
+      "source": "OpenAI News",
+      "source_name": "openai"
+    },
+    {
+      "title": "Introducing GPT-6 Sol and Luna",
+      "date": "Tue, 22 Sep 2026 18:00:00 GMT",
+      "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "category": "Product",
+      "source": "OpenAI News",
+      "source_name": "openai"
+    },
+    {
+      "title": "新 Halo 游戏将由动视开发",
+      "date": "Tue, 22 Sep 2026 16:52:31 GMT",
+      "summary": "微软 Xbox 游戏业务宣布旗下第一方工作室 Halo Studios 等裁员 268 人，动视将负责下一代 Halo 游戏的开发，而原来负责开发 Halo 的 Halo Studios 则转变成辅助工作室角色。Obsidian 工作室将成为 Bethesda 的一部分，将继续开发 Grounded 以及新 Fallout 游戏。King 工作室将合并微软的休闲游戏部门 Microsoft Casual Games。开发 Forza 系列的 Playground 和开发新 Fable 游戏的 Turn 10 将合并为一家工作室。 Ninja Theory 工作室预计将会关闭。Arkane 工作室仍然在磋商中。",
+      "url": "https://www.solidot.org/story?sid=85456",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "美国酒精消费自疫情以来首次下降",
+      "date": "Tue, 22 Sep 2026 16:36:41 GMT",
+      "summary": "盖洛普 8 月民调显示，仅有 54% 的美国人饮酒，而 2010 年这一数字是 67%。千禧一代和 Z 世代推动了减少饮酒的趋势，而 50-64 岁的中老年人的酒精消费则在上升。发表在《Annals of Internal Medicine》期刊上的一项研究分析了逾 11.4 万名美国成年人的调查数据，受访者在 2018-2024 年间参加了 CDC 的年度健康调查 National Health Interview Survey，其中包括了饮酒的情况。结果显示，2022-2024 年期间，美国人的总体饮酒率下降了 2%，重度饮酒率下降了 8%。Z 世代的总体饮酒率降幅最为显著下降了近 6%，千禧一代降幅约 2%。与此同时，2018-2024 年间 50-64 岁中老年人总体饮酒量率加了 4%，重度饮酒率激增了 36%。相比中老年人，年轻人更了解酒精的负面影响。老年人也可能更富裕能承担更多酒精消费。",
+      "url": "https://www.solidot.org/story?sid=85455",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
       "title": "The State of AI: A Look at What's Next",
       "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-09-22T12:57:28.965Z",
+      "date": "2026-09-22T15:47:07.837Z",
       "summary": "An in-depth analysis of the current AI landscape and future trends.",
       "category": "AI Analysis",
       "source": "Every.to",
       "source_name": "every"
     },
     {
-      "title": "预测市场平台Kalshi申请推出保证金交易，允许用户用借贷资金交易",
-      "date": "Tue, 22 Sep 2026 12:56:28 GMT",
-      "summary": "预测市场平台Kalshi于周二向联邦监管机构提交申请，希望获准对事件合约提供杠杆交易。杠杆交易在华尔街股票与期货市场已是成熟做法。本次申请由Kalshi旗下内部清算所Kalshi Klear提交给事件合约的联邦监管机构——美国商品期货交易委员会（CFTC）。随着预测市场持续争取机构资金入场，这是该公司最新的业务推进动作。Kalshi已在永续期货合约上提供杠杆，但尚未获批在其预测市场板块启用同类机制。（新浪财经）",
-      "url": "https://36kr.com/newsflashes/3994579578245001?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "热门中概股美股盘前普涨，阿里巴巴涨超3%",
-      "date": "Tue, 22 Sep 2026 12:55:20 GMT",
-      "summary": "36氪获悉，热门中概股美股盘前普涨，截至发稿，阿里巴巴涨超3%，拼多多涨0.75%，理想汽车涨0.64%，哔哩哔哩涨0.63%，京东涨0.44%，百度涨0.33%，小鹏集团跌0.19%。",
-      "url": "https://36kr.com/newsflashes/3994578456416387?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "美股大型科技股盘前涨跌不一，英特尔跌超1%",
-      "date": "Tue, 22 Sep 2026 12:52:58 GMT",
-      "summary": "36氪获悉，美股大型科技股盘前涨跌不一，截至发稿，英特尔跌超1%，亚马逊跌0.61%，Meta跌0.51%，英伟达跌0.46%，微软涨超1%，特斯拉涨0.61%，谷歌涨0.43%，苹果涨0.4%。",
-      "url": "https://36kr.com/newsflashes/3994576138080132?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "8月我国公募基金总规模为39.63万亿元",
-      "date": "Tue, 22 Sep 2026 12:48:57 GMT",
-      "summary": "中国证券投资基金业协会最新数据显示，截至8月底，我国公募基金资产净值合计39.63万亿元，环比增长1.35%。结构上，混合基金表现最为亮眼，净值单月增约2,568亿元至4.09万亿元；货币基金继续稳健增长，净值升至16.31万亿元。股票基金净值小幅上涨为5.04万亿元。债券基金净值微增，整体走势平稳。总体来看，8月公募市场净值环比回正，权益类资产信心正在回暖，混合基金成为当月规模增长的最大引擎。（央视新闻）",
-      "url": "https://36kr.com/newsflashes/3994563404189573?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "埃森哲与AWS合作，为中型企业推出六项AI及云服务",
-      "date": "Tue, 22 Sep 2026 12:45:32 GMT",
-      "summary": "9月22日，埃森哲宣布与亚马逊云科技（AWS）合作，通过新成立的Accenture Edge业务，为年营收3亿至30亿美元的中型企业提供AI及云转型服务。双方推出六项可直接部署的解决方案，涵盖数据发现、虚拟机迁移、客户体验、云成本优化、AI安全测试及云安全基础设施。（界面）",
-      "url": "https://36kr.com/newsflashes/3994552310747271?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "中塑股份：上市首日股价涨幅较大，发布风险提示公告",
-      "date": "Tue, 22 Sep 2026 12:42:43 GMT",
-      "summary": "36氪获悉，中塑股份公告，公司股票于2026年9月22日在深交所创业板上市，发行价55.28元/股，上市首日收盘价433.00元/股，涨幅683.29%，显著偏离行业估值水平。公司静态市盈率168.38倍、市净率17.14倍，远高于行业平均的29.02倍和2.26倍。公司提示，存在原材料价格波动、供应稳定性、毛利率下滑等风险，短期股价波动加剧，存在快速上涨后大幅回调风险。经核查，公司日常经营未发生重大变化，不存在应披露而未披露的重大事项。",
-      "url": "https://36kr.com/newsflashes/3994566056071297?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
+      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "date": "Tue, 22 Sep 2026 12:00:00 GMT",
+      "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "category": "Startup",
+      "source": "OpenAI News",
+      "source_name": "openai"
     },
     {
       "title": "天文学家发现已知最年轻行星",
@@ -104,98 +220,22 @@
       "source_name": "solidot"
     },
     {
-      "title": "阿里巴巴下一代模型参数将扩大到 5-10 万亿规模",
-      "date": "Tue, 22 Sep 2026 07:03:16 GMT",
-      "summary": "阿里巴巴 CEO 吴泳铭在阿里云年度云栖大会上透露，该公司的千问（Qwen）团队正持续研究模型架构与数据优化，目标是完成更复杂、长周期任务，向人工智能超级智能（artificial superintelligence）前进。阿里巴巴的旗舰模型 Qwen 3.8 Max 有 2.4 万亿参数，正在训练中的 Qwen 4 将会继续扩大参数规模，未来的 Qwen 4.5 和 Qwen 5 系列将扩大至 5-10 万亿参数规模。吴泳铭表示，阿里巴巴自研的 M890 AI 超级节点能处理参数规模逾 2 万亿模型的推理任务，新一代的真武 V900 性能三倍于上一代的 M890，预计于 2027 年第一季度量产。",
-      "url": "https://www.solidot.org/story?sid=85450",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "AMD 加入万亿美元市值俱乐部",
-      "date": "Tue, 22 Sep 2026 04:36:27 GMT",
-      "summary": "AMD 周一股价上涨 9.6% 至 613.31 美元，市值突破一万亿美元，成为英伟达、博通和美光之后第四家市值突破万亿美元的美国芯片公司。英伟达在 2023 年市值突破万亿美元，如今市值逾五万亿美元，是全世界市值最高的公司。AMD 被认为是英伟达在 GPU 芯片领域最强大的竞争对手。AMD 股价在 2026 年上涨 185%，远超聚集众多科技股的纳斯达克指数 15.8% 的涨幅，是标普 500 指数中表现最佳的股票之一。",
-      "url": "https://www.solidot.org/story?sid=85448",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
-      "date": "Tue, 22 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.20971v1 Announce Type: new Abstract: Long-context large language model inference is increasingly limited by prefill, where dense self-attention processes the entire prompt before generation begins. Sparse block selection can reduce this cost, but a block centroid may hide a highly relevant token among many irrelevant ones. We call this failure mode mean dilution and propose RBS-Attention, a training-free sparse-prefill method with two complementary selection branches. A centroid base ",
-      "url": "https://arxiv.org/abs/2609.20971",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
-      "date": "Tue, 22 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.20974v1 Announce Type: new Abstract: In Mixture-of-Experts language models, the router typically selects and weights experts based on the token's hidden state, utilizing limited contextual information. We propose Attention-Aware Routing (AAR), which augments the router with temporal and spectral features extracted from a sliding window of attention weights that represent a summary of the model's contextual state, disentangled from the hidden state. Keeping the base transformer entirel",
-      "url": "https://arxiv.org/abs/2609.20974",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
-      "date": "Tue, 22 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.20981v1 Announce Type: new Abstract: Autoregressive (AR) models suffer from local greediness, while diffusion language models (DLMs) often lack the strict causal structure required for reasoning. To combine the advantages and overcome the drawbacks of the dual, we propose Causal Latent Revision (CaLR), a framework that reformulates reasoning as constrained latent optimization. By adopting a causal topology matrix (CTM) from an expert model and implicit differentiation, CaLR performs g",
-      "url": "https://arxiv.org/abs/2609.20981",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers",
-      "date": "Tue, 22 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.21061v1 Announce Type: new Abstract: Automatic target recognition (ATR) with synthetic aperture sonar (SAS) supports advanced naval capabilities, but deep learning is constrained by scarce target imagery, background clutter, and human-in-the-loop assessment. We adapt DINOv3 Vision Transformer (ViT) models to underwater SAS ATR using a three-stage parameter-efficient framework. Stage 1 uses Low-Rank Adaptation (LoRA) while freezing the ViT backbone, bridging the gap between natural-ima",
-      "url": "https://arxiv.org/abs/2609.21061",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing",
-      "date": "Tue, 22 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.21096v1 Announce Type: new Abstract: In this work, we examine the topology of information flow patterns within attention graphs to effectively distinguish hallucinated from non-hallucinated responses. We analyze the Forman-Ricci curvature to identify structural patterns indicating information bottlenecks in attention graphs. We then introduce a method that captures both semi-local and global information-flow characteristics of attention heads associated with hallucinated responses. We",
-      "url": "https://arxiv.org/abs/2609.21096",
-      "category": [
-        "cs.AI",
-        "cs.CL",
-        "cs.LG"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Decoupling Internal Representational Changes and Causal Importance in Fine-Tuned Large Language Models",
-      "date": "Tue, 22 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.21113v1 Announce Type: new Abstract: Fine-tuning has emerged as a widely adopted approach for adapting LLMs to a variety of downstream tasks. However, how it reshapes their internal mechanisms remains poorly understood. To address this, we investigate how fine-tuning alters internal representations in LLMs, including attention patterns and layer-wise activations, and examine whether these changes are linked to task-relevant components identified by EAP (e.g., attention heads and logit",
-      "url": "https://arxiv.org/abs/2609.21113",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
+      "title": "Priorities and principles for effective third party assessments",
+      "date": "Tue, 22 Sep 2026 00:00:00 GMT",
+      "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "category": "Safety",
+      "source": "OpenAI News",
+      "source_name": "openai"
     },
     {
       "title": "How Startups Are Using AI to Disrupt Industries",
       "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-09-21T12:57:28.965Z",
+      "date": "2026-09-21T15:47:07.837Z",
       "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
       "category": "Source Code",
       "source": "Every.to",
       "source_name": "every"
-    },
-    {
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "date": "Mon, 21 Sep 2026 12:00:00 GMT",
-      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "category": "Company",
-      "source": "OpenAI News",
-      "source_name": "openai"
     },
     {
       "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
@@ -207,36 +247,18 @@
       "source_name": "openai"
     },
     {
-      "title": "Building standards for the next phase of AI",
-      "date": "Mon, 21 Sep 2026 10:00:00 GMT",
-      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
-      "url": "https://openai.com/index/building-standards-next-phase-ai",
-      "category": "Global Affairs",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
-      "title": "Expanding OpenAI Academy with new learning paths",
-      "date": "Mon, 21 Sep 2026 07:00:00 GMT",
-      "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
-      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "date": "Mon, 21 Sep 2026 12:00:00 GMT",
+      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
       "category": "Company",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
-      "title": "How V7 gives AI agents institutional memory",
-      "date": "Mon, 21 Sep 2026 00:00:00 GMT",
-      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
-      "url": "https://openai.com/index/v7",
-      "category": "Startup",
       "source": "OpenAI News",
       "source_name": "openai"
     },
     {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-09-20T12:57:28.965Z",
+      "date": "2026-09-20T15:47:07.837Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
@@ -245,7 +267,7 @@
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-09-19T12:57:28.965Z",
+      "date": "2026-09-19T15:47:07.837Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
@@ -254,25 +276,16 @@
     {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-09-18T12:57:28.965Z",
+      "date": "2026-09-18T15:47:07.837Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
       "source_name": "every"
     },
     {
-      "title": "Introducing the Australian Youth Safety Blueprint",
-      "date": "Fri, 18 Sep 2026 12:00:00 GMT",
-      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
-      "url": "https://openai.com/index/australian-youth-safety-blueprint",
-      "category": "Company",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-09-17T12:57:28.965Z",
+      "date": "2026-09-17T15:47:07.837Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
