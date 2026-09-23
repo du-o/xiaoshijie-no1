@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-09-23T13:08:31.513Z",
+  "fetch_time": "2026-09-23T15:36:57.894Z",
   "articles": [
+    {
+      "title": "Two years of OpenAI Academy",
+      "date": "Wed, 23 Sep 2026 16:00:00 GMT",
+      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+      "url": "https://openai.com/index/two-years-of-openai-academy",
+      "category": "Company"
+    },
     {
       "title": "OpenAI extends cyber access to Ukraine for civilian defense",
       "date": "Wed, 23 Sep 2026 13:00:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
       "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
       "category": "Startup"
-    },
-    {
-      "title": "Priorities and principles for effective third party assessments",
-      "date": "Tue, 22 Sep 2026 00:00:00 GMT",
-      "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
-      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
-      "category": "Safety"
     }
   ],
   "status": "success",
