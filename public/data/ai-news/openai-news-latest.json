@@ -1,8 +1,22 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-09-23T09:05:28.221Z",
+  "fetch_time": "2026-09-23T13:08:31.513Z",
   "articles": [
+    {
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "date": "Wed, 23 Sep 2026 13:00:00 GMT",
+      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "category": "Global Affairs"
+    },
+    {
+      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+      "date": "Wed, 23 Sep 2026 00:00:00 GMT",
+      "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+      "category": "Global Affairs"
+    },
     {
       "title": "Better prompt caching for GPT-6",
       "date": "Tue, 22 Sep 2026 21:00:00 GMT",
@@ -30,20 +44,6 @@
       "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
       "url": "https://openai.com/index/priorities-principles-third-party-assessments",
       "category": "Safety"
-    },
-    {
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "date": "Mon, 21 Sep 2026 12:00:00 GMT",
-      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "category": "Startup"
-    },
-    {
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "date": "Mon, 21 Sep 2026 12:00:00 GMT",
-      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "category": "Company"
     }
   ],
   "status": "success",
