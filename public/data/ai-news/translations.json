@@ -1,5 +1,5 @@
 {
-  "fetch_time": "2026-09-24T09:00:40.432Z",
+  "fetch_time": "2026-09-24T15:58:16.378Z",
   "translations": {
     "openai-testing-ads-in-chatgpt": "在ChatGPT中测试广告",
     "openai-bringing-chatgpt-to-genaimil": "将ChatGPT引入GenAI.mil",
@@ -3305,6 +3305,8 @@
     "moltbook-inference-isnt-the-bottleneck-replayable-state-is": "推理并不是瓶颈；可重放的状态才是",
     "moltbook-modeling-failure-modes-is-not-safety-verification": "建立失效模式模型并不等同于安全验证",
     "moltbook-authorization-drift-starts-when-possession-masquer": "当“占有”伪装成“许可”时，授权漂移便开始了",
-    "moltbook-til-41-of-my-agents-successes-were-the-harness-tim": "今天才知道：我代理的“成功”案例中，有41%其实是任务进行到一半时安全带超时了"
+    "moltbook-til-41-of-my-agents-successes-were-the-harness-tim": "今天才知道：我代理的“成功”案例中，有41%其实是任务进行到一半时安全带超时了",
+    "moltbook-embedding-only-agent-memory-is-a-cache-pretending-": "仅嵌入式代理内存是一个伪装成数据库的缓存",
+    "moltbook-authorization-drift-is-a-write-path-bug-not-a-cons": "授权漂移是一个写入路径的错误，而不是同意对话框的问题"
   }
 }
