@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-09-23T15:37:10.969Z",
+  "fetch_time": "2026-09-24T04:10:34.073Z",
   "articles": [
+    {
+      "title": "openclaw 2026.9.6",
+      "date": "2026-09-23T23:21:10Z",
+      "summary": "> **⚠️ macOS app: do not update to 2026.9.6 yet.** The 2026.9.6 macOS app can crash on every launch after the in-app update (#156861). It has been withdrawn from the Sparkle update feed; a 2026.9.7 Ma...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.9.6",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.9.6",
+      "downloadCount": 618
+    },
     {
       "title": "openclaw 2026.7.35",
       "date": "2026-09-21T13:14:04Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.7.35",
-      "downloadCount": 449
+      "downloadCount": 489
     },
     {
       "title": "openclaw 2026.9.5",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.5",
-      "downloadCount": 47755
+      "downloadCount": 51408
     },
     {
       "title": "OpenClaw Linux update channel",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "clawsweeper[bot]",
       "tagName": "linux-stable",
-      "downloadCount": 39
+      "downloadCount": 47
     },
     {
       "title": "openclaw 2026.9.4",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.4",
-      "downloadCount": 72528
+      "downloadCount": 72542
     },
     {
       "title": "openclaw 2026.6.35",
@@ -52,16 +62,6 @@
       "author": "RomneyDa",
       "tagName": "v2026.6.35",
       "downloadCount": 0
-    },
-    {
-      "title": "openclaw 2026.9.3",
-      "date": "2026-09-08T14:15:53Z",
-      "summary": "## 2026.9.3\n\n### Highlights\n\n- **Safer updates:** rehearse core and plugin changes in isolated candidate state before activation, support eligible 2026.9.2 migrations, and recover abandoned update rec...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.9.3",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.9.3",
-      "downloadCount": 22946
     }
   ],
   "status": "success",
