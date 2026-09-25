@@ -1,14 +1,130 @@
 {
-  "fetch_time": "2026-09-24T15:58:08.848Z",
+  "fetch_time": "2026-09-25T04:23:51.248Z",
   "total_count": 30,
   "sources_count": 6,
   "errors": null,
   "articles": [
     {
-      "title": "模型之外，游戏+AI的下一道门槛在哪里？",
-      "date": "Thu, 24 Sep 2026 13:56:48 GMT",
-      "summary": "在一局《永劫无间》的游戏对局里，你的队友可能不是“人”。&nbsp; Qwen大模型是这些AI队友的底座。会协作的队友，是游戏行业变革中最容易被看见的一角，冰山以下是“游戏正在被AI重做一遍”已经成为一个共识判断。&nbsp; 2026云栖大会现场，专门为游戏行业安排了一个上午的AI专场。网易、TapTap等标杆企业的技术负责人和创作者先后上台，从智能NPC讲到AI原生玩法，再讲到AI游戏创作。&nbsp; 但重做的程度并不相同。把AI当提效工具，和按AI的方式重做游戏，正在变成两门不同的生意。&nbsp; 前者优化单位成本，后者彻底改写生产与体验。而游戏的玩法形态、生产组织与运行方式，都不仅仅是效率问题。那么，当厂商决定把游戏“用AI重做一遍”，究竟从哪里开始？拼的又是什么？&nbsp; 当AI坐上牌桌 把游戏“用AI重做一遍”，首先仍要托住游戏本身。全球开服、弹性扩容与稳定运行，是新体验能够落地的前提。&nbsp; 本届云栖游戏展区展示的《明日方舟：终末地》，就是一个例子。这款面向全球的多端大型3D游戏，上线次日全球累计下载量突破3000万。面对流量洪峰，阿里云的全栈技术方案成功保",
-      "url": "https://36kr.com/p/3997468580958089?f=rss",
+      "title": "亚马逊将斥资1亿美元在印第安纳州新建中心，扩大机器人产能",
+      "date": "Fri, 25 Sep 2026 04:20:27 GMT",
+      "summary": "亚马逊已是全球最大机器人制造商之一。随着仓库内部更多作业走向自动化，该公司正扩大机器人生产规模。这家电商企业表示，将投入超1亿美元，在印第安纳州格林伍德新建一座机器人制造工厂，计划2028年前投产。亚马逊上月刚宣布计划在得克萨斯州奥斯汀修建另一座机器人中心。这两处新基地建成后，亚马逊机器人生产工厂数量将翻一番，达到四座。（新浪财经）",
+      "url": "https://36kr.com/newsflashes/3998312217956227?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "恒指午间休盘跌1.69%，恒生科技指数跌2.14%",
+      "date": "Fri, 25 Sep 2026 04:05:05 GMT",
+      "summary": "36氪获悉，恒指午间休盘跌1.69%，恒生科技指数跌2.14%；科技、汽车股领跌，小米集团、快手、理想汽车跌超3%，阿里巴巴、京东集团、百度集团、蔚来跌超2%、消费股走弱，希音跌超5%，东方甄选跌近4%；南向资金净买入29亿港元。",
+      "url": "https://36kr.com/newsflashes/3998303929814918?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
+      "date": "Fri, 25 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.28475v1 Announce Type: new Abstract: Forecasting agents increasingly combine language-model reasoning, retrieval, ensembling, and calibration, but it remains unclear when each behavior should be trusted. We study this question on ForecastBench-style binary forecasting tasks, treating the choice to retrieve, reason, defer to a market prior, or use a historical analog as an observable agent behavior rather than a hidden implementation detail. Our central finding is that mechanism choice",
+      "url": "https://arxiv.org/abs/2609.28475",
+      "category": [
+        "cs.AI",
+        "cs.CL"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series Forecasting on GIFT-Eval, Selected Entirely on the Training Split",
+      "date": "Fri, 25 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.28506v1 Announce Type: new Abstract: TW3Cast is a time-series forecasting system that reaches position 3 of 130 entries on the GIFT-Eval benchmark by mean MASE rank, as of 2026-09-14. The two entries above it belong to the leaderboard's agentic category, multi-step systems that use agents or language models to reason about, generate or select forecasts. TW3Cast runs no agent and no language model. Its selection is a table computed once on the training split and then frozen, and its ex",
+      "url": "https://arxiv.org/abs/2609.28506",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "PAWS: Policy-driven Agentic World Simulation",
+      "date": "Fri, 25 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.28547v1 Announce Type: new Abstract: Policy interventions propagate through public communication, institutional decisions, and stakeholder responses, yet datasets for financial multi-agent simulation rarely connect these processes to temporally aligned historical evidence. We introduce PAWS, a Policy-driven Agentic World Simulation dataset covering 36 verified U.S. financial and economic policy episodes, 12,727 policy-linked news records, and 65,291 source-grounded stakeholder actions",
+      "url": "https://arxiv.org/abs/2609.28547",
+      "category": [
+        "cs.AI",
+        "cs.CE",
+        "cs.MA",
+        "cs.SI"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Pistis Technical Report",
+      "date": "Fri, 25 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.28554v1 Announce Type: new Abstract: We introduce the Pistis model family, comprising 27B- and 9B-parameter multimodal large language models built on Qwen3.6 and Qwen3.5, respectively, and developed through a general and scalable post-training framework. The framework first establishes a strong foundation through large-scale multimodal supervised fine-tuning (SFT). Building on this SFT foundation, we propose Interleaved Distillation and Reinforcement Learning (IDRL), a novel post-trai",
+      "url": "https://arxiv.org/abs/2609.28554",
+      "category": [
+        "cs.AI",
+        "cs.CV"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "BaseCamp --- An Agentic AI Framework for Automating DNA Sequencing Data Pipelines",
+      "date": "Fri, 25 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.28557v1 Announce Type: new Abstract: DNA sequencing pipelines, spanning quality control, alignment, variant calling, and annotation, are now reliably executed by workflow management systems that orchestrate established bioinformatics tools at scale. What remains manual is the decision layer surrounding that execution: selecting quality thresholds appropriate to a sample and platform, adjudicating borderline variant calls, diagnosing anomalies, and determining which findings warrant ex",
+      "url": "https://arxiv.org/abs/2609.28557",
+      "category": [
+        "cs.AI",
+        "q-bio.GN"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "DEEPO: Dual-Entropy Enhanced Policy Optimization for Hallucination in MLLMs",
+      "date": "Fri, 25 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.28570v1 Announce Type: new Abstract: Reinforcement learning (RL) is widely used to sharpen reasoning in multimodal large language models (MLLMs), yet its effect on hallucination is uneven. We trace this to two weak points in the \\emph{correction chain} from reward to parameter update. At the rollout level, hard queries---those with high semantic entropy---frequently produce unanimously wrong sample groups, collapsing the group-relative advantage to zero exactly where hallucination ris",
+      "url": "https://arxiv.org/abs/2609.28570",
+      "category": [
+        "cs.AI",
+        "cs.LG"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "报道称深圳传音控股计划下周启动香港上市推介",
+      "date": "Fri, 25 Sep 2026 03:45:38 GMT",
+      "summary": "报道称深圳传音控股计划下周启动香港上市推介。（财联社）",
+      "url": "https://36kr.com/newsflashes/3998284810375040?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "最快2小时27分可达，京港高铁雄安至商丘段9月28日开通运营",
+      "date": "Fri, 25 Sep 2026 03:40:13 GMT",
+      "summary": "从国铁集团获悉，京港高铁雄安至商丘段将于9月28日开通运营，雄安站至商丘站最快2小时27分可达，将为区域经济社会协调发展注入新动能。（央视新闻）",
+      "url": "https://36kr.com/newsflashes/3998256935932035?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "Anthropic拟效仿Palantir模式，让七位联合创始人掌握投票权，为上市铺路",
+      "date": "Fri, 25 Sep 2026 03:30:23 GMT",
+      "summary": "据知情人士透露，Anthropic 正提请股东批准一套新公司架构，授予首席执行官达里奥・阿莫代伊及其余六位联合创始人特殊类别股份，使其在多数公司事务上拥有集体投票控制权。其中一位消息人士称，这套效仿帕兰提尔（Palantir）创始人控股模式的新安排，只要七位联合创始人中有三人持有公司最低限额股份，全体创始人合计便可掌握 50.1% 的投票权。这将大幅改变 Anthropic 本就特殊的治理架构，在公司上市后抵御外部股东压力，巩固持股比例相对不高的创始团队的影响力。（新浪财经）",
+      "url": "https://36kr.com/newsflashes/3998247338495872?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "AI芯片初创企业DensityAI正进入融资谈判后期，投后估值接近100亿美元",
+      "date": "Fri, 25 Sep 2026 03:16:09 GMT",
+      "summary": "据媒体报道，AI芯片初创企业DensityAI由特斯拉Dojo超级计算机项目的前核心团队于一年前创立，目前正进入融资谈判后期，计划募资数亿美元，本轮融资对应的公司估值将达到100亿美元。知情人士称，公司管理层向潜在投资者表示，已经拿到一份协议：如果DensityAI芯片达到指定性能指标，亚马逊云科技（AWS）将采购其芯片。 其中一名知情人士称，安德里森·霍罗威茨（a16z）正在洽谈领投本轮融资。（财联社）",
+      "url": "https://36kr.com/newsflashes/3998246029070468?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
@@ -16,47 +132,20 @@
     {
       "title": "The State of AI: A Look at What's Next",
       "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-09-24T13:02:31.401Z",
+      "date": "2026-09-24T15:58:05.112Z",
       "summary": "An in-depth analysis of the current AI landscape and future trends.",
       "category": "AI Analysis",
       "source": "Every.to",
       "source_name": "every"
     },
     {
-      "title": "LVMH阿诺特家族推进股权架构重组，巩固集团控制权",
-      "date": "Thu, 24 Sep 2026 12:58:35 GMT",
-      "summary": "阿诺特家族公布方案，计划简化持有 LVMH 股权的多家控股公司架构，以此保障家族对奢侈品巨头的长期掌控权。根据该方案，由 LVMH 掌舵人伯纳德・阿诺特家族控制的两家控股公司，将并入迪奥（Christian Dior）；迪奥将从巴黎证券交易所退市WWD。迪奥于周三表示，重组全部完成之后，LVMH 的控制权将归集至单一主体行使。（新浪财经）",
-      "url": "https://36kr.com/newsflashes/3997403088883843?f=rss",
+      "title": "蝙蝠起源于欧洲",
+      "date": "Thu, 24 Sep 2026 15:49:33 GMT",
+      "summary": "发表在《自然》期刊上的一项研究结合基因组和化石证据，重建了蝙蝠长达 6500 万年的演化历史。最新研究推翻了此前蝙蝠起源于亚洲、非洲或北美的假说，蝙蝠最早起源于欧洲，之后进入非洲，然后向亚洲、美洲和澳大利亚扩散。澳大利亚昆士兰州东南部 Murgon 发现的蝙蝠化石 Australonycteris 距今已有 5500 万年，仅比欧洲的化石稍晚。蝙蝠是唯一能真正进行动力飞行的哺乳动物。大多数蝙蝠仅靠声音就能在漆黑的环境中辨别方向和捕食。全世界分布着逾 1500 个蝙蝠种类，占现存哺乳动物总数的五分之一，它们通过为植物授粉、传播种子以及捕食害虫，在维持生态系统健康上发挥着重要作用。研究还发现回声定位和飞行都是蝙蝠在早期演化出来的。",
+      "url": "https://www.solidot.org/story?sid=85473",
       "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "热门中概股美股盘前跌多涨少，百度跌超1%",
-      "date": "Thu, 24 Sep 2026 12:58:08 GMT",
-      "summary": "36氪获悉，热门中概股美股盘前跌多涨少，截至发稿，百度、蔚来跌超1%，哔哩哔哩跌0.4%，小鹏集团跌0.39%，京东跌0.29%，拼多多跌0.24%，理想汽车涨超2%，网易、阿里巴巴涨超1%。",
-      "url": "https://36kr.com/newsflashes/3997412363014020?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "美股大型科技股盘前普跌，美光科技跌超2%",
-      "date": "Thu, 24 Sep 2026 12:53:44 GMT",
-      "summary": "36氪获悉，美股大型科技股盘前普跌，截至发稿，美光科技、英特尔、闪迪跌超2%，Meta、亚马逊、英伟达跌超1%，特斯拉跌0.97%，微软跌0.51%，谷歌跌0.31%，苹果跌0.02%。",
-      "url": "https://36kr.com/newsflashes/3997408036638594?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "中颖电子：向特定对象发行股票获证监会同意注册批复",
-      "date": "Thu, 24 Sep 2026 12:52:27 GMT",
-      "summary": "36氪获悉，中颖电子公告，公司收到证监会出具的《关于同意中颖电子股份有限公司向特定对象发行股票注册的批复》，同意公司向特定对象发行股票的注册申请。本次发行应严格按照报送深交所的申报文件和发行方案实施，批复自同意注册之日起12个月内有效。",
-      "url": "https://36kr.com/newsflashes/3997396115591042?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
+      "source": "Solidot",
+      "source_name": "solidot"
     },
     {
       "title": "部分三星智能冰箱在升级固件之后停止工作",
@@ -66,15 +155,6 @@
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
-    },
-    {
-      "title": "*ST利达：收到江苏证监局行政处罚决定书",
-      "date": "Thu, 24 Sep 2026 12:46:36 GMT",
-      "summary": "36氪获悉，*ST利达公告，公司收到中国证券监督管理委员会江苏监管局《行政处罚决定书》。2020年1月至2022年12月，公司发生关联方非经营性资金占用合计17.03亿元，公司未及时披露且相关定期报告存在重大遗漏、虚假记载。江苏证监局对公司责令改正、给予警告，并处以900万元罚款；对顾益明等5名相关责任人给予警告并处以210万元至1620万元不等罚款，同时对顾益明采取5年证券市场禁入措施。截至2026年4月22日，关联方已归还全部占用资金及利息，本次事项未触及重大违法强制退市相关情形，公司目前生产经营正常。",
-      "url": "https://36kr.com/newsflashes/3997384485146496?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
     },
     {
       "title": "微软放弃封禁 Microslop",
@@ -113,77 +193,6 @@
       "source_name": "solidot"
     },
     {
-      "title": "Silent Failures in Agent-Tool Interaction: An Audit of ToolUniverse",
-      "date": "Thu, 24 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.26836v1 Announce Type: new Abstract: Agentic AI systems are increasingly adopting automated pipelines that integrate multiple tools. While prior research and benchmarks have studied about task success and task completion of these agentic systems, the research about agent to tool interaction, specifically in biology agentic workflow is limited. This study investigates specific failures in agent to tool interaction where a tool invocation appears successful, some or all of the informati",
-      "url": "https://arxiv.org/abs/2609.26836",
-      "category": [
-        "cs.AI",
-        "cs.SE"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Harness as a Language: A Minimalist Agent Framework With Maximal Expressivity",
-      "date": "Thu, 24 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.26891v1 Announce Type: new Abstract: Modern language-model agents are built around the \\textit{agent loop}, where the LLM is placed in an environment exposing a set of tools, and the LLM has full control over the workflow by alternating between tool calls and observing their output. However, certain workflows currently require additional engineering beyond the agent loop itself, such as memory systems and self-improving systems. We built an LLM agent framework, JAZ, to explore the ext",
-      "url": "https://arxiv.org/abs/2609.26891",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "TwinCheck: Evidence-Grounded Negative-Twin Verification for Stateful Tool Agents",
-      "date": "Thu, 24 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.26911v1 Announce Type: new Abstract: A single locally plausible tool call can derail an otherwise successful agent trajectory. Suspicion alone does not justify intervention, because the replacement itself can introduce the very failure verification is meant to prevent. We introduce TwinCheck, an inference-time verification policy that considers replacement only when the trace satisfies an evidence condition tied to a trace-local failure hypothesis. It constructs a trace-grounded count",
-      "url": "https://arxiv.org/abs/2609.26911",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Building Socio-Affective Artificial Intelligence for Interactive Multi-Agent Simulations",
-      "date": "Thu, 24 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.26927v1 Announce Type: new Abstract: The objective of this article is to provide design principles and a software architecture for enabling interaction between humans and multiple agents in simulated dynamic worlds. This connects the current era of general artificial intelligence (AI/AGI) with the proliferation of transformer-based conversational agents and the increased computational capabilities. Given an overview of current and previous multi-agent theories of mind (socially and af",
-      "url": "https://arxiv.org/abs/2609.26927",
-      "category": [
-        "cs.AI",
-        "cs.CY",
-        "cs.GT",
-        "cs.HC",
-        "cs.MA"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Which Objectives Need a Dial? Predicting Objective Conflict and Covering Trade-offs in Steerable Pluralistic Alignment",
-      "date": "Thu, 24 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.26929v1 Announce Type: new Abstract: People hold diverse, sometimes conflicting values, so no single aligned model can satisfy everyone. Pluralistic alignment therefore calls for steerable models that can balance competing objectives differently. Multi-Objective Direct Preference Optimization (MODPO) does this by using an objective weight to span a continuum of trade-offs. We study two questions: when can one model improve two objectives simultaneously, and how can many trade-offs be ",
-      "url": "https://arxiv.org/abs/2609.26929",
-      "category": [
-        "cs.AI",
-        "cs.CL",
-        "cs.CY"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Escaping Python Dependency Hell: A Hybrid Replay-and-Repair Pipeline for Python Dependency Resolution",
-      "date": "Thu, 24 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.26952v1 Announce Type: new Abstract: Dependency conflicts in Python ecosystems arise from incompatible version constraints, missing packages, and undocumented compatibility relationships, causing many real-world code snippets to fail at execution. This paper presents PLLM+, a hybrid dependency-repair pipeline evaluated on the HG2.9K benchmark of 2,891 dependency-failing snippets. PLLM+ prioritizes inexpensive deterministic steps before invoking LLM-based repair: static AST-based inter",
-      "url": "https://arxiv.org/abs/2609.26952",
-      "category": [
-        "cs.AI",
-        "cs.MA",
-        "cs.SE"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
       "title": "Two years of OpenAI Academy",
       "date": "Wed, 23 Sep 2026 16:00:00 GMT",
       "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
@@ -193,18 +202,9 @@
       "source_name": "openai"
     },
     {
-      "title": "年检显示高里程电动车比汽油车更可靠",
-      "date": "Wed, 23 Sep 2026 15:52:30 GMT",
-      "summary": "对 4740 万英国机动车年检（MOT test）数据的分析发现，当汽车行驶里程达到 9-12 万英里时，电动汽车的年检不合格率为汽油车同类车型的 75%（16.5% 对 22.1%）。行驶里程超过 12 万英里后，电动汽车的不合格率为 16%，而汽油车为 23.5%。研究发现，较低行驶里程两种动力类型的汽车之间的不合格率差异相对较小。研究还发现，电动汽车的一大问题是其轮胎磨损问题两倍于燃油车。英国机动车年检没有检查电池的健康状况，因此电动汽车电池健康情况未知。研究人员表示他们的研究驳斥了高里程电动汽车应该报废的观念。",
-      "url": "https://www.solidot.org/story?sid=85467",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
       "title": "How Startups Are Using AI to Disrupt Industries",
       "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-09-23T13:02:31.401Z",
+      "date": "2026-09-23T15:58:05.112Z",
       "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
       "category": "Source Code",
       "source": "Every.to",
@@ -258,7 +258,7 @@
     {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-09-22T13:02:31.401Z",
+      "date": "2026-09-22T15:58:05.112Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
@@ -267,7 +267,7 @@
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-09-21T13:02:31.401Z",
+      "date": "2026-09-21T15:58:05.112Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
@@ -276,7 +276,7 @@
     {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-09-20T13:02:31.401Z",
+      "date": "2026-09-20T15:58:05.112Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -285,7 +285,7 @@
     {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-09-19T13:02:31.401Z",
+      "date": "2026-09-19T15:58:05.112Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
