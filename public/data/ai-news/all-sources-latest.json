@@ -1,9 +1,54 @@
 {
-  "fetch_time": "2026-09-27T09:49:45.366Z",
+  "fetch_time": "2026-09-27T13:25:41.974Z",
   "total_count": 24,
   "sources_count": 6,
   "errors": null,
   "articles": [
+    {
+      "title": "Meta 屏蔽了巴西总统的 FB 主页以及竞选广告",
+      "date": "Sun, 27 Sep 2026 11:13:33 GMT",
+      "summary": "距离 2026 年 10 月巴西大选不到两周，Meta 本周短暂屏蔽了巴西现任总统卢拉的 FB 主页以及竞选连任广告，在抗议和投诉之后，Meta 恢复了主页，但卢拉的竞选团队认为此举损害了总统的竞选活动。Meta 是在本周三屏蔽了卢拉的主页，未给出任何理由。卢拉竞选团队投诉称，数字环境在政治辩论中发挥着核心作用，限制卢拉的广告账户损害了其开展竞选活动的能力。此举使卢拉与其他候选人相比处于不平等的地位。卢拉竞选团队以及其所属的劳工党要求 Meta 保留所有数字证据，考虑诉诸巴西最高选举法院。",
+      "url": "https://www.solidot.org/story?sid=85487",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "Bitget 被盗走价值 3.875 亿美元加密货币",
+      "date": "Sun, 27 Sep 2026 10:45:23 GMT",
+      "summary": "Bitget 交易所被盗走价值 3.875 亿美元的加密货币。攻击发生在 9 月 24 日 18:31 UTC。区块链情报公司 Arkham 发表报告称，从 18:58 至 19:16 之间的 18 分钟内，价值 2.28 亿美元的数字资产从 Bitget 钱包中转出。价值 1.53 亿美元的 XRP 从一个被识别为​​ Bitget 冷钱包的地址中转出，此外还有价值 6620 万美元的 ETH、3480 万美元的 USDT、1290 万美元的 USDC 以及 1280 万美元的 Tether Gold on Ethereum 等。CEO Gracy Chen 称没有发生私钥泄漏，攻击者入侵了钱包服务的一个关键后端系统，利用它伪造转账信息，启动授权签名流程，将虚拟货币转移出去。",
+      "url": "https://www.solidot.org/story?sid=85486",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "科学家研制出至今最精确的原子钟",
+      "date": "Sun, 27 Sep 2026 10:21:06 GMT",
+      "summary": "新加坡国立大学研制出至今最精确的原子钟，运行 2600 亿年误差不到 1 秒。新设备是一台光学原子钟，靠镥离子固有而稳定的特性计时。特定频率的光，能把电子送上更高能量的激发态，而这一跃迁频率恒定不变。团队持续观测镥离子的跃迁，把激光锁定在触发跃迁的精确频率上，再以激光振荡作为计时标尺。在最新研究中，团队把镥钟频率测到小数点后 19 位，不确定度仅为 1×10^(-19)，创下所有光学原子钟的最低纪录。他们还造出两台时钟，进行了长达 200 小时的比对。团队表示，镥的特性非常适合这项工作。与原子钟常用的镱、锶等原子相比，镥对温度和磁场波动更不敏感。这些波动会干扰原子跃迁频率，进而影响时钟准确度。镥钟仅需商用激光技术，还能在室温下工作。未来精密计时，镥有望唱主角。",
+      "url": "https://www.solidot.org/story?sid=85485",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "龙芯 CPU 的原子加指令偶尔会丢失",
+      "date": "Sun, 27 Sep 2026 09:57:16 GMT",
+      "summary": "今年 2 月 Debian 13 的龙芯架构移植版 loong13 的维护者在编译打包过程中发现，normaliz 的自带测试会死循环导致打包超时。第一次排查发现原子加指令会在特定情况下丢失更新，但原因未知。今年 8 月，开发者在 AI 的帮助下重新寻找 normaliz 中原子加丢失的问题。他们让 AI 去找最小复现，在这个过程中负责指挥 AI 调查的方向。大概两天后找到了一个稳定的复现程序，才发现事情的根源是：CPU 的原子加法指令，偶尔会不原子。开发者向龙芯报告了问题，两周后龙芯给出了修复的测试固件，确认问题解决。龙芯表示会在国庆节（10 月 1 日）之前发布固件。该问题主要影响使用 LA664 核心的 3C6000/S 和 3A6000。",
+      "url": "https://www.solidot.org/story?sid=85484",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "The State of AI: A Look at What's Next",
+      "url": "https://every.to/p/the-state-of-ai",
+      "date": "2026-09-27T09:49:42.585Z",
+      "summary": "An in-depth analysis of the current AI landscape and future trends.",
+      "category": "AI Analysis",
+      "source": "Every.to",
+      "source_name": "every"
+    },
     {
       "title": "百利天恒：注射用BL-M12D1临床试验获批",
       "date": "Sun, 27 Sep 2026 08:45:43 GMT",
@@ -43,7 +88,7 @@
     {
       "title": "中科飞测：实控人的一致行动人拟减持不超0.28%股份",
       "date": "Sun, 27 Sep 2026 07:42:48 GMT",
-      "summary": "中科飞测9月27日公告，公司实际控制人的一致行动人深圳小纳光实验室投资企业（有限合伙）计划自公告���露之日起15个交易日后的3个月内，通过集中竞价交易方式减持公司股份不超过100万股，即不超过公司总股本的0.28%。本次减持不设价格区间，减持原因为自身资金安排需要。截至公告披露日，小纳光持有公司股份1885.59万股，占公司总股本的5.36%，均为IPO前取得股份。本次减持不会导致公司控股股东、实际控制人发生变化。（界面新闻）",
+      "summary": "中科飞测9月27日公告，公司实际控制人的一致行动人深圳小纳光实验室投资企业（有限合伙）计划自公告披露之日起15个交易日后的3个月内，通过集中竞价交易方式减持公司股份不超过100万股，即不超过公司总股本的0.28%。本次减持不设价格区间，减持原因为自身资金安排需要。截至公告披露日，小纳光持有公司股份1885.59万股，占公司总股本的5.36%，均为IPO前取得股份。本次减持不会导致公司控股股东、实际控制人发生变化。（界面新闻）",
       "url": "https://36kr.com/newsflashes/4001349116448904?f=rss",
       "category": "",
       "source": "36氪",
@@ -68,15 +113,6 @@
       "source_name": "36kr"
     },
     {
-      "title": "The State of AI: A Look at What's Next",
-      "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-09-27T04:45:44.309Z",
-      "summary": "An in-depth analysis of the current AI landscape and future trends.",
-      "category": "AI Analysis",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
       "title": "Excel 的单元格将支持输入多个值",
       "date": "Sat, 26 Sep 2026 15:06:41 GMT",
       "summary": "微软宣布其电子表格软件 Excel 的单元格将支持输入多个值，而不是以前的只能一个值。Excel 将通过“列表”（Lists）、“单元格内数组”（arrays in cells）和“嵌套数组”（nested arrays）三个功能实现在单元格内输入多个值。微软称，某个项目可能会将“Carlos，Henrietta，Jacob”列为三位负责人，或者 Forms 调查问卷可能会将“2:00 PM；2:30 PM；3:00 PM”作为单个回复返回。借助“列表”功能，用户既可以将这些值保留在同一个单元格中，又能彼此区分开来进行筛选、计算等操作。",
@@ -86,49 +122,13 @@
       "source_name": "solidot"
     },
     {
-      "title": "荷兰政府测试本土发行版 NixOS",
-      "date": "Sat, 26 Sep 2026 14:44:52 GMT",
-      "summary": "2025 年美国政府制裁了位于荷兰海牙的国际刑事法庭，导致了依赖微软软件的法庭工作陷入瘫痪，此事促使欧洲各国政府推动数字主权，减少对美国科技公司的依赖。其中荷兰政府正在本土 Linux 发行版 NixOS 基础上上构建数字工作环境 Digitaal Autonome Werkomgeving Overheid (DAWO) 。DAWO 包含了操作系统、办公套件、协作应用、云服务及管理工具。试点项目正在荷兰政府内部展开。欧洲各地的政府以前尝试过取代微软的软件，但成功者寥寥。现在过于依赖微软软件可能导致服务被彻底切断，对欧洲政府而言风险更大，因此转向替代解决方案比以往更重要。DAWO 先后尝试了 openSUSE 和 Fedora 发行版，最终选择了自主开发的发行版 NixOS。原因是 openSUSE 的母公司 SUSE 频繁出售，而 Fedora 是 Red Hat 主导开发的发行版，而 Red Hat 的母公司 IBM 是美国公司。NixOS 是基于荷兰开发的软件包管理器 Nix，不隶属于任何商业实体，开发者计划明年发布 1.0 版本。",
-      "url": "https://www.solidot.org/story?sid=85481",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "YouTube、TikTok 和 Meta 都拒绝投放马斯克纪录片的商业广告",
-      "date": "Sat, 26 Sep 2026 10:59:47 GMT",
-      "summary": "负责发行 Alex Gibney 拍摄的马斯克（Elon Musk）纪录片《Musk》的公司 Bleecker Street 发现，主流社交平台 YouTube、TikTok 和旗下包括 Instagram 和 Facebook 的 Meta 公司，以及马斯克旗下的 X 平台都拒绝投放该纪录片的商业广告。这是一部批评马斯克的纪录片，X 平台拒绝能理解，但 YouTube、TikTok 以及 Meta 都拒绝令发行商感到意外，引发了少数几家公司掌控社交平台压制言论自由的担忧。YouTube、TikTok 和 Meta 都以政治内容相关的理由拒绝投放广告。Bleecker Street 对三家公司提起了上诉，Meta 已经驳回上诉，而 TikTok 和 YouTube 仍在审议中，X 平台则直接拒绝沟通。《Musk》将于 10 月 9 日上映。",
-      "url": "https://www.solidot.org/story?sid=85480",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "Velum：方便部署的CosyVoice推理程序",
-      "date": "Sat, 26 Sep 2026 06:06:56 GMT",
-      "summary": "Nala Ginrut 写道： HardenedLinux 最近发布了可用于推理CosyVoice的Velum，它用modern C++开发，编译成一个单一的可执行文件，方便部署。 CosyVoice是目前比较优秀的一款 TTS 模型，但其推理程序使用的Python体系比较老旧，需要在部署的时候做一些处理，而且Python依赖占用空间较大，不利于大量能力情况下的Agent部署。要是每个agent能力都要一堆Python十几G的依赖，每一堆还有版本冲突，那就不要卖产品了，不如回家卖红薯。 Velum编译之后只有一个可执行文件，所谓部署更新就是拷贝。一些预处理的模型相关的东西虽然需要用Python生成，但运行时是不需要任何Python的东西。 Velum同时也是一个例证，它是由人类做架构规划，DeepSeek-v4-pro完成的项目，也就是说，DeepSeek足以做这种程度的Vibe。在目前Claude只需要两轮配额就烧干的今天，稍微复杂点的程序，如果不能用DeepSeek做，最后还是要回家卖红薯。 希望以后Codex和Claude也能增强自己的竞争力，把价格向DeepSeek靠拢，让天下",
-      "url": "https://www.solidot.org/story?sid=85479",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
       "title": "How Startups Are Using AI to Disrupt Industries",
       "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-09-26T04:45:44.309Z",
+      "date": "2026-09-26T09:49:42.585Z",
       "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
       "category": "Source Code",
       "source": "Every.to",
       "source_name": "every"
-    },
-    {
-      "title": "黑手党可能阻止了芬太尼流入意大利",
-      "date": "Sat, 26 Sep 2026 03:42:34 GMT",
-      "summary": "在电影《教父》中，维托柯里昂（Don Vito Corleone）拒绝参与海洛因交易，称毒品生意太脏。现实中的黑手党并非如此，但对于选择芬太尼还是海洛因等其它毒品，意大利黑手党看起来选择了拒绝芬太尼。这或许可以解释意大利芬太尼过量致死率异常低。2024 年比吗啡强效百倍的合成阿片类药物在意大利仅检测出两例致死事件。相比之下，德国 95 例，美国近 4.8 万例。意大利整体上的毒品消费水平无法解释这一现象。根据欧洲的数据，每年约有 2.1% 的意大利青年使用可卡因，德国的这一比例为 2.2%。芬太尼在意大利尚未造成太大影响，警方也没有查获多少芬太尼，反黑手党检察官 Nicola Gratteri 认为黑手党远离了芬太尼。芬太尼相比海洛因和可卡因致死率更高，客户容易死亡对黑手党而言不是一门好生意，通常意味着更低的利润，因此黑手党选择了拒绝芬太尼。",
-      "url": "https://www.solidot.org/story?sid=85478",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
     },
     {
       "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
@@ -142,7 +142,7 @@
     {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-09-25T04:45:44.309Z",
+      "date": "2026-09-25T09:49:42.585Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
@@ -151,7 +151,7 @@
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-09-24T04:45:44.309Z",
+      "date": "2026-09-24T09:49:42.585Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
@@ -205,7 +205,7 @@
     {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-09-23T04:45:44.309Z",
+      "date": "2026-09-23T09:49:42.585Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -214,7 +214,7 @@
     {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-09-22T04:45:44.309Z",
+      "date": "2026-09-22T09:49:42.585Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
