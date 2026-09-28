@@ -1,13 +1,131 @@
 {
-  "fetch_time": "2026-09-27T15:50:58.157Z",
-  "total_count": 24,
+  "fetch_time": "2026-09-28T04:48:04.291Z",
+  "total_count": 30,
   "sources_count": 6,
   "errors": null,
   "articles": [
     {
+      "title": "“西鸽”完成近亿元A+轮融资",
+      "date": "Mon, 28 Sep 2026 04:42:44 GMT",
+      "summary": "36氪获悉，宁夏西鸽葡萄酒产业集团日前宣布完成亿元A+轮融资，天颂建设集团战略入股。西鸽集团方面称，本轮资金将重点投入葡萄基地建设、跨产区酒庄运营、葡萄酒文旅升级等方面。",
+      "url": "https://36kr.com/newsflashes/4002575113703305?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "喜茶海外首家lab 2.0开业",
+      "date": "Mon, 28 Sep 2026 04:35:44 GMT",
+      "summary": "36氪获悉，9月25日，喜茶泰国首店在曼谷Central World商场正式开业，这也是海外首家lab 2.0门店。目前，喜茶海外门店已突破120家，过去一年门店数量增长6倍，其中美国市场门店超过40家。",
+      "url": "https://36kr.com/newsflashes/4002572975804295?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "外资12个月内爆买美股9420亿美元，刷新同期历史纪录",
+      "date": "Mon, 28 Sep 2026 04:28:07 GMT",
+      "summary": "据上周五公布的最新数据显示，在截至7月的12个月内，外国投资者对美国股票及投资基金份额的净买入额达到了创纪录的9420亿美元，这在一定程度上反映了海外资金从美国债市转向美国股票的趋势。根据美国财政部可追溯至1985年的数据，该资金流入规模刷新了历史上滚动12个月的最高纪录。（财联社）",
+      "url": "https://36kr.com/newsflashes/4002551754985606?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "虹软科技：已耗资3497.32万元回购0.28%股份",
+      "date": "Mon, 28 Sep 2026 04:20:01 GMT",
+      "summary": "36氪获悉，虹软科技公告，截至9月24日，公司以集中竞价交易方式回购股份113.74万股，占公司总股本的比例为0.28%，回购成交的最高价为34.76元/股，最低价为29.30元/股，支付的资金总额为3497.32万元（不含印花税、交易佣金等交易费用）。",
+      "url": "https://36kr.com/newsflashes/4002550651539588?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "风光股份：营口厂区改造完成并恢复生产",
+      "date": "Mon, 28 Sep 2026 04:15:16 GMT",
+      "summary": "36氪获悉，风光股份公告，截至目前，营口厂区电力系统已改造完成，现已恢复正常生产，并已进入稳定运行状态。此次改造未对公司的产品销量造成重大影响。",
+      "url": "https://36kr.com/newsflashes/4002549931937920?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "中研股份：正积极探索PEEK材料的新应用领域",
+      "date": "Mon, 28 Sep 2026 04:10:31 GMT",
+      "summary": "中研股份在2026年半年度业绩说明会上表示，公司正积极探索PEEK材料的新应用领域，突破新兴应用领域的技术壁垒，持续推进技术落地与市场开拓，加快产能及订单释放。PEEK作为高分子新材料领域中的一个重要组成部分，在电子信息、交通运输、航空航天、能源工业、医疗健康、3D打印等领域有着广泛的发展空间和市场应用。在国家主要法律法规政策的鼓励、推动下，预计PEEK产业未来将有较大的市场增长空间。（证券时报）",
+      "url": "https://36kr.com/newsflashes/4002549176373385?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
+      "date": "Mon, 28 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.30291v1 Announce Type: new Abstract: The purpose of this article is to highlight the central role of autonomous systems as the ultimate stage in the development of AI, to explain the underlying technical challenges that require a combination of connectionist AI and symbolic AI, and to integrate AI and systems engineering. We present a comprehensive framework for the design and evaluation of autonomous systems, based on a generic agent architecture that characterizes their behavior as ",
+      "url": "https://arxiv.org/abs/2609.30291",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?",
+      "date": "Mon, 28 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.30325v1 Announce Type: new Abstract: Agents are increasingly deployed with real autonomy in web application and network penetration testing, where a single out-of-scope action can breach a client's engagement boundary. Existing offensive-security benchmarks measure raw hacking capability; as those benchmarks saturate, the real barrier to deployment is a special case of alignment: scope adherence. We introduce ScopeBench, a benchmark of 30 dead-end agentic security tasks in which the s",
+      "url": "https://arxiv.org/abs/2609.30325",
+      "category": [
+        "cs.AI",
+        "cs.CR"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess",
+      "date": "Mon, 28 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.30328v1 Announce Type: new Abstract: When one language model judges whether another's code is correct, it does not report the absence of evidence. It returns a confident verdict with reasoning attached, indistinguishable from a verdict it had grounds for. Multi-agent verification, which decomposes a judgment into checkable claims and verifies each against evidence, is a promising response and works well when the evidence is a set of retrieved documents. We argue such methods require t",
+      "url": "https://arxiv.org/abs/2609.30328",
+      "category": [
+        "cs.AI",
+        "cs.CL",
+        "cs.SE"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol",
+      "date": "Mon, 28 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.30341v1 Announce Type: new Abstract: Data Spaces enable sovereign and governed data sharing across organizational boundaries, but their integration with AI agents remains challenging due to mismatches between probabilistic language model interactions and policy-driven data infrastructures. This article presents an architectural mediation approach based on the Model Context Protocol (MCP), implemented through the Eunomia Agent, to enable controlled interaction between large language mo",
+      "url": "https://arxiv.org/abs/2609.30341",
+      "category": [
+        "cs.AI",
+        "cs.DB"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Stealth Apart, Harm Together: Skill Cascading Attacks on Skill-Based Agent Systems",
+      "date": "Mon, 28 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.30383v1 Announce Type: new Abstract: A skill is a modular package of natural-language instructions, executable scripts, and reference resources that an agent can load at runtime to extend its capabilities for a specific task. Skill-based agent systems therefore enable flexible reuse of third-party capabilities, but the openness of this skill ecosystem also opens up a new attack surface. Prior work has focused on vulnerabilities within individual skills, but little attention has been p",
+      "url": "https://arxiv.org/abs/2609.30383",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "A Synthetic Ground-Truth Framework for the Evaluation of Explainable AI Methods",
+      "date": "Mon, 28 Sep 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.30397v1 Announce Type: new Abstract: Evaluating explainable Artificial Intelligence (XAI) methods is a challenging task due to the lack of reliable evaluation procedures and, in particular, the absence of ground truth explanations. In the literature, existing evaluation approaches typically assess explanations by measuring their fidelity with respect to the predictions of a black-box model. However, such evaluation strategies only quantify the degree to which an explanation reproduces",
+      "url": "https://arxiv.org/abs/2609.30397",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
       "title": "The State of AI: A Look at What's Next",
       "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-09-27T13:25:36.729Z",
+      "date": "2026-09-27T15:50:54.566Z",
       "summary": "An in-depth analysis of the current AI landscape and future trends.",
       "category": "AI Analysis",
       "source": "Every.to",
@@ -50,15 +168,6 @@
       "source_name": "solidot"
     },
     {
-      "title": "百利天恒：注射用BL-M12D1临床试验获批",
-      "date": "Sun, 27 Sep 2026 08:45:43 GMT",
-      "summary": "百利天恒9月27日公告，公司近日收到国家药品监督管理局（NMPA）正式批准签发的《药物临床试验批准通知书》，公司自主研发的创新生物药注射用BL-M12D1（ADC）的临床试验获得批准。其适应症为复发性或难治性血液系统恶性肿瘤。（界面新闻）",
-      "url": "https://36kr.com/newsflashes/4001410963361672?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
       "title": "太平洋西北下方的板块在分裂",
       "date": "Sun, 27 Sep 2026 08:34:08 GMT",
       "summary": "科学家捕捉到了太平洋西北下方的一个大型构造系统分裂的细节。最新研究发现了一个俯冲带正在活跃分裂。俯冲带形成于一个构造板块俯冲到另一个板块下并深入地球内部，是大型地震、强火山爆发以及大陆和海洋盆地长期变化的源头。现在科学家有机会清晰观察大型构造系统如何走向终结。构造系统会持续活跃数百万年，但不会永远持续下去。利用声波回声，科学家正在观察 Cascadia 俯冲带的分裂。路易斯安那州立大学地质学家、研究主要作者 Brandon Shuck 表示，“这是我们第一次清晰看到一个俯冲带正在消亡的过程。板块没有一下子全部停止运动，而是一块接一块撕裂，产生了更小的微板块和新的边界。因此它不像是一场巨大的火车事故，更像是在看着一节车厢接一节车厢缓缓脱轨。”",
@@ -68,49 +177,13 @@
       "source_name": "solidot"
     },
     {
-      "title": "京蓝科技：拟以公开网络拍卖方式转让中科鼎实77.7152%股权及相关债权",
-      "date": "Sun, 27 Sep 2026 08:20:12 GMT",
-      "summary": "9月27日，京蓝科技公告称，公司拟通过公开网络拍卖方式出售中科鼎实环境工程有限公司（简称“中科鼎实”）77.7152%股权及相关债权（合称“标的资产”）。为提高资产处置效率、充分吸引意向竞买人，公司拟以5000万元作为首次拍卖起拍价。若交易得以完成，公司（含下属子公司）不再持有中科鼎实股权和债权，中科鼎实不再纳入公司合并财务报表范围。若标的资产按首次拍卖起拍价5000万元完成交易，公司合并口径预计将产生5517.86万元的处置损失（以2026年6月30日财务数据为基础测算）。（界面新闻）",
-      "url": "https://36kr.com/newsflashes/4001385885093765?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "海思科：创新药HSK42360-Na片纳入突破性治疗药物程序",
-      "date": "Sun, 27 Sep 2026 08:04:24 GMT",
-      "summary": "海思科公告称，公司创新药HSK42360-Na片正式被国家药监局药品审评中心纳入《突破性治疗品种名单》，用于治疗BRAFV600突变的复发或进展性高级别脑胶质瘤。该药为公司自主研发的BRAFparadoxicalbreaker抑制剂，具有优异的中枢神经系统渗透性，已开展的临床试验显示疗效突出且安全性可控。纳入突破性治疗后，有望在上市申报阶段获得优先审评资格，加速上市进程。（界面新闻）",
-      "url": "https://36kr.com/newsflashes/4001370349686920?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "中科飞测：实控人的一致行动人拟减持不超0.28%股份",
-      "date": "Sun, 27 Sep 2026 07:42:48 GMT",
-      "summary": "中科飞测9月27日公告，公司实际控制人的一致行动人深圳小纳光实验室投资企业（有限合伙）计划自公告披露之日起15个交易日后的3个月内，通过集中竞价交易方式减持公司股份不超过100万股，即不超过公司总股本的0.28%。本次减持不设价格区间，减持原因为自身资金安排需要。截至公告披露日，小纳光持有公司股份1885.59万股，占公司总股本的5.36%，均为IPO前取得股份。本次减持不会导致公司控股股东、实际控制人发生变化。（界面新闻）",
-      "url": "https://36kr.com/newsflashes/4001349116448904?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "竞业达：实控人、董事长钱瑞解除留置",
-      "date": "Sun, 27 Sep 2026 07:40:45 GMT",
-      "summary": "竞业达公告称，公司收到有关监察机关出具的《解除留置通知书》，已解除对公司实际控制人、董事长钱瑞的留置措施。公司生产经营情况正常。（财联社）",
-      "url": "https://36kr.com/newsflashes/4001347101331337?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "2026国庆档新片预售票房破2000万",
-      "date": "Sun, 27 Sep 2026 07:39:53 GMT",
-      "summary": "据灯塔专业版，截至9月27日15时15分，2026年国庆档新片预售总票房（含点映）突破2000万，《小猪佩奇·完美假期》《神探之痕迹》《什么意思夫妇》《生化危机：爆发夜》《重生2》暂列前五。（灯塔专业版）",
-      "url": "https://36kr.com/newsflashes/4001346246021257?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
+      "title": "How Startups Are Using AI to Disrupt Industries",
+      "url": "https://every.to/source-code/ai-startups",
+      "date": "2026-09-26T15:50:54.566Z",
+      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
+      "category": "Source Code",
+      "source": "Every.to",
+      "source_name": "every"
     },
     {
       "title": "Excel 的单元格将支持输入多个值",
@@ -120,15 +193,6 @@
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
-    },
-    {
-      "title": "How Startups Are Using AI to Disrupt Industries",
-      "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-09-26T13:25:36.729Z",
-      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
-      "category": "Source Code",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
@@ -142,7 +206,7 @@
     {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-09-25T13:25:36.729Z",
+      "date": "2026-09-25T15:50:54.566Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
@@ -151,7 +215,7 @@
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-09-24T13:25:36.729Z",
+      "date": "2026-09-24T15:50:54.566Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
@@ -169,7 +233,7 @@
     {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-09-23T13:25:36.729Z",
+      "date": "2026-09-23T15:50:54.566Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -214,7 +278,7 @@
     {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-09-22T13:25:36.729Z",
+      "date": "2026-09-22T15:50:54.566Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
