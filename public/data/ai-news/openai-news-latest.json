@@ -1,7 +1,7 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-09-29T05:13:31.569Z",
+  "fetch_time": "2026-09-29T10:25:02.059Z",
   "articles": [
     {
       "title": "How we will do better for Australia",
@@ -9,6 +9,13 @@
       "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
       "url": "https://openai.com/index/how-we-will-do-better-for-australia",
       "category": "Company"
+    },
+    {
+      "title": "Towards safety cases for frontier AI training",
+      "date": "Mon, 28 Sep 2026 19:00:00 GMT",
+      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "category": "Safety"
     },
     {
       "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
@@ -37,13 +44,6 @@
       "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
       "url": "https://openai.com/index/proaction",
       "category": ""
-    },
-    {
-      "title": "Two years of OpenAI Academy",
-      "date": "Wed, 23 Sep 2026 16:00:00 GMT",
-      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-      "url": "https://openai.com/index/two-years-of-openai-academy",
-      "category": "Company"
     }
   ],
   "status": "success",
