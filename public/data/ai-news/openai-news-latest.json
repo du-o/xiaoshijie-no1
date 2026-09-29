@@ -1,14 +1,35 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-09-28T18:48:09.569Z",
+  "fetch_time": "2026-09-29T05:13:31.569Z",
   "articles": [
+    {
+      "title": "How we will do better for Australia",
+      "date": "Mon, 28 Sep 2026 19:00:00 GMT",
+      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "category": "Company"
+    },
     {
       "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
       "date": "Mon, 28 Sep 2026 07:00:00 GMT",
       "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
       "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
       "category": "Company"
+    },
+    {
+      "title": "Are you a Codex Original?",
+      "date": "Mon, 28 Sep 2026 00:00:00 GMT",
+      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+      "url": "https://openai.com/form/codex-originals",
+      "category": ""
+    },
+    {
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "date": "Mon, 28 Sep 2026 00:00:00 GMT",
+      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "category": ""
     },
     {
       "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
@@ -23,27 +44,6 @@
       "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
       "url": "https://openai.com/index/two-years-of-openai-academy",
       "category": "Company"
-    },
-    {
-      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-      "date": "Wed, 23 Sep 2026 13:00:00 GMT",
-      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
-      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-      "category": "Global Affairs"
-    },
-    {
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "date": "Wed, 23 Sep 2026 12:00:00 GMT",
-      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "category": "Startup"
-    },
-    {
-      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-      "date": "Wed, 23 Sep 2026 12:00:00 GMT",
-      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-      "category": ""
     }
   ],
   "status": "success",

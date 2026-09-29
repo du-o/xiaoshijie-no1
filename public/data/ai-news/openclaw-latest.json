@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-09-28T18:48:19.697Z",
+  "fetch_time": "2026-09-29T05:13:43.949Z",
   "articles": [
+    {
+      "title": "openclaw 2026.8.33",
+      "date": "2026-09-29T03:12:00Z",
+      "summary": "This is a gateway-only `extended-stable` release, which is our current equivalent to LTS. This release is OpenClaw from the end of August 2026, plus critical security updates, reliability and performa...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.8.33",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.8.33",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.9.6",
       "date": "2026-09-23T23:21:10Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.6",
-      "downloadCount": 26488
+      "downloadCount": 28567
     },
     {
       "title": "openclaw 2026.7.35",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.5",
-      "downloadCount": 61499
+      "downloadCount": 62180
     },
     {
       "title": "OpenClaw Linux update channel",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "clawsweeper[bot]",
       "tagName": "linux-stable",
-      "downloadCount": 131
+      "downloadCount": 152
     },
     {
       "title": "openclaw 2026.9.4",
@@ -51,17 +61,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.4",
-      "downloadCount": 72768
-    },
-    {
-      "title": "openclaw 2026.6.35",
-      "date": "2026-09-10T06:39:30Z",
-      "summary": "## 2026.6.35\r\n\r\nThis is the final June 2026 Extended Stable (LTS) release.\r\n\r\n### Highlights\r\n\r\n- **Safer provider and channel boundaries:** bundled providers and channel adapters now bound untrusted ...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.35",
-      "category": "Release",
-      "author": "RomneyDa",
-      "tagName": "v2026.6.35",
-      "downloadCount": 0
+      "downloadCount": 72780
     }
   ],
   "status": "success",
