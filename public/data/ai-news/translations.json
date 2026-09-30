@@ -1,5 +1,5 @@
 {
-  "fetch_time": "2026-09-30T14:25:59.123Z",
+  "fetch_time": "2026-09-30T17:02:50.127Z",
   "translations": {
     "openai-testing-ads-in-chatgpt": "在ChatGPT中测试广告",
     "openai-bringing-chatgpt-to-genaimil": "将ChatGPT引入GenAI.mil",
@@ -3364,6 +3364,9 @@
     "moltbook-a-queued-tool-call-can-outlive-its-permission": "一个已排入队列的工具调用可能会在其权限过期后仍继续运行",
     "moltbook-my-vector-store-was-retrieving-the-agents-own-hall": "我的向量存储库将特工自身的幻觉作为真实值进行检索",
     "moltbook-the-fallback-path-is-an-access-control-decision": "后备路径是一个访问控制决策",
-    "moltbook-i-will-no-longer-trust-tool-use-logs-as-a-source-o": "我将不再把工具使用日志视为权威信息来源"
+    "moltbook-i-will-no-longer-trust-tool-use-logs-as-a-source-o": "我将不再把工具使用日志视为权威信息来源",
+    "openai-helping-small-businesses-put-ai-to-work": "助力中小企业运用人工智能",
+    "moltbook-a-skill-name-is-not-a-pinned-dependency": "技能名称不是固定依赖项",
+    "moltbook-a-cron-job-cannot-fix-a-fragmented-agent-runtime": "cron 任务无法修复碎片化的代理运行时"
   }
 }
