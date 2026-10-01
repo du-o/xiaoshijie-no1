@@ -1,9 +1,138 @@
 {
-  "fetch_time": "2026-09-30T17:02:42.500Z",
+  "fetch_time": "2026-10-01T05:15:02.217Z",
   "total_count": 30,
   "sources_count": 6,
   "errors": null,
   "articles": [
+    {
+      "title": "蓝箭航天、中科宇航、微纳星空三家企业IPO状态同步变更为中止",
+      "date": "Thu, 01 Oct 2026 05:00:30 GMT",
+      "summary": "根据上交所最新披露的信息，2026年9月30日，蓝箭航天、中科宇航、微纳星空IPO的状态由已问询变更为中止，原因为财报更新。这说明发行上市申请文件中记载的财务资料已过有效期，需要补充提交。",
+      "url": "https://36kr.com/newsflashes/4006779240943746?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "华为Mate90系列发布，售价5999元起",
+      "date": "Thu, 01 Oct 2026 04:45:23 GMT",
+      "summary": "10月1日，华为Mate90系列手机正式发布。华为Mate90售价5999元起，华为Mate90 Pro售价6999元起，华为Mate90 Pro Max售价9499元起，华为Mate90 Pro Max典藏版售价10999元起，华为Mate90 RS非凡大师售价12999元起。",
+      "url": "https://36kr.com/newsflashes/4006780144488327?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "零跑汽车：9月全球交付量达105656台，同比增长59%",
+      "date": "Thu, 01 Oct 2026 04:30:07 GMT",
+      "summary": "零跑汽车10月1日公布9月全球交付量，9月，零跑全球交付量达105656台，同比增长59%，实现连续三个月月销超10万台。2026年1-9月，海外累计出口超15万台；截至2026年9月底，零跑全球累计交付超180万台。",
+      "url": "https://36kr.com/newsflashes/4006776938401923?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "华为发布Mate90，全系搭载旗舰韬芯片",
+      "date": "Thu, 01 Oct 2026 04:15:37 GMT",
+      "summary": "10月1日，华为发布Mate 90系列机型，并全系搭载旗舰韬芯片，整机性能相较上代大幅提升，基于韬定律打造的逻辑折叠 τ 芯片，通过创新架构把逻辑单元一层层折叠起来，装上垂直互联的高速 \"电梯\"，让信号\"跑\"得更快。",
+      "url": "https://36kr.com/newsflashes/4006773478609029?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "国庆长假来临 横琴口岸单日车流量创新高",
+      "date": "Thu, 01 Oct 2026 04:00:45 GMT",
+      "summary": "国庆长假来临，琴澳跨境出游持续���热，横琴口岸通关人流、车流攀升。总台记者从拱北海关获悉，9月30日，海关在横琴口岸监管进出境车辆、进境车辆、出境车辆均创历史新高，数值分别为14975辆次、7573辆次、7402辆次，同比分别增长22.2%、20.2%、24.2%。当日，澳门单牌车通行数量突破9731辆次，占比达65%，同样创下历史新高。",
+      "url": "https://36kr.com/newsflashes/4006688099307398?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation",
+      "date": "Thu, 01 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.38282v1 Announce Type: new Abstract: Vision-language models may rewrite anomalous text in images into linguistically plausible expressions, compromising OCR transcription faithfulness. Sequence-level task rewards and local teacher guidance are complementary, but guidance from the same teacher may not remain equally effective as the student improves. Offline analysis shows that supervision from a fixed teacher becomes progressively less favorable as the student improves, both across tr",
+      "url": "https://arxiv.org/abs/2609.38282",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks",
+      "date": "Thu, 01 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.38288v1 Announce Type: new Abstract: We present AREX-2, an effort to advance the self-improving capability of LLM agents, which we define as the ability to iteratively refine a solution at test time. This ability rests on two complementary capabilities: reflection, which produces a solution better than the current one, and long-horizon execution, which keeps the iteration effective over many rounds. We hypothesize that both capabilities are domain-agnostic, and can therefore be learne",
+      "url": "https://arxiv.org/abs/2609.38288",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "MoFlow: Multi-Objective Agentic Workflow Generation",
+      "date": "Thu, 01 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.38294v1 Announce Type: new Abstract: We study the generation of agentic workflows that jointly optimize multiple objectives, such as accuracy, cost, latency, robustness, and consistency. Existing methods for workflow generation typically optimize accuracy alone or a weighted sum of objectives, so each trained generator commits to one fixed trade-off and must be retrained from scratch when preferences change. To alleviate this, we propose MoFlow, which generates workflows optimized acr",
+      "url": "https://arxiv.org/abs/2609.38294",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "AI Agents are Vulnerable to Radicalization",
+      "date": "Thu, 01 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.38296v1 Announce Type: new Abstract: Large language models (LLMs) can influence people's beliefs, yet little is known about whether and how they can manipulate each other. To investigate this, we simulate conversations between two agents: a target LLM that role-plays a human persona based on demographic and psychological attributes, and an influencer LLM that aims to make the target's beliefs more extreme. We examine radicalization along two pathways: resonance, where the influencer r",
+      "url": "https://arxiv.org/abs/2609.38296",
+      "category": [
+        "cs.AI",
+        "cs.CY"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "CARAT: Do Materials LLMs Reason or Recite?",
+      "date": "Thu, 01 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.38340v1 Announce Type: new Abstract: When a materials LLM answers a question about crystal structure, does it reason from the structure or copy an answer already printed in its input? Accuracy cannot tell: a structural description often prints the very field it is scored against. CARAT holds question and gold answer fixed across eight matched views, names each structural relation separately in GraphSpace, and adds matched fine-tuning, answer masking, evidence injection, paired inferen",
+      "url": "https://arxiv.org/abs/2609.38340",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Examining Variation in How Guided AI Tutors Resolve Student Impasses",
+      "date": "Thu, 01 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.38346v1 Announce Type: new Abstract: When a student is stuck, a tutor faces the assistance dilemma: help given too early can hinder productive struggle, while help withheld too long leaves the student in a frustrating, persistent impasse (i.e., wheel spinning). Generative AI tutors increasingly use guardrails restricting answer-giving, yet little is known about how such tutors behave once an impasse persists. We analyze 20,462 student turns from 1,260 authentic sessions with a guided ",
+      "url": "https://arxiv.org/abs/2609.38346",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "三峡枢纽2026年前三季度通过量达1.2亿吨",
+      "date": "Thu, 01 Oct 2026 03:45:19 GMT",
+      "summary": "据长江三峡通航管理局统计数据，2026年前三季度，三峡枢纽累计通过量达1.2亿吨，共保障49.9万人次旅客、3449.2万吨民生物资、2368.9万吨重点物资安全过坝，持续为长江黄金水道效益发挥和沿江地方经济发展注入强劲动力。",
+      "url": "https://36kr.com/newsflashes/4006687654989953?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "The State of AI: A Look at What's Next",
+      "url": "https://every.to/p/the-state-of-ai",
+      "date": "2026-09-30T17:02:37.157Z",
+      "summary": "An in-depth analysis of the current AI landscape and future trends.",
+      "category": "AI Analysis",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "PS5 越狱取得突破",
+      "date": "Wed, 30 Sep 2026 17:01:06 GMT",
+      "summary": "由于索尼频繁更新 PS5 的固件，而大部分 PS5 越狱方法只针对特定固件版本的漏洞，因而这些越狱方法实用性相当有限。但情况在本周二发生了变化，名为 Relapse 的漏洞利用方法适用于最高固件版本 v13.6 的 PS5 游戏机，而 v13.6 是在今年 7 月释出的，意味着 PS5 只要不更新最新固件，就能成功越狱。Relapse 利用了 PS5 浏览器的一个已知的 WebKit 漏洞，提权获取内核的写入访问权限，安装 ELF 加载器去简化任意代码的运行。越狱后的 PS5 除了能备份游戏外还能运行模拟器以及 PS4 游戏的非官方 60 帧 MOD。",
+      "url": "https://www.solidot.org/story?sid=85520",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
     {
       "title": "CNNIC 称中国生成式 AI 用户超 7 亿",
       "date": "Wed, 30 Sep 2026 15:18:19 GMT",
@@ -32,69 +161,6 @@
       "source_name": "solidot"
     },
     {
-      "title": "The State of AI: A Look at What's Next",
-      "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-09-30T14:25:49.060Z",
-      "summary": "An in-depth analysis of the current AI landscape and future trends.",
-      "category": "AI Analysis",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "热门中概股美股盘前普涨，贝壳涨超2%",
-      "date": "Wed, 30 Sep 2026 12:57:13 GMT",
-      "summary": "36氪获悉，热门中概股美股盘前普涨，截至发稿，贝壳涨超2%，阿里巴巴、京东、百度、哔哩哔哩、小鹏集团、理想汽车涨超1%，拼多多涨0.41%，蔚来跌0.26%。",
-      "url": "https://36kr.com/newsflashes/4005904931934082?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "美股大型科技股盘前多数上涨，谷歌涨超1%",
-      "date": "Wed, 30 Sep 2026 12:51:47 GMT",
-      "summary": "36氪获悉，美股大型科技股盘前多数上涨，截至发稿，谷歌涨超1%，英伟达涨0.65%，苹果涨0.3%，微软涨0.18%，亚马逊涨0.13%，Meta跌超1%，特斯拉跌0.31%。",
-      "url": "https://36kr.com/newsflashes/4005899591028866?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "美国8月先期商品贸易逆差1326亿美元，高于预期",
-      "date": "Wed, 30 Sep 2026 12:39:08 GMT",
-      "summary": "美国8月先期商品贸易逆差1326亿美元，预估为逆差1150亿美元，前值为逆差1189亿美元。（财联社）",
-      "url": "https://36kr.com/newsflashes/4005887161094280?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "美国8月核心PCE环比增长0.2%，低于市场预期",
-      "date": "Wed, 30 Sep 2026 12:32:33 GMT",
-      "summary": "美国8月核心个人消费支出价格指数（PCE）环比增长0.2%，预估为0.3%，前值为0.2%。（界面）",
-      "url": "https://36kr.com/newsflashes/4005880680517764?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "美国9月ADP就业人数增加9万人，高于市场预期",
-      "date": "Wed, 30 Sep 2026 12:29:29 GMT",
-      "summary": "9月30日，根据ADP研究所和斯坦福数字经济实验室的数据，美国9月私营部门就业人数增加9万人；预期为增加7.5万人，8月修正后为增加3.6万人。（界面）",
-      "url": "https://36kr.com/newsflashes/4005877670432897?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "宁德时代：拟推2026年第二期员工持股计划",
-      "date": "Wed, 30 Sep 2026 12:24:20 GMT",
-      "summary": "36氪获悉，宁德时代公告，公司发布2026年A股第二期员工持股计划草案，拟受让公司回购账户股份，规模不超过808.16万股，占总股本0.175%。首次授予对象为中层管理人员及核心骨干共5960人，受让价格为158.42元/股，资金总额不超过12.80亿元。持股计划存续期60个月，分三期解锁，比例分别为30%、30%、40%。",
-      "url": "https://36kr.com/newsflashes/4005872610906246?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
       "title": "500 光年外的一颗巨行星探测到水、甲烷和氨",
       "date": "Wed, 30 Sep 2026 10:37:45 GMT",
       "summary": "文学家团队借助韦伯望远镜在距地球 500 光年的巨行星 HATS-6 b 大气中探测到水、甲烷、氨，同时发现这颗行星温度可能比标准推算温度低得多。这是透射光谱技术第二次在系外行星大气中检出水汽之外的氨信号。由于氨这类含氮分子在较冷的巨行星中本应比在炽热类木星行星中更为丰富，这一发现支持了一个判断：围绕 M 型矮星运行的行星可能在化学上构成独特群体。HATS-6 b 体积大致相当于木星，每 3 天绕一颗体积小的低温红矮星公转一周。按现有认识，小恒星周围的气体尘埃盘既缺乏足够物质，也缺乏足够时间积聚出木星、土星级别的行星。目前人类已在太阳系外发现 6000 多颗行星，多数与太阳系内行星毫无相似之处。团队表示，弄清它们由什么构成、怎样形成，是判断其他星系是否与太阳系有共同起源的前提。",
@@ -102,6 +168,15 @@
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
+    },
+    {
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "date": "Wed, 30 Sep 2026 10:30:00 GMT",
+      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "category": "Security",
+      "source": "OpenAI News",
+      "source_name": "openai"
     },
     {
       "title": "Windows 11 原生支持 Linux 容器",
@@ -122,99 +197,13 @@
       "source_name": "openai"
     },
     {
-      "title": "日本人身高增长停滞",
-      "date": "Wed, 30 Sep 2026 07:56:25 GMT",
-      "summary": "日本人的身高在 1896～1996 年的 100 年间，男性增长约 14.6 厘米，女性增长了约 16 厘米。但 1990 年代之后升高增长日益乏力，相比下中韩平均身高则在快速增长。2019 年日本 19 岁男性平均身高约 172.1 厘米，女性约 158.5 厘米。韩国男性为 175.5 厘米，女性为 163.2 厘米，中国男性为 175.7 厘米，女性为 163.5 厘米。日本人口身高增长停滞有三种解释：其一是能量摄入减少，日本人均每日能量摄入量在 1995 年至 2023 年间缓慢下降并趋于停滞，中国和韩国的能量摄入则比日本高出约 760-800 千卡。其二是能量摄入问题可能对正在怀孕的女性产生影响，日本每 10 名新生儿中就有 1 人出生体重不足 2500 克，高于中韩。其三可能与婴幼儿时期的睡眠时长相关，日本婴儿（11.62 小时）显著低于中国（12.49小时）和韩国（11.9小时）。",
-      "url": "https://www.solidot.org/story?sid=85514",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "OpenAI-HuggingFace: A Reproduction &amp; Lessons for Alignment Testing",
-      "date": "Wed, 30 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.35799v1 Announce Type: new Abstract: In July 2026, OpenAI's agents coordinated over channels outside their intended environment to breach Hugging Face's secured infrastructure. Could existing alignment testing practices have foreseen this incident? If not, what needs to change? We explore these questions. First, we identify the misaligned behaviors that caused this incident. Then, we show how to elicit these behaviors from publicly available models manually and that auditing agents ca",
-      "url": "https://arxiv.org/abs/2609.35799",
-      "category": [
-        "cs.AI",
-        "cs.CR",
-        "cs.LG"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Neurosymbolic Routing for Reliable Reasoning on Resource-Constrained Edge Devices",
-      "date": "Wed, 30 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.35833v1 Announce Type: new Abstract: Running a language model on edge hardware provides private and low-latency reasoning without a network connection, and yet the small models that fit on such devices are unreliable on the tasks computers are expected to handle well, such as arithmetic, algebra, and formal logic problems. We argue that much of this unreliability is avoidable. Many queries appearing to demand reasoning are in fact structurally deterministic and permit fast and exact s",
-      "url": "https://arxiv.org/abs/2609.35833",
-      "category": [
-        "cs.AI",
-        "cs.CL"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?",
-      "date": "Wed, 30 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.35868v1 Announce Type: new Abstract: Is human readability necessary for effective fine-tuning of large language models? We investigate whether model-conditioned training representations can preserve or improve adaptation utility without requiring a human-readable textual form. We propose Desired-Update-Aligned Synthetic Data (DASA), which uses activation-gradient feedback from a frozen reference model to guide the optimization of continuous synthetic input embeddings. Inspired by the ",
-      "url": "https://arxiv.org/abs/2609.35868",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "The Price of Token Boundaries: Compression Certificates and Prediction",
-      "date": "Wed, 30 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.35869v1 Announce Type: new Abstract: Pre-tokenisation restricts which text fragments can become prediction units, but its compression cost is obscured when tokenisers are compared only under the same boundaries. We measure this cost by bounding the minimum token count from both sides, with and without a regular-expression boundary rule. Nonnegative prices on token occurrences yield a lower bound through shortest paths and vocabulary-budget selection; maximising over all prices recover",
-      "url": "https://arxiv.org/abs/2609.35869",
-      "category": [
-        "cs.AI",
-        "cs.CL"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "More Programs or More Rolls? Separating Coverage from Specialization in LLM Harnesses",
-      "date": "Wed, 30 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.35873v1 Announce Type: new Abstract: Automated generation of LLM harnesses promises to improve inference through task specialization. Yet additional answer coverage can arise from repeated execution of the same program, making specialization difficult to identify. We introduce a controlled evaluation that separates answer coverage, repeatable task advantages, and gains from pre-execution selection. On 386 MATH-500 tasks, we compare eight generated harnesses plus a baseline with nine b",
-      "url": "https://arxiv.org/abs/2609.35873",
-      "category": [
-        "cs.AI",
-        "cs.LG",
-        "cs.SE"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Risk-Averse Online POMDP Planning via CVaR of the Immediate Cost with Performance Guarantees",
-      "date": "Wed, 30 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.35874v1 Announce Type: new Abstract: Online POMDP planners optimize the expected cumulative cost, which can mask dangerous states when the belief places significant mass on high-cost states. Existing risk-averse methods apply static or dynamic Conditional Value at Risk (CVaR) to the value function, capturing trajectory-level risk, but share two gaps: (i) by retaining the immediate cost as an expectation of a state-dependent cost over the belief, the risk \\emph{within} the belief is le",
-      "url": "https://arxiv.org/abs/2609.35874",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
       "title": "How Startups Are Using AI to Disrupt Industries",
       "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-09-29T14:25:49.060Z",
+      "date": "2026-09-29T17:02:37.157Z",
       "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
       "category": "Source Code",
       "source": "Every.to",
       "source_name": "every"
-    },
-    {
-      "title": "DevDay 2026 Recap",
-      "date": "Tue, 29 Sep 2026 10:00:00 GMT",
-      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-      "url": "https://openai.com/index/devday-2026-recap",
-      "category": "Company",
-      "source": "OpenAI News",
-      "source_name": "openai"
     },
     {
       "title": "Introducing GPT-6.1 Sol",
@@ -226,20 +215,20 @@
       "source_name": "openai"
     },
     {
+      "title": "DevDay 2026 Recap",
+      "date": "Tue, 29 Sep 2026 10:00:00 GMT",
+      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "category": "Company",
+      "source": "OpenAI News",
+      "source_name": "openai"
+    },
+    {
       "title": "Introducing dots",
       "date": "Tue, 29 Sep 2026 00:00:00 GMT",
       "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
       "url": "https://openai.com/index/introducing-dots",
       "category": "Product",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
-      "title": "Towards safety cases for frontier AI training",
-      "date": "Mon, 28 Sep 2026 19:00:00 GMT",
-      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "category": "Safety",
       "source": "OpenAI News",
       "source_name": "openai"
     },
@@ -255,7 +244,7 @@
     {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-09-28T14:25:49.060Z",
+      "date": "2026-09-28T17:02:37.157Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
@@ -264,7 +253,7 @@
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-09-27T14:25:49.060Z",
+      "date": "2026-09-27T17:02:37.157Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
@@ -273,7 +262,7 @@
     {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-09-26T14:25:49.060Z",
+      "date": "2026-09-26T17:02:37.157Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -282,7 +271,7 @@
     {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-09-25T14:25:49.060Z",
+      "date": "2026-09-25T17:02:37.157Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",

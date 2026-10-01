@@ -1,21 +1,21 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-09-30T17:02:37.365Z",
+  "fetch_time": "2026-10-01T05:14:57.632Z",
   "articles": [
+    {
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "date": "Wed, 30 Sep 2026 10:30:00 GMT",
+      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "category": "Security"
+    },
     {
       "title": "Helping small businesses put AI to work",
       "date": "Wed, 30 Sep 2026 10:00:00 GMT",
       "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
       "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
       "category": "Global Affairs"
-    },
-    {
-      "title": "DevDay 2026 Recap",
-      "date": "Tue, 29 Sep 2026 10:00:00 GMT",
-      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-      "url": "https://openai.com/index/devday-2026-recap",
-      "category": "Company"
     },
     {
       "title": "Introducing GPT-6.1 Sol",
@@ -25,18 +25,18 @@
       "category": "Product"
     },
     {
+      "title": "DevDay 2026 Recap",
+      "date": "Tue, 29 Sep 2026 10:00:00 GMT",
+      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "category": "Company"
+    },
+    {
       "title": "Introducing dots",
       "date": "Tue, 29 Sep 2026 00:00:00 GMT",
       "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
       "url": "https://openai.com/index/introducing-dots",
       "category": "Product"
-    },
-    {
-      "title": "Towards safety cases for frontier AI training",
-      "date": "Mon, 28 Sep 2026 19:00:00 GMT",
-      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "category": "Safety"
     },
     {
       "title": "How we will do better for Australia",

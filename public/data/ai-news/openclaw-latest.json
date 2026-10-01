@@ -1,17 +1,17 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-09-30T17:02:49.087Z",
+  "fetch_time": "2026-10-01T05:15:08.646Z",
   "articles": [
     {
       "title": "openclaw 2026.9.7",
       "date": "2026-09-30T04:44:14Z",
-      "summary": "## 2026.9.7\n\n### Highlights\n\n- Update safety: updates now back up every state and agent database before migrations and restore them on rollback, take consistent snapshots while the Gateway keeps writi...",
+      "summary": "<!-- openclaw-release-publication:docs-v1 -->\n\n## OpenClaw v2026.9.7\n\n518 direct commits · 2,818 pull requests · 334 contributors\n\n### Changes included in this release\n\nThe release notes and changelog...",
       "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.9.7",
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.7",
-      "downloadCount": 1064
+      "downloadCount": 4623
     },
     {
       "title": "openclaw 2026.8.33",
@@ -31,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.6",
-      "downloadCount": 36633
+      "downloadCount": 37951
     },
     {
       "title": "openclaw 2026.7.35",
@@ -51,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.5",
-      "downloadCount": 64778
+      "downloadCount": 65467
     },
     {
       "title": "OpenClaw Linux update channel",
@@ -61,7 +61,7 @@
       "category": "Release",
       "author": "clawsweeper[bot]",
       "tagName": "linux-stable",
-      "downloadCount": 170
+      "downloadCount": 175
     }
   ],
   "status": "success",

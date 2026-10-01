@@ -1,62 +1,51 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-09-30T17:02:37.474Z",
+  "fetch_time": "2026-10-01T05:14:57.752Z",
   "articles": [
     {
-      "title": "OpenAI-HuggingFace: A Reproduction &amp; Lessons for Alignment Testing",
-      "date": "Wed, 30 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.35799v1 Announce Type: new Abstract: In July 2026, OpenAI's agents coordinated over channels outside their intended environment to breach Hugging Face's secured infrastructure. Could existing alignment testing practices have foreseen this incident? If not, what needs to change? We explore these questions. First, we identify the misaligned behaviors that caused this incident. Then, we show how to elicit these behaviors from publicly available models manually and that auditing agents ca",
-      "url": "https://arxiv.org/abs/2609.35799",
-      "category": [
-        "cs.AI",
-        "cs.CR",
-        "cs.LG"
-      ]
-    },
-    {
-      "title": "Neurosymbolic Routing for Reliable Reasoning on Resource-Constrained Edge Devices",
-      "date": "Wed, 30 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.35833v1 Announce Type: new Abstract: Running a language model on edge hardware provides private and low-latency reasoning without a network connection, and yet the small models that fit on such devices are unreliable on the tasks computers are expected to handle well, such as arithmetic, algebra, and formal logic problems. We argue that much of this unreliability is avoidable. Many queries appearing to demand reasoning are in fact structurally deterministic and permit fast and exact s",
-      "url": "https://arxiv.org/abs/2609.35833",
-      "category": [
-        "cs.AI",
-        "cs.CL"
-      ]
-    },
-    {
-      "title": "Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?",
-      "date": "Wed, 30 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.35868v1 Announce Type: new Abstract: Is human readability necessary for effective fine-tuning of large language models? We investigate whether model-conditioned training representations can preserve or improve adaptation utility without requiring a human-readable textual form. We propose Desired-Update-Aligned Synthetic Data (DASA), which uses activation-gradient feedback from a frozen reference model to guide the optimization of continuous synthetic input embeddings. Inspired by the ",
-      "url": "https://arxiv.org/abs/2609.35868",
+      "title": "Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation",
+      "date": "Thu, 01 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.38282v1 Announce Type: new Abstract: Vision-language models may rewrite anomalous text in images into linguistically plausible expressions, compromising OCR transcription faithfulness. Sequence-level task rewards and local teacher guidance are complementary, but guidance from the same teacher may not remain equally effective as the student improves. Offline analysis shows that supervision from a fixed teacher becomes progressively less favorable as the student improves, both across tr",
+      "url": "https://arxiv.org/abs/2609.38282",
       "category": "cs.AI"
     },
     {
-      "title": "The Price of Token Boundaries: Compression Certificates and Prediction",
-      "date": "Wed, 30 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.35869v1 Announce Type: new Abstract: Pre-tokenisation restricts which text fragments can become prediction units, but its compression cost is obscured when tokenisers are compared only under the same boundaries. We measure this cost by bounding the minimum token count from both sides, with and without a regular-expression boundary rule. Nonnegative prices on token occurrences yield a lower bound through shortest paths and vocabulary-budget selection; maximising over all prices recover",
-      "url": "https://arxiv.org/abs/2609.35869",
+      "title": "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks",
+      "date": "Thu, 01 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.38288v1 Announce Type: new Abstract: We present AREX-2, an effort to advance the self-improving capability of LLM agents, which we define as the ability to iteratively refine a solution at test time. This ability rests on two complementary capabilities: reflection, which produces a solution better than the current one, and long-horizon execution, which keeps the iteration effective over many rounds. We hypothesize that both capabilities are domain-agnostic, and can therefore be learne",
+      "url": "https://arxiv.org/abs/2609.38288",
+      "category": "cs.AI"
+    },
+    {
+      "title": "MoFlow: Multi-Objective Agentic Workflow Generation",
+      "date": "Thu, 01 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.38294v1 Announce Type: new Abstract: We study the generation of agentic workflows that jointly optimize multiple objectives, such as accuracy, cost, latency, robustness, and consistency. Existing methods for workflow generation typically optimize accuracy alone or a weighted sum of objectives, so each trained generator commits to one fixed trade-off and must be retrained from scratch when preferences change. To alleviate this, we propose MoFlow, which generates workflows optimized acr",
+      "url": "https://arxiv.org/abs/2609.38294",
+      "category": "cs.AI"
+    },
+    {
+      "title": "AI Agents are Vulnerable to Radicalization",
+      "date": "Thu, 01 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.38296v1 Announce Type: new Abstract: Large language models (LLMs) can influence people's beliefs, yet little is known about whether and how they can manipulate each other. To investigate this, we simulate conversations between two agents: a target LLM that role-plays a human persona based on demographic and psychological attributes, and an influencer LLM that aims to make the target's beliefs more extreme. We examine radicalization along two pathways: resonance, where the influencer r",
+      "url": "https://arxiv.org/abs/2609.38296",
       "category": [
         "cs.AI",
-        "cs.CL"
+        "cs.CY"
       ]
     },
     {
-      "title": "More Programs or More Rolls? Separating Coverage from Specialization in LLM Harnesses",
-      "date": "Wed, 30 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.35873v1 Announce Type: new Abstract: Automated generation of LLM harnesses promises to improve inference through task specialization. Yet additional answer coverage can arise from repeated execution of the same program, making specialization difficult to identify. We introduce a controlled evaluation that separates answer coverage, repeatable task advantages, and gains from pre-execution selection. On 386 MATH-500 tasks, we compare eight generated harnesses plus a baseline with nine b",
-      "url": "https://arxiv.org/abs/2609.35873",
-      "category": [
-        "cs.AI",
-        "cs.LG",
-        "cs.SE"
-      ]
+      "title": "CARAT: Do Materials LLMs Reason or Recite?",
+      "date": "Thu, 01 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.38340v1 Announce Type: new Abstract: When a materials LLM answers a question about crystal structure, does it reason from the structure or copy an answer already printed in its input? Accuracy cannot tell: a structural description often prints the very field it is scored against. CARAT holds question and gold answer fixed across eight matched views, names each structural relation separately in GraphSpace, and adds matched fine-tuning, answer masking, evidence injection, paired inferen",
+      "url": "https://arxiv.org/abs/2609.38340",
+      "category": "cs.AI"
     },
     {
-      "title": "Risk-Averse Online POMDP Planning via CVaR of the Immediate Cost with Performance Guarantees",
-      "date": "Wed, 30 Sep 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.35874v1 Announce Type: new Abstract: Online POMDP planners optimize the expected cumulative cost, which can mask dangerous states when the belief places significant mass on high-cost states. Existing risk-averse methods apply static or dynamic Conditional Value at Risk (CVaR) to the value function, capturing trajectory-level risk, but share two gaps: (i) by retaining the immediate cost as an expectation of a state-dependent cost over the belief, the risk \\emph{within} the belief is le",
-      "url": "https://arxiv.org/abs/2609.35874",
+      "title": "Examining Variation in How Guided AI Tutors Resolve Student Impasses",
+      "date": "Thu, 01 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2609.38346v1 Announce Type: new Abstract: When a student is stuck, a tutor faces the assistance dilemma: help given too early can hinder productive struggle, while help withheld too long leaves the student in a frustrating, persistent impasse (i.e., wheel spinning). Generative AI tutors increasingly use guardrails restricting answer-giving, yet little is known about how such tutors behave once an impasse persists. We analyze 20,462 student turns from 1,260 authentic sessions with a guided ",
+      "url": "https://arxiv.org/abs/2609.38346",
       "category": "cs.AI"
     }
   ],
