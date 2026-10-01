@@ -1,71 +1,73 @@
 {
-  "fetch_time": "2026-10-01T14:57:02.071Z",
-  "total_count": 30,
+  "fetch_time": "2026-10-01T17:33:13.751Z",
+  "total_count": 24,
   "sources_count": 6,
-  "errors": null,
+  "errors": [
+    "36kr: Request timeout"
+  ],
   "articles": [
+    {
+      "title": "The eternal complement",
+      "date": "Thu, 01 Oct 2026 17:00:00 GMT",
+      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+      "url": "https://openai.com/index/the-eternal-complement",
+      "category": "Intelligence Age",
+      "source": "OpenAI News",
+      "source_name": "openai"
+    },
+    {
+      "title": "PS5 模拟器的开发取得突破",
+      "date": "Thu, 01 Oct 2026 16:11:32 GMT",
+      "summary": "当前一代游戏机的模拟器通常需要较长时间才能成熟，但 PS5 的模拟器仅仅几个月时间就让许多 PS5 游戏能在 PC 平台上可玩。SharpEmu 从 5 月的极早 Alpha 阶段到现在具备加载真实游戏 eboot.bin 文件、执行原生 CPU 指令以及部分处理 GPU 相关功能的能力。已有 10 款游戏被标记为可玩，其中包括简单 2D 游戏如 Tetris Forever，也有复杂 3D 大作如 Astro Bot 和 Demon’s Souls 重制版。另一款 PS5 模拟器 KytyPS5 也于上周发布了首个公开版本，它是 PS4 模拟器 Kyty 的扩展版，能启动 2D 游戏及部分 3D 游戏，包括使用虚幻引擎 4/5、Unity 以及自研引擎开发的作品。有 134 款游戏标记为可玩，但很多存在严重 bug。",
+      "url": "https://www.solidot.org/story?sid=85524",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "date": "Thu, 01 Oct 2026 16:00:00 GMT",
+      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+      "url": "https://openai.com/index/albertsons-reimagining-retail",
+      "category": "Company",
+      "source": "OpenAI News",
+      "source_name": "openai"
+    },
+    {
+      "title": "二手 CPU 导致玩家被 Riot 封禁",
+      "date": "Thu, 01 Oct 2026 15:27:31 GMT",
+      "summary": "一名玩家购买了一个二手 CPU Ryzen 7 5800X3D，结果发现无法启动 Riot 工作室旗下的多款游戏，每次启动游戏就被踢出，在联络了 Riot 的客服之后才知道该 CPU 被列入了封禁黑名单，因为其前任主人有作弊行为。Riot 工作室旗下的所有游戏都受到影响，其中包括了 Valorant、League of Legends、Teamfight Tactics、Legends of Runeterra、2XKO 等。Riot 使用了内核级反作弊系统 Vanguard，它深度嵌入在 Windows 内核模式中。暂时不清楚 Riot 是如何唯一标识 CPU 的，CPU 会向操作系统报告硬件 ID，但该硬件 ID 不是唯一标识符，只是告诉操作系统其 CPU 型号。它可能是通过 CPU 运行产生的独特指纹标记 CPU，每个 CPU 在运行时候都会有微小的差异。",
+      "url": "https://www.solidot.org/story?sid=85523",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "新加坡推出面向公务员的约会软件 FirstDate",
+      "date": "Thu, 01 Oct 2026 15:11:12 GMT",
+      "summary": "为了提高生育率，新加坡试点推出了为公务员牵线搭桥的约会应用 FirstDate。新加坡的总和生育率已降至每名女性生育 0.87 个孩子，而十年前这一数字为 1.24。政府最近成立了一个专门研究生育率下降问题的工作组，预计该作组将在 2027 年初发表研究结果。FirstDate 面向 21-35 岁的单身人士，目前仅向公务员开放，申请截止日期为 10 月 5 日。用户无需浏览海量的个人资料，而是填写一份关于兴趣、习惯、价值观和偏好的问卷。FirstDate 会在每个周期内（即双方互相接受并预计见面所需的时间）为用户推送一个匹配对象。每项匹配结果都包含匹配度评分、对方的简介和一段个人留言。该服务使用了 Gale-Shapley 稳定婚姻算法。有公务员认为该应用的一大优势可能是被诈骗的可能性较低。",
+      "url": "https://www.solidot.org/story?sid=85522",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
     {
       "title": "The State of AI: A Look at What's Next",
       "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-10-01T10:43:57.807Z",
+      "date": "2026-10-01T14:56:58.609Z",
       "summary": "An in-depth analysis of the current AI landscape and future trends.",
       "category": "AI Analysis",
       "source": "Every.to",
       "source_name": "every"
     },
     {
-      "title": "印度无视股市低迷 9月份IPO创下历史纪录",
-      "date": "Thu, 01 Oct 2026 08:15:10 GMT",
-      "summary": "印度的首次公开募股（IPO）正以前所未有的势头强劲推进，成功抵御了二级市场的抛售潮。据 primedatabase.com 汇编的数据显示，9月份创下了一系列纪录，无论是交易启动数量还是招股书草案提交量均创新高。当月共有34家公司通过IPO筹集了超过3930亿卢比（约合41亿美元）的资金，同时还有46家公司提交了主板IPO的草案文件。这一活跃的交易流也引起了全球基金的注意。印度国家证券存管有限公司（NSDL）的数据显示，全球基金今年已在一级市场投资了近5450亿卢比。相比之下，他们在二级市场抛售了约3万亿卢比的股票，而印度股市正面临近25年来最长的连续周度下跌。这种资金流向的分化表明，投资者在印度市场的资金配置正变得更加挑剔。尽管估值和盈利方面的担忧给股市带来了压力，但定价具有吸引力的新上市公司以及不断增长的国内资金池，仍为企业在艰难的市场环境中筹集资金提供了机会。",
-      "url": "https://36kr.com/newsflashes/4006930331701384?f=rss",
+      "title": "猫与幸福感正相关",
+      "date": "Thu, 01 Oct 2026 14:52:06 GMT",
+      "summary": "根据发表在 PLOS One 期刊上的一项研究，猫的数量与幸福感正相关，一个国家的猫越多，其幸福感通常越高。但主要通过猫传播的弓形虫感染率与幸福感负相关，弓形虫感染率较高的国家的幸福指数通常较低。两个关系似乎矛盾，但也可能与卫生、经济条件相关联。研究分析了 93 个国家和地区的数据，幸福指数平均值为 5.72，每万人拥有猫数量的平均值为 989 只，其中中国的幸福指数为 5.97，略高于平均水平；每万人拥有猫的数量为 376 只，显著低于平均值，中国的弓形虫感染率与平均水平相当。研究作者提出，猫对幸福感的影响可能与经济因素有关。也就是随着收入水平的提高，公共卫生条件会得到改善，虽然猫的数量增加，但感染风险不会有相应的增加。",
+      "url": "https://www.solidot.org/story?sid=85521",
       "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "季风疲软致印度9月电力缺口创近十年新高",
-      "date": "Thu, 01 Oct 2026 08:00:16 GMT",
-      "summary": "由于季风降雨偏弱导致水力发电水库干涸，加之高温天气给国家电网带来巨大压力，印度的电力缺口在9月份急剧攀升，创下近十年来该月份的最高纪录。根据媒体对印度电网控制中心数据的分析，本月超过一半的时间里，傍晚时段的每日峰值电力缺口超过了2吉瓦，偶尔甚至突破6吉瓦。这是自2017年以来，该国9月份遭遇的最严重能源短缺。这一电力短缺的出现，是因为低于正常水平的降雨让大片国土陷入酷热，从而推高了空调制冷需求。与此同时，水力发电出现下滑，燃煤电厂也面临着物流瓶颈。",
-      "url": "https://36kr.com/newsflashes/4006929422766217?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "国庆假期第一天铁路迎客流最高峰",
-      "date": "Thu, 01 Oct 2026 07:45:43 GMT",
-      "summary": "今天是国庆假期第一天，铁路迎来假期的客流最高峰。稍早，记者从国铁集团了解到，截至今天早上8时，铁路12306已累计预售中秋国庆假期车票20348万张，也就是超2亿张。今天，全国铁路预计发送旅客2480万人次，预计加开列车2324列。今日主要热门出发城市是：北京、广州、上海、成都、深圳、武汉、西安、杭州、郑州、重庆。主要热门到达城市是：广州、北京、成都、上海、杭州、武汉、西安、长沙、深圳、郑州。",
-      "url": "https://36kr.com/newsflashes/4006928924200834?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "苹果智能家居中枢或借鉴iPhone Duo待机模式，支持照片墙等多种界面",
-      "date": "Thu, 01 Oct 2026 07:30:11 GMT",
-      "summary": "10月1日消息，据报道，苹果传闻中的智能家居中枢将提供多种待机界面，其中部分设计与iPhone Duo计划推出的StandBy待机模式类似。爆料者分享了该设备“照片界面”的设置截图，用户可选择照片集、回忆或共享相册，照片将通过iCloud显示在设备屏幕上。据报道，该设备预计配备6英寸屏幕，外形类似iPad，底座则采用类似iMac G4的半球形金属设计。此前消息称，该设备将支持日历、天气、音乐、信息和提醒事项等应用及小组件，但不会配备完整App Store。苹果智能家居中枢预计于10月13日发布。",
-      "url": "https://36kr.com/newsflashes/4006928419410056?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "实现海上发电就地制氢，中国团队首提交流电直接电解海水制氢新策略",
-      "date": "Thu, 01 Oct 2026 07:15:30 GMT",
-      "summary": "从中国科学院理化技术研究所获悉，该所低温科学与技术全国重点实验室最近首次提出以交流电替代传统直流电驱动直接电解海水制氢策略，实现海上发电就地制氢，从根源上破解了海水电解制氢的沉淀瓶颈难题。这项技术成果展现出显著的经济性与灵活性优势：无需海水预处理和离子交换膜，显著降低了制氢成本与系统复杂度，且可与海上可再生能源发电系统耦合，实现“海上发电—就地制氢”一体化，为氢能产业链上游提供低成本、可持续的绿氢来源。同时，交流电直接电解海水制氢的新策略，通过耦合乙二醇氧化反应，可在产氢的同时联产高附加值乙醇酸产物，实现“一电两得”，进一步提升经济效益。",
-      "url": "https://36kr.com/newsflashes/4006927692828548?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "我国首个三塔光热基地正式亮相",
-      "date": "Thu, 01 Oct 2026 07:00:00 GMT",
-      "summary": "今天（10月1日），记者从中国电建集团获悉，集光伏发电、光热储能与电热转换于一体的百万千瓦级清洁能源工程——青海共和百万千瓦光伏光热项目成功并网发电。项目位于青海省海南州共和县，总装机100万千瓦，由90万千瓦光伏电站和10万千瓦熔盐塔式光热电站组成。光热镜场布置10310台定日镜，总采光面积约50万平方米。上万面镜子协同追光，将太阳辐射能汇聚到吸热塔上的吸热器中，加热熔盐，再利用储存的热量产生蒸汽，驱动汽轮发电机发电。",
-      "url": "https://36kr.com/newsflashes/4006927198195841?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
+      "source": "Solidot",
+      "source_name": "solidot"
     },
     {
       "title": "Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation",
@@ -143,40 +145,13 @@
       "source_name": "solidot"
     },
     {
-      "title": "新奥声称实现氢硼聚变反应突破",
-      "date": "Wed, 30 Sep 2026 15:01:13 GMT",
-      "summary": "新奥集团发表新闻稿，称其“玄龙-50U”装置实现氢硼聚变反应。新闻稿称：氢硼聚变具有无中子、燃料丰富易得、低成本等商业化优势，产物是氦（α粒子），但相对于氘氚聚变，反应温度及三乘积要求更高，反应条件更苛刻。本次新奥聚变团队通过高能中性束注入与射频波的协同，大幅提高了氢硼反应第一共振峰的非热平衡快质子份额，实现了大于 10^8/秒的氢硼聚变反应率，表明新奥氢硼聚变迈入燃烧等离子体相关实验阶段，是中国多路径聚变能发展的重大突破。来自全球多个国家科研院所与知名高校的十余位聚变权威专家就本次实验成果召开专题论证会，一致认为：本次实验实现了球形环装置中质子能谱及氢硼聚变反应产物α粒子的有效、可重复测量，探测方法可靠，可支撑氢硼聚变反应验证，是球形环氢硼聚变创新探索实践的里程碑突破，对全球磁约束氢硼反应的科学研究具有重要价值贡献。",
-      "url": "https://www.solidot.org/story?sid=85518",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "美国佛蒙特州通过家庭电池储能网络应对气候变化",
-      "date": "Wed, 30 Sep 2026 14:44:08 GMT",
-      "summary": "过去几年极端气候频发，美国佛蒙特州每年都会因此发生十几次持续数小时的断电事故。当地电力公司 Green Mountain Power(GMP)记录到的 10 场最具有破坏性的飓风有 7 场发生在过去十年，造成了逾 2.25 亿美元的损失。为了应对气候变化导致的断电，该公司推出了分布式电池储能网络，向参与该网络的家庭出租两块电池，租期十年，每月费用为 55 美元。该州有超过 5,500 人参与了该家庭电池网络，半数家庭还安装了太阳能电池板。该项目目前提供约 110 MW 的电力，相当于一座中小型天然气发电厂的装机容量。美国其他州也有类似的电池储能网络。",
-      "url": "https://www.solidot.org/story?sid=85517",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
       "title": "How Startups Are Using AI to Disrupt Industries",
       "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-09-30T10:43:57.807Z",
+      "date": "2026-09-30T14:56:58.609Z",
       "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
       "category": "Source Code",
       "source": "Every.to",
       "source_name": "every"
-    },
-    {
-      "title": "500 光年外的一颗巨行星探测到水、甲烷和氨",
-      "date": "Wed, 30 Sep 2026 10:37:45 GMT",
-      "summary": "文学家团队借助韦伯望远镜在距地球 500 光年的巨行星 HATS-6 b 大气中探测到水、甲烷、氨，同时发现这颗行星温度可能比标准推算温度低得多。这是透射光谱技术第二次在系外行星大气中检出水汽之外的氨信号。由于氨这类含氮分子在较冷的巨行星中本应比在炽热类木星行星中更为丰富，这一发现支持了一个判断：围绕 M 型矮星运行的行星可能在化学上构成独特群体。HATS-6 b 体积大致相当于木星，每 3 天绕一颗体积小的低温红矮星公转一周。按现有认识，小恒星周围的气体尘埃盘既缺乏足够物质，也缺乏足够时间积聚出木星、土星级别的行星。目前人类已在太阳系外发现 6000 多颗行星，多数与太阳系内行星毫无相似之处。团队表示，弄清它们由什么构成、怎样形成，是判断其他星系是否与太阳系有共同起源的前提。",
-      "url": "https://www.solidot.org/story?sid=85516",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
     },
     {
       "title": "Disrupting a coordinated model-distillation campaign",
@@ -186,15 +161,6 @@
       "category": "Security",
       "source": "OpenAI News",
       "source_name": "openai"
-    },
-    {
-      "title": "Windows 11 原生支持 Linux 容器",
-      "date": "Wed, 30 Sep 2026 10:23:45 GMT",
-      "summary": "微软宣布 WSL Containers GA，该工具为 Windows 11 开发者提供了一种通过 Windows Subsystem for Linux 构建、运行和部署 Linux 容器的内置方案。微软同时提供了容器管理工具 wslc.exe，GPU 支持、网络改进、健康检查、存储挂载、与 Microsoft Defender for Endpoint 和 Intune 的集成。微软还声称，当 Linux 环境访问存储在 Windows 中的文件时，性能最多可提升一倍。",
-      "url": "https://www.solidot.org/story?sid=85515",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
     },
     {
       "title": "Helping small businesses put AI to work",
@@ -208,20 +174,11 @@
     {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-09-29T10:43:57.807Z",
+      "date": "2026-09-29T14:56:58.609Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
       "source_name": "every"
-    },
-    {
-      "title": "Introducing GPT-6.1 Sol",
-      "date": "Tue, 29 Sep 2026 10:00:00 GMT",
-      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "category": "Product",
-      "source": "OpenAI News",
-      "source_name": "openai"
     },
     {
       "title": "DevDay 2026 Recap",
@@ -233,27 +190,18 @@
       "source_name": "openai"
     },
     {
-      "title": "Introducing dots",
-      "date": "Tue, 29 Sep 2026 00:00:00 GMT",
-      "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
-      "url": "https://openai.com/index/introducing-dots",
+      "title": "Introducing GPT-6.1 Sol",
+      "date": "Tue, 29 Sep 2026 10:00:00 GMT",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
       "category": "Product",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
-      "title": "How we will do better for Australia",
-      "date": "Mon, 28 Sep 2026 19:00:00 GMT",
-      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "category": "Company",
       "source": "OpenAI News",
       "source_name": "openai"
     },
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-09-28T10:43:57.807Z",
+      "date": "2026-09-28T14:56:58.609Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
@@ -262,7 +210,7 @@
     {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-09-27T10:43:57.807Z",
+      "date": "2026-09-27T14:56:58.609Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -271,7 +219,7 @@
     {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-09-26T10:43:57.807Z",
+      "date": "2026-09-26T14:56:58.609Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",

@@ -1,8 +1,22 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-10-01T14:56:58.850Z",
+  "fetch_time": "2026-10-01T17:32:41.502Z",
   "articles": [
+    {
+      "title": "The eternal complement",
+      "date": "Thu, 01 Oct 2026 17:00:00 GMT",
+      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+      "url": "https://openai.com/index/the-eternal-complement",
+      "category": "Intelligence Age"
+    },
+    {
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "date": "Thu, 01 Oct 2026 16:00:00 GMT",
+      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+      "url": "https://openai.com/index/albertsons-reimagining-retail",
+      "category": "Company"
+    },
     {
       "title": "Disrupting a coordinated model-distillation campaign",
       "date": "Wed, 30 Sep 2026 10:30:00 GMT",
@@ -18,13 +32,6 @@
       "category": "Global Affairs"
     },
     {
-      "title": "Introducing GPT-6.1 Sol",
-      "date": "Tue, 29 Sep 2026 10:00:00 GMT",
-      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "category": "Product"
-    },
-    {
       "title": "DevDay 2026 Recap",
       "date": "Tue, 29 Sep 2026 10:00:00 GMT",
       "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
@@ -32,18 +39,11 @@
       "category": "Company"
     },
     {
-      "title": "Introducing dots",
-      "date": "Tue, 29 Sep 2026 00:00:00 GMT",
-      "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
-      "url": "https://openai.com/index/introducing-dots",
+      "title": "Introducing GPT-6.1 Sol",
+      "date": "Tue, 29 Sep 2026 10:00:00 GMT",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
       "category": "Product"
-    },
-    {
-      "title": "How we will do better for Australia",
-      "date": "Mon, 28 Sep 2026 19:00:00 GMT",
-      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "category": "Company"
     }
   ],
   "status": "success",
