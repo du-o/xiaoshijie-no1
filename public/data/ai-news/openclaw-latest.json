@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-10-02T10:18:58.690Z",
+  "fetch_time": "2026-10-02T14:19:20.106Z",
   "articles": [
+    {
+      "title": "openclaw 2026.8.35",
+      "date": "2026-10-02T14:06:34Z",
+      "summary": "This is a gateway-only `extended-stable` release, which is our current equivalent to LTS. This release is OpenClaw from the end of August 2026, plus critical security updates, reliability and performa...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.8.35",
+      "category": "Release",
+      "author": "RomneyDa",
+      "tagName": "v2026.8.35",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.8.34",
       "date": "2026-10-02T00:12:39Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.8.34",
-      "downloadCount": 62
+      "downloadCount": 88
     },
     {
       "title": "openclaw 2026.9.7",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.7",
-      "downloadCount": 14247
+      "downloadCount": 15411
     },
     {
       "title": "openclaw 2026.8.33",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.6",
-      "downloadCount": 38640
+      "downloadCount": 38735
     },
     {
       "title": "openclaw 2026.7.35",
@@ -52,16 +62,6 @@
       "author": "github-actions[bot]",
       "tagName": "v2026.7.35",
       "downloadCount": 558
-    },
-    {
-      "title": "openclaw 2026.9.5",
-      "date": "2026-09-19T01:55:23Z",
-      "summary": "<!-- openclaw-release-publication:docs-v1 -->\n\n## OpenClaw v2026.9.5\n\n64 direct commits · 4,179 pull requests · 503 contributors\n\n### Changes included in this release\n\nThe release notes and changelog ...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.9.5",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.9.5",
-      "downloadCount": 67228
     }
   ],
   "status": "success",
