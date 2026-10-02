@@ -1,52 +1,58 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-10-01T17:32:41.661Z",
+  "fetch_time": "2026-10-02T05:03:15.616Z",
   "articles": [
     {
-      "title": "Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation",
-      "date": "Thu, 01 Oct 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.38282v1 Announce Type: new Abstract: Vision-language models may rewrite anomalous text in images into linguistically plausible expressions, compromising OCR transcription faithfulness. Sequence-level task rewards and local teacher guidance are complementary, but guidance from the same teacher may not remain equally effective as the student improves. Offline analysis shows that supervision from a fixed teacher becomes progressively less favorable as the student improves, both across tr",
-      "url": "https://arxiv.org/abs/2609.38282",
+      "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
+      "date": "Fri, 02 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.00010v1 Announce Type: new Abstract: Long-horizon language agents increasingly rely on external memory as a frozen world model, yet current memory systems are usually judged only by task success or token cost. We argue that the missing object is the shape of memory use: under finite context and repeated retrieval, agent memory can concentrate on a small core while leaving rare states in a long tail where prediction errors accumulate. We study this effect through a conservative tail au",
+      "url": "https://arxiv.org/abs/2610.00010",
       "category": "cs.AI"
     },
     {
-      "title": "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks",
-      "date": "Thu, 01 Oct 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.38288v1 Announce Type: new Abstract: We present AREX-2, an effort to advance the self-improving capability of LLM agents, which we define as the ability to iteratively refine a solution at test time. This ability rests on two complementary capabilities: reflection, which produces a solution better than the current one, and long-horizon execution, which keeps the iteration effective over many rounds. We hypothesize that both capabilities are domain-agnostic, and can therefore be learne",
-      "url": "https://arxiv.org/abs/2609.38288",
+      "title": "When Do Causal World Models Help Modular LLM Agents",
+      "date": "Fri, 02 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.00012v1 Announce Type: new Abstract: LLM agents increasingly act through modular systems, such as order, payment, inventory, and shipment services, where actions in one module change which transitions are valid in another. Standard world models usually fit observational traces, but this is not the quantity needed for intervention-time planning: a trace may show that payment precedes shipment without identifying whether payment authorizes shipment, inventory mediates the effect, or a h",
+      "url": "https://arxiv.org/abs/2610.00012",
       "category": "cs.AI"
     },
     {
-      "title": "MoFlow: Multi-Objective Agentic Workflow Generation",
-      "date": "Thu, 01 Oct 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.38294v1 Announce Type: new Abstract: We study the generation of agentic workflows that jointly optimize multiple objectives, such as accuracy, cost, latency, robustness, and consistency. Existing methods for workflow generation typically optimize accuracy alone or a weighted sum of objectives, so each trained generator commits to one fixed trade-off and must be retrained from scratch when preferences change. To alleviate this, we propose MoFlow, which generates workflows optimized acr",
-      "url": "https://arxiv.org/abs/2609.38294",
+      "title": "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution",
+      "date": "Fri, 02 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.00015v1 Announce Type: new Abstract: Large-language-model agents can propose and execute actions, but proposal, authority, dispatch, verified external effect, and serving promotion are different claims. We present Praxa, an agent harness that represents these states explicitly through deterministic admission, brokered execution, external read-back, reconciliation, and reviewed promotion. We report four evidence lanes. First, an author-run repository-local audit at a pinned revision pa",
+      "url": "https://arxiv.org/abs/2610.00015",
       "category": "cs.AI"
     },
     {
-      "title": "AI Agents are Vulnerable to Radicalization",
-      "date": "Thu, 01 Oct 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.38296v1 Announce Type: new Abstract: Large language models (LLMs) can influence people's beliefs, yet little is known about whether and how they can manipulate each other. To investigate this, we simulate conversations between two agents: a target LLM that role-plays a human persona based on demographic and psychological attributes, and an influencer LLM that aims to make the target's beliefs more extreme. We examine radicalization along two pathways: resonance, where the influencer r",
-      "url": "https://arxiv.org/abs/2609.38296",
+      "title": "What Do Rationales Communicate? A Message-Intervention Study in Role-Specialized QA",
+      "date": "Fri, 02 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.00018v1 Announce Type: new Abstract: Role-specialized QA pipelines increasingly pass rationales from a reasoner to a verifier, but it is unclear what this message actually buys: better answers, stronger support assessment, or a new failure surface. We introduce a message-intervention diagnostic that fixes the evidence and candidate answer while varying only the rationale passed across the reasoner-to-verifier boundary. On 400 MuSiQue, HotpotQA, and 2WikiMultiHopQA examples with DeepSe",
+      "url": "https://arxiv.org/abs/2610.00018",
       "category": [
         "cs.AI",
-        "cs.CY"
+        "cs.CL"
       ]
     },
     {
-      "title": "CARAT: Do Materials LLMs Reason or Recite?",
-      "date": "Thu, 01 Oct 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.38340v1 Announce Type: new Abstract: When a materials LLM answers a question about crystal structure, does it reason from the structure or copy an answer already printed in its input? Accuracy cannot tell: a structural description often prints the very field it is scored against. CARAT holds question and gold answer fixed across eight matched views, names each structural relation separately in GraphSpace, and adds matched fine-tuning, answer masking, evidence injection, paired inferen",
-      "url": "https://arxiv.org/abs/2609.38340",
-      "category": "cs.AI"
+      "title": "Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?",
+      "date": "Fri, 02 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.00025v1 Announce Type: new Abstract: Agent harnesses increasingly want to run small language models (SLMs) on the microtasks around a frontier large language model (LLM) planner: auto-approving shell commands, writing memory, selecting tools, ranking past turns. We ask whether off-the-shelf SLMs meet practitioner-defined thresholds and, when they fail, why, and whether quantization changes the answer. We build a benchmark of 4 such microtasks with fixed prompts and automatic metrics, ",
+      "url": "https://arxiv.org/abs/2610.00025",
+      "category": [
+        "cs.AI",
+        "cs.LG"
+      ]
     },
     {
-      "title": "Examining Variation in How Guided AI Tutors Resolve Student Impasses",
-      "date": "Thu, 01 Oct 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.38346v1 Announce Type: new Abstract: When a student is stuck, a tutor faces the assistance dilemma: help given too early can hinder productive struggle, while help withheld too long leaves the student in a frustrating, persistent impasse (i.e., wheel spinning). Generative AI tutors increasingly use guardrails restricting answer-giving, yet little is known about how such tutors behave once an impasse persists. We analyze 20,462 student turns from 1,260 authentic sessions with a guided ",
-      "url": "https://arxiv.org/abs/2609.38346",
-      "category": "cs.AI"
+      "title": "Characterizing a Configuration Where Inference-Time PRM-Pruned Fragment Grafting Is Inert: Evidence from Three Reasoning LMs",
+      "date": "Fri, 02 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.00047v1 Announce Type: new Abstract: Diversity collapse in parallel chain-of-thought has motivated inference-time interventions built on a natural design: when a process reward model (PRM) prunes a chain, its high-PRM prefix is extracted and grafted verbatim as an in-context demonstration into a still-decoding sibling. We isolate this mechanism, PRM-Pruned Fragment Grafting (PPFG), as the most cost-minimal operationalization of cross-trajectory step-level transfer, and test it at the ",
+      "url": "https://arxiv.org/abs/2610.00047",
+      "category": [
+        "cs.AI",
+        "cs.CL"
+      ]
     }
   ],
   "status": "success",

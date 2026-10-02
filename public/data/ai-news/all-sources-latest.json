@@ -1,11 +1,135 @@
 {
-  "fetch_time": "2026-10-01T17:33:13.751Z",
-  "total_count": 24,
+  "fetch_time": "2026-10-02T05:03:21.091Z",
+  "total_count": 30,
   "sources_count": 6,
-  "errors": [
-    "36kr: Request timeout"
-  ],
+  "errors": null,
   "articles": [
+    {
+      "title": "亚马逊计划向投资者出售价值80亿美元的英伟达芯片",
+      "date": "Fri, 02 Oct 2026 05:00:13 GMT",
+      "summary": "10月2日消息，据报道，知情人士透露，亚马逊正寻求向投资者出售价值80亿美元的英伟达芯片。该公司近几周已与投资者展开洽谈，评估市场对该交易的意向。（界面）",
+      "url": "https://36kr.com/newsflashes/4008228795994245?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "“宁湘直流”配套调峰电源全容量投产",
+      "date": "Fri, 02 Oct 2026 04:40:13 GMT",
+      "summary": "10月2日，国家能源集团宁夏电力中卫电厂6号机组顺利通过168小时试运行，标志着全国首个“沙戈荒”新能源大基地配套调峰电源4台660兆瓦机组全容量投产。（央视新闻）",
+      "url": "https://36kr.com/newsflashes/4008214071725959?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "OpenAI已向100多个机通报AI智能体未经授权活动事件",
+      "date": "Fri, 02 Oct 2026 04:20:56 GMT",
+      "summary": "OpenAI周四在一篇博客文章中表示，该公司已向100多个机构通报了涉及其AI智能体未经授权活动的事件。此举正值AI 实验室因“失控”AI 智能体的活动而面临日益严格的审查之际。在Hugging Face遭遇意外入侵事件后，这家由萨姆·奥特曼领导的公司正对其AI模型的活动进行全面审查。OpenAI正在筛查约50PB的数据，以全面掌握“失控智能体”（rogue agent）活动的具体范围。（新浪财经）",
+      "url": "https://36kr.com/newsflashes/4008125319335814?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "长假首日高德鹰眼守护发出预警超6亿次",
+      "date": "Fri, 02 Oct 2026 04:16:38 GMT",
+      "summary": "10月2日，阿里巴巴集团旗下高德公布十一长假首日运营数据：其中，高德日活跃用户数（DAU）近3.7亿，提供空间智能服务超28亿次，进一步印证高德已成为全球规模最大的空间智能应用。同日，高德驾车导航总里程达97亿公里，使用高德扫街榜的用户超1.28亿人，均创历史新高。此外，中国安全生产科学研究院与高德联合发布的鹰眼守护预警系统向用户发出安全提醒超6亿次。",
+      "url": "https://36kr.com/newsflashes/4008224334319749?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "恒指午间休盘跌2.64%，恒生科技指数跌2.45%",
+      "date": "Fri, 02 Oct 2026 04:01:52 GMT",
+      "summary": "36氪获悉，恒指午间休盘跌2.64%，恒生科技指数跌2.45%；医药生物、零售、非银金融板块领跌，君实生物跌超7%，国泰海通跌超5%，京东健康跌超4%。",
+      "url": "https://36kr.com/newsflashes/4008209813573766?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
+      "date": "Fri, 02 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.00010v1 Announce Type: new Abstract: Long-horizon language agents increasingly rely on external memory as a frozen world model, yet current memory systems are usually judged only by task success or token cost. We argue that the missing object is the shape of memory use: under finite context and repeated retrieval, agent memory can concentrate on a small core while leaving rare states in a long tail where prediction errors accumulate. We study this effect through a conservative tail au",
+      "url": "https://arxiv.org/abs/2610.00010",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "When Do Causal World Models Help Modular LLM Agents",
+      "date": "Fri, 02 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.00012v1 Announce Type: new Abstract: LLM agents increasingly act through modular systems, such as order, payment, inventory, and shipment services, where actions in one module change which transitions are valid in another. Standard world models usually fit observational traces, but this is not the quantity needed for intervention-time planning: a trace may show that payment precedes shipment without identifying whether payment authorizes shipment, inventory mediates the effect, or a h",
+      "url": "https://arxiv.org/abs/2610.00012",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution",
+      "date": "Fri, 02 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.00015v1 Announce Type: new Abstract: Large-language-model agents can propose and execute actions, but proposal, authority, dispatch, verified external effect, and serving promotion are different claims. We present Praxa, an agent harness that represents these states explicitly through deterministic admission, brokered execution, external read-back, reconciliation, and reviewed promotion. We report four evidence lanes. First, an author-run repository-local audit at a pinned revision pa",
+      "url": "https://arxiv.org/abs/2610.00015",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "What Do Rationales Communicate? A Message-Intervention Study in Role-Specialized QA",
+      "date": "Fri, 02 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.00018v1 Announce Type: new Abstract: Role-specialized QA pipelines increasingly pass rationales from a reasoner to a verifier, but it is unclear what this message actually buys: better answers, stronger support assessment, or a new failure surface. We introduce a message-intervention diagnostic that fixes the evidence and candidate answer while varying only the rationale passed across the reasoner-to-verifier boundary. On 400 MuSiQue, HotpotQA, and 2WikiMultiHopQA examples with DeepSe",
+      "url": "https://arxiv.org/abs/2610.00018",
+      "category": [
+        "cs.AI",
+        "cs.CL"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?",
+      "date": "Fri, 02 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.00025v1 Announce Type: new Abstract: Agent harnesses increasingly want to run small language models (SLMs) on the microtasks around a frontier large language model (LLM) planner: auto-approving shell commands, writing memory, selecting tools, ranking past turns. We ask whether off-the-shelf SLMs meet practitioner-defined thresholds and, when they fail, why, and whether quantization changes the answer. We build a benchmark of 4 such microtasks with fixed prompts and automatic metrics, ",
+      "url": "https://arxiv.org/abs/2610.00025",
+      "category": [
+        "cs.AI",
+        "cs.LG"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Characterizing a Configuration Where Inference-Time PRM-Pruned Fragment Grafting Is Inert: Evidence from Three Reasoning LMs",
+      "date": "Fri, 02 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.00047v1 Announce Type: new Abstract: Diversity collapse in parallel chain-of-thought has motivated inference-time interventions built on a natural design: when a process reward model (PRM) prunes a chain, its high-PRM prefix is extracted and grafted verbatim as an in-context demonstration into a still-decoding sibling. We isolate this mechanism, PRM-Pruned Fragment Grafting (PPFG), as the most cost-minimal operationalization of cross-trajectory step-level transfer, and test it at the ",
+      "url": "https://arxiv.org/abs/2610.00047",
+      "category": [
+        "cs.AI",
+        "cs.CL"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "珀莱雅荣获IFSCC“最佳基础研究奖”",
+      "date": "Fri, 02 Oct 2026 03:56:48 GMT",
+      "summary": "第36届国际化妆品化学家学会联盟（IFSCC）大会颁奖典礼10月1日在澳大利亚西部城市珀斯举行。中国美妆领军企业珀莱雅凭借对线粒体抗衰的深入研究，从全球数千份科研论文中脱颖而出，荣获“2026 IFSCC最佳基础研究奖”；同时，另外一篇关于线粒体美白的研究论文荣获“2026 IFSCC十大基础研究奖”，成为本届唯一拥有两项“基础研究奖”的中国美妆企业。",
+      "url": "https://36kr.com/newsflashes/4008204836704389?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "The State of AI: A Look at What's Next",
+      "url": "https://every.to/p/the-state-of-ai",
+      "date": "2026-10-01T17:32:41.303Z",
+      "summary": "An in-depth analysis of the current AI landscape and future trends.",
+      "category": "AI Analysis",
+      "source": "Every.to",
+      "source_name": "every"
+    },
     {
       "title": "The eternal complement",
       "date": "Thu, 01 Oct 2026 17:00:00 GMT",
@@ -52,15 +176,6 @@
       "source_name": "solidot"
     },
     {
-      "title": "The State of AI: A Look at What's Next",
-      "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-10-01T14:56:58.609Z",
-      "summary": "An in-depth analysis of the current AI landscape and future trends.",
-      "category": "AI Analysis",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
       "title": "猫与幸福感正相关",
       "date": "Thu, 01 Oct 2026 14:52:06 GMT",
       "summary": "根据发表在 PLOS One 期刊上的一项研究，猫的数量与幸福感正相关，一个国家的猫越多，其幸福感通常越高。但主要通过猫传播的弓形虫感染率与幸福感负相关，弓形虫感染率较高的国家的幸福指数通常较低。两个关系似乎矛盾，但也可能与卫生、经济条件相关联。研究分析了 93 个国家和地区的数据，幸福指数平均值为 5.72，每万人拥有猫数量的平均值为 989 只，其中中国的幸福指数为 5.97，略高于平均水平；每万人拥有猫的数量为 376 只，显著低于平均值，中国的弓形虫感染率与平均水平相当。研究作者提出，猫对幸福感的影响可能与经济因素有关。也就是随着收入水平的提高，公共卫生条件会得到改善，虽然猫的数量增加，但感染风险不会有相应的增加。",
@@ -70,61 +185,22 @@
       "source_name": "solidot"
     },
     {
-      "title": "Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation",
-      "date": "Thu, 01 Oct 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.38282v1 Announce Type: new Abstract: Vision-language models may rewrite anomalous text in images into linguistically plausible expressions, compromising OCR transcription faithfulness. Sequence-level task rewards and local teacher guidance are complementary, but guidance from the same teacher may not remain equally effective as the student improves. Offline analysis shows that supervision from a fixed teacher becomes progressively less favorable as the student improves, both across tr",
-      "url": "https://arxiv.org/abs/2609.38282",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "date": "Thu, 01 Oct 2026 00:00:00 GMT",
+      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+      "url": "https://openai.com/index/the-den-family-social",
+      "category": "",
+      "source": "OpenAI News",
+      "source_name": "openai"
     },
     {
-      "title": "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks",
-      "date": "Thu, 01 Oct 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.38288v1 Announce Type: new Abstract: We present AREX-2, an effort to advance the self-improving capability of LLM agents, which we define as the ability to iteratively refine a solution at test time. This ability rests on two complementary capabilities: reflection, which produces a solution better than the current one, and long-horizon execution, which keeps the iteration effective over many rounds. We hypothesize that both capabilities are domain-agnostic, and can therefore be learne",
-      "url": "https://arxiv.org/abs/2609.38288",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "MoFlow: Multi-Objective Agentic Workflow Generation",
-      "date": "Thu, 01 Oct 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.38294v1 Announce Type: new Abstract: We study the generation of agentic workflows that jointly optimize multiple objectives, such as accuracy, cost, latency, robustness, and consistency. Existing methods for workflow generation typically optimize accuracy alone or a weighted sum of objectives, so each trained generator commits to one fixed trade-off and must be retrained from scratch when preferences change. To alleviate this, we propose MoFlow, which generates workflows optimized acr",
-      "url": "https://arxiv.org/abs/2609.38294",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "AI Agents are Vulnerable to Radicalization",
-      "date": "Thu, 01 Oct 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.38296v1 Announce Type: new Abstract: Large language models (LLMs) can influence people's beliefs, yet little is known about whether and how they can manipulate each other. To investigate this, we simulate conversations between two agents: a target LLM that role-plays a human persona based on demographic and psychological attributes, and an influencer LLM that aims to make the target's beliefs more extreme. We examine radicalization along two pathways: resonance, where the influencer r",
-      "url": "https://arxiv.org/abs/2609.38296",
-      "category": [
-        "cs.AI",
-        "cs.CY"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "CARAT: Do Materials LLMs Reason or Recite?",
-      "date": "Thu, 01 Oct 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.38340v1 Announce Type: new Abstract: When a materials LLM answers a question about crystal structure, does it reason from the structure or copy an answer already printed in its input? Accuracy cannot tell: a structural description often prints the very field it is scored against. CARAT holds question and gold answer fixed across eight matched views, names each structural relation separately in GraphSpace, and adds matched fine-tuning, answer masking, evidence injection, paired inferen",
-      "url": "https://arxiv.org/abs/2609.38340",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Examining Variation in How Guided AI Tutors Resolve Student Impasses",
-      "date": "Thu, 01 Oct 2026 04:00:00 GMT",
-      "summary": "arXiv:2609.38346v1 Announce Type: new Abstract: When a student is stuck, a tutor faces the assistance dilemma: help given too early can hinder productive struggle, while help withheld too long leaves the student in a frustrating, persistent impasse (i.e., wheel spinning). Generative AI tutors increasingly use guardrails restricting answer-giving, yet little is known about how such tutors behave once an impasse persists. We analyze 20,462 student turns from 1,260 authentic sessions with a guided ",
-      "url": "https://arxiv.org/abs/2609.38346",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
+      "title": "How Startups Are Using AI to Disrupt Industries",
+      "url": "https://every.to/source-code/ai-startups",
+      "date": "2026-09-30T17:32:41.303Z",
+      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
+      "category": "Source Code",
+      "source": "Every.to",
+      "source_name": "every"
     },
     {
       "title": "PS5 越狱取得突破",
@@ -143,15 +219,6 @@
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
-    },
-    {
-      "title": "How Startups Are Using AI to Disrupt Industries",
-      "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-09-30T14:56:58.609Z",
-      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
-      "category": "Source Code",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "Disrupting a coordinated model-distillation campaign",
@@ -174,20 +241,11 @@
     {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-09-29T14:56:58.609Z",
+      "date": "2026-09-29T17:32:41.303Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
       "source_name": "every"
-    },
-    {
-      "title": "DevDay 2026 Recap",
-      "date": "Tue, 29 Sep 2026 10:00:00 GMT",
-      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-      "url": "https://openai.com/index/devday-2026-recap",
-      "category": "Company",
-      "source": "OpenAI News",
-      "source_name": "openai"
     },
     {
       "title": "Introducing GPT-6.1 Sol",
@@ -201,7 +259,7 @@
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-09-28T14:56:58.609Z",
+      "date": "2026-09-28T17:32:41.303Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
@@ -210,7 +268,7 @@
     {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-09-27T14:56:58.609Z",
+      "date": "2026-09-27T17:32:41.303Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -219,7 +277,7 @@
     {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-09-26T14:56:58.609Z",
+      "date": "2026-09-26T17:32:41.303Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
