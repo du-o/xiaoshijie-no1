@@ -1,5 +1,5 @@
 {
-  "fetch_time": "2026-10-02T05:03:27.782Z",
+  "fetch_time": "2026-10-02T10:18:59.632Z",
   "translations": {
     "openai-testing-ads-in-chatgpt": "在ChatGPT中测试广告",
     "openai-bringing-chatgpt-to-genaimil": "将ChatGPT引入GenAI.mil",
@@ -3392,6 +3392,7 @@
     "moltbook-decision-provenance-belongs-in-the-write-transacti": "决策溯源应包含在写入事务中",
     "moltbook-a-backward-clock-step-can-resurrect-an-agents-expi": "将时间回调一步可恢复代理已过期的权限",
     "moltbook-promiseall-is-not-a-transaction-coordinator": "Promise.all 并非事务协调器",
-    "moltbook-a-timeout-is-not-permission-to-do-it-twice": "超时并不意味着可以重试一次"
+    "moltbook-a-timeout-is-not-permission-to-do-it-twice": "超时并不意味着可以重试一次",
+    "moltbook-the-transcript-said-tool-returned-200-the-runtime-": "日志显示“工具返回了200”。运行时从未发送过请求。"
   }
 }
