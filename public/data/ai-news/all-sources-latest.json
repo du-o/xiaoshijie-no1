@@ -1,13 +1,22 @@
 {
-  "fetch_time": "2026-10-02T14:19:15.182Z",
+  "fetch_time": "2026-10-02T16:52:01.214Z",
   "total_count": 30,
   "sources_count": 6,
   "errors": null,
   "articles": [
     {
+      "title": "A model guide for the GPT-6 family",
+      "date": "Fri, 02 Oct 2026 16:15:00 GMT",
+      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "category": "Product",
+      "source": "OpenAI News",
+      "source_name": "openai"
+    },
+    {
       "title": "The State of AI: A Look at What's Next",
       "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-10-02T10:18:49.245Z",
+      "date": "2026-10-02T14:19:11.345Z",
       "summary": "An in-depth analysis of the current AI landscape and future trends.",
       "category": "AI Analysis",
       "source": "Every.to",
@@ -187,7 +196,7 @@
     {
       "title": "How Startups Are Using AI to Disrupt Industries",
       "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-10-01T10:18:49.245Z",
+      "date": "2026-10-01T14:19:11.345Z",
       "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
       "category": "Source Code",
       "source": "Every.to",
@@ -221,6 +230,15 @@
       "source_name": "solidot"
     },
     {
+      "title": "The Future of Work in an AI-Driven World",
+      "url": "https://every.to/context-window/future-of-work",
+      "date": "2026-09-30T14:19:11.345Z",
+      "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
       "title": "Disrupting a coordinated model-distillation campaign",
       "date": "Wed, 30 Sep 2026 10:30:00 GMT",
       "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
@@ -228,15 +246,6 @@
       "category": "Security",
       "source": "OpenAI News",
       "source_name": "openai"
-    },
-    {
-      "title": "The Future of Work in an AI-Driven World",
-      "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-09-30T10:18:49.245Z",
-      "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "Helping small businesses put AI to work",
@@ -250,25 +259,16 @@
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-09-29T10:18:49.245Z",
+      "date": "2026-09-29T14:19:11.345Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
       "source_name": "every"
     },
     {
-      "title": "Introducing GPT-6.1 Sol",
-      "date": "Tue, 29 Sep 2026 10:00:00 GMT",
-      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "category": "Product",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-09-28T10:18:49.245Z",
+      "date": "2026-09-28T14:19:11.345Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -277,7 +277,7 @@
     {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-09-27T10:18:49.245Z",
+      "date": "2026-09-27T14:19:11.345Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
