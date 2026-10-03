@@ -1,9 +1,18 @@
 {
-  "fetch_time": "2026-10-03T12:53:22.807Z",
+  "fetch_time": "2026-10-03T15:16:40.882Z",
   "total_count": 24,
   "sources_count": 6,
   "errors": null,
   "articles": [
+    {
+      "title": "The State of AI: A Look at What's Next",
+      "url": "https://every.to/p/the-state-of-ai",
+      "date": "2026-10-03T12:53:19.305Z",
+      "summary": "An in-depth analysis of the current AI landscape and future trends.",
+      "category": "AI Analysis",
+      "source": "Every.to",
+      "source_name": "every"
+    },
     {
       "title": "小米汽车：小米Vision GT 10月即将正式入驻Gran Turismo 7",
       "date": "Sat, 03 Oct 2026 09:43:19 GMT",
@@ -12,15 +21,6 @@
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
-    },
-    {
-      "title": "The State of AI: A Look at What's Next",
-      "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-10-03T09:40:41.373Z",
-      "summary": "An in-depth analysis of the current AI landscape and future trends.",
-      "category": "AI Analysis",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "国庆假期前两天全国高速公路充电量超5000万千瓦时 易堵路段提醒",
@@ -79,7 +79,7 @@
     {
       "title": "How Startups Are Using AI to Disrupt Industries",
       "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-10-02T09:40:41.373Z",
+      "date": "2026-10-02T12:53:19.305Z",
       "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
       "category": "Source Code",
       "source": "Every.to",
@@ -151,7 +151,7 @@
     {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-10-01T09:40:41.373Z",
+      "date": "2026-10-01T12:53:19.305Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
@@ -185,6 +185,15 @@
       "source_name": "solidot"
     },
     {
+      "title": "Building AI Products: Lessons from the Trenches",
+      "url": "https://every.to/p/building-ai-products",
+      "date": "2026-09-30T12:53:19.305Z",
+      "summary": "Practical insights from builders creating AI-powered products.",
+      "category": "Product",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
       "title": "Disrupting a coordinated model-distillation campaign",
       "date": "Wed, 30 Sep 2026 10:30:00 GMT",
       "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
@@ -194,18 +203,9 @@
       "source_name": "openai"
     },
     {
-      "title": "Building AI Products: Lessons from the Trenches",
-      "url": "https://every.to/p/building-ai-products",
-      "date": "2026-09-30T09:40:41.373Z",
-      "summary": "Practical insights from builders creating AI-powered products.",
-      "category": "Product",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-09-29T09:40:41.373Z",
+      "date": "2026-09-29T12:53:19.306Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -214,7 +214,7 @@
     {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-09-28T09:40:41.373Z",
+      "date": "2026-09-28T12:53:19.306Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
