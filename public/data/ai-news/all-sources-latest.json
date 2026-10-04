@@ -1,9 +1,18 @@
 {
-  "fetch_time": "2026-10-04T13:34:59.141Z",
+  "fetch_time": "2026-10-04T16:01:18.756Z",
   "total_count": 23,
   "sources_count": 6,
   "errors": null,
   "articles": [
+    {
+      "title": "The State of AI: A Look at What's Next",
+      "url": "https://every.to/p/the-state-of-ai",
+      "date": "2026-10-04T13:34:56.346Z",
+      "summary": "An in-depth analysis of the current AI landscape and future trends.",
+      "category": "AI Analysis",
+      "source": "Every.to",
+      "source_name": "every"
+    },
     {
       "title": "马斯克称“SpaceXAI”将更名为“SpaceXSI”",
       "date": "Sun, 04 Oct 2026 10:53:50 GMT",
@@ -21,15 +30,6 @@
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
-    },
-    {
-      "title": "The State of AI: A Look at What's Next",
-      "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-10-04T10:25:32.426Z",
-      "summary": "An in-depth analysis of the current AI landscape and future trends.",
-      "category": "AI Analysis",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "伦敦支付基础设施公司OpenPayd计划年底前在纳斯达克上市",
@@ -70,7 +70,7 @@
     {
       "title": "How Startups Are Using AI to Disrupt Industries",
       "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-10-03T10:25:32.426Z",
+      "date": "2026-10-03T13:34:56.346Z",
       "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
       "category": "Source Code",
       "source": "Every.to",
@@ -88,7 +88,7 @@
     {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-10-02T10:25:32.426Z",
+      "date": "2026-10-02T13:34:56.346Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
@@ -160,7 +160,7 @@
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-10-01T10:25:32.426Z",
+      "date": "2026-10-01T13:34:56.346Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
@@ -185,6 +185,15 @@
       "source_name": "solidot"
     },
     {
+      "title": "AI Agents: The Next Evolution of Automation",
+      "url": "https://every.to/source-code/ai-agents",
+      "date": "2026-09-30T13:34:56.346Z",
+      "summary": "Understanding autonomous AI agents and their potential impact on software.",
+      "category": "Source Code",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
       "title": "Disrupting a coordinated model-distillation campaign",
       "date": "Wed, 30 Sep 2026 10:30:00 GMT",
       "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
@@ -194,18 +203,9 @@
       "source_name": "openai"
     },
     {
-      "title": "AI Agents: The Next Evolution of Automation",
-      "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-09-30T10:25:32.426Z",
-      "summary": "Understanding autonomous AI agents and their potential impact on software.",
-      "category": "Source Code",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-09-29T10:25:32.426Z",
+      "date": "2026-09-29T13:34:56.346Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
