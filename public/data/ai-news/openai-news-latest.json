@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-10-05T05:02:32.209Z",
+  "fetch_time": "2026-10-05T11:11:20.457Z",
   "articles": [
+    {
+      "title": "Building advertising for the way people use AI",
+      "date": "Mon, 05 Oct 2026 10:00:00 GMT",
+      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "category": "Product"
+    },
     {
       "title": "A model guide for the GPT-6 family",
       "date": "Fri, 02 Oct 2026 16:15:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
       "url": "https://openai.com/index/the-den-family-social",
       "category": ""
-    },
-    {
-      "title": "Disrupting a coordinated model-distillation campaign",
-      "date": "Wed, 30 Sep 2026 10:30:00 GMT",
-      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "category": "Security"
     }
   ],
   "status": "success",
