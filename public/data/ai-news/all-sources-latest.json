@@ -1,76 +1,135 @@
 {
-  "fetch_time": "2026-10-04T16:01:18.756Z",
-  "total_count": 23,
+  "fetch_time": "2026-10-05T05:02:35.338Z",
+  "total_count": 25,
   "sources_count": 6,
   "errors": null,
   "articles": [
     {
+      "title": "上半年熊猫债外资发行人募资占比首超中资",
+      "date": "Mon, 05 Oct 2026 04:52:10 GMT",
+      "summary": "国家外汇管理局日前发布的《2026年上半年中国国际收支报告》显示，上半年，熊猫债外资发行人募资规模上升。外资发行人募资规模占熊猫债市场总募资规模的54%，首次超过中资背景发行人募资规模。近年来，熊猫债发行主体结构逐步变化，从早期国际机构试点、境外中资机构主导，逐渐演变为境外中资和外资主体共同参与。从募集资金在境内外使用看，外资发行人募集资金拟用于境外的规模为587亿元人民币，占外资募资规模的68%。（新华社）",
+      "url": "https://36kr.com/newsflashes/4012383246209157?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "长三角铁路返程客流增多，今日预计发送旅客超380万人次",
+      "date": "Mon, 05 Oct 2026 04:28:23 GMT",
+      "summary": "从中国铁路上海局集团有限公司获悉，10月5日国庆假期第5天，长三角铁路返程客流增多，出行客流维持高位，当天预计发送旅客超380万人次。10月4日，上铁集团发送旅客375.5万人次。自9月23日中秋国庆假期运输启动以来，截至10月4日，长三角铁路累计发送旅客4098.9万人次，日均发送约341.6万人次，假期客流持续处于高位运行。（央视新闻）",
+      "url": "https://36kr.com/newsflashes/4012391481397383?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "恒指午间休盘跌0.08%，恒生科技指数涨0.27%",
+      "date": "Mon, 05 Oct 2026 04:01:07 GMT",
+      "summary": "36氪获悉，恒指午间休盘跌0.08%，恒生科技指数涨0.27%；硬件设备、半导体、可选消费零售板块领涨，傅里叶涨超13%，海光芯正涨超5%，阿里巴巴涨近1%；企业服务、建材、交通运输板块跌幅居前，中科集团控股跌超6%，秦港股份跌超3%，华新建材跌超1%；南向资金净买入68.64亿港元。",
+      "url": "https://36kr.com/newsflashes/4012455820054656?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching",
+      "date": "Mon, 05 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.02260v1 Announce Type: new Abstract: Flow matching models excel at generative modeling, and many downstream applications require their samples to satisfy prescribed constraints, such as observed measurements and physical laws. However, existing constrained samplers often face a trade-off: \\textit{enforcing constraints can substantially displace samples from the pretrained data distribution}. To address this trade-off, we introduce \\textbf{MintFlow}, a training-free constrained samplin",
+      "url": "https://arxiv.org/abs/2610.02260",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses",
+      "date": "Mon, 05 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.02267v1 Announce Type: new Abstract: Agent harnesses make many small, typed decisions per task: which model to call, which tool to use, whether retrieved text is relevant, whether an input carries an injection. System-1 decision models answer such questions in a single forward pass with class probabilities, promising large cost and latency savings over LLM calls. We present a paired evaluation of an open-weight (Laya) and a hosted (Jev) System-1 model on 11 agent decision points built",
+      "url": "https://arxiv.org/abs/2610.02267",
+      "category": [
+        "cs.AI",
+        "cs.CL",
+        "cs.CR",
+        "cs.LG"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports About Societal Resilience?",
+      "date": "Mon, 05 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.02281v1 Announce Type: new Abstract: Societal resilience research relies on access to useful and actionable data, which motivates our main research question: Can annual reports, processed at scale with LLMs, provide a useful signal about how companies disclose their response to AI? We test this by applying a reproducible two-stage classification pipeline to 9,821 annual reports from 1,362 UK listed companies (2020-2025, with partial 2026 data). We first validate the method against 474",
+      "url": "https://arxiv.org/abs/2610.02281",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Keep It CALM: Analyzing the Limits of Global Unsafety in Text-to-Image Generation",
+      "date": "Mon, 05 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.02300v1 Announce Type: new Abstract: Training-free safeguards for text-to-image generation often rely on a reusable safety signal, such as an unsafe direction or global toxic subspace, applied broadly across prompts. We provide a controlled geometric analysis of this global-unsafety assumption and reveal a consistent coverage-selectivity trade-off: compact unsafe subspaces fail to cover heterogeneous unsafe semantics, whereas broader aggregation increasingly distorts safety-adjacent b",
+      "url": "https://arxiv.org/abs/2610.02300",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents",
+      "date": "Mon, 05 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.02330v1 Announce Type: new Abstract: Large language models (LLMs) rely on long-horizon tool invocation sequences for complex tasks, where each invocation can alter the task state and condition subsequent decisions. In long-horizon tool use, final-outcome rewards provide weak credit assignment over long interaction traces. Step-level rewards can offer more targeted feedback, but obtaining reliable step supervision often requires human or LLM judgment, or additional rollouts to estimate",
+      "url": "https://arxiv.org/abs/2610.02330",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "World Editing: Intervening on Executable Worlds at Increasing Depth",
+      "date": "Mon, 05 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.02331v1 Announce Type: new Abstract: Interactive world models are increasingly capable of generating environments and acting within them, yet deliberately editing an existing executable world remains underexplored. We formulate world editing as intervening on an existing world while preserving properties that should remain unchanged, and introduce intervention depth as an axis describing how strongly an edit couples world entities, dynamics, and systems. We instantiate this capability",
+      "url": "https://arxiv.org/abs/2610.02331",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "我国推进7项天然气国际标准成功立项",
+      "date": "Mon, 05 Oct 2026 03:49:04 GMT",
+      "summary": "从国家市场监督管理总局获悉，国际标准化组织日前批准由我国牵头的7项天然气国际标准全部立项。据了解，本批标准涵盖页岩气勘探开发、天然气碳足迹核算、天然气储层岩心取样、天然气水合物测试等产业链上游关键领域，将有利于构建全球统一的天然气技术规则，推动清洁低碳、安全高效的全球能源体系建设。其中，3项页岩气检测标准将为非常规油气开发提供统一技术依据，补齐页岩气储量评估与工程安全规范短板。（新华社）",
+      "url": "https://36kr.com/newsflashes/4012386168852360?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "苹果新任CEO特努斯上任即亲掌设计，10月密集推新品对冲服务业务放缓",
+      "date": "Mon, 05 Oct 2026 03:37:36 GMT",
+      "summary": "苹果新任首席执行官John Ternus上任头几周将设计列为优先事项。除了触摸屏和转向OLED技术外，苹果改版后的MacBook Pro还有其它变化。此外，该公司还将发布新的智能家居中枢、HomePod mini和搭载Siri AI的Apple TV。（新浪财经）",
+      "url": "https://36kr.com/newsflashes/4012363095740553?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "截至二季度末资产管理产品总规模突破88万亿元",
+      "date": "Mon, 05 Oct 2026 03:13:03 GMT",
+      "summary": "中国基金业协会最新发布的数据显示，截至2026年二季度末，基金管理公司及其子公司、证券公司及其子公司、期货公司及其资管子公司、私募基金管理机构资产管理产品总规模达88.37万亿元。（新华社）",
+      "url": "https://36kr.com/newsflashes/4012379296829312?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
       "title": "The State of AI: A Look at What's Next",
       "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-10-04T13:34:56.346Z",
+      "date": "2026-10-04T16:01:15.303Z",
       "summary": "An in-depth analysis of the current AI landscape and future trends.",
       "category": "AI Analysis",
       "source": "Every.to",
       "source_name": "every"
     },
     {
-      "title": "马斯克称“SpaceXAI”将更名为“SpaceXSI”",
-      "date": "Sun, 04 Oct 2026 10:53:50 GMT",
-      "summary": "在X平台上，有用户向埃隆·马斯克提问，是否有将“SpaceXAI”更名为“SpaceXSI”的可能性。马斯克回复称“是的，我们会做出这个改变”。马斯克还表示，“不再叫AI，叫SI，这样更好”。（财联社）",
-      "url": "https://36kr.com/newsflashes/4011311533543553?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "机构调研：磷酸铁锂景气度延续到2027年",
-      "date": "Sun, 04 Oct 2026 10:38:00 GMT",
-      "summary": "9月以来，锂电产业链上市公司密集召开业绩说明会、接待机构调研。万润新能表示，称三季度保持满产，预计行业高景气将延续至四季度和明年。湖南裕能表示下半年主要产品特别是高端产品供不应求，2027年行业需求预计将保持较快增速。（上证报）",
-      "url": "https://36kr.com/newsflashes/4011307663102080?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "伦敦支付基础设施公司OpenPayd计划年底前在纳斯达克上市",
-      "date": "Sun, 04 Oct 2026 10:18:39 GMT",
-      "summary": "伦敦支付基础设施公司OpenPayd计划年底前在纳斯达克上市，以资助其美国市场扩张和收购计划。该公司首席执行官Iana Dimitrova表示，OpenPayd目标是在2027年4月前在美国推出服务，并正在考虑通过收购获取牌照和技术。OpenPayd正就与Titan Acquisition Corp．的拟议合并接受美国证券交易委员会审查，目前处于最后阶段。Dimitrova表示，除非出现重大外部干扰，预计交易将于今年完成。该交易尚需注册声明生效和Titan股东批准等条件。上市后，OpenPayd将在纳斯达克交易，股票代码为OP。（新浪财经）",
-      "url": "https://36kr.com/newsflashes/4011304470384513?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "英国研究推进阿尔茨海默病基因疗法开发",
-      "date": "Sun, 04 Oct 2026 09:52:10 GMT",
-      "summary": "英国布里斯托尔大学近日发布消息说，该校研究人员在阿尔茨海默病基因疗法开发上获得重要进展，有望为预防或延缓这种疾病提供新思路。研究团队负责人、布里斯托尔大学心理学与神经科学学院副教授凯文·肯普说，这项研究仍处于早期阶段，团队希望通过靶向APOE4基因这一重要风险因子，最终开发出新的阿尔茨海默病治疗方法。（新华社）",
-      "url": "https://36kr.com/newsflashes/4011303006932873?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "液冷巨头并购，释放新信号",
-      "date": "Sun, 04 Oct 2026 09:30:27 GMT",
-      "summary": "近日，国际液冷企业维谛技术宣布收购欧洲KES公司。公开资料显示，KES公司为高密度液冷数据中心及其他应用提供流体管理、调试和负载测试服务。 维谛技术是全球较早通过并购来布局液冷产业的国际巨头。在过去4年中，维谛技术已收购了10家拥有不同业务特点的公司，大幅提升了公司技术能力。 业内人士表示，随着全球AIDC推进，维谛技术已逐步走出简单产品竞争，正在向综合运维和服务的方向发展，这一改变将极大改善公司综合服务能力和潜在盈利能力。相比较而言，目前国内液冷领域的收购仍集中在硬件领域，侧重快速进入国际液冷以及国内核心产业链。（上证报）",
-      "url": "https://36kr.com/newsflashes/4011300895756420?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "Truist比较Meta Muse与OpenAI Dots：Meta先赢在分发，OpenAI更偏企业和复杂任务",
-      "date": "Sun, 04 Oct 2026 09:10:19 GMT",
-      "summary": "Truist Securities认为，Meta正在新兴AI Agent市场取得早期优势，但这种优势主要来自其庞大的消费者用户基础和广告生态，而不是底层模型能力本身。相比之下，OpenAI和Google在开放式推理等能力上可能更强，但在产品定位和分发方式上，与Meta走的是不同路线。Meta的Muse和OpenAI新推出的Dots分别从两个方向切入市场。Muse首先面向普通消费者，并开始向小企业扩张；Dots则初期更偏向开发者和重度用户。两款产品都属于能够持续运行的AI Agent，可以使用电脑、记忆和已连接的应用程序，自主执行任务。（新浪财经）",
-      "url": "https://36kr.com/newsflashes/4011299198898310?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
       "title": "How Startups Are Using AI to Disrupt Industries",
       "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-10-03T13:34:56.346Z",
+      "date": "2026-10-03T16:01:15.303Z",
       "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
       "category": "Source Code",
       "source": "Every.to",
@@ -88,7 +147,7 @@
     {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-10-02T13:34:56.346Z",
+      "date": "2026-10-02T16:01:15.303Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
@@ -122,6 +181,15 @@
       "source_name": "solidot"
     },
     {
+      "title": "Building AI Products: Lessons from the Trenches",
+      "url": "https://every.to/p/building-ai-products",
+      "date": "2026-10-01T16:01:15.303Z",
+      "summary": "Practical insights from builders creating AI-powered products.",
+      "category": "Product",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
       "title": "How Albertsons Companies is reimagining retail from the inside out",
       "date": "Thu, 01 Oct 2026 16:00:00 GMT",
       "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
@@ -129,42 +197,6 @@
       "category": "Company",
       "source": "OpenAI News",
       "source_name": "openai"
-    },
-    {
-      "title": "二手 CPU 导致玩家被 Riot 封禁",
-      "date": "Thu, 01 Oct 2026 15:27:31 GMT",
-      "summary": "一名玩家购买了一个二手 CPU Ryzen 7 5800X3D，结果发现无法启动 Riot 工作室旗下的多款游戏，每次启动游戏就被踢出，在联络了 Riot 的客服之后才知道该 CPU 被列入了封禁黑名单，因为其前任主人有作弊行为。Riot 工作室旗下的所有游戏都受到影响，其中包括了 Valorant、League of Legends、Teamfight Tactics、Legends of Runeterra、2XKO 等。Riot 使用了内核级反作弊系统 Vanguard，它深度嵌入在 Windows 内核模式中。暂时不清楚 Riot 是如何唯一标识 CPU 的，CPU 会向操作系统报告硬件 ID，但该硬件 ID 不是唯一标识符，只是告诉操作系统其 CPU 型号。它可能是通过 CPU 运行产生的独特指纹标记 CPU，每个 CPU 在运行时候都会有微小的差异。",
-      "url": "https://www.solidot.org/story?sid=85523",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "新加坡推出面向公务员的约会软件 FirstDate",
-      "date": "Thu, 01 Oct 2026 15:11:12 GMT",
-      "summary": "为了提高生育率，新加坡试点推出了为公务员牵线搭桥的约会应用 FirstDate。新加坡的总和生育率已降至每名女性生育 0.87 个孩子，而十年前这一数字为 1.24。政府最近成立了一个专门研究生育率下降问题的工作组，预计该作组将在 2027 年初发表研究结果。FirstDate 面向 21-35 岁的单身人士，目前仅向公务员开放，申请截止日期为 10 月 5 日。用户无需浏览海量的个人资料，而是填写一份关于兴趣、习惯、价值观和偏好的问卷。FirstDate 会在每个周期内（即双方互相接受并预计见面所需的时间）为用户推送一个匹配对象。每项匹配结果都包含匹配度评分、对方的简介和一段个人留言。该服务使用了 Gale-Shapley 稳定婚姻算法。有公务员认为该应用的一大优势可能是被诈骗的可能性较低。",
-      "url": "https://www.solidot.org/story?sid=85522",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "猫与幸福感正相关",
-      "date": "Thu, 01 Oct 2026 14:52:06 GMT",
-      "summary": "根据发表在 PLOS One 期刊上的一项研究，猫的数量与幸福感正相关，一个国家的猫越多，其幸福感通常越高。但主要通过猫传播的弓形虫感染率与幸福感负相关，弓形虫感染率较高的国家的幸福指数通常较低。两个关系似乎矛盾，但也可能与卫生、经济条件相关联。研究分析了 93 个国家和地区的数据，幸福指数平均值为 5.72，每万人拥有猫数量的平均值为 989 只，其中中国的幸福指数为 5.97，略高于平均水平；每万人拥有猫的数量为 376 只，显著低于平均值，中国的弓形虫感染率与平均水平相当。研究作者提出，猫对幸福感的影响可能与经济因素有关。也就是随着收入水平的提高，公共卫生条件会得到改善，虽然猫的数量增加，但感染风险不会有相应的增加。",
-      "url": "https://www.solidot.org/story?sid=85521",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "Building AI Products: Lessons from the Trenches",
-      "url": "https://every.to/p/building-ai-products",
-      "date": "2026-10-01T13:34:56.346Z",
-      "summary": "Practical insights from builders creating AI-powered products.",
-      "category": "Product",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
@@ -176,18 +208,9 @@
       "source_name": "openai"
     },
     {
-      "title": "PS5 越狱取得突破",
-      "date": "Wed, 30 Sep 2026 17:01:06 GMT",
-      "summary": "由于索尼频繁更新 PS5 的固件，而大部分 PS5 越狱方法只针对特定固件版本的漏洞，因而这些越狱方法实用性相当有限。但情况在本周二发生了变化，名为 Relapse 的漏洞利用方法适用于最高固件版本 v13.6 的 PS5 游戏机，而 v13.6 是在今年 7 月释出的，意味着 PS5 只要不更新最新固件，就能成功越狱。Relapse 利用了 PS5 浏览器的一个已知的 WebKit 漏洞，提权获取内核的写入访问权限，安装 ELF 加载器去简化任意代码的运行。越狱后的 PS5 除了能备份游戏外还能运行模拟器以及 PS4 游戏的非官方 60 帧 MOD。",
-      "url": "https://www.solidot.org/story?sid=85520",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-09-30T13:34:56.346Z",
+      "date": "2026-09-30T16:01:15.303Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -205,7 +228,7 @@
     {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-09-29T13:34:56.346Z",
+      "date": "2026-09-29T16:01:15.303Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
