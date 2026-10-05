@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-10-05T11:11:20.457Z",
+  "fetch_time": "2026-10-05T16:37:44.908Z",
   "articles": [
+    {
+      "title": "Our approach to EU text provenance rules",
+      "date": "Mon, 05 Oct 2026 15:00:00 GMT",
+      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+      "url": "https://openai.com/index/eu-text-provenance",
+      "category": "Safety"
+    },
     {
       "title": "Building advertising for the way people use AI",
       "date": "Mon, 05 Oct 2026 10:00:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
       "url": "https://openai.com/index/albertsons-reimagining-retail",
       "category": "Company"
-    },
-    {
-      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "date": "Thu, 01 Oct 2026 00:00:00 GMT",
-      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
-      "url": "https://openai.com/index/the-den-family-social",
-      "category": ""
     }
   ],
   "status": "success",
