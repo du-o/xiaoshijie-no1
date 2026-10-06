@@ -1,56 +1,8 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-10-05T16:37:44.999Z",
-  "articles": [
-    {
-      "title": "MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching",
-      "date": "Mon, 05 Oct 2026 04:00:00 GMT",
-      "summary": "arXiv:2610.02260v1 Announce Type: new Abstract: Flow matching models excel at generative modeling, and many downstream applications require their samples to satisfy prescribed constraints, such as observed measurements and physical laws. However, existing constrained samplers often face a trade-off: \\textit{enforcing constraints can substantially displace samples from the pretrained data distribution}. To address this trade-off, we introduce \\textbf{MintFlow}, a training-free constrained samplin",
-      "url": "https://arxiv.org/abs/2610.02260",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses",
-      "date": "Mon, 05 Oct 2026 04:00:00 GMT",
-      "summary": "arXiv:2610.02267v1 Announce Type: new Abstract: Agent harnesses make many small, typed decisions per task: which model to call, which tool to use, whether retrieved text is relevant, whether an input carries an injection. System-1 decision models answer such questions in a single forward pass with class probabilities, promising large cost and latency savings over LLM calls. We present a paired evaluation of an open-weight (Laya) and a hosted (Jev) System-1 model on 11 agent decision points built",
-      "url": "https://arxiv.org/abs/2610.02267",
-      "category": [
-        "cs.AI",
-        "cs.CL",
-        "cs.CR",
-        "cs.LG"
-      ]
-    },
-    {
-      "title": "The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports About Societal Resilience?",
-      "date": "Mon, 05 Oct 2026 04:00:00 GMT",
-      "summary": "arXiv:2610.02281v1 Announce Type: new Abstract: Societal resilience research relies on access to useful and actionable data, which motivates our main research question: Can annual reports, processed at scale with LLMs, provide a useful signal about how companies disclose their response to AI? We test this by applying a reproducible two-stage classification pipeline to 9,821 annual reports from 1,362 UK listed companies (2020-2025, with partial 2026 data). We first validate the method against 474",
-      "url": "https://arxiv.org/abs/2610.02281",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Keep It CALM: Analyzing the Limits of Global Unsafety in Text-to-Image Generation",
-      "date": "Mon, 05 Oct 2026 04:00:00 GMT",
-      "summary": "arXiv:2610.02300v1 Announce Type: new Abstract: Training-free safeguards for text-to-image generation often rely on a reusable safety signal, such as an unsafe direction or global toxic subspace, applied broadly across prompts. We provide a controlled geometric analysis of this global-unsafety assumption and reveal a consistent coverage-selectivity trade-off: compact unsafe subspaces fail to cover heterogeneous unsafe semantics, whereas broader aggregation increasingly distorts safety-adjacent b",
-      "url": "https://arxiv.org/abs/2610.02300",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents",
-      "date": "Mon, 05 Oct 2026 04:00:00 GMT",
-      "summary": "arXiv:2610.02330v1 Announce Type: new Abstract: Large language models (LLMs) rely on long-horizon tool invocation sequences for complex tasks, where each invocation can alter the task state and condition subsequent decisions. In long-horizon tool use, final-outcome rewards provide weak credit assignment over long interaction traces. Step-level rewards can offer more targeted feedback, but obtaining reliable step supervision often requires human or LLM judgment, or additional rollouts to estimate",
-      "url": "https://arxiv.org/abs/2610.02330",
-      "category": "cs.AI"
-    },
-    {
-      "title": "World Editing: Intervening on Executable Worlds at Increasing Depth",
-      "date": "Mon, 05 Oct 2026 04:00:00 GMT",
-      "summary": "arXiv:2610.02331v1 Announce Type: new Abstract: Interactive world models are increasingly capable of generating environments and acting within them, yet deliberately editing an existing executable world remains underexplored. We formulate world editing as intervening on an existing world while preserving properties that should remain unchanged, and introduce intervention depth as an axis describing how strongly an edit couples world entities, dynamics, and systems. We instantiate this capability",
-      "url": "https://arxiv.org/abs/2610.02331",
-      "category": "cs.AI"
-    }
-  ],
+  "fetch_time": "2026-10-06T05:49:48.611Z",
+  "articles": [],
   "status": "success",
   "error": null
 }
