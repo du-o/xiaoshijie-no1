@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-10-06T14:36:18.629Z",
+  "fetch_time": "2026-10-06T17:27:05.612Z",
   "articles": [
+    {
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "date": "Tue, 06 Oct 2026 16:00:00 GMT",
+      "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+      "url": "https://openai.com/index/atlassian-partnership",
+      "category": "Company"
+    },
     {
       "title": "Our approach to EU text provenance rules",
       "date": "Mon, 05 Oct 2026 15:00:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
       "url": "https://openai.com/index/the-eternal-complement",
       "category": "Intelligence Age"
-    },
-    {
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
-      "date": "Thu, 01 Oct 2026 16:00:00 GMT",
-      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-      "url": "https://openai.com/index/albertsons-reimagining-retail",
-      "category": "Company"
     }
   ],
   "status": "success",
