@@ -1,9 +1,18 @@
 {
-  "fetch_time": "2026-10-07T10:51:12.040Z",
+  "fetch_time": "2026-10-07T14:56:05.500Z",
   "total_count": 30,
   "sources_count": 6,
   "errors": null,
   "articles": [
+    {
+      "title": "The State of AI: A Look at What's Next",
+      "url": "https://every.to/p/the-state-of-ai",
+      "date": "2026-10-07T10:51:08.631Z",
+      "summary": "An in-depth analysis of the current AI landscape and future trends.",
+      "category": "AI Analysis",
+      "source": "Every.to",
+      "source_name": "every"
+    },
     {
       "title": "恒生科技指数将把成分股扩充至50只",
       "date": "Wed, 07 Oct 2026 08:55:16 GMT",
@@ -57,15 +66,6 @@
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
-    },
-    {
-      "title": "The State of AI: A Look at What's Next",
-      "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-10-07T05:21:49.298Z",
-      "summary": "An in-depth analysis of the current AI landscape and future trends.",
-      "category": "AI Analysis",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets",
@@ -184,6 +184,15 @@
       "source_name": "openai"
     },
     {
+      "title": "How Startups Are Using AI to Disrupt Industries",
+      "url": "https://every.to/source-code/ai-startups",
+      "date": "2026-10-06T10:51:08.631Z",
+      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
+      "category": "Source Code",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
       "title": "Advancing computer use with Ironclad",
       "date": "Tue, 06 Oct 2026 10:00:00 GMT",
       "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
@@ -191,15 +200,6 @@
       "category": "Publication",
       "source": "OpenAI News",
       "source_name": "openai"
-    },
-    {
-      "title": "How Startups Are Using AI to Disrupt Industries",
-      "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-10-06T05:21:49.298Z",
-      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
-      "category": "Source Code",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "Our approach to EU text provenance rules",
@@ -238,6 +238,15 @@
       "source_name": "solidot"
     },
     {
+      "title": "The Future of Work in an AI-Driven World",
+      "url": "https://every.to/context-window/future-of-work",
+      "date": "2026-10-05T10:51:08.631Z",
+      "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
       "title": "Building advertising for the way people use AI",
       "date": "Mon, 05 Oct 2026 10:00:00 GMT",
       "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
@@ -247,18 +256,9 @@
       "source_name": "openai"
     },
     {
-      "title": "The Future of Work in an AI-Driven World",
-      "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-10-05T05:21:49.298Z",
-      "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-10-04T05:21:49.298Z",
+      "date": "2026-10-04T10:51:08.631Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
@@ -267,7 +267,7 @@
     {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-10-03T05:21:49.298Z",
+      "date": "2026-10-03T10:51:08.631Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -276,7 +276,7 @@
     {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-10-02T05:21:49.298Z",
+      "date": "2026-10-02T10:51:08.631Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
