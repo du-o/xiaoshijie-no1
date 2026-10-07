@@ -1,69 +1,8 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-10-06T17:27:13.241Z",
-  "articles": [
-    {
-      "title": "openclaw 2026.10.1-beta.1",
-      "date": "2026-10-05T19:47:49Z",
-      "summary": "## 2026.10.1\n\n### Highlights\n\n- **Sessions and memory:** preserved usage across registry changes, delivered worker attachments from remote workspaces, prevented queued cancellations and transcript ali...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.10.1-beta.1",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.10.1-beta.1",
-      "downloadCount": 101
-    },
-    {
-      "title": "openclaw 2026.9.8",
-      "date": "2026-10-03T03:21:47Z",
-      "summary": "<!-- openclaw-release-publication:docs-v1 -->\n\n## OpenClaw v2026.9.8\n\n58 commits · 43 pull requests · 21 contributors\n\n### Changes included in this release\n\nThe release notes and changelog contain the...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.9.8",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.9.8",
-      "downloadCount": 23345
-    },
-    {
-      "title": "openclaw 2026.8.35",
-      "date": "2026-10-02T14:06:34Z",
-      "summary": "This is a gateway-only `extended-stable` release, which is our current equivalent to LTS. This release is OpenClaw from the end of August 2026, plus critical security updates, reliability and performa...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.8.35",
-      "category": "Release",
-      "author": "RomneyDa",
-      "tagName": "v2026.8.35",
-      "downloadCount": 139
-    },
-    {
-      "title": "openclaw 2026.8.34",
-      "date": "2026-10-02T00:12:39Z",
-      "summary": "This is a gateway-only `extended-stable` release, which is our current equivalent to LTS. This release is OpenClaw from the end of August 2026, plus critical security updates, reliability and performa...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.8.34",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.8.34",
-      "downloadCount": 130
-    },
-    {
-      "title": "openclaw 2026.9.7",
-      "date": "2026-09-30T04:44:14Z",
-      "summary": "<!-- openclaw-release-publication:docs-v1 -->\n\n## OpenClaw v2026.9.7\n\n518 direct commits · 2,818 pull requests · 334 contributors\n\n### Changes included in this release\n\nThe release notes and changelog...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.9.7",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.9.7",
-      "downloadCount": 19950
-    },
-    {
-      "title": "openclaw 2026.8.33",
-      "date": "2026-09-29T03:12:00Z",
-      "summary": "This is a gateway-only `extended-stable` release, which is our current equivalent to LTS. This release is OpenClaw from the end of August 2026, plus critical security updates, reliability and performa...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.8.33",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.8.33",
-      "downloadCount": 0
-    }
-  ],
-  "status": "success",
-  "error": null
+  "fetch_time": "2026-10-07T05:22:05.149Z",
+  "articles": [],
+  "status": "error",
+  "error": "GitHub API 请求失败: 403"
 }

@@ -1,7 +1,7 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-10-06T17:27:05.612Z",
+  "fetch_time": "2026-10-07T05:21:49.507Z",
   "articles": [
     {
       "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
@@ -9,6 +9,27 @@
       "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
       "url": "https://openai.com/index/atlassian-partnership",
       "category": "Company"
+    },
+    {
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "date": "Tue, 06 Oct 2026 12:00:00 GMT",
+      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+      "url": "https://openai.com/index/jump-trading",
+      "category": ""
+    },
+    {
+      "title": "Sharing AI progress in mathematics",
+      "date": "Tue, 06 Oct 2026 12:00:00 GMT",
+      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "category": "Research"
+    },
+    {
+      "title": "Advancing computer use with Ironclad",
+      "date": "Tue, 06 Oct 2026 10:00:00 GMT",
+      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "category": "Publication"
     },
     {
       "title": "Our approach to EU text provenance rules",
@@ -23,27 +44,6 @@
       "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
       "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
       "category": "Product"
-    },
-    {
-      "title": "A model guide for the GPT-6 family",
-      "date": "Fri, 02 Oct 2026 16:15:00 GMT",
-      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "category": "Product"
-    },
-    {
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "date": "Fri, 02 Oct 2026 00:00:00 GMT",
-      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-      "url": "https://openai.com/index/chatham-financial",
-      "category": ""
-    },
-    {
-      "title": "The eternal complement",
-      "date": "Thu, 01 Oct 2026 17:00:00 GMT",
-      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
-      "url": "https://openai.com/index/the-eternal-complement",
-      "category": "Intelligence Age"
     }
   ],
   "status": "success",

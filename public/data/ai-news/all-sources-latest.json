@@ -1,9 +1,134 @@
 {
-  "fetch_time": "2026-10-06T17:27:08.354Z",
-  "total_count": 24,
+  "fetch_time": "2026-10-07T05:21:53.656Z",
+  "total_count": 30,
   "sources_count": 6,
   "errors": null,
   "articles": [
+    {
+      "title": "AMD首席执行官苏姿丰将与三星半导体负责人会面，应对内存短缺",
+      "date": "Wed, 07 Oct 2026 04:13:16 GMT",
+      "summary": "AMD首席执行官苏姿丰计划于周三与三星电子半导体业务负责人、副会长全永铉会面。这是AI产业两位关键人物的最新面对面交流。知情人士透露，苏姿丰此次访问韩国期间将举行会谈，但未披露具体细节。三星与AMD均拒绝置评。（新浪财经）",
+      "url": "https://36kr.com/newsflashes/4015298914750600?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "现货白银日内跌幅扩大至1%，报60.71美元/盎司",
+      "date": "Wed, 07 Oct 2026 04:12:00 GMT",
+      "summary": "10月7日，现货白银日内跌幅扩大至1%，报60.71美元/盎司。（每日经济新闻）",
+      "url": "https://36kr.com/newsflashes/4015297671909248?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "港股午盘：恒生指数跌0.53% 恒生科技指数跌0.91%",
+      "date": "Wed, 07 Oct 2026 04:09:59 GMT",
+      "summary": "36氪获悉，港股午间收盘，恒生指数跌0.53%，恒生科技指数跌0.91%。明星科网股普跌，阿里巴巴跌3.05%，百度集团跌2.21%，美团、小米集团跌超1%。生物医药股普跌，和铂医药跌超7%，康希诺生物跌近6%，君实生物跌逾4%。",
+      "url": "https://36kr.com/newsflashes/4015295684841349?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets",
+      "date": "Wed, 07 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.06910v1 Announce Type: new Abstract: Recent advances in Large Language Models (LLMs) have demonstrated remarkable capabilities in web front-end execution, with browser-based game generation emerging as a particularly prominent frontier. While previous efforts frequently rely on complex multi-turn workflows or focus on static game evaluation benchmarks, this work targets direct end-to-end real-world game synthesis driven by coding agents. However, generating complex games directly from",
+      "url": "https://arxiv.org/abs/2610.06910",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Text2Dashboard: A Governed Agent Architecture for Natural-Language Dashboard Generation over Enterprise DataBrain",
+      "date": "Wed, 07 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.06914v1 Announce Type: new Abstract: Text2Dashboard is a DataBrain-specific prototype that turns natural-language analytic requests into inspectable dashboards. An installable Codex plugin and standalone Agent Runtime combine schema-constrained model decisions with typed tools, persistent state, and deterministic Hooks for approval, audit, checkpointing, recovery, and failure handling. The pipeline resolves entities, discovers metadata, enforces read-only SQL, composes dashboards, and",
+      "url": "https://arxiv.org/abs/2610.06914",
+      "category": [
+        "cs.AI",
+        "cs.DB"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "FluidPD: In-Place Elasticity for SLO-Aware Prefill-Decode Disaggregated LLM Serving",
+      "date": "Wed, 07 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.06917v1 Announce Type: new Abstract: Prefill-decode disaggregation is becoming a common architecture for LLM serving because it separates two phases with distinct execution patterns and SLO objectives. Existing systems typically combine a fixed prefill/decode worker ratio with request routing across workers. However, real-world workloads exhibit both short bursts and sustained shifts in the prefill-to-decode demand ratio. As a result, a configuration that is well provisioned at one ti",
+      "url": "https://arxiv.org/abs/2610.06917",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Anchor Divergence for Semantic Geometry in Contrastive Learning",
+      "date": "Wed, 07 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.06919v1 Announce Type: new Abstract: This paper concerns how semantic context determines geometry in learned vector representations. Similarity is typically measured using cosine similarity, which provides a single fixed geometry. Semantic similarity, however, is inherently context dependent: two images may be similar because they depict the same object, share a visual style, or are relevant to the same clinical finding. We show that contrastive representations naturally encompass a f",
+      "url": "https://arxiv.org/abs/2610.06919",
+      "category": [
+        "cs.AI",
+        "cs.CV",
+        "cs.LG",
+        "stat.ML"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "RadOnc-Agent: An LLM-Orchestrated Framework for AI Workflows Across the Radiotherapy Care Pathway",
+      "date": "Wed, 07 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.06923v1 Announce Type: new Abstract: Artificial intelligence has advanced individual radiotherapy tasks, yet these capabilities remain separated across clinical stages, software environments and data modalities. This fragmentation contrasts with the longitudinal radiotherapy workflow from treatment decision-making through follow-up. Here we present RadOnc-Agent, an agentic artificial-intelligence framework that formalizes radiotherapy into four clinical phases and provides 26 callable",
+      "url": "https://arxiv.org/abs/2610.06923",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Metonymic Circuits for Abstract Concept Grounding in Vision Transformers",
+      "date": "Wed, 07 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.06928v1 Announce Type: new Abstract: We study how Vision Transformers ground abstract concepts (e.g., angry) when training data provide limited direct referential evidence. We hypothesize a metonymic grounding mechanism in which abstract predictions are driven by concrete, interpretable anchor concepts (e.g., fire) that bridge visual signals to abstract semantics. By applying Transcoders on CLIP and DINO vision encoders, we recover intermediate features that can be associated with sem",
+      "url": "https://arxiv.org/abs/2610.06928",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "中秋国庆假期60万网友累计增重超100万斤，蚂蚁阿福减重活动迎\"退展\"",
+      "date": "Wed, 07 Oct 2026 03:51:32 GMT",
+      "summary": "10月7日，健康AI蚂蚁阿福的“科学减重1亿斤”中秋国庆长假数据显示，9月25日至10月6日，参与减重打卡的60万网友累计增重超100万斤，其中，超10万人增重3斤以上。区域上，广东、浙江、江苏、山东、河南位列增重省份前五。今年6月底，蚂蚁阿福发起了“科学减重1亿斤”活动，虽然中秋国庆长假遇到了“退展”，但截至目前，全国网友今年的累计减重斤数依旧有624万斤。",
+      "url": "https://36kr.com/newsflashes/4015277549162632?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "中秋国庆消费升温，支付宝“碰一下”消费笔数同比增近40%",
+      "date": "Wed, 07 Oct 2026 03:23:04 GMT",
+      "summary": "中秋国庆假期文旅消费热度攀升。支付宝数据显示，双节期间“碰一下”消费笔数同比增长近40%。假期首四日，入境游客用支付宝“外卡内绑”和 Alipay+“外包内用”的消费额，同比增长近50%。长沙、重庆、福州、广州、杭州、上海、武汉、郑州八城联合支付宝发起“点亮城市”活动，吸引超100万人次打卡。",
+      "url": "https://36kr.com/newsflashes/4015249565945992?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "前8个月医保统筹基金收入约2.07万亿元",
+      "date": "Wed, 07 Oct 2026 02:43:35 GMT",
+      "summary": "国家医保局日前发布数据，2026年1月至8月，我国基本医疗保险（含生育保险）统筹基金总收入20727.72亿元，基本医疗保险（含生育保险）统筹基金总支出15504.14亿元，医保基金整体运行平稳。数据显示，在基本医疗保险（含生育保险）统筹基金收入方面，职工基本医疗保险（含生育保险）统筹基金收入12813.17亿元，城乡居民基本医疗保险统筹基金收入7914.55亿元。2026年前8个月，职工基本医疗保险（含生育保险）统筹基金支出8893.49亿元，其中生育保险基金待遇支出889.29亿元；城乡居民基本医疗保险统筹基金支出6610.65亿元。（新华社）",
+      "url": "https://36kr.com/newsflashes/4015210756165513?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "The State of AI: A Look at What's Next",
+      "url": "https://every.to/p/the-state-of-ai",
+      "date": "2026-10-06T17:27:05.387Z",
+      "summary": "An in-depth analysis of the current AI landscape and future trends.",
+      "category": "AI Analysis",
+      "source": "Every.to",
+      "source_name": "every"
+    },
     {
       "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
       "date": "Tue, 06 Oct 2026 16:00:00 GMT",
@@ -14,67 +139,40 @@
       "source_name": "openai"
     },
     {
-      "title": "The State of AI: A Look at What's Next",
-      "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-10-06T14:36:18.373Z",
-      "summary": "An in-depth analysis of the current AI landscape and future trends.",
-      "category": "AI Analysis",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "date": "Tue, 06 Oct 2026 12:00:00 GMT",
+      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+      "url": "https://openai.com/index/jump-trading",
+      "category": "",
+      "source": "OpenAI News",
+      "source_name": "openai"
+    },
+    {
+      "title": "Sharing AI progress in mathematics",
+      "date": "Tue, 06 Oct 2026 12:00:00 GMT",
+      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "category": "Research",
+      "source": "OpenAI News",
+      "source_name": "openai"
+    },
+    {
+      "title": "Advancing computer use with Ironclad",
+      "date": "Tue, 06 Oct 2026 10:00:00 GMT",
+      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "category": "Publication",
+      "source": "OpenAI News",
+      "source_name": "openai"
+    },
+    {
+      "title": "How Startups Are Using AI to Disrupt Industries",
+      "url": "https://every.to/source-code/ai-startups",
+      "date": "2026-10-05T17:27:05.387Z",
+      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
+      "category": "Source Code",
       "source": "Every.to",
       "source_name": "every"
-    },
-    {
-      "title": "OpenAI在其智能体擅访澳数据后采取新防范措施",
-      "date": "Tue, 06 Oct 2026 09:24:38 GMT",
-      "summary": "美国开放人工智能研究中心（OpenAI）首席战略官贾森·权6日在悉尼表示，OpenAI一个智能体未经授权访问澳大利亚国民医疗保险体系数据门户后，其公司已采取新防范监控措施，并已从事件中吸取教训。权当天接受澳议会下设人工智能联合特别委员会质询时说，该事件促使公司增设了监控机制：一旦模型以违规方式接入互联网，工作人员可立即介入终止训练；同时该公司支持澳大利亚针对同类事件建立强制报告制度。 (新华社)",
-      "url": "https://36kr.com/newsflashes/4014160822505345?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "国庆假期后首个交易日 20只基金将集中开启认购",
-      "date": "Tue, 06 Oct 2026 09:00:00 GMT",
-      "summary": "10月8日是假期后首个交易日，有20只基金将开启认购，形成10月首个发行小高峰。20只产品中包含被动指数型基金7只、偏股混合型基金5只、债券型基金3只、增强指数型基金3只，另有FOF基金和REITs各1只。从投资主题看，科技成长方向布局最为集中，涉及科创板芯片设计、科创创业人工智能、软件开发、机器人等多个细分领域。 (中证报)",
-      "url": "https://36kr.com/newsflashes/4014156616863877?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "印度电信巨头Jio据悉寻求约1140亿美元IPO估值",
-      "date": "Tue, 06 Oct 2026 08:35:49 GMT",
-      "summary": "据报道，印度电信巨头Jio据悉在IPO中寻求约1140亿美元估值。Jio计划在10月19日当周启动IPO，并于10月30日前上市。（界面）",
-      "url": "https://36kr.com/newsflashes/4014111082254216?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "恒生指数、恒生科技指数均涨约1%，药品股、生物技术股上扬",
-      "date": "Tue, 06 Oct 2026 08:12:54 GMT",
-      "summary": "36氪获悉，港股收涨，恒生指数涨1%，恒生科技指数涨0.94%。智谱涨逾7%，GLM-5.3上架AmazonBedrock。药品股、生物技术股上扬，康希诺生物涨超14%，百奥赛图-B涨超11%，再鼎医药涨超9%，英矽智能、中国生物制药、康方生物涨超4%，三生制药、和黄医药涨超3%，和铂医药-B涨约3%。",
-      "url": "https://36kr.com/newsflashes/4014118896095369?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "软银支持的DayOne数据中心拟在美国IPO募资至多50亿美元",
-      "date": "Tue, 06 Oct 2026 07:52:31 GMT",
-      "summary": "据知情人士透露，获软银支持的DayOne数据中心计划在美国首次公开募股（IPO）中募资至多50亿美元，DayOne计划最晚于今年年底在纳斯达克上市美国存托股票（ADS）。该公司已于周一向美国证券交易委员会（SEC）提交IPO招股说明书。根据该公司提交给SEC的文件，DayOne总部位于新加坡，今年上半年营收同比增长逾三倍，达到5.12亿美元；同期净亏损从1350万美元扩大至8190万美元。（财联社）",
-      "url": "https://36kr.com/newsflashes/4014060799955080?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "AMD首席执行官：未来数年芯片需求将“非常高”",
-      "date": "Tue, 06 Oct 2026 07:10:48 GMT",
-      "summary": "超威半导体（AMD）首席执行官苏姿丰预测，受人工智能应用增长推动，未来数年半导体需求将维持在“极高”水平。苏姿丰在台北对记者表示，芯片需求超过供给，存储芯片供应持续紧张。苏姿丰称，人工智能有益于世界，不会伤害人类。苏姿丰表示，美国头部AI企业之间开展协作十分重要。“安全创新方面仍有不少工作要做，”苏姿丰说，“最重要的是我们要携手合作。”苏姿丰称，美国“超级智能工作组”是“向前迈出的重要一步”。（新浪财经）",
-      "url": "https://36kr.com/newsflashes/4013970409164928?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
     },
     {
       "title": "Our approach to EU text provenance rules",
@@ -93,15 +191,6 @@
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
-    },
-    {
-      "title": "How Startups Are Using AI to Disrupt Industries",
-      "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-10-05T14:36:18.373Z",
-      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
-      "category": "Source Code",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "因涌入大量 AI 报告 Google 冻结其 Bug 悬赏计划",
@@ -140,6 +229,15 @@
       "source_name": "openai"
     },
     {
+      "title": "The Future of Work in an AI-Driven World",
+      "url": "https://every.to/context-window/future-of-work",
+      "date": "2026-10-04T17:27:05.387Z",
+      "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
       "title": "太阳系可能没有以前认为的能存在千亿年",
       "date": "Sun, 04 Oct 2026 17:14:32 GMT",
       "summary": "太阳已有 46 亿年历史，大约 50 亿年后，随着氢燃料的耗尽，太阳外层将会膨胀转变为红巨星，它会吞噬水星和金星，甚至可能包括地球。太阳系外围的气体巨行星预计会幸免，随着太阳光芒的熄灭，太阳系的残余行星预计还能存在一千亿年。然而发表在《The Astrophysical Journal Letters》期刊上的一项研究对此提出了质疑，认为在太阳生命的末期，整个系统会进入极端不稳定状态，会陷入致命的混乱，在太阳转变成白矮星之后，残余行星可能无法坚持超过 10 亿年。也就是说整个太阳系行星系统的剩余生命可能只有 60 亿年。",
@@ -158,63 +256,27 @@
       "source_name": "solidot"
     },
     {
-      "title": "The Future of Work in an AI-Driven World",
-      "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-10-04T14:36:18.373Z",
-      "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-10-03T14:36:18.373Z",
+      "date": "2026-10-03T17:27:05.387Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
       "source_name": "every"
     },
     {
-      "title": "A model guide for the GPT-6 family",
-      "date": "Fri, 02 Oct 2026 16:15:00 GMT",
-      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "category": "Product",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-10-02T14:36:18.373Z",
+      "date": "2026-10-02T17:27:05.387Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
       "source_name": "every"
     },
     {
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "date": "Fri, 02 Oct 2026 00:00:00 GMT",
-      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-      "url": "https://openai.com/index/chatham-financial",
-      "category": "",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
-      "title": "The eternal complement",
-      "date": "Thu, 01 Oct 2026 17:00:00 GMT",
-      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
-      "url": "https://openai.com/index/the-eternal-complement",
-      "category": "Intelligence Age",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-10-01T14:36:18.373Z",
+      "date": "2026-10-01T17:27:05.387Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
