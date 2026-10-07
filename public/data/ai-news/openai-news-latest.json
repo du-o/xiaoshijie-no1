@@ -1,8 +1,22 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-10-07T14:56:01.853Z",
+  "fetch_time": "2026-10-07T17:59:59.838Z",
   "articles": [
+    {
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "date": "Wed, 07 Oct 2026 12:00:00 GMT",
+      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+      "url": "https://openai.com/index/teens-learn-and-plan",
+      "category": "Product"
+    },
+    {
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "date": "Wed, 07 Oct 2026 07:00:00 GMT",
+      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+      "url": "https://openai.com/index/radisson",
+      "category": ""
+    },
     {
       "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
       "date": "Tue, 06 Oct 2026 16:00:00 GMT",
@@ -30,20 +44,6 @@
       "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
       "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
       "category": "Publication"
-    },
-    {
-      "title": "Our approach to EU text provenance rules",
-      "date": "Mon, 05 Oct 2026 15:00:00 GMT",
-      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-      "url": "https://openai.com/index/eu-text-provenance",
-      "category": "Safety"
-    },
-    {
-      "title": "Building advertising for the way people use AI",
-      "date": "Mon, 05 Oct 2026 10:00:00 GMT",
-      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "category": "Product"
     }
   ],
   "status": "success",
