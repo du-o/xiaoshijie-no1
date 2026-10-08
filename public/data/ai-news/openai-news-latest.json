@@ -1,7 +1,7 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-10-07T17:59:59.838Z",
+  "fetch_time": "2026-10-08T05:30:48.882Z",
   "articles": [
     {
       "title": "Helping teens learn, plan, and shape the future of AI",
@@ -16,6 +16,13 @@
       "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
       "url": "https://openai.com/index/radisson",
       "category": ""
+    },
+    {
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "date": "Wed, 07 Oct 2026 00:00:00 GMT",
+      "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+      "url": "https://openai.com/index/gpt-6-for-everyone",
+      "category": "Product"
     },
     {
       "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
@@ -37,13 +44,6 @@
       "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
       "category": "Research"
-    },
-    {
-      "title": "Advancing computer use with Ironclad",
-      "date": "Tue, 06 Oct 2026 10:00:00 GMT",
-      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "category": "Publication"
     }
   ],
   "status": "success",
