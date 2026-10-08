@@ -1,17 +1,17 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-10-08T15:04:45.587Z",
+  "fetch_time": "2026-10-08T18:01:58.425Z",
   "articles": [
     {
       "title": "openclaw 2026.9.9",
       "date": "2026-10-08T10:23:23Z",
-      "summary": "## 2026.9.9\n\n### Highlights\n\n- **GPT-6.1 Sol support:** update the managed Codex app-server and its embedded model catalog so native Codex sessions can discover and run GPT-6.1 Sol. (#161446, #163560)...",
+      "summary": "<!-- openclaw-release-publication:docs-v1 -->\n\n## OpenClaw v2026.9.9\n\n185 commits · 112 pull requests · 92 contributors\n\n### Changes included in this release\n\nThe release notes and changelog contain t...",
       "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.9.9",
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.9",
-      "downloadCount": 1120
+      "downloadCount": 2937
     },
     {
       "title": "openclaw 2026.10.1-beta.2",
@@ -41,7 +41,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.8",
-      "downloadCount": 34035
+      "downloadCount": 34159
     },
     {
       "title": "openclaw 2026.8.35",

@@ -1,8 +1,29 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-10-08T15:04:33.701Z",
+  "fetch_time": "2026-10-08T18:01:50.524Z",
   "articles": [
+    {
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "date": "Thu, 08 Oct 2026 16:00:00 GMT",
+      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "url": "https://openai.com/index/oracle",
+      "category": ""
+    },
+    {
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "date": "Thu, 08 Oct 2026 12:00:00 GMT",
+      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "url": "https://openai.com/index/pollo-ai",
+      "category": "Startup"
+    },
+    {
+      "title": "Disrupting AI-enabled “false front” operations",
+      "date": "Thu, 08 Oct 2026 00:00:00 GMT",
+      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "category": "Safety"
+    },
     {
       "title": "Helping teens learn, plan, and shape the future of AI",
       "date": "Wed, 07 Oct 2026 12:00:00 GMT",
@@ -23,27 +44,6 @@
       "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
       "url": "https://openai.com/index/gpt-6-for-everyone",
       "category": "Product"
-    },
-    {
-      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "date": "Tue, 06 Oct 2026 16:00:00 GMT",
-      "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-      "url": "https://openai.com/index/atlassian-partnership",
-      "category": "Company"
-    },
-    {
-      "title": "How Jump Trading is scaling quant research with ChatGPT",
-      "date": "Tue, 06 Oct 2026 12:00:00 GMT",
-      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-      "url": "https://openai.com/index/jump-trading",
-      "category": ""
-    },
-    {
-      "title": "Sharing AI progress in mathematics",
-      "date": "Tue, 06 Oct 2026 12:00:00 GMT",
-      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "category": "Research"
     }
   ],
   "status": "success",
