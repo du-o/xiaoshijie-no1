@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-10-09T05:34:42.805Z",
+  "fetch_time": "2026-10-09T11:08:03.437Z",
   "articles": [
+    {
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "date": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "url": "https://openai.com/index/sophos",
+      "category": ""
+    },
     {
       "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
       "date": "Thu, 08 Oct 2026 16:00:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
       "url": "https://openai.com/index/teens-learn-and-plan",
       "category": "Product"
-    },
-    {
-      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "date": "Wed, 07 Oct 2026 07:00:00 GMT",
-      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
-      "url": "https://openai.com/index/radisson",
-      "category": ""
     }
   ],
   "status": "success",
