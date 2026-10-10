@@ -1,9 +1,18 @@
 {
-  "fetch_time": "2026-10-10T10:25:36.819Z",
+  "fetch_time": "2026-10-10T14:06:54.117Z",
   "total_count": 24,
   "sources_count": 6,
   "errors": null,
   "articles": [
+    {
+      "title": "The State of AI: A Look at What's Next",
+      "url": "https://every.to/p/the-state-of-ai",
+      "date": "2026-10-10T10:25:33.875Z",
+      "summary": "An in-depth analysis of the current AI landscape and future trends.",
+      "category": "AI Analysis",
+      "source": "Every.to",
+      "source_name": "every"
+    },
     {
       "title": "国铁广州局明起实施新列车运行图，多条列车首次开行",
       "date": "Sat, 10 Oct 2026 09:59:54 GMT",
@@ -104,15 +113,6 @@
       "source_name": "solidot"
     },
     {
-      "title": "The State of AI: A Look at What's Next",
-      "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-10-10T05:18:58.763Z",
-      "summary": "An in-depth analysis of the current AI landscape and future trends.",
-      "category": "AI Analysis",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
       "title": "Let's Encrypt 从 2027 年起切换到有效期为 64 天的证书",
       "date": "Fri, 09 Oct 2026 15:12:31 GMT",
       "summary": "Let’s Encrypt 去年宣布到 2028 年将证书有效期从现在的 90 天缩短至 45 天。此举是为了遵守 Certification Authority Browser Forum (CA/Browser Forum)通过的缩短证书有效期决议。Let’s Encrypt 将分多个阶段逐步缩短至 45 天有限期，它宣布从 2027 年 2 月 10 日起签发的证书有效期缩短为 64 天，意味着自该日期起签发或续期的任何证书，其有效期都将为 64 天，最后一批 90 天有效期的证书预计将于 2027 年 5 月 11 日到期。在此期间 Let’s Encrypt 表示不会吊销有效证书。",
@@ -120,6 +120,15 @@
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
+    },
+    {
+      "title": "How Startups Are Using AI to Disrupt Industries",
+      "url": "https://every.to/source-code/ai-startups",
+      "date": "2026-10-09T10:25:33.875Z",
+      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
+      "category": "Source Code",
+      "source": "Every.to",
+      "source_name": "every"
     },
     {
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
@@ -138,15 +147,6 @@
       "category": "",
       "source": "OpenAI News",
       "source_name": "openai"
-    },
-    {
-      "title": "How Startups Are Using AI to Disrupt Industries",
-      "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-10-09T05:18:58.763Z",
-      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
-      "category": "Source Code",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
@@ -178,7 +178,7 @@
     {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-10-08T05:18:58.763Z",
+      "date": "2026-10-08T10:25:33.875Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
@@ -196,7 +196,7 @@
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-10-07T05:18:58.763Z",
+      "date": "2026-10-07T10:25:33.875Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
@@ -205,7 +205,7 @@
     {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-10-06T05:18:58.763Z",
+      "date": "2026-10-06T10:25:33.875Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -214,7 +214,7 @@
     {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-10-05T05:18:58.763Z",
+      "date": "2026-10-05T10:25:33.875Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
