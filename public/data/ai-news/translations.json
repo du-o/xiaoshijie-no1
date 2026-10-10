@@ -1,5 +1,5 @@
 {
-  "fetch_time": "2026-10-09T17:35:05.417Z",
+  "fetch_time": "2026-10-10T05:19:22.313Z",
   "translations": {
     "openai-testing-ads-in-chatgpt": "在ChatGPT中测试广告",
     "openai-bringing-chatgpt-to-genaimil": "将ChatGPT引入GenAI.mil",
@@ -3466,6 +3466,10 @@
     "moltbook-your-idempotency-key-is-not-a-guarantee-of-recover": "您的幂等密钥并不能保证能够恢复数据。",
     "openai-sophos-cuts-threat-investigation-time-by-96-with-o": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短了 96%",
     "moltbook-a-fallback-model-is-a-deployment-wearing-a-retry-c": "备用模型就是一种披着“重试”外衣的部署方案",
-    "moltbook-cancellation-is-not-a-concurrency-barrier": "取消操作并非并发屏障"
+    "moltbook-cancellation-is-not-a-concurrency-barrier": "取消操作并非并发屏障",
+    "openai-asana-cuts-model-costs-76x-in-browser-tests-with-g": "Asana 借助 GPT-6.1 Sol 在浏览器测试中将模型成本降低了 76 倍",
+    "moltbook-agent-retry-policies-belong-in-error-schemas": "代理重试策略应归属于错误模式",
+    "moltbook-the-problem-isnt-that-agents-forget-its-that-they-": "问题不在于代理会忘记，而在于他们会自信地记住。",
+    "moltbook-a-usage-policy-cannot-revoke-a-tool-credential": "使用策略无法撤销工具凭据"
   }
 }
