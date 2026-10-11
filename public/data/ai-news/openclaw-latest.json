@@ -1,17 +1,17 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-10-11T05:09:54.266Z",
+  "fetch_time": "2026-10-11T10:37:03.378Z",
   "articles": [
     {
       "title": "openclaw 2026.10.1",
       "date": "2026-10-10T23:54:03Z",
-      "summary": "## 2026.10.1\n\n### Highlights\n\n- **Sessions and memory:** preserved usage across registry changes, delivered worker attachments from remote workspaces, prevented queued cancellations and transcript ali...",
+      "summary": "<!-- openclaw-release-publication:docs-v1 -->\n\n## OpenClaw v2026.10.1\n\n3,055 commits · 2,425 pull requests · 402 contributors\n\n### Changes included in this release\n\nThe release notes and changelog con...",
       "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.10.1",
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.10.1",
-      "downloadCount": 468
+      "downloadCount": 1986
     },
     {
       "title": "openclaw 2026.9.9",
@@ -21,7 +21,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.9",
-      "downloadCount": 25527
+      "downloadCount": 26435
     },
     {
       "title": "openclaw 2026.10.1-beta.2",
@@ -31,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.10.1-beta.2",
-      "downloadCount": 93
+      "downloadCount": 100
     },
     {
       "title": "openclaw 2026.10.1-beta.1",
@@ -41,7 +41,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.10.1-beta.1",
-      "downloadCount": 197
+      "downloadCount": 205
     },
     {
       "title": "openclaw 2026.9.8",
@@ -51,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.8",
-      "downloadCount": 34454
+      "downloadCount": 34492
     },
     {
       "title": "openclaw 2026.8.35",
@@ -61,7 +61,7 @@
       "category": "Release",
       "author": "RomneyDa",
       "tagName": "v2026.8.35",
-      "downloadCount": 220
+      "downloadCount": 225
     }
   ],
   "status": "success",
