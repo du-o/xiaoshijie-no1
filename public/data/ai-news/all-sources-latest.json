@@ -1,9 +1,27 @@
 {
-  "fetch_time": "2026-10-14T13:11:40.453Z",
+  "fetch_time": "2026-10-14T16:00:38.514Z",
   "total_count": 24,
   "sources_count": 6,
   "errors": null,
   "articles": [
+    {
+      "title": "Linus Torvalds 用 LLM 辅助开发的补丁递交接受审查",
+      "date": "Wed, 14 Oct 2026 15:14:48 GMT",
+      "summary": "Linux 作者 Linus Torvalds 在维护者峰会上透露他在大模型帮助下开发了一系列补丁解决一个长期存在的问题。现在这组 10 个补丁已递交接受审查。这些补丁主要增强 folio 的查找机制：通过识别处于热数据状态的 folio，设置一个“延迟释放该 folio 直至 RCU 周期结束”的标志。随后利用 RCU 延迟在 RCU 保护下进行常规的 folio 查找，同时在 RCU 保护下直接进行实际的 folio 数据访问...补丁在测试中性能实现了数量级的提升，但已发现存在竞态条件，因此需要进一步完善。",
+      "url": "https://www.solidot.org/story?sid=85612",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "The State of AI: A Look at What's Next",
+      "url": "https://every.to/p/the-state-of-ai",
+      "date": "2026-10-14T13:11:36.922Z",
+      "summary": "An in-depth analysis of the current AI landscape and future trends.",
+      "category": "AI Analysis",
+      "source": "Every.to",
+      "source_name": "every"
+    },
     {
       "title": "热门中概股美股盘前涨跌互现，哔哩哔哩跌超2%",
       "date": "Wed, 14 Oct 2026 13:00:07 GMT",
@@ -68,15 +86,6 @@
       "source_name": "solidot"
     },
     {
-      "title": "The State of AI: A Look at What's Next",
-      "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-10-14T09:17:38.627Z",
-      "summary": "An in-depth analysis of the current AI landscape and future trends.",
-      "category": "AI Analysis",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
       "title": "水产养殖未减轻过度捕捞问题",
       "date": "Wed, 14 Oct 2026 08:06:34 GMT",
       "summary": "过去 60 年全球鱼类消费量增加了一倍多。随着需求上升，过度捕捞也达到了危险程度：目前全球三分之一的鱼类资源正以不可持续的方式被捕捞。水产养殖原本被寄望于帮助解决这一问题，减轻海洋因过度捕捞而承受的压力。但养殖鱼最有效的喂养方法是捕捞其他体型较小的鱼类，再将其加工成营养丰富的粉末，也就是鱼粉，或者制成相应的液态产品——鱼油。结果是水产养殖非但没有减轻过度捕捞的压力，反而让问题更糟。三文鱼和虾等海鲜主要依赖使用鱼粉饲料的海外养殖场供应。而这些养殖场存在众多问题。",
@@ -104,19 +113,19 @@
       "source_name": "solidot"
     },
     {
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "date": "Wed, 14 Oct 2026 07:00:00 GMT",
+      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "url": "https://openai.com/index/third-moment-research",
+      "category": "Startup",
+      "source": "OpenAI News",
+      "source_name": "openai"
+    },
+    {
       "title": "存在比地球更宜居的星球",
       "date": "Wed, 14 Oct 2026 06:39:11 GMT",
       "summary": "几年前，在柏林一间实验室里，天体生物学家伊娃·维洛维奇观察到花园水芹在模拟“K型矮星”光照的条件下发芽，兴奋不已。K型矮星是一种橙色调恒星，比我们的黄色太阳温度更低、燃烧更慢。令她意外的是，水芹的生长速度甚至比在模拟太阳光照下更快，植株也更高。她的结果表明，光合作用——为地球整个食物网提供能量的过程——可以在围绕这些橙色恒星运行的行星上发生。尤其值得注意的是，在这些恒星的光照下，外星生命可能在比地球稍大的行星上繁盛生长，这类行星被称为超级地球。像维洛维奇这样的科学家认为，围绕K型矮星运行的超级地球或许才是银河系中最有生机的地方，甚至可能比地球更适合生命。科学家们将这些行星称为“超级宜居世界”，即允许碳基生命比在地球上存续更久、变得更复杂和更多样的行星。按科学家的想象，一个超级宜居世界比地球宽约 20%至30%，质量是地球的两倍，与恒星的距离恰到好处，使水能在其表面流动。这个更大的“地球”引力更强，比地球更紧地留住周围分子，赋予该行星更厚的大气层和更温暖、更稳定的气候，从而推动外星植物和动物（或它们的等同物）的生长。超级地球更大的铁核会在其周围形成更强的磁场，更好地阻挡宇宙辐射。",
       "url": "https://www.solidot.org/story?sid=85606",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "OpenAI 工程师因在高管会议室放置监听设备被捕",
-      "date": "Wed, 14 Oct 2026 06:31:58 GMT",
-      "summary": "35 岁的沙特籍 OpenAI 工程师 Abdulrahman Alfozan 因在高管会议室内放置监听设备遭到逮捕。Alfozan 是一家专注于中东和北非市场的风投公司 Raed Ventures 的合伙人，该风投的合伙人还包括沙特王室成员 Khalid Bin Bader Al Saud 亲王。Alfozan 曾在 Meta、微软和 SAP 任职，曾在 MIT 攻读计算机科学与工程专业。OpenAI 在其公告中表示，目前尚无迹象表明这名工程师曾不当访问或窃取模型权重、源代码或客户数据，“我们高度重视对技术、数据及人员的保护，将其视为国家级的重要事项。”Alfozan 已被 OpenAI 解雇。",
-      "url": "https://www.solidot.org/story?sid=85605",
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
@@ -131,6 +140,15 @@
       "source_name": "openai"
     },
     {
+      "title": "How Startups Are Using AI to Disrupt Industries",
+      "url": "https://every.to/source-code/ai-startups",
+      "date": "2026-10-13T13:11:36.922Z",
+      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
+      "category": "Source Code",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
       "title": "Higgsfield takes AI video from 1 minute to over 10",
       "date": "Tue, 13 Oct 2026 12:00:00 GMT",
       "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
@@ -140,18 +158,9 @@
       "source_name": "openai"
     },
     {
-      "title": "How Startups Are Using AI to Disrupt Industries",
-      "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-10-13T09:17:38.627Z",
-      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
-      "category": "Source Code",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-10-12T09:17:38.627Z",
+      "date": "2026-10-12T13:11:36.922Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
@@ -160,7 +169,7 @@
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-10-11T09:17:38.627Z",
+      "date": "2026-10-11T13:11:36.922Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
@@ -169,7 +178,7 @@
     {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-10-10T09:17:38.627Z",
+      "date": "2026-10-10T13:11:36.922Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -178,20 +187,11 @@
     {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-10-09T09:17:38.627Z",
+      "date": "2026-10-09T13:11:36.922Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
       "source_name": "every"
-    },
-    {
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "date": "Fri, 09 Oct 2026 07:00:00 GMT",
-      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "url": "https://openai.com/index/sophos",
-      "category": "",
-      "source": "OpenAI News",
-      "source_name": "openai"
     },
     {
       "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
@@ -203,20 +203,20 @@
       "source_name": "openai"
     },
     {
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "date": "Thu, 08 Oct 2026 16:00:00 GMT",
-      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-      "url": "https://openai.com/index/oracle",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "date": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "url": "https://openai.com/index/sophos",
       "category": "",
       "source": "OpenAI News",
       "source_name": "openai"
     },
     {
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "date": "Thu, 08 Oct 2026 12:00:00 GMT",
-      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-      "url": "https://openai.com/index/pollo-ai",
-      "category": "Startup",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "date": "Thu, 08 Oct 2026 16:00:00 GMT",
+      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "url": "https://openai.com/index/oracle",
+      "category": "",
       "source": "OpenAI News",
       "source_name": "openai"
     }
