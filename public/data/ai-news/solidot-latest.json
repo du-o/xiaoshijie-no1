@@ -1,8 +1,15 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-10-14T09:17:41.527Z",
+  "fetch_time": "2026-10-14T13:11:40.451Z",
   "articles": [
+    {
+      "title": "荷兰税务与海关总署放弃部署微软公有云，采用开源替代",
+      "date": "Wed, 14 Oct 2026 10:07:45 GMT",
+      "summary": "荷兰税务与海关总署放弃了部署微软 Microsoft 365 公有云的计划，改为采用本地部署/开源替代方案。根据 Linux 基金会在欧洲开源峰会上发布的报告，94% 的欧盟组织认为数字主权重要，其中 61% 认为非常重要。除了税务机关，荷兰还在探索全面从 Windows 和私有软件转向 Linux 和开源软件。荷兰原计划于 2025 年转向 Microsoft 365，计划在 2026 年底前完成全面部署。但 Dutch Advisory Council on ICT Assessment 在今年 6 月建议叫停部署。政府于 7 月暂停了该计划，现在决定转向开源方案。税务与海关总署目前还不会全面转向开源替代，而是暂时保留现有的微软软件。",
+      "url": "https://www.solidot.org/story?sid=85611",
+      "category": ""
+    },
     {
       "title": "水产养殖未减轻过度捕捞问题",
       "date": "Wed, 14 Oct 2026 08:06:34 GMT",
@@ -36,13 +43,6 @@
       "date": "Wed, 14 Oct 2026 06:31:58 GMT",
       "summary": "35 岁的沙特籍 OpenAI 工程师 Abdulrahman Alfozan 因在高管会议室内放置监听设备遭到逮捕。Alfozan 是一家专注于中东和北非市场的风投公司 Raed Ventures 的合伙人，该风投的合伙人还包括沙特王室成员 Khalid Bin Bader Al Saud 亲王。Alfozan 曾在 Meta、微软和 SAP 任职，曾在 MIT 攻读计算机科学与工程专业。OpenAI 在其公告中表示，目前尚无迹象表明这名工程师曾不当访问或窃取模型权重、源代码或客户数据，“我们高度重视对技术、数据及人员的保护，将其视为国家级的重要事项。”Alfozan 已被 OpenAI 解雇。",
       "url": "https://www.solidot.org/story?sid=85605",
-      "category": ""
-    },
-    {
-      "title": "Ledger 证实其硬件钱包被植入间谍芯片",
-      "date": "Wed, 14 Oct 2026 06:12:43 GMT",
-      "summary": "提供硬件和软件钱包的 Ledger 公司证实由 CryptoBilis 经销的部分硬件钱包被植入间谍芯片，导致客户钱包里的加密货币被盗，它已经要求 CryptoBilis 停止销售硬件钱包。CryptoBilis 是一家总部位于马来西亚、业务遍及东南亚的大型硬件钱包零售商。CryptoBilis 经销的部分被篡改 Ledger X 钱包售价仅是原型号的一半，Tibane Labs 的安全研究人员对其进行的分析发现，原装电池被替换为体积更小的电池，以腾出空间安装恶意电路。该电池同时为间谍芯片和 Ledger X 供电。恶意电路是一颗基于 Arm Cortex-M4 架构、配备 128 KB 闪存以及采用 UFQFPN32 封装的 ST STM32G431KBU6 芯片，位于电池和天线下方。攻击者在微控制器单元（MCU）旁边安装了一个微型 eSIM，使用一个屏蔽式 LTE 模块发送信号。Tibane Labs 还发现攻击者使用了多个版本，第二种篡改的硬件钱包使用了原装电池供电，间谍芯片安装在 OLED 显示屏下方原本用于放置泡沫衬垫的空间内。攻击者利用间谍芯片通过 OCR 技术读取硬件钱包",
-      "url": "https://www.solidot.org/story?sid=85604",
       "category": ""
     }
   ],

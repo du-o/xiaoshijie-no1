@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-10-14T09:17:38.853Z",
+  "fetch_time": "2026-10-14T13:11:37.152Z",
   "articles": [
+    {
+      "title": "The EU’s next chapter in AI is agentic",
+      "date": "Wed, 14 Oct 2026 00:00:00 GMT",
+      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "category": "Global Affairs"
+    },
     {
       "title": "Higgsfield takes AI video from 1 minute to over 10",
       "date": "Tue, 13 Oct 2026 12:00:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
       "url": "https://openai.com/index/pollo-ai",
       "category": "Startup"
-    },
-    {
-      "title": "LegalOn halves Codex costs while maintaining development speed",
-      "date": "Thu, 08 Oct 2026 12:00:00 GMT",
-      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
-      "url": "https://openai.com/index/legalon-halves-codex-costs",
-      "category": ""
     }
   ],
   "status": "success",
