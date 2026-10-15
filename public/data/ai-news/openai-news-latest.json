@@ -1,14 +1,35 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-10-14T16:00:31.871Z",
+  "fetch_time": "2026-10-15T04:04:53.594Z",
   "articles": [
+    {
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "date": "Wed, 14 Oct 2026 12:00:00 GMT",
+      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "category": "Startup"
+    },
+    {
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "date": "Wed, 14 Oct 2026 12:00:00 GMT",
+      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+      "url": "https://openai.com/index/sentinelone",
+      "category": ""
+    },
     {
       "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
       "date": "Wed, 14 Oct 2026 07:00:00 GMT",
       "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
       "url": "https://openai.com/index/third-moment-research",
       "category": "Startup"
+    },
+    {
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "date": "Wed, 14 Oct 2026 07:00:00 GMT",
+      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+      "url": "https://openai.com/index/block-ai-powered-security",
+      "category": ""
     },
     {
       "title": "The EU’s next chapter in AI is agentic",
@@ -23,27 +44,6 @@
       "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
       "url": "https://openai.com/index/higgsfield-longer-videos-voice",
       "category": "Startup"
-    },
-    {
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "date": "Fri, 09 Oct 2026 07:00:00 GMT",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "category": ""
-    },
-    {
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "date": "Fri, 09 Oct 2026 07:00:00 GMT",
-      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "url": "https://openai.com/index/sophos",
-      "category": ""
-    },
-    {
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "date": "Thu, 08 Oct 2026 16:00:00 GMT",
-      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-      "url": "https://openai.com/index/oracle",
-      "category": ""
     }
   ],
   "status": "success",

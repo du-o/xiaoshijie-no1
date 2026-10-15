@@ -1,9 +1,163 @@
 {
-  "fetch_time": "2026-10-14T16:00:38.514Z",
-  "total_count": 24,
+  "fetch_time": "2026-10-15T04:05:00.753Z",
+  "total_count": 30,
   "sources_count": 6,
   "errors": null,
   "articles": [
+    {
+      "title": "沪市ETF连续三日净流入金额合计超750亿元",
+      "date": "Thu, 15 Oct 2026 04:03:03 GMT",
+      "summary": "10月12日至10月14日，沪市ETF连续三日净流入，金额合计超750亿元。其中，宽基ETF净流入金额合计约300亿元，行业主题ETF净流入金额合计逾100亿元。（证券时报）",
+      "url": "https://36kr.com/newsflashes/4026613489258881?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "曾获李泽湘、明势资本投资，这家公司想做一台会“掌镜”的摄影机器人｜早期项目",
+      "date": "Thu, 15 Oct 2026 04:02:48 GMT",
+      "summary": "作者&nbsp;|&nbsp;张子怡 编辑&nbsp;|&nbsp;袁斯来 硬氪获悉，成立于2023年的越千创新，曾在种子轮获得李泽湘投资；目前，公司已完成天使轮融资，明势创投、南山战新投、初心资本参与投资。 越千创新第一款产品以力平衡摄影机械臂Cilin X为切入点，结合智能化、轻量化的软硬件设计，尝试降低独立创作者和小型拍摄团队编排、执行和复现镜头运动的门槛。公司将Cilin X视为“专业摄影能力产品化”的第一步。 摄影机械臂常用于影视、广告和产品拍摄。它能够托着相机在空间中运动，精确复现相同轨迹，拍出人手难以完成的环绕、俯冲或高速跟随镜头。然而长期以来，摄影机械臂价格昂贵，设备庞大，使用门槛极高。 以英国厂商MRMC的Bolt为例，其产品搭配轨道后，相机运动速度最高可达12米/秒，负载20公斤，但设备连同底座重约600公斤，主要服务于专业摄影场景；近年推出的Cinebot Mini和Cinebot Nano已经明显缩小，但机械臂本体仍分别重33.5公斤和25公斤。 另一方面，全球视频创作者生态也在发生新的变化。 视频平台Wistia在2025年的调研显示，超过40%的受访企业每周",
+      "url": "https://36kr.com/p/4026612843696776?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "恒指午间休盘跌1.47%，恒生科技指数跌2.94%",
+      "date": "Thu, 15 Oct 2026 04:01:38 GMT",
+      "summary": "36氪获悉，恒指午间休盘跌1.47%，恒生科技指数跌2.94%；半导体、电气设备、硬件设备板块领跌，联想集团跌超13%，华虹宏力跌超8%，宁德时代跌超6%；零售股走强，高鑫零售涨超2%，阿里健康涨超1%；南向资金净流出5.82亿港元。",
+      "url": "https://36kr.com/newsflashes/4026612099273088?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
+      "date": "Thu, 15 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.14005v1 Announce Type: new Abstract: Under the accelerated pace of AI development, any benchmark whose difficulty is calibrated with humans or current AI systems becomes circular, or saturates soon. How can we then evaluate machines that may become more capable than the current machines and the people who write the tests? One answer to the question hinges on inverse problems, inductive inference questions for which difficulty depends on the complexity of the underlying mechanism, give",
+      "url": "https://arxiv.org/abs/2610.14005",
+      "category": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "The Silent Failures in Agentic Data Science",
+      "date": "Thu, 15 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.14115v1 Announce Type: new Abstract: Large language models have significantly lowered the barrier to writing code. Naturally, this has also led to the development of data science agents that promise automating the design and execution of data science from task formulation to model development. Existing evaluations of agentic data science (agentic DS) assess downstream predictive performance and code correctness, providing preliminary insight in agentic DS capabilities. We argue that t",
+      "url": "https://arxiv.org/abs/2610.14115",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
+      "date": "Thu, 15 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.14118v1 Announce Type: new Abstract: The rapid advancement of Large Language Models (LLMs) has driven their deployment toward general-purpose harness environments, where LLM-based agents operate in sandbox workspaces and interact directly with file systems and shells. While numerous post-training pipelines exist for tool-use agents, their counterparts for harness-based agents remain scarce and are predominantly one-shot and teacher-dependent: a stronger external model synthesizes task",
+      "url": "https://arxiv.org/abs/2610.14118",
+      "category": [
+        "cs.AI",
+        "cs.CL"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Correction Training for Diffusion Models",
+      "date": "Thu, 15 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.14136v2 Announce Type: new Abstract: Iterative sampling in diffusion models can lead to error accumulation due to exposure bias. The denoiser is trained on real images interpolated with noise, but at inference its inputs are constructed from its own imperfect predictions from the earlier steps, something it has never seen at training time. This might be one reason diffusion models often struggle without additional help, such as CFG. We introduce a correction step for diffusion models ",
+      "url": "https://arxiv.org/abs/2610.14136",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress",
+      "date": "Thu, 15 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.14146v1 Announce Type: new Abstract: Long-horizon terminal benchmarks measure whether an agent can sustain progress through extended workflows with process rewards, not only whether its final state passes a binary check. We present Long-Horizon-Terminal-Bench 2.0 (LHTB 2.0), an extension of Long-Horizon-Terminal-Bench that preserves its 46 original tasks while correcting task and evaluation-infrastructure defects and extending 31 tasks. LHTB 2.0 contains 77 tasks across 13 domains and",
+      "url": "https://arxiv.org/abs/2610.14146",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "VETNET: Assembling Benchmark Datasets for AI-Driven Veterinary Innovation",
+      "date": "Thu, 15 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.14149v1 Announce Type: new Abstract: VETNET represents an ecosystem of live benchmark datasets and evaluation frameworks designed to accelerate AI-driven innovation in animal science and veterinary medicine through standardized, high-quality datasets and multi-institutional collaboration across academic and non-academic sectors. This framework addresses the gap between AI advances in human medicine and the fragmented state of veterinary AI development.",
+      "url": "https://arxiv.org/abs/2610.14149",
+      "category": [
+        "cs.AI",
+        "cs.CY"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "恒生科技指数跌幅扩大至3%",
+      "date": "Thu, 15 Oct 2026 03:54:50 GMT",
+      "summary": "36氪获悉，恒生科技指数跌幅扩大至3%。",
+      "url": "https://36kr.com/newsflashes/4026605411045767?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "总裁直管信息部，一家创新药企的AI试验",
+      "date": "Thu, 15 Oct 2026 03:48:40 GMT",
+      "summary": "文｜胡香赟 编辑｜海若镜 2026年，先声药业（02096.HK）总裁周云曙把信息部划归自己直管了。 近期的一场媒体交流会中，他对36氪提到：“在先声，我们现在要求管理层带头，在工作中‘拥抱’AI，不是提倡而是必须。 AI的价值来自如何应用，首先要真正去用、会用、不断训练，这是基础。 ” 放在全球制药企业积极拥抱AI的语境里，这个动作不算令人意外。海外，跨国药企已经开始重资产投入。例如，礼来与英伟达共建AI联合创新实验室。在国内，9月下旬，金斯瑞、近岸蛋白等多只“AI4S概念股”轮番大涨；一级市场上，不少“小天才们”用AI改变生命科学的叙事，首轮融资便能拿到数亿元估值。 不过，一个很难回避的现象是，大药企既有的成熟研发体系运转多年，效率已经很高，AI想要真正嵌入其中，从外挂工具变成内化能力，比技术本身更难的是组织层面的松动。毕竟，对于不自带AI基因的药企来说，怎样评估AI在工作中的实际价值就是个大问题。 在这个意义上，周云曙亲自牵头，走的或许是一条相对激进的路子。他坦言，初期，先声内部很多同事想用AI，但并不知道如何用，“我们确实也花了很多Token做探索”。最终，公司选择了最简单明了",
+      "url": "https://36kr.com/p/4026591408066432?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "天猫双11将于10月20日晚8点开卖",
+      "date": "Thu, 15 Oct 2026 03:45:08 GMT",
+      "summary": "今年天猫双11将于10月15日晚8点开启预售，10月20日晚8点正式开卖。据了解，本次活动商品数量创历年新高，品牌立减叠加平台消费券，低至7.2折。同时，88VIP消费券支持自选面额，AI服务首次加入双11。此外，苹果首款折叠屏iPhone Duo将于16日晚8点天猫首发，iPhone 18 Pro双11优惠到手价9199元起。值得注意的是，具身智能机器人、智能门锁、数码相机等首次纳入补贴。",
+      "url": "https://36kr.com/newsflashes/4026595881766792?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "研究估计到 2050 年每年新增痴呆症人数将会翻倍",
+      "date": "Wed, 14 Oct 2026 16:46:34 GMT",
+      "summary": "一项新研究估计，2023 年有 1140 万人患上痴呆症，到 2050 年预计这一数字将增加一倍以上，新增痴呆症人数将达到 2470 万。研究发现女性的痴呆症发病率高于男性，且低中收入国家的发病率远高于高收入国家。在校正年龄因素后，女性发病为每千人年 10.6 例，男性为 8.6 例。低中收入国家的发病率为每千人年 13.6 例，而高收入国家为 8.3 例。目前全世界有逾 5700 万人受痴呆症困扰，到 2050 年这一数字将达到 1.5 亿。每年新增 2400 万痴呆症病例，将给个人、家庭、卫生系统及经济带来巨大压力。",
+      "url": "https://www.solidot.org/story?sid=85615",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "GTA 6 可能提前发布 PC 版本",
+      "date": "Wed, 14 Oct 2026 16:32:07 GMT",
+      "summary": "Rockstar 尚未正式宣布，但有报道称它计划于 2027 年第一季度发布 GTA 6 的 PC 版本，与主机版本仅仅相隔几个月。GTA 6 将于 2026 年 11 月发布主机版本。据彭博报道，在 GTA 6 开发过程中 Rockstar 员工总数从开发 Red Dead Redemption II 的 2,441 人增长到 4,711 人。GTA 6 制作预算据称超过 20 亿美元，提前释出 PC 版本旨在加快回收制作费用。上一代 GTA 5 的主机版本和 PC 版本相隔 1 年 7 个月，而 GTA 5 的主要受众是主机玩家，PC 玩家占少数。如今 PC 玩家的规模已经显著扩大。加快发布 PC 版本也有助于扩大 GTA 6 的受众规模。",
+      "url": "https://www.solidot.org/story?sid=85614",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "苹果推出广告鼓励 Chrome 用户切换到 Safari",
+      "date": "Wed, 14 Oct 2026 16:13:37 GMT",
+      "summary": "如何吸引 Chrome 的用户改用其它浏览器？Chrome 是目前市场份额最高的浏览器。苹果推出了一个广告页（无中文）：Switch to Safari。苹果列举了一系列 Safari 的优点，称在 Mac 设备上，相比 Chrome，使用 Safari 播放流视频，续航时间最长可多出 5 个小时；常用网站的页面加载速度更快；单次充电即可全天播放流视频；动画内容渲染性能更出色；复杂 Web 应用 JavaScript 运行速度更快；默认阻止第三方 Cookie 追踪；屏蔽恼人的干扰内容，等等。苹果称，Safari 在速度、电池续航以及隐私上都超过 Chrome。",
+      "url": "https://www.solidot.org/story?sid=85613",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "The State of AI: A Look at What's Next",
+      "url": "https://every.to/p/the-state-of-ai",
+      "date": "2026-10-14T16:00:31.560Z",
+      "summary": "An in-depth analysis of the current AI landscape and future trends.",
+      "category": "AI Analysis",
+      "source": "Every.to",
+      "source_name": "every"
+    },
     {
       "title": "Linus Torvalds 用 LLM 辅助开发的补丁递交接受审查",
       "date": "Wed, 14 Oct 2026 15:14:48 GMT",
@@ -14,67 +168,22 @@
       "source_name": "solidot"
     },
     {
-      "title": "The State of AI: A Look at What's Next",
-      "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-10-14T13:11:36.922Z",
-      "summary": "An in-depth analysis of the current AI landscape and future trends.",
-      "category": "AI Analysis",
-      "source": "Every.to",
-      "source_name": "every"
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "date": "Wed, 14 Oct 2026 12:00:00 GMT",
+      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "category": "Startup",
+      "source": "OpenAI News",
+      "source_name": "openai"
     },
     {
-      "title": "热门中概股美股盘前涨跌互现，哔哩哔哩跌超2%",
-      "date": "Wed, 14 Oct 2026 13:00:07 GMT",
-      "summary": "36氪获悉，热门中概股美股盘前涨跌互现，截至发稿，哔哩哔哩跌超2%，理想汽车、蔚来跌超1%，百度跌0.31%，阿里巴巴涨超1%，拼多多涨0.66%，京东涨0.52%，小鹏集团涨0.41%。",
-      "url": "https://36kr.com/newsflashes/4025725872066437?f=rss",
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "date": "Wed, 14 Oct 2026 12:00:00 GMT",
+      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+      "url": "https://openai.com/index/sentinelone",
       "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "美股大型科技股盘前涨跌不一，英特尔跌超2%",
-      "date": "Wed, 14 Oct 2026 12:56:48 GMT",
-      "summary": "36氪获悉，美股大型科技股盘前涨跌不一，截至发稿，英特尔跌超2%，英伟达跌超1%，Meta跌0.81%，特斯拉跌0.74%苹果涨超1%，谷歌涨0.85%，微软涨0.29%，亚马逊涨0.02%。",
-      "url": "https://36kr.com/newsflashes/4025722610651273?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "富祥股份：控股股东、实控人、董事长包建华被留置",
-      "date": "Wed, 14 Oct 2026 12:42:49 GMT",
-      "summary": "36氪获悉，富祥股份公告，公司于2026年10月14日收到监察机关通知，控股股东、实际控制人、董事长包建华被留置。经初步了解，本次立案调查系包建华个人事项，与公司无关。公司拥有完善的组织架构和规范的治理体系，其他董事和高级管理人员均正常履职，生产经营情况正常，上述事项不会对公司生产经营产生重大影响。",
-      "url": "https://36kr.com/newsflashes/4025708859625604?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "第四届北极星医美榜发布：全国42个城市的181家机构上榜",
-      "date": "Wed, 14 Oct 2026 12:40:03 GMT",
-      "summary": "10月14日，美团在杭州发布第四届北极星医美榜，全国42个城市的181家机构、来自36个城市的269位医生上榜。本届榜单延续并深化“医疗专业性”和“用户口碑”双轨评估，70位公立三甲专家匿名交叉评审，累计评审9922小时手术视频、追踪8931份参赛案例；38547位真实医美用户参与调研，并结合450万条用户评价，还原真实到店与服务体验，为医美消费提供可信赖的决策参考。",
-      "url": "https://36kr.com/newsflashes/4025706143223682?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "CME“美联储观察”：9月CPI公布前，美联储10月维持利率不变的概率为78.4%",
-      "date": "Wed, 14 Oct 2026 12:36:09 GMT",
-      "summary": "美国9月CPI数据公布前，据CME“美联储观察”：美联储到10月维持利率不变的概率为78.4%，累计加息25个基点的概率为21.6%。美联储到12月维持利率不变的概率为12%，累计加息25个基点的概率69.7%，累计加息50个基点的概率为18.3%。（财联社）",
-      "url": "https://36kr.com/newsflashes/4025695517855625?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "美国9月CPI同比增长3.7%，高于市场预期",
-      "date": "Wed, 14 Oct 2026 12:33:52 GMT",
-      "summary": "美国9月消费者价格指数（CPI）同比增长3.7%，预估为3.6%，前值为3.4%。美国9月核心CPI同比增长2.6%，预估为2.5%，前值为2.4%。美国9月核心CPI环比增长0.3%，预估为0.2%，前值为0.3%。（界面）",
-      "url": "https://36kr.com/newsflashes/4025700062367881?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
+      "source": "OpenAI News",
+      "source_name": "openai"
     },
     {
       "title": "荷兰税务与海关总署放弃部署微软公有云，采用开源替代",
@@ -95,24 +204,6 @@
       "source_name": "solidot"
     },
     {
-      "title": "韦伯望远镜发现一颗熔岩行星存在大气",
-      "date": "Wed, 14 Oct 2026 07:38:35 GMT",
-      "summary": "天文学家利用韦伯望远镜，在一颗类似早期地球的系外行星上找到了大气层存在的有力证据。这颗名为 HD 3167b 的星球属于熔岩行星，但对熔岩行星来说它很冷，对生命来说它又太热了。此前学界普遍认为，如此靠近恒星的岩石行星，大气会被恒星辐射剥离殆尽。HD 3167b 位于双鱼座方向，距地球约 154 光年。它绕宿主恒星公转一周只需 0.96 个地球日，不到 24 小时，并被潮汐锁定：一面永远朝向恒星，另一面永为黑夜。理论计算显示，其向阳面的平衡温度可达 1786K，足以熔化硅酸盐岩石。该行星半径约为地球的 1.6 倍、质量约为地球的 4.84 倍，是一颗岩石质地的“超级地球”。其宿主恒星 HD 3167 比太阳略小，但由于轨道极近，行星接收到的辐射强度依然很高。研究团队使用望远镜的 MIRI 中红外设备，在行星发生次食的窗口期测量了向阳面的热辐射。结果显示，白昼侧的亮度温度明显低于无大气裸岩星球的理论预期。最合理的解释是大气起到了降温作用：一部分恒星辐射被反射回去，大气流动还能把热量从白昼侧输送到背阴半球，从而压低向阳面的峰值温度。",
-      "url": "https://www.solidot.org/story?sid=85609",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "NetBSD 成为反 AI 开发者青睐的开源操作系统",
-      "date": "Wed, 14 Oct 2026 07:31:49 GMT",
-      "summary": "随着 Linux 阵营拥抱亲 AI 路线，NetBSD 意外成为抵触 AI 的开发者青睐的开源操作系统。NetBSD 项目透露，上个月它收到了 120,282 美元捐款，远超 50,000 美元的筹款目标。过去几个月，Linux 作者 Linus Torvalds、社区发行版项目 Debian、商业发行版 Ubuntu 和 Red Hat 都展现了亲 AI 立场，相比下 NetBSD 项目则早在 2024 年表达了拒绝 AI 的坚定立场，认为 AI 生成的代码会污染代码库，GitHub/Microsoft 的 Copilot、OpenAI 的 ChatGPT 或 Facebook/Meta 的 Code Llama 等大模型生成代码均被视为污染代码，未经核心团队事先书面批准，严禁提交此类代码。",
-      "url": "https://www.solidot.org/story?sid=85608",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
       "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
       "date": "Wed, 14 Oct 2026 07:00:00 GMT",
       "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
@@ -122,13 +213,13 @@
       "source_name": "openai"
     },
     {
-      "title": "存在比地球更宜居的星球",
-      "date": "Wed, 14 Oct 2026 06:39:11 GMT",
-      "summary": "几年前，在柏林一间实验室里，天体生物学家伊娃·维洛维奇观察到花园水芹在模拟“K型矮星”光照的条件下发芽，兴奋不已。K型矮星是一种橙色调恒星，比我们的黄色太阳温度更低、燃烧更慢。令她意外的是，水芹的生长速度甚至比在模拟太阳光照下更快，植株也更高。她的结果表明，光合作用——为地球整个食物网提供能量的过程——可以在围绕这些橙色恒星运行的行星上发生。尤其值得注意的是，在这些恒星的光照下，外星生命可能在比地球稍大的行星上繁盛生长，这类行星被称为超级地球。像维洛维奇这样的科学家认为，围绕K型矮星运行的超级地球或许才是银河系中最有生机的地方，甚至可能比地球更适合生命。科学家们将这些行星称为“超级宜居世界”，即允许碳基生命比在地球上存续更久、变得更复杂和更多样的行星。按科学家的想象，一个超级宜居世界比地球宽约 20%至30%，质量是地球的两倍，与恒星的距离恰到好处，使水能在其表面流动。这个更大的“地球”引力更强，比地球更紧地留住周围分子，赋予该行星更厚的大气层和更温暖、更稳定的气候，从而推动外星植物和动物（或它们的等同物）的生长。超级地球更大的铁核会在其周围形成更强的磁场，更好地阻挡宇宙辐射。",
-      "url": "https://www.solidot.org/story?sid=85606",
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "date": "Wed, 14 Oct 2026 07:00:00 GMT",
+      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+      "url": "https://openai.com/index/block-ai-powered-security",
       "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
+      "source": "OpenAI News",
+      "source_name": "openai"
     },
     {
       "title": "The EU’s next chapter in AI is agentic",
@@ -142,7 +233,7 @@
     {
       "title": "How Startups Are Using AI to Disrupt Industries",
       "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-10-13T13:11:36.922Z",
+      "date": "2026-10-13T16:00:31.560Z",
       "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
       "category": "Source Code",
       "source": "Every.to",
@@ -160,7 +251,7 @@
     {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-10-12T13:11:36.922Z",
+      "date": "2026-10-12T16:00:31.560Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
@@ -169,7 +260,7 @@
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-10-11T13:11:36.922Z",
+      "date": "2026-10-11T16:00:31.560Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
@@ -178,7 +269,7 @@
     {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-10-10T13:11:36.922Z",
+      "date": "2026-10-10T16:00:31.560Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -187,38 +278,11 @@
     {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-10-09T13:11:36.922Z",
+      "date": "2026-10-09T16:00:31.560Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
       "source_name": "every"
-    },
-    {
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "date": "Fri, 09 Oct 2026 07:00:00 GMT",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "category": "",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "date": "Fri, 09 Oct 2026 07:00:00 GMT",
-      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "url": "https://openai.com/index/sophos",
-      "category": "",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "date": "Thu, 08 Oct 2026 16:00:00 GMT",
-      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-      "url": "https://openai.com/index/oracle",
-      "category": "",
-      "source": "OpenAI News",
-      "source_name": "openai"
     }
   ]
 }

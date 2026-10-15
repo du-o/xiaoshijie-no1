@@ -1,8 +1,61 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-10-14T16:00:32.027Z",
-  "articles": [],
+  "fetch_time": "2026-10-15T04:04:57.699Z",
+  "articles": [
+    {
+      "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
+      "date": "Thu, 15 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.14005v1 Announce Type: new Abstract: Under the accelerated pace of AI development, any benchmark whose difficulty is calibrated with humans or current AI systems becomes circular, or saturates soon. How can we then evaluate machines that may become more capable than the current machines and the people who write the tests? One answer to the question hinges on inverse problems, inductive inference questions for which difficulty depends on the complexity of the underlying mechanism, give",
+      "url": "https://arxiv.org/abs/2610.14005",
+      "category": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "The Silent Failures in Agentic Data Science",
+      "date": "Thu, 15 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.14115v1 Announce Type: new Abstract: Large language models have significantly lowered the barrier to writing code. Naturally, this has also led to the development of data science agents that promise automating the design and execution of data science from task formulation to model development. Existing evaluations of agentic data science (agentic DS) assess downstream predictive performance and code correctness, providing preliminary insight in agentic DS capabilities. We argue that t",
+      "url": "https://arxiv.org/abs/2610.14115",
+      "category": "cs.AI"
+    },
+    {
+      "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
+      "date": "Thu, 15 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.14118v1 Announce Type: new Abstract: The rapid advancement of Large Language Models (LLMs) has driven their deployment toward general-purpose harness environments, where LLM-based agents operate in sandbox workspaces and interact directly with file systems and shells. While numerous post-training pipelines exist for tool-use agents, their counterparts for harness-based agents remain scarce and are predominantly one-shot and teacher-dependent: a stronger external model synthesizes task",
+      "url": "https://arxiv.org/abs/2610.14118",
+      "category": [
+        "cs.AI",
+        "cs.CL"
+      ]
+    },
+    {
+      "title": "Correction Training for Diffusion Models",
+      "date": "Thu, 15 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.14136v2 Announce Type: new Abstract: Iterative sampling in diffusion models can lead to error accumulation due to exposure bias. The denoiser is trained on real images interpolated with noise, but at inference its inputs are constructed from its own imperfect predictions from the earlier steps, something it has never seen at training time. This might be one reason diffusion models often struggle without additional help, such as CFG. We introduce a correction step for diffusion models ",
+      "url": "https://arxiv.org/abs/2610.14136",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress",
+      "date": "Thu, 15 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.14146v1 Announce Type: new Abstract: Long-horizon terminal benchmarks measure whether an agent can sustain progress through extended workflows with process rewards, not only whether its final state passes a binary check. We present Long-Horizon-Terminal-Bench 2.0 (LHTB 2.0), an extension of Long-Horizon-Terminal-Bench that preserves its 46 original tasks while correcting task and evaluation-infrastructure defects and extending 31 tasks. LHTB 2.0 contains 77 tasks across 13 domains and",
+      "url": "https://arxiv.org/abs/2610.14146",
+      "category": "cs.AI"
+    },
+    {
+      "title": "VETNET: Assembling Benchmark Datasets for AI-Driven Veterinary Innovation",
+      "date": "Thu, 15 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.14149v1 Announce Type: new Abstract: VETNET represents an ecosystem of live benchmark datasets and evaluation frameworks designed to accelerate AI-driven innovation in animal science and veterinary medicine through standardized, high-quality datasets and multi-institutional collaboration across academic and non-academic sectors. This framework addresses the gap between AI advances in human medicine and the fragmented state of veterinary AI development.",
+      "url": "https://arxiv.org/abs/2610.14149",
+      "category": [
+        "cs.AI",
+        "cs.CY"
+      ]
+    }
+  ],
   "status": "success",
   "error": null
 }
