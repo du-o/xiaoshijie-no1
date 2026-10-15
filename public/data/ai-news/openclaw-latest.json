@@ -1,7 +1,7 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-10-15T08:51:38.455Z",
+  "fetch_time": "2026-10-15T12:58:24.299Z",
   "articles": [
     {
       "title": "openclaw 2026.10.5-beta.4",
@@ -11,7 +11,17 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.10.5-beta.4",
-      "downloadCount": 8
+      "downloadCount": 25
+    },
+    {
+      "title": "openclaw 2026.9.33",
+      "date": "2026-10-15T10:39:22Z",
+      "summary": "This is a gateway-only `extended-stable` release, which is our current equivalent to LTS. This release is OpenClaw from the end of September 2026, plus critical security updates, reliability and perfo...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.9.33",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.9.33",
+      "downloadCount": 18
     },
     {
       "title": "openclaw 2026.10.5-beta.3",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.10.3",
-      "downloadCount": 15581
+      "downloadCount": 17166
     },
     {
       "title": "openclaw 2026.10.5-beta.2",
@@ -51,17 +61,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.10.2",
-      "downloadCount": 14792
-    },
-    {
-      "title": "openclaw 2026.10.5-beta.1",
-      "date": "2026-10-11T13:08:24Z",
-      "summary": "## 2026.10.5-beta.1\n\n### Highlights\n\n- **Safer updates:** updates finish across devices, filesystems, Windows elevation, and interrupted activations, and recover from stale leases or changed evidence ...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.10.5-beta.1",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.10.5-beta.1",
-      "downloadCount": 86
+      "downloadCount": 14798
     }
   ],
   "status": "success",
