@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-10-15T12:58:13.047Z",
+  "fetch_time": "2026-10-15T15:48:54.612Z",
   "articles": [
+    {
+      "title": "Teaching students to think and learn through questions",
+      "date": "Thu, 15 Oct 2026 13:00:00 GMT",
+      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "category": "Company"
+    },
     {
       "title": "Amp puts AI agents to work beyond code with OpenAI models",
       "date": "Wed, 14 Oct 2026 12:00:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
       "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
       "category": "Global Affairs"
-    },
-    {
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "date": "Tue, 13 Oct 2026 12:00:00 GMT",
-      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "category": "Startup"
     }
   ],
   "status": "success",

@@ -1,8 +1,22 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-10-15T12:58:17.201Z",
+  "fetch_time": "2026-10-15T15:49:12.757Z",
   "articles": [
+    {
+      "title": "Ubuntu 26.10 释出",
+      "date": "Thu, 15 Oct 2026 14:54:47 GMT",
+      "summary": "Canonical 释出了代号为 Stonking Stingray 的 Ubuntu 26.10，这是一个短期支持版本，仅支持九个月。Ubuntu 26.10 的主要变化包括：用 Rust 语言开发的版本替代了 C 语言开发的系统组件，后量子密码学软件包签名，扩展对基于 TPM 的全盘加密支持，企业级身份验证与 Microsoft Entra ID 的更深度集成，Linux kernel 7.3，新 RISC-V 桌面镜像，GNOME 51 桌面环境，可选启用的本地处理语音转文字方案 Myna，等等。",
+      "url": "https://www.solidot.org/story?sid=85623",
+      "category": ""
+    },
+    {
+      "title": "美国科技巨头警告欧洲推行数据主权将带来逾千亿欧元的成本",
+      "date": "Thu, 15 Oct 2026 14:29:46 GMT",
+      "summary": "代表美国科技巨头亚马逊、Google 和 Meta 的行业组织 CCIA Europe 委托进行的一项研究声称，欧洲如果推行数据主权法案 Cloud and AI Development Act（CADA） 会在十年内带来 1150 亿欧元的成本，是欧盟委员会预估的最高值的六倍多。其中 800 亿欧元的成本是假设数字主权法扩大至私营部门关键服务四分之一的云工作负载。报告特别针对了 CADA 中的第 31 条，称其可能允许欧盟委员会将数字主权要求扩大到私营部门的关键服务领域。CCIA 认为强迫企业放弃现有的云基础设施，可能会引发昂贵的软件重开发，其中代码重写和架构重构占预计成本的 69%。",
+      "url": "https://www.solidot.org/story?sid=85622",
+      "category": ""
+    },
     {
       "title": "Google 悄悄关联手机号码和所有用户登录账号",
       "date": "Thu, 15 Oct 2026 09:45:14 GMT",
@@ -29,20 +43,6 @@
       "date": "Thu, 15 Oct 2026 06:48:40 GMT",
       "summary": "珊瑚白化是指温暖海水带来的热应激导致珊瑚排出与其共生的甲藻；这是全球珊瑚礁衰退的一个主要原因。研究人员如今证明，健康珊瑚与白化珊瑚之间的短暂物理接触可将藻类重新引入白化珊瑚，使其完全恢复。仅需一周——有时甚至短至三天——就足以触发这一转变。藻类的转移是通过珊瑚之间的组织融合实现的；因此该方法仅对来自相同基因背景（或基因型）的珊瑚有效。研究人员发现，在相同基因型和混合基因型的配对中，共生藻都会在接触时通过珊瑚虫的摄取发生转移；他们指出，下一步的工作是观察这些基于接触的恢复策略能否在野外应用于自然珊瑚礁这样的规模。",
       "url": "https://www.solidot.org/story?sid=85618",
-      "category": ""
-    },
-    {
-      "title": "Microsoft Defender 支持 Linux 桌面",
-      "date": "Thu, 15 Oct 2026 06:27:44 GMT",
-      "summary": "微软的企业安全软件 Microsoft Defender 正式支持包括 Ubuntu、Debian、Fedora 和 RHEL 在内的 Linux 发行版，其功能包括防病毒保护、端点检测与响应、漏洞管理、威胁搜寻以及设备隔离。Microsoft Defender 是企业安全套件，集成在 Windows 11 中的免费安全软件叫 Windows Defender，Windows Defender 是 Microsoft Defender 中一个功能有限的防病毒组件。使用 Microsoft Defender 需要用户订阅微软的服务，订阅 Microsoft Defender for Endpoint Plan 2 或者 Microsoft 365 E5 或 E7。",
-      "url": "https://www.solidot.org/story?sid=85617",
-      "category": ""
-    },
-    {
-      "title": "美国八个州起诉 OpenAI 称 ChatGPT 伤害年轻用户",
-      "date": "Thu, 15 Oct 2026 06:12:47 GMT",
-      "summary": "堪萨斯州、亚利桑那州和蒙大拿州等美国八个州对 OpenAI 提起诉讼，指控 ChatGPT 诱导儿童自我伤害。八个州要求 OpenAI 改变其产品与年轻用户互动的方式，没收由此产生的利润。诉讼指出 ChatGPT 的设计初衷是通过表现得随和、善于互动去赢得用户信任。但诉讼称聊天机器人会强化妄想、鼓励危险行为，协助用户策划诸如大规模枪击之类的暴力行为。诉讼指控 OpenAI 在 ChatGPT 的安全性上误导用户，违反了各州的消费者保护法。它们还指控 OpenAI 因危及当地居民的健康而构成了公害。诉讼要求法院下令强制 OpenAI 对其产品 ChatGPT 的工作方式进行整改。其中一项要求是除非 OpenAI 能确保其 AI 模型符合人类价值观，否则应禁止其开发具备自我完善能力的 AI 模型。这些州还寻求对 OpenAI 违反州法的行为处以民事罚款，要求对损害赔偿。",
-      "url": "https://www.solidot.org/story?sid=85616",
       "category": ""
     }
   ],

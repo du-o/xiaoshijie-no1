@@ -1,9 +1,63 @@
 {
-  "fetch_time": "2026-10-15T12:58:17.202Z",
+  "fetch_time": "2026-10-15T15:49:12.758Z",
   "total_count": 30,
   "sources_count": 6,
   "errors": null,
   "articles": [
+    {
+      "title": "Ubuntu 26.10 释出",
+      "date": "Thu, 15 Oct 2026 14:54:47 GMT",
+      "summary": "Canonical 释出了代号为 Stonking Stingray 的 Ubuntu 26.10，这是一个短期支持版本，仅支持九个月。Ubuntu 26.10 的主要变化包括：用 Rust 语言开发的版本替代了 C 语言开发的系统组件，后量子密码学软件包签名，扩展对基于 TPM 的全盘加密支持，企业级身份验证与 Microsoft Entra ID 的更深度集成，Linux kernel 7.3，新 RISC-V 桌面镜像，GNOME 51 桌面环境，可选启用的本地处理语音转文字方案 Myna，等等。",
+      "url": "https://www.solidot.org/story?sid=85623",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "美国科技巨头警告欧洲推行数据主权将带来逾千亿欧元的成本",
+      "date": "Thu, 15 Oct 2026 14:29:46 GMT",
+      "summary": "代表美国科技巨头亚马逊、Google 和 Meta 的行业组织 CCIA Europe 委托进行的一项研究声称，欧洲如果推行数据主权法案 Cloud and AI Development Act（CADA） 会在十年内带来 1150 亿欧元的成本，是欧盟委员会预估的最高值的六倍多。其中 800 亿欧元的成本是假设数字主权法扩大至私营部门关键服务四分之一的云工作负载。报告特别针对了 CADA 中的第 31 条，称其可能允许欧盟委员会将数字主权要求扩大到私营部门的关键服务领域。CCIA 认为强迫企业放弃现有的云基础设施，可能会引发昂贵的软件重开发，其中代码重写和架构重构占预计成本的 69%。",
+      "url": "https://www.solidot.org/story?sid=85622",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "《时代》周刊发布2026年度最佳发明榜单，蚂蚁阿福入选",
+      "date": "Thu, 15 Oct 2026 13:45:13 GMT",
+      "summary": "10月15日晚，美国《时代》周刊揭晓“2026年度最佳发明”榜单，蚂蚁集团旗下健康AI“蚂蚁阿福”入选，也是今年唯一上榜的中国AI应用。该榜单被视为全球科技创新风向标，去年入选的中国AI产品为DeepSeek。《时代》认为，蚂蚁阿福“让专业医疗健康服务更普惠”。今年9月，蚂蚁阿福App用户量已达1.5亿，单日健康咨询量近2000万次。",
+      "url": "https://36kr.com/newsflashes/4027185786720903?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "大手笔，中际旭创拟注销50亿元回购股份",
+      "date": "Thu, 15 Oct 2026 13:15:14 GMT",
+      "summary": "中际旭创发布港股公告，董事会将于10月29日召开会议，审议变更2026年9月回购A股股份用途并全部注销等事项。公司此前已完成回购A股565.31万股，耗资约49.97亿元，占总股本的0.48%。若相关股份全部注销，公司总股本将相应减少，有望增厚每股收益，体现公司对股东回报及资本配置效率的重视。同时，注销安排有助于优化股本结构，向市场传递积极信号。相关事项仍需公司董事会和股东会审议通过。",
+      "url": "https://36kr.com/newsflashes/4027156312592777?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "Teaching students to think and learn through questions",
+      "date": "Thu, 15 Oct 2026 13:00:00 GMT",
+      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "category": "Company",
+      "source": "OpenAI News",
+      "source_name": "openai"
+    },
+    {
+      "title": "The State of AI: A Look at What's Next",
+      "url": "https://every.to/p/the-state-of-ai",
+      "date": "2026-10-15T12:58:12.716Z",
+      "summary": "An in-depth analysis of the current AI landscape and future trends.",
+      "category": "AI Analysis",
+      "source": "Every.to",
+      "source_name": "every"
+    },
     {
       "title": "腾讯等入股艾斐智药",
       "date": "Thu, 15 Oct 2026 12:57:37 GMT",
@@ -41,24 +95,6 @@
       "source_name": "36kr"
     },
     {
-      "title": "众星微发布PCIe 6.0 Switch等三款芯片",
-      "date": "Thu, 15 Oct 2026 12:40:59 GMT",
-      "summary": "36氪获悉，国产芯片企业众星微在无锡举行首次品牌发布会，集中展示12款量产芯片，并发布PCIe 6.0 Switch、800G多协议AI NIC、多模RAID三款新品，覆盖计算、网络、存储等高性能互连领域。",
-      "url": "https://36kr.com/newsflashes/4027110986256777?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "构建跨境医疗直付新通道，国际医疗金融服务平台在大湾区首发上线",
-      "date": "Thu, 15 Oct 2026 12:36:27 GMT",
-      "summary": "随着我国医疗服务吸引力持续增强，境外人士来华就医、海外保险客户跨境就诊需求不断增长。今天（15日），国际医疗金融服务平台在粤港澳大湾区正式首发上线，打通跨境医疗保险直付堵点，构建跨境医疗直付新通道。（央视新闻）",
-      "url": "https://36kr.com/newsflashes/4027118175425153?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
       "title": "Google 悄悄关联手机号码和所有用户登录账号",
       "date": "Thu, 15 Oct 2026 09:45:14 GMT",
       "summary": "Google 现在会自动验证用户的手机号码，将其关联至用户 Android 设备上登录的所有 Google 账户，全程不会弹出明显确认提示。该功能在 Google 设置中被称为电话号码验证(Phone number verification)，会将用户当前使用的手机号码关联至同一台设备上登录的所有 Google 账户——无论是辅助账户、工作账户，还是其它临时账户。用户通过社交媒体报告收到了 noreply-phone-verification@google.com 的确认邮件，通知其手机号码已通过验证。调查显示，Google 支持页面于 2025 年 8 月至 10 月间进行了更新，默认启用电话号码的验证功能。用户可通过：设置——Google 或 Google 服务与偏好设置——所有服务——隐私与安全——电话号码验证，关闭该自动电话验证功能。",
@@ -66,15 +102,6 @@
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
-    },
-    {
-      "title": "The State of AI: A Look at What's Next",
-      "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-10-15T08:51:30.097Z",
-      "summary": "An in-depth analysis of the current AI landscape and future trends.",
-      "category": "AI Analysis",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "美国人社交活动过去三十年大幅减少",
@@ -99,24 +126,6 @@
       "date": "Thu, 15 Oct 2026 06:48:40 GMT",
       "summary": "珊瑚白化是指温暖海水带来的热应激导致珊瑚排出与其共生的甲藻；这是全球珊瑚礁衰退的一个主要原因。研究人员如今证明，健康珊瑚与白化珊瑚之间的短暂物理接触可将藻类重新引入白化珊瑚，使其完全恢复。仅需一周——有时甚至短至三天——就足以触发这一转变。藻类的转移是通过珊瑚之间的组织融合实现的；因此该方法仅对来自相同基因背景（或基因型）的珊瑚有效。研究人员发现，在相同基因型和混合基因型的配对中，共生藻都会在接触时通过珊瑚虫的摄取发生转移；他们指出，下一步的工作是观察这些基于接触的恢复策略能否在野外应用于自然珊瑚礁这样的规模。",
       "url": "https://www.solidot.org/story?sid=85618",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "Microsoft Defender 支持 Linux 桌面",
-      "date": "Thu, 15 Oct 2026 06:27:44 GMT",
-      "summary": "微软的企业安全软件 Microsoft Defender 正式支持包括 Ubuntu、Debian、Fedora 和 RHEL 在内的 Linux 发行版，其功能包括防病毒保护、端点检测与响应、漏洞管理、威胁搜寻以及设备隔离。Microsoft Defender 是企业安全套件，集成在 Windows 11 中的免费安全软件叫 Windows Defender，Windows Defender 是 Microsoft Defender 中一个功能有限的防病毒组件。使用 Microsoft Defender 需要用户订阅微软的服务，订阅 Microsoft Defender for Endpoint Plan 2 或者 Microsoft 365 E5 或 E7。",
-      "url": "https://www.solidot.org/story?sid=85617",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "美国八个州起诉 OpenAI 称 ChatGPT 伤害年轻用户",
-      "date": "Thu, 15 Oct 2026 06:12:47 GMT",
-      "summary": "堪萨斯州、亚利桑那州和蒙大拿州等美国八个州对 OpenAI 提起诉讼，指控 ChatGPT 诱导儿童自我伤害。八个州要求 OpenAI 改变其产品与年轻用户互动的方式，没收由此产生的利润。诉讼指出 ChatGPT 的设计初衷是通过表现得随和、善于互动去赢得用户信任。但诉讼称聊天机器人会强化妄想、鼓励危险行为，协助用户策划诸如大规模枪击之类的暴力行为。诉讼指控 OpenAI 在 ChatGPT 的安全性上误导用户，违反了各州的消费者保护法。它们还指控 OpenAI 因危及当地居民的健康而构成了公害。诉讼要求法院下令强制 OpenAI 对其产品 ChatGPT 的工作方式进行整改。其中一项要求是除非 OpenAI 能确保其 AI 模型符合人类价值观，否则应禁止其开发具备自我完善能力的 AI 模型。这些州还寻求对 OpenAI 违反州法的行为处以民事罚款，要求对损害赔偿。",
-      "url": "https://www.solidot.org/story?sid=85616",
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
@@ -186,6 +195,15 @@
       "source_name": "arxiv"
     },
     {
+      "title": "How Startups Are Using AI to Disrupt Industries",
+      "url": "https://every.to/source-code/ai-startups",
+      "date": "2026-10-14T12:58:12.716Z",
+      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
+      "category": "Source Code",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
       "title": "Amp puts AI agents to work beyond code with OpenAI models",
       "date": "Wed, 14 Oct 2026 12:00:00 GMT",
       "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
@@ -202,15 +220,6 @@
       "category": "",
       "source": "OpenAI News",
       "source_name": "openai"
-    },
-    {
-      "title": "How Startups Are Using AI to Disrupt Industries",
-      "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-10-14T08:51:30.097Z",
-      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
-      "category": "Source Code",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
@@ -240,18 +249,9 @@
       "source_name": "openai"
     },
     {
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "date": "Tue, 13 Oct 2026 12:00:00 GMT",
-      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "category": "Startup",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-10-13T08:51:30.097Z",
+      "date": "2026-10-13T12:58:12.716Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
@@ -260,7 +260,7 @@
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-10-12T08:51:30.097Z",
+      "date": "2026-10-12T12:58:12.716Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
@@ -269,7 +269,7 @@
     {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-10-11T08:51:30.097Z",
+      "date": "2026-10-11T12:58:12.716Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -278,7 +278,7 @@
     {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-10-10T08:51:30.097Z",
+      "date": "2026-10-10T12:58:12.716Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
