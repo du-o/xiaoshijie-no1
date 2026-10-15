@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-10-15T04:05:19.407Z",
+  "fetch_time": "2026-10-15T08:51:38.455Z",
   "articles": [
+    {
+      "title": "openclaw 2026.10.5-beta.4",
+      "date": "2026-10-15T06:10:42Z",
+      "summary": "## 2026.10.5-beta.4\n\n### Highlights\n\n- **Updates finish more reliably:** macOS updates no longer time out on aliased temporary directories, systemd user installs reclaim abandoned runtimes, pacman and...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.10.5-beta.4",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.10.5-beta.4",
+      "downloadCount": 8
+    },
     {
       "title": "openclaw 2026.10.5-beta.3",
       "date": "2026-10-13T10:00:37Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.10.5-beta.3",
-      "downloadCount": 98
+      "downloadCount": 100
     },
     {
       "title": "openclaw 2026.10.3",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.10.3",
-      "downloadCount": 13910
+      "downloadCount": 15581
     },
     {
       "title": "openclaw 2026.10.5-beta.2",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.10.2",
-      "downloadCount": 14780
+      "downloadCount": 14792
     },
     {
       "title": "openclaw 2026.10.5-beta.1",
@@ -52,16 +62,6 @@
       "author": "github-actions[bot]",
       "tagName": "v2026.10.5-beta.1",
       "downloadCount": 86
-    },
-    {
-      "title": "openclaw 2026.10.1",
-      "date": "2026-10-10T23:54:03Z",
-      "summary": "<!-- openclaw-release-publication:docs-v1 -->\n\n## OpenClaw v2026.10.1\n\n3,055 commits · 2,425 pull requests · 402 contributors\n\n### Changes included in this release\n\nThe release notes and changelog con...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.10.1",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.10.1",
-      "downloadCount": 13886
     }
   ],
   "status": "success",
