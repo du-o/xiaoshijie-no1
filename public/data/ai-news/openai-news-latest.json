@@ -1,14 +1,28 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-10-15T15:48:54.612Z",
+  "fetch_time": "2026-10-16T04:01:27.025Z",
   "articles": [
+    {
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "date": "Thu, 15 Oct 2026 19:00:00 GMT",
+      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "category": "Research"
+    },
     {
       "title": "Teaching students to think and learn through questions",
       "date": "Thu, 15 Oct 2026 13:00:00 GMT",
       "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
       "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
       "category": "Company"
+    },
+    {
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "date": "Thu, 15 Oct 2026 00:00:00 GMT",
+      "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+      "url": "https://openai.com/index/sullivan-cromwell",
+      "category": ""
     },
     {
       "title": "Amp puts AI agents to work beyond code with OpenAI models",
@@ -30,20 +44,6 @@
       "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
       "url": "https://openai.com/index/third-moment-research",
       "category": "Startup"
-    },
-    {
-      "title": "How Block is building AI-powered security with OpenAI technology",
-      "date": "Wed, 14 Oct 2026 07:00:00 GMT",
-      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
-      "url": "https://openai.com/index/block-ai-powered-security",
-      "category": ""
-    },
-    {
-      "title": "The EU’s next chapter in AI is agentic",
-      "date": "Wed, 14 Oct 2026 00:00:00 GMT",
-      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
-      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-      "category": "Global Affairs"
     }
   ],
   "status": "success",
