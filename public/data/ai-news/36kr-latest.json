@@ -1,7 +1,7 @@
 {
   "source": "36氪",
   "source_url": "https://www.36kr.com/feed",
-  "fetch_time": "2026-10-18T08:32:51.398Z",
+  "fetch_time": "2026-10-18T12:18:30.230Z",
   "articles": [
     {
       "title": "英伟达辟谣RTX 5090停产：只是产能不足，不会断供",
@@ -46,6 +46,6 @@
       "category": ""
     }
   ],
-  "status": "success",
-  "error": null
+  "status": "error",
+  "error": "Request timeout"
 }
