@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-10-18T14:55:36.667Z",
+  "fetch_time": "2026-10-19T04:07:56.298Z",
   "articles": [
+    {
+      "title": "openclaw 2026.10.5",
+      "date": "2026-10-18T21:47:25Z",
+      "summary": "## 2026.10.5\n\n### Highlights\n\n- **Updates finish and recover on their own:** `openclaw update` completes across devices, filesystems, pnpm 12, Windows elevation, and macOS login shells, settles stale ...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.10.5",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.10.5",
+      "downloadCount": 898
+    },
     {
       "title": "openclaw 2026.10.10-beta.1",
       "date": "2026-10-15T18:03:07Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.10.10-beta.1",
-      "downloadCount": 136
+      "downloadCount": 147
     },
     {
       "title": "openclaw 2026.10.5-beta.4",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.10.4",
-      "downloadCount": 22727
+      "downloadCount": 26153
     },
     {
       "title": "openclaw 2026.9.33",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.33",
-      "downloadCount": 113
+      "downloadCount": 115
     },
     {
       "title": "openclaw 2026.10.5-beta.3",
@@ -52,16 +62,6 @@
       "author": "github-actions[bot]",
       "tagName": "v2026.10.5-beta.3",
       "downloadCount": 106
-    },
-    {
-      "title": "openclaw 2026.10.3",
-      "date": "2026-10-13T13:49:25Z",
-      "summary": "<!-- openclaw-release-publication:docs-v1 -->\n\n## OpenClaw v2026.10.3\n\n90 commits · 79 pull requests · 99 contributors\n\n### Changes included in this release\n\nThe release notes and changelog contain th...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.10.3",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.10.3",
-      "downloadCount": 23031
     }
   ],
   "status": "success",
