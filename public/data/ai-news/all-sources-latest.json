@@ -1,9 +1,27 @@
 {
-  "fetch_time": "2026-10-20T13:09:19.375Z",
+  "fetch_time": "2026-10-20T15:52:25.287Z",
   "total_count": 24,
   "sources_count": 6,
   "errors": null,
   "articles": [
+    {
+      "title": "OpenBSD 8.0 释出",
+      "date": "Tue, 20 Oct 2026 14:58:59 GMT",
+      "summary": "OpenBSD 项目释出了 8.0 版本。创始人 Theo de Raadt 声称在项目逾三十年的历史中，默认安装环境仅出现两次远程安全漏洞。OpenBSD 8.0 主要新特性包括：amd64 架构内核虚拟地址空间从 4GB 扩大至 512GB；arm64 架构支持休眠；riscv64 架构支持向量扩展、高级中断架构；停止支持龙芯 loongson 架构，原因是它不兼容 Clang 22 编译器；改进了支持高通 WiFi 6 设备的 qwx 驱动，等等。更多可浏览发布公告。",
+      "url": "https://www.solidot.org/story?sid=85665",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "The State of AI: A Look at What's Next",
+      "url": "https://every.to/p/the-state-of-ai",
+      "date": "2026-10-20T13:09:15.207Z",
+      "summary": "An in-depth analysis of the current AI landscape and future trends.",
+      "category": "AI Analysis",
+      "source": "Every.to",
+      "source_name": "every"
+    },
     {
       "title": "Salesforce将斥资近56.6亿美元收购客户互动平台Braze",
       "date": "Tue, 20 Oct 2026 12:57:27 GMT",
@@ -68,15 +86,6 @@
       "source_name": "solidot"
     },
     {
-      "title": "The State of AI: A Look at What's Next",
-      "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-10-20T09:07:32.115Z",
-      "summary": "An in-depth analysis of the current AI landscape and future trends.",
-      "category": "AI Analysis",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
       "title": "四分之一数据中心位于水资源受限的区域",
       "date": "Tue, 20 Oct 2026 09:02:49 GMT",
       "summary": "根据发表在《Environmental Science &amp; Technology》期刊上的一项研究，全世界四分之一数据中心位于每年至少一个月用水需求超过供应的地区。全球各地分布着数以千计的数据中心，这些设施在冷却服务器和防止过热过程中消耗了大量水资源。它们所使用的水资源与周边社区以及农业和制造业等共享。电力之类的能源可从远距离传输，水资源则主要来自附近的河流、湖泊和含水层，而水源的水位会随季节或年份发生波动。研究人员将全球 9,347 个运转中的数据中心的位置，与当地的水资源可用量，以及来自城镇、农业、制造业和发电行业的需求进行了比对分析。结果发现：约 25% 的数据中心位于每年至少一个月面临缺水压力的地区；约 6% 的数据中心则位于全年大部分时间都面临缺水压力的地区。41% 的数据中心周边，城镇是最大的用水方；而在另外 28% 的数据中心周边，农业是主要的用水方。研究结果表明，在已经面临或预计将面临缺水压力的地区，数据中心会进一步加剧当地水资源的紧张情况。",
@@ -113,13 +122,13 @@
       "source_name": "solidot"
     },
     {
-      "title": "法国骚乱者被发现盗窃 PC 的内存条",
-      "date": "Tue, 20 Oct 2026 07:33:01 GMT",
-      "summary": "法国电竞俱乐部 Team Vitality 证实，其位于巴黎的总部在周末遭到破坏，奖杯、电脑设备及其它物品被洗劫一空。所幸无人受伤。NEXTA 公布的视频展示了 Team Vitality 总部被破坏的过程：骚乱者猛砸并踢碎电竞总部的窗户，从办公场所内拿走物品，将电竞椅扔到街头的火堆中焚烧。还有视频显示，骚乱者在人行道上拆开电竞电脑，将手伸到机箱内部拔内存条。内存条如今是最昂贵的电脑组件之一，相比显卡之类的昂贵组件，它可能更容易从电脑里拿走。",
-      "url": "https://www.solidot.org/story?sid=85659",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
+      "title": "How Startups Are Using AI to Disrupt Industries",
+      "url": "https://every.to/source-code/ai-startups",
+      "date": "2026-10-19T13:09:15.207Z",
+      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
+      "category": "Source Code",
+      "source": "Every.to",
+      "source_name": "every"
     },
     {
       "title": "Advancing coding in low‑resource programming languages",
@@ -131,18 +140,9 @@
       "source_name": "openai"
     },
     {
-      "title": "How Startups Are Using AI to Disrupt Industries",
-      "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-10-19T09:07:32.115Z",
-      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
-      "category": "Source Code",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-10-18T09:07:32.115Z",
+      "date": "2026-10-18T13:09:15.207Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
@@ -151,7 +151,7 @@
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-10-17T09:07:32.115Z",
+      "date": "2026-10-17T13:09:15.207Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
@@ -169,7 +169,7 @@
     {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-10-16T09:07:32.115Z",
+      "date": "2026-10-16T13:09:15.207Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -203,6 +203,15 @@
       "source_name": "openai"
     },
     {
+      "title": "The Economics of AI: Costs, Benefits, and ROI",
+      "url": "https://every.to/context-window/ai-economics",
+      "date": "2026-10-15T13:09:15.207Z",
+      "summary": "A deep dive into the financial aspects of implementing AI solutions.",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
       "title": "Teaching students to think and learn through questions",
       "date": "Thu, 15 Oct 2026 13:00:00 GMT",
       "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
@@ -210,15 +219,6 @@
       "category": "Company",
       "source": "OpenAI News",
       "source_name": "openai"
-    },
-    {
-      "title": "The Economics of AI: Costs, Benefits, and ROI",
-      "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-10-15T09:07:32.115Z",
-      "summary": "A deep dive into the financial aspects of implementing AI solutions.",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
     }
   ]
 }
