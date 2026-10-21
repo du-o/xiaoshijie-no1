@@ -1,9 +1,45 @@
 {
-  "fetch_time": "2026-10-21T13:20:00.231Z",
+  "fetch_time": "2026-10-21T16:09:29.454Z",
   "total_count": 30,
   "sources_count": 6,
   "errors": null,
   "articles": [
+    {
+      "title": "AI 增加了英国公务员的工作量",
+      "date": "Wed, 21 Oct 2026 14:45:08 GMT",
+      "summary": "自 ChatGPT 问世以来，世界各地的政府部门正经历针对监管机构与官方单位的投诉、请求和回应数量的异常暴增。法院系统的情况同样如此。以英国为例，英格兰、苏格兰和威尔士的劳动仲裁案件一年内激增了 39%，部分原因在于原告利用 AI 起草诉状；与此同时，面对大批因请不起律师而使用 ChatGPT 拼凑案情的当事人，基层法官和高级法官感到焦头烂额，因为这些案由往往漏洞百出、毫无逻辑。而所有这些繁杂的内容，都需要人工耐心梳理与甄别——毕竟即便被告引用了根本不存在的判例，也不意味着其背后就没有合理的冤屈。英国政府特别顾问抱怨称，各大部门正淹没在由 AI 生成的信息公开申请中，这显然背离了该制度最初旨在赋予公民权利的初衷。议员办公室也同样被 AI 撰写的信件所淹没，而工作人员必须逐封阅读，生怕遗漏来自选民的重要诉求。如果公众普及更自动化的 AI 智能体，那么政府机构陷入瘫痪的风险将会进一步加剧。",
+      "url": "https://www.solidot.org/story?sid=85676",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "PHP 释出更新修复两个允许远程执行代码的高危漏洞",
+      "date": "Wed, 21 Oct 2026 14:04:30 GMT",
+      "summary": "PHP 项目释出了 PHP 8.5.12、8.4.27、8.3.36 和 8.2.35，修复了两个允许未经身份验证远程执行代码的高危漏洞。开发者建议所有 PHP 用户立即进行更新。 CVE-2026-109618(GHSA-w8hw-w9fx-j79w)：内存溢出处理可能会在内部请求数据仅完成部分初始化时中断 PHP；请求清理机制可能会将这些无效数据误认为有效数据进行处理。 CVE-2026-109619 (GHSA-6wmf-4rv5-p3rp)：归属于某个请求的内部状态在其底层内存被释放后仍可能残存。由同一个工作进程处理的后续请求，可能会在正常初始化将其重置之前使用该陈旧状态。",
+      "url": "https://www.solidot.org/story?sid=85675",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "The State of AI: A Look at What's Next",
+      "url": "https://every.to/p/the-state-of-ai",
+      "date": "2026-10-21T13:19:56.507Z",
+      "summary": "An in-depth analysis of the current AI landscape and future trends.",
+      "category": "AI Analysis",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "date": "Wed, 21 Oct 2026 13:00:00 GMT",
+      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "category": "Product",
+      "source": "OpenAI News",
+      "source_name": "openai"
+    },
     {
       "title": "4连板海洋王：公司AI+智慧照明相关业务收入规模有限",
       "date": "Wed, 21 Oct 2026 12:58:20 GMT",
@@ -95,15 +131,6 @@
       "source_name": "solidot"
     },
     {
-      "title": "The State of AI: A Look at What's Next",
-      "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-10-21T09:07:23.780Z",
-      "summary": "An in-depth analysis of the current AI landscape and future trends.",
-      "category": "AI Analysis",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
       "title": "印度 CA eMudhra 的私钥泄漏，相关证书不再被信任",
       "date": "Wed, 21 Oct 2026 08:04:47 GMT",
       "summary": "印度 CA eMudhra 八个中间证书的私钥泄漏。攻击者能利用私钥为任何域名签发伪造证书。更荒诞的是，eMudhra 的私钥非常非常简单，简单到就是数字 4，此外还有数字 56、115、66、155、156、230 和 237。这些私钥可以在一秒内还原出来。Chrome 于 10 月 17 日、苹果于 19 日、微软和 Mozilla 于 20 日屏蔽了 eMudhra 的相关证书。",
@@ -113,13 +140,31 @@
       "source_name": "solidot"
     },
     {
-      "title": "PHP 将释出紧急安全更新修复高危漏洞",
-      "date": "Wed, 21 Oct 2026 07:03:59 GMT",
-      "summary": "PHP 安全团队发布通知，将于 10 月 21 日 14:00 UTC 发布重要安全更新，它建议所有 PHP 用户提前做好准备，以便在更新发布后立即升级。任何运营 PHP 网站的用户都应为此做好准备。PHP 计划发布补丁修复两个高危漏洞，其威胁评分 9.2/10。安全公司 watchTowr 表示漏洞影响 PHP 5 之后的所有版本。安全公司 Sansec 认为在补丁释出 15 分钟之后就会出现利用漏洞的大规模攻击。其它多家安全公司也都督促 PHP 网站的管理员做好准备。安全研究人员估计，会有约 130 万台联网主机可能受到影响。",
-      "url": "https://www.solidot.org/story?sid=85669",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "date": "Wed, 21 Oct 2026 07:00:00 GMT",
+      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "category": "Security",
+      "source": "OpenAI News",
+      "source_name": "openai"
+    },
+    {
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "date": "Wed, 21 Oct 2026 07:00:00 GMT",
+      "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+      "url": "https://openai.com/index/building-chatgpt-ad-stack",
+      "category": "Engineering",
+      "source": "OpenAI News",
+      "source_name": "openai"
+    },
+    {
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "date": "Wed, 21 Oct 2026 04:50:00 GMT",
+      "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "category": "Publication",
+      "source": "OpenAI News",
+      "source_name": "openai"
     },
     {
       "title": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
@@ -176,13 +221,13 @@
       "source_name": "arxiv"
     },
     {
-      "title": "字节阿里腾讯订购了逾 350 亿美元的 RTX PRO 5500 显卡",
-      "date": "Tue, 20 Oct 2026 15:55:15 GMT",
-      "summary": "字节跳动、阿里巴巴和腾讯已订购超过 300 万个、总值超过 350 亿美元的英伟达 RTX PRO 5500 工作站显卡。英伟达已通知客户和合作伙伴，由于中国科技企业的需求远超所计划的产量，英伟达无法保证能够满足所有订单。英伟达告诉合作伙伴，他们实际能拿到的产品数量，可能仅为所提出数量的 5% 到 10%。英伟达 2027 年全球 RTX PRO 5500 显卡的产量上限为 300 万张。中国客户的订单总量就已超过 600 万张。",
-      "url": "https://www.solidot.org/story?sid=85668",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
+      "title": "How Startups Are Using AI to Disrupt Industries",
+      "url": "https://every.to/source-code/ai-startups",
+      "date": "2026-10-20T13:19:56.507Z",
+      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
+      "category": "Source Code",
+      "source": "Every.to",
+      "source_name": "every"
     },
     {
       "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
@@ -194,45 +239,9 @@
       "source_name": "openai"
     },
     {
-      "title": "How Startups Are Using AI to Disrupt Industries",
-      "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-10-20T09:07:23.780Z",
-      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
-      "category": "Source Code",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "date": "Tue, 20 Oct 2026 07:00:00 GMT",
-      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
-      "url": "https://openai.com/index/terminal-x",
-      "category": "Startup",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
-      "title": "OpenAI acquires Orchestra Bio",
-      "date": "Tue, 20 Oct 2026 00:00:00 GMT",
-      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
-      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-      "category": "Company",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
-      "title": "Advancing coding in low‑resource programming languages",
-      "date": "Mon, 19 Oct 2026 12:00:00 GMT",
-      "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-      "url": "https://openai.com/index/low-resource-programming-languages",
-      "category": "Publication",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-10-19T09:07:23.780Z",
+      "date": "2026-10-19T13:19:56.507Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
@@ -241,7 +250,7 @@
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-10-18T09:07:23.780Z",
+      "date": "2026-10-18T13:19:56.507Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
@@ -250,25 +259,16 @@
     {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-10-17T09:07:23.780Z",
+      "date": "2026-10-17T13:19:56.507Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
       "source_name": "every"
     },
     {
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "date": "Fri, 16 Oct 2026 19:00:00 GMT",
-      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-      "url": "https://openai.com/index/itau-generative-ai",
-      "category": "",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-10-16T09:07:23.780Z",
+      "date": "2026-10-16T13:19:56.507Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",

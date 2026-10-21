@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-10-21T13:19:56.718Z",
+  "fetch_time": "2026-10-21T16:09:26.584Z",
   "articles": [
+    {
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "date": "Wed, 21 Oct 2026 13:00:00 GMT",
+      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "category": "Product"
+    },
     {
       "title": "OpenAI models are coming to Google Cloud",
       "date": "Wed, 21 Oct 2026 12:00:00 GMT",
@@ -11,38 +18,31 @@
       "category": "Company"
     },
     {
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "date": "Wed, 21 Oct 2026 07:00:00 GMT",
+      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "category": "Security"
+    },
+    {
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "date": "Wed, 21 Oct 2026 07:00:00 GMT",
+      "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+      "url": "https://openai.com/index/building-chatgpt-ad-stack",
+      "category": "Engineering"
+    },
+    {
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "date": "Wed, 21 Oct 2026 04:50:00 GMT",
+      "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "category": "Publication"
+    },
+    {
       "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
       "date": "Tue, 20 Oct 2026 10:00:00 GMT",
       "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
       "url": "https://openai.com/index/ted-taylor-restaurant",
-      "category": ""
-    },
-    {
-      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "date": "Tue, 20 Oct 2026 07:00:00 GMT",
-      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
-      "url": "https://openai.com/index/terminal-x",
-      "category": "Startup"
-    },
-    {
-      "title": "OpenAI acquires Orchestra Bio",
-      "date": "Tue, 20 Oct 2026 00:00:00 GMT",
-      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
-      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-      "category": "Company"
-    },
-    {
-      "title": "Advancing coding in low‑resource programming languages",
-      "date": "Mon, 19 Oct 2026 12:00:00 GMT",
-      "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-      "url": "https://openai.com/index/low-resource-programming-languages",
-      "category": "Publication"
-    },
-    {
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "date": "Fri, 16 Oct 2026 19:00:00 GMT",
-      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-      "url": "https://openai.com/index/itau-generative-ai",
       "category": ""
     }
   ],
