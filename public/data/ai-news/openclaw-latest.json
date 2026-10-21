@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-10-21T04:09:51.869Z",
+  "fetch_time": "2026-10-21T09:07:32.787Z",
   "articles": [
+    {
+      "title": "openclaw 2026.10.10-beta.3",
+      "date": "2026-10-21T07:00:49Z",
+      "summary": "## 2026.10.10-beta.3\n\n### Highlights\n\n- Windows reliability: restore fresh state initialization and Gateway startup, hide SQLite helper windows during app updates, and make forced Gateway reinstalls t...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.10.10-beta.3",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.10.10-beta.3",
+      "downloadCount": 16
+    },
     {
       "title": "openclaw 2026.10.5",
       "date": "2026-10-18T21:47:25Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.10.5",
-      "downloadCount": 23141
+      "downloadCount": 25185
     },
     {
       "title": "openclaw 2026.10.10-beta.2",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.10.10-beta.2",
-      "downloadCount": 79
+      "downloadCount": 86
     },
     {
       "title": "openclaw 2026.10.10-beta.1",
@@ -51,17 +61,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.10.4",
-      "downloadCount": 26844
-    },
-    {
-      "title": "openclaw 2026.9.33",
-      "date": "2026-10-15T10:39:22Z",
-      "summary": "This is a gateway-only `extended-stable` release, which is our current equivalent to LTS. This release is OpenClaw from the end of September 2026, plus critical security updates, reliability and perfo...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.9.33",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.9.33",
-      "downloadCount": 147
+      "downloadCount": 26855
     }
   ],
   "status": "success",
