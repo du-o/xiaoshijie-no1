@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-10-21T09:07:24.042Z",
+  "fetch_time": "2026-10-21T13:19:56.718Z",
   "articles": [
+    {
+      "title": "OpenAI models are coming to Google Cloud",
+      "date": "Wed, 21 Oct 2026 12:00:00 GMT",
+      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "category": "Company"
+    },
     {
       "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
       "date": "Tue, 20 Oct 2026 10:00:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
       "url": "https://openai.com/index/itau-generative-ai",
       "category": ""
-    },
-    {
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "date": "Fri, 16 Oct 2026 00:00:00 GMT",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "category": "Startup"
     }
   ],
   "status": "success",
