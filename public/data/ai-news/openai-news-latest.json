@@ -1,8 +1,29 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-10-20T15:52:22.113Z",
+  "fetch_time": "2026-10-21T04:09:36.425Z",
   "articles": [
+    {
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "date": "Tue, 20 Oct 2026 10:00:00 GMT",
+      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "url": "https://openai.com/index/ted-taylor-restaurant",
+      "category": ""
+    },
+    {
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "date": "Tue, 20 Oct 2026 07:00:00 GMT",
+      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+      "url": "https://openai.com/index/terminal-x",
+      "category": "Startup"
+    },
+    {
+      "title": "OpenAI acquires Orchestra Bio",
+      "date": "Tue, 20 Oct 2026 00:00:00 GMT",
+      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "category": "Company"
+    },
     {
       "title": "Advancing coding in low‑resource programming languages",
       "date": "Mon, 19 Oct 2026 12:00:00 GMT",
@@ -18,32 +39,11 @@
       "category": ""
     },
     {
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "date": "Fri, 16 Oct 2026 00:00:00 GMT",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-      "url": "https://openai.com/index/benefit-street-partners",
-      "category": ""
-    },
-    {
       "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
       "date": "Fri, 16 Oct 2026 00:00:00 GMT",
       "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
       "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "category": "Startup"
-    },
-    {
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "date": "Thu, 15 Oct 2026 19:00:00 GMT",
-      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "category": "Research"
-    },
-    {
-      "title": "Teaching students to think and learn through questions",
-      "date": "Thu, 15 Oct 2026 13:00:00 GMT",
-      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "category": "Company"
     }
   ],
   "status": "success",

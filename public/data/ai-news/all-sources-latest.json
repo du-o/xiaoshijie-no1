@@ -1,9 +1,153 @@
 {
-  "fetch_time": "2026-10-20T15:52:25.287Z",
-  "total_count": 24,
+  "fetch_time": "2026-10-21T04:09:39.879Z",
+  "total_count": 30,
   "sources_count": 6,
   "errors": null,
   "articles": [
+    {
+      "title": "恒指午间休盘跌0.35%，恒生科技指数跌0.75%",
+      "date": "Wed, 21 Oct 2026 04:02:58 GMT",
+      "summary": "36氪获悉，恒指午间休盘跌0.35%，恒生科技指数跌0.75%；电气设备板块领跌，宁德时代跌超10%，股价创2025年7月以来新低，中创新航跌超4%；半导体板块领涨，澜起科技涨超7%，长光辰芯涨超3%；医疗设备板块走强，医思健康涨超5%，卓正医疗涨超3%；南向资金净流出3.09亿港元。",
+      "url": "https://36kr.com/newsflashes/4035106876167296?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
+      "date": "Wed, 21 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.26887v1 Announce Type: new Abstract: Large language model (LLM) agents are evolving from conversational assistants into Cowork Agents capable of autonomous planning, tool use, and complex task execution. Financial analysis requires these agents to integrate cross-document evidence and perform multistep numerical reasoning, but expert task authoring is costly, while direct LLM synthesis struggles to produce challenging tasks with reliable answers. We introduce Navalia, a framework for ",
+      "url": "https://arxiv.org/abs/2610.26887",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Large language model and reinforcement learning based autonomous construction and progress updates",
+      "date": "Wed, 21 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.26899v1 Announce Type: new Abstract: Due to the rapid growth of the global population, traditional construction methods are gradually unable to meet the current housing demand. The advancement of machine learning algorithms has encouraged researchers to explore their applications in the construction industry, leading to more intelligent and efficient building processes. In particular, the rise of large language models in recent years has provided more possibilities for the transformat",
+      "url": "https://arxiv.org/abs/2610.26899",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Pareto-Optimal RTL Code Generation via Multi-Objective Reinforcement Learning with Large Language Models",
+      "date": "Wed, 21 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.26904v1 Announce Type: new Abstract: Recent studies have proposed reinforcement learning with verifiable rewards (RLVR) methods that enable LLMs to generate high-quality RTL circuits from natural-language specifications. Existing approaches optimize circuit PPA (Power, Performance, Area) by aggregating multiple objectives into a single scalar reward, making it difficult to simultaneously generate diverse Pareto-optimal solutions across different trade-offs such as low power, low laten",
+      "url": "https://arxiv.org/abs/2610.26904",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring",
+      "date": "Wed, 21 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.26913v1 Announce Type: new Abstract: The adoption of Large Language Models for radiology report structuring has been largely dominated by either proprietary cloud-based models or large open models requiring high-end GPUs for deployment, which is a critical bottleneck for clinical adoption in radiology workflows that demand data privacy and offline operation. To address this, we present MedPAO-Assist, an edge-deployable agentic framework that generates structured radiology reports dire",
+      "url": "https://arxiv.org/abs/2610.26913",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "DataPraxis: Scaling Analytics Tasks via Verified Workspace Evolution",
+      "date": "Wed, 21 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.26924v1 Announce Type: new Abstract: General-purpose agents are increasingly expected to perform professional analytics work, which requires sustained reasoning, iterative investigation, and reliable evidence. Training these capabilities requires diverse and challenging tasks. However, generating tasks directly from raw data often overlooks deeper questions that emerge through analysis and provides limited evidence for verification. To address these limitations, we introduce DataPraxi",
+      "url": "https://arxiv.org/abs/2610.26924",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Industrial Agentic AI: LLM-Driven New-Generation Agents for Smart Manufacturing",
+      "date": "Wed, 21 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.26941v1 Announce Type: new Abstract: Large language models (LLMs) are enabling agents to move beyond predefined workflows toward autonomous planning and execution, creating new opportunities for smart manufacturing. However, dynamic environments, complex physical constraints, and stringent reliability requirements hinder the direct deployment of general-purpose agents in smart manufacturing. This article presents a systematic overview of LLM-driven industrial agents. First, we analyze",
+      "url": "https://arxiv.org/abs/2610.26941",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "半日主力资金加仓电子板块，抛售电力设备板块",
+      "date": "Wed, 21 Oct 2026 03:54:07 GMT",
+      "summary": "主力资金早间净流入电子、计算机等板块，净流出电力设备、家用电器等板块。具体到个股来看，沪电股份、移远通信、紫金矿业获净流入7.87亿元、7.24亿元、6.64亿元。净流出方面，格力电器、宁德时代、亨通光电遭抛售7.93亿元、6.44亿元、4.97亿元。（第一财经）",
+      "url": "https://36kr.com/newsflashes/4035094270645121?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "深圳人才房政策放宽：社保满1年，无房记录降至3年",
+      "date": "Wed, 21 Oct 2026 03:44:04 GMT",
+      "summary": "10月21日，深圳市住房保障署发布配售公告，记者对比此前批次配售条件发现，本批次申购条件出现明显放宽：90平以下房源由四个队列增至五个；社保最低累计1年即可申购，房产交易记录核查由5年缩短至3年。这意味着，更多社保刚满1年的新市民家庭将获得人才房申购资格，曾有过房产交易、但目前无房且满3年的改善型家庭也重新获得申购机会。（南方+）",
+      "url": "https://36kr.com/newsflashes/4035088297513864?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "京东健康与辉瑞中国达成战略合作",
+      "date": "Wed, 21 Oct 2026 03:43:17 GMT",
+      "summary": "36氪获悉，据辉瑞消息，10月20日，京东健康与辉瑞达成战略合作。双方将围绕肥胖症、糖尿病、呼吸与抗感染、皮肤疾病、偏头痛、肿瘤等疾病领域，共同探索以患者为中心、以技术为驱动的一体化医药健康服务模式。在下一阶段合作中，双方将以先维盈®（埃诺格鲁肽注射液）为重点，深化在减重代谢领域的生态合作，推进渠道协同与患者管理长期合作。",
+      "url": "https://36kr.com/newsflashes/4035087520240770?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "A股三大指数午间休盘集体下跌，宁德时代跌超10%",
+      "date": "Wed, 21 Oct 2026 03:32:44 GMT",
+      "summary": "36氪获悉，A股三大指数午间休盘集体下跌，沪指跌0.31%，深成指跌0.31%，创业板指跌1.07%；电气设备板块领跌，宁德时代跌超10%，时代万恒、博力威跌超8%；两岸融合概念领涨，平潭发展、福建水泥涨停，海峡创新、路桥信息涨超10%；数据要素概念走强，海量数据、南威软件涨停，华胜天成涨超5%。",
+      "url": "https://36kr.com/newsflashes/4035077158818950?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "创业板指跌破2700点",
+      "date": "Wed, 21 Oct 2026 03:27:50 GMT",
+      "summary": "36���获悉，创业板指跌破2700点，日内下跌1.4%。",
+      "url": "https://36kr.com/newsflashes/4035072335860871?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "字节阿里腾讯订购了逾 350 亿美元的 RTX PRO 5500 显卡",
+      "date": "Tue, 20 Oct 2026 15:55:15 GMT",
+      "summary": "字节跳动、阿里巴巴和腾讯已订购超过 300 万个、总值超过 350 亿美元的英伟达 RTX PRO 5500 工作站显卡。英伟达已通知客户和合作伙伴，由于中国科技企业的需求远超所计划的产量，英伟达无法保证能够满足所有订单。英伟达告诉合作伙伴，他们实际能拿到的产品数量，可能仅为所提出数量的 5% 到 10%。英伟达 2027 年全球 RTX PRO 5500 显卡的产量上限为 300 万张。中国客户的订单总量就已超过 600 万张。",
+      "url": "https://www.solidot.org/story?sid=85668",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "The State of AI: A Look at What's Next",
+      "url": "https://every.to/p/the-state-of-ai",
+      "date": "2026-10-20T15:52:21.898Z",
+      "summary": "An in-depth analysis of the current AI landscape and future trends.",
+      "category": "AI Analysis",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "AI slop 游戏充斥着 Steam 新品节",
+      "date": "Tue, 20 Oct 2026 15:33:08 GMT",
+      "summary": "Steam 新品节于 10 月 19 日拉开帷幕，玩家立即注意到其中充斥着大量的 AI slop 游戏。曾经以发掘隐藏瑰宝著称的游戏活动，如今沦为廉价 AI 生成游戏的展示场。玩家通过社交媒体呼吁运营 Steam 平台的 Valve 公司引入 AI 过滤器功能，一键过滤掉这些 AI 生成游戏。随着 AI 工具的进步，逆向工程比以往任何时候都轻松，以至于部分游戏开发商不太愿意公开免费的 DEMO 试玩，担心 DEMO 会被破解会被克隆，被人抢在开发商之前发布克隆产品。",
+      "url": "https://www.solidot.org/story?sid=85667",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "十分之一 Tor 出口节点被用于发动中间人攻击",
+      "date": "Tue, 20 Oct 2026 15:22:58 GMT",
+      "summary": "10 月 2 日攻击者利用其控制的 333 个出口节点协同拦截 SSH 连接发动中间人攻击。Tor 出口节点是构成 Tor 回路的三个中继的最后一跳，连接了 Tor 匿名网络与开放互联网。根据目标网站使用的是 HTTPS 还是 HTTP 协议，决定了出口节点是否能看到和操纵用户访问的内容。目前整个 Tor 网络共有大约 3000 个出口节点，这意味着攻击者控制了十分之一的出口中继。攻击者实际上早在 8 月就控制了运行 Tor 节点的服务器，部署了恶意程序 Ebury 1.8.3，它是一种 Linux 下的 OpenSSH 后门和凭据窃取程序。此次协同攻击有两个目的：尽可能多收集未加密邮件流量；拦截 SSH 连接——即 SSH 中间人攻击。如果攻击期间你的 Tor 回路经过了 333 个恶意出口节点之一，那么当你尝试通过 22 端口建立 SSH 连接，你的请求会被重定向到 12 台 SSH 拦截服务器中的一台。如果用户无视中间人攻击警告，那么攻击者将会窃取密码，建立服务器连接，监视用户输入的每一条命令，以及植入 Ebury。Tor 项目团队于 10 月 4 日将这些恶意节点标记为 Bad",
+      "url": "https://www.solidot.org/story?sid=85666",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
     {
       "title": "OpenBSD 8.0 释出",
       "date": "Tue, 20 Oct 2026 14:58:59 GMT",
@@ -12,69 +156,6 @@
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
-    },
-    {
-      "title": "The State of AI: A Look at What's Next",
-      "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-10-20T13:09:15.207Z",
-      "summary": "An in-depth analysis of the current AI landscape and future trends.",
-      "category": "AI Analysis",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Salesforce将斥资近56.6亿美元收购客户互动平台Braze",
-      "date": "Tue, 20 Oct 2026 12:57:27 GMT",
-      "summary": "Salesforce当地时间10月20日宣布，将斥资近56.6亿美元收购客户互动平台Braze。该交易预计将于Salesforce的2028财年完成，但仍需获得Braze股东及监管机构批准。（界面）",
-      "url": "https://36kr.com/newsflashes/4034210781910150?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "热门中概股美股盘前涨跌不一，小鹏集团涨超3%",
-      "date": "Tue, 20 Oct 2026 12:50:44 GMT",
-      "summary": "36氪获悉，热门中概股美股盘前涨跌不一，截至发稿，小鹏集团涨超3%，理想汽车涨超2%，网易涨0.66%；阿里巴巴、富途控股跌超1%，京东跌0.67%。",
-      "url": "https://36kr.com/newsflashes/4034210103923592?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "美股大型科技股盘前多数下跌，苹果跌超1%",
-      "date": "Tue, 20 Oct 2026 12:45:22 GMT",
-      "summary": "36氪获悉，美股大型科技股盘前多数下跌，截至发稿，SK海力士跌超4%，闪迪跌超2%，英特尔、苹果跌超1%，Meta跌0.77%，英伟达跌0.65%，谷歌跌0.33%；奈飞涨0.29%，微软涨0.28%，特斯拉涨0.16%，亚马逊涨0.1%。",
-      "url": "https://36kr.com/newsflashes/4034204833108864?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "苹果就iPhone Duo关键材料及组件同美企签署协议",
-      "date": "Tue, 20 Oct 2026 12:42:36 GMT",
-      "summary": "苹果公司10月20日宣布与多家美国企业建立或扩大合作伙伴关系，这些企业将为iPhone Duo和iPhone 18 Pro提供关键材料及组件。具体而言，苹果与钛金属生产商Perryman Company达成合作，由后者为包括iPhone Duo在内的苹果产品供应钛金属，苹果将在三年内为其提供至多1亿美元资金支持。此外，苹果与Qnity Electronics扩大合作，由其负责生产iPhone 18 Pro摄像头系统中全新可变光圈技术所需的组件。（界面）",
-      "url": "https://36kr.com/newsflashes/4034202111071106?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "ADP：截至10月3日四周，美国私营部门就业人数平均每周增加1.85万人",
-      "date": "Tue, 20 Oct 2026 12:39:01 GMT",
-      "summary": "ADP Research和斯坦福数字经济实验室10月20日的初步估算显示，截至10月3日的四周内，美国私营部门就业人数平均每周增加1.85万人。（界面）",
-      "url": "https://36kr.com/newsflashes/4034198593410180?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "机构预计北京写字楼市场将于2028年企稳",
-      "date": "Tue, 20 Oct 2026 12:35:54 GMT",
-      "summary": "当前，北京办公楼市场正在经历一场跨度十年的深度调整，全面迈入以“重新定价”为标志的系统性重构时期。据仲量联行发布的《2026北京办公楼市场白皮书》数据，截至2026年第三季度，全市空置率维持在17%左右，稳居全国一线城市最低水平。同时租金继续回落，三季度末全市甲级办公楼平均租金回落至198元/平方米/月，距2018年末的历史峰值8年累计下调近50%。其中，2024年和2025年租金年均同比下滑16%以上，折射出市场心理基线的持续下移。&nbsp; 数据来源：仲量联行研究部 仲量联行认为，这一深度的租金回调并非短期波动，而是顺应宏观经济转型与产业结构升级的理性回归，本质上是对办公楼资产的“重新定价”。支撑“重新定价”趋势的，是供需关系的结构性转变。北京甲级办公楼市场正迎来继2008年、2019年后的第三轮供应高峰。2026至2030年，预计新增高品质办公面积逾100万平方米，集中于CBD核心区与望京，对存量项目的续租与招商形成直接分流和竞争。&nbsp; 本轮放量正在进一步重塑供需天平。凭借地段与硬件优势粗放增长的周期红利已然消退，市场在结构性的“租户方市场”中步入博弈的深水区。市场正从",
-      "url": "https://36kr.com/p/4033965080155016?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
     },
     {
       "title": "法国超市联网制冷设备存在漏洞长达数月之久",
@@ -86,6 +167,15 @@
       "source_name": "solidot"
     },
     {
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "date": "Tue, 20 Oct 2026 10:00:00 GMT",
+      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "url": "https://openai.com/index/ted-taylor-restaurant",
+      "category": "",
+      "source": "OpenAI News",
+      "source_name": "openai"
+    },
+    {
       "title": "四分之一数据中心位于水资源受限的区域",
       "date": "Tue, 20 Oct 2026 09:02:49 GMT",
       "summary": "根据发表在《Environmental Science &amp; Technology》期刊上的一项研究，全世界四分之一数据中心位于每年至少一个月用水需求超过供应的地区。全球各地分布着数以千计的数据中心，这些设施在冷却服务器和防止过热过程中消耗了大量水资源。它们所使用的水资源与周边社区以及农业和制造业等共享。电力之类的能源可从远距离传输，水资源则主要来自附近的河流、湖泊和含水层，而水源的水位会随季节或年份发生波动。研究人员将全球 9,347 个运转中的数据中心的位置，与当地的水资源可用量，以及来自城镇、农业、制造业和发电行业的需求进行了比对分析。结果发现：约 25% 的数据中心位于每年至少一个月面临缺水压力的地区；约 6% 的数据中心则位于全年大部分时间都面临缺水压力的地区。41% 的数据中心周边，城镇是最大的用水方；而在另外 28% 的数据中心周边，农业是主要的用水方。研究结果表明，在已经面临或预计将面临缺水压力的地区，数据中心会进一步加剧当地水资源的紧张情况。",
@@ -95,36 +185,27 @@
       "source_name": "solidot"
     },
     {
-      "title": "涉嫌监听 OpenAI 高管的沙特籍工程师手机上有名为 Saudi Gov Docs 的文件夹",
-      "date": "Tue, 20 Oct 2026 08:30:33 GMT",
-      "summary": "涉嫌监听 OpenAI 高管的沙特籍工程师 Abdulrahman Alfozan 被拒绝释放，美国检方称其动机可能是为了个人商业利益，也可能是为了沙特王国的利益。美国政府指出，有证据显示，Alfozan 曾通过 WhatsApp 与沙特王室成员保持联络；与此同时他还在寻求机会永久搬回沙特——沙特正在大力发展 AI。Alfozan 的 iPhone 手机内有一个名为 Saudi Gov Docs 的文件夹。FBI 是在 Alfozan 即将登机离开美国前将其逮捕的。他为自己、妻子及孩子预订了前往沙特首都利雅得的单程机票，而单程机票的费用被认为是由沙特政府支付的。Alfozan 被捕后，他的妻子和儿子改签了更早的航班，在没有他的情况下立即离开了美国，机票也被认为是沙特政府支付和预定的。",
-      "url": "https://www.solidot.org/story?sid=85662",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "date": "Tue, 20 Oct 2026 07:00:00 GMT",
+      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+      "url": "https://openai.com/index/terminal-x",
+      "category": "Startup",
+      "source": "OpenAI News",
+      "source_name": "openai"
     },
     {
-      "title": "日本成功发射火星卫星探测器",
-      "date": "Tue, 20 Oct 2026 08:00:36 GMT",
-      "summary": "20 日凌晨 4 点 41 分 03 秒，日本宇宙航空研究开发机构（JAXA）从鹿儿岛县种子岛宇宙中心发射了搭载火星卫星探测计划 MMX 探测器的 H3 火箭 10 号机。约 70 分钟后，探测器被送入预定轨道，发射取得成功。MMX 是由日本主导的国际联合探测项目，计划从火星卫星火卫一(Phobos）采集沙砾等样本，并于 203 1年 7 月返回地球。如果成功，将实现全球首次从火星圈带回样本。这也是 H3 火箭首次执行向其他行星轨道的发射任务。该探测器发射时的重量为 4480 公斤，是日本迄今为止最重的探测器。高度约 5.3 米，展开太阳能板后的宽度约为 9 米。它由负责去程、探测和返程的 3 个模块组成。总开发费用约为 553 亿日元（约合人民币 23 亿元）。根据计划，该探测器将于 2027 年 8 月抵达火星圈，在火卫一着陆并采集沙砾等样本。在执行观测火星的另一颗卫星火卫二（Deimos）等任务后，将返回地球并投下装有样本的回收舱。火卫一直径为 20-30 公里，不到月球的百分之一。",
-      "url": "https://www.solidot.org/story?sid=85661",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "挪威公司提议铺设绕过美国的海底光缆",
-      "date": "Tue, 20 Oct 2026 07:53:05 GMT",
-      "summary": "挪威基础设施公司 Bulk Infrastructure 提议铺设一条绕过美国从挪威直连加拿大的海底光缆。该项目被称为 Leif Erikson，尚未启动，处于提议阶段。目前加拿大能避开美国路由的国际光缆选择相对较少。Leif Erikson 全长逾 6500 公里，包括长 4600 公里连接挪威南部至加拿大纽芬兰和拉布拉多省的海底光缆，以及长 1900 公里连接蒙特利尔的陆地线路。项目预计耗资逾 6.2 亿美元。",
-      "url": "https://www.solidot.org/story?sid=85660",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
+      "title": "OpenAI acquires Orchestra Bio",
+      "date": "Tue, 20 Oct 2026 00:00:00 GMT",
+      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "category": "Company",
+      "source": "OpenAI News",
+      "source_name": "openai"
     },
     {
       "title": "How Startups Are Using AI to Disrupt Industries",
       "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-10-19T13:09:15.207Z",
+      "date": "2026-10-19T15:52:21.898Z",
       "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
       "category": "Source Code",
       "source": "Every.to",
@@ -142,7 +223,7 @@
     {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-10-18T13:09:15.207Z",
+      "date": "2026-10-18T15:52:21.898Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
@@ -151,7 +232,7 @@
     {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-10-17T13:09:15.207Z",
+      "date": "2026-10-17T15:52:21.898Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
@@ -169,20 +250,11 @@
     {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-10-16T13:09:15.207Z",
+      "date": "2026-10-16T15:52:21.898Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
       "source_name": "every"
-    },
-    {
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "date": "Fri, 16 Oct 2026 00:00:00 GMT",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-      "url": "https://openai.com/index/benefit-street-partners",
-      "category": "",
-      "source": "OpenAI News",
-      "source_name": "openai"
     },
     {
       "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
@@ -194,31 +266,13 @@
       "source_name": "openai"
     },
     {
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "date": "Thu, 15 Oct 2026 19:00:00 GMT",
-      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "category": "Research",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-10-15T13:09:15.207Z",
+      "date": "2026-10-15T15:52:21.898Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
       "source_name": "every"
-    },
-    {
-      "title": "Teaching students to think and learn through questions",
-      "date": "Thu, 15 Oct 2026 13:00:00 GMT",
-      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "category": "Company",
-      "source": "OpenAI News",
-      "source_name": "openai"
     }
   ]
 }
