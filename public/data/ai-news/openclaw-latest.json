@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-10-22T09:10:22.574Z",
+  "fetch_time": "2026-10-22T13:19:40.879Z",
   "articles": [
+    {
+      "title": "openclaw 2026.10.6",
+      "date": "2026-10-22T12:53:10Z",
+      "summary": "## 2026.10.6\n\n### Highlights\n\n- **Patched Node runtime required:** OpenClaw now requires Node 24.22.1+ on the 24 line or 26.12.1+ on the 26 line, which reject TLS chains signed with the compromised ce...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.10.6",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.10.6",
+      "downloadCount": 37
+    },
     {
       "title": "openclaw 2026.10.10-beta.3",
       "date": "2026-10-21T07:00:49Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.10.10-beta.3",
-      "downloadCount": 107
+      "downloadCount": 108
     },
     {
       "title": "openclaw 2026.10.5",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.10.5",
-      "downloadCount": 34287
+      "downloadCount": 35864
     },
     {
       "title": "openclaw 2026.10.10-beta.2",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.10.10-beta.2",
-      "downloadCount": 105
+      "downloadCount": 106
     },
     {
       "title": "openclaw 2026.10.10-beta.1",
@@ -52,16 +62,6 @@
       "author": "github-actions[bot]",
       "tagName": "v2026.10.5-beta.4",
       "downloadCount": 85
-    },
-    {
-      "title": "openclaw 2026.10.4",
-      "date": "2026-10-16T00:36:19Z",
-      "summary": "## 2026.10.4\n\n### Highlights\n\n- The Gateway keeps running after the computer sleeps or the system clock jumps, instead of restarting itself because its ownership heartbeat looked stale. (#170790) Than...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.10.4",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.10.4",
-      "downloadCount": 26875
     }
   ],
   "status": "success",
