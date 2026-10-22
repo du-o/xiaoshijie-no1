@@ -1,8 +1,22 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-10-21T16:09:26.584Z",
+  "fetch_time": "2026-10-22T04:09:43.035Z",
   "articles": [
+    {
+      "title": "Broad access through consistent standards",
+      "date": "Wed, 21 Oct 2026 21:00:00 GMT",
+      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "category": "Safety"
+    },
+    {
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "date": "Wed, 21 Oct 2026 17:00:00 GMT",
+      "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+      "url": "https://openai.com/index/att-legal",
+      "category": ""
+    },
     {
       "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
       "date": "Wed, 21 Oct 2026 13:00:00 GMT",
@@ -30,20 +44,6 @@
       "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
       "url": "https://openai.com/index/building-chatgpt-ad-stack",
       "category": "Engineering"
-    },
-    {
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "date": "Wed, 21 Oct 2026 04:50:00 GMT",
-      "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
-      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-      "category": "Publication"
-    },
-    {
-      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "date": "Tue, 20 Oct 2026 10:00:00 GMT",
-      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-      "url": "https://openai.com/index/ted-taylor-restaurant",
-      "category": ""
     }
   ],
   "status": "success",

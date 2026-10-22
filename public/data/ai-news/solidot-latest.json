@@ -1,7 +1,7 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-10-21T16:09:29.452Z",
+  "fetch_time": "2026-10-22T04:09:44.921Z",
   "articles": [
     {
       "title": "AI 增加了英国公务员的工作量",
@@ -46,6 +46,6 @@
       "category": ""
     }
   ],
-  "status": "success",
-  "error": null
+  "status": "error",
+  "error": "connect ECONNREFUSED 106.75.15.71:443"
 }
