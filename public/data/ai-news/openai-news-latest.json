@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-10-22T13:19:31.646Z",
+  "fetch_time": "2026-10-22T16:07:28.812Z",
   "articles": [
+    {
+      "title": "What FDE means at OpenAI",
+      "date": "Thu, 22 Oct 2026 06:00:00 GMT",
+      "summary": "What forward deployed engineering means at OpenAI",
+      "url": "https://openai.com/index/forward-deployed-engineering-means",
+      "category": "Engineering"
+    },
     {
       "title": "Broad access through consistent standards",
       "date": "Wed, 21 Oct 2026 21:00:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
       "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
       "category": "Security"
-    },
-    {
-      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-      "date": "Wed, 21 Oct 2026 07:00:00 GMT",
-      "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
-      "url": "https://openai.com/index/building-chatgpt-ad-stack",
-      "category": "Engineering"
     }
   ],
   "status": "success",
