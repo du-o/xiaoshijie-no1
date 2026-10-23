@@ -1,14 +1,28 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-10-22T16:07:28.812Z",
+  "fetch_time": "2026-10-23T04:13:43.262Z",
   "articles": [
+    {
+      "title": "Build more responsive apps with the Decisions API",
+      "date": "Thu, 22 Oct 2026 19:00:00 GMT",
+      "summary": "Fast, focused, low-cost decisions for any application.",
+      "url": "https://openai.com/index/decisions-api",
+      "category": "Product"
+    },
     {
       "title": "What FDE means at OpenAI",
       "date": "Thu, 22 Oct 2026 06:00:00 GMT",
       "summary": "What forward deployed engineering means at OpenAI",
       "url": "https://openai.com/index/forward-deployed-engineering-means",
-      "category": "Engineering"
+      "category": "AI Adoption"
+    },
+    {
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "date": "Thu, 22 Oct 2026 00:00:00 GMT",
+      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "category": "Company"
     },
     {
       "title": "Broad access through consistent standards",
@@ -30,20 +44,6 @@
       "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
       "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
       "category": "Product"
-    },
-    {
-      "title": "OpenAI models are coming to Google Cloud",
-      "date": "Wed, 21 Oct 2026 12:00:00 GMT",
-      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-      "url": "https://openai.com/index/openai-models-google-cloud",
-      "category": "Company"
-    },
-    {
-      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "date": "Wed, 21 Oct 2026 07:00:00 GMT",
-      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-      "category": "Security"
     }
   ],
   "status": "success",
