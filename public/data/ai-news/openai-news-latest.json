@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-10-23T04:13:43.262Z",
+  "fetch_time": "2026-10-23T09:06:35.532Z",
   "articles": [
+    {
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "date": "Fri, 23 Oct 2026 00:00:00 GMT",
+      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "category": "Global Affairs"
+    },
     {
       "title": "Build more responsive apps with the Decisions API",
       "date": "Thu, 22 Oct 2026 19:00:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
       "url": "https://openai.com/index/att-legal",
       "category": ""
-    },
-    {
-      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "date": "Wed, 21 Oct 2026 13:00:00 GMT",
-      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-      "category": "Product"
     }
   ],
   "status": "success",
