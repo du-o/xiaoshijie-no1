@@ -1,8 +1,22 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-10-23T15:57:51.579Z",
+  "fetch_time": "2026-10-24T04:05:04.567Z",
   "articles": [
+    {
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "date": "Fri, 23 Oct 2026 17:00:00 GMT",
+      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "category": "Engineering"
+    },
+    {
+      "title": "Securing our frontier model training environment",
+      "date": "Fri, 23 Oct 2026 10:00:00 GMT",
+      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "category": "Security"
+    },
     {
       "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
       "date": "Fri, 23 Oct 2026 00:00:00 GMT",
@@ -30,20 +44,6 @@
       "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
       "url": "https://openai.com/index/uber-chatgpt-work-rollout",
       "category": "Company"
-    },
-    {
-      "title": "Broad access through consistent standards",
-      "date": "Wed, 21 Oct 2026 21:00:00 GMT",
-      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-      "url": "https://openai.com/index/broad-access-through-consistent-standards",
-      "category": "Safety"
-    },
-    {
-      "title": "How AT&T is rethinking in-house legal work with OpenAI",
-      "date": "Wed, 21 Oct 2026 17:00:00 GMT",
-      "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-      "url": "https://openai.com/index/att-legal",
-      "category": ""
     }
   ],
   "status": "success",
