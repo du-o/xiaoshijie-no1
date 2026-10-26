@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-10-26T09:43:15.253Z",
+  "fetch_time": "2026-10-26T14:41:28.409Z",
   "articles": [
+    {
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "date": "Mon, 26 Oct 2026 07:00:00 GMT",
+      "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "category": ""
+    },
     {
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
       "date": "Fri, 23 Oct 2026 17:00:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "What forward deployed engineering means at OpenAI",
       "url": "https://openai.com/index/forward-deployed-engineering-means",
       "category": "AI Adoption"
-    },
-    {
-      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "date": "Thu, 22 Oct 2026 00:00:00 GMT",
-      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "category": "Company"
     }
   ],
   "status": "success",
