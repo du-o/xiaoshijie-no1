@@ -1,9 +1,18 @@
 {
-  "fetch_time": "2026-10-26T14:41:31.283Z",
+  "fetch_time": "2026-10-26T17:41:41.387Z",
   "total_count": 30,
   "sources_count": 6,
   "errors": null,
   "articles": [
+    {
+      "title": "The State of AI: A Look at What's Next",
+      "url": "https://every.to/p/the-state-of-ai",
+      "date": "2026-10-26T14:41:28.205Z",
+      "summary": "An in-depth analysis of the current AI landscape and future trends.",
+      "category": "AI Analysis",
+      "source": "Every.to",
+      "source_name": "every"
+    },
     {
       "title": "Anthropic上半年营收163亿美元，净亏损807亿美元",
       "date": "Mon, 26 Oct 2026 13:14:34 GMT",
@@ -66,15 +75,6 @@
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
-    },
-    {
-      "title": "The State of AI: A Look at What's Next",
-      "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-10-26T09:43:15.034Z",
-      "summary": "An in-depth analysis of the current AI landscape and future trends.",
-      "category": "AI Analysis",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "Netflix 用户观看量下降，应用打开量下降",
@@ -193,7 +193,7 @@
     {
       "title": "How Startups Are Using AI to Disrupt Industries",
       "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-10-25T09:43:15.034Z",
+      "date": "2026-10-25T14:41:28.205Z",
       "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
       "category": "Source Code",
       "source": "Every.to",
@@ -202,7 +202,7 @@
     {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-10-24T09:43:15.034Z",
+      "date": "2026-10-24T14:41:28.205Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
@@ -218,6 +218,15 @@
       "source_name": "openai"
     },
     {
+      "title": "Building AI Products: Lessons from the Trenches",
+      "url": "https://every.to/p/building-ai-products",
+      "date": "2026-10-23T14:41:28.205Z",
+      "summary": "Practical insights from builders creating AI-powered products.",
+      "category": "Product",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
       "title": "Securing our frontier model training environment",
       "date": "Fri, 23 Oct 2026 10:00:00 GMT",
       "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
@@ -225,15 +234,6 @@
       "category": "Security",
       "source": "OpenAI News",
       "source_name": "openai"
-    },
-    {
-      "title": "Building AI Products: Lessons from the Trenches",
-      "url": "https://every.to/p/building-ai-products",
-      "date": "2026-10-23T09:43:15.034Z",
-      "summary": "Practical insights from builders creating AI-powered products.",
-      "category": "Product",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
@@ -256,7 +256,7 @@
     {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-10-22T09:43:15.034Z",
+      "date": "2026-10-22T14:41:28.205Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -274,7 +274,7 @@
     {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-10-21T09:43:15.034Z",
+      "date": "2026-10-21T14:41:28.205Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
