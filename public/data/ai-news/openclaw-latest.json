@@ -1,7 +1,7 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-10-27T09:37:05.549Z",
+  "fetch_time": "2026-10-27T13:47:14.965Z",
   "articles": [
     {
       "title": "openclaw 2026.10.10-beta.4",
@@ -11,7 +11,17 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.10.10-beta.4",
-      "downloadCount": 21
+      "downloadCount": 44
+    },
+    {
+      "title": "openclaw 2026.10.8",
+      "date": "2026-10-27T11:56:59Z",
+      "summary": "## 2026.10.8\n\n### Highlights\n\n- **Updates that finish and recover:** an ordinary post-update Doctor failure restarts the Gateway instead of leaving it stopped, an orphaned maintenance worker no longer...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.10.8",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.10.8",
+      "downloadCount": 174
     },
     {
       "title": "openclaw 2026.9.35",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.35",
-      "downloadCount": 40
+      "downloadCount": 57
     },
     {
       "title": "openclaw 2026.10.7",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.10.7",
-      "downloadCount": 25520
+      "downloadCount": 27003
     },
     {
       "title": "openclaw 2026.9.34",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.34",
-      "downloadCount": 147
+      "downloadCount": 151
     },
     {
       "title": "openclaw 2026.10.6",
@@ -51,17 +61,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.10.6",
-      "downloadCount": 20595
-    },
-    {
-      "title": "openclaw 2026.10.10-beta.3",
-      "date": "2026-10-21T07:00:49Z",
-      "summary": "## 2026.10.10-beta.3\n\n### Highlights\n\n- Windows reliability: restore fresh state initialization and Gateway startup, hide SQLite helper windows during app updates, and make forced Gateway reinstalls t...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.10.10-beta.3",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.10.10-beta.3",
-      "downloadCount": 207
+      "downloadCount": 20600
     }
   ],
   "status": "success",
