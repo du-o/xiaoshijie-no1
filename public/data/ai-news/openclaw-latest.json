@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-10-27T04:30:34.574Z",
+  "fetch_time": "2026-10-27T09:37:05.549Z",
   "articles": [
+    {
+      "title": "openclaw 2026.10.10-beta.4",
+      "date": "2026-10-27T05:39:34Z",
+      "summary": "## 2026.10.10-beta.4\n\n### Highlights\n\n### Changes\n\n### Fixes\n\n- Automations: preserve authenticated operator authority for explicit same-conversation scheduled follow-ups, including one-shot `next_che...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.10.10-beta.4",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.10.10-beta.4",
+      "downloadCount": 21
+    },
     {
       "title": "openclaw 2026.9.35",
       "date": "2026-10-27T02:20:41Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.35",
-      "downloadCount": 19
+      "downloadCount": 40
     },
     {
       "title": "openclaw 2026.10.7",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.10.7",
-      "downloadCount": 23850
+      "downloadCount": 25520
     },
     {
       "title": "openclaw 2026.9.34",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.34",
-      "downloadCount": 141
+      "downloadCount": 147
     },
     {
       "title": "openclaw 2026.10.6",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.10.6",
-      "downloadCount": 20594
+      "downloadCount": 20595
     },
     {
       "title": "openclaw 2026.10.10-beta.3",
@@ -52,16 +62,6 @@
       "author": "github-actions[bot]",
       "tagName": "v2026.10.10-beta.3",
       "downloadCount": 207
-    },
-    {
-      "title": "openclaw 2026.10.5",
-      "date": "2026-10-18T21:47:25Z",
-      "summary": "<!-- openclaw-release-publication:docs-v1 -->\n\n## OpenClaw v2026.10.5\n\n2,704 commits · 2,250 pull requests · 638 contributors\n\n### Changes included in this release\n\nThe release notes and changelog con...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.10.5",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.10.5",
-      "downloadCount": 39116
     }
   ],
   "status": "success",
