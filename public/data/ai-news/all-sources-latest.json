@@ -1,71 +1,168 @@
 {
-  "fetch_time": "2026-10-26T17:41:41.387Z",
+  "fetch_time": "2026-10-27T04:30:27.912Z",
   "total_count": 30,
   "sources_count": 6,
   "errors": null,
   "articles": [
     {
+      "title": "FFR完成FFAI机器人业务合并，正式挂牌上市",
+      "date": "Tue, 27 Oct 2026 04:26:39 GMT",
+      "summary": "36氪获悉，Faraday Future官微10月27日宣布，FFR已完成对FFAI机器人的合并交易，所有相关业务及资产已装入FFR，并按计划向FFAI发行并交付了相应普通股及无投票权可转换优先股，此举标志着FFR在纳斯达克挂牌上市。",
+      "url": "https://36kr.com/newsflashes/4043572565087361?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "半日主力资金加仓银行板块，抛售电子板块",
+      "date": "Tue, 27 Oct 2026 04:17:21 GMT",
+      "summary": "主力资金早间净流入银行、机械设备、汽车等板块，净流出电子、医药生物、非银金融等板块。具体到个股来看，雪人集团、光库科技、粤传媒获净流入7.35亿元、7.16亿元、5.78亿元。净流出方面，胜宏科技、新易盛、长鑫科技遭抛售5.49亿元、5.34亿元、4.88亿元。（第一财经）",
+      "url": "https://36kr.com/newsflashes/4043608640328836?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "金马游乐：公司生产经营均处于正常状态",
+      "date": "Tue, 27 Oct 2026 04:10:52 GMT",
+      "summary": "金马游乐近几个交易日股价大跌。从公司获悉，当前公司生产经营均处于正常状态，基本面未发生重大不利变化，不存在应披露而未披露的重大事项。主业端，公司文旅装备业务在手订单保持充沛，国际市场业务保持较快增速，上半年国际业务收入同比增326%，海外拓展成效显著。具身智能新业务稳步推进，智能机器人零售服务店已完成小批量交付，落地国内20余个商业及文旅场地，后续交付节奏符合规划。（证券时报）",
+      "url": "https://36kr.com/newsflashes/4043568827356034?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "恒指午间休盘跌0.14%，恒生科技指数跌0.77%",
+      "date": "Tue, 27 Oct 2026 04:08:01 GMT",
+      "summary": "36氪获悉，恒指午间休盘跌0.14%，恒生科技指数跌0.77%；半导体、板块领涨，晶合集成涨超7%，北方矿业跌超6%，澜起科技涨超4%，华虹宏力涨超2%；医药、电气设备板块跌幅居前，映恩生物跌超29%，康诺亚跌超14%，阳光能源跌超6%，宁德时代跌近3%；南向资金净买入15.51亿港元。",
+      "url": "https://36kr.com/newsflashes/4043605297042308?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "Inverse Modeling for Laser Pulse Shape Design in Inertial Confinement Fusion",
+      "date": "Tue, 27 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.33096v1 Announce Type: new Abstract: The achievement of practical fusion energy remains one of the most pressing unsolved scientific challenges, with immense implications for carbon-free power. A critical factor in the success of Inertial Confinement Fusion (ICF) is the design of a Laser Pulse Shape (LP) that can optimally drive implosions under stringent physical constraints. Traditional LP design relies on computationally expensive simulations and manual iterative refinement. We int",
+      "url": "https://arxiv.org/abs/2610.33096",
+      "category": [
+        "cs.AI",
+        "cs.LG",
+        "cs.SY",
+        "eess.SY",
+        "hep-ex"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "IRON-Meme: A Benchmark for Structured Understanding of Identities and Roles in Online Meme Narratives",
+      "date": "Tue, 27 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.33097v1 Announce Type: new Abstract: As polarization grows on social media, understanding how political memes shape online narratives has become increasingly important. Previous research has relied on either qualitative frameworks that are hard to scale or computational methods that lack theoretical grounding. Both approaches treat narrative categories in isolation and focus exclusively on moral portrayals of identity. To address these limitations, we introduce a framework grounded in",
+      "url": "https://arxiv.org/abs/2610.33097",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Prospect Theory in Large Language Models: A Meta-Analysis of Loss Aversion, Diminishing Sensitivity, and Probability Weighting",
+      "date": "Tue, 27 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.33103v1 Announce Type: new Abstract: Prospect theory splits risky choice into three parts: loss aversion, measured by the relative weight of losses to gains, $\\lambda$ (e.g., $\\lambda = 2$ implies that losses weigh twice as much as gains), diminishing sensitivity to the size of outcomes (i.e., the curvature and linearity of the value function), and the nonlinear weighting of probabilities. I examined whether Large Language Models (LLMs) display the same properties as people by meta-an",
+      "url": "https://arxiv.org/abs/2610.33103",
+      "category": [
+        "cs.AI",
+        "cs.CL",
+        "econ.GN",
+        "q-fin.EC"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Artificial Intelligence in Mechanical Engineering: Foundations, Opportunities, Challenges, and Responsibilities",
+      "date": "Tue, 27 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.33105v1 Announce Type: new Abstract: Artificial intelligence (AI) is reshaping mechanical engineering (ME), from modeling, simulation, and optimization to diagnostics, design, and technical communication. Drawing on a round-table at the 28th ABCM International Congress on Mechanical Engineering (COBEM 2025), this article presents a structured perspective for the Brazilian and international ME communities. Rather than an exhaustive survey, it examines how AI can enhance engineering pra",
+      "url": "https://arxiv.org/abs/2610.33105",
+      "category": [
+        "cs.AI",
+        "cs.CE",
+        "cs.LG",
+        "stat.AP"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Conformance as a Distribution: Delegation Contracts, Error Budgets, and the Allocation of Evaluation Authority in Use-Based AI Regulation",
+      "date": "Tue, 27 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.33112v1 Announce Type: new Abstract: Use-based AI regulation assigns obligations by deployment risk but lacks an evidentiary object to carry them. A benchmark score is a property of a model; conformance of a deployment is a failure rate under a declared distribution of contexts, bounded by a scope and subject to expiry. We take the delegation contract of earlier work (frozen configuration, scoped claim, executable revision rule) and study it under strategic play between a deployer, an",
+      "url": "https://arxiv.org/abs/2610.33112",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Optimal Correction Sets for Provable Redress of Contestable Causal Discovery",
+      "date": "Tue, 27 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.33138v1 Announce Type: new Abstract: Constraint-based causal discovery relies on conditional-independence (CI) tests that may conflict in finite samples, leaving no causal graph that satisfies them all. Causal Assumption-based Argumentation (ABA) makes these tests explicit as defeasible commitments, and offers correspondence guarantees with a subset of them, but its existing repair procedure releases facts heuristically and offers no formal response to a user's contestation of a relea",
+      "url": "https://arxiv.org/abs/2610.33138",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "《智慧货运枢纽基本要求》国家标准发布",
+      "date": "Tue, 27 Oct 2026 03:42:30 GMT",
+      "summary": "36氪获悉，近日，市场监管总局（国家标准委）批准发布《智慧货运枢纽基本要求》（GB/T 48172—2026）国家标准，该标准是我国首个智慧货运枢纽领域国家标准，将自2027年4月1日起实施。该标准的发布实施，将为货运枢纽智慧化升级提供技术指导，助力打通多式联运堵点卡点、降低社会物流成本，支撑国民经济高质量发展。",
+      "url": "https://36kr.com/newsflashes/4043580226507656?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "厦门钨业：将继续围绕产业链开展强链、补链、延链的兼并收购",
+      "date": "Tue, 27 Oct 2026 03:36:26 GMT",
+      "summary": "厦门钨业在2026年第三季度业绩说明会上表示，公司将继续围绕产业链开展强链、补链、延链的兼并收购，进一步丰富工具产品矩阵，提高加工服务与整体解决方案能力。同时，公司也在稳步推进扩产及新建项目，已建成位于泰国的首个切削工具海外生产基地，厦门同安切削工具扩产项目产能逐步释放，成都切削工具项目开始施工，并积极部署海外仓储及销售服务网络，提升全球属地化服务响应与交付效率。（证券时报）",
+      "url": "https://36kr.com/newsflashes/4043568348730241?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "date": "Mon, 26 Oct 2026 22:00:00 GMT",
+      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "category": "Startup",
+      "source": "OpenAI News",
+      "source_name": "openai"
+    },
+    {
       "title": "The State of AI: A Look at What's Next",
       "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-10-26T14:41:28.205Z",
+      "date": "2026-10-26T17:41:37.633Z",
       "summary": "An in-depth analysis of the current AI landscape and future trends.",
       "category": "AI Analysis",
       "source": "Every.to",
       "source_name": "every"
     },
     {
-      "title": "Anthropic上半年营收163亿美元，净亏损807亿美元",
-      "date": "Mon, 26 Oct 2026 13:14:34 GMT",
-      "summary": "Anthropic上半年营收163亿美元，去年同期为12亿美元；上半年净亏损807亿美元。",
-      "url": "https://36kr.com/newsflashes/4042727008031618?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
+      "title": "Working with academic communities to build scientific understanding",
+      "date": "Mon, 26 Oct 2026 14:30:00 GMT",
+      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "category": "Research",
+      "source": "OpenAI News",
+      "source_name": "openai"
     },
     {
-      "title": "Anthropic正式提交纳斯达克IPO申请",
-      "date": "Mon, 26 Oct 2026 13:07:25 GMT",
-      "summary": "Anthropic正式提交纳斯达克IPO申请，股票代码定为“ANT”。",
-      "url": "https://36kr.com/newsflashes/4042719978329218?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "甲骨文推出智能体AI平台，助力加速Fusion Cloud应用实施",
-      "date": "Mon, 26 Oct 2026 12:58:23 GMT",
-      "summary": "甲骨文（Oracle）宣布推出智能体人工智能平台Oracle AI Success Navigator，旨在加快Oracle Fusion Cloud应用的实施与现代化升级。该平台整合专业AI智能体、甲骨文实施经验及指导培训，帮助企业减少人工操作、简化复杂任务并更快实现业务价值。平台新增六类AI智能体，分别用于环境分析、应用设计、配置开发、测试、系统集成和创新机会识别。甲骨文表示，医疗机构Lexington Health在实施过程中，借助该平台的智能体交付方式，已将部分设计和配置工作量减少80%。公司计划继续增加智能体，覆盖更多应用实施与采用场景。（界面）",
-      "url": "https://36kr.com/newsflashes/4042651302318979?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "城堡投资Salame警示AI融资风险：浪潮之下“一些船会沉没”",
-      "date": "Mon, 26 Oct 2026 12:53:35 GMT",
-      "summary": "席卷全球经济的人工智能热潮正在带来深刻变革，但这股浪潮也会在所到之处留下一些“牺牲者” —— 至少，城堡投资联席首席投资官Pablo Salame是这样认为的。Salame在一次罕见的采访中表示，支撑AI革命的巨大资本需求，正与态度谨慎、不愿承担如此大风险的贷款机构发生冲突。他表示，这将迫使追求数倍投资回报的选股投资者与需要确保资金能够收回的债权人之间重新寻求平衡。“信贷市场目前正变得拥堵，因为市场还没有找到一种有效方式来转移这些风险，”Salame说。“AI浪潮虽会水涨船高，但也会让一些船沉没，而且这股浪潮还将充满起伏。”（新浪财经）",
-      "url": "https://36kr.com/newsflashes/4042650558616712?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "新宙邦：第三季度归母净利润5.59亿元，同比增长111.41%",
-      "date": "Mon, 26 Oct 2026 12:49:29 GMT",
-      "summary": "36氪获悉，新宙邦公告，第三季度实现营收46.02亿元，同比增长94.34%；归母净利润5.59亿元，同比增长111.41%。前三季度实现营收120.65亿元，同比增长82.35%；归母净利润15.42亿元，同比增长106.19%。",
-      "url": "https://36kr.com/newsflashes/4042695608145029?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "中国驻英国使馆发言人回应所谓“中国制造业崛起对西方高端产业形成冲击”",
-      "date": "Mon, 26 Oct 2026 12:47:55 GMT",
-      "summary": "36氪获悉，中国驻英国使馆发言人就部分媒体炒作所谓“中国制造业崛起对西方高端产业形成冲击”答记者问表示，欧洲产业的困境根源在于其自身的结构性问题——产业空心化、经济过度金融化、研发投入不足、短期资本逐利导致制造业外迁等。将自身产业困境片面归咎于中国出口，是对自身政策失误的掩盖。中国作为全球制造业供应链的核心环节，长期以来为西方国家提供了大量质优价廉的工业制成品，有效降低了其民众的生活成本、缓解了通胀压力。欧洲的高端装备通过与中国制造业的深度融合，实现了优势互补、利益共享、双向赋能。中国制造业的发展非但没有冲击西方国家，反而为全球经济稳定和西方产业发展提供了重要支撑。",
-      "url": "https://36kr.com/newsflashes/4042700809474947?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "date": "Mon, 26 Oct 2026 13:45:00 GMT",
+      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "category": "Security",
+      "source": "OpenAI News",
+      "source_name": "openai"
     },
     {
       "title": "科学家重现古罗马的分色玻璃",
@@ -75,6 +172,15 @@
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
+    },
+    {
+      "title": "ChatGPT’s expanding world of work",
+      "date": "Mon, 26 Oct 2026 10:00:00 GMT",
+      "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "category": "Research",
+      "source": "OpenAI News",
+      "source_name": "openai"
     },
     {
       "title": "Netflix 用户观看量下降，应用打开量下降",
@@ -113,6 +219,15 @@
       "source_name": "openai"
     },
     {
+      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "date": "Mon, 26 Oct 2026 07:00:00 GMT",
+      "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+      "url": "https://openai.com/index/openai-cut-incident-investigation",
+      "category": "OpenAI on OpenAI",
+      "source": "OpenAI News",
+      "source_name": "openai"
+    },
+    {
       "title": "2025 年老年抚养比首次超过少儿抚养比",
       "date": "Mon, 26 Oct 2026 05:53:02 GMT",
       "summary": "根据国家统计局编著出版的《中国统计年鉴 2026》，2025 年全国 0-14 岁人口 21276 万人，占总人口比重为 15.1%；65 岁及以上人口 22365 万人，占总人口比重为15.9%。2025 年，全国总抚养比为 45.1%，其中少儿抚养比为 22%，老年抚养比为 23.1%，老年抚养比首次超过少儿抚养比。2016 年，我国老年抚养比为 15%，到 2021 年首次突破 20% 达到 20.8%。2024 年老年抚养比升至 22.8%，当年少儿抚养比为 23%、老年抚养比已经十分接近少儿抚养比。至 2025 年老年抚养比首次超过少儿抚养比。此外家庭规模也在持续缩小。今年 5 月公布的《2025 年全国 1% 人口抽样调查主要数据公报》显示，全国共有家庭户 51465 万户，家庭户人口为 129685 万人。平均每个家庭户人口为 2.52 人。在平均每个家庭户人口方面，与 2000 年第五次全国人口普查的 3.44 人相比，25 年来减少 0.92 人。",
@@ -122,64 +237,13 @@
       "source_name": "solidot"
     },
     {
-      "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
-      "date": "Mon, 26 Oct 2026 04:00:00 GMT",
-      "summary": "arXiv:2610.31701v1 Announce Type: new Abstract: Enterprise customer journeys are shaped not only by product experiences and marketing, but also by recurring resource-allocation decisions. In B2B go-to-market (GTM) organizations, territory carving determines which accounts receive seller coverage, which seller-account relationships are preserved, and how limited field capacity is distributed. Yet the process often remains manual, making it difficult to compare opportunities, value continuity, and",
-      "url": "https://arxiv.org/abs/2610.31701",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Phronix: The Capability-Centric Learning Paradigm for Agents",
-      "date": "Mon, 26 Oct 2026 04:00:00 GMT",
-      "summary": "arXiv:2610.31789v1 Announce Type: new Abstract: Scientific computing increasingly relies on large language model-based agents for performance engineering tasks such as instrumentation, analysis, and workflow porting. However, agent effectiveness depends heavily on the surrounding harness, which typically relies on manually written skills and curated memory. This limits autonomous learning, forcing agents to repeatedly rediscover solutions rather than retain and reuse knowledge from prior executi",
-      "url": "https://arxiv.org/abs/2610.31789",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Patronizing and Condescending Language Detection in English and Mandarin",
-      "date": "Mon, 26 Oct 2026 04:00:00 GMT",
-      "summary": "arXiv:2610.31808v1 Announce Type: new Abstract: Patronizing and condescending language (PCL) is a form of harmful language that belittles and assumes pity for vulnerable groups, reinforcing negative societal stereotypes. However, unlike overt hate speech, it is often difficult to detect, even for human judges. This paper proposes a system for the automated detection of PCL. Our first approach uses static word embeddings and a convolutional neural network for classification, while our second appr",
-      "url": "https://arxiv.org/abs/2610.31808",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean",
-      "date": "Mon, 26 Oct 2026 04:00:00 GMT",
-      "summary": "arXiv:2610.31810v1 Announce Type: new Abstract: Even a carefully proofread paper can leave small gaps in its proofs or its stated assumptions. We introduce PaperFormalizer, a Lean-based agentic pipeline that helps authors find and close such gaps in their own papers and turn each paper into a Lean-verified version. Starting from the LaTeX source, PaperFormalizer transcribes the paper into a dependency graph of statements, audits each statement in natural language for faithfulness, ambiguity and ",
-      "url": "https://arxiv.org/abs/2610.31810",
-      "category": [
-        "cs.AI",
-        "cs.LO"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons",
-      "date": "Mon, 26 Oct 2026 04:00:00 GMT",
-      "summary": "arXiv:2610.31846v1 Announce Type: new Abstract: Intelligent agents should learn from their mistakes so that experience leads to continuous improvement. Yet today's agents recover from a mistake only temporarily: in-context reflections are easily forgotten across sessions and compete for limited context, while full-parameter fine-tuning is expensive and can interfere with existing capabilities. We introduce Self-Direction, a mechanism for agents to learn from mistakes that combines the benefits o",
-      "url": "https://arxiv.org/abs/2610.31846",
-      "category": [
-        "cs.AI",
-        "cs.LG"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules",
-      "date": "Mon, 26 Oct 2026 04:00:00 GMT",
-      "summary": "arXiv:2610.31882v1 Announce Type: new Abstract: We present the framework of TACS-RF - a Tool-driven Agentic Circuit Synthesis of RF and mmWave modules. In this framework, a large-language-model (LLM) coding agent (Claude Opus 4.8) directly drives industry-standard electronic-design-automation (EDA) tools such as Cadence Virtuoso/Spectre, Calibre, Cadence EMX, and Ansys HFSS to design RF and mmWave modules. We validate the framework through the agentic design of a 240-251 GHz sub-THz transmitter ",
-      "url": "https://arxiv.org/abs/2610.31882",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
+      "title": "How Startups Are Using AI to Disrupt Industries",
+      "url": "https://every.to/source-code/ai-startups",
+      "date": "2026-10-25T17:41:37.633Z",
+      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
+      "category": "Source Code",
+      "source": "Every.to",
+      "source_name": "every"
     },
     {
       "title": "在 Google 砍伐了上千英亩树后野狼来到芬兰的村庄",
@@ -191,90 +255,36 @@
       "source_name": "solidot"
     },
     {
-      "title": "How Startups Are Using AI to Disrupt Industries",
-      "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-10-25T14:41:28.205Z",
-      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
-      "category": "Source Code",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-10-24T14:41:28.205Z",
+      "date": "2026-10-24T17:41:37.633Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
       "source_name": "every"
     },
     {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "date": "Fri, 23 Oct 2026 17:00:00 GMT",
-      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "category": "Engineering",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-10-23T14:41:28.205Z",
+      "date": "2026-10-23T17:41:37.633Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
       "source_name": "every"
     },
     {
-      "title": "Securing our frontier model training environment",
-      "date": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "category": "Security",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
-      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "date": "Fri, 23 Oct 2026 00:00:00 GMT",
-      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
-      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "category": "Global Affairs",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
-      "title": "Build more responsive apps with the Decisions API",
-      "date": "Thu, 22 Oct 2026 19:00:00 GMT",
-      "summary": "Fast, focused, low-cost decisions for any application.",
-      "url": "https://openai.com/index/decisions-api",
-      "category": "Product",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-10-22T14:41:28.205Z",
+      "date": "2026-10-22T17:41:37.633Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
       "source_name": "every"
     },
     {
-      "title": "What FDE means at OpenAI",
-      "date": "Thu, 22 Oct 2026 06:00:00 GMT",
-      "summary": "What forward deployed engineering means at OpenAI",
-      "url": "https://openai.com/index/forward-deployed-engineering-means",
-      "category": "AI Adoption",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-10-21T14:41:28.205Z",
+      "date": "2026-10-21T17:41:37.633Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",

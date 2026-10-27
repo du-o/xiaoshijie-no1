@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-10-26T17:41:46.376Z",
+  "fetch_time": "2026-10-27T04:30:34.574Z",
   "articles": [
+    {
+      "title": "openclaw 2026.9.35",
+      "date": "2026-10-27T02:20:41Z",
+      "summary": "This is a gateway-only `extended-stable` release, which is our current equivalent to LTS. This release is OpenClaw from the end of September 2026, plus critical security updates, reliability and perfo...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.9.35",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.9.35",
+      "downloadCount": 19
+    },
     {
       "title": "openclaw 2026.10.7",
       "date": "2026-10-24T09:53:46Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.10.7",
-      "downloadCount": 20269
+      "downloadCount": 23850
     },
     {
       "title": "openclaw 2026.9.34",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.34",
-      "downloadCount": 128
+      "downloadCount": 141
     },
     {
       "title": "openclaw 2026.10.6",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.10.6",
-      "downloadCount": 20562
+      "downloadCount": 20594
     },
     {
       "title": "openclaw 2026.10.10-beta.3",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.10.10-beta.3",
-      "downloadCount": 199
+      "downloadCount": 207
     },
     {
       "title": "openclaw 2026.10.5",
@@ -51,17 +61,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.10.5",
-      "downloadCount": 39072
-    },
-    {
-      "title": "openclaw 2026.10.10-beta.2",
-      "date": "2026-10-19T12:23:09Z",
-      "summary": "## 2026.10.10-beta.2\n\n### Highlights\n\n### Changes\n\n### Fixes\n\n- Workspace safety: reject a multi-file `apply_patch` before changing files when a later update target is missing or its context does not ...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.10.10-beta.2",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.10.10-beta.2",
-      "downloadCount": 131
+      "downloadCount": 39116
     }
   ],
   "status": "success",
