@@ -1,64 +1,54 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-10-27T16:54:20.934Z",
+  "fetch_time": "2026-10-28T05:01:38.871Z",
   "articles": [
     {
-      "title": "Inverse Modeling for Laser Pulse Shape Design in Inertial Confinement Fusion",
-      "date": "Tue, 27 Oct 2026 04:00:00 GMT",
-      "summary": "arXiv:2610.33096v1 Announce Type: new Abstract: The achievement of practical fusion energy remains one of the most pressing unsolved scientific challenges, with immense implications for carbon-free power. A critical factor in the success of Inertial Confinement Fusion (ICF) is the design of a Laser Pulse Shape (LP) that can optimally drive implosions under stringent physical constraints. Traditional LP design relies on computationally expensive simulations and manual iterative refinement. We int",
-      "url": "https://arxiv.org/abs/2610.33096",
-      "category": [
-        "cs.AI",
-        "cs.LG",
-        "cs.SY",
-        "eess.SY",
-        "hep-ex"
-      ]
-    },
-    {
-      "title": "IRON-Meme: A Benchmark for Structured Understanding of Identities and Roles in Online Meme Narratives",
-      "date": "Tue, 27 Oct 2026 04:00:00 GMT",
-      "summary": "arXiv:2610.33097v1 Announce Type: new Abstract: As polarization grows on social media, understanding how political memes shape online narratives has become increasingly important. Previous research has relied on either qualitative frameworks that are hard to scale or computational methods that lack theoretical grounding. Both approaches treat narrative categories in isolation and focus exclusively on moral portrayals of identity. To address these limitations, we introduce a framework grounded in",
-      "url": "https://arxiv.org/abs/2610.33097",
+      "title": "Counting the Bandages: On measuring the time that AI saves",
+      "date": "Wed, 28 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.35942v1 Announce Type: new Abstract: I consider what it means for AI assistance to save time. I contrast a stopwatch view, on which time saved is whatever the clock records, with a ledger view, on which it is a counterfactual that has to be read next to the errors the work lets through, and I argue for the latter. The argument has four parts. I define a model-free pair of quantities, time saved and excess escaped defects, and one decision number built from them: the break-even defect ",
+      "url": "https://arxiv.org/abs/2610.35942",
       "category": "cs.AI"
     },
     {
-      "title": "Prospect Theory in Large Language Models: A Meta-Analysis of Loss Aversion, Diminishing Sensitivity, and Probability Weighting",
-      "date": "Tue, 27 Oct 2026 04:00:00 GMT",
-      "summary": "arXiv:2610.33103v1 Announce Type: new Abstract: Prospect theory splits risky choice into three parts: loss aversion, measured by the relative weight of losses to gains, $\\lambda$ (e.g., $\\lambda = 2$ implies that losses weigh twice as much as gains), diminishing sensitivity to the size of outcomes (i.e., the curvature and linearity of the value function), and the nonlinear weighting of probabilities. I examined whether Large Language Models (LLMs) display the same properties as people by meta-an",
-      "url": "https://arxiv.org/abs/2610.33103",
-      "category": [
-        "cs.AI",
-        "cs.CL",
-        "econ.GN",
-        "q-fin.EC"
-      ]
-    },
-    {
-      "title": "Artificial Intelligence in Mechanical Engineering: Foundations, Opportunities, Challenges, and Responsibilities",
-      "date": "Tue, 27 Oct 2026 04:00:00 GMT",
-      "summary": "arXiv:2610.33105v1 Announce Type: new Abstract: Artificial intelligence (AI) is reshaping mechanical engineering (ME), from modeling, simulation, and optimization to diagnostics, design, and technical communication. Drawing on a round-table at the 28th ABCM International Congress on Mechanical Engineering (COBEM 2025), this article presents a structured perspective for the Brazilian and international ME communities. Rather than an exhaustive survey, it examines how AI can enhance engineering pra",
-      "url": "https://arxiv.org/abs/2610.33105",
-      "category": [
-        "cs.AI",
-        "cs.CE",
-        "cs.LG",
-        "stat.AP"
-      ]
-    },
-    {
-      "title": "Conformance as a Distribution: Delegation Contracts, Error Budgets, and the Allocation of Evaluation Authority in Use-Based AI Regulation",
-      "date": "Tue, 27 Oct 2026 04:00:00 GMT",
-      "summary": "arXiv:2610.33112v1 Announce Type: new Abstract: Use-based AI regulation assigns obligations by deployment risk but lacks an evidentiary object to carry them. A benchmark score is a property of a model; conformance of a deployment is a failure rate under a declared distribution of contexts, bounded by a scope and subject to expiry. We take the delegation contract of earlier work (frozen configuration, scoped claim, executable revision rule) and study it under strategic play between a deployer, an",
-      "url": "https://arxiv.org/abs/2610.33112",
+      "title": "Enhancing Deep Learning Model Performance through Data Generation Strategies: Classification of Olive Tree Diseases",
+      "date": "Wed, 28 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.35984v1 Announce Type: new Abstract: Deep learning models are highly effective in a wide range of domains, particu larly in plant disease diagnosis. However, their performance is often limited by challenges such as insufficient data and class imbalance. In our work, we propose a comprehensive data generation strategy to overcome these limitations. First, we apply various data generation techniques, including traditional augmentation methods, CutMix, MixUp, and synthetic image generati",
+      "url": "https://arxiv.org/abs/2610.35984",
       "category": "cs.AI"
     },
     {
-      "title": "Optimal Correction Sets for Provable Redress of Contestable Causal Discovery",
-      "date": "Tue, 27 Oct 2026 04:00:00 GMT",
-      "summary": "arXiv:2610.33138v1 Announce Type: new Abstract: Constraint-based causal discovery relies on conditional-independence (CI) tests that may conflict in finite samples, leaving no causal graph that satisfies them all. Causal Assumption-based Argumentation (ABA) makes these tests explicit as defeasible commitments, and offers correspondence guarantees with a subset of them, but its existing repair procedure releases facts heuristically and offers no formal response to a user's contestation of a relea",
-      "url": "https://arxiv.org/abs/2610.33138",
+      "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
+      "date": "Wed, 28 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.36077v1 Announce Type: new Abstract: Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction. However, scaling this process faces two bottlenecks: constructing heterogeneous, verifiable environments is costly, and manual Harness iteration cannot keep pace with growing task diversity and complexity. A key insight is that tasks with different modalities and surface forms can share the same underlying capability requirements. We th",
+      "url": "https://arxiv.org/abs/2610.36077",
+      "category": [
+        "cs.AI",
+        "cs.CV"
+      ]
+    },
+    {
+      "title": "CohortFlow: A Steerable Clinical Cohort Curation Agent with Localized Semantic Correction",
+      "date": "Wed, 28 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.36100v1 Announce Type: new Abstract: Language model agents for clinical cohort curation should accommodate evolving eligibility criteria without repeatedly processing unchanged requirements. We introduce CohortFlow, a steerable agent that represents natural language corrections as localized updates to a structured cohort specification and reconciles them with a persistent execution graph. Explicitly recorded semantic dependencies enable affected computations to be selectively invalida",
+      "url": "https://arxiv.org/abs/2610.36100",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Why and How to Do Science When AI Is Better at It: A Framework Grounded in Human Understanding and Direction",
+      "date": "Wed, 28 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.36116v1 Announce Type: new Abstract: As AI begins to match or exceed human researchers at core scientific tasks, two questions become pressing: \\emph{why} should humans keep doing science, and \\emph{how} should they use AI when they do? This paper argues that the second can be answered only by answering the first. It holds that one indispensable aim of science is \\emph{durable, collective human understanding of the world, pursued in service of human ends and values}. From this princip",
+      "url": "https://arxiv.org/abs/2610.36116",
+      "category": [
+        "cs.AI",
+        "cs.CY"
+      ]
+    },
+    {
+      "title": "From Structural Feedback to Prompt Policies: Learning Faithful Text-to-Image Prompt Editors",
+      "date": "Wed, 28 Oct 2026 04:00:00 GMT",
+      "summary": "arXiv:2610.36146v1 Announce Type: new Abstract: Prompt optimization should improve the image a user receives without changing the scene the user requested. Yet stylistic rewriting can weaken object attributes and relations even when global text--image similarity remains high. We propose StruPO, a structure-aware prompt editor that uses a calibrated scene graph as a shared representation for policy conditioning and image-grounded supervision. The graph exposes what should be preserved, while dele",
+      "url": "https://arxiv.org/abs/2610.36146",
       "category": "cs.AI"
     }
   ],
