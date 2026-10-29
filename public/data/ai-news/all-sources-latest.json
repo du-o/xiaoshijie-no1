@@ -1,9 +1,45 @@
 {
-  "fetch_time": "2026-10-29T14:48:10.435Z",
+  "fetch_time": "2026-10-29T17:38:19.021Z",
   "total_count": 24,
   "sources_count": 6,
   "errors": null,
   "articles": [
+    {
+      "title": "Google AI 搜索产生的收入低于传统搜索",
+      "date": "Thu, 29 Oct 2026 15:19:44 GMT",
+      "summary": "Google/Alphabet 在公布第三季度财报之后股价下跌了近 10%，原因是搜索巨人披露 AI 搜索产生的收入低于传统搜索，尽管其整体搜索业务收入同比增长 12% 达到 632.5 亿美元。搜索业务增速略低于去年第三季度的 14.5% ，Alphabet 首席商务官 Philipp Schindler 称，搜索业务增长放缓的原因在于“我们观察到 AI Mode 变现能力较低”。为推动 AI 业务 Google 同时在基础设施上投入巨额资金。第三季度公司支出达 514 亿美元，其中约三分之二用于服务器和网络设备，其余部分则用于数据中心建设。巨额支出影响了盈利能力：Alphabet 本季度净利润为 261.7 亿美元；去年第三季度在 Google 营收为 1023.5 亿美元的情况下净利润达到 350 亿美元。Schindler 认为，AI 搜索终将带来回报。",
+      "url": "https://www.solidot.org/story?sid=85748",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "研究发现非英语的 token 成本更高",
+      "date": "Thu, 29 Oct 2026 15:10:38 GMT",
+      "summary": "Coalition for Language Equity in AI Research 上个月发表的一项研究发现，AI 模型处理部分语言提示所需的 token 量远超英语。研究人员称之为隐性 token 税，意味着小语种用户的 AI 成本更高。研究发现，即使互联网最流行的 20 种语言，token 使用量也存在差异。最昂贵语言使用的 token 数量是最便宜语言的 1.5-5 倍。当研究人员将范围扩大到 200 种语言，差异进一步扩大，一个 AI 模型的 token 成本差距甚至增加了 17 倍。研究指出：位于班加罗尔的初创公司可能需要为每次提示和完成支付附加费，而其位于奥斯汀的竞争对手则无需支付。token 税的影响远不止成本。token 数量越多，延迟就越高，有效上下文容量就越低。在计算和连接本就有限的地区，这些惩罚最为严重。token 不公平限制了 AI 经济的参与范围。",
+      "url": "https://www.solidot.org/story?sid=85747",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "以色列耶路撒冷爆发麻疹疫情",
+      "date": "Thu, 29 Oct 2026 14:57:55 GMT",
+      "summary": "一项统计数字显示，以色列耶路撒冷极端正统派犹太人居住的多个社区其麻疹疫苗接种率仅为 55.0%，这些地方最近爆发了麻疹疫情，感染麻疹的人绝大多数都是5 岁以下未接种儿童，有多人死亡。耶路撒冷是以色列最大城市，2025 年人口约为 100 万，其中 60 万是犹太人，40 万是阿拉伯人。而犹太人中间 50.0% 属于极端正统派。耶路撒冷的麻疹疫苗接种率已从 2019 年的 94.7% 降至 2024 年的 78.3%。在市中心 6 个极端正统派居住的社区，2025 年麻疹疫苗接种率仅为 55.0%。2025 年 4 月-2026 年 3 月期间耶路撒冷共报告麻疹病例 1,289 例，有 11 人死亡，6 个社区人口为 67,500 人，5 岁以下儿童人口数量占到了全市儿童总数的 6.8%，但麻疹病例占到了 71.9%，死亡率为每 10 万人 80.1 人死亡。研究人员强调了疫苗接种的重要性，称疫苗接种是控制麻疹疫情的主要手段。",
+      "url": "https://www.solidot.org/story?sid=85746",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "The State of AI: A Look at What's Next",
+      "url": "https://every.to/p/the-state-of-ai",
+      "date": "2026-10-29T14:48:07.254Z",
+      "summary": "An in-depth analysis of the current AI landscape and future trends.",
+      "category": "AI Analysis",
+      "source": "Every.to",
+      "source_name": "every"
+    },
     {
       "title": "部署态加速，智元要打通物理AI全链路",
       "date": "Thu, 29 Oct 2026 14:25:57 GMT",
@@ -59,15 +95,6 @@
       "source_name": "36kr"
     },
     {
-      "title": "The State of AI: A Look at What's Next",
-      "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-10-29T10:42:49.169Z",
-      "summary": "An in-depth analysis of the current AI landscape and future trends.",
-      "category": "AI Analysis",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
       "title": "乌鸦视觉决策速度两倍于人类",
       "date": "Thu, 29 Oct 2026 10:31:38 GMT",
       "summary": "德国蒂宾根大学开展的一项新研究显示，在进行视觉选择任务时，乌鸦的决策速度约为人类和猴子等灵长类动物的两倍。实验中，两只小嘴乌鸦平均只需 235 毫秒即可识别屏幕上点阵的运动方向并作出选择，同时保持较高准确率。为探究其机制，团队记录了乌鸦大脑中与灵长类前额叶皮层功能相当的关键区域——尾侧新纹状体的神经元活动。视觉刺激出现后约 70 毫秒，乌鸦大脑中编码不同运动方向的神经元信号便开始分化，这一变化远早于乌鸦作出实际反应。随着决策逐步形成，相关神经活动逐渐增强，直至达到决策阈值，乌鸦随即作出选择。神经元活动既反映了视觉信息的强度，也对应了最终选择的方向。团队认为，这种高速决策能力可能与鸟类在飞行、觅食和躲避天敌过程中，对快速视觉处理的进化需求有关。",
@@ -95,31 +122,22 @@
       "source_name": "solidot"
     },
     {
-      "title": "美银建议客户不要与 AI 助手共享银行账号密码",
-      "date": "Thu, 29 Oct 2026 07:54:20 GMT",
-      "summary": "美国银行（Bank of America）向客户群发电子邮件，邮件主题是《Protecting your finances in the Al World》，督促客户不要与他人或外部服务机构共享其用户名和密码，其中也包括声称可代客户行事的 AI 工具或智能体。共享银行账号一旦出事，那么后果将由客户自己承担。大多数银行的账户协议都规定，如果客户将登录凭证提供给他人，那么由此产生的一切后果均由客户负责。美银邮件指出：“如果您确实共享了您的登录凭证，请务必记住，由此产生的任何账户活动，您都需承担相应责任。”",
-      "url": "https://www.solidot.org/story?sid=85742",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
+      "title": "How we detect frontier model misalignment",
+      "date": "Thu, 29 Oct 2026 09:00:00 GMT",
+      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "category": "Security",
+      "source": "OpenAI News",
+      "source_name": "openai"
     },
     {
-      "title": "Valve 无意对 AI Slop 和克隆游戏采取行动",
-      "date": "Thu, 29 Oct 2026 07:30:57 GMT",
-      "summary": "对于玩家对 Steam 平台涌入大量 AI Slop 游戏，以及开发商担心其游戏创意被克隆的担忧，Valve 的员工在韩国举行的活动 Steam Indie Connect 上对此做出了回应，该公司的立场是无意采取行动。来自 Steam Business Team 团队的 Tom Giardino 称，Valve 的原则是它不想成为限制开发者使用哪些工具的守门人，是否使用 AI 由游戏开发商自己决定。在生成式 AI 流行前，克隆游戏创意就已经存在，AI 只是加速了这一进程。Giardino 给游戏开发商的建议是不依赖单一创意，为游戏加入更多功能、个性和创意。另一名 Valve 员工 Marc Wilkinson 谈论了 Steam 最近举行的游戏新品节涌入了逾 7000 款游戏，其中可能有半数被认为 AI Slop。Wilkinson 介绍了新品节的展示机制，在活动前两天游戏随机呈现给玩家，之后系统会提供个性化的推荐，推荐更多玩家可能会喜欢并购买的游戏。他指出大多批评 AI Slop 的文章只是基于活动前两天的体验写的。",
-      "url": "https://www.solidot.org/story?sid=85741",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "FTC 批准亚马逊以 115 亿美元收购 Globalstar",
-      "date": "Thu, 29 Oct 2026 07:08:52 GMT",
-      "summary": "FTC 批准亚马逊以 115 亿美元收购 Globalstar。这笔交易为亚马逊的宽带卫星服务 Amazon Leo 提供了额外的基础设施和频谱资源，帮助拓展了卫星直连设备业务。苹果持有 Globalstar 五分之一的股份，作为交易的一部分，苹果与亚马逊达成协议，Amazon Leo 将为 iPhone 和 Apple Watch 提供卫星服务，包括通过卫星提供紧急 SOS 求救服务。亚马逊目前在轨宽带卫星数量已经达到 400 颗，该公司计划年底启动服务。",
-      "url": "https://www.solidot.org/story?sid=85740",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
+      "title": "How Startups Are Using AI to Disrupt Industries",
+      "url": "https://every.to/source-code/ai-startups",
+      "date": "2026-10-28T14:48:07.254Z",
+      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
+      "category": "Source Code",
+      "source": "Every.to",
+      "source_name": "every"
     },
     {
       "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
@@ -129,15 +147,6 @@
       "category": "Company",
       "source": "OpenAI News",
       "source_name": "openai"
-    },
-    {
-      "title": "How Startups Are Using AI to Disrupt Industries",
-      "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-10-28T10:42:49.169Z",
-      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
-      "category": "Source Code",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "The future of the firm",
@@ -169,7 +178,7 @@
     {
       "title": "The Future of Work in an AI-Driven World",
       "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-10-27T10:42:49.169Z",
+      "date": "2026-10-27T14:48:07.254Z",
       "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
       "category": "Context Window",
       "source": "Every.to",
@@ -185,18 +194,9 @@
       "source_name": "openai"
     },
     {
-      "title": "How Check Point accelerates vulnerability research with Daybreak",
-      "date": "Tue, 27 Oct 2026 00:00:00 GMT",
-      "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
-      "url": "https://openai.com/index/check-point-daybreak",
-      "category": "",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
       "title": "Building AI Products: Lessons from the Trenches",
       "url": "https://every.to/p/building-ai-products",
-      "date": "2026-10-26T10:42:49.169Z",
+      "date": "2026-10-26T14:48:07.254Z",
       "summary": "Practical insights from builders creating AI-powered products.",
       "category": "Product",
       "source": "Every.to",
@@ -205,7 +205,7 @@
     {
       "title": "AI Agents: The Next Evolution of Automation",
       "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-10-25T10:42:49.169Z",
+      "date": "2026-10-25T14:48:07.254Z",
       "summary": "Understanding autonomous AI agents and their potential impact on software.",
       "category": "Source Code",
       "source": "Every.to",
@@ -214,7 +214,7 @@
     {
       "title": "The Economics of AI: Costs, Benefits, and ROI",
       "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-10-24T10:42:49.169Z",
+      "date": "2026-10-24T14:48:07.254Z",
       "summary": "A deep dive into the financial aspects of implementing AI solutions.",
       "category": "Context Window",
       "source": "Every.to",
