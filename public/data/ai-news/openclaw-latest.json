@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-10-29T17:38:24.228Z",
+  "fetch_time": "2026-10-30T05:14:09.995Z",
   "articles": [
+    {
+      "title": "openclaw 2026.10.10-beta.5",
+      "date": "2026-10-30T03:57:14Z",
+      "summary": "## 2026.10.10-beta.5\n\n### Highlights\n\n- Node compatibility: installs and updates work again on Node `>=24.16.0 <25 || >=26.1.0`; Node 24.22.1 or 26.12.1 is now a security recommendation instead of a h...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.10.10-beta.5",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.10.10-beta.5",
+      "downloadCount": 23
+    },
     {
       "title": "openclaw 2026.10.9",
       "date": "2026-10-29T15:54:35Z",
@@ -11,7 +21,17 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.10.9",
-      "downloadCount": 693
+      "downloadCount": 5928
+    },
+    {
+      "title": "openclaw 2026.9.36",
+      "date": "2026-10-29T20:19:38Z",
+      "summary": "This is a gateway-only `extended-stable` release, which is our current equivalent to LTS. This release is OpenClaw from the end of September 2026, plus critical security updates, reliability and perfo...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.9.36",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.9.36",
+      "downloadCount": 58
     },
     {
       "title": "openclaw 2026.10.10-beta.4",
@@ -21,7 +41,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.10.10-beta.4",
-      "downloadCount": 172
+      "downloadCount": 184
     },
     {
       "title": "openclaw 2026.10.8",
@@ -31,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.10.8",
-      "downloadCount": 20274
+      "downloadCount": 20398
     },
     {
       "title": "openclaw 2026.9.35",
@@ -41,27 +61,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.35",
-      "downloadCount": 103
-    },
-    {
-      "title": "openclaw 2026.10.7",
-      "date": "2026-10-24T09:53:46Z",
-      "summary": "## 2026.10.7\n\n### Highlights\n\n- **Replay-safe session recovery:** interrupted sessions now retain recovery provenance and unfinished tool outcomes, stopped conversations retire terminal recovery resid...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.10.7",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.10.7",
-      "downloadCount": 29608
-    },
-    {
-      "title": "openclaw 2026.9.34",
-      "date": "2026-10-24T11:38:56Z",
-      "summary": "This is a gateway-only `extended-stable` release, which is our current equivalent to LTS. This release is OpenClaw from the end of September 2026, plus critical security updates, reliability and perfo...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.9.34",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.9.34",
-      "downloadCount": 178
+      "downloadCount": 109
     }
   ],
   "status": "success",
