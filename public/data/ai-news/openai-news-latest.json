@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-10-30T14:42:16.999Z",
+  "fetch_time": "2026-10-30T17:16:44.397Z",
   "articles": [
+    {
+      "title": "Community safety report and new protections for teens",
+      "date": "Fri, 30 Oct 2026 09:00:00 GMT",
+      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "category": "Safety"
+    },
     {
       "title": "An updated Model Spec for more capable and beneficial AI",
       "date": "Thu, 29 Oct 2026 17:00:00 GMT",
@@ -25,25 +32,18 @@
       "category": ""
     },
     {
+      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "date": "Thu, 29 Oct 2026 00:00:00 GMT",
+      "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
+      "url": "https://openai.com/index/credit-saison",
+      "category": ""
+    },
+    {
       "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
       "date": "Wed, 28 Oct 2026 13:15:00 GMT",
       "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
       "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
       "category": "Company"
-    },
-    {
-      "title": "The future of the firm",
-      "date": "Wed, 28 Oct 2026 10:00:00 GMT",
-      "summary": "How AI might enter the org chart—beneath, beside, and between us.",
-      "url": "https://openai.com/index/the-future-of-the-firm",
-      "category": "Intelligence Age"
-    },
-    {
-      "title": "Legora is building the agentic operating system for legal work",
-      "date": "Wed, 28 Oct 2026 09:30:00 GMT",
-      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-      "url": "https://openai.com/index/legora",
-      "category": ""
     }
   ],
   "status": "success",
