@@ -1,62 +1,143 @@
 {
-  "fetch_time": "2026-10-30T10:43:11.935Z",
+  "fetch_time": "2026-10-30T14:42:22.256Z",
   "total_count": 24,
   "sources_count": 6,
   "errors": null,
   "articles": [
     {
-      "title": "地瓜机器人与宇树科技联合推出具身智能教育解决方案",
-      "date": "Fri, 30 Oct 2026 10:39:39 GMT",
-      "summary": "36氪获悉，在长沙教育装备展上，地瓜机器人与宇树科技首次以联合参展形式亮相，宣布达成战略合作。双方以旭日S100算力盒为核心算力底座，结合宇树科技Go2四足机器人、R1人形机器人，联合推出具身智能教育解决方案，涵盖硬件设备、课程体系、课赛融合实践项目及教学环境建设，为中小学系统开展具身智能教育提供完整支持。双方将以教育为首个合作落地场景，共同打造可复制、可推广的区域机器人教育示范样板，并计划进一步向工业等更多场景拓展合作。",
-      "url": "https://36kr.com/newsflashes/4048229422201089?f=rss",
+      "title": "Claude Code for VS Code 官方扩展被植入后门",
+      "date": "Fri, 30 Oct 2026 13:43:51 GMT",
+      "summary": "安全研究人员在 Cursor Marketplace 的 Claude Code for VS Code 官方扩展中发现了后门，该恶意版本已经撤下，攻击者也关闭了其服务器。Cursor 已发布安全公告，但 Claude Code 开发商 Anthropic 尚未做出任何声明。受影响的版本是 Anthropic.claude-code 2.1.313，共上线了大约 11 小时，受影响用户估计有 5,000 名，该扩展会试图植入一个持久 SSH 后门。恶意扩展会：收集主机和用户信息：主机名、用户名、操作系统、架构、主目录路径、环境变量名称、工作目录、已配置的 Git 邮箱以及公网 IP。尝试将攻击者控制的 SSH 键添加到 authorized_keys，启用本地 SSH 服务，并建立反向 SSH 隧道。由于恶意代码存在 bug，除非 Cursor 是以管理员权限启动的 (这种情况极为罕见) ，否则这一步会失败。尝试通过 LaunchAgent (macOS) 或计划任务 (Windows，该任务会尝试以 SYSTEM 身份运行，并以启动脚本作为回退) 使反向 SSH 隧道长期生效。后台脚",
+      "url": "https://www.solidot.org/story?sid=85756",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "热门中概股美股盘前多数下跌，百度跌超2%",
+      "date": "Fri, 30 Oct 2026 13:00:43 GMT",
+      "summary": "36氪获悉，热门中概股美股盘前多数下跌，截至发稿，百度、小鹏集团跌超2%，蔚来跌超1%，阿里巴巴跌0.85%，理想汽车跌0.81%，哔哩哔哩跌0.7%，京东跌0.31%，网易涨0.45%，拼多多涨0.34%。",
+      "url": "https://36kr.com/newsflashes/4048375707007236?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "沐曦股份：前三季度净利润6.39亿元，扭亏为盈",
-      "date": "Fri, 30 Oct 2026 10:37:46 GMT",
-      "summary": "36氪获悉，沐曦股份公告，2026年前三季度营业收入28.24亿元，同比增长128.45%；归母净利润6.39亿元，扣非归母净利润2.59亿元，同比双双实现扭亏。其中第三季度单季实现营业收入15亿元，同比增长367.12%；扣非归母净利润3.08亿元，连续两个季度实现单季扣非盈利。公告显示，报告期内公司产品及服务持续获得下游客户广泛认可与采购，GPU产品出货量显著提升，带动营业收入快速增长。随着产品销售规模持续扩大，公司主营业务盈利能力进一步提升。",
-      "url": "https://36kr.com/newsflashes/4048235182553346?f=rss",
+      "title": "美股大型科技股盘前普跌，英特尔跌超25%",
+      "date": "Fri, 30 Oct 2026 12:57:29 GMT",
+      "summary": "36氪获悉，美股大型科技股盘前普跌，截至发稿，英特尔跌超25%，闪迪跌超9%，亚马逊、SK海力士跌超7%，美光科技跌超6%，特斯拉跌超2%，Meta、谷歌跌超1%，苹果跌0.99%，微软跌0.3%。",
+      "url": "https://36kr.com/newsflashes/4048372528183812?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "芯原股份：第三季度净亏损2.57亿元",
-      "date": "Fri, 30 Oct 2026 10:36:48 GMT",
-      "summary": "36氪获悉，芯原股份公告，2026年第三季度营业收入13.17亿元，同比增长2.85%；归母净亏损2.57亿元，扣非净利润亏损2.62亿元。2026年前三季度营业收入31.81亿元，同比增长41.08%；归母净利润亏损8.69亿元，扣非净利润亏损8.84亿元。",
-      "url": "https://36kr.com/newsflashes/4048234231298313?f=rss",
+      "title": "三星电子拟向三星显示收购TCL华星10.16%股权，交易额超9.5亿美元",
+      "date": "Fri, 30 Oct 2026 12:54:39 GMT",
+      "summary": "三星电子10月30日提交监管文件披露，将斥资近1.27万亿韩元（约合9.5亿美元）从三星显示手中收购TCL华星10.16%的股权。三星电子表示，此次收购旨在加强战略合作关系。（界面）",
+      "url": "https://36kr.com/newsflashes/4048361437264384?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "深交所：本周共对113起证券异常交易行为采取自律监管措施",
-      "date": "Fri, 30 Oct 2026 10:35:44 GMT",
-      "summary": "36氪获悉，深交所公告，2026年10月26日至10月30日，深交所共对113起证券异常交易行为采取了自律监管措施，涉及盘中拉抬打压、虚假申报等异常交易情形；共对4起上市公司重大事项进行核查。",
-      "url": "https://36kr.com/newsflashes/4048218673592579?f=rss",
+      "title": "奥精医疗：预计无法按期披露2026年第三季度报告",
+      "date": "Fri, 30 Oct 2026 12:49:45 GMT",
+      "summary": "36氪获悉，奥精医疗公告，公司原定于2026年10月31日披露第三季度报告，因数据核算工作量较大，相关自查核实及财务数据影响测算尚未完成，预计无法在法定期限内披露。公司需对前期财务数据进行复核，或将涉及前期会计差错更正，导致编制及复核工作延迟。公司已将披露时间延期至2026年12月31日前，并提示投资者注意风险。",
+      "url": "https://36kr.com/newsflashes/4048360892594437?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "贵州茅台：第三季度营业收入402.67亿元，同比增3.08%",
-      "date": "Fri, 30 Oct 2026 10:34:31 GMT",
-      "summary": "36氪获悉，贵州茅台公告，2026年前三季度营业收入1309.71亿元，同比增1.96%；归母净利润644.67亿元，同比下降0.25%。第三季度营业收入402.67亿元，同比增3.08%；归母净利润199.51亿元，同比增3.78%。",
-      "url": "https://36kr.com/newsflashes/4048231978154505?f=rss",
+      "title": "工业富联：拟推不超20亿元员工持股计划",
+      "date": "Fri, 30 Oct 2026 12:44:51 GMT",
+      "summary": "36氪获悉，工业富联公告，公司发布2026年员工持股计划草案，拟筹集资金总额不超过20亿元，参与总人数不超过1.2万人，股票来源为二级市场购买。该计划存续期不超过84个月，分三期解锁，解锁比例分别为50%、30%、20%，并设定了2027-2029年净利润累计不低于2400亿元的业绩考核目标。",
+      "url": "https://36kr.com/newsflashes/4048360106113541?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "日本半年多来约2.6亿人次个人信息被泄露",
-      "date": "Fri, 30 Oct 2026 10:30:23 GMT",
-      "summary": "日本个人信息保护委员会日前公布的数据显示，本财年（2026年4月至2027年3月）开始以来，日本已有约2.6亿人次个人信息被泄露，这个数量约相当于日本人口数量的2倍。相关统计数据显示，从今年4月1日至10月16日，共报告非法访问个人信息事件2094件，导致约2.6亿人次个人信息被泄露。其中，导致1000万人次以上个人信息被泄露的事件有6件。（新华社）",
-      "url": "https://36kr.com/newsflashes/4048216215124484?f=rss",
+      "title": "币安开始回补受影响资产，已预留63.4亿美元",
+      "date": "Fri, 30 Oct 2026 12:40:04 GMT",
+      "summary": "币安在社交平台发帖称，已预留逾63.4亿美元公司资金用于应对此次安全事件，其中50亿美元已经以受影响的对应代币持有。币安正在通过市场及场外交易渠道购买代币资产，以完成剩余部分的回补。这一过程旨在匹配剩余受影响资产的代币种类，并弥补资产缺口，因此可能需要较长时间。（新浪财经）",
+      "url": "https://36kr.com/newsflashes/4048342653663494?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
+    },
+    {
+      "title": "LibreOffice 项目递交的代码发现使用LLM 的明确标记",
+      "date": "Fri, 30 Oct 2026 10:45:38 GMT",
+      "summary": "开发 LibreOffice 的 The Document Foundation(TDF)此前表示这款办公软件不会内置 AI 功能，其核心开发者也不使用 LLM 等 AI 辅助编程工具。但向该项目贡献代码的社区开发者未必会遵守该规定。对今年递交到 LibreOffice 的代码的分析显示至少由三处明确提及使用 LLM。社区开发者在代码中提及他们使用了 Claude 或 GitHub Copilot 等工具。这一结果并不出人意料，大型开源项目基本上不太可能完全避开 LLM。TDF 对这一发现回应称，他们确实要求贡献者在使用 LLM 时必须进行披露，且总体上并不鼓励使用 LLM。和 Debian 类似，LibreOffice 要求开发者理解自己的代码，确保代码质量。",
+      "url": "https://www.solidot.org/story?sid=85755",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "My First W eek With an AI Coworker Plus: Why we’re skipping GPT-6.1 Terra for Gemini 4 Argon, and a prompt that keeps track of what you owe people",
+      "url": "https://every.to/context-window/my-first-week-with-an-ai-coworker",
+      "date": "2026-10-30T10:43:14.307Z",
+      "summary": "",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Every Model Has a Six-month S helf Life Now Plus: The shoggoth strategy for generalists, moving your website off Webflow with Claude, and what the Every team couldn't stop talking about.",
+      "url": "https://every.to/context-window/every-model-has-a-six-month-shelf-life-now",
+      "date": "2026-10-30T10:43:14.307Z",
+      "summary": "",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "How to Get AI Agents to R ecommend Your Articles The seven rules for getting Claude and ChatGPT to cite you based on 2,484 tests",
+      "url": "https://every.to/also-true-for-humans/how-to-get-ai-agents-to-recommend-your-articles",
+      "date": "2026-10-30T10:43:14.307Z",
+      "summary": "",
+      "category": "Also True for Humans",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Is Anthropic W orth $2 Trillion? Its IPO filing reveals a remarkable business—and how much has to go right to justify its price",
+      "url": "https://every.to/napkin-math/is-anthropic-worth-2-trillion",
+      "date": "2026-10-30T10:43:14.307Z",
+      "summary": "",
+      "category": "Every",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Anthropic’s D uet Gets to Work Plus: Why Plus One gave way to a shared agent, our frontier team’s latest experiments, and Mike Taylor's new book on DSPy",
+      "url": "https://every.to/context-window/anthropic-s-duet-gets-to-work",
+      "date": "2026-10-30T10:43:14.307Z",
+      "summary": "",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Dots: A Guide for Putting OpenAI’s A lways-on Agents to Work How Every’s team uses Dots to catch mistakes, answer email, book appointments, and run tasks from Slack",
+      "url": "https://every.to/guides/openai-dots-guide",
+      "date": "2026-10-30T10:43:14.307Z",
+      "summary": "",
+      "category": "Every",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "芬兰对 Google 砍伐 25 万颗树展开调查",
+      "date": "Fri, 30 Oct 2026 10:25:44 GMT",
+      "summary": "作为 130 亿欧元投资计划的一部分，Google 正在芬兰的 Muhos 和 Kajaani-Otanmäki 建造两座数据中心。上周芬兰监管机构以未完成必要的环评为由下令工程停工。Google 芬兰子公司 Tuike Finland 遵守了命令。应监管机构的要求，Oulu 警方针对 Muhos 数据中心建设工地的活动（Google 在当地砍伐了 25 万颗树）展开初步调查。警方表示，此案正以涉嫌环境损害这一刑事罪名进行调查。警方指出，随着调查的深入，未来可能会明确其他潜在的指控。警方称，根据目前掌握的信息，数据中心项目工地在排水和水资源管理方面存在违规及缺陷。警方表示，初步调查工作力争在 2027 年内完成。",
+      "url": "https://www.solidot.org/story?sid=85754",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
     },
     {
       "title": "Reddit 将强制要求所有用户登录",
@@ -86,78 +167,6 @@
       "source_name": "solidot"
     },
     {
-      "title": "Patrick Stewart 去世，享年 86 岁",
-      "date": "Fri, 30 Oct 2026 06:57:44 GMT",
-      "summary": "演艺生涯横跨舞台与银幕逾 60 年的英国演员 Patrick Stewart 去世，享年 86 岁。他最为人熟知的角色是在《星际迷航》系列中扮演 Jean-Luc Picard 舰长以及在《 X 战警》系列扮演 X 教授。Patrick Stewart 的职业生涯始于戏剧，于 1966 年加入皇家莎士比亚剧团，于1971年凭借《仲夏夜之梦》的演出首次登上百老汇剧院舞台。1987 年出演《星际迷航：下一代》，2000 年出演《 X 战警》。他还参加了至少 25 部游戏，其中最知名的是在《上古卷轴IV：湮没》中为皇帝 Uriel 配音。2010 年因对戏剧界的贡献，获英国女王伊丽莎白二世授予下级勋位爵士。",
-      "url": "https://www.solidot.org/story?sid=85750",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "币安多达 30 亿美元数字货币被盗",
-      "date": "Fri, 30 Oct 2026 06:21:52 GMT",
-      "summary": "黑客从全球最大加密货币交易所币安的多个热钱包里转移了价值约 55 亿美元的加密货币资产，部分加密货币已被稳定币发行方冻结，但黑客手中仍然掌握着多达 30 亿美元的加密货币。在被盗的 55 亿美元的加密货币中，Tether 冻结了被盗的 17.68 亿美元 USDT 中的至少 15.67 亿美元，Circle 冻结了被盗的 8.23 亿美元中的 8 亿美元。World Liberty Financial 冻结了 2700 万美元 USD1，Arbitrum 冻结了 3050 万美元。币安创始人赵长鹏在社交媒体上对 Tether 和 Circle 表示了感谢，他声称作为币安股东，向客户承诺所有被盗资金都将得到全额赔付。他表示币安的损失可能超过 10 亿美元。币安托管的加密货币资产规模为 1440 亿美元，其应急基金规模约 13 亿美元，除非能追回更多资金，否则币安将需要动用自己数十亿美元的资产。",
-      "url": "https://www.solidot.org/story?sid=85749",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "Anthropic’s D uet Gets to Work Plus: Why Plus One gave way to a shared agent, our frontier team’s latest experiments, and Mike Taylor's new book on DSPy",
-      "url": "https://every.to/context-window/anthropic-s-duet-gets-to-work?utm_cta_source=newsletter_main_anthropic_s_duet_gets_to_workplus_why_plus_one_gave_way_to_a_shared_agent_our_frontier_team_s_latest_1",
-      "date": "2026-10-30T05:14:08.632Z",
-      "summary": "",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Dots: A Guide for Putting OpenAI’s A lways-on Agents to Work How Every’s team uses Dots to catch mistakes, answer email, book appointments, and run tasks from Slack",
-      "url": "https://every.to/guides/openai-dots-guide?utm_cta_source=newsletter_main_dots_a_guide_for_putting_openai_s_always_on_agents_to_workhow_every_s_team_uses_dots_to_catch_mistak_1",
-      "date": "2026-10-30T05:14:08.632Z",
-      "summary": "",
-      "category": "Every",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "My First W eek With an AI Coworker Plus: Why we’re skipping GPT-6.1 Terra for Gemini 4 Argon, and a prompt that keeps track of what you owe people",
-      "url": "https://every.to/context-window/my-first-week-with-an-ai-coworker?utm_cta_source=newsletter_main_my_first_week_with_an_ai_coworkerplus_why_we_re_skipping_gpt_6_1_terra_for_gemini_4_argon_and_a_prom_1",
-      "date": "2026-10-30T05:14:08.631Z",
-      "summary": "",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Every Model Has a Six-month S helf Life Now Plus: The shoggoth strategy for generalists, moving your website off Webflow with Claude, and what the Every team couldn't stop talking about.",
-      "url": "https://every.to/context-window/every-model-has-a-six-month-shelf-life-now?utm_cta_source=newsletter_main_every_model_has_a_six_month_shelf_life_nowplus_the_shoggoth_strategy_for_generalists_moving_your_web_1",
-      "date": "2026-10-30T05:14:08.631Z",
-      "summary": "",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "How to Get AI Agents to R ecommend Your Articles The seven rules for getting Claude and ChatGPT to cite you based on 2,484 tests",
-      "url": "https://every.to/also-true-for-humans/how-to-get-ai-agents-to-recommend-your-articles?utm_cta_source=newsletter_main_how_to_get_ai_agents_to_recommend_your_articlesthe_seven_rules_for_getting_claude_and_chatgpt_to_cit_1",
-      "date": "2026-10-30T05:14:08.631Z",
-      "summary": "",
-      "category": "Also True for Humans",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Is Anthropic W orth $2 Trillion? Its IPO filing reveals a remarkable business—and how much has to go right to justify its price",
-      "url": "https://every.to/napkin-math/is-anthropic-worth-2-trillion?utm_cta_source=newsletter_main_is_anthropic_worth_2_trillion_its_ipo_filing_reveals_a_remarkable_business_and_how_much_has_to_go_ri_1",
-      "date": "2026-10-30T05:14:08.631Z",
-      "summary": "",
-      "category": "Every",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
       "title": "An updated Model Spec for more capable and beneficial AI",
       "date": "Thu, 29 Oct 2026 17:00:00 GMT",
       "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
@@ -165,15 +174,6 @@
       "category": "Safety",
       "source": "OpenAI News",
       "source_name": "openai"
-    },
-    {
-      "title": "Google AI 搜索产生的收入低于传统搜索",
-      "date": "Thu, 29 Oct 2026 15:19:44 GMT",
-      "summary": "Google/Alphabet 在公布第三季度财报之后股价下跌了近 10%，原因是搜索巨人披露 AI 搜索产生的收入低于传统搜索，尽管其整体搜索业务收入同比增长 12% 达到 632.5 亿美元。搜索业务增速略低于去年第三季度的 14.5%，Alphabet 首席商务官 Philipp Schindler 称，搜索业务增长放缓的原因在于“我们观察到 AI Mode 变现能力较低”。为推动 AI 业务 Google 同时在基础设施上投入巨额资金。第三季度公司支出达 514 亿美元，其中约三分之二用于服务器和网络设备，其余部分则用于数据中心建设。巨额支出影响了盈利能力：Alphabet 本季度净利润为 261.7 亿美元；去年第三季度在 Google 营收为 1023.5 亿美元的情况下净利润达到 350 亿美元。Schindler 认为，AI 搜索终将带来回报。",
-      "url": "https://www.solidot.org/story?sid=85748",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
     },
     {
       "title": "How we detect frontier model misalignment",
