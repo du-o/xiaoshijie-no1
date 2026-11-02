@@ -1,7 +1,7 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-11-02T17:35:07.684Z",
+  "fetch_time": "2026-11-02T20:54:42.407Z",
   "articles": [
     {
       "title": "Introducing the Grid Protectors Program",
@@ -9,6 +9,20 @@
       "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
       "url": "https://openai.com/index/grid-protectors-program",
       "category": "Global Affairs"
+    },
+    {
+      "title": "LifeVal",
+      "date": "Mon, 02 Nov 2026 09:00:00 GMT",
+      "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+      "url": "https://openai.com/index/lifeval",
+      "category": "Research"
+    },
+    {
+      "title": "Qodo builds context into AI code review with Codex",
+      "date": "Mon, 02 Nov 2026 00:00:00 GMT",
+      "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+      "url": "https://openai.com/index/qodo-codex-plugin",
+      "category": "Startup"
     },
     {
       "title": "Making it easier for websites to express AI training preferences",
@@ -30,20 +44,6 @@
       "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
       "url": "https://openai.com/index/fair-use-benefits-everyone",
       "category": "Company"
-    },
-    {
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "date": "Thu, 29 Oct 2026 17:00:00 GMT",
-      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-      "url": "https://openai.com/index/updated-model-spec",
-      "category": "Safety"
-    },
-    {
-      "title": "How we detect frontier model misalignment",
-      "date": "Thu, 29 Oct 2026 09:00:00 GMT",
-      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "category": "Security"
     }
   ],
   "status": "success",
