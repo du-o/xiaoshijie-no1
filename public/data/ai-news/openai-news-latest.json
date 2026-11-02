@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-11-02T12:00:09.328Z",
+  "fetch_time": "2026-11-02T17:35:07.684Z",
   "articles": [
+    {
+      "title": "Introducing the Grid Protectors Program",
+      "date": "Mon, 02 Nov 2026 15:00:00 GMT",
+      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+      "url": "https://openai.com/index/grid-protectors-program",
+      "category": "Global Affairs"
+    },
     {
       "title": "Making it easier for websites to express AI training preferences",
       "date": "Fri, 30 Oct 2026 09:30:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
       "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
       "category": "Security"
-    },
-    {
-      "title": "How Ropes & Gray is developing AI for transactional diligence",
-      "date": "Thu, 29 Oct 2026 07:00:00 GMT",
-      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
-      "url": "https://openai.com/index/ropes-gray-ai-diligence",
-      "category": ""
     }
   ],
   "status": "success",
