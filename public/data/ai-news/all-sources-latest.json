@@ -1,9 +1,90 @@
 {
-  "fetch_time": "2026-11-03T15:38:41.418Z",
+  "fetch_time": "2026-11-03T18:42:19.607Z",
   "total_count": 30,
   "sources_count": 6,
   "errors": null,
   "articles": [
+    {
+      "title": "纽约时报等起诉 Brave 绕过付费墙抓取内容并提供给 AI 公司",
+      "date": "Tue, 03 Nov 2026 16:58:29 GMT",
+      "summary": "《纽约时报》、《芝加哥论坛报》和《奥兰多哨兵报》等美国出版商起诉 Brave Software，指控其未经许可抓取网站内容，并帮助用户绕过付费墙。Brave Software 被控将其抓取内容的索引数据库 Brave Index 提供给 Anthropic、Perplexity、Mistral、xAI 和 Cohere 等 AI 公司，通过 Paywall blocker 功能帮助用户绕过数百家新闻媒体的付费墙。《纽约时报》发言人 Graham James 在一份声明中表示：“我们支持合乎道德且负责任的使用与开发 AI，但 Brave 公然蔑视现行版权法，对《纽约时报》多次要求其停止侵权行为的诉求置之不理。我们提起此项诉讼，旨在追究 Brave 的责任——它窃取了我们的内容，不仅用于支撑其自身产品，还将其提供给部分全球最知名、资源最雄厚的生成式 AI 公司。”",
+      "url": "https://www.solidot.org/story?sid=85788",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "Google 将对拒绝 AI 的美国学校关闭搜索",
+      "date": "Tue, 03 Nov 2026 16:33:42 GMT",
+      "summary": "Google 宣布美国 K-12 学校学生使用的软件将默认关闭所有 AI 功能，除非学校管理人员自己选择启用。此举旨在回应教育工作者和家长的诉求，他们希望在孩子与 AI 互动上有更多的掌控权。今天 AI 功能已成为 Google 商用搜索引擎的标配，Google 负责教育的副总裁 Chris Phillips 表示，搜索与 AI 已深度融合，如果学校禁用了 AI，那么学生将无法使用搜索。美国 K-12 学校广泛使用 Google 的软件，包括 Gmail、Docs 以及作业平台 Classroom。Google 的 Chromebook 是美国学校最广泛使用的笔记本电脑。",
+      "url": "https://www.solidot.org/story?sid=85787",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "Fedora Linux 45 释出",
+      "date": "Tue, 03 Nov 2026 16:22:33 GMT",
+      "summary": "Fedora Linux 项目释出了 v45。Fedora Linux 项目同时释出了 Fedora Workstation、Fedora KDE Plasma Desktop、Fedora Server、Fedora Cloud、Fedora CoreOS 和 Fedora IoT，以及 Atomic Desktops 等众多衍生版本。Fedora Linux 45 的主要变化包括：支持通过 Anaconda 或 Kickstart 在 Stratis 存储上进行安装，移除 NetworkManager 不再维护的 VPN 插件，GNOME 和 KDE ​​Plasma 桌面环境的最新版本，完善 Wayland 支持，改进分数缩放，gcc 16.2、binutils 2.47、glibc 2.44、gdb 17.2、Fontconfig 2.18、LLVM 23 等开发工具的新版本。更多变化可浏览 ChangeSet。",
+      "url": "https://www.solidot.org/story?sid=85786",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "What AI Is Teaching U s About Management The skills that make AI agents reliable are identical to the skills that make human teams effective",
+      "url": "https://every.to/also-true-for-humans/what-ai-is-teaching-us-about-management-rerun?utm_cta_source=newsletter_main_what_ai_is_teaching_us_about_managementthe_skills_that_make_ai_agents_reliable_are_identical_to_the__1",
+      "date": "2026-11-03T15:38:48.563Z",
+      "summary": "",
+      "category": "Also True for Humans",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Agents Choose What You R ead Now Plus: Every automates our memes, an Emmy-winning TV writer’s AI writers’ room, and what Anthropic’s buy of a one-person biotech means",
+      "url": "https://every.to/context-window/agents-choose-what-you-read-now?utm_cta_source=newsletter_main_agents_choose_what_you_read_nowplus_every_automates_our_memes_an_emmy_winning_tv_writer_s_ai_writers_1",
+      "date": "2026-11-03T15:38:48.563Z",
+      "summary": "",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "What Karl Marx Would S ay About My Coding Agents Four ways AI disconnects you from your code—and when to automate, supervise, or code by hand",
+      "url": "https://every.to/source-code/what-karl-marx-would-say-about-my-coding-agents?utm_cta_source=newsletter_main_what_karl_marx_would_say_about_my_coding_agentsfour_ways_ai_disconnects_you_from_your_code_and_when__1",
+      "date": "2026-11-03T15:38:48.563Z",
+      "summary": "",
+      "category": "Source Code",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "My First W eek With an AI Coworker Plus: Why we’re skipping GPT-6.1 Terra for Gemini 4 Argon, and a prompt that keeps track of what you owe people",
+      "url": "https://every.to/context-window/my-first-week-with-an-ai-coworker?utm_cta_source=newsletter_main_my_first_week_with_an_ai_coworkerplus_why_we_re_skipping_gpt_6_1_terra_for_gemini_4_argon_and_a_prom_1",
+      "date": "2026-11-03T15:38:48.563Z",
+      "summary": "",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Every Model Has a Six-month S helf Life Now Plus: The shoggoth strategy for generalists, moving your website off Webflow with Claude, and what the Every team couldn't stop talking about.",
+      "url": "https://every.to/context-window/every-model-has-a-six-month-shelf-life-now?utm_cta_source=newsletter_main_every_model_has_a_six_month_shelf_life_nowplus_the_shoggoth_strategy_for_generalists_moving_your_web_1",
+      "date": "2026-11-03T15:38:48.563Z",
+      "summary": "",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "How to Get AI Agents to R ecommend Your Articles The seven rules for getting Claude and ChatGPT to cite you based on 2,484 tests",
+      "url": "https://every.to/also-true-for-humans/how-to-get-ai-agents-to-recommend-your-articles?utm_cta_source=newsletter_main_how_to_get_ai_agents_to_recommend_your_articlesthe_seven_rules_for_getting_claude_and_chatgpt_to_cit_1",
+      "date": "2026-11-03T15:38:48.563Z",
+      "summary": "",
+      "category": "Also True for Humans",
+      "source": "Every.to",
+      "source_name": "every"
+    },
     {
       "title": "热门中概股美股盘前多数上涨，京东涨超4%",
       "date": "Tue, 03 Nov 2026 12:56:14 GMT",
@@ -59,60 +140,6 @@
       "source_name": "36kr"
     },
     {
-      "title": "What AI Is Teaching U s About Management The skills that make AI agents reliable are identical to the skills that make human teams effective",
-      "url": "https://every.to/also-true-for-humans/what-ai-is-teaching-us-about-management-rerun",
-      "date": "2026-11-03T11:37:52.614Z",
-      "summary": "",
-      "category": "Also True for Humans",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Agents Choose What You R ead Now Plus: Every automates our memes, an Emmy-winning TV writer’s AI writers’ room, and what Anthropic’s buy of a one-person biotech means",
-      "url": "https://every.to/context-window/agents-choose-what-you-read-now",
-      "date": "2026-11-03T11:37:52.614Z",
-      "summary": "",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "What Karl Marx Would S ay About My Coding Agents Four ways AI disconnects you from your code—and when to automate, supervise, or code by hand",
-      "url": "https://every.to/source-code/what-karl-marx-would-say-about-my-coding-agents",
-      "date": "2026-11-03T11:37:52.614Z",
-      "summary": "",
-      "category": "Source Code",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "My First W eek With an AI Coworker Plus: Why we’re skipping GPT-6.1 Terra for Gemini 4 Argon, and a prompt that keeps track of what you owe people",
-      "url": "https://every.to/context-window/my-first-week-with-an-ai-coworker",
-      "date": "2026-11-03T11:37:52.614Z",
-      "summary": "",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Every Model Has a Six-month S helf Life Now Plus: The shoggoth strategy for generalists, moving your website off Webflow with Claude, and what the Every team couldn't stop talking about.",
-      "url": "https://every.to/context-window/every-model-has-a-six-month-shelf-life-now",
-      "date": "2026-11-03T11:37:52.614Z",
-      "summary": "",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "How to Get AI Agents to R ecommend Your Articles The seven rules for getting Claude and ChatGPT to cite you based on 2,484 tests",
-      "url": "https://every.to/also-true-for-humans/how-to-get-ai-agents-to-recommend-your-articles",
-      "date": "2026-11-03T11:37:52.614Z",
-      "summary": "",
-      "category": "Also True for Humans",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
       "title": "科学家发现 1.15 亿年前的恐龙红细胞",
       "date": "Tue, 03 Nov 2026 09:54:53 GMT",
       "summary": "血细胞并不容易形成化石。大多数血细胞在死亡后不久便会分解，这使得找到令人信服的、非常古老的血液痕迹非常困难。然而澳大利亚科廷大学的研究团队在 PNAS 上发表论文称，凭借多条证据，他们在巴西一只 1.15 亿年前的恐龙遗骸中发现了最古老的红细胞化石。这项研究的对象是巴西恐龙“阿拉塔龙”的骨骼化石。研究人员估计，这只恐龙体长约 3 米、重约 34 公斤，死亡后遗体沉入水底，微生物生长并将其掩埋，从而保存了下来。在显微镜下，研究人员在这只恐龙的骨骼中发现化石细胞的迹象：这些结构呈圆形，中心凹陷，每个细胞平均长 23 微米、宽 20 微米，嵌在曾经让血管穿过骨骼的通道中。下一步则是寻找化学线索，以证明这些结构确实含有血细胞，而不仅仅是形似血细胞的矿物质。在他们进行的近 30 项试验中，有一项是将骨样本研磨成粉后用激光照射，从样本散射回来的光显示出血红素的存在。血红素是一种环状化合物，其中的铁元素有助于红细胞运输氧气。研究人员还发现了大量降解形式的血红素。",
@@ -144,33 +171,6 @@
       "date": "Tue, 03 Nov 2026 07:41:34 GMT",
       "summary": "全球在建核电站已增至 79 个机组，达到 40 年来的高水平。据世界核协会统计，2026 年全球有 11 个新核电机组开工建设，截至 10 月 16 日，在建核电机组数量达到 79 个。这是 1986 年（91 个）以来的高位。1986 年是切尔诺贝利核电站事故发生的年份，此后全球新建核电机组数量有所减少。如果将预计未来 15 年内投入运营的正在规划的核电机组也计算在内，数量将达到 201 个。目前全球在运核电机组共有 443 个。即使考虑到因老化而退役的核电机组，到 2040 年前后，全球在运核电机组数量仍有可能超过 600 个。目前全球在建的79个核电机组中，仅中国就有38个，约占总数的一半，其次是印度（8个）和俄罗斯（7个）。从处于规划阶段的核电机组来看，中国同样遥遥领先，达到 42 个，其次是俄罗斯（23个）和印度（14个）。",
       "url": "https://www.solidot.org/story?sid=85782",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "Tor Browser 16.0 释出",
-      "date": "Tue, 03 Nov 2026 07:10:27 GMT",
-      "summary": "Tor Browser 16.0 释出，它是首个基于 Firefox ESR 153 的稳定版本。主要变化包括：Linux 版本支持 64 位 ARM 架构，重新设计设置，名为通用窗口标题（generic window titles）的功能有助于防止其它应用窥探用户的浏览器活动，Android 版本使用 Google 的 Material Design 3 更新了界面，停止支持 32 位 x86 Linux 系统，等等。更多变化可浏览更新日志。",
-      "url": "https://www.solidot.org/story?sid=85781",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "Swift 天文台将于 11 月 4 日重返大气层",
-      "date": "Tue, 03 Nov 2026 06:48:25 GMT",
-      "summary": "拯救失败的 NASA Neil Gehrels Swift 天文台将于 11 月 4 日重返大气层。但目前还不清楚其坠落地点以及它会有哪些组件会在穿过大气层后仍然幸存下来。Swift 天文台重 1.5 吨，于 2004 年发射升空，旨在研究高能伽马射线暴的起源。过去 22 年受大气阻力的影响 Swift 天文台的轨道高度在缓慢下降，过去两年活跃的太阳活动加速了其坠落。今年 7 月 NASA 曾尝试了一次拯救任务，但任务失败。10 月 20 日其轨道高度降至 275 公里，其使命正式结束。Swift 天文台的轨道经过了澳大利亚、非洲、印度、东南亚以及中南美洲上空，最有可能的坠落地点是海洋。",
-      "url": "https://www.solidot.org/story?sid=85780",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "北欧将可能出现 40°C 高温",
-      "date": "Tue, 03 Nov 2026 06:33:39 GMT",
-      "summary": "挪威、瑞典和芬兰等北欧国家传统上经历的热浪强度低于欧洲大陆的其它地区。然而在近年的极端天气事件中，例如 2026 年的热浪，欧洲大部分地区都观测到了异常高温，40 °C 的高温天气也出现在比以往更靠北的地区。根据发表在《npj Natural Hazards》期刊上的一项研究，芬兰科学家报告，北欧出现 40°C 高温不再像以前认为的那样不可能发生。研究人员估算，2025 年北欧某个地点 40 °C 的年发生率为 0.53%，比 1981 年的概率增加了 6 倍。如果以迄今为止各国已观测到的最高气温纪录作为标准，那么在当前气候条件下，挪威突破本国历史最高气温纪录的年概率最高达到 10.9%。研究结果表明，北欧国家应当做好应对远高于历史观测记录所显示的极端峰值气温的准备。",
-      "url": "https://www.solidot.org/story?sid=85779",
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
