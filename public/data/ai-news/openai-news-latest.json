@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-11-03T06:04:10.164Z",
+  "fetch_time": "2026-11-03T11:37:47.252Z",
   "articles": [
+    {
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "date": "Tue, 03 Nov 2026 08:00:00 GMT",
+      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "url": "https://openai.com/index/heimstaden",
+      "category": ""
+    },
     {
       "title": "Rewarding defenders with bigger bug bounties",
       "date": "Mon, 02 Nov 2026 18:00:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
       "url": "https://openai.com/index/lifeval",
       "category": "Research"
-    },
-    {
-      "title": "Qodo builds context into AI code review with Codex",
-      "date": "Mon, 02 Nov 2026 00:00:00 GMT",
-      "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-      "url": "https://openai.com/index/qodo-codex-plugin",
-      "category": "Startup"
     }
   ],
   "status": "success",

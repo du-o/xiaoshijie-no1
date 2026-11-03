@@ -1,17 +1,17 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-11-03T06:04:23.156Z",
+  "fetch_time": "2026-11-03T11:37:54.063Z",
   "articles": [
     {
       "title": "openclaw 2026.10.10",
       "date": "2026-11-03T03:22:35Z",
-      "summary": "## 2026.10.10\n\n### Highlights\n\n- Backup safety: secret-redacted Git backups now cover PostgreSQL exports and omit identified bundled-plugin credentials, webhook tokens, and credential blobs while pres...",
+      "summary": "<!-- openclaw-release-publication:docs-v1 -->\n\n## OpenClaw v2026.10.10\n\n4,825 commits · 3,028 pull requests · 454 contributors\n\n### Changes included in this release\n\nThe release notes and changelog co...",
       "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.10.10",
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.10.10",
-      "downloadCount": 236
+      "downloadCount": 1830
     },
     {
       "title": "openclaw 2026.10.10-beta.5",
@@ -21,7 +21,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.10.10-beta.5",
-      "downloadCount": 255
+      "downloadCount": 272
     },
     {
       "title": "openclaw 2026.10.9",
@@ -31,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.10.9",
-      "downloadCount": 37894
+      "downloadCount": 38633
     },
     {
       "title": "openclaw 2026.9.36",
@@ -61,7 +61,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.10.8",
-      "downloadCount": 20724
+      "downloadCount": 20726
     }
   ],
   "status": "success",
