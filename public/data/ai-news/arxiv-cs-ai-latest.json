@@ -1,8 +1,72 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-11-02T20:54:42.579Z",
-  "articles": [],
+  "fetch_time": "2026-11-03T06:04:10.280Z",
+  "articles": [
+    {
+      "title": "Context as Infrastructure: Knowledge Compilation for Retrieval in Agentic Systems with Harnesses",
+      "date": "Tue, 03 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2610.41172v1 Announce Type: cross Abstract: Retrieval-augmented generation is becoming agentic. A search harness writes queries, reads results, reformulates, and decides when to stop. This largely solves accuracy: a harness with only BM25/grep and MiniMax M3 answers 85% of BrowseComp-Plus and 91% on multi-hop FRAMES in our runs, without compiled or vector indexes. It exposes a context problem: an undisciplined loop repeats queries, rereads documents, and fills the window with unused passag",
+      "url": "https://arxiv.org/abs/2610.41172",
+      "category": [
+        "cs.IR",
+        "cs.AI",
+        "cs.CL"
+      ]
+    },
+    {
+      "title": "Beyond CLIP: Calibrated (Few-Shot) Defect Detection With System One Decision Models",
+      "date": "Tue, 03 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2610.41199v1 Announce Type: cross Abstract: Cameras and vision sensors are widely used for product and process inspection in manufacturing environments. Traditionally, this process required thousands of images of both nominal and defective products to train such models. Recent research shows that vision transformer (ViT) models, such as CLIP, can reduce this requirement to 50-100 images per nominal and defective class. However, collecting even 50 defective images can be difficult in high-y",
+      "url": "https://arxiv.org/abs/2610.41199",
+      "category": [
+        "cs.CV",
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "From Evaluation to Evolution: Benchmarking Image Editing and Evolving Image Models",
+      "date": "Tue, 03 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2610.41210v1 Announce Type: cross Abstract: Real-world image editing requires coordinating multiple visual transformations with content preservation and reference constraints, yet aggregate scores can readily obscure unmet local requirements. Effective evaluation must therefore identify local failures and translate them into priorities for subsequent model improvement. We introduce WeGenEditBench, comprising 2,740 evaluation instances and 148 task types across single-image, text-intensive,",
+      "url": "https://arxiv.org/abs/2610.41210",
+      "category": [
+        "cs.CV",
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "Coarse3D: Controllable and Faithful Sparse Structure Generation for Image-to-3D",
+      "date": "Tue, 03 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2610.41231v1 Announce Type: cross Abstract: Coarse-to-fine 3D-native generation relies heavily on the first-stage sparse structure, which determines the global orientation and overall geometry for subsequent refinement. However, existing coarse generators suffer from two key limitations: their orientation is difficult to control due to ambiguous semantic canonicalization, and their structures are often inconsistent with input images due to weak 2D-3D grounding. We propose Coarse3D, a spars",
+      "url": "https://arxiv.org/abs/2610.41231",
+      "category": [
+        "cs.CV",
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "ANGLER: Verifier-Grounded Benchmarking with an Adaptive Attacker for Web Agents",
+      "date": "Tue, 03 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2610.41272v1 Announce Type: cross Abstract: Web agents are increasingly deployed to complete tasks autonomously on real websites, where adversarially injected content can induce them to perform unauthorized actions. Existing evaluations primarily use fixed attacks or focus on a single attack type, and evaluate attacks at the text level rather than through real state changes, thus underestimating how vulnerable agents are to diverse attacks. To address the gap, we introduce REEF, a benchmar",
+      "url": "https://arxiv.org/abs/2610.41272",
+      "category": [
+        "cs.CR",
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "In-Model Context Compression with Agentic Soft Tokens for Long-Horizon LLM Agents",
+      "date": "Tue, 03 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2610.41291v1 Announce Type: cross Abstract: Long-horizon LLM agents play an important role in solving complex and sustained tasks, with ever-growing interaction contexts. However, these accumulated contexts will raise substantial computational cost and obscure key decision-relevant evidence. Existing methods typically train external compressors or context-management agents to rewrite context as shorter hard-token sequences, but such external selection may not align with the LLM's evolving ",
+      "url": "https://arxiv.org/abs/2610.41291",
+      "category": [
+        "cs.CL",
+        "cs.AI",
+        "cs.LG",
+        "cs.NE"
+      ]
+    }
+  ],
   "status": "success",
   "error": null
 }

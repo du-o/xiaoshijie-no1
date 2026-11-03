@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-11-02T20:54:49.589Z",
+  "fetch_time": "2026-11-03T06:04:23.156Z",
   "articles": [
+    {
+      "title": "openclaw 2026.10.10",
+      "date": "2026-11-03T03:22:35Z",
+      "summary": "## 2026.10.10\n\n### Highlights\n\n- Backup safety: secret-redacted Git backups now cover PostgreSQL exports and omit identified bundled-plugin credentials, webhook tokens, and credential blobs while pres...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.10.10",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.10.10",
+      "downloadCount": 236
+    },
     {
       "title": "openclaw 2026.10.10-beta.5",
       "date": "2026-10-30T03:57:14Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.10.10-beta.5",
-      "downloadCount": 231
+      "downloadCount": 255
     },
     {
       "title": "openclaw 2026.10.9",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.10.9",
-      "downloadCount": 35692
+      "downloadCount": 37894
     },
     {
       "title": "openclaw 2026.9.36",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.10.10-beta.4",
-      "downloadCount": 210
+      "downloadCount": 215
     },
     {
       "title": "openclaw 2026.10.8",
@@ -51,17 +61,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.10.8",
-      "downloadCount": 20696
-    },
-    {
-      "title": "openclaw 2026.9.35",
-      "date": "2026-10-27T02:20:41Z",
-      "summary": "This is a gateway-only `extended-stable` release, which is our current equivalent to LTS. This release is OpenClaw from the end of September 2026, plus critical security updates, reliability and perfo...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.9.35",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.9.35",
-      "downloadCount": 119
+      "downloadCount": 20724
     }
   ],
   "status": "success",

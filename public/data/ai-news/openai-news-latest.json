@@ -1,8 +1,29 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-11-02T20:54:42.407Z",
+  "fetch_time": "2026-11-03T06:04:10.164Z",
   "articles": [
+    {
+      "title": "Rewarding defenders with bigger bug bounties",
+      "date": "Mon, 02 Nov 2026 18:00:00 GMT",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "category": "Security"
+    },
+    {
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "date": "Mon, 02 Nov 2026 18:00:00 GMT",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "category": "Security"
+    },
+    {
+      "title": "Scaling Git at OpenAI",
+      "date": "Mon, 02 Nov 2026 15:30:00 GMT",
+      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "category": "Engineering"
+    },
     {
       "title": "Introducing the Grid Protectors Program",
       "date": "Mon, 02 Nov 2026 15:00:00 GMT",
@@ -23,27 +44,6 @@
       "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
       "url": "https://openai.com/index/qodo-codex-plugin",
       "category": "Startup"
-    },
-    {
-      "title": "Making it easier for websites to express AI training preferences",
-      "date": "Fri, 30 Oct 2026 09:30:00 GMT",
-      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "category": "Company"
-    },
-    {
-      "title": "Community safety report and new protections for teens",
-      "date": "Fri, 30 Oct 2026 09:00:00 GMT",
-      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-      "category": "Safety"
-    },
-    {
-      "title": "Fair use benefits everyone",
-      "date": "Fri, 30 Oct 2026 00:00:00 GMT",
-      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-      "url": "https://openai.com/index/fair-use-benefits-everyone",
-      "category": "Company"
     }
   ],
   "status": "success",
