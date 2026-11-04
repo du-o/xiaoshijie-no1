@@ -1,9 +1,99 @@
 {
-  "fetch_time": "2026-11-04T15:52:16.268Z",
+  "fetch_time": "2026-11-04T18:55:01.089Z",
   "total_count": 24,
   "sources_count": 6,
   "errors": null,
   "articles": [
+    {
+      "title": "AMD 营收预计将首次超过英特尔",
+      "date": "Wed, 04 Nov 2026 17:20:06 GMT",
+      "summary": "AMD 周二公布了 2026 财年第三季度财报，营收同比增长 45% 达到 134 亿美元。其中数据中心业务贡献了 85 亿美元营收同比增长 97%。客户端与游戏业务部门的营收下滑了 8% 降至 37 亿美元。作为 AMD 在 x86 市场的主要竞争对手，英特尔下一季度营收预计为 150-160 亿美元，其增长几乎停滞。相比下 AMD 预计下一季度营收将达到约 170 亿美元。如果达到这一目标，这将标志着 AMD 营收首次超过英特尔。",
+      "url": "https://www.solidot.org/story?sid=85799",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "韩国游戏 PC 启动器被植入恶意代码",
+      "date": "Wed, 04 Nov 2026 17:05:10 GMT",
+      "summary": "韩国游戏《胜利女神：新的希望（NIKKE）》的 PC 启动器被植入恶意代码。恶意代码是通过纂改 Level Infinite CDN 分发的四个官方 JavaScript 文件实现的，篡改发生于 2026 年 9 月 27 日前后，攻击则始于 2026 年 10 月 23 日到 11 月 3 日，在此期间打开 PC 启动器的用户可能会被植入木马。恶意程序会窃取浏览器保存的密码、Windows 凭据管理器信息、SSH 密钥以及云服务或 AI 服务的访问令牌，还能窃取 28 种基于浏览器的加密货币钱包数据、执行任意命令、读取文件以及屏幕截图。攻击期间打开过启动器的玩家可以打开游戏文件夹，搜寻 debug.log，打开该文件后寻找 k2f_chan，如果找到且显示 registered，那么最好立即卸载游戏并用杀毒软件进行扫描。",
+      "url": "https://www.solidot.org/story?sid=85798",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "法国银行被盗走 1.18 亿欧元",
+      "date": "Wed, 04 Nov 2026 16:02:44 GMT",
+      "summary": "法国国民互助信贷银行（Crédit Mutuel Arkéa）被黑客通过欺诈性交易盗走 1.18 亿欧元。被盗走的钱随后被转移到多个加密货币账号。该银行证实遭到网络攻击，但尚未证实 1.18 亿欧元的数字，只是表示攻击已得到控制，客户不会遭受任何经济损失。国民互助信贷银行暂停了其应用的部分转账功能。",
+      "url": "https://www.solidot.org/story?sid=85797",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "Firefox 测试迷你窗口功能",
+      "date": "Wed, 04 Nov 2026 15:54:37 GMT",
+      "summary": "Mozilla 正在新版 Firefox Nightly 中测试迷你窗口（Mini Window）功能。该功能类似视频画中画功能，将一个标签页作为独立窗口一直显示在当前标签页之上，这个窗口隐去了地址栏、各类控件、滚动条等常见标签页元素，但如果用户将鼠标悬停在迷你窗口内，各种标签页元素将会显示。迷你窗口方便用户在当前标签页上工作的同时参考迷你窗口的内容，免于在两个标签页之间反复切换。用户可以在专注于当前标签页的同时查看迷你窗口。",
+      "url": "https://www.solidot.org/story?sid=85796",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "What AI Is Teaching U s About Management The skills that make AI agents reliable are identical to the skills that make human teams effective",
+      "url": "https://every.to/also-true-for-humans/what-ai-is-teaching-us-about-management-rerun?utm_cta_source=newsletter_main_what_ai_is_teaching_us_about_managementthe_skills_that_make_ai_agents_reliable_are_identical_to_the__1",
+      "date": "2026-11-04T15:52:23.340Z",
+      "summary": "",
+      "category": "Also True for Humans",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Agents Choose What You R ead Now Plus: Every automates our memes, an Emmy-winning TV writer’s AI writers’ room, and what Anthropic’s buy of a one-person biotech means",
+      "url": "https://every.to/context-window/agents-choose-what-you-read-now?utm_cta_source=newsletter_main_agents_choose_what_you_read_nowplus_every_automates_our_memes_an_emmy_winning_tv_writer_s_ai_writers_1",
+      "date": "2026-11-04T15:52:23.340Z",
+      "summary": "",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "What Karl Marx Would S ay About My Coding Agents Four ways AI disconnects you from your code—and when to automate, supervise, or code by hand",
+      "url": "https://every.to/source-code/what-karl-marx-would-say-about-my-coding-agents?utm_cta_source=newsletter_main_what_karl_marx_would_say_about_my_coding_agentsfour_ways_ai_disconnects_you_from_your_code_and_when__1",
+      "date": "2026-11-04T15:52:23.340Z",
+      "summary": "",
+      "category": "Source Code",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "My First W eek With an AI Coworker Plus: Why we’re skipping GPT-6.1 Terra for Gemini 4 Argon, and a prompt that keeps track of what you owe people",
+      "url": "https://every.to/context-window/my-first-week-with-an-ai-coworker?utm_cta_source=newsletter_main_my_first_week_with_an_ai_coworkerplus_why_we_re_skipping_gpt_6_1_terra_for_gemini_4_argon_and_a_prom_1",
+      "date": "2026-11-04T15:52:23.340Z",
+      "summary": "",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Every Model Has a Six-month S helf Life Now Plus: The shoggoth strategy for generalists, moving your website off Webflow with Claude, and what the Every team couldn't stop talking about.",
+      "url": "https://every.to/context-window/every-model-has-a-six-month-shelf-life-now?utm_cta_source=newsletter_main_every_model_has_a_six_month_shelf_life_nowplus_the_shoggoth_strategy_for_generalists_moving_your_web_1",
+      "date": "2026-11-04T15:52:23.340Z",
+      "summary": "",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "How to Get AI Agents to R ecommend Your Articles The seven rules for getting Claude and ChatGPT to cite you based on 2,484 tests",
+      "url": "https://every.to/also-true-for-humans/how-to-get-ai-agents-to-recommend-your-articles?utm_cta_source=newsletter_main_how_to_get_ai_agents_to_recommend_your_articlesthe_seven_rules_for_getting_claude_and_chatgpt_to_cit_1",
+      "date": "2026-11-04T15:52:23.340Z",
+      "summary": "",
+      "category": "Also True for Humans",
+      "source": "Every.to",
+      "source_name": "every"
+    },
     {
       "title": "OpenAI to acquire Pierre Computer Company, Inc.",
       "date": "Wed, 04 Nov 2026 14:30:00 GMT",
@@ -68,60 +158,6 @@
       "source_name": "36kr"
     },
     {
-      "title": "What AI Is Teaching U s About Management The skills that make AI agents reliable are identical to the skills that make human teams effective",
-      "url": "https://every.to/also-true-for-humans/what-ai-is-teaching-us-about-management-rerun",
-      "date": "2026-11-04T11:52:10.303Z",
-      "summary": "",
-      "category": "Also True for Humans",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Agents Choose What You R ead Now Plus: Every automates our memes, an Emmy-winning TV writer’s AI writers’ room, and what Anthropic’s buy of a one-person biotech means",
-      "url": "https://every.to/context-window/agents-choose-what-you-read-now",
-      "date": "2026-11-04T11:52:10.303Z",
-      "summary": "",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "What Karl Marx Would S ay About My Coding Agents Four ways AI disconnects you from your code—and when to automate, supervise, or code by hand",
-      "url": "https://every.to/source-code/what-karl-marx-would-say-about-my-coding-agents",
-      "date": "2026-11-04T11:52:10.303Z",
-      "summary": "",
-      "category": "Source Code",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "My First W eek With an AI Coworker Plus: Why we’re skipping GPT-6.1 Terra for Gemini 4 Argon, and a prompt that keeps track of what you owe people",
-      "url": "https://every.to/context-window/my-first-week-with-an-ai-coworker",
-      "date": "2026-11-04T11:52:10.303Z",
-      "summary": "",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Every Model Has a Six-month S helf Life Now Plus: The shoggoth strategy for generalists, moving your website off Webflow with Claude, and what the Every team couldn't stop talking about.",
-      "url": "https://every.to/context-window/every-model-has-a-six-month-shelf-life-now",
-      "date": "2026-11-04T11:52:10.303Z",
-      "summary": "",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "How to Get AI Agents to R ecommend Your Articles The seven rules for getting Claude and ChatGPT to cite you based on 2,484 tests",
-      "url": "https://every.to/also-true-for-humans/how-to-get-ai-agents-to-recommend-your-articles",
-      "date": "2026-11-04T11:52:10.303Z",
-      "summary": "",
-      "category": "Also True for Humans",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
       "title": "富士胶片因 AI 热加大磁带产能",
       "date": "Wed, 04 Nov 2026 11:26:51 GMT",
       "summary": "富士胶片表示它将大幅增加磁带产能，原因是磁带备份成为 AI 热的一个意外受益者。普通消费者可能早在几十年前就已不再使用磁带，但业界却从未将其抛弃。云服务巨头依靠磁带对海量数据进行备份。富士胶片称，大型云服务商和数据中心运营商正在扩大对磁带的使用，因为磁带能以相对较低的成本存储海量数据。磁带备份可以轻松与系统断开连接，存放在抽屉、保险库或独立设施内。富士胶片强调，磁带介质能实现物理隔离（air-gap），为用户数据提供最后一道防线。",
@@ -135,42 +171,6 @@
       "date": "Wed, 04 Nov 2026 10:57:52 GMT",
       "summary": "最大 PC 游戏 Mod 分享托管平台 Nexus Mods 公布了 AI 生成内容政策。Nexus Mods 没有禁止 AI 生成 Mod，但对此类 Mod 的分享设定了更严格的规定。新上传 Mod 必须披露是否使用 AI，AI 辅助 Mod 必须说明如何使用 AI 以及 AI 的使用范围。现有 Mod 需在 2027 年 1 月 2 日前符合新要求。如果 Mod 作者无视平台方提出的要求，可能会面临权限受限或被下架的后果。它计划针对 AI 使用、AI 模型训练、分支和衍生 Mod 引入新的授权选项，默认选项为“需征求作者同意（Ask me）”。Nexus Mods 承诺绝不会利用用户上传的 Mod 训练 AI，也不会将其出售或授权给任何 AI 公司。Nexus Mods 严禁利用生成式 AI 生成虚假的游戏截图。",
       "url": "https://www.solidot.org/story?sid=85794",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "苹果开始在中国推出 Apple Intelligence",
-      "date": "Wed, 04 Nov 2026 09:55:53 GMT",
-      "summary": "苹果从 11 月 4 日起开始在中国推出 AI 功能 Apple Intelligence，中国用户可通过最新的 iOS 开发者 Beta 版进行测试，AI 功能将于 12 月随 iOS 27.3 的发布正式推出。中国版本的 Apple Intelligence 是苹果和阿里巴巴合作推出的，基于阿里巴巴的千问模型。首批 AI 功能包括实时翻译、写作工具、视觉智能、照片 app 的消除工具、智绘表情、照片 app 中的自然语言搜索、在照片 app 中创建回忆影片、识别优先邮件、邮件摘要、智能回复、通知摘要、首要通知、减少干扰、备忘录 app 中的音频转录摘要、通话转录文本的摘要、输⼊⽂字与 Siri 对话、Siri 能接入千问（需登录千问）、创作等。",
-      "url": "https://www.solidot.org/story?sid=85793",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "出生前后大脑会清理突变神经元",
-      "date": "Wed, 04 Nov 2026 09:24:42 GMT",
-      "summary": "根据发表在《自然》上的一项研究，出生前后大脑会清理突变神经元。对 2300 多个神经细胞进行的分析显示，在从人类胎儿大脑中采样的神经元中，超过 1/4 出现了染色体片段增加或缺失的情况。相比之下，出生后婴儿大脑中的神经元中，只有约 6% 存在此类异常。研究结果揭示了一种新的机制，该机制不仅调控着一个人的神经元数量，还决定了哪些胎儿神经元能够在大脑中存活下来。针对小鼠的研究表明，在早期发育过程中，哺乳动物会通过激活一个导致细胞死亡的分子程序，清除大量脑细胞。分析结果显示，在胎儿发育过程中，存在数量惊人的、具有广泛拷贝数变异的细胞。然而出生后，这些异常神经元的比例下降至原来的 1/4，表明它们在发育过程中已被淘汰。大脑是如何分辨哪些神经元正常、哪些不正常呢？一个可能的线索是那些拷贝数变异水平较高的脑细胞，其与其他神经元建立连接（即突触）的基因也往往表现异常。",
-      "url": "https://www.solidot.org/story?sid=85792",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "SUSE 因 AI 而计划裁员十分之一 ",
-      "date": "Wed, 04 Nov 2026 08:23:37 GMT",
-      "summary": "德国开源软件公司 SUSE 现有员工 1900 人，它计划裁掉十分之一的员工。CEO Dirk-Peter van Leeuwen 在电子邮件里表示，自动化和 AI 降低了某些岗位的需求。他表示做出这一决定是非常痛苦的，但也是必要的。Van Leeuwen 称，在被瑞典私募股权投资公司殷拓集团收购后，公司在仔细审视了其未来战略、所需能力及团队架构后做出了裁员决定,“显而易见自动化和 AI 正从根本上改变软件公司的运营方式。AI 技术正呈指数级发展，迫使我们彻底重新构想工作模式。无论是所在行业，还是在更广泛的经济领域，我们都已经看到了这一趋势。这意味着 SUSE 目前所依托的组织架构和成本基础，已无法支撑未来的成功发展。”受影响的员工将在 11 月 4 日前收到通知，员工代表将于次日选出，一对一沟通会议则将于下周初启动。",
-      "url": "https://www.solidot.org/story?sid=85791",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "Bethesda 宣布《上古卷轴VI：哨兵》",
-      "date": "Wed, 04 Nov 2026 07:35:02 GMT",
-      "summary": "在 2018 年宣布《上古卷轴VI》八年之后，Bethesda 宣布了游戏的副标题《上古卷轴VI：哨兵》。知名游戏记者 Jason Schreier 称，该游戏至少还要两年时间才会面世。Bethesda 是在庆祝工作室诞生四十周年的视频中公布这一消息的。《上古卷轴VI》是与《星空》一同宣布的，2023 年 9 月《星空》发售后游戏才进入正式开发阶段，预计至少到 2028 年 Bethesda 才会公布更多游戏相关信息。",
-      "url": "https://www.solidot.org/story?sid=85790",
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
