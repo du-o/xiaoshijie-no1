@@ -1,8 +1,22 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-11-04T11:52:05.499Z",
+  "fetch_time": "2026-11-04T15:52:12.870Z",
   "articles": [
+    {
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "date": "Wed, 04 Nov 2026 14:30:00 GMT",
+      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "category": "Company"
+    },
+    {
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "date": "Wed, 04 Nov 2026 07:00:00 GMT",
+      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "category": "Product"
+    },
     {
       "title": "Accelerating engineering for the physical world",
       "date": "Tue, 03 Nov 2026 12:00:00 GMT",
@@ -30,20 +44,6 @@
       "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
       "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
       "category": "Company"
-    },
-    {
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "date": "Mon, 02 Nov 2026 18:00:00 GMT",
-      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-      "category": "Security"
-    },
-    {
-      "title": "Rewarding defenders with bigger bug bounties",
-      "date": "Mon, 02 Nov 2026 18:00:00 GMT",
-      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "category": "Security"
     }
   ],
   "status": "success",
