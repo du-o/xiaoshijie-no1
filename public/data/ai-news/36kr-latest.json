@@ -1,7 +1,7 @@
 {
   "source": "36氪",
   "source_url": "https://www.36kr.com/feed",
-  "fetch_time": "2026-11-05T06:01:22.677Z",
+  "fetch_time": "2026-11-05T11:52:24.041Z",
   "articles": [
     {
       "title": "联想集团任命摩托罗拉全球业务新负责人",
@@ -46,6 +46,6 @@
       "category": ""
     }
   ],
-  "status": "success",
-  "error": null
+  "status": "error",
+  "error": "Request timeout"
 }

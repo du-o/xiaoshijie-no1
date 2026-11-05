@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-11-05T06:01:21.024Z",
+  "fetch_time": "2026-11-05T11:51:53.248Z",
   "articles": [
+    {
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "date": "Thu, 05 Nov 2026 02:00:00 GMT",
+      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "category": "Global Affairs"
+    },
     {
       "title": "OpenAI to acquire Pierre Computer Company, Inc.",
       "date": "Wed, 04 Nov 2026 14:30:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
       "url": "https://openai.com/index/devrev-enterprise-self-service",
       "category": "Startup"
-    },
-    {
-      "title": "Accelerating engineering for the physical world",
-      "date": "Tue, 03 Nov 2026 12:00:00 GMT",
-      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
-      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-      "category": "Research"
     }
   ],
   "status": "success",
