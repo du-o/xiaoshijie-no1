@@ -1,7 +1,7 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-11-04T18:54:58.494Z",
+  "fetch_time": "2026-11-05T06:01:21.024Z",
   "articles": [
     {
       "title": "OpenAI to acquire Pierre Computer Company, Inc.",
@@ -11,6 +11,13 @@
       "category": "Company"
     },
     {
+      "title": "A thousand fewer paths to root",
+      "date": "Wed, 04 Nov 2026 08:00:00 GMT",
+      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "category": "Security"
+    },
+    {
       "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
       "date": "Wed, 04 Nov 2026 07:00:00 GMT",
       "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
@@ -18,32 +25,25 @@
       "category": "Product"
     },
     {
+      "title": "Introducing Images 2.6",
+      "date": "Wed, 04 Nov 2026 00:00:00 GMT",
+      "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+      "url": "https://openai.com/index/introducing-images-2-6",
+      "category": "Product"
+    },
+    {
+      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "date": "Wed, 04 Nov 2026 00:00:00 GMT",
+      "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+      "url": "https://openai.com/index/devrev-enterprise-self-service",
+      "category": "Startup"
+    },
+    {
       "title": "Accelerating engineering for the physical world",
       "date": "Tue, 03 Nov 2026 12:00:00 GMT",
       "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
       "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
       "category": "Research"
-    },
-    {
-      "title": "How Cisco defends at machine speed with OpenAI",
-      "date": "Tue, 03 Nov 2026 08:00:00 GMT",
-      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
-      "url": "https://openai.com/index/cisco-cyber",
-      "category": ""
-    },
-    {
-      "title": "Heimstaden is changing residential real estate management with AI",
-      "date": "Tue, 03 Nov 2026 08:00:00 GMT",
-      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
-      "url": "https://openai.com/index/heimstaden",
-      "category": ""
-    },
-    {
-      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-      "date": "Tue, 03 Nov 2026 00:00:00 GMT",
-      "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
-      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-      "category": "Company"
     }
   ],
   "status": "success",
