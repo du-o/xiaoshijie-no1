@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-11-06T15:29:05.095Z",
+  "fetch_time": "2026-11-06T18:33:09.591Z",
   "articles": [
+    {
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "date": "Fri, 06 Nov 2026 08:00:00 GMT",
+      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "category": "Security"
+    },
     {
       "title": "Cult.fit builds operational muscle with Codex",
       "date": "Thu, 05 Nov 2026 20:00:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
       "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
       "category": "Global Affairs"
-    },
-    {
-      "title": "Flipsnack grows product signups with conversion optimization",
-      "date": "Thu, 05 Nov 2026 00:45:15 GMT",
-      "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
-      "url": "https://openai.com/ads/customers/flipsnack",
-      "category": ""
     }
   ],
   "status": "success",
