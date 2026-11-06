@@ -1,8 +1,22 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-11-05T19:06:00.635Z",
+  "fetch_time": "2026-11-06T05:58:05.425Z",
   "articles": [
+    {
+      "title": "Kagi 开放搜索",
+      "date": "Fri, 06 Nov 2026 05:18:32 GMT",
+      "summary": "付费无广告搜索引擎 Kagi 宣布了最新更新，向所有人开放搜索，但免费用户搜索次数有限额。现在任何人无需注册账号可搜索 50 次，注册账号之后再增加 100 次。Kagi 还抨击了 Google 最近的一项决定：如果美国学校选择禁用 AI 那么它的搜索引擎也将会对学校关闭。Kagi 认为：教育不应沦为广告公司的人质，应当停止将企业利润置于教育学生这一核心使命之上。它呼吁美国学校可选择包括 Kagi 在内的其它搜索引擎。",
+      "url": "https://www.solidot.org/story?sid=85812",
+      "category": ""
+    },
+    {
+      "title": "《尼尔：自动人形》释出更新游戏容量从 50GB 暴涨至 366GB",
+      "date": "Fri, 06 Nov 2026 05:07:38 GMT",
+      "summary": "2017 年发售的《尼尔：自动人形（Nier: Automata）》释出了最新更新，加入了对简繁体中文以及韩文的支持，但游戏的打包显然存在 bug，整个游戏文件的容量从 50GB 暴涨至 366GB。《尼尔：自动人形》共有八个 DLC，每增加一个 DLC，游戏的容量就会增加 40GB，也就是每个 DLC 都包含了主游戏文件。现在想要玩《尼尔》的中韩玩家最好先等待游戏开发商释出修正，除非你的 SSD 有几百 GB 的可用空间。",
+      "url": "https://www.solidot.org/story?sid=85811",
+      "category": ""
+    },
     {
       "title": "印度金融机构遭黑客利用 AI 工具发动的网络攻击",
       "date": "Thu, 05 Nov 2026 16:53:00 GMT",
@@ -29,20 +43,6 @@
       "date": "Thu, 05 Nov 2026 10:22:27 GMT",
       "summary": "安全公司 Layer3 Intel 报告，他们在分配给白宫的自治系统 AS2650 中监测到住宅代理服务的活动。住宅代理服务会将用户的网络地址租给其他人使用。Layer3 在 10 月 5 日-11 月 3 日期间观察到了 236 次住宅代理连接活动。住宅代理的源头被认为来自 Windows 11 设备安装的俄罗斯代理程序 Infatica。Layer3 Intel 指出，在30 天内有 26 天出现了源自白宫的代理出口节点流量，涉及 6 个 IP，大部分活动发生在傍晚，即下午 5 点至午夜之间。",
       "url": "https://www.solidot.org/story?sid=85806",
-      "category": ""
-    },
-    {
-      "title": "Bazzite 45 释出",
-      "date": "Thu, 05 Nov 2026 09:56:56 GMT",
-      "summary": "基于 Fedora 的游戏发行版 Bazzite 释出了 v45。主要变化包括；基于 Fedora 45，更新 Open Gaming Collective(OGC)内核，支持罗技 TrueWheel 设备等等。过去几年 Linux 对游戏的支持有了显著改善，但对很多用户而言仍然需要自行配置。Bazzite 项目旨在让 Linux 桌面用户无需额外配置就能畅玩游戏，设计类似 Valve 的 SteamOS，但更适合通用桌面使用情景：SteamOS 主要支持 AMD GPU，Bazzite 包含了私有的 NVIDIA 驱动。",
-      "url": "https://www.solidot.org/story?sid=85805",
-      "category": ""
-    },
-    {
-      "title": "Google 和 OpenAI 的模型对特定口音有偏见",
-      "date": "Thu, 05 Nov 2026 09:00:58 GMT",
-      "summary": "研究人员调查了先进多模态模型如何评估面试、会议报告和英语口语能力测试中的语音，测试的模型包括了 Google 的 Gemini 2.5 Pro 和 Gemini 2.5 Flash，以及 OpenAI 的 GPT-Audio 1.5，开放权重模型 Qwen 3 Omni。这些模型对五种不同口音——美国、英国、中国、印度和尼日利亚——的英语语音进行了评分。AI 模型普遍将中国和尼日利亚口音的评分最低，印度口音居中，美国和英国口音的评分最高。即使内容完全相同，系统仍然认为美国和英国口音的表达方式和内容都更胜一筹。研究团队发现，明显的等级划分也体现在模型的解释中。研究人员说，模型反复声称中国和尼日利亚口音的英语使用者含糊不清或难以理解，但实际上它们非常擅长转录带有口音的语音，它们理解说话者，但它们只是基于口音，对说话者存在一种隐性的等级观念。",
-      "url": "https://www.solidot.org/story?sid=85804",
       "category": ""
     }
   ],

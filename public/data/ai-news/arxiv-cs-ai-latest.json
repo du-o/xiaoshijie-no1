@@ -1,69 +1,65 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-11-05T19:05:58.009Z",
+  "fetch_time": "2026-11-06T05:58:02.890Z",
   "articles": [
     {
-      "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
-      "date": "Thu, 05 Nov 2026 05:00:00 GMT",
-      "summary": "arXiv:2611.05390v1 Announce Type: new Abstract: Multi-agent language-model systems often add a reviewer to improve an upstream agent's decision. Yet a reviewer can both repair errors and replace decisions that were already correct. We study this as a problem of institutional jurisdiction: conditional on the same proposal, task information, model, and review output, when is the reviewer authorized to make its recommendation binding? We compare broad override authority with an evidence gate that p",
-      "url": "https://arxiv.org/abs/2611.05390",
+      "title": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
+      "date": "Fri, 06 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2611.06962v1 Announce Type: new Abstract: Proof assistants such as Lean check mathematical proofs down to the axioms, and AI agents have recently made writing such proofs cheap. We describe AutoIP, a Lean library in which classical linear regularization theory, together with the functional analysis it rests on, has been autoformalized by AI agents. A machine-checked proof certifies only the formal statement it proves, so the remaining human task is to confirm that each formal statement say",
+      "url": "https://arxiv.org/abs/2611.06962",
+      "category": "cs.AI"
+    },
+    {
+      "title": "KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks",
+      "date": "Fri, 06 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2611.06972v1 Announce Type: new Abstract: Liability adjudication tasks (e.g., legal charge determination) require analyzing event descriptions against domain-specific skills to determine whether a party should bear liability. While Large Language Models (LLMs) have shown promise in this area by leveraging executable skills for interpretable reasoning, existing approaches face three critical limitations: skill libraries become stale as real-world scenarios dynamically evolve, skill descript",
+      "url": "https://arxiv.org/abs/2611.06972",
       "category": [
         "cs.AI",
-        "cs.MA"
+        "cs.CY"
       ]
     },
     {
-      "title": "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents",
-      "date": "Thu, 05 Nov 2026 05:00:00 GMT",
-      "summary": "arXiv:2611.05391v1 Announce Type: new Abstract: Tool descriptions tell an agent what an action can do, but they do not necessarily reveal whether that action is healthy or suitable at the moment of use. Execution harnesses often possess this information through monitors, traces, and recent failures while the model choosing the next action does not. We call this gap operational blindness. We introduce Agent Harness Awareness, a trust-separated design in which the host supplies a small, fresh, ver",
-      "url": "https://arxiv.org/abs/2611.05391",
+      "title": "BlockLock: Reproducible LLM Inference with Fixed Batch Geometry",
+      "date": "Fri, 06 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2611.06977v1 Announce Type: new Abstract: Reproducible LLM inference requires that a request produces the same output regardless of the other requests in the batch. Existing solutions pay for this in different ways: batch-invariant kernels constrain every operator, and isolating prefill with fixed-shape decode ({our CoRun-style baseline}) gives up shared prefill compute and pads decode. We present BlockLock, which keeps shared batched prefill and pins only the numerical path of the protect",
+      "url": "https://arxiv.org/abs/2611.06977",
       "category": [
         "cs.AI",
         "cs.CL"
       ]
     },
     {
-      "title": "Uncertainty-Aware Resource Orchestration for Agentic AI Systems",
-      "date": "Thu, 05 Nov 2026 05:00:00 GMT",
-      "summary": "arXiv:2611.05392v1 Announce Type: new Abstract: Agentic artificial intelligence (AI) systems powered by large language models (LLMs) execute as autonomous multi-step pipelines that dynamically invoke tools, integrate observations into memory, and iterate until a task is resolved or a resource budget is exhausted. Unlike classical workflows with fixed graphs, the aggregate compute, bandwidth, and end-to-end latency demands of such pipelines are unknown at dispatch time: they emerge at runtime fro",
-      "url": "https://arxiv.org/abs/2611.05392",
+      "title": "Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism",
+      "date": "Fri, 06 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2611.06984v1 Announce Type: new Abstract: Reinforcement learning post-training improves the capabilities of large language models, but generating training responses is a major computational bottleneck. In mixture-of-experts models, workers that finish their assigned responses may remain occupied because their experts are still needed by workers processing longer responses. Consequently, approximately one-third of occupied worker time in the baseline occurs after local response generation f",
+      "url": "https://arxiv.org/abs/2611.06984",
+      "category": [
+        "cs.AI",
+        "cs.DC"
+      ]
+    },
+    {
+      "title": "The Two-Ledger Model: Transaction-Grain Cost Accounting for Multi-Agent AI Systems Across Clouds, Models, and Systems of Record",
+      "date": "Fri, 06 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2611.06989v1 Announce Type: new Abstract: Enterprises run business transactions through multi-agent AI systems spanning clouds, large language models (LLMs), orchestration harnesses, and systems of record. Finance receives AI cost only at settlement grain, aggregated by SKU and charge period. The business question (what did this order, claim, or case cost in AI?) cannot be answered from billing data, because providers never see enterprise transaction boundaries. The FinOps Open Cost and Us",
+      "url": "https://arxiv.org/abs/2611.06989",
       "category": [
         "cs.AI",
         "cs.DC",
-        "cs.LG",
-        "cs.MA",
-        "cs.NI"
+        "cs.MA"
       ]
     },
     {
-      "title": "Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning",
-      "date": "Thu, 05 Nov 2026 05:00:00 GMT",
-      "summary": "arXiv:2611.05393v1 Announce Type: new Abstract: Large language models perform strongly on standard medical QA but degrade on harder reasoning tasks, where multi-agent debate often fails to beat strong single-model prompting. We argue that a key limitation is that existing systems select experts and retrieve knowledge from the question alone, rather than from gaps that emerge during reasoning. We propose challenge-aware adaptive recruitment: an external CHALLENGER inspects the evolving reasoning ",
-      "url": "https://arxiv.org/abs/2611.05393",
+      "title": "Autonomous AI Agents Systematically Diverge From Human Preferences in Proof Formalization",
+      "date": "Fri, 06 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2611.06995v1 Announce Type: new Abstract: Artificial intelligence (AI) systems have ushered in a new age of proof abundance, but helping humans understand these proofs requires new attention to the differences in how AI agents and humans pursue a proof-making task. We present \"simulated collaboration\", a methodology that allows us to examine two key questions: (1) the relative attention AI agents pay to surface syntax or, conversely, deeper underlying semantics, and (2) how and where AI ag",
+      "url": "https://arxiv.org/abs/2611.06995",
       "category": [
         "cs.AI",
-        "cs.CL",
-        "cs.LG"
+        "cs.HC"
       ]
-    },
-    {
-      "title": "A Feasibility Condition for Confidence-Gated Tiered LLM Inference",
-      "date": "Thu, 05 Nov 2026 05:00:00 GMT",
-      "summary": "arXiv:2611.05394v1 Announce Type: new Abstract: Tiered inference distributes large language model computation across a hierarchy of devices, from on-device and edge hardware to the datacenter, and is increasingly offered as the route to cheaper, lower-latency, and more private serving. Most such systems orchestrate frozen model checkpoints, and most decide what to resolve locally and what to escalate using a confidence signal produced by a forward-deployed model. We give a closed-form condition ",
-      "url": "https://arxiv.org/abs/2611.05394",
-      "category": [
-        "cs.AI",
-        "cs.DC",
-        "cs.PF"
-      ]
-    },
-    {
-      "title": "Towards Robust Long-Lived Agents: Benchmarking Experience Lifecycles in Evolving Environments",
-      "date": "Thu, 05 Nov 2026 05:00:00 GMT",
-      "summary": "arXiv:2611.05450v1 Announce Type: new Abstract: As agents become more capable, they are moving beyond one-off tasks toward sustained assistance across successive user goals. Such assistance requires agents to discover how unfamiliar environments work, reuse what they learn across tasks, and keep that experience current as environments evolve. Existing benchmarks increasingly study experience reuse and adaptation, but provide limited insight into which parts of accumulated experience agents revis",
-      "url": "https://arxiv.org/abs/2611.05450",
-      "category": "cs.AI"
     }
   ],
   "status": "success",
