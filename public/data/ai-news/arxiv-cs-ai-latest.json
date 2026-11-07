@@ -1,67 +1,8 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-11-06T18:33:09.816Z",
-  "articles": [
-    {
-      "title": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
-      "date": "Fri, 06 Nov 2026 05:00:00 GMT",
-      "summary": "arXiv:2611.06962v1 Announce Type: new Abstract: Proof assistants such as Lean check mathematical proofs down to the axioms, and AI agents have recently made writing such proofs cheap. We describe AutoIP, a Lean library in which classical linear regularization theory, together with the functional analysis it rests on, has been autoformalized by AI agents. A machine-checked proof certifies only the formal statement it proves, so the remaining human task is to confirm that each formal statement say",
-      "url": "https://arxiv.org/abs/2611.06962",
-      "category": "cs.AI"
-    },
-    {
-      "title": "KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks",
-      "date": "Fri, 06 Nov 2026 05:00:00 GMT",
-      "summary": "arXiv:2611.06972v1 Announce Type: new Abstract: Liability adjudication tasks (e.g., legal charge determination) require analyzing event descriptions against domain-specific skills to determine whether a party should bear liability. While Large Language Models (LLMs) have shown promise in this area by leveraging executable skills for interpretable reasoning, existing approaches face three critical limitations: skill libraries become stale as real-world scenarios dynamically evolve, skill descript",
-      "url": "https://arxiv.org/abs/2611.06972",
-      "category": [
-        "cs.AI",
-        "cs.CY"
-      ]
-    },
-    {
-      "title": "BlockLock: Reproducible LLM Inference with Fixed Batch Geometry",
-      "date": "Fri, 06 Nov 2026 05:00:00 GMT",
-      "summary": "arXiv:2611.06977v1 Announce Type: new Abstract: Reproducible LLM inference requires that a request produces the same output regardless of the other requests in the batch. Existing solutions pay for this in different ways: batch-invariant kernels constrain every operator, and isolating prefill with fixed-shape decode ({our CoRun-style baseline}) gives up shared prefill compute and pads decode. We present BlockLock, which keeps shared batched prefill and pins only the numerical path of the protect",
-      "url": "https://arxiv.org/abs/2611.06977",
-      "category": [
-        "cs.AI",
-        "cs.CL"
-      ]
-    },
-    {
-      "title": "Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism",
-      "date": "Fri, 06 Nov 2026 05:00:00 GMT",
-      "summary": "arXiv:2611.06984v1 Announce Type: new Abstract: Reinforcement learning post-training improves the capabilities of large language models, but generating training responses is a major computational bottleneck. In mixture-of-experts models, workers that finish their assigned responses may remain occupied because their experts are still needed by workers processing longer responses. Consequently, approximately one-third of occupied worker time in the baseline occurs after local response generation f",
-      "url": "https://arxiv.org/abs/2611.06984",
-      "category": [
-        "cs.AI",
-        "cs.DC"
-      ]
-    },
-    {
-      "title": "The Two-Ledger Model: Transaction-Grain Cost Accounting for Multi-Agent AI Systems Across Clouds, Models, and Systems of Record",
-      "date": "Fri, 06 Nov 2026 05:00:00 GMT",
-      "summary": "arXiv:2611.06989v1 Announce Type: new Abstract: Enterprises run business transactions through multi-agent AI systems spanning clouds, large language models (LLMs), orchestration harnesses, and systems of record. Finance receives AI cost only at settlement grain, aggregated by SKU and charge period. The business question (what did this order, claim, or case cost in AI?) cannot be answered from billing data, because providers never see enterprise transaction boundaries. The FinOps Open Cost and Us",
-      "url": "https://arxiv.org/abs/2611.06989",
-      "category": [
-        "cs.AI",
-        "cs.DC",
-        "cs.MA"
-      ]
-    },
-    {
-      "title": "Autonomous AI Agents Systematically Diverge From Human Preferences in Proof Formalization",
-      "date": "Fri, 06 Nov 2026 05:00:00 GMT",
-      "summary": "arXiv:2611.06995v1 Announce Type: new Abstract: Artificial intelligence (AI) systems have ushered in a new age of proof abundance, but helping humans understand these proofs requires new attention to the differences in how AI agents and humans pursue a proof-making task. We present \"simulated collaboration\", a methodology that allows us to examine two key questions: (1) the relative attention AI agents pay to surface syntax or, conversely, deeper underlying semantics, and (2) how and where AI ag",
-      "url": "https://arxiv.org/abs/2611.06995",
-      "category": [
-        "cs.AI",
-        "cs.HC"
-      ]
-    }
-  ],
+  "fetch_time": "2026-11-07T05:29:37.382Z",
+  "articles": [],
   "status": "success",
   "error": null
 }

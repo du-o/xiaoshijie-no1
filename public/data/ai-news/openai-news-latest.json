@@ -1,7 +1,7 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-11-06T18:33:09.591Z",
+  "fetch_time": "2026-11-07T05:29:37.052Z",
   "articles": [
     {
       "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
@@ -9,6 +9,13 @@
       "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
       "url": "https://openai.com/index/partnering-with-hacktron",
       "category": "Security"
+    },
+    {
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "date": "Fri, 06 Nov 2026 00:00:00 GMT",
+      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "category": "Publication"
     },
     {
       "title": "Cult.fit builds operational muscle with Codex",
@@ -37,13 +44,6 @@
       "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
       "url": "https://openai.com/index/merge-builds-with-openai",
       "category": ""
-    },
-    {
-      "title": "Setting a new standard for responsible AI infrastructure",
-      "date": "Thu, 05 Nov 2026 02:00:00 GMT",
-      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
-      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-      "category": "Global Affairs"
     }
   ],
   "status": "success",
