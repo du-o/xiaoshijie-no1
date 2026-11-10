@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-11-10T06:49:23.304Z",
+  "fetch_time": "2026-11-10T12:05:55.281Z",
   "articles": [
+    {
+      "title": "Closing the AI guidance gap in education",
+      "date": "Tue, 10 Nov 2026 09:00:00 GMT",
+      "summary": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "category": "Company"
+    },
     {
       "title": "ChatGPT Enterprise now available in AWS Marketplace",
       "date": "Mon, 09 Nov 2026 19:00:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
       "url": "https://openai.com/index/partnering-with-hacktron",
       "category": "Security"
-    },
-    {
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "date": "Fri, 06 Nov 2026 00:00:00 GMT",
-      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "category": "Publication"
     }
   ],
   "status": "success",
