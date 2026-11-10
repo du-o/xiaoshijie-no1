@@ -1,8 +1,15 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-11-10T12:05:57.920Z",
+  "fetch_time": "2026-11-10T15:57:48.604Z",
   "articles": [
+    {
+      "title": "中国 Android 厂商开始要求开发者身份验证",
+      "date": "Tue, 10 Nov 2026 11:18:31 GMT",
+      "summary": "Google 从今年 9 月起要求验证所有 Android 应用开发者的身份，未经身份验证的开发者的应用未来将无法在 Android 设备上安装（sideload）。Google 官方博客声称它是出于安全理由要求验证开发者身份，理由是其分析显示来自第三方源的恶意应用数量是 Google Play 的 90 多倍。现在，中国主要 Android 厂商也启动了开发者身份验证：OPPO、vivo、小米、荣耀推出 Android 侧载应用开发者身份验证（Android Developer Verification，简称 ADV），支持各方验证结果互认。ADV 旨在建立开发者与其应用之间的可信关联，为用户识别应用来源、判断应用是否安全提供依据。",
+      "url": "https://www.solidot.org/story?sid=85848",
+      "category": ""
+    },
     {
       "title": "生成式 AI 过度美化现实",
       "date": "Tue, 10 Nov 2026 11:04:32 GMT",
@@ -36,13 +43,6 @@
       "date": "Tue, 10 Nov 2026 06:35:14 GMT",
       "summary": "FDA 周一表示，GLP-1 药物生产商须在产品标签上增加一项可能导致突然失明的警示。被称为非动脉炎性前部缺血性视神经病变(nonarteritic anterior ischemic optic neuropathy，NAION)的眼部疾病会影响视神经——负责将信号从眼睛传输至大脑的神经。当流向视神经的血液减少或受阻时，可能导致视力突然丧失，这种损伤是永久性的，目前无已知疗法。2024 年《JAMA Ophthalmology》期刊发表了一项研究，发现使用司美格鲁肽处方药的糖尿病患者患 NAION 的可能性是未使用该药患者的四倍。FDA 随后展开了调查，在审查了递交的副作用报告和多项临床试验的数据之后，FDA 发现所有 GLP-1 药物均出现 NAION 病例的报告。FDA 科学家尚未能明确药物导致 NAION 风险增加的具体机制。NAION 的某些危险因素，与 GLP-1 药物使用者中常见的健康状况——如 2 型糖尿病、肥胖症、睡眠呼吸暂停和高血压——存在重叠。",
       "url": "https://www.solidot.org/story?sid=85843",
-      "category": ""
-    },
-    {
-      "title": "法国称伊朗黑客组织攻击了超市的制冷控制器",
-      "date": "Tue, 10 Nov 2026 05:31:35 GMT",
-      "summary": "法国网络危机协调中心周一发表报告，称上个月对逾 700 家超市制冷控制器发动网络攻击的黑客组织是伊朗的 Shahid Kaveh aka Cyber​​Av3ngers。报告称，受影响的零售集团包括了 Casino、Leclerc、Coopérative U、Metro、Carrefour 和 Intermarché，攻击引发了至少 15 起火灾，造成了数千万欧元的食品损失。法国欧洲与外交部在一份声明中表示：“就规模和攻击强度而言，这是一场前所未有的行动，这也是在法国领土上首次发生的、纯粹以破坏为目的的网络攻击行动。”",
-      "url": "https://www.solidot.org/story?sid=85842",
       "category": ""
     }
   ],
