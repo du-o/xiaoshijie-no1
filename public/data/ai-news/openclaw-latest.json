@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-11-10T15:57:58.066Z",
+  "fetch_time": "2026-11-10T18:56:51.868Z",
   "articles": [
+    {
+      "title": "openclaw 2026.11.3",
+      "date": "2026-11-10T18:53:07Z",
+      "summary": "## 2026.11.3\n\n### Highlights\n\n- **Private task results:** Keep private subagent completions out of streamed chat replies. (#188490) Thanks @fuller-stack-dev.\n- **Reliable child-task handoffs:** Allow ...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.11.3",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.11.3",
+      "downloadCount": 0
+    },
     {
       "title": "openclaw 2026.11.2",
       "date": "2026-11-08T19:31:04Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.2",
-      "downloadCount": 17414
+      "downloadCount": 18577
     },
     {
       "title": "openclaw 2026.11.1",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.1",
-      "downloadCount": 25313
+      "downloadCount": 25334
     },
     {
       "title": "openclaw 2026.11.5-beta.1",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.10.10",
-      "downloadCount": 24334
+      "downloadCount": 24346
     },
     {
       "title": "openclaw 2026.10.10-beta.5",
@@ -52,16 +62,6 @@
       "author": "github-actions[bot]",
       "tagName": "v2026.10.10-beta.5",
       "downloadCount": 312
-    },
-    {
-      "title": "openclaw 2026.10.9",
-      "date": "2026-10-29T15:54:35Z",
-      "summary": "## 2026.10.9\n\n### Highlights\n\n- Patch vulnerable runtime dependencies: fast-uri 4.2.3 rejects malformed URI schemes and hosts in MCP schema validation, oversized Zod collections are rejected early in ...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.10.9",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.10.9",
-      "downloadCount": 40511
     }
   ],
   "status": "success",
