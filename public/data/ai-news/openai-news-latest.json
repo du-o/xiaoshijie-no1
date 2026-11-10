@@ -1,7 +1,7 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-11-09T21:39:53.378Z",
+  "fetch_time": "2026-11-10T06:49:23.304Z",
   "articles": [
     {
       "title": "ChatGPT Enterprise now available in AWS Marketplace",
@@ -9,6 +9,20 @@
       "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
       "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
       "category": "Product"
+    },
+    {
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "date": "Mon, 09 Nov 2026 13:00:00 GMT",
+      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "url": "https://openai.com/index/control-room",
+      "category": "Safety"
+    },
+    {
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "date": "Mon, 09 Nov 2026 08:00:00 GMT",
+      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "category": "Startup"
     },
     {
       "title": "Kuken Industries searches 70 years of drawings in minutes",
@@ -30,20 +44,6 @@
       "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
       "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
       "category": "Publication"
-    },
-    {
-      "title": "Cult.fit builds operational muscle with Codex",
-      "date": "Thu, 05 Nov 2026 20:00:00 GMT",
-      "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
-      "url": "https://openai.com/index/cultfit-builds-with-codex",
-      "category": ""
-    },
-    {
-      "title": "Australian universities are creating AI-native graduates",
-      "date": "Thu, 05 Nov 2026 17:00:00 GMT",
-      "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
-      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
-      "category": "Company"
     }
   ],
   "status": "success",
