@@ -1,7 +1,7 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-11-11T15:43:21.312Z",
+  "fetch_time": "2026-11-11T18:54:36.809Z",
   "articles": [
     {
       "title": "Gilbert + Tobin rethinks the business of law with AI",
@@ -16,6 +16,13 @@
       "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
       "url": "https://openai.com/index/chatgpt-plus-for-veterans",
       "category": "Company"
+    },
+    {
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "date": "Wed, 11 Nov 2026 00:00:00 GMT",
+      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "category": ""
     },
     {
       "title": "Helping caregivers use AI in everyday life",
@@ -37,13 +44,6 @@
       "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
       "url": "https://openai.com/index/closing-ai-guidance-gap-education",
       "category": "Company"
-    },
-    {
-      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
-      "date": "Tue, 10 Nov 2026 08:00:00 GMT",
-      "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
-      "url": "https://openai.com/index/singapore-airlines-travel-work",
-      "category": ""
     }
   ],
   "status": "success",
