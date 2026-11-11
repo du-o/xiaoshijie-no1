@@ -1,7 +1,7 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-11-10T18:56:51.868Z",
+  "fetch_time": "2026-11-11T05:38:25.103Z",
   "articles": [
     {
       "title": "openclaw 2026.11.3",
@@ -11,7 +11,17 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.3",
-      "downloadCount": 0
+      "downloadCount": 3793
+    },
+    {
+      "title": "openclaw 2026.9.37",
+      "date": "2026-11-10T20:42:54Z",
+      "summary": "This is a gateway-only `extended-stable` release, published from a retired maintenance line by explicit maintainer decision. This release is OpenClaw from the end of September 2026, plus critical secu...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.9.37",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.9.37",
+      "downloadCount": 49
     },
     {
       "title": "openclaw 2026.11.2",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.2",
-      "downloadCount": 18577
+      "downloadCount": 19643
     },
     {
       "title": "openclaw 2026.11.1",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.1",
-      "downloadCount": 25334
+      "downloadCount": 25384
     },
     {
       "title": "openclaw 2026.11.5-beta.1",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.5-beta.1",
-      "downloadCount": 144
+      "downloadCount": 153
     },
     {
       "title": "openclaw 2026.10.10",
@@ -51,17 +61,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.10.10",
-      "downloadCount": 24346
-    },
-    {
-      "title": "openclaw 2026.10.10-beta.5",
-      "date": "2026-10-30T03:57:14Z",
-      "summary": "## 2026.10.10-beta.5\n\n### Highlights\n\n- Node compatibility: installs and updates work again on Node `>=24.16.0 <25 || >=26.1.0`; Node 24.22.1 or 26.12.1 is now a security recommendation instead of a h...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.10.10-beta.5",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.10.10-beta.5",
-      "downloadCount": 312
+      "downloadCount": 24381
     }
   ],
   "status": "success",
