@@ -1,69 +1,8 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-11-13T11:52:08.809Z",
-  "articles": [
-    {
-      "title": "openclaw 2026.11.5-beta.2",
-      "date": "2026-11-12T00:43:25Z",
-      "summary": "## 2026.11.5-beta.2\n\n### Highlights\n\n- Large conversations remain browsable with paged history in both directions, visible history boundaries, and bounded archive reads. (#188450 #188483 #188557 #1883...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.11.5-beta.2",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.11.5-beta.2",
-      "downloadCount": 153
-    },
-    {
-      "title": "openclaw 2026.11.3",
-      "date": "2026-11-10T18:53:07Z",
-      "summary": "## 2026.11.3\n\n### Highlights\n\n- **Private task results:** Keep private subagent completions out of streamed chat replies. (#188490) Thanks @fuller-stack-dev.\n- **Reliable child-task handoffs:** Allow ...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.11.3",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.11.3",
-      "downloadCount": 19220
-    },
-    {
-      "title": "openclaw 2026.9.37",
-      "date": "2026-11-10T20:42:54Z",
-      "summary": "This is a gateway-only `extended-stable` release, published from a retired maintenance line by explicit maintainer decision. This release is OpenClaw from the end of September 2026, plus critical secu...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.9.37",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.9.37",
-      "downloadCount": 110
-    },
-    {
-      "title": "openclaw 2026.11.2",
-      "date": "2026-11-08T19:31:04Z",
-      "summary": "<!-- openclaw-release-publication:docs-v1 -->\n\n## OpenClaw v2026.11.2\n\n166 commits · 113 pull requests · 64 contributors\n\n### Changes included in this release\n\nThe release notes and changelog contain ...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.11.2",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.11.2",
-      "downloadCount": 23296
-    },
-    {
-      "title": "openclaw 2026.11.1",
-      "date": "2026-11-05T09:48:37Z",
-      "summary": "## 2026.11.1\n\n### Highlights\n\n- Safer Mac settings: failed config saves no longer overwrite secrets, and turning off Tailscale exposure keeps Gateway authentication intact. (#187734, #187664) Fixes #1...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.11.1",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.11.1",
-      "downloadCount": 25544
-    },
-    {
-      "title": "openclaw 2026.11.5-beta.1",
-      "date": "2026-11-04T04:51:56Z",
-      "summary": "## 2026.11.5-beta.1\n\n### Highlights\n\n- **Knowledge Scribes:** add first-class knowledge capture and reusable scribe workflows across agents, sessions, and the Control UI. (#185583, #185637, #185974, #...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.11.5-beta.1",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.11.5-beta.1",
-      "downloadCount": 159
-    }
-  ],
-  "status": "success",
-  "error": null
+  "fetch_time": "2026-11-13T15:48:16.134Z",
+  "articles": [],
+  "status": "error",
+  "error": "GitHub API 请求失败: 403"
 }
