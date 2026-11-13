@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-11-13T15:48:02.044Z",
+  "fetch_time": "2026-11-13T18:49:30.286Z",
   "articles": [
+    {
+      "title": "Introducing ChatGPT Wallet",
+      "date": "Fri, 13 Nov 2026 15:00:00 GMT",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "category": "Product"
+    },
     {
       "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
       "date": "Thu, 12 Nov 2026 20:00:00 GMT",
@@ -37,13 +44,6 @@
       "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
       "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
       "category": ""
-    },
-    {
-      "title": "ChatGPT Plus for veterans and servicemembers",
-      "date": "Wed, 11 Nov 2026 08:00:00 GMT",
-      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
-      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
-      "category": "Company"
     }
   ],
   "status": "success",

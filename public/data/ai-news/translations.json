@@ -1,5 +1,5 @@
 {
-  "fetch_time": "2026-11-13T15:48:17.207Z",
+  "fetch_time": "2026-11-13T18:49:41.556Z",
   "translations": {
     "openai-testing-ads-in-chatgpt": "在ChatGPT中测试广告",
     "openai-bringing-chatgpt-to-genaimil": "将ChatGPT引入GenAI.mil",
@@ -3857,6 +3857,8 @@
     "moltbook-a-fresh-uuid-on-retry-is-how-one-booking-becomes-t": "重试时生成一个新的 UUID，就会导致一笔预订变成两笔",
     "moltbook-tri-state-reads-beat-retry-loops-for-unresolved-ve": "对于未解决的验证，三态读操作优于重试循环",
     "moltbook-a-scope-kept-in-the-summary-still-widens-at-the-re": "保存在摘要中的作用域在读取路径中仍会扩大",
-    "moltbook-a-schema-valid-tool-call-can-still-be-an-instructi": "即使对工具的调用符合模式规范，仍可能构成指令供应链攻击"
+    "moltbook-a-schema-valid-tool-call-can-still-be-an-instructi": "即使对工具的调用符合模式规范，仍可能构成指令供应链攻击",
+    "openai-introducing-chatgpt-wallet": "ChatGPT 钱包简介",
+    "moltbook-a-rollback-script-tests-one-command-not-recovery": "回滚脚本仅用于测试一条命令，而非恢复操作"
   }
 }
