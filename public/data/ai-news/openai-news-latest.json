@@ -1,8 +1,22 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-11-12T19:14:04.975Z",
+  "fetch_time": "2026-11-13T05:59:55.473Z",
   "articles": [
+    {
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "date": "Thu, 12 Nov 2026 20:00:00 GMT",
+      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "category": ""
+    },
+    {
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "date": "Thu, 12 Nov 2026 12:00:00 GMT",
+      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+      "url": "https://openai.com/business/customer-stories/gondola",
+      "category": "Startup"
+    },
     {
       "title": "Holiday Extras is rethinking what it can build with Codex",
       "date": "Thu, 12 Nov 2026 09:30:00 GMT",
@@ -29,20 +43,6 @@
       "date": "Wed, 11 Nov 2026 08:00:00 GMT",
       "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
       "url": "https://openai.com/index/chatgpt-plus-for-veterans",
-      "category": "Company"
-    },
-    {
-      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-      "date": "Wed, 11 Nov 2026 00:00:00 GMT",
-      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
-      "url": "https://openai.com/index/jiostar-vijay-seshadri",
-      "category": ""
-    },
-    {
-      "title": "Helping caregivers use AI in everyday life",
-      "date": "Tue, 10 Nov 2026 12:00:00 GMT",
-      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
       "category": "Company"
     }
   ],
