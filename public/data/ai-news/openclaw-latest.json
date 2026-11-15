@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-11-14T17:21:10.511Z",
+  "fetch_time": "2026-11-15T05:49:58.614Z",
   "articles": [
+    {
+      "title": "openclaw 2026.11.5-beta.3",
+      "date": "2026-11-15T00:31:00Z",
+      "summary": "## 2026.11.5-beta.3\n\n### Highlights\n\n- **Large-session reliability:** reduce memory pressure during transcript indexing, trimming, and compaction; stream only selected hydration payloads and honor con...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.11.5-beta.3",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.11.5-beta.3",
+      "downloadCount": 38
+    },
     {
       "title": "openclaw 2026.11.5-beta.2",
       "date": "2026-11-12T00:43:25Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.5-beta.2",
-      "downloadCount": 259
+      "downloadCount": 277
     },
     {
       "title": "openclaw 2026.11.3",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.3",
-      "downloadCount": 26014
+      "downloadCount": 28302
     },
     {
       "title": "openclaw 2026.9.37",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.37",
-      "downloadCount": 128
+      "downloadCount": 129
     },
     {
       "title": "openclaw 2026.11.2",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.2",
-      "downloadCount": 25206
+      "downloadCount": 25883
     },
     {
       "title": "openclaw 2026.11.1",
@@ -51,17 +61,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.1",
-      "downloadCount": 25638
-    },
-    {
-      "title": "openclaw 2026.11.5-beta.1",
-      "date": "2026-11-04T04:51:56Z",
-      "summary": "## 2026.11.5-beta.1\n\n### Highlights\n\n- **Knowledge Scribes:** add first-class knowledge capture and reusable scribe workflows across agents, sessions, and the Control UI. (#185583, #185637, #185974, #...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.11.5-beta.1",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.11.5-beta.1",
-      "downloadCount": 164
+      "downloadCount": 25679
     }
   ],
   "status": "success",
