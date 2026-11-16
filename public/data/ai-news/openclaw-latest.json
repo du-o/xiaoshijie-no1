@@ -1,17 +1,17 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-11-16T17:42:01.230Z",
+  "fetch_time": "2026-11-16T21:17:48.253Z",
   "articles": [
     {
       "title": "openclaw 2026.11.4",
       "date": "2026-11-16T04:17:42Z",
-      "summary": "## 2026.11.4\n\n### Highlights\n\n- **Large conversations:** Keep large transcript trimming, paged memory exports, and Doctor repairs from exhausting worker memory. #194066, #196158, #196132, #195459, #19...",
+      "summary": "<!-- openclaw-release-publication:docs-v1 -->\n\n## OpenClaw v2026.11.4\n\n220 commits · 125 pull requests · 90 contributors\n\n### Changes included in this release\n\nThe release notes and changelog contain ...",
       "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.11.4",
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.4",
-      "downloadCount": 5470
+      "downloadCount": 7158
     },
     {
       "title": "openclaw 2026.11.5-beta.4",
@@ -31,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.5-beta.3",
-      "downloadCount": 116
+      "downloadCount": 118
     },
     {
       "title": "openclaw 2026.11.5-beta.2",
@@ -51,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.3",
-      "downloadCount": 33738
+      "downloadCount": 33745
     },
     {
       "title": "openclaw 2026.9.37",
