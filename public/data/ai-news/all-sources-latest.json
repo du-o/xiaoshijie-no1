@@ -1,13 +1,151 @@
 {
-  "fetch_time": "2026-11-15T18:01:54.777Z",
-  "total_count": 30,
+  "fetch_time": "2026-11-16T05:49:40.515Z",
+  "total_count": 36,
   "sources_count": 6,
   "errors": null,
   "articles": [
     {
+      "title": "瑞银预测金价将在2027年第四季度触及每盎司5000美元",
+      "date": "Mon, 16 Nov 2026 05:46:05 GMT",
+      "summary": "瑞银集团预计金价将在2027年第四季度触及每盎司5000美元，主要受贬值交易支撑；并维持对澳大利亚上市黄金矿业公司的买入评级。分析师表示，瑞银仍然“看好长期贬值交易”，但已“推迟”其黄金价格预测的轨迹。瑞银已将本季度金价预测下调10%至每盎司4500美元。（新浪财经）",
+      "url": "https://36kr.com/newsflashes/4072013261853825?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "沪深两市成交额突破1万亿",
+      "date": "Mon, 16 Nov 2026 05:33:44 GMT",
+      "summary": "36氪获悉，沪深两市成交额突破1万亿，较上一日此时缩量超1200亿。",
+      "url": "https://36kr.com/newsflashes/4072001110446980?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "CPO概念持续走弱，中际旭创跌近10%创年内新低",
+      "date": "Mon, 16 Nov 2026 05:32:30 GMT",
+      "summary": "36氪获悉，CPO概念持续走弱，中际旭创跌近10%，创年内新低，A+H股总市值跌破5000亿，中石科技、杰普特、蘅东光、炬光科技、罗博特科、仕佳光子跌超10%，天孚通信、东山精密、太辰光、新易盛等跌幅靠前。",
+      "url": "https://36kr.com/newsflashes/4071999910483078?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "腾讯混元Hy4 flash发布，任务速度大幅提升",
+      "date": "Mon, 16 Nov 2026 05:20:18 GMT",
+      "summary": "36氪获悉，11月16日，腾讯混元最新语言模型Hy4 flash发布，模型总参数量为224B（其中64B Engram参数），激活参数仅为12B，支持多模态和1M上下文长度。Hy4 flash每百万Token输入0.5元、输出2元，命中缓存时仅需0.02元，价格相比Hy4大幅降低。",
+      "url": "https://36kr.com/newsflashes/4071987913610116?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "丰田汽车将于12月启动劳资薪资谈判",
+      "date": "Mon, 16 Nov 2026 05:11:59 GMT",
+      "summary": "据媒体援引一位知情人士的消息报道，丰田汽车将提前至12月与工会启动薪资谈判，这早于其通常在2月进行的常规谈判。管理层与工会将利用额外的时间来审视这家汽车制造商所面临的商业环境，工会在2月正式提出加薪诉求时也将把该因素纳入考量。（新浪财经）",
+      "url": "https://36kr.com/newsflashes/4071979732226953?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "美国航班取消量超1.7万架次，创下最严重技术故障纪录",
+      "date": "Mon, 16 Nov 2026 05:01:53 GMT",
+      "summary": "据旅行应用程序Flighty称，周末美国发生的航空交通瘫痪事件，是35年来因技术问题导致航班取消数量最多的一次，超过了西南航空2022年的系统崩溃事件。据Flighty和Cirium等航空数据提供商称，周五长达四小时的全国性停飞令波及了美国所有航空公司，截至周日，航班取消数量已超过1.7万架次。这一数字超过了2022年冬季假期期间因西南航空技术故障导致的16900架次航班取消纪录。（新浪财经）",
+      "url": "https://36kr.com/newsflashes/4071945301283969?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
+      "date": "Mon, 16 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2611.17338v1 Announce Type: new Abstract: LLM memory systems often delete facts classified as stale. We show that this hard-filtering step can reduce downstream accuracy when resolver errors delete query-critical facts. Across three models, a controlled sensitivity intervention moves hard-drop from gains of +0.186 to +0.230 at perfect resolution to losses of -0.176 to -0.181 at the lowest tested reliability. Paired targeted interventions show that false-drop causes significantly greater de",
+      "url": "https://arxiv.org/abs/2611.17338",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs",
+      "date": "Mon, 16 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2611.17339v1 Announce Type: new Abstract: Hallucination detection for large language models is dominated by methods evaluated on 7B-70B research models with abundant sampling budgets and exact-match or ROUGE correctness labels. The small models practitioners actually ship on-device, Phi-3-mini, Llama-3.2-3B-Instruct, Qwen2.5-3B-Instruct, and Gemma-2-2B-Instruct, typically at 4-bit precision, sit outside this evidence base. We present a reproducible one-GPU audit of four detectors spanning ",
+      "url": "https://arxiv.org/abs/2611.17339",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
+      "date": "Mon, 16 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2611.17340v1 Announce Type: new Abstract: Large language models are expensive to update through full retraining. Parameter-efficient fine-tuning reduces the cost of adaptation, but repeated adaptation creates a growing pool of task-specific LoRA adapters. This pool complicates adapter selection during inference. Existing routing and encoder-based methods often require retraining when new adapters are added, which limits their use in dynamic settings. This paper treats adapter routing as a ",
+      "url": "https://arxiv.org/abs/2611.17340",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction",
+      "date": "Mon, 16 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2611.17341v1 Announce Type: new Abstract: Medication prediction from electronic health records is a fixed vocabulary structured prediction problem, yet recent clinical RAG systems often treat it like open ended case based reasoning: retrieve similar patient admissions and ask an LLM to infer a medication set. This retrieval object is indirect the model receives retrieved patient records while the target is a discrete set of medication class labels. We propose a more task aligned retrieval ",
+      "url": "https://arxiv.org/abs/2611.17341",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "An Operationalization of Opaque Serial Depth",
+      "date": "Mon, 16 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2611.17495v1 Announce Type: new Abstract: Chain-of-thought (CoT) is currently a valuable tool for overseeing AI models, but some architectural shifts could significantly reduce CoT monitorability. We operationalize a measure that serves as a proxy for the amount of unverbalized serial cognition a model can perform, as a specific instantiation of the notion of opaque serial depth: roughly, the length of the longest path through a model's computation that does not pass through an interpretab",
+      "url": "https://arxiv.org/abs/2611.17495",
+      "category": [
+        "cs.AI",
+        "cs.LG"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Advancing Quantization for R&amp;R Models with Microscaling Formats",
+      "date": "Mon, 16 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2611.17501v1 Announce Type: new Abstract: Recommendation and Ranking (R&amp;R) models, particularly in digital advertising, require massive inference throughput but exhibit extreme sensitivity to precision loss. Unlike Large Language Models (LLMs) that frequently tolerate quantization-induced accuracy drops of 1% or more, production-grade R&amp;R models enforce a stringent launch bar: model quality must remain within a 0.01% Normalized Entropy (NE) margin relative to the baseline, which co",
+      "url": "https://arxiv.org/abs/2611.17501",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "A step toward defining the Standard Model on a lattice",
+      "date": "Sun, 15 Nov 2026 22:00:01 GMT",
+      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "category": "Science",
+      "source": "OpenAI News",
+      "source_name": "openai"
+    },
+    {
+      "title": "Our new blog for science",
+      "date": "Sun, 15 Nov 2026 22:00:00 GMT",
+      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "category": "Science",
+      "source": "OpenAI News",
+      "source_name": "openai"
+    },
+    {
+      "title": "The Age of A rtisanal AI Is Coming Plus: The two new levels of AI adoption, the Gemini model that doesn’t know when to stop, and how to turn your corrections into checks",
+      "url": "https://every.to/context-window/the-age-of-artisanal-ai-is-coming",
+      "date": "2026-11-15T18:01:58.949Z",
+      "summary": "",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
       "title": "Your Attention Is A I's New Bottleneck Plus: Why teams still pay for software anyone can vibe code, a bad week for Nvidia, and the engineering job that's up 4.6x",
-      "url": "https://every.to/context-window/your-attention-is-ai-s-new-bottleneck?utm_cta_source=newsletter_main_your_attention_is_ai_s_new_bottleneckplus_why_teams_still_pay_for_software_anyone_can_vibe_code_a_ba_1",
-      "date": "2026-11-15T15:07:38.532Z",
+      "url": "https://every.to/context-window/your-attention-is-ai-s-new-bottleneck",
+      "date": "2026-11-15T18:01:58.949Z",
       "summary": "",
       "category": "Context Window",
       "source": "Every.to",
@@ -15,8 +153,8 @@
     },
     {
       "title": "The Next Two L evels of AI Adoption What comes after orchestration?",
-      "url": "https://every.to/also-true-for-humans/the-next-two-levels-of-ai-adoption?utm_cta_source=newsletter_main_the_next_two_levels_of_ai_adoptionwhat_comes_after_orchestration_1",
-      "date": "2026-11-15T15:07:38.532Z",
+      "url": "https://every.to/also-true-for-humans/the-next-two-levels-of-ai-adoption",
+      "date": "2026-11-15T18:01:58.949Z",
       "summary": "",
       "category": "Also True for Humans",
       "source": "Every.to",
@@ -24,8 +162,8 @@
     },
     {
       "title": "What's Left for H umans After Automation Plus: Turn your AI corrections into tests, where the hours saved by AI agents actually go, and a CEO's surprise job-interview question",
-      "url": "https://every.to/context-window/what-s-left-for-humans-after-automation?utm_cta_source=newsletter_main_what_s_left_for_humans_after_automationplus_turn_your_ai_corrections_into_tests_where_the_hours_save_1",
-      "date": "2026-11-15T15:07:38.532Z",
+      "url": "https://every.to/context-window/what-s-left-for-humans-after-automation",
+      "date": "2026-11-15T18:01:58.949Z",
       "summary": "",
       "category": "Context Window",
       "source": "Every.to",
@@ -33,8 +171,8 @@
     },
     {
       "title": "Vibe Check: Gemini 4 C arbon's Coding Outpaces Its Judgment A stronger coder and a win for Google’s loyalists, Carbon arrives just as Fable 5.2 raises the bar again",
-      "url": "https://every.to/vibe-check/vibe-check-gemini-4-carbon-doesn-t-know-when-to-stop?utm_cta_source=newsletter_main_vibe_check_gemini_4_carbon_s_coding_outpaces_its_judgmenta_stronger_coder_and_a_win_for_google_s_loy_1",
-      "date": "2026-11-15T15:07:38.532Z",
+      "url": "https://every.to/vibe-check/vibe-check-gemini-4-carbon-doesn-t-know-when-to-stop",
+      "date": "2026-11-15T18:01:58.949Z",
       "summary": "",
       "category": "Vibe Check",
       "source": "Every.to",
@@ -42,44 +180,17 @@
     },
     {
       "title": "Vibe Check: Fable 5.2 Is a P aradigm Shift—If You Know What to Do With It Anthropic’s new frontier model can work unattended overnight—or all weekend—and come back with professional-grade software. But getting the most out of it requires us to change how we work.",
-      "url": "https://every.to/vibe-check/fable-5-2?utm_cta_source=newsletter_main_vibe_check_fable_5_2_is_a_paradigm_shift_if_you_know_what_to_do_with_itanthropic_s_new_frontier_mode_1",
-      "date": "2026-11-15T15:07:38.532Z",
+      "url": "https://every.to/vibe-check/fable-5-2",
+      "date": "2026-11-15T18:01:58.949Z",
       "summary": "",
       "category": "Vibe Check",
       "source": "Every.to",
       "source_name": "every"
     },
     {
-      "title": "The Age of A rtisanal AI Is Coming Plus: The two new levels of AI adoption, the Gemini model that doesn’t know when to stop, and how to turn your corrections into checks",
-      "url": "https://every.to/context-window/the-age-of-artisanal-ai-is-coming?utm_cta_source=newsletter_main_the_age_of_artisanal_ai_is_comingplus_the_two_new_levels_of_ai_adoption_the_gemini_model_that_doesn__1",
-      "date": "2026-11-15T15:07:38.531Z",
-      "summary": "",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Quantum computing",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/",
-      "date": "2026-11-15T15:07:21.895Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Developer tools",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/",
-      "date": "2026-11-15T15:07:21.895Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
       "title": "Skip to main content",
       "url": "https://blog.google/#jump-content",
-      "date": "2026-11-15T15:07:21.894Z",
+      "date": "2026-11-15T18:01:57.253Z",
       "summary": "",
       "category": "Google",
       "source": "Google Blog",
@@ -88,7 +199,7 @@
     {
       "title": "Google Research",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/",
-      "date": "2026-11-15T15:07:21.894Z",
+      "date": "2026-11-15T18:01:57.253Z",
       "summary": "",
       "category": "Innovation & AI",
       "source": "Google Blog",
@@ -97,7 +208,7 @@
     {
       "title": "Google Labs",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/",
-      "date": "2026-11-15T15:07:21.894Z",
+      "date": "2026-11-15T18:01:57.253Z",
       "summary": "",
       "category": "Innovation & AI",
       "source": "Google Blog",
@@ -106,7 +217,25 @@
     {
       "title": "Gemini models",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/",
-      "date": "2026-11-15T15:07:21.894Z",
+      "date": "2026-11-15T18:01:57.253Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Quantum computing",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/",
+      "date": "2026-11-15T18:01:57.253Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Developer tools",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/",
+      "date": "2026-11-15T18:01:57.253Z",
       "summary": "",
       "category": "Innovation & AI",
       "source": "Google Blog",
@@ -140,15 +269,6 @@
       "source_name": "solidot"
     },
     {
-      "title": "黄仁勋吃了上市太早的亏",
-      "date": "Sun, 15 Nov 2026 12:41:58 GMT",
-      "summary": "作者&nbsp;|&nbsp;黄绎达 编辑&nbsp;|&nbsp;张帆 11月12日，英伟达突然宣布，公司联合创始人黄仁勋辞去总裁、首席执行官及董事职务，即时生效。现任首席财务官Colette Kress将出任临时CEO，董事会同时任命Harvey Jones为公司历史上首位董事长，并启动新任CEO的遴选程序。 自1993年创立英伟达以来，黄仁勋长达33年的掌舵生涯正式落下帷幕。从GPU到人工智能，黄仁勋带领英伟达完成了数次重大战略转型，将一家初创芯片企业发展为全球最具影响力的科技巨头之一。 然而，就在不到五个月前，黄仁勋还在英伟达年度股东大会的董事选举中获得了约99%的赞成票。如此鲜明的前后反差，也让市场重新审视一个长期被英伟达耀眼业绩所掩盖的公司治理问题： 作为公司的创始人和长期领导者，黄仁勋为何没有像谷歌的佩奇与布林、Meta的扎克伯格那样，通过AB股制度巩固自身的控制权？ 01 1999年还不是AB股时代 关于这一问题的答案，或许要从英伟达1999年上市时的股权安排说起。彼时，硅谷科技公司上市以“同股同权”为常见安排，对于创始人而言，可以凭借持股、高管职位、个人声望等方面影响",
-      "url": "https://36kr.com/p/4067755181003654?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
       "title": "亚洲象种群数量减少变得更孤立",
       "date": "Sun, 15 Nov 2026 12:12:20 GMT",
       "summary": "对斯里兰卡野生亚洲象的一项为期 12 年的研究显示，种群数量的逐渐减少可令动物社群跨越一个社会临界点，从而使长期形成的关系破裂，群体变得更小且更孤立，并威胁物种的长期生存。研究人员分析了斯里兰卡 443 头野生雌性亚洲象为期 12 年的个体观察数据。M他们发现，种群个体的逐渐流失使这一亚洲象种群跨越了社会临界点，从根本上重塑了其社会网络。随着死亡和永久离群的个体日益超过新加入的个体，象群规模变小、群体数量增多且日益孤立；到2018 年时，在最初被追踪的雌象中，近 69% 已从研究种群中消失。研究结果显示，这种碎片化不仅由个体丧失驱动，也由留存大象之间较弱社会纽带的断裂所驱动，从而导致整个种群个体间的联系减少。",
@@ -156,51 +276,6 @@
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
-    },
-    {
-      "title": "微芯生物：产品西格列他钠片续约纳入国家医保目录",
-      "date": "Sun, 15 Nov 2026 11:55:30 GMT",
-      "summary": "11月15日，微芯生物发布公告，根据国家医保局、人力资源社会保障部关于印发《国家基本医疗保险、生育保险和工伤保险药品目录》以及《商业健康保险创新药品目录》（2026年）的通知【医保发〔2026〕29号】，公司产品西格列他钠片（双洛平®）成功续约《国家医保目录》。本次续约的药品为西格列他钠片，药品分类代码为XA10BX，药品分类为乙类，剂型为片剂，协议有效期为2027年1月1日至2028年12月31日。（界面新闻）",
-      "url": "https://36kr.com/newsflashes/4070754274759813?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "恒瑞医药：12款药品纳入/续约国家医保目录",
-      "date": "Sun, 15 Nov 2026 11:34:23 GMT",
-      "summary": "11月15日，恒瑞医药公告称，公司泽美妥司他片、鲁兹诺雷钠片、恒格列净瑞格列汀二甲双胍缓释片(II)3款药品首次纳入2026年国家医保目录；注射用瑞康曲妥珠单抗新增适应症纳入，羟乙磺酸达尔西利续约并新增适应症纳入，脯氨酸恒格列净片等7款药品续约保留。上述药品2025年度合计销售额约69.51亿元，2026年1-3季度合计销售额约68.60亿元。本次纳入医保将有利于药品销售，对经营业绩的影响暂无法估计。（新浪财经）",
-      "url": "https://36kr.com/newsflashes/4070748100694913?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "游族网络：控股子公司收到14.28亿元闪存颗粒采购订单",
-      "date": "Sun, 15 Nov 2026 11:15:32 GMT",
-      "summary": "11月15日，游族网络公告称，控股子公司智存合盈于2026年11月2日与B公司签订了《采购合同》，约定B公司以订单的形式，向智存合盈采购闪存颗粒产品，合同自双方盖章之日起生效，有效期2年。《采购合同》未约定合同金额，具体价格以采购订单为准。2026年11月12日，B公司向智存合盈出具采购订单采购闪存颗粒产品，订单金额为14.28亿元人民币（含税）。（财联社）",
-      "url": "https://36kr.com/newsflashes/4070746098946951?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "君实生物：特瑞普利单抗注射液新增适应症纳入国家医保目录",
-      "date": "Sun, 15 Nov 2026 10:53:13 GMT",
-      "summary": "君实生物11月15日公告，公司产品特瑞普利单抗注射液（商品名：拓益®）联合维迪西妥单抗用于HER2表达的局部晚期或转移性尿路上皮癌的适应症纳入《国家基本医疗保险、生育保险和工伤保险药品目录（2026年）》乙类范围。截至目前，拓益®已在中国内地获批上市的13项适应症全部纳入国家医保目录，是目录中唯一用于三阴性乳腺癌、黑色素瘤、一线肾癌和一线尿路上皮癌治疗的抗PD-1单抗药物。（证券时报）",
-      "url": "https://36kr.com/newsflashes/4070743212200835?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "艾力斯：甲磺酸伏美替尼片NSCLC二线治疗适应症纳入国家医保目录",
-      "date": "Sun, 15 Nov 2026 10:32:35 GMT",
-      "summary": "11月15日，艾力斯发布公告，公司产品甲磺酸伏美替尼片（商品名“艾弗沙®”）EGFR 20号外显子插入突变非小细胞肺癌（NSCLC）二线治疗适应症被新增纳入《国家基本医疗保险、生育保险和工伤保险药品目录（2026年）》。（第一财经）",
-      "url": "https://36kr.com/newsflashes/4070741614695555?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
     },
     {
       "title": "美国失去麻疹消除地位",
@@ -253,24 +328,6 @@
       "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
       "url": "https://openai.com/business/customer-stories/gondola",
       "category": "Startup",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
-      "title": "Holiday Extras is rethinking what it can build with Codex",
-      "date": "Thu, 12 Nov 2026 09:30:00 GMT",
-      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
-      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-      "category": "",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
-      "title": "Supporting research on AI and children’s safety",
-      "date": "Thu, 12 Nov 2026 00:00:00 GMT",
-      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
-      "url": "https://openai.com/index/children-first-declaration",
-      "category": "Global Affairs",
       "source": "OpenAI News",
       "source_name": "openai"
     }

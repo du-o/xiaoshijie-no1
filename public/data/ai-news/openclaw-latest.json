@@ -1,8 +1,28 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-11-15T18:02:00.390Z",
+  "fetch_time": "2026-11-16T05:49:48.656Z",
   "articles": [
+    {
+      "title": "openclaw 2026.11.4",
+      "date": "2026-11-16T04:17:42Z",
+      "summary": "## 2026.11.4\n\n### Highlights\n\n- **Large conversations:** Keep large transcript trimming, paged memory exports, and Doctor repairs from exhausting worker memory. #194066, #196158, #196132, #195459, #19...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.11.4",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.11.4",
+      "downloadCount": 116
+    },
+    {
+      "title": "openclaw 2026.11.5-beta.4",
+      "date": "2026-11-16T03:12:26Z",
+      "summary": "## 2026.11.5-beta.4\n\n### Highlights\n\n### Changes\n\n- **Telegram widgets:** Render interactive widgets as Telegram messages (#196991) Thanks @obviyus.\n\n### Fixes\n\n- **Transcripts and attachments:** Keep...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.11.5-beta.4",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.11.5-beta.4",
+      "downloadCount": 28
+    },
     {
       "title": "openclaw 2026.11.5-beta.3",
       "date": "2026-11-15T00:31:00Z",
@@ -11,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.5-beta.3",
-      "downloadCount": 65
+      "downloadCount": 90
     },
     {
       "title": "openclaw 2026.11.5-beta.2",
@@ -21,7 +41,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.5-beta.2",
-      "downloadCount": 285
+      "downloadCount": 292
     },
     {
       "title": "openclaw 2026.11.3",
@@ -31,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.3",
-      "downloadCount": 31043
+      "downloadCount": 33097
     },
     {
       "title": "openclaw 2026.9.37",
@@ -41,27 +61,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.9.37",
-      "downloadCount": 134
-    },
-    {
-      "title": "openclaw 2026.11.2",
-      "date": "2026-11-08T19:31:04Z",
-      "summary": "<!-- openclaw-release-publication:docs-v1 -->\n\n## OpenClaw v2026.11.2\n\n166 commits · 113 pull requests · 64 contributors\n\n### Changes included in this release\n\nThe release notes and changelog contain ...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.11.2",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.11.2",
-      "downloadCount": 26627
-    },
-    {
-      "title": "openclaw 2026.11.1",
-      "date": "2026-11-05T09:48:37Z",
-      "summary": "## 2026.11.1\n\n### Highlights\n\n- Safer Mac settings: failed config saves no longer overwrite secrets, and turning off Tailscale exposure keeps Gateway authentication intact. (#187734, #187664) Fixes #1...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.11.1",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.11.1",
-      "downloadCount": 25700
+      "downloadCount": 137
     }
   ],
   "status": "success",
