@@ -1,62 +1,233 @@
 {
-  "fetch_time": "2026-11-16T12:26:21.949Z",
+  "fetch_time": "2026-11-16T17:41:13.419Z",
   "total_count": 36,
   "sources_count": 6,
   "errors": null,
   "articles": [
     {
-      "title": "科翔股份：拟8000万元—1.2亿元回购股份",
-      "date": "Mon, 16 Nov 2026 12:25:45 GMT",
-      "summary": "36氪获悉，科翔股份公告，公司拟以8000万元—1.2亿元回购股份，用于实施股权激励计划或员工持股计划。回购价格不超过115元/股。",
-      "url": "https://36kr.com/newsflashes/4072406142669952?f=rss",
+      "title": "Broadening access to AI for scientists",
+      "date": "Mon, 16 Nov 2026 17:00:00 GMT",
+      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "category": "Research",
+      "source": "OpenAI News",
+      "source_name": "openai"
+    },
+    {
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "date": "Mon, 16 Nov 2026 17:00:00 GMT",
+      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+      "url": "https://openai.com/index/strengthening-online-child-safety",
+      "category": "Safety",
+      "source": "OpenAI News",
+      "source_name": "openai"
+    },
+    {
+      "title": "Robert Pattinson 成为第七任 007",
+      "date": "Mon, 16 Nov 2026 16:18:40 GMT",
+      "summary": "英国演员 Robert Pattinson 成为继 Daniel Craig 之后的第七任 007，将出演首部由亚马逊制作的 007 电影。Robert Pattinson 也成为第一位出演过蝙蝠侠的 007 演员。在 Daniel Craig 获选饰演 007 时，他当时还不是一线明星；相比其他竞争第七任 007 的演员，Robert Pattinson 已经是一位知名度极高的明星，大多数人都听说过他的名字。亚马逊显然是希望由一名有强大票房号召力的明星领衔主演其首部 007 电影。",
+      "url": "https://www.solidot.org/story?sid=85905",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "没有足够的植物纤维肠道细菌可能会吃你的肠道内壁",
+      "date": "Mon, 16 Nov 2026 15:51:27 GMT",
+      "summary": "植物性食物中的纤维和蛋白对我们有益，但它们是如何在人体内发挥有益作用的？普林斯顿大学研究团队在 PNAS 和 Nature Metabolism 期刊上发表了两篇论文，揭示了植物蛋白和纤维在体内转化为有益代谢产物的过程。研究人员针对了名为酚代谢物的化学物质：当肠道细菌消化特定氨基酸时会产生酚代谢物。酚代谢物源自两种氨基酸酪氨酸（tyrosine）和苯丙氨酸（phenylalanine）。研究人员发现，植物纤维和特定蛋白能影响这些氨基酸最终转化为何种化学物质。研究发现，植物纤维和无法被消化的蛋白 Prif 能改变酚代谢物的平衡，将原本由酪氨酸转化而成的有害代谢产物，转变为由苯丙氨酸衍生而来的有益代谢产物。小鼠实验还发现，一旦植物纤维耗尽，肠道细菌开始以肠壁黏液层为食，进而产生可能对人体有害的化合物。研究凸显了在饮食中摄入植物性食物的重要性。",
+      "url": "https://www.solidot.org/story?sid=85904",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "微软称一个隐藏的 Windows Bug 触发了持续逾一天的宕机事故",
+      "date": "Mon, 16 Nov 2026 15:00:34 GMT",
+      "summary": "微软公布了初步事件报告，称一个隐藏的 Windows Bug 触发了持续逾一天的宕机事故。它将于 11 月 20 日公布更详细的信息。微软称，它于今年 7 月部署了针对 Microsoft 365 网络网关服务器的一项修正，运行三个多月未出现问题。但这次修正引入了一个锁争用的 bug：一个 Windows 内部进程中多个任务争夺对共享资源的访问权，特定流量条件下会耗尽处理器和内存资源。微软此前的测试未能发现这一问题，原因是测试是在硬件性能较弱的机器上进行的，在拥有更多核心的新硬件上，该问题会非常显著。两个条件触发了该 bug：Teams 流量从一个备用网关迁移到了与 Exchange Online 共用的主网关；一个不相关问题导致 14% 的网关服务器容量处于不可用状态。剩余服务器容量本来足够应付需求，但两个条件组合触发了 bug。当服务器发生故障自动系统会将连接转移到正常端点。然而这种额外的负载在其它地方引发了相同的故障，导致服务中断在不到两小时内蔓延至多个区域。最严重的时候逾八成服务器处于无响应状态。",
+      "url": "https://www.solidot.org/story?sid=85903",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "微软称下一代 Xbox 游戏机能玩 PC 游戏",
+      "date": "Mon, 16 Nov 2026 14:13:59 GMT",
+      "summary": "微软证实，代号为 Project Helix 的下一代 Xbox 游戏机既能玩主机游戏也能玩 PC 游戏。但暂时还不清楚游戏机是否能运行 Steam、Epic 等竞争对手的 PC 游戏启动器。目前所知的信息是 Project Helix 使用了基于 AMD Zen6 CPU + RDNA5 GPU 的定制 APU，与 PC 使用的 APU 区别并不大（游戏机配备的 RDNA5 CU 数量更多），因此玩 PC 游戏没多少问题，问题在于它如何控制玩家玩任意 PC 游戏。负责 Project Helix 业务的副总裁 Jason Ronald 表示， “我们的设计目标非常明确：Helix 是一款游戏主机，同时也能玩 PC 游戏。它并非是一台能玩主机游戏的 PC。我们的目标是让玩家能简单、直观且即时地进入游戏。当然如果你是硬核玩家或资深用户，想要对各项设置和性能选项进行更深度的自定义，也完全可以实现。”他称 Helix 将移除游玩障碍，消除摩擦，打破过去人为设定的界限。",
+      "url": "https://www.solidot.org/story?sid=85902",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "何小鹏：四季度小鹏汽车海外销量目标超4万台，全年将首次突破10万台",
+      "date": "Mon, 16 Nov 2026 12:59:01 GMT",
+      "summary": "小鹏集团董事长、CEO何小鹏表示，国际业务是小鹏汽车最强劲的增长和盈利驱动力。今年10月，随着MONA L03开启海外交付，海外销量达到1.3万台，同比增长166%，刷新历史纪录。四季度国际业务销量目标超过4万台，2026全年的海外销量将首次突破10万台大关。展望2027年，在海外市场的销售网络预计将会超过1000家门店，以支撑国际业务销量相比2026年翻倍以上增长。（新浪财经）",
+      "url": "https://36kr.com/newsflashes/4072438857667713?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "GIC、沙特电信据悉竞购数据中心开发商Pure DC股权",
-      "date": "Mon, 16 Nov 2026 12:22:41 GMT",
-      "summary": "新加坡政府投资公司和沙特电信公司据悉是数据中心开发商Pure Data Centres Group股权竞购的最终竞标方之一。知情人士称，在本月晚些时候提交具有约束力报价的截止日期前，GIC已与Copenhagen Infrastructure Partners联手竞购这家总部位于英国的公司Pure DC。Pure DC的所有者橡树资本正在寻求引入新的少数股东，为公司扩张提供资金。Pure DC开发和运营支撑人工智能的数字基础设施。其中一位知情人士称，在任何股权出售交易中，橡树资本可能寻求Pure DC获得约80亿美元估值。相关磋商仍在进行，尚不确定是否会有任何一家潜在买家最终决定竞购Pure DC股权。（财联社）",
-      "url": "https://36kr.com/newsflashes/4072403129668482?f=rss",
+      "title": "热门中概股美股盘前涨跌不一，小鹏集团涨超1%",
+      "date": "Mon, 16 Nov 2026 12:52:09 GMT",
+      "summary": "36氪获悉，热门中概股美股盘前涨跌不一，截至发稿，理想汽车涨超2%，名创优品、小鹏集团涨超1%，网易涨0.9%；阿里巴巴、爱奇艺、富途控股跌超2%，老虎证券跌超1%，蔚来跌0.69%。",
+      "url": "https://36kr.com/newsflashes/4072432106476419?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "AI时代，TCL华星开始重新理解一块好屏",
-      "date": "Mon, 16 Nov 2026 12:19:55 GMT",
-      "summary": "当AI进入电脑，连屏幕的长宽比都可能发生变化。 在TCL科技集团高级副总裁、TCL华星首席执行官赵军看来，当用户需要与智能体对话，额外的显示面积就可能成为新需求。这也是TCL华星布局超宽屏的一个出发点。 这个细节揭示了显示产业正在面对的变化：AI终端的交互方式，会影响屏幕的尺寸、形态与技术选择，显示企业需要更早理解终端如何使用。 11月13日，TCL华星全球显示生态大会在武汉举行。从大会和群访，可以看到TCL华星的两条探索路径：通过显示技术适配AI终端，以及把AI引入屏幕的研发制造。其实两者最终指向同一个问题——AI时代，显示企业应该承担怎样的新角色？ 从交付规格到理解体验 过去，面板企业通常根据客户提出的规格开发产品。赵军认为，随着AI终端发生变化，显示企业需要更前瞻地判断终端形态、应用场景和需求，提前做好技术与产品准备。 “去开发一块好屏在AI系统中的体验和扮演的角色”，是他对这一变化的概括。 这意味着，面板企业参与产品创新的位置有望前移。屏幕多宽、如何交互、功耗多高，需要放进终端的使用场景中一起考虑。 不同终端也会带来不同的技术需求。按照赵军的判断，传统PC增加AI能力，会提高对",
-      "url": "https://36kr.com/p/4071761698263939?f=rss",
+      "title": "美股大型科技股盘前多数下跌，英伟达跌超3%",
+      "date": "Mon, 16 Nov 2026 12:49:34 GMT",
+      "summary": "36氪获悉，美股大型科技股盘前多数下跌，截至发稿，闪迪跌超6%，SK海力士、英特尔跌超5%，英伟达跌超3%，特斯拉跌超1%，Meta跌0.74%，亚马逊跌0.62%，谷歌跌0.59%；奈飞涨0.72%，苹果涨0.48%，微软涨0.05%。",
+      "url": "https://36kr.com/newsflashes/4072429560959877?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "礼来拟以最高15亿美元现金收购Calytrix Bio",
-      "date": "Mon, 16 Nov 2026 12:15:26 GMT",
-      "summary": "礼来拟以最高15亿美元现金收购Calytrix Bio。（财联社）",
-      "url": "https://36kr.com/newsflashes/4072396002890627?f=rss",
+      "title": "顺钠股份：拟1.2亿元—2.4亿元回购股份",
+      "date": "Mon, 16 Nov 2026 12:40:53 GMT",
+      "summary": "36氪获悉，顺钠股份公告，公司拟以1.2亿元—2.4亿元回购股份，用于员工持股计划及/或股权激励计划，回购价格不超过12.36元/股。",
+      "url": "https://36kr.com/newsflashes/4072421017359495?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "巴菲特将6150股伯克希尔A类股转换为922.5万股B类股并捐赠给四家基金会",
-      "date": "Mon, 16 Nov 2026 12:07:08 GMT",
-      "summary": "11月16日消息，沃伦·巴菲特将把6150股伯克希尔哈撒韦A类股转换为922.5万股B类股，并捐赠给四家家族基金会。其中，苏珊·汤普森·巴菲特基金会将获369万股，谢伍德基金会、霍华德·G·巴菲特基金会和NoVo基金会各获184.5万股。捐赠完成后，巴菲特将持有18.214万股A类股和1162股B类股。巴菲特表示，计划将其持有的全部伯克希尔股票捐赠给这四家基金会，以逐年增加慈善拨款。（界面）",
-      "url": "https://36kr.com/newsflashes/4072387843003272?f=rss",
+      "title": "百度电话会：AI云基础设施已成为收入增长的关键驱动力",
+      "date": "Mon, 16 Nov 2026 12:39:43 GMT",
+      "summary": "36氪获悉，11月16日晚，百度在Q3财报电话会上表示，AI云基础设施已成整体收入增长的关键驱动力。三季度，该业务收入同比增长94%，较二季度进一步提速；其中，GPU云在去年同期较高基数下，收入仍同比增长191%，环比增长43%，是AI云基础设施收入增长的主要动力。本季度，GPU云、昆仑芯和MaaS合计贡献了AI云基础设施收入的一半以上。三季度，AI云基础设施业务的利润和利润率同比、环比均有提升，对百度整体利润的贡献占比也显著提高。百度表示，随着需求保持强劲、业务规模扩大和盈利能力改善，AI云基础设施的投资回收周期正在缩短。",
+      "url": "https://36kr.com/newsflashes/4072419874132870?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "金科股份：公司股票存在可能因股价低于面值被终止上市的风险",
-      "date": "Mon, 16 Nov 2026 12:06:45 GMT",
-      "summary": "36氪获悉，金科股份公告，公司股票于2026年11月16日收盘价为0.97元/股，低于1元。公司股票存在可能因股价低于面值被终止上市的风险。",
-      "url": "https://36kr.com/newsflashes/4072387474674820?f=rss",
+      "title": "何小鹏：计划明年向全球合作伙伴输出Robotaxi整体解决方案",
+      "date": "Mon, 16 Nov 2026 12:38:19 GMT",
+      "summary": "在小鹏集团2026年Q3财报电话会上，董事长、CEO何小鹏表示，小鹏Robotaxi业务获得了L4级示范运营资质，可在广州全域范围开展Robotaxi公开运营。其指出，此前，小鹏Robotaxi正式启用“小鹏悠游”品牌，“从今年四季度开始，我们计划在广州打磨出可复制的产品和服务体系，明年向全球合作伙伴输出整体解决方案。”（新浪财经）",
+      "url": "https://36kr.com/newsflashes/4072418495009921?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
+    },
+    {
+      "title": "The Age of A rtisanal AI Is Coming Plus: The two new levels of AI adoption, the Gemini model that doesn’t know when to stop, and how to turn your corrections into checks",
+      "url": "https://every.to/context-window/the-age-of-artisanal-ai-is-coming",
+      "date": "2026-11-16T12:26:26.544Z",
+      "summary": "",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Your Attention Is A I's New Bottleneck Plus: Why teams still pay for software anyone can vibe code, a bad week for Nvidia, and the engineering job that's up 4.6x",
+      "url": "https://every.to/context-window/your-attention-is-ai-s-new-bottleneck",
+      "date": "2026-11-16T12:26:26.544Z",
+      "summary": "",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "The Next Two L evels of AI Adoption What comes after orchestration?",
+      "url": "https://every.to/also-true-for-humans/the-next-two-levels-of-ai-adoption",
+      "date": "2026-11-16T12:26:26.544Z",
+      "summary": "",
+      "category": "Also True for Humans",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "What's Left for H umans After Automation Plus: Turn your AI corrections into tests, where the hours saved by AI agents actually go, and a CEO's surprise job-interview question",
+      "url": "https://every.to/context-window/what-s-left-for-humans-after-automation",
+      "date": "2026-11-16T12:26:26.544Z",
+      "summary": "",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Vibe Check: Gemini 4 C arbon's Coding Outpaces Its Judgment A stronger coder and a win for Google’s loyalists, Carbon arrives just as Fable 5.2 raises the bar again",
+      "url": "https://every.to/vibe-check/vibe-check-gemini-4-carbon-doesn-t-know-when-to-stop",
+      "date": "2026-11-16T12:26:26.544Z",
+      "summary": "",
+      "category": "Vibe Check",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Vibe Check: Fable 5.2 Is a P aradigm Shift—If You Know What to Do With It Anthropic’s new frontier model can work unattended overnight—or all weekend—and come back with professional-grade software. But getting the most out of it requires us to change how we work.",
+      "url": "https://every.to/vibe-check/fable-5-2",
+      "date": "2026-11-16T12:26:26.544Z",
+      "summary": "",
+      "category": "Vibe Check",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Skip to main content",
+      "url": "https://blog.google/#jump-content",
+      "date": "2026-11-16T12:26:24.955Z",
+      "summary": "",
+      "category": "Google",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Google Research",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/",
+      "date": "2026-11-16T12:26:24.955Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Google Labs",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/",
+      "date": "2026-11-16T12:26:24.955Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Gemini models",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/",
+      "date": "2026-11-16T12:26:24.955Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Quantum computing",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/",
+      "date": "2026-11-16T12:26:24.955Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Developer tools",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/",
+      "date": "2026-11-16T12:26:24.955Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "date": "Mon, 16 Nov 2026 12:00:00 GMT",
+      "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "category": "Research",
+      "source": "OpenAI News",
+      "source_name": "openai"
     },
     {
       "title": "美国 ULA 的 Vulcan 火箭发射失败 40 颗亚马逊卫星被毁",
@@ -86,148 +257,22 @@
       "source_name": "openai"
     },
     {
-      "title": "互联网档案存档 Salon ",
-      "date": "Mon, 16 Nov 2026 08:24:55 GMT",
-      "summary": "有 31 年历史的 Salon 于 2026 年 11 月 5 日宣布从即日起停止出版。Salon 创办于 1995 年 11 月 5 日，是互联网早期重要的出版物。互联网档案的时光机器（Wayback Machine）已对 Salon 进行了近 30 年的存档——它先后使用过 salon1999.com、salonmag.com 等域名 1999 年后开始用 salon.com——互联网档案发布了一个实验性工具 Salon Explorer，方便用户挖掘 Salon 历年的新闻报道，浏览逾 25 万篇文章，查找特定报道，发现可能以前错过的精彩文章。",
-      "url": "https://www.solidot.org/story?sid=85898",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
+      "title": "Our first phase of embedded assessments",
+      "date": "Mon, 16 Nov 2026 08:00:00 GMT",
+      "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "category": "Safety",
+      "source": "OpenAI News",
+      "source_name": "openai"
     },
     {
-      "title": "科学家发明电梳能促进头发生长",
-      "date": "Mon, 16 Nov 2026 08:00:27 GMT",
-      "summary": "如果你受到脱发的困扰，也许未来可以尝试名为 Detangle 的电梳。它是一种梳子形状的生物电子装置。北京航空航天大学研究人员在《Nature Communications》期刊上发表研究报告，Detangle 系统采用嵌入式电子梳齿结构，配备高度差异化的电极以及集成式药物负载模块，能产生增强电场，渗透毛囊区域的深度达到传统外用给药方式的约 9 倍。小鼠研究显示，Detangle 电梳能成为雄激素遗传性脱发的有力工具，全球有逾十亿人受到这种常见脱发的困扰。实验中，针对因睾酮诱导而出现脱发的雄鼠，对照组在 28 天内其背部剃毛区域仅长出约 1% 的毛发，而接受 Detangle 系统电刺激的小鼠毛发再生比例提升至 40%。这一比例仍然低于生发药物 finasteride 的 50% 和 minoxidil 的 70%。但组合 Detangle 系统的电刺激和特定生物分子，毛发再生比例提升至 85% 或 90%，甚至 97.85%。暂时还不清楚 Detangle 对人类是否安全有效，需要等待后续研究。",
-      "url": "https://www.solidot.org/story?sid=85897",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "Tor 中继节点遭遇大规模 DDoS 攻击",
-      "date": "Mon, 16 Nov 2026 07:09:17 GMT",
-      "summary": "Tor 中继节点遭遇大规模 DDoS 攻击，Tor 项目释出更新 v0.4.9.17，加强中继节点对 IPv6 处理相关的 DoS 防御能力。中继节点运营者需要尽快升级。这次 DDoS 攻击影响到了大多数中继节点运营者。有运营者称其家庭网络受攻击影响而被堵塞，下载速度比正常水平下降了 99%。Tor 项目表示在评估更多的防御措施，会在未来发布后续更新。",
-      "url": "https://www.solidot.org/story?sid=85896",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "Microsoft 365 宕机导致 15 名酒店客人氯气中毒",
-      "date": "Mon, 16 Nov 2026 06:38:00 GMT",
-      "summary": "微软 Microsoft 365 服务上周发生了持续逾 24 小时的宕机事故，受影响的应用之一是电子邮件 Outlook。德国 Brühl 的梦幻乐园（Phantasialand）周六证实，由于 Outlook 下线，当自动加药系统向泳池内注入过量的氯，触发安全监控系统发出警报时，相关人员未能收到通过电子邮件发送的警报。结果导致 15 名入住乐园酒店 Hotel Ling Bao 的客人在使用泳池后遭遇氯气中毒。在接到酒店客人的投诉后，急救人员和消防部门赶赴现场。泳池一度关闭，后恢复开放。有 4 人送往医院，其中一人因情况较严重而仍留在医院接受观察。",
-      "url": "https://www.solidot.org/story?sid=85895",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "The Age of A rtisanal AI Is Coming Plus: The two new levels of AI adoption, the Gemini model that doesn’t know when to stop, and how to turn your corrections into checks",
-      "url": "https://every.to/context-window/the-age-of-artisanal-ai-is-coming?utm_cta_source=newsletter_main_the_age_of_artisanal_ai_is_comingplus_the_two_new_levels_of_ai_adoption_the_gemini_model_that_doesn__1",
-      "date": "2026-11-16T05:49:47.207Z",
+      "title": "Advancing computer-use agents for healthcare teams",
+      "date": "Mon, 16 Nov 2026 06:00:00 GMT",
       "summary": "",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Your Attention Is A I's New Bottleneck Plus: Why teams still pay for software anyone can vibe code, a bad week for Nvidia, and the engineering job that's up 4.6x",
-      "url": "https://every.to/context-window/your-attention-is-ai-s-new-bottleneck?utm_cta_source=newsletter_main_your_attention_is_ai_s_new_bottleneckplus_why_teams_still_pay_for_software_anyone_can_vibe_code_a_ba_1",
-      "date": "2026-11-16T05:49:47.207Z",
-      "summary": "",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "The Next Two L evels of AI Adoption What comes after orchestration?",
-      "url": "https://every.to/also-true-for-humans/the-next-two-levels-of-ai-adoption?utm_cta_source=newsletter_main_the_next_two_levels_of_ai_adoptionwhat_comes_after_orchestration_1",
-      "date": "2026-11-16T05:49:47.207Z",
-      "summary": "",
-      "category": "Also True for Humans",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "What's Left for H umans After Automation Plus: Turn your AI corrections into tests, where the hours saved by AI agents actually go, and a CEO's surprise job-interview question",
-      "url": "https://every.to/context-window/what-s-left-for-humans-after-automation?utm_cta_source=newsletter_main_what_s_left_for_humans_after_automationplus_turn_your_ai_corrections_into_tests_where_the_hours_save_1",
-      "date": "2026-11-16T05:49:47.207Z",
-      "summary": "",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Vibe Check: Gemini 4 C arbon's Coding Outpaces Its Judgment A stronger coder and a win for Google’s loyalists, Carbon arrives just as Fable 5.2 raises the bar again",
-      "url": "https://every.to/vibe-check/vibe-check-gemini-4-carbon-doesn-t-know-when-to-stop?utm_cta_source=newsletter_main_vibe_check_gemini_4_carbon_s_coding_outpaces_its_judgmenta_stronger_coder_and_a_win_for_google_s_loy_1",
-      "date": "2026-11-16T05:49:47.207Z",
-      "summary": "",
-      "category": "Vibe Check",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Vibe Check: Fable 5.2 Is a P aradigm Shift—If You Know What to Do With It Anthropic’s new frontier model can work unattended overnight—or all weekend—and come back with professional-grade software. But getting the most out of it requires us to change how we work.",
-      "url": "https://every.to/vibe-check/fable-5-2?utm_cta_source=newsletter_main_vibe_check_fable_5_2_is_a_paradigm_shift_if_you_know_what_to_do_with_itanthropic_s_new_frontier_mode_1",
-      "date": "2026-11-16T05:49:47.207Z",
-      "summary": "",
-      "category": "Vibe Check",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Skip to main content",
-      "url": "https://blog.google/#jump-content",
-      "date": "2026-11-16T05:49:43.110Z",
-      "summary": "",
-      "category": "Google",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Google Research",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/",
-      "date": "2026-11-16T05:49:43.110Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Google Labs",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/",
-      "date": "2026-11-16T05:49:43.110Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Gemini models",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/",
-      "date": "2026-11-16T05:49:43.110Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Quantum computing",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/",
-      "date": "2026-11-16T05:49:43.110Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Developer tools",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/",
-      "date": "2026-11-16T05:49:43.110Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "category": "Product",
+      "source": "OpenAI News",
+      "source_name": "openai"
     },
     {
       "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
@@ -285,51 +330,6 @@
       "category": "cs.AI",
       "source": "arXiv CS.AI",
       "source_name": "arxiv"
-    },
-    {
-      "title": "The King’s Trust and OpenAI launch £1m partnership",
-      "date": "Mon, 16 Nov 2026 00:00:00 GMT",
-      "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
-      "url": "https://openai.com/index/the-kings-trust-and-openai",
-      "category": "Global Affairs",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
-      "title": "A step toward defining the Standard Model on a lattice",
-      "date": "Sun, 15 Nov 2026 22:00:01 GMT",
-      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
-      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-      "category": "Science",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
-      "title": "Our new blog for science",
-      "date": "Sun, 15 Nov 2026 22:00:00 GMT",
-      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-      "url": "https://openai.com/index/our-new-blog-for-science",
-      "category": "Science",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
-      "title": "Introducing ChatGPT Wallet",
-      "date": "Fri, 13 Nov 2026 15:00:00 GMT",
-      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-      "url": "https://openai.com/index/introducing-chatgpt-wallet",
-      "category": "Product",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
-      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "date": "Fri, 13 Nov 2026 08:00:00 GMT",
-      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-      "url": "https://openai.com/business/customer-stories/shield",
-      "category": "",
-      "source": "OpenAI News",
-      "source_name": "openai"
     }
   ]
 }

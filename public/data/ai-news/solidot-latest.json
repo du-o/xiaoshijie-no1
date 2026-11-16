@@ -1,8 +1,36 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-11-16T12:26:21.947Z",
+  "fetch_time": "2026-11-16T17:41:13.418Z",
   "articles": [
+    {
+      "title": "Robert Pattinson 成为第七任 007",
+      "date": "Mon, 16 Nov 2026 16:18:40 GMT",
+      "summary": "英国演员 Robert Pattinson 成为继 Daniel Craig 之后的第七任 007，将出演首部由亚马逊制作的 007 电影。Robert Pattinson 也成为第一位出演过蝙蝠侠的 007 演员。在 Daniel Craig 获选饰演 007 时，他当时还不是一线明星；相比其他竞争第七任 007 的演员，Robert Pattinson 已经是一位知名度极高的明星，大多数人都听说过他的名字。亚马逊显然是希望由一名有强大票房号召力的明星领衔主演其首部 007 电影。",
+      "url": "https://www.solidot.org/story?sid=85905",
+      "category": ""
+    },
+    {
+      "title": "没有足够的植物纤维肠道细菌可能会吃你的肠道内壁",
+      "date": "Mon, 16 Nov 2026 15:51:27 GMT",
+      "summary": "植物性食物中的纤维和蛋白对我们有益，但它们是如何在人体内发挥有益作用的？普林斯顿大学研究团队在 PNAS 和 Nature Metabolism 期刊上发表了两篇论文，揭示了植物蛋白和纤维在体内转化为有益代谢产物的过程。研究人员针对了名为酚代谢物的化学物质：当肠道细菌消化特定氨基酸时会产生酚代谢物。酚代谢物源自两种氨基酸酪氨酸（tyrosine）和苯丙氨酸（phenylalanine）。研究人员发现，植物纤维和特定蛋白能影响这些氨基酸最终转化为何种化学物质。研究发现，植物纤维和无法被消化的蛋白 Prif 能改变酚代谢物的平衡，将原本由酪氨酸转化而成的有害代谢产物，转变为由苯丙氨酸衍生而来的有益代谢产物。小鼠实验还发现，一旦植物纤维耗尽，肠道细菌开始以肠壁黏液层为食，进而产生可能对人体有害的化合物。研究凸显了在饮食中摄入植物性食物的重要性。",
+      "url": "https://www.solidot.org/story?sid=85904",
+      "category": ""
+    },
+    {
+      "title": "微软称一个隐藏的 Windows Bug 触发了持续逾一天的宕机事故",
+      "date": "Mon, 16 Nov 2026 15:00:34 GMT",
+      "summary": "微软公布了初步事件报告，称一个隐藏的 Windows Bug 触发了持续逾一天的宕机事故。它将于 11 月 20 日公布更详细的信息。微软称，它于今年 7 月部署了针对 Microsoft 365 网络网关服务器的一项修正，运行三个多月未出现问题。但这次修正引入了一个锁争用的 bug：一个 Windows 内部进程中多个任务争夺对共享资源的访问权，特定流量条件下会耗尽处理器和内存资源。微软此前的测试未能发现这一问题，原因是测试是在硬件性能较弱的机器上进行的，在拥有更多核心的新硬件上，该问题会非常显著。两个条件触发了该 bug：Teams 流量从一个备用网关迁移到了与 Exchange Online 共用的主网关；一个不相关问题导致 14% 的网关服务器容量处于不可用状态。剩余服务器容量本来足够应付需求，但两个条件组合触发了 bug。当服务器发生故障自动系统会将连接转移到正常端点。然而这种额外的负载在其它地方引发了相同的故障，导致服务中断在不到两小时内蔓延至多个区域。最严重的时候逾八成服务器处于无响应状态。",
+      "url": "https://www.solidot.org/story?sid=85903",
+      "category": ""
+    },
+    {
+      "title": "微软称下一代 Xbox 游戏机能玩 PC 游戏",
+      "date": "Mon, 16 Nov 2026 14:13:59 GMT",
+      "summary": "微软证实，代号为 Project Helix 的下一代 Xbox 游戏机既能玩主机游戏也能玩 PC 游戏。但暂时还不清楚游戏机是否能运行 Steam、Epic 等竞争对手的 PC 游戏启动器。目前所知的信息是 Project Helix 使用了基于 AMD Zen6 CPU + RDNA5 GPU 的定制 APU，与 PC 使用的 APU 区别并不大（游戏机配备的 RDNA5 CU 数量更多），因此玩 PC 游戏没多少问题，问题在于它如何控制玩家玩任意 PC 游戏。负责 Project Helix 业务的副总裁 Jason Ronald 表示， “我们的设计目标非常明确：Helix 是一款游戏主机，同时也能玩 PC 游戏。它并非是一台能玩主机游戏的 PC。我们的目标是让玩家能简单、直观且即时地进入游戏。当然如果你是硬核玩家或资深用户，想要对各项设置和性能选项进行更深度的自定义，也完全可以实现。”他称 Helix 将移除游玩障碍，消除摩擦，打破过去人为设定的界限。",
+      "url": "https://www.solidot.org/story?sid=85902",
+      "category": ""
+    },
     {
       "title": "美国 ULA 的 Vulcan 火箭发射失败 40 颗亚马逊卫星被毁",
       "date": "Mon, 16 Nov 2026 10:33:21 GMT",
@@ -15,34 +43,6 @@
       "date": "Mon, 16 Nov 2026 09:26:54 GMT",
       "summary": "根据分析公司 Similarweb 的数据，2025 年 10 月至 2026 年 10 月期间，Reddit 的全球访问量下滑了 13%。来自 Google 搜索的流量减少，促使 Reddit 准备强制要求所有访客必须登录。2024 年 Reddit 与 Google 达成协议授权其使用平台内容用于 AI 训练，当时受益于 Google 的 Reddit 搜索流量处于激增阶段。根据 Similarweb 的数据，2023 年 5 月至 2024 年 5 月期间 Reddit 的流量增长了 39%。然而随着 AI Overviews 功能日益常见且实用，Reddit 的流量出现了下滑。一旦仅限登录用户访问的机制全面实施，Reddit 流量很可能会进一步下滑。",
       "url": "https://www.solidot.org/story?sid=85899",
-      "category": ""
-    },
-    {
-      "title": "互联网档案存档 Salon ",
-      "date": "Mon, 16 Nov 2026 08:24:55 GMT",
-      "summary": "有 31 年历史的 Salon 于 2026 年 11 月 5 日宣布从即日起停止出版。Salon 创办于 1995 年 11 月 5 日，是互联网早期重要的出版物。互联网档案的时光机器（Wayback Machine）已对 Salon 进行了近 30 年的存档——它先后使用过 salon1999.com、salonmag.com 等域名 1999 年后开始用 salon.com——互联网档案发布了一个实验性工具 Salon Explorer，方便用户挖掘 Salon 历年的新闻报道，浏览逾 25 万篇文章，查找特定报道，发现可能以前错过的精彩文章。",
-      "url": "https://www.solidot.org/story?sid=85898",
-      "category": ""
-    },
-    {
-      "title": "科学家发明电梳能促进头发生长",
-      "date": "Mon, 16 Nov 2026 08:00:27 GMT",
-      "summary": "如果你受到脱发的困扰，也许未来可以尝试名为 Detangle 的电梳。它是一种梳子形状的生物电子装置。北京航空航天大学研究人员在《Nature Communications》期刊上发表研究报告，Detangle 系统采用嵌入式电子梳齿结构，配备高度差异化的电极以及集成式药物负载模块，能产生增强电场，渗透毛囊区域的深度达到传统外用给药方式的约 9 倍。小鼠研究显示，Detangle 电梳能成为雄激素遗传性脱发的有力工具，全球有逾十亿人受到这种常见脱发的困扰。实验中，针对因睾酮诱导而出现脱发的雄鼠，对照组在 28 天内其背部剃毛区域仅长出约 1% 的毛发，而接受 Detangle 系统电刺激的小鼠毛发再生比例提升至 40%。这一比例仍然低于生发药物 finasteride 的 50% 和 minoxidil 的 70%。但组合 Detangle 系统的电刺激和特定生物分子，毛发再生比例提升至 85% 或 90%，甚至 97.85%。暂时还不清楚 Detangle 对人类是否安全有效，需要等待后续研究。",
-      "url": "https://www.solidot.org/story?sid=85897",
-      "category": ""
-    },
-    {
-      "title": "Tor 中继节点遭遇大规模 DDoS 攻击",
-      "date": "Mon, 16 Nov 2026 07:09:17 GMT",
-      "summary": "Tor 中继节点遭遇大规模 DDoS 攻击，Tor 项目释出更新 v0.4.9.17，加强中继节点对 IPv6 处理相关的 DoS 防御能力。中继节点运营者需要尽快升级。这次 DDoS 攻击影响到了大多数中继节点运营者。有运营者称其家庭网络受攻击影响而被堵塞，下载速度比正常水平下降了 99%。Tor 项目表示在评估更多的防御措施，会在未来发布后续更新。",
-      "url": "https://www.solidot.org/story?sid=85896",
-      "category": ""
-    },
-    {
-      "title": "Microsoft 365 宕机导致 15 名酒店客人氯气中毒",
-      "date": "Mon, 16 Nov 2026 06:38:00 GMT",
-      "summary": "微软 Microsoft 365 服务上周发生了持续逾 24 小时的宕机事故，受影响的应用之一是电子邮件 Outlook。德国 Brühl 的梦幻乐园（Phantasialand）周六证实，由于 Outlook 下线，当自动加药系统向泳池内注入过量的氯，触发安全监控系统发出警报时，相关人员未能收到通过电子邮件发送的警报。结果导致 15 名入住乐园酒店 Hotel Ling Bao 的客人在使用泳池后遭遇氯气中毒。在接到酒店客人的投诉后，急救人员和消防部门赶赴现场。泳池一度关闭，后恢复开放。有 4 人送往医院，其中一人因情况较严重而仍留在医院接受观察。",
-      "url": "https://www.solidot.org/story?sid=85895",
       "category": ""
     }
   ],
