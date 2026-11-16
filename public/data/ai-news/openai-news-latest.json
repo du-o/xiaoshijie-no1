@@ -1,8 +1,22 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-11-16T05:49:37.554Z",
+  "fetch_time": "2026-11-16T12:26:18.824Z",
   "articles": [
+    {
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "date": "Mon, 16 Nov 2026 09:00:00 GMT",
+      "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "category": "Company"
+    },
+    {
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "date": "Mon, 16 Nov 2026 00:00:00 GMT",
+      "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+      "url": "https://openai.com/index/the-kings-trust-and-openai",
+      "category": "Global Affairs"
+    },
     {
       "title": "A step toward defining the Standard Model on a lattice",
       "date": "Sun, 15 Nov 2026 22:00:01 GMT",
@@ -30,20 +44,6 @@
       "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
       "url": "https://openai.com/business/customer-stories/shield",
       "category": ""
-    },
-    {
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "date": "Thu, 12 Nov 2026 20:00:00 GMT",
-      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-      "url": "https://openai.com/business/customer-stories/amplitude",
-      "category": ""
-    },
-    {
-      "title": "Gondola doubles revenue as its team builds more with Codex",
-      "date": "Thu, 12 Nov 2026 12:00:00 GMT",
-      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
-      "url": "https://openai.com/business/customer-stories/gondola",
-      "category": "Startup"
     }
   ],
   "status": "success",
