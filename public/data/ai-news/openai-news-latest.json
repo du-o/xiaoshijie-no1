@@ -1,13 +1,20 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-11-17T12:46:44.800Z",
+  "fetch_time": "2026-11-17T17:14:09.962Z",
   "articles": [
     {
       "title": "Strengthening NATO and allied cyber defenses with AI",
       "date": "Tue, 17 Nov 2026 00:00:00 GMT",
       "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
       "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "category": "Global Affairs"
+    },
+    {
+      "title": "Introducing OpenAI for Chile",
+      "date": "Tue, 17 Nov 2026 00:00:00 GMT",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
       "category": "Global Affairs"
     },
     {
@@ -37,13 +44,6 @@
       "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
       "url": "https://openai.com/business/customer-stories/revolut",
       "category": ""
-    },
-    {
-      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-      "date": "Mon, 16 Nov 2026 09:00:00 GMT",
-      "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
-      "url": "https://openai.com/index/lvmh-media-division-partnership",
-      "category": "Company"
     }
   ],
   "status": "success",
