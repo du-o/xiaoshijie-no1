@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-11-17T20:06:11.070Z",
+  "fetch_time": "2026-11-18T06:51:35.020Z",
   "articles": [
+    {
+      "title": "openclaw 2026.10.33",
+      "date": "2026-11-18T04:15:53Z",
+      "summary": "This is a gateway-only `extended-stable` release, which is our current equivalent to LTS. This release is OpenClaw from the end of October 2026, plus critical security updates, reliability and perform...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.10.33",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.10.33",
+      "downloadCount": 37
+    },
     {
       "title": "openclaw 2026.11.5",
       "date": "2026-11-17T10:47:56Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.5",
-      "downloadCount": 1134
+      "downloadCount": 3267
     },
     {
       "title": "openclaw 2026.11.4",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.4",
-      "downloadCount": 15618
+      "downloadCount": 17256
     },
     {
       "title": "openclaw 2026.11.5-beta.4",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.5-beta.4",
-      "downloadCount": 75
+      "downloadCount": 81
     },
     {
       "title": "openclaw 2026.11.5-beta.3",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.5-beta.3",
-      "downloadCount": 123
+      "downloadCount": 124
     },
     {
       "title": "openclaw 2026.11.5-beta.2",
@@ -52,16 +62,6 @@
       "author": "github-actions[bot]",
       "tagName": "v2026.11.5-beta.2",
       "downloadCount": 312
-    },
-    {
-      "title": "openclaw 2026.11.3",
-      "date": "2026-11-10T18:53:07Z",
-      "summary": "## 2026.11.3\n\n### Highlights\n\n- **Private task results:** Keep private subagent completions out of streamed chat replies. (#188490) Thanks @fuller-stack-dev.\n- **Reliable child-task handoffs:** Allow ...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.11.3",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.11.3",
-      "downloadCount": 33828
     }
   ],
   "status": "success",

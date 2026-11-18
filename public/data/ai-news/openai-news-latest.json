@@ -1,13 +1,20 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-11-17T20:06:00.578Z",
+  "fetch_time": "2026-11-18T06:51:21.948Z",
   "articles": [
     {
       "title": "Introducing GPT-6.2 Astra and Sol",
       "date": "Tue, 17 Nov 2026 17:45:00 GMT",
       "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
       "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "category": "Product"
+    },
+    {
+      "title": "Introducing ChatGPT for Sales",
+      "date": "Tue, 17 Nov 2026 08:00:00 GMT",
+      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
       "category": "Product"
     },
     {
@@ -18,13 +25,6 @@
       "category": "Global Affairs"
     },
     {
-      "title": "Introducing OpenAI for Chile",
-      "date": "Tue, 17 Nov 2026 00:00:00 GMT",
-      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-      "url": "https://openai.com/index/introducing-openai-for-chile",
-      "category": "Global Affairs"
-    },
-    {
       "title": "Astra for Law leads in legal intelligence",
       "date": "Tue, 17 Nov 2026 00:00:00 GMT",
       "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
@@ -32,18 +32,18 @@
       "category": "Company"
     },
     {
+      "title": "Introducing OpenAI for Chile",
+      "date": "Tue, 17 Nov 2026 00:00:00 GMT",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "category": "Global Affairs"
+    },
+    {
       "title": "Broadening access to AI for scientists",
       "date": "Mon, 16 Nov 2026 17:00:00 GMT",
       "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
       "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
       "category": "Research"
-    },
-    {
-      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-      "date": "Mon, 16 Nov 2026 17:00:00 GMT",
-      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
-      "url": "https://openai.com/index/strengthening-online-child-safety",
-      "category": "Safety"
     }
   ],
   "status": "success",

@@ -1,9 +1,231 @@
 {
-  "fetch_time": "2026-11-17T20:06:02.805Z",
-  "total_count": 30,
+  "fetch_time": "2026-11-18T06:51:25.333Z",
+  "total_count": 36,
   "sources_count": 6,
   "errors": null,
   "articles": [
+    {
+      "title": "沐曦股份曦云C系列GPU完成腾讯混元Hy4 flash适配",
+      "date": "Wed, 18 Nov 2026 06:44:46 GMT",
+      "summary": "36氪获悉，腾讯混元宣布正式开放Hy4 flash大模型权重。随后，沐曦股份表示，曦云C系列GPU完成Hy4 flash Day 0全链路适配，模型当日即在曦云C系列GPU完成推理验证，支持高吞吐、低成本规模化Agent业务落地。",
+      "url": "https://36kr.com/newsflashes/4074891513533577?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "习近平会见韩国总统李在明",
+      "date": "Wed, 18 Nov 2026 06:40:17 GMT",
+      "summary": "11月18日上午，国家主席习近平在深圳会见来华出席亚太经合组织领导人非正式会议的韩国总统李在明。习近平指出，双方要坚持战略自主，维护好两国关系政治基础，巩固好、发展好中韩关系。中韩实质性完成了自贸协定第二阶段谈判，有助于巩固互利共赢良好局面。双方要用好用足这一制度性安排，加强宏观政策协调，培育人工智能等新兴科技产业合作生态，共享发展机遇。中方愿同韩方一道，持续促进两国人员往来，循序渐进开展健康有益的文化交流。李在明表示，韩方坚持一个中国的政策没有也不会改变，愿同中方密切高层交往，加强贸易、投资、产供链等合作，促进民心相通，推动建设更成熟的韩中战略伙伴关系。（新华社）",
+      "url": "https://36kr.com/newsflashes/4074897688269697?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "智界获道路机动车辆独立生产资质",
+      "date": "Wed, 18 Nov 2026 06:35:03 GMT",
+      "summary": "经查询工业和信息化部公告获悉，在汽车生产企业方面，奇瑞集团获同意增加成员企业安徽智界新能源汽车有限公司，注册地址为安徽省芜湖市经济技术开发区龙山街道华山路与千岛湖路交叉口芜湖经济技术开发区管理委员会15楼1507室，生产地址为安徽省芜湖市经济技术开发区皖江大道8号。在该公告中，东风集团也获同意增加成员企业岚图汽车科技股份有限公司。（蓝鲸新闻）",
+      "url": "https://36kr.com/newsflashes/4074884879897731?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "日本10月出口创纪录新高，从美国进口石油金额暴增1100%",
+      "date": "Wed, 18 Nov 2026 06:27:09 GMT",
+      "summary": "此前有分析师表示，日本进口量不及预期但进口额却激增的原因在于：由于中东发货停滞，日本正试图将采购转向更昂贵的美国石油。这一点在分项数据中似乎可以得到验证：日本10月从美国的石油进口额同比暴增超过1100%，进口量增长738%。相比之下，日本从中东石油进口量下降16.5%，但价格上涨推动进口额增长37.7%。（新浪财经）",
+      "url": "https://36kr.com/newsflashes/4074878091220098?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "美团在北京成立检验检测公司，注册资本500万",
+      "date": "Wed, 18 Nov 2026 06:12:41 GMT",
+      "summary": "36氪获悉，天眼查App显示，近日，北京中酩检验检测有限公司成立，法定代表人为谭富华，注册资本500万元人民币，经营范围包括检验检测服务、认证服务、标准化服务等。股东信息显示，该公司由美团关联公司北京三快网络科技有限公司全资持股。",
+      "url": "https://36kr.com/newsflashes/4074870558676104?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "国家统计局发布2026年10月份分年龄组失业率数据",
+      "date": "Wed, 18 Nov 2026 06:05:15 GMT",
+      "summary": "36氪获悉，国家统计局发布2026年10月份分年龄组失业率数据。10月份，全国城镇调查失业率5.1%，全国城镇16-24岁劳动力失业率为17.2%，25-29岁劳动力失业率为7.3%，30-59岁劳动力失业率为3.9%。",
+      "url": "https://36kr.com/newsflashes/4074863247725444?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
+      "date": "Wed, 18 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2611.21682v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly being explored for knowledge-intensive and safety-critical applications in nuclear engineering. However, existing nuclear-domain benchmarks provide limited content coverage or focus primarily on answer accuracy without systematically evaluating the quality of the underlying reasoning. This study introduces NEBench R1, a reasoning-oriented benchmark comprising 7,546 unique multiple-choice questions extra",
+      "url": "https://arxiv.org/abs/2611.21682",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
+      "date": "Wed, 18 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2611.21799v1 Announce Type: new Abstract: Chain-of-thought (CoT) monitoring is a promising tool for detecting hidden goals, off-task behavior, and other failures in AI agents. One risk is that models could deliberately shape their reasoning to make it opaque to monitors. We stress-test this risk through persona-control training: supervised fine-tuning on mathematical reasoning traces rewritten in the voices of diverse personas. This induces a broader ability to control CoT, even though tra",
+      "url": "https://arxiv.org/abs/2611.21799",
+      "category": [
+        "cs.AI",
+        "cs.LG"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR",
+      "date": "Wed, 18 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2611.21827v1 Announce Type: new Abstract: Deep networks score near 99% on the MSTAR vehicle benchmark, and the newer ATRNet-STAR benchmark was built to be harder. We ask how much of these scores comes from the vehicle itself. With a modern network (ConvNeXt-Small, 3 seeds) we first reproduce the known MSTAR result: with the central 96x96 pixels zeroed out, accuracy is still 73.3% (chance 10%). The same shortcut is present in ATRNet-STAR, which was collected across several scenes: with the ",
+      "url": "https://arxiv.org/abs/2611.21827",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
+      "date": "Wed, 18 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2611.21832v1 Announce Type: new Abstract: As AI systems are increasingly used to automate AI R&amp;D, misaligned systems could sabotage research intended to improve model safety and alignment. To stress-test defenses against such sabotage, we use a human expert as a proxy saboteur on AI safety research. We conduct a red-team/blue-team game where a human researcher runs AI safety experiments from scratch and auditors try to tell which were sabotaged and how. Given access to the full researc",
+      "url": "https://arxiv.org/abs/2611.21832",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "date": "Wed, 18 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2611.21885v1 Announce Type: new Abstract: Language models are trained once, frozen and deployed: improving one again takes another training run, and a prompt, a scaffold or extra computation at inference is gone once the task ends. A frontier model has been shown to edit the weights of a much smaller one. We ask whether a model can rewrite its own weights to make itself better, and find that it can, by its own reasoning, with no gradients and no training; we call this self-rewriting. Given",
+      "url": "https://arxiv.org/abs/2611.21885",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",
+      "date": "Wed, 18 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2611.21925v1 Announce Type: new Abstract: Speculative-diffusion decoding uses a small parallel drafter model to generate b draft tokens in one forward pass, which then undergo parallel verification via a larger target model. Faster inference can be achieved when multiple draft tokens pass verification simultaneously. Recent parallel draft architectures (DFlash, DSpark) improve draft quality by conditioning on rich features computed by the target, through a mechanism known as feature encodi",
+      "url": "https://arxiv.org/abs/2611.21925",
+      "category": [
+        "cs.AI",
+        "cs.CL"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "How I Finally Got A I to Write Like Me Six years of trying, four optimizers, and one blind judge. Here’s the process, step by step.",
+      "url": "https://every.to/also-true-for-humans/how-i-finally-got-ai-to-write-like-me",
+      "date": "2026-11-17T20:06:09.612Z",
+      "summary": "",
+      "category": "Also True for Humans",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "The Age of A rtisanal AI Is Coming Plus: The two new levels of AI adoption, the Gemini model that doesn’t know when to stop, and how to turn your corrections into checks",
+      "url": "https://every.to/context-window/the-age-of-artisanal-ai-is-coming",
+      "date": "2026-11-17T20:06:09.612Z",
+      "summary": "",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Your Attention Is A I's New Bottleneck Plus: Why teams still pay for software anyone can vibe code, a bad week for Nvidia, and the engineering job that's up 4.6x",
+      "url": "https://every.to/context-window/your-attention-is-ai-s-new-bottleneck",
+      "date": "2026-11-17T20:06:09.612Z",
+      "summary": "",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "The Next Two L evels of AI Adoption What comes after orchestration?",
+      "url": "https://every.to/also-true-for-humans/the-next-two-levels-of-ai-adoption",
+      "date": "2026-11-17T20:06:09.612Z",
+      "summary": "",
+      "category": "Also True for Humans",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "What's Left for H umans After Automation Plus: Turn your AI corrections into tests, where the hours saved by AI agents actually go, and a CEO's surprise job-interview question",
+      "url": "https://every.to/context-window/what-s-left-for-humans-after-automation",
+      "date": "2026-11-17T20:06:09.612Z",
+      "summary": "",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Vibe Check: Gemini 4 C arbon's Coding Outpaces Its Judgment A stronger coder and a win for Google’s loyalists, Carbon arrives just as Fable 5.2 raises the bar again",
+      "url": "https://every.to/vibe-check/vibe-check-gemini-4-carbon-doesn-t-know-when-to-stop",
+      "date": "2026-11-17T20:06:09.612Z",
+      "summary": "",
+      "category": "Vibe Check",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Skip to main content",
+      "url": "https://blog.google/#jump-content",
+      "date": "2026-11-17T20:06:07.043Z",
+      "summary": "",
+      "category": "Google",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Google Research",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/",
+      "date": "2026-11-17T20:06:07.043Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Google Labs",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/",
+      "date": "2026-11-17T20:06:07.043Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Gemini models",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/",
+      "date": "2026-11-17T20:06:07.043Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Quantum computing",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/",
+      "date": "2026-11-17T20:06:07.043Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Developer tools",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/",
+      "date": "2026-11-17T20:06:07.043Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
     {
       "title": "Introducing GPT-6.2 Astra and Sol",
       "date": "Tue, 17 Nov 2026 17:45:00 GMT",
@@ -14,114 +236,6 @@
       "source_name": "openai"
     },
     {
-      "title": "How I Finally Got A I to Write Like Me Six years of trying, four optimizers, and one blind judge. Here’s the process, step by step.",
-      "url": "https://every.to/also-true-for-humans/how-i-finally-got-ai-to-write-like-me?utm_cta_source=newsletter_main_how_i_finally_got_ai_to_write_like_mesix_years_of_trying_four_optimizers_and_one_blind_judge_here_s__1",
-      "date": "2026-11-17T17:14:21.146Z",
-      "summary": "",
-      "category": "Also True for Humans",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "The Age of A rtisanal AI Is Coming Plus: The two new levels of AI adoption, the Gemini model that doesn’t know when to stop, and how to turn your corrections into checks",
-      "url": "https://every.to/context-window/the-age-of-artisanal-ai-is-coming?utm_cta_source=newsletter_main_the_age_of_artisanal_ai_is_comingplus_the_two_new_levels_of_ai_adoption_the_gemini_model_that_doesn__1",
-      "date": "2026-11-17T17:14:21.146Z",
-      "summary": "",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Your Attention Is A I's New Bottleneck Plus: Why teams still pay for software anyone can vibe code, a bad week for Nvidia, and the engineering job that's up 4.6x",
-      "url": "https://every.to/context-window/your-attention-is-ai-s-new-bottleneck?utm_cta_source=newsletter_main_your_attention_is_ai_s_new_bottleneckplus_why_teams_still_pay_for_software_anyone_can_vibe_code_a_ba_1",
-      "date": "2026-11-17T17:14:21.146Z",
-      "summary": "",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "The Next Two L evels of AI Adoption What comes after orchestration?",
-      "url": "https://every.to/also-true-for-humans/the-next-two-levels-of-ai-adoption?utm_cta_source=newsletter_main_the_next_two_levels_of_ai_adoptionwhat_comes_after_orchestration_1",
-      "date": "2026-11-17T17:14:21.146Z",
-      "summary": "",
-      "category": "Also True for Humans",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "What's Left for H umans After Automation Plus: Turn your AI corrections into tests, where the hours saved by AI agents actually go, and a CEO's surprise job-interview question",
-      "url": "https://every.to/context-window/what-s-left-for-humans-after-automation?utm_cta_source=newsletter_main_what_s_left_for_humans_after_automationplus_turn_your_ai_corrections_into_tests_where_the_hours_save_1",
-      "date": "2026-11-17T17:14:21.146Z",
-      "summary": "",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Vibe Check: Gemini 4 C arbon's Coding Outpaces Its Judgment A stronger coder and a win for Google’s loyalists, Carbon arrives just as Fable 5.2 raises the bar again",
-      "url": "https://every.to/vibe-check/vibe-check-gemini-4-carbon-doesn-t-know-when-to-stop?utm_cta_source=newsletter_main_vibe_check_gemini_4_carbon_s_coding_outpaces_its_judgmenta_stronger_coder_and_a_win_for_google_s_loy_1",
-      "date": "2026-11-17T17:14:21.146Z",
-      "summary": "",
-      "category": "Vibe Check",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Skip to main content",
-      "url": "https://blog.google/#jump-content",
-      "date": "2026-11-17T17:14:16.127Z",
-      "summary": "",
-      "category": "Google",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Google Research",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/",
-      "date": "2026-11-17T17:14:16.127Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Google Labs",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/",
-      "date": "2026-11-17T17:14:16.127Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Gemini models",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/",
-      "date": "2026-11-17T17:14:16.127Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Quantum computing",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/",
-      "date": "2026-11-17T17:14:16.127Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Developer tools",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/",
-      "date": "2026-11-17T17:14:16.127Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
       "title": "学校禁止手机有助于提高学生成绩",
       "date": "Tue, 17 Nov 2026 16:24:55 GMT",
       "summary": "美国学生的成绩从十多年前开始下滑，这一时间趋势与智能手机的流行基本一致，引发了对智能手机在学生成绩下滑中所扮演角色的疑问。很多美国州和学校开始执行手机禁令。最新研究显示，手机禁令略微提升了学生成绩。研究调查了 2021-2026 年间就读于 4600 所学校的 330 万名三至十年级的美国学生，使用 MAP 测试成绩，比较了实施严格手机禁令的学校与未实施禁令学校的学生的学业表现。研究发现，手机禁令学校学生至少部分考试成绩略有提高——少许提升幅度更大——且有证据表明，这种提高会随着时间的推移而增加。研究人员解释说，正如成绩的下降会逐年累积一样，进步也可能是渐进的。美国已有 46 个州对学校使用手机实施禁令或限制。各州规定不尽相同，学校的执行力度也各有差异。",
@@ -129,60 +243,6 @@
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
-    },
-    {
-      "title": "抖音生活服务负责人调整：浦燕子转任公司顾问，莫少君接任",
-      "date": "Tue, 17 Nov 2026 13:33:34 GMT",
-      "summary": "36氪独家获悉，因个人及家庭生活安排，浦燕子将不再担任抖音生活服务总裁，转任公司顾问，后续将参与公司公益等相关工作。该职务由红果短剧负责人莫少君接任。据介绍，浦燕子是抖音集团的早期员工之一，2023年11月，作为抖音集团商业化负责人，浦燕子开始兼任抖音生活服务总裁。抖音集团方面回复36氪，此次调整属于正常的管理岗位轮换与交接，生活服务是公司长期发展方向之一，对该板块会持续投入、长期经营。",
-      "url": "https://36kr.com/newsflashes/4073888388584579?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "抖音生活服务负责人调整：浦燕子转任公司顾问，莫少君接任｜独家",
-      "date": "Tue, 17 Nov 2026 13:32:07 GMT",
-      "summary": "文｜肖思佳 编辑｜乔芊 杨轩 11月17日，36氪获悉，因个人及家庭生活安排，浦燕子将不再担任抖音生活服务总裁，转任公司顾问，后续将参与公司公益等相关工作。该职务由红果短剧负责人莫少君接任。 据介绍，浦燕子是抖音集团的早期员工之一，2023年11月，作为抖音集团商业化负责人，浦燕子开始兼任抖音生活服务总裁。莫少君1991年出生，2017年加入抖音集团，先后负责番茄小说、番茄畅听和红果短剧的孵化和成长，后专注于红果短剧业务。加入抖音之前，莫少君曾在百度、美团和滴滴负责生活服务相关产品工作。 抖音集团方面回复36氪，此次调整属于正常的管理岗位轮换与交接，生活服务是公司长期发展方向之一，对该板块会持续投入、长期经营。",
-      "url": "https://36kr.com/p/4073876110677121?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "日本电动汽车购车补贴预计本月底提前结束",
-      "date": "Tue, 17 Nov 2026 12:54:21 GMT",
-      "summary": "据日本共同社报道，日本经济产业省17日表示，受电动汽车购车补贴申请量增长超出预期影响，面向电动汽车（EV）、燃料电池汽车（FCV）等车型的购车补贴预计将于本月内停止受理申请，较此前预计的12月左右提前。（新华财经）",
-      "url": "https://36kr.com/newsflashes/4073849843668100?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "热门中概股美股盘前多数下跌，京东跌超4%",
-      "date": "Tue, 17 Nov 2026 12:53:13 GMT",
-      "summary": "36氪获悉，热门中概股美股盘前多数下跌，截至发稿，微博、腾讯音乐、京东跌超4%，哔哩哔哩、阿里巴巴跌超2%，百度跌超1%；蔚来涨超3%，理想汽车、爱奇艺涨超1%。",
-      "url": "https://36kr.com/newsflashes/4073848730817668?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "美股大型科技股盘前涨跌不一，英伟达涨超1%",
-      "date": "Tue, 17 Nov 2026 12:51:08 GMT",
-      "summary": "36氪获悉，美股大型科技股盘前涨跌不一，截至发稿，闪迪涨超2%，SK海力士、英伟达涨超1%，亚马逊涨0.5%，特斯拉涨0.36%；Meta跌0.46%，英特尔跌0.45%，微软跌0.39%，苹果跌0.28%，奈飞跌0.2%，谷歌跌0.03%。",
-      "url": "https://36kr.com/newsflashes/4073846673282183?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "好未来的「生死反转」：优化员工，买入智谱",
-      "date": "Tue, 17 Nov 2026 12:49:16 GMT",
-      "summary": "作者 |&nbsp;谢芸子 编辑 | 张帆 想靠AI赚钱的教育公司，先被AI上了一课。 今年6月，粉笔创始人张小龙在人民大学的一场讲座上，大秀“炒科技股”的回报，并批评在场学生“除了混进体制内，没什么本事”。 风波以道歉和辞职收场。但他的确言行一致。上半年，粉笔的权益类投资从“几乎为零”飙到4.79亿元，包括2倍杠杆的美股半导体ETF。 反转来得很快。7月初，美股半导体板块暴跌，粉笔虽快速清仓，仍带来了830万美元的投资亏损。 而张小龙更像是“跳了一次预言家”，预言的主角却是另一家教育公司——好未来。 在10月29日发布的二季度财报中，好未来收入9.95亿美元，同比增长15.5%；经营利润2.36亿美元，同比大增145.4%；毛利率提升至59.8%。 进入2027财年后，好未来业绩不断走高。暖意之下，是两条容易被忽略的暗线。 一条在企业内部。多位好未来员工向36氪透露，今年4、5月份，公司迎来一轮“人员优化”，涉及前端开发、培优等多个部门，部分裁员比例在30%—50%。 另一条在账面上。 好未来归母净利润为-4744万美元——拖累它的不是主业，而是一笔投资损益。这笔投资，正指向AI。 ",
-      "url": "https://36kr.com/p/4073822871147394?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
     },
     {
       "title": "加州理工数学教授不再根据作业打分，因为作业很容易用 AI 完成",
@@ -230,19 +290,19 @@
       "source_name": "solidot"
     },
     {
-      "title": "Strengthening NATO and allied cyber defenses with AI",
-      "date": "Tue, 17 Nov 2026 00:00:00 GMT",
-      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
-      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-      "category": "Global Affairs",
+      "title": "Introducing ChatGPT for Sales",
+      "date": "Tue, 17 Nov 2026 08:00:00 GMT",
+      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "category": "Product",
       "source": "OpenAI News",
       "source_name": "openai"
     },
     {
-      "title": "Introducing OpenAI for Chile",
+      "title": "Strengthening NATO and allied cyber defenses with AI",
       "date": "Tue, 17 Nov 2026 00:00:00 GMT",
-      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
       "category": "Global Affairs",
       "source": "OpenAI News",
       "source_name": "openai"
@@ -257,20 +317,20 @@
       "source_name": "openai"
     },
     {
+      "title": "Introducing OpenAI for Chile",
+      "date": "Tue, 17 Nov 2026 00:00:00 GMT",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "category": "Global Affairs",
+      "source": "OpenAI News",
+      "source_name": "openai"
+    },
+    {
       "title": "Broadening access to AI for scientists",
       "date": "Mon, 16 Nov 2026 17:00:00 GMT",
       "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
       "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
       "category": "Research",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
-      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-      "date": "Mon, 16 Nov 2026 17:00:00 GMT",
-      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
-      "url": "https://openai.com/index/strengthening-online-child-safety",
-      "category": "Safety",
       "source": "OpenAI News",
       "source_name": "openai"
     }
