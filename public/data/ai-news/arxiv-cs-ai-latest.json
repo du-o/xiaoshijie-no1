@@ -1,18 +1,18 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-11-18T19:39:06.730Z",
+  "fetch_time": "2026-11-19T06:52:31.569Z",
   "articles": [
     {
       "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
-      "date": "Wed, 18 Nov 2026 05:00:00 GMT",
+      "date": "Thu, 19 Nov 2026 05:00:00 GMT",
       "summary": "arXiv:2611.21682v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly being explored for knowledge-intensive and safety-critical applications in nuclear engineering. However, existing nuclear-domain benchmarks provide limited content coverage or focus primarily on answer accuracy without systematically evaluating the quality of the underlying reasoning. This study introduces NEBench R1, a reasoning-oriented benchmark comprising 7,546 unique multiple-choice questions extra",
       "url": "https://arxiv.org/abs/2611.21682",
       "category": "cs.AI"
     },
     {
       "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
-      "date": "Wed, 18 Nov 2026 05:00:00 GMT",
+      "date": "Thu, 19 Nov 2026 05:00:00 GMT",
       "summary": "arXiv:2611.21799v1 Announce Type: new Abstract: Chain-of-thought (CoT) monitoring is a promising tool for detecting hidden goals, off-task behavior, and other failures in AI agents. One risk is that models could deliberately shape their reasoning to make it opaque to monitors. We stress-test this risk through persona-control training: supervised fine-tuning on mathematical reasoning traces rewritten in the voices of diverse personas. This induces a broader ability to control CoT, even though tra",
       "url": "https://arxiv.org/abs/2611.21799",
       "category": [
@@ -22,28 +22,28 @@
     },
     {
       "title": "How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR",
-      "date": "Wed, 18 Nov 2026 05:00:00 GMT",
+      "date": "Thu, 19 Nov 2026 05:00:00 GMT",
       "summary": "arXiv:2611.21827v1 Announce Type: new Abstract: Deep networks score near 99% on the MSTAR vehicle benchmark, and the newer ATRNet-STAR benchmark was built to be harder. We ask how much of these scores comes from the vehicle itself. With a modern network (ConvNeXt-Small, 3 seeds) we first reproduce the known MSTAR result: with the central 96x96 pixels zeroed out, accuracy is still 73.3% (chance 10%). The same shortcut is present in ATRNet-STAR, which was collected across several scenes: with the ",
       "url": "https://arxiv.org/abs/2611.21827",
       "category": "cs.AI"
     },
     {
       "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
-      "date": "Wed, 18 Nov 2026 05:00:00 GMT",
+      "date": "Thu, 19 Nov 2026 05:00:00 GMT",
       "summary": "arXiv:2611.21832v1 Announce Type: new Abstract: As AI systems are increasingly used to automate AI R&amp;D, misaligned systems could sabotage research intended to improve model safety and alignment. To stress-test defenses against such sabotage, we use a human expert as a proxy saboteur on AI safety research. We conduct a red-team/blue-team game where a human researcher runs AI safety experiments from scratch and auditors try to tell which were sabotaged and how. Given access to the full researc",
       "url": "https://arxiv.org/abs/2611.21832",
       "category": "cs.AI"
     },
     {
       "title": "Language Models Can Rewrite Their Own Weights",
-      "date": "Wed, 18 Nov 2026 05:00:00 GMT",
-      "summary": "arXiv:2611.21885v1 Announce Type: new Abstract: Language models are trained once, frozen and deployed: improving one again takes another training run, and a prompt, a scaffold or extra computation at inference is gone once the task ends. A frontier model has been shown to edit the weights of a much smaller one. We ask whether a model can rewrite its own weights to make itself better, and find that it can, by its own reasoning, with no gradients and no training; we call this self-rewriting. Given",
+      "date": "Thu, 19 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2611.21885v2 Announce Type: new Abstract: A language model is trained once and frozen. Making it better takes another training run, or a prompt, a harness or extra computation at inference that is gone once the task ends. We show a third way: to our knowledge for the first time, a language model rewrites its own weights by its own reasoning and becomes better, with no gradients and no training. We call this self-rewriting: the model is its own optimizer. In earlier work, a frontier model e",
       "url": "https://arxiv.org/abs/2611.21885",
       "category": "cs.AI"
     },
     {
       "title": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",
-      "date": "Wed, 18 Nov 2026 05:00:00 GMT",
+      "date": "Thu, 19 Nov 2026 05:00:00 GMT",
       "summary": "arXiv:2611.21925v1 Announce Type: new Abstract: Speculative-diffusion decoding uses a small parallel drafter model to generate b draft tokens in one forward pass, which then undergo parallel verification via a larger target model. Faster inference can be achieved when multiple draft tokens pass verification simultaneously. Recent parallel draft architectures (DFlash, DSpark) improve draft quality by conditioning on rich features computed by the target, through a mechanism known as feature encodi",
       "url": "https://arxiv.org/abs/2611.21925",
       "category": [
