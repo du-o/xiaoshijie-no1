@@ -1,8 +1,69 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-11-19T16:57:04.725Z",
-  "articles": [],
-  "status": "error",
-  "error": "GitHub API 请求失败: 403"
+  "fetch_time": "2026-11-19T19:40:00.739Z",
+  "articles": [
+    {
+      "title": "openclaw 2026.11.10-beta.1",
+      "date": "2026-11-19T15:45:29Z",
+      "summary": "## 2026.11.10-beta.1\n\n### Highlights\n\n- Agent templates: add agents directly from ClawHub packages, with a single CLAW.md manifest and bundled skill folders checked by the native trust flow. (#195707,...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.11.10-beta.1",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.11.10-beta.1",
+      "downloadCount": 26
+    },
+    {
+      "title": "openclaw 2026.11.6",
+      "date": "2026-11-19T17:26:46Z",
+      "summary": "## 2026.11.6\n\n### Highlights\n\n- **Smoother upgrades:** bridge the 2026.11.5 updater to the current release path and validate staged plugin dependencies correctly on Windows. (#200662, #200595) Authore...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.11.6",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.11.6",
+      "downloadCount": 242
+    },
+    {
+      "title": "openclaw 2026.10.33",
+      "date": "2026-11-18T04:15:53Z",
+      "summary": "This is a gateway-only `extended-stable` release, which is our current equivalent to LTS. This release is OpenClaw from the end of October 2026, plus critical security updates, reliability and perform...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.10.33",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.10.33",
+      "downloadCount": 145
+    },
+    {
+      "title": "openclaw 2026.11.5",
+      "date": "2026-11-17T10:47:56Z",
+      "summary": "## 2026.11.5\n\n### Highlights\n\n- **Restart-safe conversations:** Queued messages, send permissions, and final chat writes are retained across Gateway restarts. (#196923, #196540, #196493) Authored by @...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.11.5",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.11.5",
+      "downloadCount": 18566
+    },
+    {
+      "title": "openclaw 2026.11.4",
+      "date": "2026-11-16T04:17:42Z",
+      "summary": "<!-- openclaw-release-publication:docs-v1 -->\n\n## OpenClaw v2026.11.4\n\n220 commits · 125 pull requests · 90 contributors\n\n### Changes included in this release\n\nThe release notes and changelog contain ...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.11.4",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.11.4",
+      "downloadCount": 17478
+    },
+    {
+      "title": "openclaw 2026.11.5-beta.4",
+      "date": "2026-11-16T03:12:26Z",
+      "summary": "## 2026.11.5-beta.4\n\n### Highlights\n\n### Changes\n\n- **Telegram widgets:** Render interactive widgets as Telegram messages (#196991) Thanks @obviyus.\n\n### Fixes\n\n- **Transcripts and attachments:** Keep...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.11.5-beta.4",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.11.5-beta.4",
+      "downloadCount": 93
+    }
+  ],
+  "status": "success",
+  "error": null
 }

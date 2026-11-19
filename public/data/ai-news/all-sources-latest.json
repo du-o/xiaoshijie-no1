@@ -1,9 +1,20 @@
 {
-  "fetch_time": "2026-11-19T16:57:01.159Z",
-  "total_count": 36,
+  "fetch_time": "2026-11-19T19:39:50.129Z",
+  "total_count": 30,
   "sources_count": 6,
-  "errors": null,
+  "errors": [
+    "google-blog: Fetch error: HTTP 401"
+  ],
   "articles": [
+    {
+      "title": "The State of AI: A Look at What's Next",
+      "url": "https://every.to/p/the-state-of-ai",
+      "date": "2026-11-19T16:56:55.861Z",
+      "summary": "An in-depth analysis of the current AI landscape and future trends.",
+      "category": "AI Analysis",
+      "source": "Every.to",
+      "source_name": "every"
+    },
     {
       "title": "Anthropic开盘价为111.50美元，首日股价上涨34%",
       "date": "Thu, 19 Nov 2026 16:53:19 GMT",
@@ -21,6 +32,15 @@
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
+    },
+    {
+      "title": "IEA 警告称到 2030 年数据中心碳排放量将增加七成",
+      "date": "Thu, 19 Nov 2026 16:34:10 GMT",
+      "summary": "国际能源署（IEA）发表报告警告，到 2030 年数据中心碳排放量将增加七成。报告称，到 2030 年数据中心的用电量将达到目前的水平的两倍，未来四年 AI 数据中心每年将额外消耗 350 TWh 的电力，这一数字超过了英国全年的总耗电量。IEA 预计到这个十年末，中国 AI 数据中心所需电力中约半数将来自燃煤电厂。其余电力将来自可再生能源，核能发电占比相对较小，天然气发电占比极低。相比下美国数据中心约 60% 的电力将依赖天然气供应。截至今年 8 月，美国已有约 180 GW 的新建天然气发电项目规划为数据中心供电。这一新增天然气发电装机容量，几乎相当于目前整个欧盟已安装的天然气发电总装机量。由于数据中心对化石燃料发电的需求增长，到 2030 年数据中心碳排放量预计将增加 70%。",
+      "url": "https://www.solidot.org/story?sid=85937",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
     },
     {
       "title": "欧盟委员会如何向逾 4 万工作人员部署 Matrix ",
@@ -86,114 +106,6 @@
       "source_name": "36kr"
     },
     {
-      "title": "Microsoft's CEO W ants Every Company to Own Its Own Model Plus: Why AI could mean fewer software seats, which models Every’s team uses, and Notion CEO Ivan Zhao on when to build your own tools",
-      "url": "https://every.to/context-window/microsoft-s-ceo-wants-every-company-to-own-its-own-model",
-      "date": "2026-11-19T12:30:17.838Z",
-      "summary": "",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Vibe Check: GPT-6.2 A stra and Sol Leave Us Wanting More GPT-6.2 Astra and Sol handle bounded tasks efficiently. The work we most want help with still demands more judgment and follow-through.",
-      "url": "https://every.to/vibe-check/vibe-check-gpt-6-2-astra-and-sol-leave-us-wanting-more",
-      "date": "2026-11-19T12:30:17.838Z",
-      "summary": "",
-      "category": "Vibe Check",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "How I Finally Got A I to Write Like Me Six years of trying, four optimizers, and one blind judge. Here’s the process, step by step.",
-      "url": "https://every.to/also-true-for-humans/how-i-finally-got-ai-to-write-like-me",
-      "date": "2026-11-19T12:30:17.838Z",
-      "summary": "",
-      "category": "Also True for Humans",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "The Age of A rtisanal AI Is Coming Plus: The two new levels of AI adoption, the Gemini model that doesn’t know when to stop, and how to turn your corrections into checks",
-      "url": "https://every.to/context-window/the-age-of-artisanal-ai-is-coming",
-      "date": "2026-11-19T12:30:17.838Z",
-      "summary": "",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Your Attention Is A I's New Bottleneck Plus: Why teams still pay for software anyone can vibe code, a bad week for Nvidia, and the engineering job that's up 4.6x",
-      "url": "https://every.to/context-window/your-attention-is-ai-s-new-bottleneck",
-      "date": "2026-11-19T12:30:17.838Z",
-      "summary": "",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "The Next Two L evels of AI Adoption What comes after orchestration?",
-      "url": "https://every.to/also-true-for-humans/the-next-two-levels-of-ai-adoption",
-      "date": "2026-11-19T12:30:17.838Z",
-      "summary": "",
-      "category": "Also True for Humans",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Skip to main content",
-      "url": "https://blog.google/#jump-content",
-      "date": "2026-11-19T12:30:16.260Z",
-      "summary": "",
-      "category": "Google",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Google Research",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/",
-      "date": "2026-11-19T12:30:16.260Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Google Labs",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/",
-      "date": "2026-11-19T12:30:16.260Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Gemini models",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/",
-      "date": "2026-11-19T12:30:16.260Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Quantum computing",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/",
-      "date": "2026-11-19T12:30:16.260Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Developer tools",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/",
-      "date": "2026-11-19T12:30:16.260Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
       "title": "全球专利申请量创新高",
       "date": "Thu, 19 Nov 2026 12:28:18 GMT",
       "summary": "世界知识产权组织公布的年度《世界知识产权指标》（WIPI）报告显示，2025 年全球专利申请量 394 万件，同比增长 6%，创近十年来最快增速。这可能与利用 AI 加快专利申请相关。数据显示，中国继续高居第一达到 191万 件，同比增长 6%，其次是美国（489,766件）、日本（466,301件）、大韩民国（319,210件）和德国（132,714件）。 印度达到 105,163 件，同比增长 38%，首次突破 10 万件。计算机技术仍是专利申请量最大的技术领域，占所有已公布专利申请总量的 13%。世界知识产权组织称，部分知识产权局报告了来自个别案例的证据，表明 AI 起草工具可能影响了 2025 年的专利申请模式。它们发现，个人提交的申请占比上升，审查员也越来越频繁地注意到看似由 AI 生成或在 AI 辅助下生成的文本。因此近期专利申请量的部分增长可能反映了使用专利制度的新方式，而非创新投资有所增加，并可能影响知识产权局的工作量。产权组织将继续研究这一问题。",
@@ -212,13 +124,13 @@
       "source_name": "solidot"
     },
     {
-      "title": "微软官方 agent-framework 软件包被黑客劫持安装恶意程序",
-      "date": "Thu, 19 Nov 2026 08:24:44 GMT",
-      "summary": "微软托管在 PyPI 上的 agent-framework 软件包被黑客劫持安装窃取信息的恶意程序。agent-framework 每月下载量近 20 万次，主要用于构建和部署 AI 智能体。受影响的版本是 v1.26.1 和 1.26.2，会窃取开发者在 Azure、Git、Docker、Hugging Face 等服务上的环境变量、凭据文件以及其它敏感信息。更糟糕的是软件包无需被导入，只要安装该软件包的 Python 解释器启动，恶意代码便会运行。微软发言人在一份声明中表示在调查期间它将部分软件包项目设为私有。",
-      "url": "https://www.solidot.org/story?sid=85931",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "date": "Thu, 19 Nov 2026 08:00:00 GMT",
+      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "category": "Engineering",
+      "source": "OpenAI News",
+      "source_name": "openai"
     },
     {
       "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
@@ -281,6 +193,15 @@
       "source_name": "arxiv"
     },
     {
+      "title": "How Startups Are Using AI to Disrupt Industries",
+      "url": "https://every.to/source-code/ai-startups",
+      "date": "2026-11-18T16:56:55.861Z",
+      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
+      "category": "Source Code",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
       "title": "The Silent Consensus",
       "date": "Wed, 18 Nov 2026 10:00:00 GMT",
       "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
@@ -290,20 +211,20 @@
       "source_name": "openai"
     },
     {
-      "title": "Research acceleration: The jagged frontier",
-      "date": "Wed, 18 Nov 2026 08:00:00 GMT",
-      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "category": "Research",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
       "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
       "date": "Wed, 18 Nov 2026 08:00:00 GMT",
       "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
       "url": "https://openai.com/business/customer-stories/sumitomo-life",
       "category": "",
+      "source": "OpenAI News",
+      "source_name": "openai"
+    },
+    {
+      "title": "Research acceleration: The jagged frontier",
+      "date": "Wed, 18 Nov 2026 08:00:00 GMT",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "category": "Research",
       "source": "OpenAI News",
       "source_name": "openai"
     },
@@ -326,13 +247,40 @@
       "source_name": "openai"
     },
     {
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "date": "Wed, 18 Nov 2026 00:00:00 GMT",
-      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-      "category": "Company",
-      "source": "OpenAI News",
-      "source_name": "openai"
+      "title": "The Future of Work in an AI-Driven World",
+      "url": "https://every.to/context-window/future-of-work",
+      "date": "2026-11-17T16:56:55.861Z",
+      "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Building AI Products: Lessons from the Trenches",
+      "url": "https://every.to/p/building-ai-products",
+      "date": "2026-11-16T16:56:55.861Z",
+      "summary": "Practical insights from builders creating AI-powered products.",
+      "category": "Product",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "AI Agents: The Next Evolution of Automation",
+      "url": "https://every.to/source-code/ai-agents",
+      "date": "2026-11-15T16:56:55.861Z",
+      "summary": "Understanding autonomous AI agents and their potential impact on software.",
+      "category": "Source Code",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "The Economics of AI: Costs, Benefits, and ROI",
+      "url": "https://every.to/context-window/ai-economics",
+      "date": "2026-11-14T16:56:55.861Z",
+      "summary": "A deep dive into the financial aspects of implementing AI solutions.",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
     }
   ]
 }
