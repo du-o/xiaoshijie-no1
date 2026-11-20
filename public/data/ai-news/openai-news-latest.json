@@ -1,35 +1,21 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-11-20T16:30:42.687Z",
+  "fetch_time": "2026-11-20T19:17:40.397Z",
   "articles": [
+    {
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "date": "Fri, 20 Nov 2026 00:00:00 GMT",
+      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "category": "Research"
+    },
     {
       "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
       "date": "Thu, 19 Nov 2026 08:00:00 GMT",
       "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
       "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
       "category": "Engineering"
-    },
-    {
-      "title": "Deploying Daybreak Red",
-      "date": "Thu, 19 Nov 2026 00:00:00 GMT",
-      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-      "url": "https://openai.com/business/learn/deploying-daybreak-red",
-      "category": "Guides"
-    },
-    {
-      "title": "See PR scans in action",
-      "date": "Thu, 19 Nov 2026 00:00:00 GMT",
-      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-      "url": "https://openai.com/business/learn/pr-scans-demo",
-      "category": "Demos"
-    },
-    {
-      "title": "Explore the Codex Security Plugin",
-      "date": "Thu, 19 Nov 2026 00:00:00 GMT",
-      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
-      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-      "category": "Demos"
     },
     {
       "title": "Get started with Daybreak Blue",
@@ -39,11 +25,25 @@
       "category": "Demos"
     },
     {
-      "title": "The Silent Consensus",
-      "date": "Wed, 18 Nov 2026 10:00:00 GMT",
-      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-      "url": "https://openai.com/index/the-silent-consensus",
-      "category": "Intelligence Age"
+      "title": "See PR scans in action",
+      "date": "Thu, 19 Nov 2026 00:00:00 GMT",
+      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+      "url": "https://openai.com/business/learn/pr-scans-demo",
+      "category": "Demos"
+    },
+    {
+      "title": "Deploying Daybreak Red",
+      "date": "Thu, 19 Nov 2026 00:00:00 GMT",
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "category": "Guides"
+    },
+    {
+      "title": "Explore the Codex Security Plugin",
+      "date": "Thu, 19 Nov 2026 00:00:00 GMT",
+      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "category": "Demos"
     }
   ],
   "status": "success",
