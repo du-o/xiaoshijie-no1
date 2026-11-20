@@ -1,7 +1,7 @@
 {
   "source": "36氪",
   "source_url": "https://www.36kr.com/feed",
-  "fetch_time": "2026-11-19T19:39:48.566Z",
+  "fetch_time": "2026-11-20T06:41:49.025Z",
   "articles": [
     {
       "title": "Anthropic开盘价为111.50美元，首日股价上涨34%",
@@ -46,6 +46,6 @@
       "category": ""
     }
   ],
-  "status": "success",
-  "error": null
+  "status": "error",
+  "error": "read ECONNRESET"
 }

@@ -1,54 +1,66 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-11-19T19:39:46.801Z",
+  "fetch_time": "2026-11-20T06:41:22.529Z",
   "articles": [
     {
-      "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
-      "date": "Thu, 19 Nov 2026 05:00:00 GMT",
-      "summary": "arXiv:2611.21682v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly being explored for knowledge-intensive and safety-critical applications in nuclear engineering. However, existing nuclear-domain benchmarks provide limited content coverage or focus primarily on answer accuracy without systematically evaluating the quality of the underlying reasoning. This study introduces NEBench R1, a reasoning-oriented benchmark comprising 7,546 unique multiple-choice questions extra",
-      "url": "https://arxiv.org/abs/2611.21682",
+      "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
+      "date": "Fri, 20 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2611.23322v1 Announce Type: new Abstract: One hope for a good human future alongside advanced AI rests on enduring mutualism: humans and AI will need each other, so the relationship will stay good for both. We argue that this hope fails as AI capability grows. Bargaining guarantees each side only what it would get if bargaining failed. For humans, this can be less than they had before AI. In a simple game-theoretic model, humans stay as well off as before AI without alignment only while th",
+      "url": "https://arxiv.org/abs/2611.23322",
+      "category": [
+        "cs.AI",
+        "cs.GT"
+      ]
+    },
+    {
+      "title": "Training Language Models for Introspective Oversight",
+      "date": "Fri, 20 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2611.23365v1 Announce Type: new Abstract: Language models increasingly exhibit behaviors that are difficult to detect in transcripts, such as reward hacking, deception, and sycophancy. Asking the assistant follow-up questions about its actions is unreliable, since models are generally not trained to report their own misbehavior. As a result, approaches to oversight typically involve querying external models. These face limitations: external transcript monitoring operates only on visible mo",
+      "url": "https://arxiv.org/abs/2611.23365",
       "category": "cs.AI"
     },
     {
-      "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
-      "date": "Thu, 19 Nov 2026 05:00:00 GMT",
-      "summary": "arXiv:2611.21799v1 Announce Type: new Abstract: Chain-of-thought (CoT) monitoring is a promising tool for detecting hidden goals, off-task behavior, and other failures in AI agents. One risk is that models could deliberately shape their reasoning to make it opaque to monitors. We stress-test this risk through persona-control training: supervised fine-tuning on mathematical reasoning traces rewritten in the voices of diverse personas. This induces a broader ability to control CoT, even though tra",
-      "url": "https://arxiv.org/abs/2611.21799",
+      "title": "Where the Tokens Go: Heat, Entropy and Error in Agentic Coding",
+      "date": "Fri, 20 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2611.23375v1 Announce Type: new Abstract: Coding agents are billed by the token, yet software engineering says nothing about what a token actually buys. Here we introduce a theory of software thermodynamics. The theory draws analogues from classical and stochastic thermodynamics, extends them, and applies them to modern agentic coding. We count the tokens an agent generates as its cost and divide that cost into work and heat. The test suite acts as a software Maxwell's daemon that judges e",
+      "url": "https://arxiv.org/abs/2611.23375",
       "category": [
         "cs.AI",
+        "cond-mat.stat-mech",
+        "cs.SE"
+      ]
+    },
+    {
+      "title": "HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs",
+      "date": "Fri, 20 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2611.23398v1 Announce Type: new Abstract: The rapid scale-up of AI infrastructure has made datacenter reliability a cornerstone of the cloud business economy. Since hardware failures in hyper-scale AI clusters can stall multi-million dollar training workloads, the downtime of individual machines can cause outsized economic losses. Minimizing machine downtime, therefore, is more important than ever. To address this, we present Hardware Diagnoser (HardwareDx), an AI-driven hardware diagnosis",
+      "url": "https://arxiv.org/abs/2611.23398",
+      "category": [
+        "cs.AI",
+        "cs.AR"
+      ]
+    },
+    {
+      "title": "RFBench: A Simulator-Grounded Multimodal Benchmark for Passive RF Layout Design and Understanding",
+      "date": "Fri, 20 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2611.23410v1 Announce Type: new Abstract: While multimodal language models can interpret diagrams and generate structured outputs, their capacity to connect passive radio-frequency (RF) design intent, layout geometry, and electromagnetic behavior remains largely untested. To address this gap, we introduce RFBench, a simulator-grounded dataset and benchmark for passive RF layout design and understanding. The dataset contains 10,000 two-port planar layouts simulated using ADS Momentum, with ",
+      "url": "https://arxiv.org/abs/2611.23410",
+      "category": [
+        "cs.AI",
+        "cs.CV",
         "cs.LG"
       ]
     },
     {
-      "title": "How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR",
-      "date": "Thu, 19 Nov 2026 05:00:00 GMT",
-      "summary": "arXiv:2611.21827v1 Announce Type: new Abstract: Deep networks score near 99% on the MSTAR vehicle benchmark, and the newer ATRNet-STAR benchmark was built to be harder. We ask how much of these scores comes from the vehicle itself. With a modern network (ConvNeXt-Small, 3 seeds) we first reproduce the known MSTAR result: with the central 96x96 pixels zeroed out, accuracy is still 73.3% (chance 10%). The same shortcut is present in ATRNet-STAR, which was collected across several scenes: with the ",
-      "url": "https://arxiv.org/abs/2611.21827",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
-      "date": "Thu, 19 Nov 2026 05:00:00 GMT",
-      "summary": "arXiv:2611.21832v1 Announce Type: new Abstract: As AI systems are increasingly used to automate AI R&amp;D, misaligned systems could sabotage research intended to improve model safety and alignment. To stress-test defenses against such sabotage, we use a human expert as a proxy saboteur on AI safety research. We conduct a red-team/blue-team game where a human researcher runs AI safety experiments from scratch and auditors try to tell which were sabotaged and how. Given access to the full researc",
-      "url": "https://arxiv.org/abs/2611.21832",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Language Models Can Rewrite Their Own Weights",
-      "date": "Thu, 19 Nov 2026 05:00:00 GMT",
-      "summary": "arXiv:2611.21885v2 Announce Type: new Abstract: A language model is trained once and frozen. Making it better takes another training run, or a prompt, a harness or extra computation at inference that is gone once the task ends. We show a third way: to our knowledge for the first time, a language model rewrites its own weights by its own reasoning and becomes better, with no gradients and no training. We call this self-rewriting: the model is its own optimizer. In earlier work, a frontier model e",
-      "url": "https://arxiv.org/abs/2611.21885",
-      "category": "cs.AI"
-    },
-    {
-      "title": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",
-      "date": "Thu, 19 Nov 2026 05:00:00 GMT",
-      "summary": "arXiv:2611.21925v1 Announce Type: new Abstract: Speculative-diffusion decoding uses a small parallel drafter model to generate b draft tokens in one forward pass, which then undergo parallel verification via a larger target model. Faster inference can be achieved when multiple draft tokens pass verification simultaneously. Recent parallel draft architectures (DFlash, DSpark) improve draft quality by conditioning on rich features computed by the target, through a mechanism known as feature encodi",
-      "url": "https://arxiv.org/abs/2611.21925",
+      "title": "Why Sub-4-Bit Vision CNNs Collapse and Where Mixed-Precision Recovery Stops",
+      "date": "Fri, 20 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2611.23445v2 Announce Type: new Abstract: Deep vision models operating in resource-constrained environments depend heavily on low-bit quantization, yet compressing weights below 4 bits frequently induces catastrophic accuracy collapse. While mixed-precision recovery strategies aim to rescue accuracy by selectively retaining high-precision parameters, the fundamental mechanics of where and why these models collapse remain poorly understood. In this study, we systematically analyze the anato",
+      "url": "https://arxiv.org/abs/2611.23445",
       "category": [
         "cs.AI",
-        "cs.CL"
+        "cs.CV",
+        "cs.LG"
       ]
     }
   ],

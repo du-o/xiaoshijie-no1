@@ -1,7 +1,7 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-11-19T19:40:00.739Z",
+  "fetch_time": "2026-11-20T06:41:56.180Z",
   "articles": [
     {
       "title": "openclaw 2026.11.10-beta.1",
@@ -11,17 +11,17 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.10-beta.1",
-      "downloadCount": 26
+      "downloadCount": 59
     },
     {
       "title": "openclaw 2026.11.6",
       "date": "2026-11-19T17:26:46Z",
-      "summary": "## 2026.11.6\n\n### Highlights\n\n- **Smoother upgrades:** bridge the 2026.11.5 updater to the current release path and validate staged plugin dependencies correctly on Windows. (#200662, #200595) Authore...",
+      "summary": "<!-- openclaw-release-publication:docs-v1 -->\n\n## OpenClaw v2026.11.6\n\n406 commits · 386 pull requests · 157 contributors\n\n### Changes included in this release\n\nThe release notes and changelog contain...",
       "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.11.6",
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.6",
-      "downloadCount": 242
+      "downloadCount": 1146
     },
     {
       "title": "openclaw 2026.10.33",
@@ -31,17 +31,17 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.10.33",
-      "downloadCount": 145
+      "downloadCount": 152
     },
     {
       "title": "openclaw 2026.11.5",
       "date": "2026-11-17T10:47:56Z",
-      "summary": "## 2026.11.5\n\n### Highlights\n\n- **Restart-safe conversations:** Queued messages, send permissions, and final chat writes are retained across Gateway restarts. (#196923, #196540, #196493) Authored by @...",
+      "summary": "## OpenClaw v2026.11.5\r\n\r\n11,811 commits · 9,954 pull requests · 746 contributors\r\n\r\n### Changes included in this release\r\n\r\nThe release notes and changelog contain the same content, presented in two ...",
       "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.11.5",
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.5",
-      "downloadCount": 18566
+      "downloadCount": 20955
     },
     {
       "title": "openclaw 2026.11.4",
@@ -51,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.4",
-      "downloadCount": 17478
+      "downloadCount": 17531
     },
     {
       "title": "openclaw 2026.11.5-beta.4",
@@ -61,7 +61,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.5-beta.4",
-      "downloadCount": 93
+      "downloadCount": 94
     }
   ],
   "status": "success",

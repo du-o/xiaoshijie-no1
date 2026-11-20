@@ -1,37 +1,199 @@
 {
-  "fetch_time": "2026-11-19T19:39:50.129Z",
+  "fetch_time": "2026-11-20T06:41:50.091Z",
   "total_count": 30,
   "sources_count": 6,
   "errors": [
-    "google-blog: Fetch error: HTTP 401"
+    "36kr: read ECONNRESET"
   ],
   "articles": [
     {
-      "title": "The State of AI: A Look at What's Next",
-      "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-11-19T16:56:55.861Z",
-      "summary": "An in-depth analysis of the current AI landscape and future trends.",
-      "category": "AI Analysis",
+      "title": "小鼠拳击俱乐部或能解释为什么人类爱观赏暴力事件",
+      "date": "Fri, 20 Nov 2026 05:54:52 GMT",
+      "summary": "人类爱围观暴力事件，无论是电影、游戏还是格斗比赛。科学家一直在争论观看暴力事件是否会让我们变得更具攻击性，但这也可能是一种适应性生存策略。根据发表在《自然》期刊上的一项研究，相比不围观打架的小鼠，观看其它小鼠打架的雄鼠学会了足够的战斗技巧，在面对更强壮、更具有攻击性的对手时能更好的保护自己。研究团队将雄鼠随机分为三组——战斗组、观众组和新手组，对每组小鼠进行为期八天的训练，每天三次，每次十分钟。新手组在单独的房间里玩鼠玩具，观众组则在一个透明屏障后观看不同战斗组小鼠打斗。第九天是搏斗之夜，所有小鼠都要与一个强大的对手进行三轮、每轮四分钟的搏斗。结果显示，观众组和战斗组比新手组表现都好，攻击速度更快，招式也类似。观众组的小鼠在技巧娴熟上仍然不如战斗组，显示实践经验仍然非常重要，但它们通过观察学到了足够的战斗技巧。",
+      "url": "https://www.solidot.org/story?sid=85938",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
+      "date": "Fri, 20 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2611.23322v1 Announce Type: new Abstract: One hope for a good human future alongside advanced AI rests on enduring mutualism: humans and AI will need each other, so the relationship will stay good for both. We argue that this hope fails as AI capability grows. Bargaining guarantees each side only what it would get if bargaining failed. For humans, this can be less than they had before AI. In a simple game-theoretic model, humans stay as well off as before AI without alignment only while th",
+      "url": "https://arxiv.org/abs/2611.23322",
+      "category": [
+        "cs.AI",
+        "cs.GT"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Training Language Models for Introspective Oversight",
+      "date": "Fri, 20 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2611.23365v1 Announce Type: new Abstract: Language models increasingly exhibit behaviors that are difficult to detect in transcripts, such as reward hacking, deception, and sycophancy. Asking the assistant follow-up questions about its actions is unreliable, since models are generally not trained to report their own misbehavior. As a result, approaches to oversight typically involve querying external models. These face limitations: external transcript monitoring operates only on visible mo",
+      "url": "https://arxiv.org/abs/2611.23365",
+      "category": "cs.AI",
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Where the Tokens Go: Heat, Entropy and Error in Agentic Coding",
+      "date": "Fri, 20 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2611.23375v1 Announce Type: new Abstract: Coding agents are billed by the token, yet software engineering says nothing about what a token actually buys. Here we introduce a theory of software thermodynamics. The theory draws analogues from classical and stochastic thermodynamics, extends them, and applies them to modern agentic coding. We count the tokens an agent generates as its cost and divide that cost into work and heat. The test suite acts as a software Maxwell's daemon that judges e",
+      "url": "https://arxiv.org/abs/2611.23375",
+      "category": [
+        "cs.AI",
+        "cond-mat.stat-mech",
+        "cs.SE"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs",
+      "date": "Fri, 20 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2611.23398v1 Announce Type: new Abstract: The rapid scale-up of AI infrastructure has made datacenter reliability a cornerstone of the cloud business economy. Since hardware failures in hyper-scale AI clusters can stall multi-million dollar training workloads, the downtime of individual machines can cause outsized economic losses. Minimizing machine downtime, therefore, is more important than ever. To address this, we present Hardware Diagnoser (HardwareDx), an AI-driven hardware diagnosis",
+      "url": "https://arxiv.org/abs/2611.23398",
+      "category": [
+        "cs.AI",
+        "cs.AR"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "RFBench: A Simulator-Grounded Multimodal Benchmark for Passive RF Layout Design and Understanding",
+      "date": "Fri, 20 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2611.23410v1 Announce Type: new Abstract: While multimodal language models can interpret diagrams and generate structured outputs, their capacity to connect passive radio-frequency (RF) design intent, layout geometry, and electromagnetic behavior remains largely untested. To address this gap, we introduce RFBench, a simulator-grounded dataset and benchmark for passive RF layout design and understanding. The dataset contains 10,000 two-port planar layouts simulated using ADS Momentum, with ",
+      "url": "https://arxiv.org/abs/2611.23410",
+      "category": [
+        "cs.AI",
+        "cs.CV",
+        "cs.LG"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "Why Sub-4-Bit Vision CNNs Collapse and Where Mixed-Precision Recovery Stops",
+      "date": "Fri, 20 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2611.23445v2 Announce Type: new Abstract: Deep vision models operating in resource-constrained environments depend heavily on low-bit quantization, yet compressing weights below 4 bits frequently induces catastrophic accuracy collapse. While mixed-precision recovery strategies aim to rescue accuracy by selectively retaining high-precision parameters, the fundamental mechanics of where and why these models collapse remain poorly understood. In this study, we systematically analyze the anato",
+      "url": "https://arxiv.org/abs/2611.23445",
+      "category": [
+        "cs.AI",
+        "cs.CV",
+        "cs.LG"
+      ],
+      "source": "arXiv CS.AI",
+      "source_name": "arxiv"
+    },
+    {
+      "title": "How I Finally Got A I to Write Like Me Six years of trying, four optimizers, and one blind judge. Here’s the process, step by step.",
+      "url": "https://every.to/also-true-for-humans/how-i-finally-got-ai-to-write-like-me?utm_cta_source=newsletter_main_how_i_finally_got_ai_to_write_like_mesix_years_of_trying_four_optimizers_and_one_blind_judge_here_s__1",
+      "date": "2026-11-19T19:39:59.345Z",
+      "summary": "",
+      "category": "Also True for Humans",
       "source": "Every.to",
       "source_name": "every"
     },
     {
-      "title": "Anthropic开盘价为111.50美元，首日股价上涨34%",
-      "date": "Thu, 19 Nov 2026 16:53:19 GMT",
-      "summary": "Anthropic开盘价为111.50美元，IPO发行价为83美元，首日股价上涨34%。",
-      "url": "https://36kr.com/newsflashes/4076915914527624?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
+      "title": "The Age of A rtisanal AI Is Coming Plus: The two new levels of AI adoption, the Gemini model that doesn’t know when to stop, and how to turn your corrections into checks",
+      "url": "https://every.to/context-window/the-age-of-artisanal-ai-is-coming?utm_cta_source=newsletter_main_the_age_of_artisanal_ai_is_comingplus_the_two_new_levels_of_ai_adoption_the_gemini_model_that_doesn__1",
+      "date": "2026-11-19T19:39:59.345Z",
+      "summary": "",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
     },
     {
-      "title": "Anthropic首日开盘市值预计达2万亿美元",
-      "date": "Thu, 19 Nov 2026 16:45:25 GMT",
-      "summary": "Anthropic首日开盘市值预计达2万亿美元。(财联社)",
-      "url": "https://36kr.com/newsflashes/4076908143612804?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
+      "title": "Your Attention Is A I's New Bottleneck Plus: Why teams still pay for software anyone can vibe code, a bad week for Nvidia, and the engineering job that's up 4.6x",
+      "url": "https://every.to/context-window/your-attention-is-ai-s-new-bottleneck?utm_cta_source=newsletter_main_your_attention_is_ai_s_new_bottleneckplus_why_teams_still_pay_for_software_anyone_can_vibe_code_a_ba_1",
+      "date": "2026-11-19T19:39:59.345Z",
+      "summary": "",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "The Next Two L evels of AI Adoption What comes after orchestration?",
+      "url": "https://every.to/also-true-for-humans/the-next-two-levels-of-ai-adoption?utm_cta_source=newsletter_main_the_next_two_levels_of_ai_adoptionwhat_comes_after_orchestration_1",
+      "date": "2026-11-19T19:39:59.345Z",
+      "summary": "",
+      "category": "Also True for Humans",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Microsoft's CEO W ants Every Company to Own Its Own Model Plus: Why AI could mean fewer software seats, which models Every’s team uses, and Notion CEO Ivan Zhao on when to build your own tools",
+      "url": "https://every.to/context-window/microsoft-s-ceo-wants-every-company-to-own-its-own-model?utm_cta_source=newsletter_main_microsoft_s_ceo_wants_every_company_to_own_its_own_modelplus_why_ai_could_mean_fewer_software_seats__1",
+      "date": "2026-11-19T19:39:59.344Z",
+      "summary": "",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Vibe Check: GPT-6.2 A stra and Sol Leave Us Wanting More GPT-6.2 Astra and Sol handle bounded tasks efficiently. The work we most want help with still demands more judgment and follow-through.",
+      "url": "https://every.to/vibe-check/vibe-check-gpt-6-2-astra-and-sol-leave-us-wanting-more?utm_cta_source=newsletter_main_vibe_check_gpt_6_2_astra_and_sol_leave_us_wanting_moregpt_6_2_astra_and_sol_handle_bounded_tasks_eff_1",
+      "date": "2026-11-19T19:39:59.344Z",
+      "summary": "",
+      "category": "Vibe Check",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Skip to main content",
+      "url": "https://blog.google/#jump-content",
+      "date": "2026-11-19T19:39:53.700Z",
+      "summary": "",
+      "category": "Google",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Google Research",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/",
+      "date": "2026-11-19T19:39:53.700Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Google Labs",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/",
+      "date": "2026-11-19T19:39:53.700Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Gemini models",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/",
+      "date": "2026-11-19T19:39:53.700Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Quantum computing",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/",
+      "date": "2026-11-19T19:39:53.700Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Developer tools",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/",
+      "date": "2026-11-19T19:39:53.700Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
     },
     {
       "title": "IEA 警告称到 2030 年数据中心碳排放量将增加七成",
@@ -52,15 +214,6 @@
       "source_name": "solidot"
     },
     {
-      "title": "Anthropic上市首日开盘价预计较IPO发行价高20%",
-      "date": "Thu, 19 Nov 2026 14:53:06 GMT",
-      "summary": "Anthropic在纳斯达克上市首日开盘价预计为99.60美元，发行价为每股83美元，开盘价预计较IPO发行价高20%。",
-      "url": "https://36kr.com/newsflashes/4076797734458503?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
       "title": "城镇夜空飞过的人造卫星数量超过肉眼可见星星数量",
       "date": "Thu, 19 Nov 2026 14:27:21 GMT",
       "summary": "在夜晚的任何时刻，中纬度地区城镇上空掠过的人造卫星数量超过 700 颗，很多情况下超过了肉眼可见的星星数量。目前地球低轨道运行着 15833 颗人造卫星，其中 Starlink 星座的卫星数量最多。Accu Components 公司的研究人员分析了 10 月 12 日和 18 日的卫星轨迹数据，发现如果视野完全无遮挡，那么一个典型的英国的城镇上空，夜晚任何时刻都有 710 颗卫星掠过。Starlink 卫星轨道与赤道呈约 53 度夹角，因此卫星集中在中纬度地区上空。赤道附近的夜空较为干净，平均有 490 颗。不是所有卫星都能被肉眼看见，人造卫星只有在被太阳照亮同时地面处黑暗中时才会被看见。根据研究，在 710 颗卫星中平均有 105 颗在掠过天顶时能反射阳光，其亮度足以媲美恒星。",
@@ -79,46 +232,10 @@
       "source_name": "solidot"
     },
     {
-      "title": "热门中概股美股盘前多数上涨，知乎涨超10%",
-      "date": "Thu, 19 Nov 2026 12:57:53 GMT",
-      "summary": "36氪获悉，热门中概股美股盘前多数上涨，截至发稿，知乎涨超10%，拼多多、爱奇艺涨超6%，京东、蔚来涨超1%，哔哩哔哩涨0.69%，小鹏集团涨0.21%；网易跌超6%，阿里巴巴跌超1%，理想汽车跌0.61%。",
-      "url": "https://36kr.com/newsflashes/4076684460200840?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "超过10万名英国散户投资者争相认购Anthropic IPO股票",
-      "date": "Thu, 19 Nov 2026 12:52:43 GMT",
-      "summary": "约11万名英国散户投资者参与了人工智能巨头Anthropic规模创纪录的810亿美元首次公开募股（IPO），合计获配价值3亿美元的股票。在美国市场周四开盘后，该公司将在纳斯达克证券交易所正式上市。此次英国散户发行由金融科技平台RetailBook协调组织，认购需求远超可供分配的股票数量。英国最大的自主投资平台Hargreaves Lansdown的客户最终仅获得了其申请认购股份的约三分之一。（新浪财经）",
-      "url": "https://36kr.com/newsflashes/4076679384732809?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "美股大型科技股盘前普涨，英特尔涨超4%",
-      "date": "Thu, 19 Nov 2026 12:51:30 GMT",
-      "summary": "36氪获悉，美股大型科技股盘前普涨，截至发稿，英特尔涨超4%，谷歌涨超3%，特斯拉、亚马逊涨超2%，英伟达、微软、Meta涨超1%，苹果涨0.46%。",
-      "url": "https://36kr.com/newsflashes/4076678200644482?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
       "title": "全球专利申请量创新高",
       "date": "Thu, 19 Nov 2026 12:28:18 GMT",
       "summary": "世界知识产权组织公布的年度《世界知识产权指标》（WIPI）报告显示，2025 年全球专利申请量 394 万件，同比增长 6%，创近十年来最快增速。这可能与利用 AI 加快专利申请相关。数据显示，中国继续高居第一达到 191万 件，同比增长 6%，其次是美国（489,766件）、日本（466,301件）、大韩民国（319,210件）和德国（132,714件）。 印度达到 105,163 件，同比增长 38%，首次突破 10 万件。计算机技术仍是专利申请量最大的技术领域，占所有已公布专利申请总量的 13%。世界知识产权组织称，部分知识产权局报告了来自个别案例的证据，表明 AI 起草工具可能影响了 2025 年的专利申请模式。它们发现，个人提交的申请占比上升，审查员也越来越频繁地注意到看似由 AI 生成或在 AI 辅助下生成的文本。因此近期专利申请量的部分增长可能反映了使用专利制度的新方式，而非创新投资有所增加，并可能影响知识产权局的工作量。产权组织将继续研究这一问题。",
       "url": "https://www.solidot.org/story?sid=85933",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "黄仁勋的下台可能削弱开放权重模型让闭源模型受益",
-      "date": "Thu, 19 Nov 2026 09:09:08 GMT",
-      "summary": "黄仁勋的下台可能削弱开放权重模型生态，让 OpenAI 和 Anthropic 等闭源模型开发商受益。黄仁勋此前曾利用英伟达的资金打造一个广泛的 AI 生态系统。他通过投资和收购初创企业，支持开发开源和开放权重模型。黄仁勋是此类模型推广的坚定倡导者，曾游说反对华盛顿限制使用中国的开放权重模型，积极推动美国本土开放权重模型的开发。一位风险投资人表示，失去黄仁勋以及英伟达在投资上不再那么慷慨，我们可能最终会面对一个模型提供商高度集中的世界。一位业内人士表示不认为开放权重模型会就此消失，但失去黄仁勋这位最强大的财务支持者和拥护者，无疑会拖慢它们的发展进程。",
-      "url": "https://www.solidot.org/story?sid=85932",
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
@@ -133,73 +250,40 @@
       "source_name": "openai"
     },
     {
-      "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
-      "date": "Thu, 19 Nov 2026 05:00:00 GMT",
-      "summary": "arXiv:2611.21682v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly being explored for knowledge-intensive and safety-critical applications in nuclear engineering. However, existing nuclear-domain benchmarks provide limited content coverage or focus primarily on answer accuracy without systematically evaluating the quality of the underlying reasoning. This study introduces NEBench R1, a reasoning-oriented benchmark comprising 7,546 unique multiple-choice questions extra",
-      "url": "https://arxiv.org/abs/2611.21682",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
+      "title": "Deploying Daybreak Red",
+      "date": "Thu, 19 Nov 2026 00:00:00 GMT",
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "category": "Guides",
+      "source": "OpenAI News",
+      "source_name": "openai"
     },
     {
-      "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
-      "date": "Thu, 19 Nov 2026 05:00:00 GMT",
-      "summary": "arXiv:2611.21799v1 Announce Type: new Abstract: Chain-of-thought (CoT) monitoring is a promising tool for detecting hidden goals, off-task behavior, and other failures in AI agents. One risk is that models could deliberately shape their reasoning to make it opaque to monitors. We stress-test this risk through persona-control training: supervised fine-tuning on mathematical reasoning traces rewritten in the voices of diverse personas. This induces a broader ability to control CoT, even though tra",
-      "url": "https://arxiv.org/abs/2611.21799",
-      "category": [
-        "cs.AI",
-        "cs.LG"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
+      "title": "See PR scans in action",
+      "date": "Thu, 19 Nov 2026 00:00:00 GMT",
+      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+      "url": "https://openai.com/business/learn/pr-scans-demo",
+      "category": "Demos",
+      "source": "OpenAI News",
+      "source_name": "openai"
     },
     {
-      "title": "How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR",
-      "date": "Thu, 19 Nov 2026 05:00:00 GMT",
-      "summary": "arXiv:2611.21827v1 Announce Type: new Abstract: Deep networks score near 99% on the MSTAR vehicle benchmark, and the newer ATRNet-STAR benchmark was built to be harder. We ask how much of these scores comes from the vehicle itself. With a modern network (ConvNeXt-Small, 3 seeds) we first reproduce the known MSTAR result: with the central 96x96 pixels zeroed out, accuracy is still 73.3% (chance 10%). The same shortcut is present in ATRNet-STAR, which was collected across several scenes: with the ",
-      "url": "https://arxiv.org/abs/2611.21827",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
+      "title": "Explore the Codex Security Plugin",
+      "date": "Thu, 19 Nov 2026 00:00:00 GMT",
+      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "category": "Demos",
+      "source": "OpenAI News",
+      "source_name": "openai"
     },
     {
-      "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
-      "date": "Thu, 19 Nov 2026 05:00:00 GMT",
-      "summary": "arXiv:2611.21832v1 Announce Type: new Abstract: As AI systems are increasingly used to automate AI R&amp;D, misaligned systems could sabotage research intended to improve model safety and alignment. To stress-test defenses against such sabotage, we use a human expert as a proxy saboteur on AI safety research. We conduct a red-team/blue-team game where a human researcher runs AI safety experiments from scratch and auditors try to tell which were sabotaged and how. Given access to the full researc",
-      "url": "https://arxiv.org/abs/2611.21832",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "Language Models Can Rewrite Their Own Weights",
-      "date": "Thu, 19 Nov 2026 05:00:00 GMT",
-      "summary": "arXiv:2611.21885v2 Announce Type: new Abstract: A language model is trained once and frozen. Making it better takes another training run, or a prompt, a harness or extra computation at inference that is gone once the task ends. We show a third way: to our knowledge for the first time, a language model rewrites its own weights by its own reasoning and becomes better, with no gradients and no training. We call this self-rewriting: the model is its own optimizer. In earlier work, a frontier model e",
-      "url": "https://arxiv.org/abs/2611.21885",
-      "category": "cs.AI",
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",
-      "date": "Thu, 19 Nov 2026 05:00:00 GMT",
-      "summary": "arXiv:2611.21925v1 Announce Type: new Abstract: Speculative-diffusion decoding uses a small parallel drafter model to generate b draft tokens in one forward pass, which then undergo parallel verification via a larger target model. Faster inference can be achieved when multiple draft tokens pass verification simultaneously. Recent parallel draft architectures (DFlash, DSpark) improve draft quality by conditioning on rich features computed by the target, through a mechanism known as feature encodi",
-      "url": "https://arxiv.org/abs/2611.21925",
-      "category": [
-        "cs.AI",
-        "cs.CL"
-      ],
-      "source": "arXiv CS.AI",
-      "source_name": "arxiv"
-    },
-    {
-      "title": "How Startups Are Using AI to Disrupt Industries",
-      "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-11-18T16:56:55.861Z",
-      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
-      "category": "Source Code",
-      "source": "Every.to",
-      "source_name": "every"
+      "title": "Get started with Daybreak Blue",
+      "date": "Thu, 19 Nov 2026 00:00:00 GMT",
+      "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "category": "Demos",
+      "source": "OpenAI News",
+      "source_name": "openai"
     },
     {
       "title": "The Silent Consensus",
@@ -209,78 +293,6 @@
       "category": "Intelligence Age",
       "source": "OpenAI News",
       "source_name": "openai"
-    },
-    {
-      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "date": "Wed, 18 Nov 2026 08:00:00 GMT",
-      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-      "url": "https://openai.com/business/customer-stories/sumitomo-life",
-      "category": "",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
-      "title": "Research acceleration: The jagged frontier",
-      "date": "Wed, 18 Nov 2026 08:00:00 GMT",
-      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "category": "Research",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
-      "title": "Inside the Codex sandbox",
-      "date": "Wed, 18 Nov 2026 08:00:00 GMT",
-      "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
-      "url": "https://openai.com/index/inside-the-codex-sandbox",
-      "category": "Engineering",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
-      "title": "Managing frontier AI risk: From training to deployment",
-      "date": "Wed, 18 Nov 2026 06:00:00 GMT",
-      "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
-      "url": "https://openai.com/index/managing-frontier-ai-risk",
-      "category": "Safety",
-      "source": "OpenAI News",
-      "source_name": "openai"
-    },
-    {
-      "title": "The Future of Work in an AI-Driven World",
-      "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-11-17T16:56:55.861Z",
-      "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Building AI Products: Lessons from the Trenches",
-      "url": "https://every.to/p/building-ai-products",
-      "date": "2026-11-16T16:56:55.861Z",
-      "summary": "Practical insights from builders creating AI-powered products.",
-      "category": "Product",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "AI Agents: The Next Evolution of Automation",
-      "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-11-15T16:56:55.861Z",
-      "summary": "Understanding autonomous AI agents and their potential impact on software.",
-      "category": "Source Code",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "The Economics of AI: Costs, Benefits, and ROI",
-      "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-11-14T16:56:55.861Z",
-      "summary": "A deep dive into the financial aspects of implementing AI solutions.",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
     }
   ]
 }
