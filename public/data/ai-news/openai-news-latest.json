@@ -1,8 +1,22 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-11-20T19:17:40.397Z",
+  "fetch_time": "2026-11-21T06:34:09.030Z",
   "articles": [
+    {
+      "title": "Combatting adversarial distillation",
+      "date": "Fri, 20 Nov 2026 10:00:00 GMT",
+      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "category": ""
+    },
+    {
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "date": "Fri, 20 Nov 2026 00:00:00 GMT",
+      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "category": ""
+    },
     {
       "title": "Can AI help scientists identify promising drug candidates?",
       "date": "Fri, 20 Nov 2026 00:00:00 GMT",
@@ -18,10 +32,10 @@
       "category": "Engineering"
     },
     {
-      "title": "Get started with Daybreak Blue",
+      "title": "Explore the Codex Security Plugin",
       "date": "Thu, 19 Nov 2026 00:00:00 GMT",
-      "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
-      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
       "category": "Demos"
     },
     {
@@ -29,20 +43,6 @@
       "date": "Thu, 19 Nov 2026 00:00:00 GMT",
       "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
       "url": "https://openai.com/business/learn/pr-scans-demo",
-      "category": "Demos"
-    },
-    {
-      "title": "Deploying Daybreak Red",
-      "date": "Thu, 19 Nov 2026 00:00:00 GMT",
-      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-      "url": "https://openai.com/business/learn/deploying-daybreak-red",
-      "category": "Guides"
-    },
-    {
-      "title": "Explore the Codex Security Plugin",
-      "date": "Thu, 19 Nov 2026 00:00:00 GMT",
-      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
-      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
       "category": "Demos"
     }
   ],

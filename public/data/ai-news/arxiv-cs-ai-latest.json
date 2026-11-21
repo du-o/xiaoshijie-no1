@@ -1,69 +1,8 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-11-20T19:17:40.462Z",
-  "articles": [
-    {
-      "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
-      "date": "Fri, 20 Nov 2026 05:00:00 GMT",
-      "summary": "arXiv:2611.23322v1 Announce Type: new Abstract: One hope for a good human future alongside advanced AI rests on enduring mutualism: humans and AI will need each other, so the relationship will stay good for both. We argue that this hope fails as AI capability grows. Bargaining guarantees each side only what it would get if bargaining failed. For humans, this can be less than they had before AI. In a simple game-theoretic model, humans stay as well off as before AI without alignment only while th",
-      "url": "https://arxiv.org/abs/2611.23322",
-      "category": [
-        "cs.AI",
-        "cs.GT"
-      ]
-    },
-    {
-      "title": "Training Language Models for Introspective Oversight",
-      "date": "Fri, 20 Nov 2026 05:00:00 GMT",
-      "summary": "arXiv:2611.23365v1 Announce Type: new Abstract: Language models increasingly exhibit behaviors that are difficult to detect in transcripts, such as reward hacking, deception, and sycophancy. Asking the assistant follow-up questions about its actions is unreliable, since models are generally not trained to report their own misbehavior. As a result, approaches to oversight typically involve querying external models. These face limitations: external transcript monitoring operates only on visible mo",
-      "url": "https://arxiv.org/abs/2611.23365",
-      "category": "cs.AI"
-    },
-    {
-      "title": "Where the Tokens Go: Heat, Entropy and Error in Agentic Coding",
-      "date": "Fri, 20 Nov 2026 05:00:00 GMT",
-      "summary": "arXiv:2611.23375v1 Announce Type: new Abstract: Coding agents are billed by the token, yet software engineering says nothing about what a token actually buys. Here we introduce a theory of software thermodynamics. The theory draws analogues from classical and stochastic thermodynamics, extends them, and applies them to modern agentic coding. We count the tokens an agent generates as its cost and divide that cost into work and heat. The test suite acts as a software Maxwell's daemon that judges e",
-      "url": "https://arxiv.org/abs/2611.23375",
-      "category": [
-        "cs.AI",
-        "cond-mat.stat-mech",
-        "cs.SE"
-      ]
-    },
-    {
-      "title": "HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs",
-      "date": "Fri, 20 Nov 2026 05:00:00 GMT",
-      "summary": "arXiv:2611.23398v1 Announce Type: new Abstract: The rapid scale-up of AI infrastructure has made datacenter reliability a cornerstone of the cloud business economy. Since hardware failures in hyper-scale AI clusters can stall multi-million dollar training workloads, the downtime of individual machines can cause outsized economic losses. Minimizing machine downtime, therefore, is more important than ever. To address this, we present Hardware Diagnoser (HardwareDx), an AI-driven hardware diagnosis",
-      "url": "https://arxiv.org/abs/2611.23398",
-      "category": [
-        "cs.AI",
-        "cs.AR"
-      ]
-    },
-    {
-      "title": "RFBench: A Simulator-Grounded Multimodal Benchmark for Passive RF Layout Design and Understanding",
-      "date": "Fri, 20 Nov 2026 05:00:00 GMT",
-      "summary": "arXiv:2611.23410v1 Announce Type: new Abstract: While multimodal language models can interpret diagrams and generate structured outputs, their capacity to connect passive radio-frequency (RF) design intent, layout geometry, and electromagnetic behavior remains largely untested. To address this gap, we introduce RFBench, a simulator-grounded dataset and benchmark for passive RF layout design and understanding. The dataset contains 10,000 two-port planar layouts simulated using ADS Momentum, with ",
-      "url": "https://arxiv.org/abs/2611.23410",
-      "category": [
-        "cs.AI",
-        "cs.CV",
-        "cs.LG"
-      ]
-    },
-    {
-      "title": "Why Sub-4-Bit Vision CNNs Collapse and Where Mixed-Precision Recovery Stops",
-      "date": "Fri, 20 Nov 2026 05:00:00 GMT",
-      "summary": "arXiv:2611.23445v2 Announce Type: new Abstract: Deep vision models operating in resource-constrained environments depend heavily on low-bit quantization, yet compressing weights below 4 bits frequently induces catastrophic accuracy collapse. While mixed-precision recovery strategies aim to rescue accuracy by selectively retaining high-precision parameters, the fundamental mechanics of where and why these models collapse remain poorly understood. In this study, we systematically analyze the anato",
-      "url": "https://arxiv.org/abs/2611.23445",
-      "category": [
-        "cs.AI",
-        "cs.CV",
-        "cs.LG"
-      ]
-    }
-  ],
+  "fetch_time": "2026-11-21T06:34:09.074Z",
+  "articles": [],
   "status": "success",
   "error": null
 }
