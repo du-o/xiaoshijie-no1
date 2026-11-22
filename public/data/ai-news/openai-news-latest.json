@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-11-22T15:47:46.159Z",
+  "fetch_time": "2026-11-22T18:43:35.799Z",
   "articles": [
+    {
+      "title": "Perplexity and Intelligence",
+      "date": "Sun, 22 Nov 2026 00:00:00 GMT",
+      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "category": "Research"
+    },
     {
       "title": "Combatting adversarial distillation",
       "date": "Fri, 20 Nov 2026 10:00:00 GMT",
@@ -32,18 +39,11 @@
       "category": "Engineering"
     },
     {
-      "title": "Explore the Codex Security Plugin",
+      "title": "Deploying Daybreak Red",
       "date": "Thu, 19 Nov 2026 00:00:00 GMT",
-      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
-      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-      "category": "Demos"
-    },
-    {
-      "title": "See PR scans in action",
-      "date": "Thu, 19 Nov 2026 00:00:00 GMT",
-      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-      "url": "https://openai.com/business/learn/pr-scans-demo",
-      "category": "Demos"
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "category": "Guides"
     }
   ],
   "status": "success",
