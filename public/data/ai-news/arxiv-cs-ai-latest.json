@@ -1,8 +1,65 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-11-22T18:43:35.860Z",
-  "articles": [],
+  "fetch_time": "2026-11-23T06:54:36.720Z",
+  "articles": [
+    {
+      "title": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
+      "date": "Mon, 23 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2611.26663v1 Announce Type: new Abstract: Generative AI has improved individual productivity, but whether adding a plurality of AI partners helps or hurts remains open. We crossed AI partnership (one versus two) with behavioral formation (calibrated to average human behavior versus customized by the participant) in a brainstorming experiment ($N$=168) with human-human dyads as reference. Two-AI rooms posted more ideas to the shared board, but human-authored ideas dropped substantially. Wit",
+      "url": "https://arxiv.org/abs/2611.26663",
+      "category": [
+        "cs.AI",
+        "cs.CL"
+      ]
+    },
+    {
+      "title": "Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation",
+      "date": "Mon, 23 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2611.26717v1 Announce Type: new Abstract: Synthesizing relational training data such as knowledge graphs with a large language model typically emits structured objects one at a time, which keeps each object valid but leaves the relationships between them ungrounded. We study an alternative paradigm, generation by simulation: rather than describing a relational artifact, we simulate a process that produces it and take the artifact to be its causal record. Language-model agents propose inten",
+      "url": "https://arxiv.org/abs/2611.26717",
+      "category": "cs.AI"
+    },
+    {
+      "title": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator",
+      "date": "Mon, 23 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2611.26722v1 Announce Type: new Abstract: To autonomously execute multi-step tasks, enterprise agents must reliably interact with tools, call APIs, or query databases, making tool-calling a fundamental capability of AI models. Supervised fine-tuning (SFT) optimises for producing the correct call, but never contrasts it with a plausible incorrect one. In an environment where even a minor formatting error can invalidate a call and an incorrect decision can derail the interaction, direct pref",
+      "url": "https://arxiv.org/abs/2611.26722",
+      "category": [
+        "cs.AI",
+        "cs.CL"
+      ]
+    },
+    {
+      "title": "ChatAtom: A Multi-Agent LLM System for Molecular Dynamics Simulation and Visualization",
+      "date": "Mon, 23 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2611.26782v1 Announce Type: new Abstract: Molecular dynamics (MD) simulation resolves atomic-scale motion and predicts the structural, mechanical, and dynamic properties of materials, making it cen- tral to materials design and discovery. Yet an MD study requires an expert-driven workflow: designing the simulation, writing reliable input scripts, executing them, and analyzing the results with separate tools. Here we present ChatAtom, a multi-agent large language model system that translate",
+      "url": "https://arxiv.org/abs/2611.26782",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Beyond Final Answers: Interpretable Tumor Immune Microenvironment Reasoning from H&amp;E and mIF",
+      "date": "Mon, 23 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2611.26794v1 Announce Type: new Abstract: Readouts of the tumor immune microenvironment (TIME), such as CD8+ T-cell density, intra-epithelial infiltration and the Ki67 index, combine tissue architecture from H&amp;E with cell phenotypes from multiplex immunofluorescence (mIF). Multimodal large language models (MLLMs) could automate these readouts with an explanation, but two gaps remain. Pathology MLLMs read H&amp;E alone, while these readouts need the cell phenotypes that mIF measures. An",
+      "url": "https://arxiv.org/abs/2611.26794",
+      "category": [
+        "cs.AI",
+        "q-bio.QM"
+      ]
+    },
+    {
+      "title": "Memorization and Generalization in Generative Models: A Perspective From Energy-based Modeling and Associative Memory",
+      "date": "Mon, 23 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2611.26797v1 Announce Type: new Abstract: Generative models now write working code, produce realistic images, and hold long conversations, yet the mechanisms behind their intelligence still evade our understanding. This thesis explores that puzzle through Associative Memory (AM), in which patterns are stored as energy minima and retrieved through attractor dynamics. Beyond their capacity, AMs form new minima known as spurious states, long regarded as a failure of memory. We argue that this",
+      "url": "https://arxiv.org/abs/2611.26797",
+      "category": [
+        "cs.AI",
+        "cs.CV",
+        "cs.LG",
+        "stat.ML"
+      ]
+    }
+  ],
   "status": "success",
   "error": null
 }

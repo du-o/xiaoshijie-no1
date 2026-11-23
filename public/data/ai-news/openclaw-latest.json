@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-11-22T18:43:44.570Z",
+  "fetch_time": "2026-11-23T06:54:48.759Z",
   "articles": [
+    {
+      "title": "openclaw 2026.11.7",
+      "date": "2026-11-23T01:33:51Z",
+      "summary": "## 2026.11.7\n\n### Highlights\n\n- **Conversation recovery:** Recover interrupted replies and child results across Gateway restarts without losing pending work. (#198905, #201544, #200924, #200967) Autho...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.11.7",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.11.7",
+      "downloadCount": 588
+    },
     {
       "title": "openclaw 2026.11.10-beta.1",
       "date": "2026-11-19T15:45:29Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.10-beta.1",
-      "downloadCount": 173
+      "downloadCount": 179
     },
     {
       "title": "openclaw 2026.11.6",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.6",
-      "downloadCount": 17678
+      "downloadCount": 20763
     },
     {
       "title": "openclaw 2026.10.33",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.5",
-      "downloadCount": 26542
+      "downloadCount": 26575
     },
     {
       "title": "openclaw 2026.11.4",
@@ -51,17 +61,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.4",
-      "downloadCount": 17708
-    },
-    {
-      "title": "openclaw 2026.11.5-beta.4",
-      "date": "2026-11-16T03:12:26Z",
-      "summary": "## 2026.11.5-beta.4\n\n### Highlights\n\n### Changes\n\n- **Telegram widgets:** Render interactive widgets as Telegram messages (#196991) Thanks @obviyus.\n\n### Fixes\n\n- **Transcripts and attachments:** Keep...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.11.5-beta.4",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.11.5-beta.4",
-      "downloadCount": 96
+      "downloadCount": 17731
     }
   ],
   "status": "success",
