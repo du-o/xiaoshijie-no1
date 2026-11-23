@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-11-23T06:54:48.759Z",
+  "fetch_time": "2026-11-23T14:01:45.098Z",
   "articles": [
+    {
+      "title": "openclaw 2026.11.10-beta.2",
+      "date": "2026-11-23T12:48:59Z",
+      "summary": "## 2026.11.10-beta.2\n\n### Highlights\n\n- Update recovery: keep OpenClaw runnable when package replacement is interrupted, and let the next update finish safely after a crash or reboot. (#200273, #20036...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.11.10-beta.2",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.11.10-beta.2",
+      "downloadCount": 19
+    },
     {
       "title": "openclaw 2026.11.7",
       "date": "2026-11-23T01:33:51Z",
@@ -11,7 +21,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.7",
-      "downloadCount": 588
+      "downloadCount": 1447
     },
     {
       "title": "openclaw 2026.11.10-beta.1",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.10-beta.1",
-      "downloadCount": 179
+      "downloadCount": 184
     },
     {
       "title": "openclaw 2026.11.6",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.6",
-      "downloadCount": 20763
+      "downloadCount": 9075
     },
     {
       "title": "openclaw 2026.10.33",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.10.33",
-      "downloadCount": 205
+      "downloadCount": 211
     },
     {
       "title": "openclaw 2026.11.5",
@@ -51,17 +61,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.5",
-      "downloadCount": 26575
-    },
-    {
-      "title": "openclaw 2026.11.4",
-      "date": "2026-11-16T04:17:42Z",
-      "summary": "<!-- openclaw-release-publication:docs-v1 -->\n\n## OpenClaw v2026.11.4\n\n220 commits · 125 pull requests · 90 contributors\n\n### Changes included in this release\n\nThe release notes and changelog contain ...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.11.4",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.11.4",
-      "downloadCount": 17731
+      "downloadCount": 26591
     }
   ],
   "status": "success",
