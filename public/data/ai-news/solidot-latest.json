@@ -1,8 +1,29 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-11-23T22:57:33.532Z",
+  "fetch_time": "2026-11-24T09:20:27.635Z",
   "articles": [
+    {
+      "title": "解剖 Tor 协议",
+      "date": "Tue, 24 Nov 2026 08:02:16 GMT",
+      "summary": "Alessandro Greco 写道： 《Tor 解剖（Anatomia di Tor / Onion Routing Anatomy）》由我在意大利发起并负责编辑，已经正式公开发布。这是一本可免费下载的开源技术书籍，介绍 Tor 匿名网络的底层机制：信元、通信通道与电路、分层加密、Onion Services、流量分析及安全边界。 全书包含 31 章、20 个可在私有 Tor 测试网络中复现的实验、176 道附解答练习题和 39 幅技术插图。简体中文版已提供 PDF 和 EPUB，采用 GNU GPL-3.0-or-later 许可；项目独立于 Tor Project。 简体中文版及下载（Zenodo DOI）： https://doi.org/10.5281/zenodo.24207976 开源项目主页： https://github.com/aleff-github/onion-routing-anatomy",
+      "url": "https://www.solidot.org/story?sid=85974",
+      "category": ""
+    },
+    {
+      "title": "Google 申请专利为用户量身定制 AI 电视频道",
+      "date": "Tue, 24 Nov 2026 07:22:48 GMT",
+      "summary": "Google 提交了一项专利申请，利用它所掌握的关于你的信息，创造一个由 AI 生成的电视频道。该频道将充满为你量身定制的节目：由你本人担任主角，同时还会穿插个性化定制的广告。该专利是 AI 视频技术未来发展方向的最新信号：企业和广告商通过收集大量与你相关的数据，自动生成源源不断、高度精准且完全个性化的内容。该专利被称为 creating a channel of video experiences tailored to a user，通过输入提示词要求大模型为用户生成定制视频，其中用户将扮演主角。生成的视频将是基于用户画像特征、用户最常观看内容的风格和偏好。该频道还会关联广告服务器，为 AI 生成视频插入定制广告。",
+      "url": "https://www.solidot.org/story?sid=85973",
+      "category": ""
+    },
+    {
+      "title": "新浏览器 Ladybird 释出首个 alpha 版本",
+      "date": "Tue, 24 Nov 2026 06:39:16 GMT",
+      "summary": "SerenityOS 项目创始人 Andreas Kling 从 2025 年起带领一个团队开发一款全新的浏览器 Ladybird。Andreas Kling 在诺基亚和苹果工作时从事 WebKit 引擎相关工作。Ladybird 的引擎完全从零开始编写，不使用 Blink、WebKit、Gecko 或其它浏览器引擎的任何代码，常用功能如图像/音频/视频格式、加密、图形等将使用第三方库实现，但浏览器引擎不会使用其它浏览器引擎代码。现在 Ladybird 项目释出了第一个 Alpha 版本，支持 Linux 和 macOS 平台。既然是 Alpha 版本，它显然会存在很多问题，部分网站可能不能正常工作，软件也可能会崩溃。开发者欢迎用户将崩溃报告发送给他们。",
+      "url": "https://www.solidot.org/story?sid=85972",
+      "category": ""
+    },
     {
       "title": "CachyOS 支持 Easy Anti-Cheat v2",
       "date": "Mon, 23 Nov 2026 15:37:55 GMT",
@@ -22,27 +43,6 @@
       "date": "Mon, 23 Nov 2026 14:30:59 GMT",
       "summary": "仅仅过了 10 天，英伟达宣布重新任命黄仁勋为总裁兼 CEO，重返董事会。董事会主席 Harvey C. Jones 在声明中称，董事会认为黄仁勋是领导英伟达的合适人选，他的复职符合股东、员工、合作伙伴和客户的最大利益。我们对黄仁勋充满信心，期待在他重掌公司领导权后与他携手共事。我们还要感谢 Colette Kress，她在担任临时 CEO 期间表现出色，她也将继续履行其作为英伟达首席财务官的职责。Jones 也将继续担任董事会主席。",
       "url": "https://www.solidot.org/story?sid=85969",
-      "category": ""
-    },
-    {
-      "title": "GrapheneOS 指责 Google 恐吓其合作伙伴",
-      "date": "Mon, 23 Nov 2026 13:58:15 GMT",
-      "summary": "Android 安全加固发行版项目 GrapheneOS 指责 Google 恐吓其合作伙伴。摩托罗拉最近与 GrapheneOS 合作推出了首款支持 GrapheneOS 的高端智能手机 Signature 27。GrapheneOS 通过其社交媒体账号指责 Google 向 Android 手机厂商施压，手机厂商因与其合作而受到质询，甚至还遭到了撤销 Google 应用授权的威胁。GrapheneOS 认为 Google 正针对其采取阻挠行动，且打压态势可能会进一步升级。GrapheneOS 认为，Google 的部分行为已触犯美国刑法，其违反反垄断的行为可能导致相关个人面临入狱。该项目希望与美国司法部进行沟通，指出此前针对 Google 的反垄断诉讼未触及该公司最严重的违规行为。他们正寻求支持者帮忙引荐检察官和监管机构，承诺无论未来发生什么，该项目都有足够资源继续运营。GrapheneOS 还指出，目前越来越多的 Android 功能和更新仅限于 Pixel 系列手机，其他硬件合作伙伴落在后面。",
-      "url": "https://www.solidot.org/story?sid=85968",
-      "category": ""
-    },
-    {
-      "title": "GLP-1 减肥药或能对环境产生显著影响",
-      "date": "Mon, 23 Nov 2026 12:48:26 GMT",
-      "summary": "GLP-1 减肥药如 Ozempic 和 Wegovy 会抑制服用者的食欲，如果这种药物能普及，那么抑制食欲减少粮食会带来巨大的环境影响。研究人员估计，如果肥胖成年人广泛服用 GLP-1，预计到 2050 年热量摄入的减少每年可预防多达 660 万例死亡，同时释放多达 3200 万公顷的农业用地。如果热量摄入减少的同时转向健康饮食结构，那么到 2050 年每年可避免多达 700 万例死亡，同时释放约 4600 万公顷的农业用地。全球各地的粮食系统是相互关联的。世界部分地区的粮食需求下降，会波及其他地区的农业、贸易和食品价格，从而影响到未服用 GLP-1 药物的人群。",
-      "url": "https://www.solidot.org/story?sid=85967",
-      "category": ""
-    },
-    {
-      "title": "天文学家首次观察到恒星吞噬伴星并爆炸的过程",
-      "date": "Mon, 23 Nov 2026 10:10:43 GMT",
-      "summary": "天文学家利用韦伯望远镜首次直接观察到仙女座的一颗巨大恒星吞噬伴星并爆炸的过程。当恒星演化至生命晚期，体积会急剧膨胀，可能吞噬附近轨道上的任何天体，在一个双星系统中，这被称为“共有包层阶段”。第一颗恒星外层会将自己的核心与第二颗恒星共同包裹，第二颗恒星不断损失轨道能量和角动量，释放的能量可加热并抛射包层。系统要么留下紧密双星，要么两颗恒星彻底并合。哥伦比亚大学天文学家分析了 AT 2025abao 事件的多阶段观测数据。该事件表现为仙女座星系中的一个爆发性光斑。研究显示，其前身正是一个双星系统：第一颗恒星（主星）质量约为太阳的 7 倍，半径约为太阳的 350 倍，光度约为太阳的 1.8 万倍；第二颗恒星（伴星）质量约为太阳的 0.7倍。201 8年，伴星进入主星外层，此后约 7 年间不断向内旋近，这一过程仅经历约 7 圈轨道运动。2023 年，研究团队从大量数据中发现该系统异常增亮，并持续监测。2025 年 10 月，系统发生强烈爆发，抛射出约 0.1—0.2 个太阳质量的物质。韦伯布空间望远镜随后在爆发峰值后约 47 天开展观测，帮助研究团队分析系统爆发前、爆发期间及爆发后的状态。综合",
-      "url": "https://www.solidot.org/story?sid=85966",
       "category": ""
     }
   ],

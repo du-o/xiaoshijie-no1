@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-11-23T22:57:42.374Z",
+  "fetch_time": "2026-11-24T09:20:32.966Z",
   "articles": [
+    {
+      "title": "openclaw 2026.11.10-beta.3",
+      "date": "2026-11-24T03:28:03Z",
+      "summary": "## 2026.11.10-beta.3\n\n### Highlights\n\n- **Update recovery:** Keep interrupted package and source updates recoverable, including updates that cross a schema change or restart the machine. (#200273) (#2...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.11.10-beta.3",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.11.10-beta.3",
+      "downloadCount": 31
+    },
     {
       "title": "openclaw 2026.11.10-beta.2",
       "date": "2026-11-23T12:48:59Z",
@@ -11,17 +21,17 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.10-beta.2",
-      "downloadCount": 39
+      "downloadCount": 72
     },
     {
       "title": "openclaw 2026.11.7",
       "date": "2026-11-23T01:33:51Z",
-      "summary": "## 2026.11.7\n\n### Highlights\n\n- **Conversation recovery:** Recover interrupted replies and child results across Gateway restarts without losing pending work. (#198905, #201544, #200924, #200967) Autho...",
+      "summary": "<!-- openclaw-release-publication:docs-v1 -->\n\n## OpenClaw v2026.11.7\n\n736 commits · 533 pull requests · 214 contributors\n\n### Changes included in this release\n\nThe release notes and changelog contain...",
       "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.11.7",
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.7",
-      "downloadCount": 4486
+      "downloadCount": 8763
     },
     {
       "title": "openclaw 2026.11.10-beta.1",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.10-beta.1",
-      "downloadCount": 184
+      "downloadCount": 186
     },
     {
       "title": "openclaw 2026.11.6",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.6",
-      "downloadCount": 10328
+      "downloadCount": 10674
     },
     {
       "title": "openclaw 2026.10.33",
@@ -51,17 +61,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.10.33",
-      "downloadCount": 215
-    },
-    {
-      "title": "openclaw 2026.11.5",
-      "date": "2026-11-17T10:47:56Z",
-      "summary": "## OpenClaw v2026.11.5\r\n\r\n11,811 commits · 9,954 pull requests · 746 contributors\r\n\r\n### Changes included in this release\r\n\r\nThe release notes and changelog contain the same content, presented in two ...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.11.5",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.11.5",
-      "downloadCount": 26601
+      "downloadCount": 220
     }
   ],
   "status": "success",
