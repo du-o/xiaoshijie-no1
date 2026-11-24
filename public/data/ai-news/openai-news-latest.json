@@ -1,13 +1,34 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-11-24T19:13:20.606Z",
+  "fetch_time": "2026-11-24T21:35:28.327Z",
   "articles": [
+    {
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "date": "Tue, 24 Nov 2026 13:00:00 GMT",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "category": "Science"
+    },
+    {
+      "title": "Searching for distant planets with Astra",
+      "date": "Tue, 24 Nov 2026 11:00:00 GMT",
+      "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "category": "Science"
+    },
+    {
+      "title": "How Intentful uses dots to make more time for growth",
+      "date": "Tue, 24 Nov 2026 00:00:00 GMT",
+      "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+      "url": "https://openai.com/business/customer-stories/intentful-dots",
+      "category": ""
+    },
     {
       "title": "How iFood scales coding agents across 15,000 repositories",
       "date": "Tue, 24 Nov 2026 00:00:00 GMT",
       "summary": "",
-      "url": "https://openai.com/index/ifood",
+      "url": "https://openai.com/business/customer-stories/ifood",
       "category": ""
     },
     {
@@ -23,27 +44,6 @@
       "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
       "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
       "category": "Webinars"
-    },
-    {
-      "title": "Richpanel helps companies automate 50% of support in 30 days",
-      "date": "Mon, 23 Nov 2026 08:00:00 GMT",
-      "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
-      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
-      "category": "Startup"
-    },
-    {
-      "title": "Perplexity and Intelligence",
-      "date": "Sun, 22 Nov 2026 00:00:00 GMT",
-      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
-      "url": "https://openai.com/index/perplexity-and-intelligence",
-      "category": "Research"
-    },
-    {
-      "title": "Combatting adversarial distillation",
-      "date": "Fri, 20 Nov 2026 10:00:00 GMT",
-      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-      "url": "https://openai.com/index/combatting-adversarial-distillation",
-      "category": ""
     }
   ],
   "status": "success",
