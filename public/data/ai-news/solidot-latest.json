@@ -1,8 +1,36 @@
 {
   "source": "Solidot",
   "source_url": "https://www.solidot.org/index.rss",
-  "fetch_time": "2026-11-24T09:20:27.635Z",
+  "fetch_time": "2026-11-24T14:33:47.259Z",
   "articles": [
+    {
+      "title": "Firefox 161 释出",
+      "date": "Tue, 24 Nov 2026 14:22:21 GMT",
+      "summary": "Mozilla 释出了 Firefox 161。主要新特性包括：对常用功能如复制当前标签页网址等设置快捷键，方法是在地址栏输入 about:keyboard；主题区域新增经典主题，可选择早期版本的 Proton 主题或 Firefox OLED 主题；支持 JPEG XL 图像格式，允许下载前预览完整图像；Windows 版本支持播放 HDR 视频；内置 VPN 功能支持对特定网站设置开启或关闭，允许用户在全局启用 VPN 时将特定网站排除在外；开发者功能包括支持 random() CSS 函数，支持嵌套任意替换函数，支持 CSS Typed Object Model 等等。",
+      "url": "https://www.solidot.org/story?sid=85979",
+      "category": ""
+    },
+    {
+      "title": "Windows Server 移除对 32 位应用的支持",
+      "date": "Tue, 24 Nov 2026 14:04:48 GMT",
+      "summary": "微软宣布下个版本的 Windows Server—— Windows Server 2028——将移除允许 32 位 Windows 应用运行在 64 位操作系统上的兼容层。这意味着新操作系统不再默认包含 WoW64 兼容层——WoW64 让 32 位应用能在 64 位 Windows 环境中运行。Windows Server 最后一个 32 位版本发布于 2008 年，此后的所有版本均为纯 64 位系统。WoW64 子系统此前一直存在于 64 位 Windows 中，旨在确保 32 位应用能在 64 位系统上继续运行。但在 Windows Server 2028 中，这一 32 位兼容层将转变为可选组件，用户如有需要，可自行手动安装。微软项目经理 Elden Christensen 表示：“我们确实要移除 WoW64 子系统。此举将提升系统的安全性，特别是在防范 32 位恶意程序——这意味着 32 位恶意程序将无法在 Windows Server 2028 上运行。”此外此举也有助于减小操作系统安装后的占用空间。",
+      "url": "https://www.solidot.org/story?sid=85978",
+      "category": ""
+    },
+    {
+      "title": "神舟二十四号计划 25 日 8 时发射",
+      "date": "Tue, 24 Nov 2026 10:24:21 GMT",
+      "summary": "中国载人航天工程办公室星期二（11月24日）宣布，神舟二十四号计划于星期三（11月25日）早上8时18分发射。航天员乘组由汤洪波（指令长）、武毅以及巴基斯坦航天员穆罕默德·齐尚·阿里（载荷专家）组成。其中巴基斯坦航天员穆罕默德·齐尚·阿里（Muhammad Zeeshan Ali）将成为首位到访中国天宫空间站的外籍航天员，执行短期任务后将随神舟二十三号乘组返回地球。航天员汤洪波执行过神舟十二号、神舟十七号载人飞行任务。航天员武毅来自于中国第三批航天员，是首次执行飞行任务。巴基斯坦航天员在轨期间，除参与乘组日常工作外，主要承担中巴合作空间科学实验任务，重点完成实验样品及实验单元的安装，并按计划开展在轨实验。",
+      "url": "https://www.solidot.org/story?sid=85977",
+      "category": ""
+    },
+    {
+      "title": "索尼称逾 3900 万玩家玩过了 GTA6",
+      "date": "Tue, 24 Nov 2026 09:04:43 GMT",
+      "summary": "索尼官方博客周一称，截至 11 月 22 日已有逾 3900 万玩家在 PS5 上体验了 11 月 19 日上市的 GTA6。GTA6 创下了 PlayStation 平台游戏同时在线玩家人数的新纪录，超过了此前多人游戏、免费游戏及单机游戏保持的纪录；累积游戏时长高达 6.83 亿小时，每位玩家平均玩了 17.4 小时；PS5 单日联网激活数量创新高，新激活的 PS5 游戏机中七成玩家选择 GTA6 作为第一款玩的游戏。根据此前 Sensor Tower 的数据，GTA6 在 PS5 和 Xbox 上的销售比是 3：1，如果这一数字正确那么 GTA6 的首周销量可能超过了 5000 万份。",
+      "url": "https://www.solidot.org/story?sid=85976",
+      "category": ""
+    },
     {
       "title": "解剖 Tor 协议",
       "date": "Tue, 24 Nov 2026 08:02:16 GMT",
@@ -15,34 +43,6 @@
       "date": "Tue, 24 Nov 2026 07:22:48 GMT",
       "summary": "Google 提交了一项专利申请，利用它所掌握的关于你的信息，创造一个由 AI 生成的电视频道。该频道将充满为你量身定制的节目：由你本人担任主角，同时还会穿插个性化定制的广告。该专利是 AI 视频技术未来发展方向的最新信号：企业和广告商通过收集大量与你相关的数据，自动生成源源不断、高度精准且完全个性化的内容。该专利被称为 creating a channel of video experiences tailored to a user，通过输入提示词要求大模型为用户生成定制视频，其中用户将扮演主角。生成的视频将是基于用户画像特征、用户最常观看内容的风格和偏好。该频道还会关联广告服务器，为 AI 生成视频插入定制广告。",
       "url": "https://www.solidot.org/story?sid=85973",
-      "category": ""
-    },
-    {
-      "title": "新浏览器 Ladybird 释出首个 alpha 版本",
-      "date": "Tue, 24 Nov 2026 06:39:16 GMT",
-      "summary": "SerenityOS 项目创始人 Andreas Kling 从 2025 年起带领一个团队开发一款全新的浏览器 Ladybird。Andreas Kling 在诺基亚和苹果工作时从事 WebKit 引擎相关工作。Ladybird 的引擎完全从零开始编写，不使用 Blink、WebKit、Gecko 或其它浏览器引擎的任何代码，常用功能如图像/音频/视频格式、加密、图形等将使用第三方库实现，但浏览器引擎不会使用其它浏览器引擎代码。现在 Ladybird 项目释出了第一个 Alpha 版本，支持 Linux 和 macOS 平台。既然是 Alpha 版本，它显然会存在很多问题，部分网站可能不能正常工作，软件也可能会崩溃。开发者欢迎用户将崩溃报告发送给他们。",
-      "url": "https://www.solidot.org/story?sid=85972",
-      "category": ""
-    },
-    {
-      "title": "CachyOS 支持 Easy Anti-Cheat v2",
-      "date": "Mon, 23 Nov 2026 15:37:55 GMT",
-      "summary": "基于 Arch Linux、专注于高性能优化的发行版 CachyOS 释出了最新版本 CachyOS November 2026，主要变化是为需要运行反作弊工具的 Linux 多人游戏提供了 Easy Anti-Cheat v2 支持。其它变化包括：用于回滚受损系统的新恢复环境 cachyos-recovery；引入新 UI 的 CachyOS Package Installer v2；取代 KMS 和 nvidia-module-loader 的 cachyos-drm-awaiter，确保在显示管理器启动前已完成加载 GPU 驱动；等等。",
-      "url": "https://www.solidot.org/story?sid=85971",
-      "category": ""
-    },
-    {
-      "title": "越来越多的年轻远足者因过于依赖 Google Maps 迷路或遇险",
-      "date": "Mon, 23 Nov 2026 14:50:17 GMT",
-      "summary": "救援人员表示，越来越多的年轻远足者因过于依赖 Google Maps 导航而迷路或遇险。救援组织 Wasdale Mountain Rescue Team 在一次救援行动后指出，Google Maps 并非为山区设计的，与纸质地图不同，地图应用无法显示陡峭的突出岩石、山间小径以及能呈现地形三维形态的等高线。救援队一直建议人们使用纸质地图，Google 也这么建议。登山与攀岩教练 Pippa Archer 表示理解使用手机上免费且触手可及的工具所带来的便利，但购买纸质地图和指南针也花不了多少钱。她强调纸质地图上的详细信息对于保障安全至关重要，“它能让你预知行进路线上的地形情况，这是避免迷路的关键。”作为手机导航的备选方案，救援队推荐 OS Maps、Hiiker 或 Outdooractive 等专为远足者设计的应用。手机电池耗尽之后地图应用也没有用武之地了。",
-      "url": "https://www.solidot.org/story?sid=85970",
-      "category": ""
-    },
-    {
-      "title": "英伟达重新任命黄仁勋为 CEO",
-      "date": "Mon, 23 Nov 2026 14:30:59 GMT",
-      "summary": "仅仅过了 10 天，英伟达宣布重新任命黄仁勋为总裁兼 CEO，重返董事会。董事会主席 Harvey C. Jones 在声明中称，董事会认为黄仁勋是领导英伟达的合适人选，他的复职符合股东、员工、合作伙伴和客户的最大利益。我们对黄仁勋充满信心，期待在他重掌公司领导权后与他携手共事。我们还要感谢 Colette Kress，她在担任临时 CEO 期间表现出色，她也将继续履行其作为英伟达首席财务官的职责。Jones 也将继续担任董事会主席。",
-      "url": "https://www.solidot.org/story?sid=85969",
       "category": ""
     }
   ],

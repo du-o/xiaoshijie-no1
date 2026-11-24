@@ -1,7 +1,7 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-11-24T09:20:32.966Z",
+  "fetch_time": "2026-11-24T14:33:58.407Z",
   "articles": [
     {
       "title": "openclaw 2026.11.10-beta.3",
@@ -11,7 +11,17 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.10-beta.3",
-      "downloadCount": 31
+      "downloadCount": 45
+    },
+    {
+      "title": "openclaw 2026.11.8",
+      "date": "2026-11-24T11:54:30Z",
+      "summary": "## 2026.11.8\n\n### Highlights\n\n- **Privacy and safety:** Keep view-once Signal attachments out of agent input, block workspace Azure redirects, redact reflected ClawHub credentials, and reject newline ...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.11.8",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.11.8",
+      "downloadCount": 419
     },
     {
       "title": "openclaw 2026.11.10-beta.2",
@@ -21,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.10-beta.2",
-      "downloadCount": 72
+      "downloadCount": 104
     },
     {
       "title": "openclaw 2026.11.7",
@@ -31,7 +41,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.7",
-      "downloadCount": 8763
+      "downloadCount": 11138
     },
     {
       "title": "openclaw 2026.11.10-beta.1",
@@ -41,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.10-beta.1",
-      "downloadCount": 186
+      "downloadCount": 187
     },
     {
       "title": "openclaw 2026.11.6",
@@ -51,17 +61,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.6",
-      "downloadCount": 10674
-    },
-    {
-      "title": "openclaw 2026.10.33",
-      "date": "2026-11-18T04:15:53Z",
-      "summary": "This is a gateway-only `extended-stable` release, which is our current equivalent to LTS. This release is OpenClaw from the end of October 2026, plus critical security updates, reliability and perform...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.10.33",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.10.33",
-      "downloadCount": 220
+      "downloadCount": 10702
     }
   ],
   "status": "success",

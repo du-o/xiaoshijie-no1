@@ -1,62 +1,206 @@
 {
-  "fetch_time": "2026-11-24T09:20:27.640Z",
+  "fetch_time": "2026-11-24T14:33:47.260Z",
   "total_count": 30,
   "sources_count": 6,
   "errors": null,
   "articles": [
     {
-      "title": "印度据悉计划设立第二家天然气交易所，以深化期货交易",
-      "date": "Tue, 24 Nov 2026 09:16:58 GMT",
-      "summary": "印度据悉计划设立第二家天然气交易所，以深化期货交易。（新浪财经）",
-      "url": "https://36kr.com/newsflashes/4083545187658119?f=rss",
+      "title": "Firefox 161 释出",
+      "date": "Tue, 24 Nov 2026 14:22:21 GMT",
+      "summary": "Mozilla 释出了 Firefox 161。主要新特性包括：对常用功能如复制当前标签页网址等设置快捷键，方法是在地址栏输入 about:keyboard；主题区域新增经典主题，可选择早期版本的 Proton 主题或 Firefox OLED 主题；支持 JPEG XL 图像格式，允许下载前预览完整图像；Windows 版本支持播放 HDR 视频；内置 VPN 功能支持对特定网站设置开启或关闭，允许用户在全局启用 VPN 时将特定网站排除在外；开发者功能包括支持 random() CSS 函数，支持嵌套任意替换函数，支持 CSS Typed Object Model 等等。",
+      "url": "https://www.solidot.org/story?sid=85979",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "Windows Server 移除对 32 位应用的支持",
+      "date": "Tue, 24 Nov 2026 14:04:48 GMT",
+      "summary": "微软宣布下个版本的 Windows Server—— Windows Server 2028——将移除允许 32 位 Windows 应用运行在 64 位操作系统上的兼容层。这意味着新操作系统不再默认包含 WoW64 兼容层——WoW64 让 32 位应用能在 64 位 Windows 环境中运行。Windows Server 最后一个 32 位版本发布于 2008 年，此后的所有版本均为纯 64 位系统。WoW64 子系统此前一直存在于 64 位 Windows 中，旨在确保 32 位应用能在 64 位系统上继续运行。但在 Windows Server 2028 中，这一 32 位兼容层将转变为可选组件，用户如有需要，可自行手动安装。微软项目经理 Elden Christensen 表示：“我们确实要移除 WoW64 子系统。此举将提升系统的安全性，特别是在防范 32 位恶意程序——这意味着 32 位恶意程序将无法在 Windows Server 2028 上运行。”此外此举也有助于减小操作系统安装后的占用空间。",
+      "url": "https://www.solidot.org/story?sid=85978",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "小鹏发布图灵世界模型 WorldGPT",
+      "date": "Tue, 24 Nov 2026 13:00:00 GMT",
+      "summary": "36氪获悉，据小鹏汽车官微，近日，小鹏图灵世界模型家族新添一员——世界动作模型 WorldGPT。它在小鹏物理AI体系中作为云端teacher model，依托基座模型实现跨本体能力蒸馏和迁移，降低新本体的开发边际成本。同时，给它历史画面和指令，它会规划动作，预演世界随之发生的变化，看懂场景的语义与结构并用语言进行推理决策。据目前所知，这是首个能够在水、陆、空三栖六类本体完成预测与行动规划的世界模型。",
+      "url": "https://36kr.com/newsflashes/4083764431776385?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "年内公募打新获配金额超360亿元",
-      "date": "Tue, 24 Nov 2026 09:16:13 GMT",
-      "summary": "公募排排网数据显示，截至2026年11月24日，年内共有129家公募机构，参与到67只年内上市新股网下配售，合计获配金额365.11亿元。（证券时报）",
-      "url": "https://36kr.com/newsflashes/4083533535308421?f=rss",
+      "title": "胜宏科技披露2026年前三季度利润分配方案，拟10派10元",
+      "date": "Tue, 24 Nov 2026 12:58:13 GMT",
+      "summary": "36氪获悉，胜宏科技公告，公司对2026年前三季度利润进行分配，分配方案如下：以实施2026年前三季度权益分派时股权登记日的总股本扣除公司回购专用证券账户股数为基数，向全体股东按每10股派发现金股利10元（含税）。以截至本公告披露日公司扣除回购专户的总股本初步测算，预计本次现金分红金额约为人民币9.83亿元，约占公司2026年前三季度归母净利润的29.04%。具体分红金额以公司实际分派为准。",
+      "url": "https://36kr.com/newsflashes/4083762681194887?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "腾讯混元发布第三代翻译模型Hy MT3",
-      "date": "Tue, 24 Nov 2026 09:12:06 GMT",
-      "summary": "36氪获悉，腾讯混元发布并开源第三代翻译模型Hy MT3。相比前代模型Hy MT2，在真实场景数据上，误译样本比例降低43%，漏译/增译比例降低74%，指令遵循类错误降低40%；同时支持语种从38种扩充到102种。",
-      "url": "https://36kr.com/newsflashes/4083540399581830?f=rss",
+      "title": "热门中概股美股盘前多数下跌，阿里巴巴跌超2%",
+      "date": "Tue, 24 Nov 2026 12:51:58 GMT",
+      "summary": "36氪获悉，热门中概股美股盘前多数下跌，截至发稿，阿里巴巴、京东、拼多多、百度、网易、理想汽车跌超2%，蔚来、微博跌超1%，哔哩哔哩跌0.73%；老虎证券涨超3%，小鹏集团涨超2%。",
+      "url": "https://36kr.com/newsflashes/4083756534802823?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "华资实业：董事长提议1亿元—2亿元回购公司股份",
-      "date": "Tue, 24 Nov 2026 09:09:55 GMT",
-      "summary": "36氪获悉，华资实业公告，董事长张志军提议1亿元—2亿元回购公司股份，用于维护公司价值及股东权益。",
-      "url": "https://36kr.com/newsflashes/4083538251852419?f=rss",
+      "title": "美股大型科技股盘前普跌，英伟达跌超4%",
+      "date": "Tue, 24 Nov 2026 12:48:12 GMT",
+      "summary": "36氪获悉，美股大型科技股盘前普跌，截至发稿，SK海力士、英特尔跌超5%，英伟达、Anthropic跌超4%，Meta跌超1%，亚马逊跌0.86%，谷歌跌0.55%，微软跌0.43%，奈飞跌0.31%，特斯拉跌0.29%，苹果跌0.11%。",
+      "url": "https://36kr.com/newsflashes/4083752835639683?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "三元生物：拟3000万元—5000万元回购公司股份",
-      "date": "Tue, 24 Nov 2026 09:05:46 GMT",
-      "summary": "36氪获悉，三元生物公告，拟3000万元—5000万元回购公司股份，用于注销并减少公司注册资本，回购价格不超过34.72元/股。",
-      "url": "https://36kr.com/newsflashes/4083534181362311?f=rss",
+      "title": "最前线丨联想擎天发布敦煌城市超级智能体，统一多模态交互入口",
+      "date": "Tue, 24 Nov 2026 12:45:19 GMT",
+      "summary": "图源/企业 作者丨欧雪 编辑丨袁斯来 智慧城市的概念演进多年后，行业对其评价标准正在发生变化。 过去十年，以“城市大脑”为代表的3.0阶段主要解决的是数据汇聚与可视化呈现，核心逻辑是“建平台、接数据、做看板”。但这种模式在落地中暴露出明显的结构性缺陷：各委办局的业务系统依然垂直孤立，AI能力被封装在一个个具体应用里，城市管理者面对跨域问题时，仍需人工在不同系统间协调。也就是说，所谓的“智慧”，更多停留在感知层，而非决策执行层。 11月20日，联想与敦煌联合发布的城市超级智能体，以及同期联想与IDC联合出品的《城市超级智能体白皮书》，为行业提供了一个观察智慧城市4.0落地路径的样本。 其中，IDC在报告中预测，到2027年中国70%的城市将在各系统与数据中部署AI智能体。这指向了一个行业共识：AI的角色正从辅助观察向代理执行迁移。 当前，城市AI落地其实主要存在两个关键堵点。 一是AI应用体系的碎片化。各地智慧城市项目长期采用“一场景一采购”模式，文旅、交通、安防各自建设系统，彼此不共享记忆与技能，财政资金反复投入而数据资产沉淀在各自服务器中。 二是算力供给的成本与稳定性。联想与酒泉推进",
+      "url": "https://36kr.com/p/4083749704116616?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
     },
     {
-      "title": "我国牵头推动全球首个生成式人工智能治理国际标准提案",
-      "date": "Tue, 24 Nov 2026 09:04:24 GMT",
-      "summary": "记者从市场监管总局今天（24日）举行的新闻发布会上了解到，我国正深度参与人工智能国际标准体系建设，目前已牵头研制29项基础共性国际标准，在国际标准化组织相关机构注册专家近400人。市场监管总局有关负责人介绍，我国积极参与并完善人工智能“1+N”国际标准体系架构，聚焦数据治理、人机交互、安全可信等关键领域，牵头29项基础共性国际标准研制；围绕智慧城市、智能制造等重点行业，统筹15个标准技术机构牵头推动49项行业应用国际标准研制。（央视新闻）",
-      "url": "https://36kr.com/newsflashes/4083532831877765?f=rss",
+      "title": "沙特阿拉伯预计2027年财政收入为1.202万亿里亚尔",
+      "date": "Tue, 24 Nov 2026 12:38:03 GMT",
+      "summary": "沙特阿拉伯预计2027年财政收入为1.202万亿里亚尔。（财联社）",
+      "url": "https://36kr.com/newsflashes/4083742864861825?f=rss",
       "category": "",
       "source": "36氪",
       "source_name": "36kr"
+    },
+    {
+      "title": "神舟二十四号计划 25 日 8 时发射",
+      "date": "Tue, 24 Nov 2026 10:24:21 GMT",
+      "summary": "中国载人航天工程办公室星期二（11月24日）宣布，神舟二十四号计划于星期三（11月25日）早上8时18分发射。航天员乘组由汤洪波（指令长）、武毅以及巴基斯坦航天员穆罕默德·齐尚·阿里（载荷专家）组成。其中巴基斯坦航天员穆罕默德·齐尚·阿里（Muhammad Zeeshan Ali）将成为首位到访中国天宫空间站的外籍航天员，执行短期任务后将随神舟二十三号乘组返回地球。航天员汤洪波执行过神舟十二号、神舟十七号载人飞行任务。航天员武毅来自于中国第三批航天员，是首次执行飞行任务。巴基斯坦航天员在轨期间，除参与乘组日常工作外，主要承担中巴合作空间科学实验任务，重点完成实验样品及实验单元的安装，并按计划开展在轨实验。",
+      "url": "https://www.solidot.org/story?sid=85977",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "Your AI Agents Can M ultitask. Can You? Managing several agents means constant context switching. Here’s how nine people at Every handle it.",
+      "url": "https://every.to/p/your-ai-agents-can-multitask-can-you",
+      "date": "2026-11-24T09:20:31.531Z",
+      "summary": "",
+      "category": "Article",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Stop Telling AI How You W rite. Show It. Plus: Our Vibe Checks of GPT-6.2 and Gemini 4 Neon, Satya Nadella’s case for having a model of your own, and what we let agents buy",
+      "url": "https://every.to/context-window/stop-telling-ai-how-you-write-show-it",
+      "date": "2026-11-24T09:20:31.531Z",
+      "summary": "",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "What We L et Our Agents Buy Plus: why AI rollouts fail on people, not models, and how our staff writer built her own word processor",
+      "url": "https://every.to/context-window/what-we-let-our-agents-buy",
+      "date": "2026-11-24T09:20:31.531Z",
+      "summary": "",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Microsoft's CEO W ants Every Company to Own Its Own Model Plus: Why AI could mean fewer software seats, which models Every’s team uses, and Notion CEO Ivan Zhao on when to build your own tools",
+      "url": "https://every.to/context-window/microsoft-s-ceo-wants-every-company-to-own-its-own-model",
+      "date": "2026-11-24T09:20:31.531Z",
+      "summary": "",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Vibe Check: GPT-6.2 A stra and Sol Leave Us Wanting More GPT-6.2 Astra and Sol handle bounded tasks efficiently. The work we most want help with still demands more judgment and follow-through.",
+      "url": "https://every.to/vibe-check/vibe-check-gpt-6-2-astra-and-sol-leave-us-wanting-more",
+      "date": "2026-11-24T09:20:31.531Z",
+      "summary": "",
+      "category": "Vibe Check",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "How I Finally Got A I to Write Like Me Six years of trying, four optimizers, and one blind judge. Here’s the process, step by step.",
+      "url": "https://every.to/also-true-for-humans/how-i-finally-got-ai-to-write-like-me",
+      "date": "2026-11-24T09:20:31.531Z",
+      "summary": "",
+      "category": "Also True for Humans",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Skip to main content",
+      "url": "https://blog.google/#jump-content",
+      "date": "2026-11-24T09:20:30.058Z",
+      "summary": "",
+      "category": "Google",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Google Research",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/",
+      "date": "2026-11-24T09:20:30.058Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Google Labs",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/",
+      "date": "2026-11-24T09:20:30.058Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Gemini models",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/",
+      "date": "2026-11-24T09:20:30.058Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Quantum computing",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/",
+      "date": "2026-11-24T09:20:30.058Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Developer tools",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/",
+      "date": "2026-11-24T09:20:30.058Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "索尼称逾 3900 万玩家玩过了 GTA6",
+      "date": "Tue, 24 Nov 2026 09:04:43 GMT",
+      "summary": "索尼官方博客周一称，截至 11 月 22 日已有逾 3900 万玩家在 PS5 上体验了 11 月 19 日上市的 GTA6。GTA6 创下了 PlayStation 平台游戏同时在线玩家人数的新纪录，超过了此前多人游戏、免费游戏及单机游戏保持的纪录；累积游戏时长高达 6.83 亿小时，每位玩家平均玩了 17.4 小时；PS5 单日联网激活数量创新高，新激活的 PS5 游戏机中七成玩家选择 GTA6 作为第一款玩的游戏。根据此前 Sensor Tower 的数据，GTA6 在 PS5 和 Xbox 上的销售比是 3：1，如果这一数字正确那么 GTA6 的首周销量可能超过了 5000 万份。",
+      "url": "https://www.solidot.org/story?sid=85976",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
     },
     {
       "title": "解剖 Tor 协议",
@@ -77,123 +221,6 @@
       "source_name": "solidot"
     },
     {
-      "title": "新浏览器 Ladybird 释出首个 alpha 版本",
-      "date": "Tue, 24 Nov 2026 06:39:16 GMT",
-      "summary": "SerenityOS 项目创始人 Andreas Kling 从 2025 年起带领一个团队开发一款全新的浏览器 Ladybird。Andreas Kling 在诺基亚和苹果工作时从事 WebKit 引擎相关工作。Ladybird 的引擎完全从零开始编写，不使用 Blink、WebKit、Gecko 或其它浏览器引擎的任何代码，常用功能如图像/音频/视频格式、加密、图形等将使用第三方库实现，但浏览器引擎不会使用其它浏览器引擎代码。现在 Ladybird 项目释出了第一个 Alpha 版本，支持 Linux 和 macOS 平台。既然是 Alpha 版本，它显然会存在很多问题，部分网站可能不能正常工作，软件也可能会崩溃。开发者欢迎用户将崩溃报告发送给他们。",
-      "url": "https://www.solidot.org/story?sid=85972",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "Your AI Agents Can M ultitask. Can You? Managing several agents means constant context switching. Here’s how nine people at Every handle it.",
-      "url": "https://every.to/p/your-ai-agents-can-multitask-can-you?utm_cta_source=newsletter_main_your_ai_agents_can_multitask_can_you_managing_several_agents_means_constant_context_switching_here_s_1",
-      "date": "2026-11-23T22:57:40.909Z",
-      "summary": "",
-      "category": "Article",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Stop Telling AI How You W rite. Show It. Plus: Our Vibe Checks of GPT-6.2 and Gemini 4 Neon, Satya Nadella’s case for having a model of your own, and what we let agents buy",
-      "url": "https://every.to/context-window/stop-telling-ai-how-you-write-show-it?utm_cta_source=newsletter_main_stop_telling_ai_how_you_write_show_it_plus_our_vibe_checks_of_gpt_6_2_and_gemini_4_neon_satya_nadell_1",
-      "date": "2026-11-23T22:57:40.909Z",
-      "summary": "",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "What We L et Our Agents Buy Plus: why AI rollouts fail on people, not models, and how our staff writer built her own word processor",
-      "url": "https://every.to/context-window/what-we-let-our-agents-buy?utm_cta_source=newsletter_main_what_we_let_our_agents_buyplus_why_ai_rollouts_fail_on_people_not_models_and_how_our_staff_writer_bu_1",
-      "date": "2026-11-23T22:57:40.909Z",
-      "summary": "",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Microsoft's CEO W ants Every Company to Own Its Own Model Plus: Why AI could mean fewer software seats, which models Every’s team uses, and Notion CEO Ivan Zhao on when to build your own tools",
-      "url": "https://every.to/context-window/microsoft-s-ceo-wants-every-company-to-own-its-own-model?utm_cta_source=newsletter_main_microsoft_s_ceo_wants_every_company_to_own_its_own_modelplus_why_ai_could_mean_fewer_software_seats__1",
-      "date": "2026-11-23T22:57:40.909Z",
-      "summary": "",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Vibe Check: GPT-6.2 A stra and Sol Leave Us Wanting More GPT-6.2 Astra and Sol handle bounded tasks efficiently. The work we most want help with still demands more judgment and follow-through.",
-      "url": "https://every.to/vibe-check/vibe-check-gpt-6-2-astra-and-sol-leave-us-wanting-more?utm_cta_source=newsletter_main_vibe_check_gpt_6_2_astra_and_sol_leave_us_wanting_moregpt_6_2_astra_and_sol_handle_bounded_tasks_eff_1",
-      "date": "2026-11-23T22:57:40.909Z",
-      "summary": "",
-      "category": "Vibe Check",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "How I Finally Got A I to Write Like Me Six years of trying, four optimizers, and one blind judge. Here’s the process, step by step.",
-      "url": "https://every.to/also-true-for-humans/how-i-finally-got-ai-to-write-like-me?utm_cta_source=newsletter_main_how_i_finally_got_ai_to_write_like_mesix_years_of_trying_four_optimizers_and_one_blind_judge_here_s__1",
-      "date": "2026-11-23T22:57:40.909Z",
-      "summary": "",
-      "category": "Also True for Humans",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Skip to main content",
-      "url": "https://blog.google/#jump-content",
-      "date": "2026-11-23T22:57:36.492Z",
-      "summary": "",
-      "category": "Google",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Google Research",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/",
-      "date": "2026-11-23T22:57:36.492Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Google Labs",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/",
-      "date": "2026-11-23T22:57:36.492Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Gemini models",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/",
-      "date": "2026-11-23T22:57:36.492Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Quantum computing",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/",
-      "date": "2026-11-23T22:57:36.492Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Developer tools",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/",
-      "date": "2026-11-23T22:57:36.492Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
       "title": "OpenAI and Cisco introduce Shirudo",
       "date": "Mon, 23 Nov 2026 21:20:00 GMT",
       "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
@@ -201,33 +228,6 @@
       "category": "Security",
       "source": "OpenAI News",
       "source_name": "openai"
-    },
-    {
-      "title": "CachyOS 支持 Easy Anti-Cheat v2",
-      "date": "Mon, 23 Nov 2026 15:37:55 GMT",
-      "summary": "基于 Arch Linux、专注于高性能优化的发行版 CachyOS 释出了最新版本 CachyOS November 2026，主要变化是为需要运行反作弊工具的 Linux 多人游戏提供了 Easy Anti-Cheat v2 支持。其它变化包括：用于回滚受损系统的新恢复环境 cachyos-recovery；引入新 UI 的 CachyOS Package Installer v2；取代 KMS 和 nvidia-module-loader 的 cachyos-drm-awaiter，确保在显示管理器启动前已完成加载 GPU 驱动；等等。",
-      "url": "https://www.solidot.org/story?sid=85971",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "越来越多的年轻远足者因过于依赖 Google Maps 迷路或遇险",
-      "date": "Mon, 23 Nov 2026 14:50:17 GMT",
-      "summary": "救援人员表示，越来越多的年轻远足者因过于依赖 Google Maps 导航而迷路或遇险。救援组织 Wasdale Mountain Rescue Team 在一次救援行动后指出，Google Maps 并非为山区设计的，与纸质地图不同，地图应用无法显示陡峭的突出岩石、山间小径以及能呈现地形三维形态的等高线。救援队一直建议人们使用纸质地图，Google 也这么建议。登山与攀岩教练 Pippa Archer 表示理解使用手机上免费且触手可及的工具所带来的便利，但购买纸质地图和指南针也花不了多少钱。她强调纸质地图上的详细信息对于保障安全至关重要，“它能让你预知行进路线上的地形情况，这是避免迷路的关键。”作为手机导航的备选方案，救援队推荐 OS Maps、Hiiker 或 Outdooractive 等专为远足者设计的应用。手机电池耗尽之后地图应用也没有用武之地了。",
-      "url": "https://www.solidot.org/story?sid=85970",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "英伟达重新任命黄仁勋为 CEO",
-      "date": "Mon, 23 Nov 2026 14:30:59 GMT",
-      "summary": "仅仅过了 10 天，英伟达宣布重新任命黄仁勋为总裁兼 CEO，重返董事会。董事会主席 Harvey C. Jones 在声明中称，董事会认为黄仁勋是领导英伟达的合适人选，他的复职符合股东、员工、合作伙伴和客户的最大利益。我们对黄仁勋充满信心，期待在他重掌公司领导权后与他携手共事。我们还要感谢 Colette Kress，她在担任临时 CEO 期间表现出色，她也将继续履行其作为英伟达首席财务官的职责。Jones 也将继续担任董事会主席。",
-      "url": "https://www.solidot.org/story?sid=85969",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
     },
     {
       "title": "Connected intelligence for in-house legal",
