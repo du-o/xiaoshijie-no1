@@ -1,8 +1,15 @@
 {
   "source": "OpenAI News",
   "source_url": "https://openai.com/news/rss.xml",
-  "fetch_time": "2026-11-24T14:33:43.768Z",
+  "fetch_time": "2026-11-24T19:13:20.606Z",
   "articles": [
+    {
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "date": "Tue, 24 Nov 2026 00:00:00 GMT",
+      "summary": "",
+      "url": "https://openai.com/index/ifood",
+      "category": ""
+    },
     {
       "title": "OpenAI and Cisco introduce Shirudo",
       "date": "Mon, 23 Nov 2026 21:20:00 GMT",
@@ -36,13 +43,6 @@
       "date": "Fri, 20 Nov 2026 10:00:00 GMT",
       "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
       "url": "https://openai.com/index/combatting-adversarial-distillation",
-      "category": ""
-    },
-    {
-      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "date": "Fri, 20 Nov 2026 00:00:00 GMT",
-      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-      "url": "https://openai.com/business/customer-stories/hebbia",
       "category": ""
     }
   ],

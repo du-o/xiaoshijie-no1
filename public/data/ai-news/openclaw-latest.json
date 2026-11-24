@@ -1,7 +1,7 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-11-24T14:33:58.407Z",
+  "fetch_time": "2026-11-24T19:13:30.157Z",
   "articles": [
     {
       "title": "openclaw 2026.11.10-beta.3",
@@ -11,17 +11,17 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.10-beta.3",
-      "downloadCount": 45
+      "downloadCount": 57
     },
     {
       "title": "openclaw 2026.11.8",
       "date": "2026-11-24T11:54:30Z",
-      "summary": "## 2026.11.8\n\n### Highlights\n\n- **Privacy and safety:** Keep view-once Signal attachments out of agent input, block workspace Azure redirects, redact reflected ClawHub credentials, and reject newline ...",
+      "summary": "<!-- openclaw-release-publication:docs-v1 -->\n\n## OpenClaw v2026.11.8\n\n314 commits · 210 pull requests · 86 contributors\n\n### Changes included in this release\n\nThe release notes and changelog contain ...",
       "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.11.8",
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.8",
-      "downloadCount": 419
+      "downloadCount": 1043
     },
     {
       "title": "openclaw 2026.11.10-beta.2",
@@ -31,7 +31,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.10-beta.2",
-      "downloadCount": 104
+      "downloadCount": 113
     },
     {
       "title": "openclaw 2026.11.7",
@@ -41,7 +41,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.7",
-      "downloadCount": 11138
+      "downloadCount": 12480
     },
     {
       "title": "openclaw 2026.11.10-beta.1",
@@ -51,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.10-beta.1",
-      "downloadCount": 187
+      "downloadCount": 192
     },
     {
       "title": "openclaw 2026.11.6",
@@ -61,7 +61,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.6",
-      "downloadCount": 10702
+      "downloadCount": 10767
     }
   ],
   "status": "success",
