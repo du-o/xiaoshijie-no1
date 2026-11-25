@@ -1,9 +1,162 @@
 {
-  "fetch_time": "2026-11-25T13:53:57.921Z",
+  "fetch_time": "2026-11-25T18:18:10.060Z",
   "total_count": 30,
   "sources_count": 6,
   "errors": null,
   "articles": [
+    {
+      "title": "EA Sports FC 利用 AI 数字重现已故解说员 John Motson 的声音",
+      "date": "Wed, 25 Nov 2026 15:54:33 GMT",
+      "summary": "EA 透露其足球游戏《EA Sports FC 27》利用 AI 数字重现了已故解说员 John Motson 的声音。Motson 于 2023 年去世，他曾长期担任 BBC Sport 首席解说员，也曾为 EA 足球游戏解说。在其遗孀和儿子的许可下，EA 利用其过去的录音资料与生成式 AI 技术合成了他的声音。该内容将于 11 月 26 日上线《EA Sports FC 27》。EA 向 Motson 的家人支付了费用以获得使用其形象及重现其声音的权利，但未透露具体财务条款。",
+      "url": "https://www.solidot.org/story?sid=85993",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "Claude 和 ChatGPT 在蛋白质结构预测和设计上挑战 AlphaFold",
+      "date": "Wed, 25 Nov 2026 15:26:31 GMT",
+      "summary": "AI 生物科技公司 Phylo 研究员 Xinming Tu 本月初使用 OpenAI、Anthropic 和 Google 的大模型测试了它们预测鲜为人知细菌蛋白质序列的能力。他让分析程序运行了整晚，第二天对结果非常吃惊。Anthropic 最新版本的Claude 表现不仅优于其它大模型，而且超过了针对蛋白质序列训练过的专门工具。他与哈佛医学院的 Leo Chen 分享的这一发现在计算生物学界引发了热议。本周二 OpenAI 宣布其最新大模型成功设计出新蛋白质，在实验室合成和测试时部分新蛋白质的行为和预期一样。该研究引发了 生物 AI 未来的讨论，部分科学家预测 Claude 和 ChatGPT 之类的通用模型在蛋白质结构预测和设计等任务上可能会超越 AlphaFold 等专用工具。也有研究人员对此提出质疑，认为大模型展现出的部分能力可能只是训练数据的机械重复。",
+      "url": "https://www.solidot.org/story?sid=85992",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "NASA 计划 2028 年发射验证核电推进技术的探测器",
+      "date": "Wed, 25 Nov 2026 14:51:37 GMT",
+      "summary": "NASA 计划 2028 年发射验证深空核电推进技术的探测器 Space Reactor‑1 Freedom（SR-1）。SR-1 将利用核能和太阳能将 SkyFall 舱送往火星，SkyFall 内有三架新一代直升机，这些直升机将研究火星的地质和气候历史，探索新地形，搜寻地下冰层的迹象。SR-1 将配备一台布雷顿闭式循环裂变反应堆，使用高纯度但低浓缩的铀作为燃料，能产生 20 千瓦以上的电力。",
+      "url": "https://www.solidot.org/story?sid=85991",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "研究显示不是所有地区的男性精子数量都大幅下降",
+      "date": "Wed, 25 Nov 2026 14:27:27 GMT",
+      "summary": "丹麦的一项研究显示，该国男性精子的数量并非大幅下降，过去 26 年一直维持稳定，甚至少数人还表现出改善的迹象。这项研究表明男性精子数量的变化趋势可能存在地域差异。对男性精子数量的担忧始于 1992 年，《British Medical Journal》期刊当时发表的一项研究发现自 1940 年以来男性精子浓度下降了 42%。2022 年的一项荟萃​​分析显示 1973-2018 年间男性精子浓度下降了逾 50%，精子总数下降逾 60%。北美、欧洲、澳大利亚、南美、中美洲、亚洲和非洲都出现精子数量下降的现象——尽管下降幅度各不相同。丹麦的研究表明精子数量是否正在下降并没有盖棺定论。",
+      "url": "https://www.solidot.org/story?sid=85990",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "如何维护超算",
+      "date": "Wed, 25 Nov 2026 14:18:03 GMT",
+      "summary": "美国橡树岭国家实验室的超算 Frontier 有数以千计的计算节点，维护其正常工作是一大挑战。无法纠正的内存错误，维护失误都会引发问题。技术人员在狭窄紧密的机架之间工作时可能会重启错误的节点，或意外触碰相邻节点的电源。硬件故障可能会影响单个节点，但对于运行在数千个处理器上的模拟任务而言，这可能导致整个进程逐渐停止工作。随之而来的问题是：计算进度最近储存的时间？多少计算工作需要重做？调度程序多久才能让该任务重新运行？Frontie 超算上 HBM 内存发生无法纠正双位错误的概率是每天 1.5 次，相比下该实验室的上一代超算 Summit 每两周才会出现一次此类错误，原因是 Frontie 的内存总容量是 Summit 的 16 倍以上。除了内存，有问题的 GPU 固件、互连故障都会导致严重问题。一个 GPU 故障，使用 1,024 个 GPU 的计算任务就可能被迫停止。有性能问题的 GPU 同样会带来问题：如果某个参与计算的 GPU 单元运行速度只有正常的 80%，其它单元需要停下来等待它。超算使用检查点（checkpointing）机制定时保存计算结果，一旦出错模拟任务无需从头开始。",
+      "url": "https://www.solidot.org/story?sid=85989",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "Google's Neon Is G reat… On a Short Leash Plus: How to make a commercial by directing Claude and why Duet didn't stick",
+      "url": "https://every.to/context-window/google-s-neon-is-great-on-a-short-leash?utm_cta_source=newsletter_main_google_s_neon_is_great_on_a_short_leashplus_how_to_make_a_commercial_by_directing_claude_and_why_due_1",
+      "date": "2026-11-25T13:54:07.150Z",
+      "summary": "",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Your AI Agents Can M ultitask. Can You? Managing several agents means constant context switching. Here’s how nine people at Every handle it.",
+      "url": "https://every.to/p/your-ai-agents-can-multitask-can-you?utm_cta_source=newsletter_main_your_ai_agents_can_multitask_can_you_managing_several_agents_means_constant_context_switching_here_s_1",
+      "date": "2026-11-25T13:54:07.150Z",
+      "summary": "",
+      "category": "Article",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Stop Telling AI How You W rite. Show It. Plus: Our Vibe Checks of GPT-6.2 and Gemini 4 Neon, Satya Nadella’s case for having a model of your own, and what we let agents buy",
+      "url": "https://every.to/context-window/stop-telling-ai-how-you-write-show-it?utm_cta_source=newsletter_main_stop_telling_ai_how_you_write_show_it_plus_our_vibe_checks_of_gpt_6_2_and_gemini_4_neon_satya_nadell_1",
+      "date": "2026-11-25T13:54:07.150Z",
+      "summary": "",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "What We L et Our Agents Buy Plus: why AI rollouts fail on people, not models, and how our staff writer built her own word processor",
+      "url": "https://every.to/context-window/what-we-let-our-agents-buy?utm_cta_source=newsletter_main_what_we_let_our_agents_buyplus_why_ai_rollouts_fail_on_people_not_models_and_how_our_staff_writer_bu_1",
+      "date": "2026-11-25T13:54:07.150Z",
+      "summary": "",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Microsoft's CEO W ants Every Company to Own Its Own Model Plus: Why AI could mean fewer software seats, which models Every’s team uses, and Notion CEO Ivan Zhao on when to build your own tools",
+      "url": "https://every.to/context-window/microsoft-s-ceo-wants-every-company-to-own-its-own-model?utm_cta_source=newsletter_main_microsoft_s_ceo_wants_every_company_to_own_its_own_modelplus_why_ai_could_mean_fewer_software_seats__1",
+      "date": "2026-11-25T13:54:07.150Z",
+      "summary": "",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Vibe Check: GPT-6.2 A stra and Sol Leave Us Wanting More GPT-6.2 Astra and Sol handle bounded tasks efficiently. The work we most want help with still demands more judgment and follow-through.",
+      "url": "https://every.to/vibe-check/vibe-check-gpt-6-2-astra-and-sol-leave-us-wanting-more?utm_cta_source=newsletter_main_vibe_check_gpt_6_2_astra_and_sol_leave_us_wanting_moregpt_6_2_astra_and_sol_handle_bounded_tasks_eff_1",
+      "date": "2026-11-25T13:54:07.150Z",
+      "summary": "",
+      "category": "Vibe Check",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Skip to main content",
+      "url": "https://blog.google/#jump-content",
+      "date": "2026-11-25T13:54:02.799Z",
+      "summary": "",
+      "category": "Google",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Google Research",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/",
+      "date": "2026-11-25T13:54:02.799Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Google Labs",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/",
+      "date": "2026-11-25T13:54:02.799Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Gemini models",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/",
+      "date": "2026-11-25T13:54:02.799Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Quantum computing",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/",
+      "date": "2026-11-25T13:54:02.799Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Developer tools",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/",
+      "date": "2026-11-25T13:54:02.799Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
     {
       "title": "财政部等五部门印发《常态化帮扶资金绩效评价办法》",
       "date": "Wed, 25 Nov 2026 13:01:42 GMT",
@@ -63,159 +216,6 @@
       "date": "Wed, 25 Nov 2026 09:49:29 GMT",
       "summary": "日本文化厅正在测试一款 AI 智能体去自动识别和标记可能包含非法或盗版内容的动漫网站。测试结果显示其准确率极高。2025 财年针对国内的一项调查显示，AI 标记的 1168 条可疑 X 推文有 84% 是非法内容；AI 检测的 1564 个动画网站中 89% 含有盗版动画；1935 个漫画网站中盗版漫画比例高达 94%。2026 财年日本政府将监测范围扩大至海外。日本政府计划最早于 2027 年 3 月汇总并公布最新调查结果。",
       "url": "https://www.solidot.org/story?sid=85988",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "男性肥胖者服用 GLP-1 药物后改善了精子质量",
-      "date": "Wed, 25 Nov 2026 08:05:18 GMT",
-      "summary": "根据发表在《Biomedicines》期刊上的一项研究，男性肥胖者在服用 GLP-1 药物之后改善了精子质量和睾酮水平。研究针对了 108 名有肥胖症和/或 2 型糖尿病男性，服用 GLP-1 药物一年后他们的精子浓度显著增加。在服用 GLP-1 前样本中仅有略超 3% 的精子形状正常，12 个月的治疗后这一比例上升至 4.5%。具有前向运动能力的精子比例也从 23% 提高到了 38%。服用者平均睾酮水平上升 30%，雌二醇水平则有所下降。",
-      "url": "https://www.solidot.org/story?sid=85987",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "Google's Neon Is G reat… On a Short Leash Plus: How to make a commercial by directing Claude and why Duet didn't stick",
-      "url": "https://every.to/context-window/google-s-neon-is-great-on-a-short-leash",
-      "date": "2026-11-25T07:54:45.924Z",
-      "summary": "",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Your AI Agents Can M ultitask. Can You? Managing several agents means constant context switching. Here’s how nine people at Every handle it.",
-      "url": "https://every.to/p/your-ai-agents-can-multitask-can-you",
-      "date": "2026-11-25T07:54:45.924Z",
-      "summary": "",
-      "category": "Article",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Stop Telling AI How You W rite. Show It. Plus: Our Vibe Checks of GPT-6.2 and Gemini 4 Neon, Satya Nadella’s case for having a model of your own, and what we let agents buy",
-      "url": "https://every.to/context-window/stop-telling-ai-how-you-write-show-it",
-      "date": "2026-11-25T07:54:45.924Z",
-      "summary": "",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "What We L et Our Agents Buy Plus: why AI rollouts fail on people, not models, and how our staff writer built her own word processor",
-      "url": "https://every.to/context-window/what-we-let-our-agents-buy",
-      "date": "2026-11-25T07:54:45.924Z",
-      "summary": "",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Microsoft's CEO W ants Every Company to Own Its Own Model Plus: Why AI could mean fewer software seats, which models Every’s team uses, and Notion CEO Ivan Zhao on when to build your own tools",
-      "url": "https://every.to/context-window/microsoft-s-ceo-wants-every-company-to-own-its-own-model",
-      "date": "2026-11-25T07:54:45.924Z",
-      "summary": "",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Vibe Check: GPT-6.2 A stra and Sol Leave Us Wanting More GPT-6.2 Astra and Sol handle bounded tasks efficiently. The work we most want help with still demands more judgment and follow-through.",
-      "url": "https://every.to/vibe-check/vibe-check-gpt-6-2-astra-and-sol-leave-us-wanting-more",
-      "date": "2026-11-25T07:54:45.924Z",
-      "summary": "",
-      "category": "Vibe Check",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Skip to main content",
-      "url": "https://blog.google/#jump-content",
-      "date": "2026-11-25T07:54:44.192Z",
-      "summary": "",
-      "category": "Google",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Google Research",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/",
-      "date": "2026-11-25T07:54:44.192Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Google Labs",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/",
-      "date": "2026-11-25T07:54:44.192Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Gemini models",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/",
-      "date": "2026-11-25T07:54:44.192Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Quantum computing",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/",
-      "date": "2026-11-25T07:54:44.192Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Developer tools",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/",
-      "date": "2026-11-25T07:54:44.192Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "CIA 部分非机密信息泄漏",
-      "date": "Wed, 25 Nov 2026 07:33:54 GMT",
-      "summary": "中央情报局（CIA）和国家情报总监办公室（ODNI）最近发现了一起网络入侵事件，导致部分非机密信息遭到泄露。此次入侵影响了一个开源情报分析系统，机密信息未泄漏。开源情报旨在利用公开非机密信息搜寻情报线索，其涵盖范围广泛，包括可商业获取的数据集、社交媒体内容、卫星图像以及其它网络数据。开源情报结合其它数据源，经常能揭示出极具价值的情报。情报机构常将此类数据与其它情报来源综合使用以辅助分析判断。",
-      "url": "https://www.solidot.org/story?sid=85986",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "梅奥诊所向每天用自己的时间启动电脑的员工补发工资",
-      "date": "Wed, 25 Nov 2026 06:54:30 GMT",
-      "summary": "梅奥诊所（Mayo Clinic）同意向负责安排患者预约的员工支付逾 90.6万美元的补发工资。明尼苏达州总检察长 Keith Ellison 的调查发现，这些员工在正式上班前和下班后都承担了无偿工作，包括启动电脑以及患者电话沟通。根据和解协议，梅奥诊所将停止对员工的工作时间进行四舍五入处理，在每个班次开始时额外支付 5 分钟工资，以补偿员工启动电脑所花费的时间。梅奥诊所在一份声明中表示，达成这项协议是为了解决涉及部分专科工作人员的工时记录所引发的问题。它表示虽然不同意总检察长的立场，但认为与其拿出钱支付辩护律师的费用，不如通过和解将这笔钱支付给员工。梅奥诊所还表示，公司始终致力于准确、合理支付员工薪酬，定期审查薪酬政策。根据明尼苏达州法律，劳动者应当获得其全部工作时间对应的报酬。州法律规定，雇主必须为员工履行与工作相关职责所花费的全部时间支付薪酬，其中也包括员工在雇主工作场所内所花费的时间。",
-      "url": "https://www.solidot.org/story?sid=85985",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "Kagi 推出邮件服务",
-      "date": "Wed, 25 Nov 2026 06:37:41 GMT",
-      "summary": "付费搜索引擎（有免费试用）Kagi 推出了其邮件服务 Kagi Mail 的公开 beta 版本。Kagi 承诺该服务无监控、无广告、支持开放标准，不会锁定。Kagi 表示：“这个世界还需要另一个电子邮件服务吗？我们不止一次地问过自己。市场上已有很出色的产品了，我们也十分欣赏 Fastmail 和 Tuta 所做的工作。但我们还是决定开发自己的服务，理由与打造其它 Kagi 产品相同：技术应当做好自己的工作，尽量不干扰用户的使用。使用 Kagi Mail，用户可获得一个 @kagimail.com 后缀的邮箱；该服务支持无限数量的化名和域名，提供 50GB 存储空间及内置日历功能。联系人和通讯录功能预计将于 2027 年第一季度推出，原生移动应用则要等到 2027 年第三季度。用户可享受 60 天免费试用，试用期结束后需支付每年 99 美元的费用。该服务包含在每月 25 美元的 Kagi Ultimate 订阅套餐内。",
-      "url": "https://www.solidot.org/story?sid=85984",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "多样性影响鸟类对天敌的反应",
-      "date": "Wed, 25 Nov 2026 06:01:54 GMT",
-      "summary": "此前有研究显示，本地生物多样性会影响授粉、害虫防治等重要的生态功能。发表在 PLOS Biology 期刊上的一项研究转向了另一个问题：多样性如何影响生态信息的传递——具体而言，就是鸟类用于防御的叫声。研究团队在中国东部的十个自然保护区开展了数百次实验。第一轮实验中，研究人员用飞行姿态的鹰模型和停歇姿态的猫头鹰模型来“挑衅”猎物鸟，观察它们的反应：是发出警戒叫声提醒同伴赶快逃离，还是发出围攻召集声，招呼其他鸟儿聚集到天敌周围，合力把威胁赶走。第二轮实验中，团队用扬声器播放录制的围攻召集声，诱发本地鸟类做出反应。播放的声音经过设计，包含的物种数量从一个到八个不等。结果发现，录音中包含的物种越多样，赶来围攻的鸟群规模就越大，回应的叫声也更快、更多。 这些发现再次凸显了本地生物多样性的重要性：在物种减少的栖息地中，猎物对危险的反应可能变得更迟钝，而原因则可能是群体内部的信息流通减弱。",
-      "url": "https://www.solidot.org/story?sid=85983",
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
