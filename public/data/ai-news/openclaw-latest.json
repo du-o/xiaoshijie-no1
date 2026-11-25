@@ -1,8 +1,18 @@
 {
   "source": "OpenClaw",
   "source_url": "https://github.com/openclaw/openclaw/releases",
-  "fetch_time": "2026-11-24T21:35:40.360Z",
+  "fetch_time": "2026-11-25T07:54:47.366Z",
   "articles": [
+    {
+      "title": "openclaw 2026.11.10",
+      "date": "2026-11-25T05:42:47Z",
+      "summary": "<!-- openclaw-release-publication:docs-v1 -->\n\n## OpenClaw v2026.11.10\n\n8,309 commits · 7,671 pull requests · 349 contributors\n\n### Changes included in this release\n\nThe release notes and changelog co...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.11.10",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.11.10",
+      "downloadCount": 215
+    },
     {
       "title": "openclaw 2026.11.10-beta.3",
       "date": "2026-11-24T03:28:03Z",
@@ -11,7 +21,17 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.10-beta.3",
-      "downloadCount": 58
+      "downloadCount": 101
+    },
+    {
+      "title": "openclaw 2026.11.9",
+      "date": "2026-11-25T00:47:32Z",
+      "summary": "<!-- openclaw-release-publication:docs-v1 -->\n\n## OpenClaw v2026.11.9\n\n13 commits · 15 pull requests · 14 contributors\n\n### Changes included in this release\n\nThe release notes and changelog contain th...",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.11.9",
+      "category": "Release",
+      "author": "github-actions[bot]",
+      "tagName": "v2026.11.9",
+      "downloadCount": 2570
     },
     {
       "title": "openclaw 2026.11.8",
@@ -21,7 +41,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.8",
-      "downloadCount": 1553
+      "downloadCount": 3786
     },
     {
       "title": "openclaw 2026.11.10-beta.2",
@@ -31,7 +51,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.10-beta.2",
-      "downloadCount": 113
+      "downloadCount": 131
     },
     {
       "title": "openclaw 2026.11.7",
@@ -41,27 +61,7 @@
       "category": "Release",
       "author": "github-actions[bot]",
       "tagName": "v2026.11.7",
-      "downloadCount": 12650
-    },
-    {
-      "title": "openclaw 2026.11.10-beta.1",
-      "date": "2026-11-19T15:45:29Z",
-      "summary": "## 2026.11.10-beta.1\n\n### Highlights\n\n- Agent templates: add agents directly from ClawHub packages, with a single CLAW.md manifest and bundled skill folders checked by the native trust flow. (#195707,...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.11.10-beta.1",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.11.10-beta.1",
-      "downloadCount": 192
-    },
-    {
-      "title": "openclaw 2026.11.6",
-      "date": "2026-11-19T17:26:46Z",
-      "summary": "<!-- openclaw-release-publication:docs-v1 -->\n\n## OpenClaw v2026.11.6\n\n406 commits · 386 pull requests · 157 contributors\n\n### Changes included in this release\n\nThe release notes and changelog contain...",
-      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.11.6",
-      "category": "Release",
-      "author": "github-actions[bot]",
-      "tagName": "v2026.11.6",
-      "downloadCount": 10771
+      "downloadCount": 12796
     }
   ],
   "status": "success",
