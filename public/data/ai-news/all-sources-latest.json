@@ -1,11 +1,144 @@
 {
-  "fetch_time": "2026-11-27T13:29:26.172Z",
-  "total_count": 30,
+  "fetch_time": "2026-11-27T17:44:30.271Z",
+  "total_count": 36,
   "sources_count": 6,
-  "errors": [
-    "google-blog: Fetch error: HTTP 401"
-  ],
+  "errors": null,
   "articles": [
+    {
+      "title": "Kimi 向科学家提供最高 2 万美元 API 免费额度",
+      "date": "Fri, 27 Nov 2026 16:14:48 GMT",
+      "summary": "Kimi 大模型开发商月之暗面宣布了 Kimi for Science 项目，欢迎自然科学、工程学及相关交叉学科领域的研究人员加入。月之暗面表示，“科学始终源于人类的好奇心、严谨的探索精神，以及对未知世界的不懈追求。一个有价值的科学假设，往往需要经过大量的文献调研、数据分析和反复验证。而一次意料之外的发现，也可能成为下一项重大突破的起点。然而受限于时间、算力与人力资源，许多值得深入探索的想法，始终未能获得应有的关注与投入。我们相信 AI 能加速科学研究，拓展探索与发现的边界，帮助研究者突破时间、资源与研究方法的局限，让更多大胆而富有想象力的科学构想从可能走向现实。”月之暗面将向入选的研究人员提供最高 20,000 美元的 Kimi API 额度（约 70 亿 token），具体金额将根据研究需求及评估结果确定。",
+      "url": "https://www.solidot.org/story?sid=86015",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "Take-Two 无法阻止用户利用 AI 将 GTA 6 移植到 PC 上",
+      "date": "Fri, 27 Nov 2026 15:59:17 GMT",
+      "summary": "GTA 6 开发商 Rockstar 的母公司 Take-Two 与微软和索尼签署了独占协议，这款备受瞩目的大作目前只有主机版本，PC 版本发布时间未知。但在 AI 工具的帮助下 PC 玩家正以惊人的速度将 GTA 6 移植到 PC 上。Take-Two 已采取行动，试图遏制这一行为：他们通过 DMCA 通知从 GitHub 上删除了逾 3000 个相关库。但这并没有放缓 PC 版本的移植速度。移植者们已经能利用 AMD 中端显卡 9070XT 和 FSR 超分辨率技术在 Linux 上实现稳定运行 30+ FPS。",
+      "url": "https://www.solidot.org/story?sid=86014",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "文明的历史是小麦的历史",
+      "date": "Fri, 27 Nov 2026 15:37:23 GMT",
+      "summary": "根据苏美尔神话，世界之初即无耕种也无畜牧和纺织，原神们生活窘迫，为此他们创造了谷之女神 Ashnan 和羊之神 Lahar，将他们派去帮助人类。Ashnan 和 Lahar 合作为神祇们提供了面包、酒、奶和兽皮。但众神们又争执起了谁的贡献更大。智慧之神 Enki 裁定谷之女神 Ashnan 贡献更大，理由是无谷物就没有面包和酒。推而广之，也就不会有城市，更不会有苏美尔文明。古苏美尔人的认识至今仍然正确：人类的历史是小麦的历史。人类食用小麦的历史比城市、文字乃至车轮的出现都要久远。现存最古老的文字记录并非史诗或宗教典籍，而是关于谷物储存与税收的行政记录。虽然世界其它地区的主导粮作物不同，比如东亚是水稻，美洲是玉米，但是小麦支撑起了罗马帝国与工业革命。",
+      "url": "https://www.solidot.org/story?sid=86013",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "We Raised $17.5 Million to Make Y ou and Your Team AI-native Led by IA Ventures with participation by Nicholas Thompson, Betaworks, and others",
+      "url": "https://every.to/on-every/we-raised-17-5-million-to-make-you-and-your-team-ai-native",
+      "date": "2026-11-27T13:29:30.655Z",
+      "summary": "",
+      "category": "On Every",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Google's Neon Is G reat… On a Short Leash Plus: How to make a commercial by directing Claude and why Duet didn't stick",
+      "url": "https://every.to/context-window/google-s-neon-is-great-on-a-short-leash",
+      "date": "2026-11-27T13:29:30.655Z",
+      "summary": "",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Your AI Agents Can M ultitask. Can You? Managing several agents means constant context switching. Here’s how nine people at Every handle it.",
+      "url": "https://every.to/p/your-ai-agents-can-multitask-can-you",
+      "date": "2026-11-27T13:29:30.655Z",
+      "summary": "",
+      "category": "Article",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Stop Telling AI How You W rite. Show It. Plus: Our Vibe Checks of GPT-6.2 and Gemini 4 Neon, Satya Nadella’s case for having a model of your own, and what we let agents buy",
+      "url": "https://every.to/context-window/stop-telling-ai-how-you-write-show-it",
+      "date": "2026-11-27T13:29:30.655Z",
+      "summary": "",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "What We L et Our Agents Buy Plus: why AI rollouts fail on people, not models, and how our staff writer built her own word processor",
+      "url": "https://every.to/context-window/what-we-let-our-agents-buy",
+      "date": "2026-11-27T13:29:30.655Z",
+      "summary": "",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Microsoft's CEO W ants Every Company to Own Its Own Model Plus: Why AI could mean fewer software seats, which models Every’s team uses, and Notion CEO Ivan Zhao on when to build your own tools",
+      "url": "https://every.to/context-window/microsoft-s-ceo-wants-every-company-to-own-its-own-model",
+      "date": "2026-11-27T13:29:30.655Z",
+      "summary": "",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Skip to main content",
+      "url": "https://blog.google/#jump-content",
+      "date": "2026-11-27T13:29:28.991Z",
+      "summary": "",
+      "category": "Google",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Google Research",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/",
+      "date": "2026-11-27T13:29:28.991Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Google Labs",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/",
+      "date": "2026-11-27T13:29:28.991Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Gemini models",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/",
+      "date": "2026-11-27T13:29:28.991Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Quantum computing",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/",
+      "date": "2026-11-27T13:29:28.991Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Developer tools",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/",
+      "date": "2026-11-27T13:29:28.991Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
     {
       "title": "热门中概股美股盘前普涨，哔哩哔哩涨近8%",
       "date": "Fri, 27 Nov 2026 12:58:26 GMT",
@@ -88,42 +221,6 @@
       "source_name": "solidot"
     },
     {
-      "title": "旅行者 1 号发回无法解读的信息",
-      "date": "Fri, 27 Nov 2026 08:34:43 GMT",
-      "summary": "北京时间 11 月 18 日 18 时 16 分 07 秒，旅行者 1 号与地球的距离达到约 259 亿公里，相当于光在真空中传播 24 小时的距离，也就是一光日。但与此同时旅行者 1 号出现了技术故障，给这一里程碑时刻蒙上了一层阴影。11 月 14 日旅行者 1 号发回的信号缺乏帧同步信息，意味着 NASA 无法解读接收到的科学数据或工程数据。遥测数据的缺乏让任务控制人员无法监测其运行状态，也无法获取其在星际空间收集到的测量结果。导致此次故障的确切原因尚不明确。",
-      "url": "https://www.solidot.org/story?sid=86009",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "The State of AI: A Look at What's Next",
-      "url": "https://every.to/p/the-state-of-ai",
-      "date": "2026-11-27T07:44:43.949Z",
-      "summary": "An in-depth analysis of the current AI landscape and future trends.",
-      "category": "AI Analysis",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "物理学家使用重力发送无法屏蔽的信息",
-      "date": "Fri, 27 Nov 2026 07:37:46 GMT",
-      "summary": "昆士兰大学研究人员利用重力、电梯和一台高灵敏度重力仪成功穿墙传递信息。实验在大学的 Parnell 楼进行，研究人员让电梯在两个楼层之间往返移动，其中 1.8 公吨配重在 0 和 1 之间切换，相邻卫生间里的重力仪探测到了重力场的变化，将信号翻译为单词 Gravity（重力）。Charles Woffinden 博士表示，不同于电磁信号，重力信号无法通过在传播路径上放置普通物质屏蔽。虽然目前的系统还远未达到实用阶段，但它证明利用一种普通物理屏障无法阻挡的方式进行通信是可行的。研究人员利用的电梯来自 1950 年代，运行速度很慢，每分钟仅能传输 1 比特数据，发送一个单词需要整整一个小时。研究人员称，如果利用量子传感器，重力通信距离能提高到 500 米，数据传输速率能达到每分钟 15 比特。",
-      "url": "https://www.solidot.org/story?sid=86008",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "极端高温引发地表淡水急剧下降",
-      "date": "Fri, 27 Nov 2026 06:32:42 GMT",
-      "summary": "根据发表在《科学》期刊上的一项研究，2023 年和 2024 年的全球极端高温导致地球地表淡水资源出现前所未有的下降，河流流量以及湖泊和水库蓄水量急剧减少，即使在湿润地区也是如此。中科院研究人员分析了 1991 年至 2025 年间全球河流流量以及湖泊和水库蓄水量的变化，发现了三个截然不同的阶段：1991 年至 2006 年间的显著波动、2007 年至 2022 年间的相对稳定期，以及 2023 年至 2024 年间的突发性中断——在此期间，河流流量和地表水蓄水量均急剧下降。与 1991 年至 2020 年的平均水平相比，全球河流流量下降了约 5.7%，湖泊和水库的有效蓄水量则下降了 9.5%。尽管河流流量自 2025 年起开始回升，但作者发现，在他们考察的历史记录中，2023–2024 年的下降幅度是前所未有的。南美洲受到的冲击尤为严重：河流流量下降了 17.8%，地表水蓄水量减少了 16.5%，而与此同时，部分地区却遭遇了极端降雨和洪涝灾害。研究人员将这些下降归因于太平洋厄尔尼诺现象与热带北大西洋同时变暖之间的一种不同寻常的相互作用。虽然厄尔尼诺现象通常会抑制亚马逊地区的降雨，但异",
-      "url": "https://www.solidot.org/story?sid=86007",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
       "title": "Context Scaling: A New Frontier of AI Scaling",
       "date": "Fri, 27 Nov 2026 05:00:00 GMT",
       "summary": "arXiv:2611.33160v1 Announce Type: new Abstract: Many failures of deployed AI arise not from weak inference but from a mismatch between the state a task depends on and the context available when the system acts. Relevant user state, repository revisions, tool traces, sensor readings, or environment changes may be unavailable, distorted, or poorly selected. We call the effort to reduce this bottleneck context scaling. We frame a model as $P_\\theta(d\\mid c)$ within a system governed by three budget",
@@ -182,24 +279,6 @@
       "source_name": "arxiv"
     },
     {
-      "title": "How Startups Are Using AI to Disrupt Industries",
-      "url": "https://every.to/source-code/ai-startups",
-      "date": "2026-11-26T07:44:43.949Z",
-      "summary": "Exploring the ways AI-powered startups are transforming traditional business models.",
-      "category": "Source Code",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "The Future of Work in an AI-Driven World",
-      "url": "https://every.to/context-window/future-of-work",
-      "date": "2026-11-25T07:44:43.949Z",
-      "summary": "How artificial intelligence is reshaping the workplace and what it means for workers.",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
       "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
       "date": "Tue, 24 Nov 2026 13:00:00 GMT",
       "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
@@ -216,15 +295,6 @@
       "category": "Science",
       "source": "OpenAI News",
       "source_name": "openai"
-    },
-    {
-      "title": "Building AI Products: Lessons from the Trenches",
-      "url": "https://every.to/p/building-ai-products",
-      "date": "2026-11-24T07:44:43.949Z",
-      "summary": "Practical insights from builders creating AI-powered products.",
-      "category": "Product",
-      "source": "Every.to",
-      "source_name": "every"
     },
     {
       "title": "How Intentful uses dots to make more time for growth",
@@ -261,24 +331,6 @@
       "category": "Security",
       "source": "OpenAI News",
       "source_name": "openai"
-    },
-    {
-      "title": "AI Agents: The Next Evolution of Automation",
-      "url": "https://every.to/source-code/ai-agents",
-      "date": "2026-11-23T07:44:43.949Z",
-      "summary": "Understanding autonomous AI agents and their potential impact on software.",
-      "category": "Source Code",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "The Economics of AI: Costs, Benefits, and ROI",
-      "url": "https://every.to/context-window/ai-economics",
-      "date": "2026-11-22T07:44:43.949Z",
-      "summary": "A deep dive into the financial aspects of implementing AI solutions.",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
     }
   ]
 }
