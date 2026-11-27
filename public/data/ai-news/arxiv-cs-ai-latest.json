@@ -1,65 +1,53 @@
 {
   "source": "arXiv CS.AI",
   "source_url": "https://export.arxiv.org/rss/cs.AI",
-  "fetch_time": "2026-11-26T20:35:35.663Z",
+  "fetch_time": "2026-11-27T07:44:44.156Z",
   "articles": [
     {
-      "title": "Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition",
-      "date": "Thu, 26 Nov 2026 05:00:00 GMT",
-      "summary": "arXiv:2611.31284v1 Announce Type: new Abstract: Autonomous agent governance is commonly framed as a problem of enforcing correct execution. However, in multi-agent systems, an equally fundamental question precedes execution: which agents are allowed to act. In this paper, we show that allocation is not an auxiliary concern but a structural component of governance. When multiple agents compete for execution under constrained resources, any allocation mechanism introduces unavoidable trade-offs be",
-      "url": "https://arxiv.org/abs/2611.31284",
-      "category": [
-        "cs.AI",
-        "cs.MA"
-      ]
-    },
-    {
-      "title": "MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake",
-      "date": "Thu, 26 Nov 2026 05:00:00 GMT",
-      "summary": "arXiv:2611.31301v2 Announce Type: new Abstract: Audio-video (AV) deepfakes can fake the face, the voice, or both. Most benchmarks only ask whether a clip is real or fake, so they cannot show whether a detector relies on the picture, the voice, or encoding traces. We present MOZAIC, a paired benchmark with a 4-way label in which every source clip is released in all four combinations of real or fake video and real or fake audio so each modality contribution can be measured directly. Fakes cover in",
-      "url": "https://arxiv.org/abs/2611.31301",
-      "category": [
-        "cs.AI",
-        "cs.CV",
-        "cs.SD"
-      ]
-    },
-    {
-      "title": "Conservative Overlap Fuzzy Rough Sets for Incomplete Data",
-      "date": "Thu, 26 Nov 2026 05:00:00 GMT",
-      "summary": "arXiv:2611.31329v1 Announce Type: new Abstract: Attribute reduction in incomplete information systems is difficult because missing values break the equivalence-class structure of rough set theory. We propose the Conservative Overlap Fuzzy Rough Set (COFRS) model. Each object is described by its set of present attributes. The similarity of two objects is a weighted overlap on the attributes present in both, divided by the fixed number of attributes |A| instead of the size of their union, so missi",
-      "url": "https://arxiv.org/abs/2611.31329",
-      "category": [
-        "cs.AI",
-        "cs.LG"
-      ]
-    },
-    {
-      "title": "Beyond Static Charts: Benchmarking Interactive Chart-to-Code Generation for MLLMs",
-      "date": "Thu, 26 Nov 2026 05:00:00 GMT",
-      "summary": "arXiv:2611.31345v1 Announce Type: new Abstract: In recent years, multimodal large language models (MLLMs) have achieved significant progress in chart-to-code generation. However, existing benchmarks mainly focus on static charts, overlooking interactive charts that enable richer and more expressive data exploration. Unlike static chart-to-code generation, which emphasizes visual consistency, interactive chart-to-code evaluation targets behavioral consistency, requiring chart states to evolve cor",
-      "url": "https://arxiv.org/abs/2611.31345",
-      "category": [
-        "cs.AI",
-        "cs.CV"
-      ]
-    },
-    {
-      "title": "What People Choose Not to Say: A Multimodal Benchmark for Fine-Grained Information Manipulation in Conversations",
-      "date": "Thu, 26 Nov 2026 05:00:00 GMT",
-      "summary": "arXiv:2611.31346v1 Announce Type: new Abstract: Recent advances in MLLMs have improved social understanding, enabling models to recognize emotions and distinguish truthful from deceptive behaviors. However, existing benchmarks largely focus on coarse-grained emotion recognition or binary truth-deception detection, overlooking the diverse ways people manipulate information in conversations, such as withholding, leakage, fabrication, evasion, and defensive counterclaim. Understanding these behavio",
-      "url": "https://arxiv.org/abs/2611.31346",
-      "category": [
-        "cs.AI",
-        "cs.CL"
-      ]
-    },
-    {
-      "title": "Antares-Smaug: Adversarial Names, Tokens and Attack Rewrites: Sanitisers Miss Unseen Generalisations",
-      "date": "Thu, 26 Nov 2026 05:00:00 GMT",
-      "summary": "arXiv:2611.31347v1 Announce Type: new Abstract: Laya is an open decision model: given a text, a question and K named options with descriptions, it returns one probability per option in a single pass, and software may act on the answer unseen. We attack six Laya models with 81 programmatic edits of 566 synthetic items (injected sentences, label leaks, edited descriptions, decoy options, invisible and look-alike characters, floods) and report the share of correctly answered items hijacked or lost,",
-      "url": "https://arxiv.org/abs/2611.31347",
+      "title": "Context Scaling: A New Frontier of AI Scaling",
+      "date": "Fri, 27 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2611.33160v1 Announce Type: new Abstract: Many failures of deployed AI arise not from weak inference but from a mismatch between the state a task depends on and the context available when the system acts. Relevant user state, repository revisions, tool traces, sensor readings, or environment changes may be unavailable, distorted, or poorly selected. We call the effort to reduce this bottleneck context scaling. We frame a model as $P_\\theta(d\\mid c)$ within a system governed by three budget",
+      "url": "https://arxiv.org/abs/2611.33160",
       "category": "cs.AI"
+    },
+    {
+      "title": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+      "date": "Fri, 27 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2611.33161v1 Announce Type: new Abstract: When an LLM or VLM produces several candidate answers, picking the best one usually relies on the model's own confidence, a learned judge model, or a domain check. Each has a known weakness: an answer can be fluent but insecure, mathematically plausible but physically infeasible, or rated highly by a judge while quietly breaking a task requirement. We propose a scoring framework that combines a small set of hard checks every answer must pass with a",
+      "url": "https://arxiv.org/abs/2611.33161",
+      "category": "cs.AI"
+    },
+    {
+      "title": "AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics",
+      "date": "Fri, 27 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2611.33165v1 Announce Type: new Abstract: AI systems are increasingly capable of producing machine-checked Lean proofs of advanced mathematical results. Real mathematical formalization, however, is not isolated theorem proving: it requires building the definitions and intermediate lemmas that connect a result to a formal library. Existing evaluations often provide isolated theorem statements in settings where much of this supporting theory is already available in Mathlib. We introduce Auto",
+      "url": "https://arxiv.org/abs/2611.33165",
+      "category": "cs.AI"
+    },
+    {
+      "title": "General-Purpose Decision Models for AI Configuration Tuning",
+      "date": "Fri, 27 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2611.33190v1 Announce Type: new Abstract: AI configuration tuning searches for settings that improve the performance of AI systems under a limited budget. Existing tuners use different sampling and search policies, making the choice of decision strategy central to both tuning quality and cost. We investigate whether general-purpose decision models can guide tuning, using Jev as a deployed representative that returns structured choices and numeric scores across diverse tasks. To assess wher",
+      "url": "https://arxiv.org/abs/2611.33190",
+      "category": "cs.AI"
+    },
+    {
+      "title": "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning",
+      "date": "Fri, 27 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2611.33263v1 Announce Type: new Abstract: The growing use of large language models (LLMs) for mental health support raises important safety concerns. Existing guard models primarily identify categories of harmful content, often overlooking the context needed to determine an appropriate response. We introduce a clinically grounded taxonomy that characterizes harm along three dimensions: what the harm is, who is involved, and when it occurs. It further separates harm characterization from in",
+      "url": "https://arxiv.org/abs/2611.33263",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data",
+      "date": "Fri, 27 Nov 2026 05:00:00 GMT",
+      "summary": "arXiv:2611.33303v1 Announce Type: new Abstract: Procedurally generated logic problems are used to both evaluate and train reasoning in language models. Their difficulty is usually set by planting a proof, that is, by sampling a proof of the desired depth and stating its premises as the problem. However, a planted proof is only one possible proof. A problem can also have shorter proofs, or several unrelated ones, and its stated depth then overstates what solving it requires. We measure what a pro",
+      "url": "https://arxiv.org/abs/2611.33303",
+      "category": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LO"
+      ]
     }
   ],
   "status": "success",
