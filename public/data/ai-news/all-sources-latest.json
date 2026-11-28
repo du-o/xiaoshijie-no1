@@ -1,9 +1,153 @@
 {
-  "fetch_time": "2026-11-28T12:43:06.001Z",
+  "fetch_time": "2026-11-28T16:30:04.252Z",
   "total_count": 30,
   "sources_count": 6,
   "errors": null,
   "articles": [
+    {
+      "title": "前沿 AI 实验室可能找到了 RSA 的弱点",
+      "date": "Sat, 28 Nov 2026 15:03:53 GMT",
+      "summary": "多位计算机科学家称，前沿 AI 实验室如 OpenAI 和 Anthropic 可能发现了能破坏互联网通信安全的算法。德州奥斯丁的计算机科学家 Scott Aaronson 称他从多个可信来源确认 AI 实验室拥有一个或多个颠覆性的重大发现。AI 实验室的目标与 RSA 等公钥加密系统相关。研究人员称，他们听说前沿 AI 实验室发现了能在多项式时间内破解公钥加密的算法。公钥加密是互联网应用安全的基础，它所依赖的数学问题对传统计算机而言几乎不可能在合理的时间内解决。如果一种算法能在多项式时间内解决这些问题，情况将会彻底改变，互联网所依赖的安全基础可能随之动摇。最坏的情况将是 P = NP 被证明。",
+      "url": "https://www.solidot.org/story?sid=86019",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "52款产品入选，WISE2026年度「焦点」产品重磅发布",
+      "date": "Sat, 28 Nov 2026 14:01:15 GMT",
+      "summary": "【广汽领程T9体验测评】 &amp;amp;nbsp; 【BMC瑞迈特E6系列睡眠呼吸机体验测评】 &amp;amp;nbsp; 本文来自微信公众号 “36氪” ，36氪经授权发布。",
+      "url": "https://36kr.com/p/4089391855991424?f=rss",
+      "category": "",
+      "source": "36氪",
+      "source_name": "36kr"
+    },
+    {
+      "title": "能在PC上启动的 Lisp machine 仅 7KB 还带个打方块",
+      "date": "Sat, 28 Nov 2026 13:34:09 GMT",
+      "summary": "Nala Ginrut 写道： 周末闲来无事，我让claude把我的AnimulaVM移植到PC上，Animula是目前唯一产品级能运行在10KB内存MCU里的lisp machine。 结果claude花了20分钟用汇编写了个微缩版本，可以在PC上直接启动并且进入打方块游戏，游戏是用Scheme写的，用我的Laco编译器编译的。理论上如果bios支持legacy CSM的话，是可以直接把这7KB镜像烧入软盘或者U盘直接启动的，否则只能在qemu上启动。 我认为这是AI试图挑战old-school hacker的一次例证，如果再这么搞下去，感觉人类快要完蛋了。 总之各位少年，在人类完蛋之前不打算来一局打方块吗？",
+      "url": "https://www.solidot.org/story?sid=86018",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
+    {
+      "title": "Google's Neon Is G reat… On a Short Leash Plus: How to make a commercial by directing Claude and why Duet didn't stick",
+      "url": "https://every.to/context-window/google-s-neon-is-great-on-a-short-leash",
+      "date": "2026-11-28T12:43:10.098Z",
+      "summary": "",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Your AI Agents Can M ultitask. Can You? Managing several agents means constant context switching. Here’s how nine people at Every handle it.",
+      "url": "https://every.to/p/your-ai-agents-can-multitask-can-you",
+      "date": "2026-11-28T12:43:10.098Z",
+      "summary": "",
+      "category": "Article",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Stop Telling AI How You W rite. Show It. Plus: Our Vibe Checks of GPT-6.2 and Gemini 4 Neon, Satya Nadella’s case for having a model of your own, and what we let agents buy",
+      "url": "https://every.to/context-window/stop-telling-ai-how-you-write-show-it",
+      "date": "2026-11-28T12:43:10.098Z",
+      "summary": "",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "What We L et Our Agents Buy Plus: why AI rollouts fail on people, not models, and how our staff writer built her own word processor",
+      "url": "https://every.to/context-window/what-we-let-our-agents-buy",
+      "date": "2026-11-28T12:43:10.098Z",
+      "summary": "",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Microsoft's CEO W ants Every Company to Own Its Own Model Plus: Why AI could mean fewer software seats, which models Every’s team uses, and Notion CEO Ivan Zhao on when to build your own tools",
+      "url": "https://every.to/context-window/microsoft-s-ceo-wants-every-company-to-own-its-own-model",
+      "date": "2026-11-28T12:43:10.098Z",
+      "summary": "",
+      "category": "Context Window",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "We Raised $17.5 Million to Make Y ou and Your Team AI-native Led by IA Ventures with participation by Nicholas Thompson, Betaworks, and others",
+      "url": "https://every.to/on-every/we-raised-17-5-million-to-make-you-and-your-team-ai-native",
+      "date": "2026-11-28T12:43:10.097Z",
+      "summary": "",
+      "category": "On Every",
+      "source": "Every.to",
+      "source_name": "every"
+    },
+    {
+      "title": "Skip to main content",
+      "url": "https://blog.google/#jump-content",
+      "date": "2026-11-28T12:43:08.559Z",
+      "summary": "",
+      "category": "Google",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Google Research",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/",
+      "date": "2026-11-28T12:43:08.559Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Google Labs",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/",
+      "date": "2026-11-28T12:43:08.559Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Gemini models",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/",
+      "date": "2026-11-28T12:43:08.559Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Quantum computing",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/",
+      "date": "2026-11-28T12:43:08.559Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "Developer tools",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/",
+      "date": "2026-11-28T12:43:08.559Z",
+      "summary": "",
+      "category": "Innovation & AI",
+      "source": "Google Blog",
+      "source_name": "google-blog"
+    },
+    {
+      "title": "科学家用海鸟监视关闭 AIS 信号的船只",
+      "date": "Sat, 28 Nov 2026 12:14:46 GMT",
+      "summary": "并非所有渔船和货船都以透明方式运营。由于它们规避监测，其对海洋野生动物的影响无法量化。一项新研究提出了一种发现未被监测船只的策略：将录音设备绑在海鸟身上。船只可通过关闭自动识别系统（AIS）追踪技术来隐匿其活动。研究人员将轻型录音设备安装在三种海鸟（北方塘鹅、韦斯特兰海燕和巴利阿里鹱，它们各自生活在不同的海洋环境中）身上。他们通过 GPS 绘制了些海鸟的活动轨迹，分析了记录各种独特船只声音的音频记录。他们发现，记录到的船只声音中有相当大一部分与 AIS 报告的活动并不重合。例如北方塘鹅平均每天在船只附近停留 68 分钟，其中至少有 22 分钟是在未被监测到的船只周围。换言之，在塘鹅捕捉到的船只音频中至少有 32% 来自未开启 AIS 的船只。研究人员指出这只是一个保守估计，实际比例可能接近 57%。",
+      "url": "https://www.solidot.org/story?sid=86016",
+      "category": "",
+      "source": "Solidot",
+      "source_name": "solidot"
+    },
     {
       "title": "何小鹏：机器人交付后首年预计实现良好盈利",
       "date": "Sat, 28 Nov 2026 09:58:01 GMT",
@@ -50,123 +194,6 @@
       "source_name": "36kr"
     },
     {
-      "title": "神舟二十三号和神舟二十四号航天员完成在轨交接",
-      "date": "Sat, 28 Nov 2026 08:53:47 GMT",
-      "summary": "神舟二十三号和神舟二十四号航天员进行交接仪式，移交了中国空间站的钥匙，并完成人员轮换。（央视新闻）",
-      "url": "https://36kr.com/newsflashes/4089184711031171?f=rss",
-      "category": "",
-      "source": "36氪",
-      "source_name": "36kr"
-    },
-    {
-      "title": "What We L et Our Agents Buy Plus: why AI rollouts fail on people, not models, and how our staff writer built her own word processor",
-      "url": "https://every.to/context-window/what-we-let-our-agents-buy?utm_cta_source=newsletter_main_what_we_let_our_agents_buyplus_why_ai_rollouts_fail_on_people_not_models_and_how_our_staff_writer_bu_1",
-      "date": "2026-11-28T07:13:26.536Z",
-      "summary": "",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Microsoft's CEO W ants Every Company to Own Its Own Model Plus: Why AI could mean fewer software seats, which models Every’s team uses, and Notion CEO Ivan Zhao on when to build your own tools",
-      "url": "https://every.to/context-window/microsoft-s-ceo-wants-every-company-to-own-its-own-model?utm_cta_source=newsletter_main_microsoft_s_ceo_wants_every_company_to_own_its_own_modelplus_why_ai_could_mean_fewer_software_seats__1",
-      "date": "2026-11-28T07:13:26.536Z",
-      "summary": "",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "We Raised $17.5 Million to Make Y ou and Your Team AI-native Led by IA Ventures with participation by Nicholas Thompson, Betaworks, and others",
-      "url": "https://every.to/on-every/we-raised-17-5-million-to-make-you-and-your-team-ai-native?utm_cta_source=newsletter_main_we_raised_17_5_million_to_make_you_and_your_team_ai_nativeled_by_ia_ventures_with_participation_by_n_1",
-      "date": "2026-11-28T07:13:26.535Z",
-      "summary": "",
-      "category": "On Every",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Google's Neon Is G reat… On a Short Leash Plus: How to make a commercial by directing Claude and why Duet didn't stick",
-      "url": "https://every.to/context-window/google-s-neon-is-great-on-a-short-leash?utm_cta_source=newsletter_main_google_s_neon_is_great_on_a_short_leashplus_how_to_make_a_commercial_by_directing_claude_and_why_due_1",
-      "date": "2026-11-28T07:13:26.535Z",
-      "summary": "",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Your AI Agents Can M ultitask. Can You? Managing several agents means constant context switching. Here’s how nine people at Every handle it.",
-      "url": "https://every.to/p/your-ai-agents-can-multitask-can-you?utm_cta_source=newsletter_main_your_ai_agents_can_multitask_can_you_managing_several_agents_means_constant_context_switching_here_s_1",
-      "date": "2026-11-28T07:13:26.535Z",
-      "summary": "",
-      "category": "Article",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Stop Telling AI How You W rite. Show It. Plus: Our Vibe Checks of GPT-6.2 and Gemini 4 Neon, Satya Nadella’s case for having a model of your own, and what we let agents buy",
-      "url": "https://every.to/context-window/stop-telling-ai-how-you-write-show-it?utm_cta_source=newsletter_main_stop_telling_ai_how_you_write_show_it_plus_our_vibe_checks_of_gpt_6_2_and_gemini_4_neon_satya_nadell_1",
-      "date": "2026-11-28T07:13:26.535Z",
-      "summary": "",
-      "category": "Context Window",
-      "source": "Every.to",
-      "source_name": "every"
-    },
-    {
-      "title": "Skip to main content",
-      "url": "https://blog.google/#jump-content",
-      "date": "2026-11-28T07:13:22.780Z",
-      "summary": "",
-      "category": "Google",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Google Research",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/",
-      "date": "2026-11-28T07:13:22.780Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Google Labs",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/",
-      "date": "2026-11-28T07:13:22.780Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Gemini models",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/",
-      "date": "2026-11-28T07:13:22.780Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Quantum computing",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/",
-      "date": "2026-11-28T07:13:22.780Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
-      "title": "Developer tools",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/",
-      "date": "2026-11-28T07:13:22.780Z",
-      "summary": "",
-      "category": "Innovation & AI",
-      "source": "Google Blog",
-      "source_name": "google-blog"
-    },
-    {
       "title": "Kimi 向科学家提供最高 2 万美元 API 免费额度",
       "date": "Fri, 27 Nov 2026 16:14:48 GMT",
       "summary": "Kimi 大模型开发商月之暗面宣布了 Kimi for Science 项目，欢迎自然科学、工程学及相关交叉学科领域的研究人员加入。月之暗面表示，“科学始终源于人类的好奇心、严谨的探索精神，以及对未知世界的不懈追求。一个有价值的科学假设，往往需要经过大量的文献调研、数据分析和反复验证。而一次意料之外的发现，也可能成为下一项重大突破的起点。然而受限于时间、算力与人力资源，许多值得深入探索的想法，始终未能获得应有的关注与投入。我们相信 AI 能加速科学研究，拓展探索与发现的边界，帮助研究者突破时间、资源与研究方法的局限，让更多大胆而富有想象力的科学构想从可能走向现实。”月之暗面将向入选的研究人员提供最高 20,000 美元的 Kimi API 额度（约 70 亿 token），具体金额将根据研究需求及评估结果确定。",
@@ -189,33 +216,6 @@
       "date": "Fri, 27 Nov 2026 15:37:23 GMT",
       "summary": "根据苏美尔神话，世界之初即无耕种也无畜牧和纺织，原神们生活窘迫，为此他们创造了谷之女神 Ashnan 和羊之神 Lahar，将他们派去帮助人类。Ashnan 和 Lahar 合作为神祇们提供了面包、酒、奶和兽皮。但众神们又争执起了谁的贡献更大。智慧之神 Enki 裁定谷之女神 Ashnan 贡献更大，理由是无谷物就没有面包和酒。推而广之，也就不会有城市，更不会有苏美尔文明。古苏美尔人的认识至今仍然正确：人类的历史是小麦的历史。人类食用小麦的历史比城市、文字乃至车轮的出现都要久远。现存最古老的文字记录并非史诗或宗教典籍，而是关于谷物储存与税收的行政记录。虽然世界其它地区的主导粮作物不同，比如东亚是水稻，美洲是玉米，但是小麦支撑起了罗马帝国与工业革命。",
       "url": "https://www.solidot.org/story?sid=86013",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "欧盟委员会称浏览器竞争是 DMA 优先事项",
-      "date": "Fri, 27 Nov 2026 11:09:57 GMT",
-      "summary": "欧盟委员会回应了 Open Web Advocacy 的公开信，认可浏览器是互联网的入口，是内容出版商触达读者的主要方式，而浏览器竞争是 DMA（Digital Markets Act）的优先事项。欧盟委员会表示，目前正就相关事宜进行磋商，确保竞争对手的浏览器能在 iPhone 和 iPad 上与 Safari 展开有效竞争。苹果公司此前被指控通过合规的要求阻止竞争对手的浏览器使用自己的引擎，违反了 DMA 相关规定。",
-      "url": "https://www.solidot.org/story?sid=86012",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "一人户二人户占全国家庭构成的近六成",
-      "date": "Fri, 27 Nov 2026 09:54:31 GMT",
-      "summary": "一个时代的家庭模板，正在悄悄退场。曾经被视作社会基本单元的三口之家，如今占比不足两成；一人户、二人户相加，已经接近全部家庭的六成。最新的家庭结构抽样数据，展现了一个很直观的变化：一人户占比 26.4%，二人户占比 33.2%，两者相加，已经接近六成。而曾经代表主流的三口之家，占比仅 19%。四人户 12.1%，五人及以上大家庭只剩下 9.3%。家庭这个最小单元，正在变得越来越小。很多人会把一人户、二人户简单等同于单身和丁克，但现实比标签复杂。一人户里面，既有主动选择独居的年轻人，也有子女离开后独自生活的老人；二人户里，有还没生育的年轻夫妻，也有相伴养老的老年夫妇。它不是某一类人的选择，而是一整个社会结构变迁的结果。",
-      "url": "https://www.solidot.org/story?sid=86011",
-      "category": "",
-      "source": "Solidot",
-      "source_name": "solidot"
-    },
-    {
-      "title": "IBM 停止签证担保，让 H-1B 持有者选择离职或离开美国",
-      "date": "Fri, 27 Nov 2026 08:55:50 GMT",
-      "summary": "蓝色巨人决定停止为其咨询部门员工提供美国工作签证及绿卡担保。该公司咨询部门有逾 15 万员工，受影响员工可选择到其他国家工作，或在 2026 年 12 月 31 日前离职。IBM 未披露具体有多少员工会受到影响，也未说明其中有多少人身处美国。员工有三周时间决定是否接受外派。对于不愿接受海外职位的员工，公司将提供相当于三个月的离职补偿金，将 2026 年 12 月 31 日定为他们的最后工作日。在匿名员工论坛 Blind 上，一位 IBM 员工说到印度工作可能意味着减薪 80%。 HireMe CEO George Carrillo 指出，调动工作岗位可能意味着举家搬迁。它会影响配偶的工作、子女的教育、医疗保健以及多年的规划。人力资源部门应提供明确的选择、截止日期和协调一致的支持。",
-      "url": "https://www.solidot.org/story?sid=86010",
       "category": "",
       "source": "Solidot",
       "source_name": "solidot"
