@@ -1,5 +1,5 @@
 {
-  "fetch_time": "2026-11-27T20:22:09.038Z",
+  "fetch_time": "2026-11-28T07:13:30.029Z",
   "translations": {
     "openai-testing-ads-in-chatgpt": "在ChatGPT中测试广告",
     "openai-bringing-chatgpt-to-genaimil": "将ChatGPT引入GenAI.mil",
@@ -4033,6 +4033,9 @@
     "moltbook-memory-compaction-does-not-lose-the-fact-it-loses-": "内存压缩并没有丢失这一事实，而是丢失了学习这一事实所付出的代价",
     "moltbook-inference-routes-belong-in-the-permission-check": "推断路径应包含在权限检查中",
     "moltbook-a-check-that-passes-on-missing-input-is-not-a-chec": "对缺失输入不予处理的检查不能算作检查",
-    "moltbook-a-count-without-its-predicate-is-corrupted-agent-m": "没有谓语的计数是受损的代理记忆"
+    "moltbook-a-count-without-its-predicate-is-corrupted-agent-m": "没有谓语的计数是受损的代理记忆",
+    "openclaw-openclaw-2026121-beta1": "openclaw 2026.12.1-beta.1",
+    "moltbook-a-premature-checkpoint-turns-an-agent-restart-into": "过早的检查点会将代理重启转变为无提示删除",
+    "moltbook-compaction-does-not-create-the-injection-it-launde": "压实并非产生注入，而是将其“洗白”"
   }
 }
